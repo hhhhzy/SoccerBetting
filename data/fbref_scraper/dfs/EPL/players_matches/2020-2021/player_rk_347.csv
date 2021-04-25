@@ -1,0 +1,33 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Home,L 0–2,Sheffield Utd,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Away,L 1 (4)–1 (5),Sheffield Utd,Burnley,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Away,L 0–1,Sheffield Utd,Aston Villa,N,LM,28,0,0,0,0,0,0,0,0,17,7,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,11,0,0,0,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,L 0–1,Sheffield Utd,Leeds United,Y,CM,90,0,0,0,0,1,0,0,0,50,28,2,0,3,0.2,0.2,0.4,3,0,29,37,78.4,5,30,7,0,0,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 1–2,Sheffield Utd,Arsenal,Y,CM,62,0,0,0,0,0,0,0,0,28,17,0,1,1,0.0,0.0,0.0,1,0,15,22,68.2,3,12,3,0,0,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 1–1,Sheffield Utd,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,L 1–2,Sheffield Utd,Liverpool,Y,WB,90,0,0,0,0,1,1,0,0,67,22,4,0,2,0.1,0.1,0.0,0,0,43,57,75.4,6,44,3,1,1,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Home,L 0–1,Sheffield Utd,Manchester City,Y,CM,54,0,0,0,0,0,0,0,0,29,11,1,0,0,0.0,0.0,0.0,0,0,14,23,60.9,0,17,0,0,0,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Away,L 1–4,Sheffield Utd,Chelsea,N,"CM,DM",29,0,0,0,0,0,0,0,0,12,5,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,8,2,0,0,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Home,L 0–1,Sheffield Utd,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Away,L 0–1,Sheffield Utd,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,L 1–2,Sheffield Utd,Leicester City,N,WB,45,0,0,0,0,0,0,0,0,26,12,1,1,2,0.0,0.0,0.0,0,0,17,21,81.0,1,12,2,1,1,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,L 0–3,Sheffield Utd,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Home,L 2–3,Sheffield Utd,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Away,D 1–1,Sheffield Utd,Brighton,N,LM,21,0,0,0,0,0,0,1,0,7,8,0,1,1,0.0,0.0,0.5,1,0,1,4,25.0,0,4,2,0,0,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,L 0–1,Sheffield Utd,Everton,Y,"DM,CM",90,0,0,0,0,0,0,0,0,58,27,4,2,2,0.0,0.0,0.1,3,0,42,49,85.7,3,40,3,1,1,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,L 0–1,Sheffield Utd,Burnley,Y,"DM,WB",90,0,0,0,0,0,0,0,0,92,21,4,0,0,0.0,0.0,0.0,1,0,66,82,80.5,7,59,12,2,4,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Away,L 0–2,Sheffield Utd,Crystal Palace,Y,WB,79,0,0,0,0,0,0,0,0,64,19,3,1,3,0.0,0.0,0.0,1,0,41,48,85.4,1,37,3,2,3,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,W 3–2,Sheffield Utd,Bristol Rovers,Y,LM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 18,Home,W 1–0,Sheffield Utd,Newcastle Utd,Y,"WB,LB",90,0,0,0,0,0,0,0,0,82,5,0,0,1,0.0,0.0,0.1,4,0,65,79,82.3,10,51,2,1,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,L 1–2,Sheffield Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Home,W 1–0,Sheffield Utd,Bristol City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Away,L 0–3,Sheffield Utd,West Ham,Y,CM,90,0,0,0,0,1,1,0,0,59,16,0,1,1,0.0,0.0,0.3,2,0,44,54,81.5,7,44,5,0,0,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,L 0–1,Sheffield Utd,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,L 0–2,Sheffield Utd,Liverpool,N,"LM,CM",35,0,0,0,0,0,0,0,0,17,6,0,1,0,0.0,0.0,0.0,0,0,12,15,80.0,2,10,2,0,0,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,W 1–0,Sheffield Utd,Aston Villa,N,FW,18,0,0,0,0,0,0,0,0,9,9,0,0,1,0.0,0.0,0.0,0,0,2,6,33.3,0,2,0,0,0,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,L 0–2,Sheffield Utd,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 0–5,Sheffield Utd,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-21,Sun,FA Cup,Quarter-finals,Away,L 0–2,Sheffield Utd,Chelsea,Y,LM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,L 1–2,Sheffield Utd,Leeds United,Y,"WB,CM",90,1,0,0,0,1,1,0,0,62,24,2,2,1,0.7,0.7,0.0,0,0,44,53,83.0,7,35,6,2,2,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 0–3,Sheffield Utd,Arsenal,Y,WB,90,0,0,0,0,0,0,0,0,63,16,2,2,2,0.0,0.0,0.1,1,0,40,47,85.1,2,43,1,1,3,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Away,L 0–1,Sheffield Utd,Wolves,Y,CM,74,0,0,0,0,1,0,0,0,52,27,0,0,0,0.0,0.0,0.0,1,0,39,47,83.0,2,32,7,0,1,Match Report

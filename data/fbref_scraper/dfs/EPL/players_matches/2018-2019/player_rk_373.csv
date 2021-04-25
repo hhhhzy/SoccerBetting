@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,L 0–2,Brighton,Watford,Y,CM,90,0,0,0,0,1,0,0,0,59,16,1,1,3,0.1,0.1,0.0,0,0,33,40,82.5,4,38,0,1,1,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Home,W 3–2,Brighton,Manchester Utd,Y,CM,90,0,0,0,0,0,0,0,0,42,31,6,0,4,0.0,0.0,0.0,1,0,24,30,80.0,1,25,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,L 0–1,Brighton,Liverpool,Y,CM,90,0,0,0,0,0,0,0,0,44,18,1,1,2,0.0,0.0,0.0,1,0,24,31,77.4,1,30,2,1,1,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,L 0–1,Brighton,Southampton,N,,28,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,D 2–2,Brighton,Fulham,Y,CM,73,0,0,0,0,0,0,1,0,29,20,1,2,0,0.0,0.0,0.0,0,0,17,23,73.9,1,20,0,0,0,Match Report
+2018-2019,2018-09-06,Thu,Friendlies (M),Friendlies (M),Home,W 2–1,nl Netherlands,pe Peru,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League A,Away,L 1–2,nl Netherlands,fr France,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-17,Mon,Premier League,Matchweek 5,Away,D 2–2,Brighton,Southampton,Y,CM,90,0,0,0,0,1,0,0,0,36,22,0,1,1,0.1,0.1,0.1,2,0,22,30,73.3,3,31,2,2,3,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,L 1–2,Brighton,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,16,22,1,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,9,0,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Brighton,Manchester City,Y,DM,90,0,0,0,0,0,0,0,0,30,26,3,2,0,0.0,0.0,0.0,0,0,16,22,72.7,1,20,1,0,0,Match Report
+2018-2019,2018-10-05,Fri,Premier League,Matchweek 8,Home,W 1–0,Brighton,West Ham,Y,DM,79,0,0,0,0,0,0,0,0,37,20,2,0,1,0.0,0.0,0.0,1,0,24,30,80.0,1,24,2,0,1,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,D 1–1,Brighton,Leicester City,Y,CM,90,0,0,0,0,0,0,0,0,60,13,2,2,1,0.0,0.0,0.1,3,0,43,52,82.7,5,43,5,1,1,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,W 2–1,Brighton,Huddersfield,Y,DM,90,0,0,0,0,0,0,0,0,88,10,2,0,1,0.0,0.0,0.0,1,0,72,82,87.8,10,70,13,1,1,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Home,W 3–1,Brighton,Crystal Palace,Y,"CM,DM",90,0,0,0,0,0,0,0,0,51,24,1,5,4,0.0,0.0,0.0,1,0,31,36,86.1,4,33,1,2,2,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–1,Brighton,Burnley,Y,DM,90,0,0,0,0,1,0,0,0,67,10,2,1,0,0.0,0.0,0.0,2,0,48,59,81.4,6,50,4,3,3,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,L 1–2,Brighton,Chelsea,Y,DM,90,0,0,0,0,0,0,0,0,65,23,2,0,7,0.0,0.0,0.0,0,0,47,53,88.7,3,37,0,2,3,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,L 0–2,Brighton,Bournemouth,Y,"DM,CM",90,0,0,0,0,0,0,0,0,53,26,1,1,1,0.0,0.0,0.0,0,0,38,52,73.1,7,42,3,2,2,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,D 1–1,Brighton,Arsenal,Y,CM,90,0,0,0,0,3,1,0,0,54,30,4,1,3,0.3,0.3,0.0,2,0,29,42,69.0,1,34,1,0,1,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,W 1–0,Brighton,Everton,Y,CM,90,0,0,0,0,1,0,0,0,48,23,4,0,0,0.0,0.0,0.2,2,0,21,36,58.3,4,27,3,4,4,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,D 2–2,Brighton,West Ham,Y,CM,90,0,0,0,0,0,0,0,0,54,22,2,0,1,0.0,0.0,0.1,4,0,34,46,73.9,4,34,3,2,4,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Away,W 3–1,Brighton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,L 0–1,Brighton,Liverpool,Y,AM,90,0,0,0,0,0,0,0,0,30,27,0,2,0,0.0,0.0,0.0,0,0,15,23,65.2,3,24,1,1,1,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 1–2,Brighton,Manchester Utd,Y,CM,90,0,1,0,0,0,0,0,0,64,22,2,2,0,0.0,0.0,0.2,3,1,44,57,77.2,9,54,8,3,5,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Home,D 0–0,Brighton,West Brom,N,,28,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,L 2–4,Brighton,Fulham,Y,CM,90,0,0,0,0,2,0,0,0,62,26,1,2,3,0.1,0.1,0.0,1,0,40,46,87.0,6,47,4,3,4,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,D 0–0,Brighton,Watford,Y,DM,90,0,0,0,0,1,0,1,0,81,13,1,2,0,0.0,0.0,0.1,7,0,61,72,84.7,10,59,6,1,2,Match Report
+2018-2019,2019-02-06,Wed,FA Cup,Fourth round,Away,W 3–1,Brighton,West Brom,N,,33,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 1–3,Brighton,Burnley,Y,CM,90,0,0,0,0,3,0,0,0,49,13,0,0,1,0.1,0.1,0.0,2,0,30,41,73.2,6,32,6,1,1,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Away,L 1–2,Brighton,Leicester City,Y,CM,90,1,0,0,0,2,1,0,0,56,32,1,0,1,0.3,0.3,0.0,3,0,37,48,77.1,2,42,5,1,1,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 1–0,Brighton,Huddersfield,Y,CM,90,0,0,0,0,0,0,0,0,64,25,3,0,1,0.0,0.0,0.0,3,0,39,51,76.5,8,38,5,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,W 2–1,Brighton,Crystal Palace,Y,CM,90,0,0,0,0,0,0,0,0,54,15,1,3,6,0.0,0.0,0.0,1,0,22,38,57.9,4,26,4,1,3,Match Report
+2018-2019,2019-03-17,Sun,FA Cup,Quarter-finals,Away,W 2 (5)–2 (4),Brighton,Millwall,Y,CM,120,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–1,Brighton,Southampton,Y,CM,73,0,0,0,0,0,0,0,0,48,13,3,1,1,0.0,0.0,0.0,1,0,25,38,65.8,3,47,5,3,4,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 27,Away,L 0–3,Brighton,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,61,28,1,1,4,0.0,0.0,0.0,1,0,43,48,89.6,5,37,6,0,2,Match Report
+2018-2019,2019-04-06,Sat,FA Cup,Semi-finals,Away,L 0–1,Brighton,Manchester City,Y,CM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,L 0–5,Brighton,Bournemouth,Y,CM,62,0,0,0,0,0,0,0,0,42,14,0,0,2,0.0,0.0,0.0,1,0,26,34,76.5,0,30,5,0,1,Match Report
+2018-2019,2019-04-16,Tue,Premier League,Matchweek 31,Home,L 0–2,Brighton,Cardiff City,Y,CM,90,0,0,0,0,0,0,0,0,83,16,1,1,2,0.0,0.0,0.0,3,0,63,78,80.8,11,60,5,1,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,D 0–0,Brighton,Wolves,Y,CM,9,0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,W 3–1,nl Netherlands,eng England,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Final,Neutral,L 0–1,nl Netherlands,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

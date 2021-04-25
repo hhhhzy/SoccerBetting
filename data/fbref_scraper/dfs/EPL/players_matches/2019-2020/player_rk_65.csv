@@ -1,0 +1,44 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-04,Sun,Championship,Matchweek 1,Home,L 1–3,Bristol City,Leeds United,Y,DM,90,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,Championship,Matchweek 2,Away,D 1–1,Bristol City,Birmingham City,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-13,Tue,EFL Cup,First round,Away,L 3 (4)–3 (5),Bristol City,QPR,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,Championship,Matchweek 3,Home,W 2–0,Bristol City,QPR,Y*,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-20,Tue,Championship,Matchweek 4,Away,W 2–1,Bristol City,Derby County,Y*,DM,90,1,0,0,0,1,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Championship,Matchweek 5,Away,W 3–1,Bristol City,Hull City,Y*,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Championship,Matchweek 6,Home,D 2–2,Bristol City,Middlesbrough,Y*,CM,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Championship,Matchweek 7,Away,W 2–1,Bristol City,Stoke City,Y*,DM,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Championship,Matchweek 8,Home,D 0–0,Bristol City,Swansea City,Y*,CM,90,0,0,0,0,3,1,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Championship,Matchweek 9,Away,D 3–3,Bristol City,Preston,Y*,CM,90,0,1,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-02,Wed,Championship,Matchweek 10,Away,D 1–1,Bristol City,Brentford,Y*,DM,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-05,Sat,Championship,Matchweek 11,Home,W 1–0,Bristol City,Reading,Y*,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Championship,Matchweek 12,Away,L 0–3,Bristol City,Luton Town,Y*,CM,90,0,0,0,0,1,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-23,Wed,Championship,Matchweek 13,Home,W 2–1,Bristol City,Charlton Ath,Y*,CM,90,1,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-27,Sun,Championship,Matchweek 14,Home,D 2–2,Bristol City,Wigan Athletic,Y*,CM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-01,Fri,Championship,Matchweek 15,Away,D 2–2,Bristol City,Barnsley,Y*,CM,29,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-10,Sun,Championship,Matchweek 16,Away,W 1–0,Bristol City,Cardiff City,Y*,CM,90,1,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Championship,Matchweek 17,Home,D 0–0,Bristol City,Nott'ham Forest,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-27,Wed,Championship,Matchweek 18,Away,L 1–4,Bristol City,West Brom,Y,CM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-30,Sat,Championship,Matchweek 19,Home,W 5–2,Bristol City,Huddersfield,Y*,RM,90,1,1,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Championship,Matchweek 20,Away,W 2–1,Bristol City,Fulham,Y*,RM,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Championship,Matchweek 21,Home,L 1–2,Bristol City,Millwall,Y*,RM,90,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-14,Sat,Championship,Matchweek 22,Home,L 0–2,Bristol City,Blackburn,Y*,RM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-22,Sun,Championship,Matchweek 23,Away,L 0–1,Bristol City,Sheffield Weds,Y*,CM,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Championship,Matchweek 24,Away,L 2–3,Bristol City,Charlton Ath,Y*,CM,90,0,0,0,0,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-29,Sun,Championship,Matchweek 25,Home,W 3–0,Bristol City,Luton Town,Y*,DM,90,0,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-01,Wed,Championship,Matchweek 26,Home,L 0–4,Bristol City,Brentford,Y*,CM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-14,Tue,FA Cup,Third round,Away,L 0–1,Bristol City,Shrewsbury,Y*,CM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Championship,Matchweek 28,Home,W 1–0,Bristol City,Barnsley,Y*,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-28,Tue,Championship,Matchweek 29,Away,W 1–0,Bristol City,Reading,Y*,AM,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Away,W 2–1,Burnley,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 3–0,Burnley,Bournemouth,N,DM,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,D 0–0,Burnley,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,D 1–1,Burnley,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-22,Mon,Premier League,Matchweek 30,Away,L 0–5,Burnley,Manchester City,Y,RM,90,0,0,0,0,0,0,1,0,32,8,1,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,17,1,0,0,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Home,W 1–0,Burnley,Watford,Y,RM,90,0,0,0,0,2,0,0,0,44,12,2,0,1,0.2,0.2,0.0,1,1,22,34,64.7,3,19,1,1,1,Match Report
+2019-2020,2020-06-29,Mon,Premier League,Matchweek 32,Away,W 1–0,Burnley,Crystal Palace,Y,"RM,RW",90,0,0,0,0,1,0,0,0,42,13,2,0,2,0.1,0.1,0.0,2,0,24,29,82.8,2,20,3,3,3,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,D 1–1,Burnley,Sheffield Utd,Y,CM,90,0,0,0,0,0,0,0,0,49,10,2,1,2,0.0,0.0,0.0,1,0,36,42,85.7,3,32,2,1,1,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 1–0,Burnley,West Ham,Y,CM,90,0,0,0,0,0,0,0,0,56,15,1,1,1,0.0,0.0,0.0,0,0,41,49,83.7,3,27,3,1,1,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,D 1–1,Burnley,Liverpool,Y,CM,90,0,0,0,0,0,0,0,0,39,13,3,2,2,0.0,0.0,0.0,1,0,19,27,70.4,0,14,2,0,0,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Home,D 1–1,Burnley,Wolves,Y,CM,84,0,0,0,0,1,0,0,0,44,14,2,1,2,0.1,0.1,0.0,1,0,26,33,78.8,0,20,0,0,0,Match Report
+2019-2020,2020-07-18,Sat,Premier League,Matchweek 37,Away,W 2–0,Burnley,Norwich City,Y,DM,90,0,0,0,0,1,0,0,0,50,16,0,0,0,0.0,0.0,0.1,6,0,46,49,93.9,2,34,2,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–2,Burnley,Brighton,Y,CM,90,0,0,0,0,0,0,1,0,52,9,2,0,0,0.0,0.0,0.0,2,0,37,47,78.7,4,30,4,1,1,Match Report

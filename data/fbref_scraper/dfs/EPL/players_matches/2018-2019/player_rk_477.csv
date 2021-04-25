@@ -1,0 +1,72 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-03,Tue,FIFA World Cup,Round of 16,Neutral,W 1 (4)–1 (3),eng England,co Colombia,Y,CB,112,0,0,0,0,0,0,0,0,69,3,0,0,1,0.0,0.0,0.0,0,0,57,59,96.6,5,48,4,1,1,Match Report
+2018-2019,2018-07-07,Sat,FIFA World Cup,Quarter-finals,Neutral,W 2–0,eng England,se Sweden,Y,CB,90,0,0,0,0,0,0,0,0,82,4,0,1,1,0.0,0.0,0.0,0,0,60,78,76.9,7,60,3,3,3,Match Report
+2018-2019,2018-07-11,Wed,FIFA World Cup,Semi-finals,Neutral,L 1–2,eng England,hr Croatia,Y,CB,111,0,0,0,0,0,0,1,0,86,15,2,1,3,0.0,0.0,0.0,0,0,55,63,87.3,4,42,2,0,0,Match Report
+2018-2019,2018-07-14,Sat,FIFA World Cup,Third-place match,Neutral,L 0–2,eng England,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-05,Sun,Community Shield,FA Community Shield,Neutral,W 2–0,Manchester City,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Away,W 2–0,Manchester City,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,78,11,0,2,3,0.0,0.0,0.0,0,0,62,72,86.1,0,55,2,0,1,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Home,W 6–1,Manchester City,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,D 1–1,Manchester City,Wolves,Y,RB,90,0,0,0,0,1,0,0,0,77,15,1,0,0,0.0,0.0,0.0,2,0,59,74,79.7,8,58,4,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,W 2–1,Manchester City,Newcastle Utd,Y,RB,90,1,0,0,0,1,1,0,0,93,6,2,0,0,0.0,0.0,0.0,0,0,75,86,87.2,3,70,8,1,2,Match Report
+2018-2019,2018-09-08,Sat,UEFA Nations League,League A,Home,L 1–2,eng England,es Spain,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,eng England,ch Switzerland,Y,CB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,W 3–0,Manchester City,Fulham,Y,"RB,LB",90,0,0,0,0,1,0,0,0,105,9,1,0,2,0.0,0.0,0.0,2,0,87,96,90.6,14,82,4,0,0,Match Report
+2018-2019,2018-09-19,Wed,Champions Lg,Group stage,Home,L 1–2,eng Manchester City,fr Lyon,Y,"RB,CB",90,0,0,0,0,3,0,0,0,85,10,0,0,1,0.1,0.1,0.0,2,0,70,80,87.5,7,69,5,1,1,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,W 5–0,Manchester City,Cardiff City,Y,RB,90,0,0,0,0,0,0,0,0,129,10,0,2,1,0.0,0.0,0.0,2,0,107,124,86.3,6,108,6,2,2,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,W 3–0,Manchester City,Oxford United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 2–0,Manchester City,Brighton,Y,RB,90,0,0,0,0,1,0,0,0,119,8,5,0,1,0.0,0.0,0.1,7,0,101,111,91.0,7,99,9,0,0,Match Report
+2018-2019,2018-10-02,Tue,Champions Lg,Group stage,Away,W 2–1,eng Manchester City,de Hoffenheim,Y,"RB,CB",90,0,0,0,0,0,0,1,0,91,9,1,1,0,0.0,0.0,0.0,0,0,80,88,90.9,2,69,12,0,0,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Away,D 0–0,Manchester City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,61,6,2,1,1,0.0,0.0,0.0,0,0,45,55,81.8,2,47,3,1,1,Match Report
+2018-2019,2018-10-12,Fri,UEFA Nations League,League A,Away,D 0–0,eng England,hr Croatia,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-15,Mon,UEFA Nations League,League A,Away,W 3–2,eng England,es Spain,N,,16,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-23,Tue,Champions Lg,Group stage,Away,W 3–0,eng Manchester City,ua Shakhtar,N,RB,11,0,0,0,0,0,0,0,0,11,1,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,5,0,0,0,Match Report
+2018-2019,2018-10-29,Mon,Premier League,Matchweek 10,Away,W 1–0,Manchester City,Tottenham,Y,RB,90,0,0,0,0,1,0,0,0,62,16,1,0,0,0.0,0.0,0.0,0,0,42,51,82.4,2,38,4,2,4,Match Report
+2018-2019,2018-11-01,Thu,EFL Cup,Fourth round,Home,W 2–0,Manchester City,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Home,W 6–1,Manchester City,Southampton,Y,RB,90,0,0,0,0,1,0,0,0,98,3,0,0,1,0.0,0.0,0.2,3,0,79,87,90.8,6,79,5,0,0,Match Report
+2018-2019,2018-11-07,Wed,Champions Lg,Group stage,Home,W 6–0,eng Manchester City,ua Shakhtar,Y,RB,60,0,0,0,0,0,0,0,0,73,1,0,1,1,0.0,0.0,0.0,0,0,65,70,92.9,2,58,1,0,0,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Home,W 3–1,Manchester City,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,89,12,3,0,7,0.0,0.0,0.0,2,0,71,79,89.9,4,62,8,0,0,Match Report
+2018-2019,2018-11-15,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,us United States,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,UEFA Nations League,League A,Home,W 2–1,eng England,hr Croatia,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,W 4–0,Manchester City,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,95,19,1,2,4,0.0,0.0,0.0,1,1,73,84,86.9,1,78,1,1,4,Match Report
+2018-2019,2018-11-27,Tue,Champions Lg,Group stage,Away,D 2–2,eng Manchester City,fr Lyon,Y,RB,90,0,0,0,0,0,0,0,0,83,8,0,2,1,0.0,0.0,0.0,1,0,72,79,91.1,2,64,8,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 3–1,Manchester City,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,W 2–1,Manchester City,Watford,Y,RB,90,0,0,0,0,1,0,0,0,103,8,3,1,5,0.0,0.0,0.0,1,1,75,89,84.3,4,75,10,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–2,Manchester City,Chelsea,Y,RB,90,0,0,0,0,2,1,0,0,97,16,4,0,0,0.1,0.1,0.0,1,0,77,88,87.5,6,77,4,1,1,Match Report
+2018-2019,2018-12-12,Wed,Champions Lg,Group stage,Home,W 2–1,eng Manchester City,de Hoffenheim,N,RB,45,0,0,0,0,0,0,0,0,31,16,2,0,3,0.0,0.0,0.0,0,0,17,21,81.0,0,15,0,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 3–1,Manchester City,Everton,Y,RB,90,0,0,0,0,0,0,0,0,92,14,1,0,1,0.0,0.0,0.0,0,0,77,86,89.5,5,67,6,1,1,Match Report
+2018-2019,2018-12-18,Tue,EFL Cup,Quarter-finals,Away,W 1 (3)–1 (1),Manchester City,Leicester City,Y,RB,120,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,L 2–3,Manchester City,Crystal Palace,Y,"RB,CB",90,0,0,0,0,1,0,0,0,108,12,4,0,0,0.0,0.0,0.0,1,0,89,102,87.3,7,80,12,1,2,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,L 1–2,Manchester City,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Away,W 3–1,Manchester City,Southampton,N,"RB,DM",5,0,0,0,0,0,0,0,0,12,0,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,11,1,0,0,Match Report
+2018-2019,2019-01-03,Thu,Premier League,Matchweek 21,Home,W 2–1,Manchester City,Liverpool,N,LB,5,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2018-2019,2019-01-06,Sun,FA Cup,Third round,Home,W 7–0,Manchester City,Rotherham Utd,Y,RB,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-09,Wed,EFL Cup,Semi-finals,Home,W 9–0,Manchester City,Burton Albion,Y,RB,73,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-14,Mon,Premier League,Matchweek 22,Home,W 3–0,Manchester City,Wolves,Y,RB,90,0,0,0,0,2,1,0,0,127,10,1,0,0,0.1,0.1,0.0,2,0,112,120,93.3,7,103,10,3,4,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Away,W 3–0,Manchester City,Huddersfield,Y,RB,90,0,1,0,0,0,0,1,0,82,18,2,2,4,0.0,0.0,0.1,2,1,59,70,84.3,4,54,10,0,0,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Home,W 5–0,Manchester City,Burnley,Y,RB,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,L 1–2,Manchester City,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,113,9,2,1,2,0.0,0.0,0.0,0,0,91,101,90.1,6,90,6,0,0,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Home,W 3–1,Manchester City,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,98,14,0,0,1,0.0,0.0,0.0,3,0,81,89,91.0,9,73,6,0,0,Match Report
+2018-2019,2019-02-06,Wed,Premier League,Matchweek 27,Away,W 2–0,Manchester City,Everton,Y,RB,90,0,0,0,0,1,0,0,0,83,15,4,0,1,0.1,0.1,0.0,1,0,60,75,80.0,3,60,3,2,2,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Home,W 6–0,Manchester City,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,71,17,0,1,0,0.0,0.0,0.0,0,0,60,62,96.8,2,52,2,0,0,Match Report
+2018-2019,2019-02-16,Sat,FA Cup,Fifth round,Away,W 4–1,Manchester City,Newport County,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-20,Wed,Champions Lg,Round of 16,Away,W 3–2,eng Manchester City,de Schalke 04,Y,RB,90,0,0,0,0,0,0,0,0,70,12,1,1,1,0.0,0.0,0.1,3,0,60,67,89.6,2,57,5,3,4,Match Report
+2018-2019,2019-02-24,Sun,EFL Cup,Final,Away,D 0 (4)–0 (3),Manchester City,Chelsea,Y,RB,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 1–0,Manchester City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,W 1–0,Manchester City,Bournemouth,Y,RB,90,0,0,0,0,2,0,1,0,127,4,3,0,2,0.0,0.0,0.0,2,0,113,123,91.9,4,95,6,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–1,Manchester City,Watford,Y,RB,90,0,0,0,0,0,0,1,0,74,11,1,1,0,0.0,0.0,0.0,2,0,67,72,93.1,1,58,6,0,0,Match Report
+2018-2019,2019-03-12,Tue,Champions Lg,Round of 16,Home,W 7–0,eng Manchester City,de Schalke 04,Y,"RB,CB",90,0,0,0,0,0,0,0,0,87,11,0,0,2,0.0,0.0,0.0,1,0,77,82,93.9,3,69,2,0,0,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Away,W 3–2,Manchester City,Swansea City,Y,RB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,W 2–0,Manchester City,Fulham,Y,RB,90,0,0,0,0,1,0,0,0,80,20,1,1,0,0.3,0.3,0.0,2,0,62,72,86.1,5,50,2,1,1,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 33,Home,W 2–0,Manchester City,Cardiff City,N,RB,72,0,0,0,0,0,0,0,0,77,7,0,0,0,0.0,0.0,0.1,4,0,70,76,92.1,8,50,7,0,0,Match Report
+2018-2019,2019-04-06,Sat,FA Cup,Semi-finals,Home,W 1–0,Manchester City,Brighton,Y,RB,45,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-09,Tue,Champions Lg,Quarter-finals,Away,L 0–1,eng Manchester City,eng Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,80,15,1,1,5,0.0,0.0,0.0,0,0,53,66,80.3,4,56,6,1,2,Match Report
+2018-2019,2019-04-14,Sun,Premier League,Matchweek 34,Away,W 3–1,Manchester City,Crystal Palace,Y,RB,90,0,0,0,0,0,0,0,0,75,14,1,1,0,0.0,0.0,0.0,1,0,59,66,89.4,4,54,9,0,1,Match Report
+2018-2019,2019-04-17,Wed,Champions Lg,Quarter-finals,Home,W 4–3,eng Manchester City,eng Tottenham,Y,"RB,CB",90,0,0,0,0,1,0,0,0,81,6,1,1,0,0.0,0.0,0.1,4,0,67,75,89.3,11,65,10,1,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,W 1–0,Manchester City,Tottenham,Y,RB,90,0,0,0,0,1,0,0,0,93,9,1,0,1,0.0,0.0,0.1,5,0,69,83,83.1,4,71,11,2,2,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Away,W 2–0,Manchester City,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,91,12,0,1,0,0.0,0.0,0.0,1,1,70,84,83.3,2,76,5,2,3,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Away,W 1–0,Manchester City,Burnley,Y,"CB,RB",90,0,0,0,0,1,0,0,0,96,5,0,0,1,0.0,0.0,0.7,5,0,77,87,88.5,8,69,7,1,1,Match Report
+2018-2019,2019-05-06,Mon,Premier League,Matchweek 37,Home,W 1–0,Manchester City,Leicester City,Y,RB,90,0,0,0,0,1,0,0,0,84,11,0,1,0,0.0,0.0,0.1,2,0,67,77,87.0,8,65,8,1,1,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,W 4–1,Manchester City,Brighton,Y,RB,87,0,0,0,0,1,0,0,0,106,4,2,0,0,0.0,0.0,0.1,4,0,91,101,90.1,11,87,7,1,1,Match Report
+2018-2019,2019-05-18,Sat,FA Cup,Final,Home,W 6–0,Manchester City,Watford,Y,RB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,L 1–3,eng England,nl Netherlands,Y,RB,120,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Third-place match,Neutral,W 0 (6)–0 (5),eng England,ch Switzerland,N,,51,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,56 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-08-09,Sun,Premier League,Matchweek 1,Home,L 0–1,Stoke City,Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,0,1,0,1,2,1,0,,,Match Report
+2015-2016,2015-08-15,Sat,Premier League,Matchweek 2,Away,D 2–2,Stoke City,Tottenham,Y*,DM,90,0,0,0,0,0,0,1,0,1,1,0,0,2,1,0,,,Match Report
+2015-2016,2015-08-22,Sat,Premier League,Matchweek 3,Away,D 1–1,Stoke City,Norwich City,Y*,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,,,Match Report
+2015-2016,2015-08-29,Sat,Premier League,Matchweek 4,Home,L 0–1,Stoke City,West Brom,Y*,AM,90,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,,,Match Report
+2015-2016,2015-09-04,Fri,Euro Qualifying,Group stage,Away,W 4–0,ie Republic of Ireland,gi Gibraltar,Y,CM,90,0,0,0,0,0,0,0,0,0,1,0,6,2,4,0,0,0,Match Report
+2015-2016,2015-09-07,Mon,Euro Qualifying,Group stage,Home,W 1–0,ie Republic of Ireland,ge Georgia,Y,DM,90,0,0,0,0,2,1,1,0,1,0,0,2,3,1,0,0,0,Match Report
+2015-2016,2015-09-12,Sat,Premier League,Matchweek 5,Away,L 0–2,Stoke City,Arsenal,Y*,DM,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,Match Report
+2015-2016,2015-09-19,Sat,Premier League,Matchweek 6,Home,D 2–2,Stoke City,Leicester City,Y*,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,,,Match Report
+2015-2016,2015-09-26,Sat,Premier League,Matchweek 7,Home,W 2–1,Stoke City,Bournemouth,Y*,DM,90,0,0,0,0,1,1,1,0,2,0,0,0,1,4,0,,,Match Report
+2015-2016,2015-10-03,Sat,Premier League,Matchweek 8,Away,W 1–0,Stoke City,Aston Villa,Y*,DM,90,0,0,0,0,0,0,0,0,0,1,0,2,1,3,0,,,Match Report
+2015-2016,2015-10-11,Sun,Euro Qualifying,Group stage,Away,L 1–2,ie Republic of Ireland,pl Poland,Y,CM,57,0,0,0,0,1,1,1,0,2,1,0,0,3,1,0,0,0,Match Report
+2015-2016,2015-10-19,Mon,Premier League,Matchweek 9,Away,W 1–0,Stoke City,Swansea City,Y*,DM,90,0,0,0,0,0,0,0,0,1,1,0,0,2,2,0,,,Match Report
+2015-2016,2015-10-24,Sat,Premier League,Matchweek 10,Home,L 0–2,Stoke City,Watford,Y*,DM,90,0,0,0,0,0,0,1,0,1,1,0,1,0,2,0,,,Match Report
+2015-2016,2015-10-27,Tue,League Cup,Fourth round,Home,W 1 (5)–1 (4),Stoke City,Chelsea,Y,DM,120,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-10-31,Sat,Premier League,Matchweek 11,Away,D 0–0,Stoke City,Newcastle Utd,Y,DM,90,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,,,Match Report
+2015-2016,2015-11-07,Sat,Premier League,Matchweek 12,Home,W 1–0,Stoke City,Chelsea,Y,DM,90,0,0,0,0,1,0,1,0,1,2,0,0,1,3,0,,,Match Report
+2015-2016,2015-11-13,Fri,Euro Qualifying,Play-off Round,Away,D 1–1,ie Republic of Ireland,ba Bosnia and Herzegovina,Y*,,90,0,0,0,0,1,0,0,0,1,2,0,1,3,3,0,0,0,Match Report
+2015-2016,2015-11-16,Mon,Euro Qualifying,Play-off Round,Home,W 2–0,ie Republic of Ireland,ba Bosnia and Herzegovina,Y*,,89,0,0,0,0,0,0,0,0,3,1,0,0,1,4,0,0,0,Match Report
+2015-2016,2015-11-21,Sat,Premier League,Matchweek 13,Away,W 1–0,Stoke City,Southampton,Y,DM,90,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,,,Match Report
+2015-2016,2015-11-28,Sat,Premier League,Matchweek 14,Away,L 0–2,Stoke City,Sunderland,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,,,Match Report
+2015-2016,2015-12-01,Tue,League Cup,Quarter-finals,Home,W 2–0,Stoke City,Sheffield Weds,N,,3,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-05,Sat,Premier League,Matchweek 15,Home,W 2–0,Stoke City,Manchester City,Y,DM,90,0,0,0,0,0,0,0,0,0,2,0,1,1,5,0,,,Match Report
+2015-2016,2015-12-12,Sat,Premier League,Matchweek 16,Away,D 0–0,Stoke City,West Ham,Y,DM,90,0,0,0,0,0,0,0,0,1,0,0,1,2,3,0,,,Match Report
+2015-2016,2015-12-19,Sat,Premier League,Matchweek 17,Home,L 1–2,Stoke City,Crystal Palace,Y,DM,64,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,,,Match Report
+2015-2016,2015-12-26,Sat,Premier League,Matchweek 18,Home,W 2–0,Stoke City,Manchester Utd,Y,DM,45,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+2015-2016,2015-12-28,Mon,Premier League,Matchweek 19,Away,W 4–3,Stoke City,Everton,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report
+2015-2016,2016-01-02,Sat,Premier League,Matchweek 20,Away,L 1–2,Stoke City,West Brom,Y,DM,67,0,0,0,0,0,0,0,0,2,0,0,1,1,1,0,,,Match Report
+2015-2016,2016-01-05,Tue,League Cup,Semi-finals,Home,L 0–1,Stoke City,Liverpool,Y,DM,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-09,Sat,FA Cup,Third round,Away,W 2–1,Stoke City,Doncaster,N,,25,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-13,Wed,Premier League,Matchweek 21,Home,W 3–1,Stoke City,Norwich City,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,,,Match Report
+2015-2016,2016-01-17,Sun,Premier League,Matchweek 22,Home,D 0–0,Stoke City,Arsenal,Y,DM,90,0,0,0,0,1,0,0,0,2,1,0,0,0,1,0,,,Match Report
+2015-2016,2016-01-23,Sat,Premier League,Matchweek 23,Away,L 0–3,Stoke City,Leicester City,Y,DM,90,0,0,0,0,1,0,0,0,1,0,0,0,3,0,0,,,Match Report
+2015-2016,2016-01-26,Tue,League Cup,Semi-finals,Away,D 1 (5)–0 (6),Stoke City,Liverpool,Y,DM,120,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-30,Sat,FA Cup,Fourth round,Away,L 0–1,Stoke City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-02,Tue,Premier League,Matchweek 24,Away,L 0–3,Stoke City,Manchester Utd,Y*,DM,90,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,,,Match Report
+2015-2016,2016-02-06,Sat,Premier League,Matchweek 25,Home,L 0–3,Stoke City,Everton,Y*,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,Match Report
+2015-2016,2016-02-13,Sat,Premier League,Matchweek 26,Away,W 3–1,Stoke City,Bournemouth,Y*,DM,90,0,0,0,0,0,0,0,0,2,0,0,1,1,5,0,,,Match Report
+2015-2016,2016-02-27,Sat,Premier League,Matchweek 27,Home,W 2–1,Stoke City,Aston Villa,Y*,DM,90,0,0,0,0,0,0,0,0,0,1,0,0,3,3,0,,,Match Report
+2015-2016,2016-03-02,Wed,Premier League,Matchweek 28,Home,W 1–0,Stoke City,Newcastle Utd,Y*,DM,90,0,0,0,0,1,0,0,0,1,0,0,0,3,2,0,,,Match Report
+2015-2016,2016-03-05,Sat,Premier League,Matchweek 29,Away,D 1–1,Stoke City,Chelsea,Y*,DM,74,0,0,0,0,0,0,1,0,1,0,0,0,1,3,0,,,Match Report
+2015-2016,2016-03-12,Sat,Premier League,Matchweek 30,Home,L 1–2,Stoke City,Southampton,Y,RM,77,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,,,Match Report
+2015-2016,2016-03-19,Sat,Premier League,Matchweek 31,Away,W 2–1,Stoke City,Watford,Y*,RM,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+2015-2016,2016-03-29,Tue,Friendlies (M),Friendlies (M),Home,D 2–2,ie Republic of Ireland,sk Slovakia,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-04-02,Sat,Premier League,Matchweek 32,Home,D 2–2,Stoke City,Swansea City,Y*,RM,80,0,1,0,0,1,0,0,0,1,1,0,1,1,4,0,,,Match Report
+2015-2016,2016-04-18,Mon,Premier League,Matchweek 34,Home,L 0–4,Stoke City,Tottenham,Y,DM,75,0,0,0,0,0,0,0,0,1,1,0,0,2,2,0,,,Match Report
+2015-2016,2016-04-23,Sat,Premier League,Matchweek 35,Away,L 0–4,Stoke City,Manchester City,Y,DM,90,0,0,0,0,2,1,0,0,1,0,0,4,1,1,0,,,Match Report
+2015-2016,2016-04-30,Sat,Premier League,Matchweek 36,Home,D 1–1,Stoke City,Sunderland,Y,RM,90,0,0,0,0,2,1,0,0,1,0,0,0,3,1,0,,,Match Report
+2015-2016,2016-05-07,Sat,Premier League,Matchweek 37,Away,L 1–2,Stoke City,Crystal Palace,Y,RM,74,0,0,0,0,0,0,1,0,2,0,0,1,1,5,0,,,Match Report
+2015-2016,2016-05-15,Sun,Premier League,Matchweek 38,Home,W 2–1,Stoke City,West Ham,Y,RM,90,0,0,0,0,0,0,0,0,1,1,0,3,2,0,0,,,Match Report
+2015-2016,2016-05-27,Fri,Friendlies (M),Friendlies (M),Home,D 1–1,ie Republic of Ireland,nl Netherlands,Y,,67,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-05-31,Tue,Friendlies (M),Friendlies (M),Home,L 1–2,ie Republic of Ireland,by Belarus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-13,Mon,UEFA Euro,Group stage,Home,D 1–1,ie Republic of Ireland,se Sweden,Y,DM,90,0,0,0,0,0,0,1,0,1,1,0,0,1,4,0,0,0,Match Report
+2015-2016,2016-06-18,Sat,UEFA Euro,Group stage,Away,L 0–3,ie Republic of Ireland,be Belgium,Y,DM,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Match Report
+2015-2016,2016-06-22,Wed,UEFA Euro,Group stage,Away,W 1–0,ie Republic of Ireland,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-26,Sun,UEFA Euro,Round of 16,Away,L 1–2,ie Republic of Ireland,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,N,"CM,WB",22,0,0,0,0,0,0,0,0,18,8,2,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,7,0,0,0,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y,CM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 2–5,West Brom,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,L 2 (4)–2 (5),West Brom,Brentford,Y,DM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,D 3–3,West Brom,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Away,D 1–1,West Brom,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 2,Matchweek 10,Home,W 3–1,West Brom,Sunderland,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-14,Mon,PL2 — Div. 2,Matchweek 11,Home,L 2–4,West Brom,Wolves,Y,DM,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Away,L 3–4,West Brom,Stoke City,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,West Brom,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–5,West Brom,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,L 0–4,West Brom,Arsenal,N,RM,10,0,0,0,0,1,1,0,0,4,2,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,5,1,1,1,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 2 (2)–2 (3),West Brom,Blackpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-15,Fri,PL2 — Div. 2,Matchweek 14,Away,L 1–2,West Brom,Aston Villa,Y,DM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Championship,Matchweek 27,Home,D 1–1,Birmingham City,Coventry City,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Championship,Matchweek 26,Away,D 0–0,Birmingham City,Wycombe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Championship,Matchweek 28,Away,L 2–3,Birmingham City,Bournemouth,N,,24,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Championship,Matchweek 29,Home,L 0–1,Birmingham City,Luton Town,N,,36,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-17,Wed,Championship,Matchweek 30,Away,L 0–2,Birmingham City,Millwall,Y,CM,90,0,0,0,0,2,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Championship,Matchweek 31,Away,W 1–0,Birmingham City,Sheffield Weds,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-23,Tue,Championship,Matchweek 32,Home,L 1–3,Birmingham City,Norwich City,Y,DM,69,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Championship,Matchweek 33,Home,W 2–1,Birmingham City,QPR,Y,AM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-02,Tue,Championship,Matchweek 34,Away,D 1–1,Birmingham City,Huddersfield,Y,DM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Championship,Matchweek 35,Away,L 0–1,Birmingham City,Barnsley,Y,DM,83,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-13,Sat,Championship,Matchweek 36,Home,L 0–3,Birmingham City,Bristol City,Y,DM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-17,Wed,Championship,Matchweek 37,Home,W 2–1,Birmingham City,Reading,Y,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,Championship,Matchweek 38,Away,L 0–3,Birmingham City,Watford,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-02,Fri,Championship,Matchweek 39,Home,W 1–0,Birmingham City,Swansea City,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-06,Tue,Championship,Matchweek 40,Away,D 0–0,Birmingham City,Brentford,N,,19,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Championship,Matchweek 41,Home,W 2–0,Birmingham City,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-18,Sun,Championship,Matchweek 42,Away,W 1–0,Birmingham City,Rotherham Utd,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Championship,Matchweek 43,Home,D 1–1,Birmingham City,Nott'ham Forest,N,,4,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

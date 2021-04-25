@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Home,L 0–2,Newcastle Utd,Tottenham,Y*,DM,47,0,0,0,0,0,0,0,1,17,14,1,0,0,0.0,0.0,0.0,0,0,6,13,46.2,0,7,0,1,1,Match Report
+2017-2018,2017-09-10,Sun,Premier League,Matchweek 4,Away,W 1–0,Newcastle Utd,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-11,Mon,PL2 — Div. 2,Regular Season,Home,D 2–2,Newcastle Utd,Norwich City,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,W 2–1,Newcastle Utd,Stoke City,N,DM,22,0,0,0,0,2,0,0,0,9,0,0,0,1,0.1,0.1,0.0,0,0,3,6,50.0,0,3,0,0,0,Match Report
+2017-2018,2017-09-24,Sun,Premier League,Matchweek 6,Away,L 0–1,Newcastle Utd,Brighton,N,DM,23,0,0,0,0,2,0,0,0,23,0,0,0,0,0.0,0.0,0.0,0,0,13,21,61.9,1,18,5,0,0,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,D 1–1,Newcastle Utd,Liverpool,Y,DM,90,0,0,0,0,3,1,0,0,50,2,0,1,1,0.1,0.1,0.0,2,0,30,39,76.9,8,29,4,1,1,Match Report
+2017-2018,2017-10-15,Sun,Premier League,Matchweek 8,Away,D 2–2,Newcastle Utd,Southampton,Y,CM,90,0,0,0,0,1,0,0,0,64,3,0,2,0,0.0,0.0,0.0,4,0,38,56,67.9,2,38,4,0,1,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,W 1–0,Newcastle Utd,Crystal Palace,Y,DM,90,0,0,0,0,2,1,0,0,77,10,3,0,5,0.0,0.0,0.0,0,0,46,63,73.0,5,56,5,1,1,Match Report
+2017-2018,2017-10-30,Mon,Premier League,Matchweek 10,Away,L 0–1,Newcastle Utd,Burnley,Y,DM,90,0,0,0,0,3,2,0,0,71,12,1,0,1,0.1,0.1,0.1,4,0,50,66,75.8,8,45,6,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 0–1,Newcastle Utd,Bournemouth,Y,CM,90,0,0,0,0,2,0,1,0,66,8,4,1,1,0.0,0.0,0.1,3,0,37,57,64.9,7,40,4,1,1,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 1–4,Newcastle Utd,Manchester Utd,Y*,CM,90,0,0,0,0,2,1,0,0,59,12,1,2,0,0.1,0.1,0.2,2,0,39,49,79.6,6,42,5,1,1,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,L 0–3,Newcastle Utd,Watford,Y*,DM,90,0,0,0,0,2,0,1,0,84,11,1,0,3,0.0,0.0,0.1,3,0,51,71,71.8,9,66,4,1,1,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,D 2–2,Newcastle Utd,West Brom,N,DM,11,0,0,0,0,0,0,0,0,15,1,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,2,11,6,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 1–3,Newcastle Utd,Chelsea,N,DM,16,0,0,0,0,1,0,0,0,16,4,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,2,16,1,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,L 2–3,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,L 0–1,Newcastle Utd,Everton,Y,DM,89,0,0,0,0,2,0,1,1,83,13,0,0,1,0.0,0.0,0.2,4,0,55,77,71.4,10,60,9,1,2,Match Report
+2017-2018,2017-12-27,Wed,Premier League,Matchweek 20,Home,L 0–1,Newcastle Utd,Manchester City,Y,DM,90,0,0,0,0,2,1,0,0,45,20,2,0,0,0.0,0.0,0.1,2,0,25,40,62.5,2,18,2,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,D 0–0,Newcastle Utd,Brighton,N,CM,15,0,0,0,0,1,0,0,0,20,0,0,0,0,0.0,0.0,0.0,1,0,13,18,72.2,3,14,1,2,2,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Away,W 1–0,Newcastle Utd,Stoke City,Y,DM,90,0,0,0,0,1,0,0,0,64,9,1,0,1,0.1,0.1,0.0,4,0,44,54,81.5,6,39,5,1,1,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Home,W 3–1,Newcastle Utd,Luton Town,Y,DM,70,1,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,D 1–1,Newcastle Utd,Swansea City,Y,DM,81,0,0,0,0,1,0,0,0,52,7,2,0,1,0.1,0.1,0.1,2,0,32,46,69.6,2,26,3,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,L 1–3,Newcastle Utd,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,32,24,2,2,1,0.0,0.0,0.3,3,0,22,28,78.6,3,17,2,1,2,Match Report
+2017-2018,2018-01-28,Sun,FA Cup,Fourth round,Away,L 0–3,Newcastle Utd,Chelsea,Y,CM,90,0,0,0,0,4,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,D 1–1,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-04,Sun,Premier League,Matchweek 26,Away,D 1–1,Newcastle Utd,Crystal Palace,Y,DM,90,0,0,0,0,0,0,0,0,59,11,0,2,1,0.0,0.0,0.0,3,0,35,52,67.3,3,36,1,0,0,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Home,W 1–0,Newcastle Utd,Manchester Utd,Y,CM,90,0,0,0,0,2,1,0,0,76,28,5,3,6,0.1,0.1,0.1,2,0,34,55,61.8,2,33,4,2,2,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,D 2–2,Newcastle Utd,Bournemouth,Y,"DM,CM,RM",90,0,0,0,0,1,0,0,0,55,16,2,1,1,0.4,0.4,0.0,1,0,29,44,65.9,7,28,0,1,1,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 3–0,Newcastle Utd,Southampton,Y,CM,82,0,2,0,0,0,0,0,0,51,9,3,0,0,0.0,0.0,0.5,3,2,19,43,44.2,5,32,3,2,2,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 1–0,Newcastle Utd,Huddersfield,Y,DM,90,0,0,0,0,4,0,0,0,89,10,0,0,3,0.2,0.2,0.1,6,0,54,70,77.1,7,59,4,3,5,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,W 2–1,Newcastle Utd,Leicester City,Y,CM,90,1,0,0,0,1,1,0,0,44,3,2,0,1,0.2,0.2,0.0,2,0,19,37,51.4,3,27,1,0,0,Match Report
+2017-2018,2018-04-15,Sun,Premier League,Matchweek 34,Home,W 2–1,Newcastle Utd,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,56,9,2,2,4,0.0,0.0,0.0,0,0,27,42,64.3,7,28,1,0,0,Match Report
+2017-2018,2018-04-23,Mon,Premier League,Matchweek 35,Away,L 0–1,Newcastle Utd,Everton,Y,CM,82,0,0,0,0,0,0,0,0,45,8,1,2,1,0.0,0.0,0.1,2,0,24,40,60.0,2,23,1,1,1,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,L 0–1,Newcastle Utd,West Brom,Y,DM,90,0,0,0,0,2,0,0,0,96,11,3,1,1,0.1,0.1,0.1,5,0,65,86,75.6,6,64,9,1,1,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,L 1–2,Newcastle Utd,Watford,Y,CM,90,0,0,0,0,1,0,0,0,103,1,0,2,1,0.1,0.1,0.0,2,1,76,93,81.7,10,75,9,0,1,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Away,L 0–1,Newcastle Utd,Tottenham,Y,DM,90,0,0,0,0,1,0,0,0,63,7,1,0,0,0.1,0.1,0.2,5,0,36,61,59.0,6,40,2,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 3–0,Newcastle Utd,Chelsea,Y,DM,90,0,1,0,0,3,1,0,0,79,5,1,2,1,0.1,0.1,0.0,4,2,54,71,76.1,9,63,7,1,1,Match Report

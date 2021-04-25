@@ -1,0 +1,22 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Crystal Palace,Huddersfield,Y*,CM,90,0,0,0,0,2,0,1,0,57,16,0,1,3,0.1,0.1,0.0,1,0,38,46,82.6,7,37,2,1,1,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Liverpool,Y*,DM,72,0,0,0,0,1,1,1,0,29,16,0,1,0,0.1,0.1,0.1,1,0,18,25,72.0,3,16,1,0,0,Match Report
+2017-2018,2017-08-22,Tue,EFL Cup,Second round,Home,W 2–1,Crystal Palace,Ipswich Town,Y*,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,L 0–2,Crystal Palace,Swansea City,Y*,CM,90,0,0,0,0,1,0,1,0,60,20,0,0,0,0.0,0.0,0.1,5,0,43,49,87.8,7,42,7,1,1,Match Report
+2017-2018,2017-09-10,Sun,Premier League,Matchweek 4,Away,L 0–1,Crystal Palace,Burnley,Y*,LM,90,0,0,0,0,2,0,0,0,58,15,0,0,0,0.1,0.1,0.0,4,0,36,49,73.5,7,40,3,1,2,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,L 0–1,Crystal Palace,Southampton,Y*,"LW,AM",90,0,0,0,0,1,1,1,0,40,36,2,2,0,0.3,0.3,0.1,2,0,23,33,69.7,3,28,4,1,1,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,L 0–5,Crystal Palace,Manchester City,N,CM,34,0,0,0,0,0,0,0,0,15,5,1,0,1,0.0,0.0,0.0,0,0,8,10,80.0,0,10,0,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,L 0–4,Crystal Palace,Manchester Utd,Y*,CM,68,0,0,0,0,0,0,0,0,40,14,1,1,1,0.0,0.0,0.0,1,0,27,34,79.4,1,22,0,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 2–1,Crystal Palace,Chelsea,N,LM,16,0,0,0,0,1,0,0,0,11,1,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,9,0,0,0,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 0–1,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Away,L 1–4,Crystal Palace,Bristol City,Y*,DM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,D 2–2,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 0–1,Crystal Palace,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,D 2–2,Crystal Palace,Everton,N,"CM,DM",6,0,0,0,0,0,0,0,0,7,2,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,1,0,0,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,W 2–1,Crystal Palace,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,D 0–0,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,D 0–0,Crystal Palace,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,D 2–2,Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 1–1,Crystal Palace,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-28,Thu,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Home,D 0–0,Crystal Palace,Manchester City,N,CM,15,0,0,0,0,1,0,1,0,2,5,1,0,0,0.0,0.0,0.0,1,0,0,0,,0,1,1,0,0,Match Report

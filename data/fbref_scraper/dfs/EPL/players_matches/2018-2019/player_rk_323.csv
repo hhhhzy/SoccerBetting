@@ -1,0 +1,54 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-05,Sun,Community Shield,FA Community Shield,Neutral,L 0–2,Chelsea,Manchester City,Y,FW,68,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,W 3–0,Chelsea,Huddersfield,Y,FW,90,0,0,0,0,2,0,0,0,40,20,0,0,1,0.2,0.2,0.0,3,0,17,25,68.0,1,36,1,3,4,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 3–2,Chelsea,Arsenal,Y,FW,74,1,0,0,0,3,2,0,0,30,19,1,0,0,0.2,0.2,0.0,2,0,15,18,83.3,1,25,2,0,1,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Away,W 2–1,Chelsea,Newcastle Utd,Y,FW,64,0,0,0,0,2,0,0,0,17,4,0,0,1,0.1,0.1,0.0,1,0,10,13,76.9,0,14,3,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,W 2–0,Chelsea,Bournemouth,Y,FW,60,0,0,0,0,2,1,0,0,11,10,0,0,0,0.2,0.2,0.0,1,0,7,9,77.8,0,8,0,0,0,Match Report
+2018-2019,2018-09-08,Sat,UEFA Nations League,League A,Away,W 2–1,es Spain,eng England,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,UEFA Nations League,League A,Home,W 6–0,es Spain,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,W 4–1,Chelsea,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-20,Thu,Europa Lg,Group stage,Away,W 1–0,eng Chelsea,gr PAOK,Y,FW,79,0,0,0,0,6,0,0,0,27,13,0,0,1,0.4,0.4,0.1,3,0,12,16,75.0,1,23,3,2,2,Match Report
+2018-2019,2018-09-23,Sun,Premier League,Matchweek 6,Away,D 0–0,Chelsea,West Ham,N,FW,26,0,0,0,0,1,1,0,0,4,4,0,0,0,0.5,0.5,0.0,0,0,3,3,100.0,1,3,0,0,0,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Away,W 2–1,Chelsea,Liverpool,Y,FW,90,0,0,0,0,4,2,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,D 1–1,Chelsea,Liverpool,N,FW,26,0,0,0,0,2,0,0,0,11,14,2,0,1,0.2,0.2,0.0,0,0,4,7,57.1,0,6,0,0,0,Match Report
+2018-2019,2018-10-04,Thu,Europa Lg,Group stage,Home,W 1–0,eng Chelsea,hu Vidi,Y,FW,90,1,0,0,0,7,1,1,0,32,8,0,0,2,1.5,1.5,0.1,1,0,17,21,81.0,1,19,2,0,0,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Away,W 3–0,Chelsea,Southampton,N,FW,23,1,0,0,0,2,2,0,0,15,5,0,0,0,0.7,0.7,0.0,0,0,6,8,75.0,1,11,2,0,0,Match Report
+2018-2019,2018-10-11,Thu,Friendlies (M),Friendlies (M),Away,W 4–1,es Spain,wal Wales,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-15,Mon,UEFA Nations League,League A,Home,L 2–3,es Spain,eng England,N,,19,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,D 2–2,Chelsea,Manchester Utd,Y,FW,78,0,0,0,0,2,1,0,0,38,11,0,0,0,0.2,0.2,0.0,6,0,23,29,79.3,0,31,1,0,0,Match Report
+2018-2019,2018-10-25,Thu,Europa Lg,Group stage,Home,W 3–1,eng Chelsea,by BATE Borisov,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Away,W 4–0,Chelsea,Burnley,Y,FW,73,1,0,0,0,5,3,1,0,26,20,1,0,0,1.6,1.6,0.0,3,1,11,14,78.6,1,22,2,1,1,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Home,W 3–2,Chelsea,Derby County,Y,FW,90,0,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Home,W 3–1,Chelsea,Crystal Palace,Y,FW,90,2,0,0,0,5,3,0,0,27,3,2,0,1,1.0,1.0,0.0,1,0,15,18,83.3,0,20,3,0,0,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Home,D 0–0,Chelsea,Everton,Y,FW,90,0,0,0,0,1,1,1,0,21,14,2,0,0,0.4,0.4,0.0,2,0,9,12,75.0,0,16,1,0,1,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Away,L 2–3,es Spain,hr Croatia,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,Friendlies (M),Friendlies (M),Home,W 1–0,es Spain,ba Bosnia and Herzegovina,Y,FW,63,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 1–3,Chelsea,Tottenham,Y,FW,57,0,0,0,0,2,0,0,0,19,6,1,0,0,0.2,0.2,0.0,1,0,11,13,84.6,0,14,3,0,0,Match Report
+2018-2019,2018-11-29,Thu,Europa Lg,Group stage,Home,W 4–0,eng Chelsea,gr PAOK,N,FW,16,1,0,0,0,1,1,0,0,2,4,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,0,0,0,0,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Home,W 2–0,Chelsea,Fulham,N,FW,21,0,0,0,0,1,0,1,0,10,5,0,0,0,0.3,0.3,0.0,0,0,3,4,75.0,0,8,1,0,1,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,L 1–2,Chelsea,Wolves,Y,FW,64,0,0,0,0,2,0,0,0,32,17,0,0,1,0.1,0.1,0.0,2,0,12,15,80.0,0,25,2,1,1,Match Report
+2018-2019,2018-12-13,Thu,Europa Lg,Group stage,Away,D 2–2,eng Chelsea,hu Vidi,Y,FW,44,0,0,0,0,3,1,0,0,16,4,0,0,0,0.2,0.2,0.0,0,0,7,10,70.0,1,11,0,0,0,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Away,W 1–0,Chelsea,Crystal Palace,N,FW,15,0,0,0,0,0,0,0,0,9,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,1,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,D 0–0,Chelsea,Southampton,Y,FW,90,0,0,0,0,3,2,0,0,38,9,0,2,1,0.3,0.3,0.0,4,0,21,26,80.8,0,30,2,2,2,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,Y,FW,74,2,0,0,0,5,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-03,Sun,La Liga,Matchweek 22,Away,L 0–1,Atlético Madrid,Betis,Y,FW,90,0,0,0,0,4,2,0,0,41,50,3,1,1,0.2,0.2,0.0,1,0,14,25,56.0,2,20,2,2,2,Match Report
+2018-2019,2019-02-09,Sat,La Liga,Matchweek 23,Home,L 1–3,Atlético Madrid,Real Madrid,Y,FW,70,0,0,0,0,1,0,1,0,24,25,3,1,1,0.1,0.1,0.1,3,0,10,14,71.4,2,12,3,2,2,Match Report
+2018-2019,2019-02-16,Sat,La Liga,Matchweek 24,Away,W 1–0,Atlético Madrid,Rayo Vallecano,Y,FW,90,0,1,0,0,1,1,0,0,41,24,0,1,2,0.0,0.0,0.1,2,1,18,31,58.1,1,27,2,2,4,Match Report
+2018-2019,2019-02-20,Wed,Champions Lg,Round of 16,Home,W 2–0,es Atlético Madrid,it Juventus,N,FW,33,0,0,0,0,1,0,0,0,9,13,0,0,0,0.0,0.0,0.0,1,1,5,7,71.4,0,2,1,0,0,Match Report
+2018-2019,2019-02-24,Sun,La Liga,Matchweek 25,Home,W 2–0,Atlético Madrid,Villarreal,Y,FW,57,1,0,0,0,2,2,0,0,23,18,2,0,1,0.3,0.3,0.0,1,0,10,12,83.3,0,17,2,0,2,Match Report
+2018-2019,2019-03-03,Sun,La Liga,Matchweek 26,Away,W 2–0,Atlético Madrid,Real Sociedad,Y,FW,70,2,0,0,0,4,3,0,0,29,18,0,0,0,1.9,1.9,0.0,2,1,13,23,56.5,0,19,4,1,1,Match Report
+2018-2019,2019-03-09,Sat,La Liga,Matchweek 27,Home,W 1–0,Atlético Madrid,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-12,Tue,Champions Lg,Round of 16,Away,L 0–3,es Atlético Madrid,it Juventus,Y,FW,90,0,0,0,0,1,0,0,0,45,14,0,1,4,0.3,0.3,0.0,0,0,15,26,57.7,1,16,1,1,1,Match Report
+2018-2019,2019-03-16,Sat,La Liga,Matchweek 28,Away,L 0–2,Atlético Madrid,Athletic Club,Y,FW,90,0,0,0,0,1,0,0,0,29,33,1,2,1,0.4,0.4,0.0,0,0,16,19,84.2,1,21,4,1,1,Match Report
+2018-2019,2019-03-26,Tue,Euro Qualifying,Group stage,Away,W 2–0,es Spain,mt Malta,Y,FW,78,2,0,0,0,6,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,La Liga,Matchweek 29,Away,W 4–0,Atlético Madrid,Alavés,Y,FW,61,1,0,0,0,1,1,0,0,27,10,1,0,0,0.4,0.4,0.0,0,0,15,21,71.4,0,21,3,1,1,Match Report
+2018-2019,2019-04-02,Tue,La Liga,Matchweek 30,Home,W 2–0,Atlético Madrid,Girona,Y,FW,84,0,0,0,0,1,0,0,0,33,8,0,0,0,0.3,0.3,0.0,1,0,12,23,52.2,0,24,4,1,1,Match Report
+2018-2019,2019-04-06,Sat,La Liga,Matchweek 31,Away,L 0–2,Atlético Madrid,Barcelona,N,"FW,LB",33,0,0,0,0,1,0,0,0,16,7,1,0,0,0.1,0.1,0.0,1,0,3,8,37.5,1,10,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,La Liga,Matchweek 32,Home,W 2–0,Atlético Madrid,Celta Vigo,N,FW,29,1,0,0,0,1,1,0,0,13,5,0,0,0,0.7,0.7,0.0,2,1,5,7,71.4,0,8,1,1,1,Match Report
+2018-2019,2019-04-20,Sat,La Liga,Matchweek 33,Away,W 1–0,Atlético Madrid,Eibar,Y,FW,90,0,0,0,0,1,0,1,0,37,10,0,0,0,0.3,0.3,0.7,4,1,13,24,54.2,1,21,5,1,4,Match Report
+2018-2019,2019-04-24,Wed,La Liga,Matchweek 34,Home,W 3–2,Atlético Madrid,Valencia,Y,FW,83,1,0,0,0,2,2,1,0,27,12,1,0,0,0.5,0.5,0.1,3,1,13,19,68.4,0,16,2,0,0,Match Report
+2018-2019,2019-04-27,Sat,La Liga,Matchweek 35,Home,W 1–0,Atlético Madrid,Valladolid,Y,FW,69,0,0,0,0,0,0,0,0,30,12,0,0,1,0.0,0.0,0.2,2,0,16,22,72.7,1,20,3,2,4,Match Report
+2018-2019,2019-05-04,Sat,La Liga,Matchweek 36,Away,L 0–3,Atlético Madrid,Espanyol,Y,FW,90,0,0,0,0,4,1,1,0,25,17,1,0,1,0.7,0.7,0.0,0,0,10,16,62.5,1,11,3,1,1,Match Report
+2018-2019,2019-05-12,Sun,La Liga,Matchweek 37,Home,D 1–1,Atlético Madrid,Sevilla,Y,FW,77,0,0,0,0,2,1,1,0,27,18,0,0,1,0.8,0.8,0.0,2,0,11,16,68.8,2,15,2,0,0,Match Report
+2018-2019,2019-06-07,Fri,Euro Qualifying,Group stage,Away,W 4–1,es Spain,fo Faroe Islands,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-10,Mon,Euro Qualifying,Group stage,Home,W 3–0,es Spain,se Sweden,N,,26,1,0,1,1,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report

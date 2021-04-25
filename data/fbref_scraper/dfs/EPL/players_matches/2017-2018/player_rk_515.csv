@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Away,W 2–0,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Home,L 1–2,Tottenham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,D 2–2,Stoke City,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,52,2,1,2,2,0.0,0.0,0.0,0,0,38,44,86.4,4,30,3,0,0,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,L 1–2,Stoke City,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0,67,0,0,1,3,0.0,0.0,0.0,1,0,45,61,73.8,9,36,6,0,0,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,L 0–2,Stoke City,Bristol City,Y,CB,90,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,W 2–1,Stoke City,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,24,0,0,0,3,0.0,0.0,0.0,1,0,14,18,77.8,2,11,0,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 2–7,Stoke City,Manchester City,Y,CB,45,0,0,0,0,0,0,0,0,14,3,0,0,2,0.0,0.0,0.0,0,0,5,10,50.0,1,5,0,0,0,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Stoke City,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,W 1–0,Stoke City,Watford,Y,CB,90,0,0,0,0,0,0,0,0,40,6,1,0,2,0.0,0.0,0.0,0,0,25,34,73.5,1,14,0,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,D 2–2,Stoke City,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,55,4,3,2,5,0.0,0.0,0.0,0,0,28,42,66.7,3,27,7,0,0,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Home,W 2–1,at Austria,uy Uruguay,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-20,Mon,Premier League,Matchweek 12,Away,D 2–2,Stoke City,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,37,9,1,0,1,0.0,0.0,0.0,0,0,27,32,84.4,1,23,2,1,2,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,L 1–2,Stoke City,Crystal Palace,Y,CB,90,0,0,0,0,0,0,1,0,65,16,1,4,3,0.0,0.0,0.0,1,0,32,50,64.0,2,23,3,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,L 0–3,Stoke City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,W 2–1,Stoke City,Swansea City,N,CB,38,0,0,0,0,0,0,1,0,18,2,0,1,0,0.0,0.0,0.0,0,0,8,15,53.3,0,2,1,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 1–5,Stoke City,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,30,13,1,1,3,0.0,0.0,0.0,1,0,15,20,75.0,2,10,0,0,0,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Away,L 0–1,Stoke City,Burnley,N,CB,25,0,0,0,0,0,0,0,0,11,1,1,0,2,0.0,0.0,0.0,0,0,2,9,22.2,0,1,1,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,L 0–3,Stoke City,West Ham,Y,CB,90,0,0,0,0,0,0,1,0,48,6,0,2,3,0.0,0.0,0.0,0,0,35,40,87.5,3,28,2,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,W 3–1,Stoke City,West Brom,Y,LB,90,0,0,0,0,0,0,0,0,65,30,3,2,6,0.0,0.0,0.0,0,0,41,50,82.0,1,27,2,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 1–1,Stoke City,Huddersfield,Y,LB,90,0,0,0,0,0,0,0,0,47,15,2,3,2,0.0,0.0,0.0,2,0,31,35,88.6,2,19,1,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,L 0–5,Stoke City,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,55,6,2,0,2,0.0,0.0,0.0,0,0,38,42,90.5,0,37,0,0,0,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Home,L 0–1,Stoke City,Newcastle Utd,Y,"CB,LB",90,0,0,0,0,1,0,1,0,64,1,1,0,4,0.1,0.1,0.1,1,0,45,57,78.9,5,36,3,0,0,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,L 1–2,Stoke City,Coventry City,Y,CB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-15,Mon,Premier League,Matchweek 23,Away,L 0–3,Stoke City,Manchester Utd,N,LB,45,0,0,0,0,0,0,0,0,28,1,0,0,3,0.0,0.0,0.0,0,0,18,21,85.7,1,18,3,0,1,Match Report
+2017-2018,2018-02-05,Mon,PL2 — Div. 2,Regular Season,Home,W 3–2,Stoke City,Middlesbrough,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,PL2 — Div. 2,Regular Season,Home,L 0–1,Stoke City,Blackburn,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-02,Mon,PL2 — Div. 2,Regular Season,Home,L 1–3,Stoke City,Aston Villa,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-16,Mon,PL2 — Div. 2,Regular Season,Away,L 1–5,Stoke City,Brighton,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-30,Wed,Friendlies (M),Friendlies (M),Home,W 1–0,at Austria,ru Russia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,W 2–1,at Austria,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-10,Sun,Friendlies (M),Friendlies (M),Home,L 0–3,at Austria,br Brazil,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Southampton,Crystal Palace,Y,FW,84,0,0,0,0,1,1,0,0,24,10,1,0,0,0.2,0.2,0.1,2,0,14,18,77.8,2,11,1,0,1,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,L 0–2,Southampton,Brentford,Y,FW,83,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 2–5,Southampton,Tottenham,Y,FW,79,0,0,0,0,4,2,1,0,28,5,0,0,1,0.5,0.5,0.1,4,0,9,16,56.3,1,21,3,1,1,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Away,W 1–0,Southampton,Burnley,Y,FW,76,0,1,0,0,1,0,0,0,31,12,2,0,2,0.1,0.1,0.4,1,1,10,17,58.8,1,9,0,0,0,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 2–0,Southampton,West Brom,Y,FW,83,0,0,0,0,2,1,0,0,36,10,1,0,1,0.3,0.3,0.0,1,0,15,21,71.4,2,27,3,2,3,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Away,D 3–3,Southampton,Chelsea,Y,FW,85,1,1,0,0,3,2,0,0,32,15,0,0,0,0.9,0.9,0.8,1,1,16,23,69.6,3,19,1,1,1,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Home,W 2–0,Southampton,Everton,Y,FW,88,1,0,0,0,2,2,0,0,36,7,1,0,0,0.3,0.3,0.0,1,1,19,26,73.1,3,29,6,1,2,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,W 4–3,Southampton,Aston Villa,Y,FW,90,0,0,0,0,0,0,0,0,27,14,2,0,2,0.0,0.0,0.1,2,0,16,20,80.0,1,16,5,0,2,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Home,W 2–0,Southampton,Newcastle Utd,Y,FW,90,1,0,0,0,4,3,0,0,40,16,0,0,0,0.2,0.2,0.0,0,0,22,28,78.6,3,26,2,1,1,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,FW,90,0,1,0,0,2,0,0,0,34,13,1,1,0,0.1,0.1,1.2,5,1,16,22,72.7,3,21,1,1,2,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Home,L 2–3,Southampton,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,40,10,1,1,0,0.0,0.0,0.1,2,0,22,27,81.5,2,31,1,1,1,Match Report
+2020-2021,2020-12-07,Mon,Premier League,Matchweek 11,Away,W 2–1,Southampton,Brighton,Y,FW,90,0,0,0,0,0,0,0,0,33,20,3,0,0,0.0,0.0,0.0,1,0,12,24,50.0,3,16,3,1,1,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,W 3–0,Southampton,Sheffield Utd,Y,FW,83,1,0,0,0,2,1,0,0,33,3,1,0,1,0.1,0.1,0.7,5,0,18,24,75.0,4,19,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 1–1,Southampton,Arsenal,Y,FW,90,0,1,0,0,2,1,0,0,27,14,0,0,0,0.0,0.0,0.4,1,1,13,19,68.4,2,25,2,1,1,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,L 0–1,Southampton,Manchester City,Y,FW,81,0,0,0,0,2,0,0,0,25,30,1,0,1,0.5,0.5,0.0,1,0,8,12,66.7,1,15,0,1,3,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,D 0–0,Southampton,Fulham,Y,FW,90,0,0,0,0,0,0,0,0,32,10,2,1,1,0.0,0.0,0.0,1,0,10,18,55.6,0,16,1,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,D 0–0,Southampton,West Ham,Y,FW,57,0,0,0,0,2,1,0,0,21,5,1,0,0,0.3,0.3,0.0,2,0,9,15,60.0,0,11,1,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,L 0–2,Southampton,Leicester City,Y,FW,71,0,0,0,0,2,1,0,0,21,14,0,0,0,0.1,0.1,0.0,1,0,8,12,66.7,2,12,2,1,2,Match Report
+2020-2021,2021-01-19,Tue,FA Cup,Third round,Home,W 2–0,Southampton,Shrewsbury,N,,12,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 1–0,Southampton,Arsenal,Y,FW,77,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–3,Southampton,Arsenal,Y,FW,90,0,0,0,0,2,1,0,0,29,15,1,0,2,0.1,0.1,0.1,2,0,12,18,66.7,2,18,1,2,3,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,L 0–1,Southampton,Aston Villa,N,FW,26,0,0,0,0,2,1,0,0,18,6,1,0,1,0.6,0.6,0.0,1,0,8,10,80.0,2,13,3,0,1,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 0–9,Southampton,Manchester Utd,Y,"FW,AM",90,0,0,0,0,1,0,0,0,29,9,2,2,1,0.4,0.4,0.0,1,0,15,20,75.0,1,17,1,1,2,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,L 2–3,Southampton,Newcastle Utd,Y,"FW,RW",90,0,0,0,0,2,0,0,0,34,5,0,0,1,0.1,0.1,0.3,5,1,16,23,69.6,0,27,3,1,1,Match Report
+2020-2021,2021-02-11,Thu,FA Cup,Fifth round,Away,W 2–0,Southampton,Wolves,N,,8,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,L 1–2,Southampton,Wolves,N,"FW,RM",22,0,0,0,0,1,0,0,0,8,5,0,0,1,0.2,0.2,0.0,0,0,1,4,25.0,0,5,0,1,2,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,D 1–1,Southampton,Chelsea,N,FW,6,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Match Report
+2020-2021,2021-02-23,Tue,Premier League,Matchweek 18,Away,L 0–3,Southampton,Leeds United,Y,FW,90,0,0,0,0,2,1,0,0,43,14,1,0,1,0.2,0.2,0.0,2,0,21,26,80.8,1,39,4,0,2,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Away,L 0–1,Southampton,Everton,Y,FW,76,0,0,0,0,0,0,0,0,28,15,2,1,0,0.0,0.0,0.0,0,0,8,16,50.0,1,22,4,1,1,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,W 2–0,Southampton,Sheffield Utd,N,FW,78,1,0,0,0,3,3,0,0,29,12,1,0,2,0.3,0.3,0.0,0,0,9,15,60.0,5,16,2,0,1,Match Report
+2020-2021,2021-03-10,Wed,Premier League,Matchweek 33,Away,L 2–5,Southampton,Manchester City,Y,FW,90,1,0,0,0,1,1,0,0,23,19,0,1,0,0.6,0.6,0.2,5,0,12,19,63.2,2,17,2,1,2,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Home,L 1–2,Southampton,Brighton,Y,"RW,FW",90,1,0,0,0,2,1,0,0,28,7,1,0,1,0.5,0.5,0.0,3,0,15,19,78.9,0,18,1,0,1,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Away,W 3–0,Southampton,Bournemouth,Y,FW,89,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Home,D 2–2,sco Scotland,at Austria,N,,25,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,D 1–1,sco Scotland,il Israel,Y,FW,74,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Home,W 4–0,sco Scotland,fo Faroe Islands,Y,FW,72,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,W 3–2,Southampton,Burnley,N,FW,5,0,0,0,0,1,0,0,0,3,3,0,0,0,0.3,0.3,0.0,0,0,1,1,100.0,0,3,1,1,1,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Away,L 0–3,Southampton,West Brom,N,RM,15,0,0,0,0,1,0,0,0,3,1,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,4,1,1,1,Match Report
+2020-2021,2021-04-18,Sun,FA Cup,Semi-finals,Away,L 0–1,Southampton,Leicester City,N,,32,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 29,Away,L 1–2,Southampton,Tottenham,Y,FW,90,0,0,0,0,1,1,0,0,32,27,1,0,1,0.3,0.3,0.0,1,0,16,19,84.2,1,21,4,0,1,Match Report

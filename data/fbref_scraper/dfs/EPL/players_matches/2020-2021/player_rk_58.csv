@@ -1,0 +1,19 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-04,Fri,UEFA Nations League,League B,Home,L 1–2,no Norway,at Austria,Y,CM,90,0,0,0,0,2,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Home,L 0–2,Sheffield Utd,Wolves,N,DM,15,0,0,0,0,0,0,0,0,25,3,1,0,0,0.0,0.0,0.1,1,0,24,24,100.0,2,17,3,0,0,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Away,L 1 (4)–1 (5),Sheffield Utd,Burnley,Y,CM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Away,L 0–1,Sheffield Utd,Aston Villa,Y,"CM,DM",90,0,0,0,0,2,0,0,0,35,14,2,0,1,0.0,0.0,0.0,0,0,14,19,73.7,1,18,2,0,0,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,L 0–1,Sheffield Utd,Leeds United,Y,DM,90,0,0,0,0,0,0,0,0,45,21,2,1,3,0.0,0.0,0.2,5,0,26,40,65.0,4,29,8,1,1,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 1–2,Sheffield Utd,Arsenal,Y,DM,90,0,0,0,0,0,0,1,0,58,9,1,0,0,0.0,0.0,0.0,0,0,46,53,86.8,5,43,3,1,1,Match Report
+2020-2021,2020-10-08,Thu,Euro Qualifying,Semi-finals,Home,L 1–2,no Norway,rs Serbia,Y,CM,120,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League B,Home,W 4–0,no Norway,ro Romania,Y,DM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Home,W 1–0,no Norway,nir Northern Ireland,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 1–1,Sheffield Utd,Fulham,Y,CM,90,0,0,0,0,1,1,0,0,45,15,0,1,2,0.0,0.0,0.0,2,0,25,34,73.5,3,34,13,1,1,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,L 1–2,Sheffield Utd,Liverpool,Y,CM,90,1,0,1,1,1,0,1,0,49,18,1,0,2,0.8,0.0,0.1,2,0,34,40,85.0,1,33,4,2,2,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Home,L 0–1,Sheffield Utd,Manchester City,Y,CM,90,0,0,0,0,1,0,0,0,42,10,1,0,4,0.0,0.0,0.2,3,0,24,32,75.0,5,31,6,4,6,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Away,L 1–4,Sheffield Utd,Chelsea,Y,"CM,DM",90,0,1,0,0,1,0,1,0,53,24,2,0,1,0.1,0.1,0.0,2,1,30,39,76.9,2,30,1,1,3,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Home,L 0–1,Sheffield Utd,West Ham,Y,"CM,DM",90,0,0,0,0,0,0,0,0,62,21,5,0,3,0.0,0.0,0.0,1,0,44,51,86.3,4,45,8,1,4,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Away,L 0–1,Sheffield Utd,West Brom,Y,"CM,DM",90,0,0,0,0,1,0,1,0,59,16,2,0,2,0.0,0.0,0.4,5,0,44,45,97.8,2,45,8,2,3,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,L 1–2,Sheffield Utd,Leicester City,Y,DM,90,0,0,0,0,0,0,0,0,39,21,3,1,1,0.0,0.0,0.1,1,0,20,25,80.0,0,22,2,2,2,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,L 0–3,Sheffield Utd,Southampton,Y,CM,90,0,0,0,0,2,0,0,0,34,18,1,0,0,0.2,0.2,0.0,0,0,17,23,73.9,0,22,3,3,5,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Home,L 2–3,Sheffield Utd,Manchester Utd,Y,CM,11,0,0,0,0,0,0,0,0,4,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report

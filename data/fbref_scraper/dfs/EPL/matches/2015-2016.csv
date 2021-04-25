@@ -1,0 +1,381 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,AwayTeam,Attendance,Venue,Referee,HomeScore,AwayScore
+EPL,2015-2016,1,Sat,2015-08-08,12:45,Manchester Utd,Tottenham,75261,Old Trafford,Jonathan Moss,1,0
+EPL,2015-2016,1,Sat,2015-08-08,15:00,Norwich City,Crystal Palace,27036,Carrow Road,Simon Hooper,1,3
+EPL,2015-2016,1,Sat,2015-08-08,15:00,Leicester City,Sunderland,32242,King Power Stadium,Lee Mason,4,2
+EPL,2015-2016,1,Sat,2015-08-08,15:00,Bournemouth,Aston Villa,11155,Vitality Stadium,Mark Clattenburg,0,1
+EPL,2015-2016,1,Sat,2015-08-08,15:00,Everton,Watford,39063,Goodison Park,Mike Jones,2,2
+EPL,2015-2016,1,Sat,2015-08-08,17:30,Chelsea,Swansea City,41232,Stamford Bridge,Michael Oliver,2,2
+EPL,2015-2016,1,Sun,2015-08-09,13:30,Arsenal,West Ham,59996,Emirates Stadium,Martin Atkinson,0,2
+EPL,2015-2016,1,Sun,2015-08-09,13:30,Newcastle Utd,Southampton,49019,St. James' Park,Craig Pawson,2,2
+EPL,2015-2016,1,Sun,2015-08-09,16:00,Stoke City,Liverpool,27654,Bet365 Stadium,Anthony Taylor,0,1
+EPL,2015-2016,1,Mon,2015-08-10,20:00,West Brom,Manchester City,24564,The Hawthorns,Mike Dean,0,3
+EPL,2015-2016,2,Fri,2015-08-14,19:45,Aston Villa,Manchester Utd,42200,Villa Park,Mike Dean,0,1
+EPL,2015-2016,2,Sat,2015-08-15,12:45,Southampton,Everton,30966,St. Mary's Stadium,Michael Oliver,0,3
+EPL,2015-2016,2,Sat,2015-08-15,15:00,Swansea City,Newcastle Utd,20678,Liberty Stadium,Mike Jones,2,0
+EPL,2015-2016,2,Sat,2015-08-15,15:00,Sunderland,Norwich City,41379,Stadium of Light,Kevin Friend,1,3
+EPL,2015-2016,2,Sat,2015-08-15,15:00,Watford,West Brom,20011,Vicarage Road Stadium,Paul Tierney,0,0
+EPL,2015-2016,2,Sat,2015-08-15,15:00,Tottenham,Stoke City,36004,White Hart Lane,Robert Madley,2,2
+EPL,2015-2016,2,Sat,2015-08-15,15:00,West Ham,Leicester City,34857,Boleyn Ground,Anthony Taylor,1,2
+EPL,2015-2016,2,Sun,2015-08-16,13:30,Crystal Palace,Arsenal,24732,Selhurst Park,Lee Mason,1,2
+EPL,2015-2016,2,Sun,2015-08-16,16:00,Manchester City,Chelsea,54331,Etihad Stadium,Martin Atkinson,3,0
+EPL,2015-2016,2,Mon,2015-08-17,20:00,Liverpool,Bournemouth,44102,Anfield,Craig Pawson,1,0
+EPL,2015-2016,3,Sat,2015-08-22,12:45,Manchester Utd,Newcastle Utd,75354,Old Trafford,Craig Pawson,0,0
+EPL,2015-2016,3,Sat,2015-08-22,15:00,Leicester City,Tottenham,31971,King Power Stadium,Martin Atkinson,1,1
+EPL,2015-2016,3,Sat,2015-08-22,15:00,Sunderland,Swansea City,39198,Stadium of Light,Niel Swarbrick,1,1
+EPL,2015-2016,3,Sat,2015-08-22,15:00,Crystal Palace,Aston Villa,25295,Selhurst Park,Keith Stroud,2,1
+EPL,2015-2016,3,Sat,2015-08-22,15:00,Norwich City,Stoke City,26771,Carrow Road,Mike Dean,1,1
+EPL,2015-2016,3,Sat,2015-08-22,15:00,West Ham,Bournemouth,34977,Boleyn Ground,Jonathan Moss,3,4
+EPL,2015-2016,3,Sun,2015-08-23,13:30,West Brom,Chelsea,23256,The Hawthorns,Mark Clattenburg,2,3
+EPL,2015-2016,3,Sun,2015-08-23,16:00,Everton,Manchester City,38523,Goodison Park,Anthony Taylor,0,2
+EPL,2015-2016,3,Sun,2015-08-23,16:00,Watford,Southampton,20166,Vicarage Road Stadium,Andre Marriner,0,0
+EPL,2015-2016,3,Mon,2015-08-24,20:00,Arsenal,Liverpool,60080,Emirates Stadium,Michael Oliver,0,0
+EPL,2015-2016,4,Sat,2015-08-29,12:45,Newcastle Utd,Arsenal,50388,St. James' Park,Andre Marriner,0,1
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Manchester City,Watford,53218,Etihad Stadium,Mark Clattenburg,2,0
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Bournemouth,Leicester City,11155,Vitality Stadium,Niel Swarbrick,1,1
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Chelsea,Crystal Palace,41581,Stamford Bridge,Craig Pawson,1,2
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Aston Villa,Sunderland,35399,Villa Park,Robert Madley,2,2
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Liverpool,West Ham,43680,Anfield,Kevin Friend,0,3
+EPL,2015-2016,4,Sat,2015-08-29,15:00,Stoke City,West Brom,26747,Bet365 Stadium,Michael Oliver,0,1
+EPL,2015-2016,4,Sat,2015-08-29,17:30,Tottenham,Everton,35865,White Hart Lane,Mike Jones,0,0
+EPL,2015-2016,4,Sun,2015-08-30,13:30,Southampton,Norwich City,29573,St. Mary's Stadium,Jonathan Moss,3,0
+EPL,2015-2016,4,Sun,2015-08-30,16:00,Swansea City,Manchester Utd,20828,Liberty Stadium,Martin Atkinson,2,1
+EPL,2015-2016,5,Sat,2015-09-12,12:45,Everton,Chelsea,38311,Goodison Park,Andre Marriner,3,1
+EPL,2015-2016,5,Sat,2015-09-12,15:00,West Brom,Southampton,24265,The Hawthorns,Stuart Attwell,0,0
+EPL,2015-2016,5,Sat,2015-09-12,15:00,Arsenal,Stoke City,59963,Emirates Stadium,Jonathan Moss,2,0
+EPL,2015-2016,5,Sat,2015-09-12,15:00,Norwich City,Bournemouth,27018,Carrow Road,Martin Atkinson,3,1
+EPL,2015-2016,5,Sat,2015-09-12,15:00,Crystal Palace,Manchester City,25167,Selhurst Park,Mike Jones,0,1
+EPL,2015-2016,5,Sat,2015-09-12,15:00,Watford,Swansea City,20057,Vicarage Road Stadium,Robert Madley,1,0
+EPL,2015-2016,5,Sat,2015-09-12,17:30,Manchester Utd,Liverpool,75347,Old Trafford,Michael Oliver,3,1
+EPL,2015-2016,5,Sun,2015-09-13,13:30,Sunderland,Tottenham,40303,Stadium of Light,Craig Pawson,0,1
+EPL,2015-2016,5,Sun,2015-09-13,16:00,Leicester City,Aston Villa,31733,King Power Stadium,Mike Dean,3,2
+EPL,2015-2016,5,Mon,2015-09-14,20:00,West Ham,Newcastle Utd,34907,Boleyn Ground,Anthony Taylor,2,0
+EPL,2015-2016,6,Sat,2015-09-19,12:45,Chelsea,Arsenal,41584,Stamford Bridge,Mike Dean,2,0
+EPL,2015-2016,6,Sat,2015-09-19,15:00,Newcastle Utd,Watford,47806,St. James' Park,Roger East,1,2
+EPL,2015-2016,6,Sat,2015-09-19,15:00,Stoke City,Leicester City,27642,Bet365 Stadium,Andre Marriner,2,2
+EPL,2015-2016,6,Sat,2015-09-19,15:00,Aston Villa,West Brom,36321,Villa Park,Martin Atkinson,0,1
+EPL,2015-2016,6,Sat,2015-09-19,15:00,Bournemouth,Sunderland,11271,Vitality Stadium,Kevin Friend,2,0
+EPL,2015-2016,6,Sat,2015-09-19,15:00,Swansea City,Everton,20805,Liberty Stadium,Stuart Attwell,0,0
+EPL,2015-2016,6,Sat,2015-09-19,17:30,Manchester City,West Ham,53545,Etihad Stadium,Robert Madley,1,2
+EPL,2015-2016,6,Sun,2015-09-20,13:30,Tottenham,Crystal Palace,35723,White Hart Lane,Michael Oliver,1,0
+EPL,2015-2016,6,Sun,2015-09-20,16:00,Southampton,Manchester Utd,31588,St. Mary's Stadium,Mark Clattenburg,2,3
+EPL,2015-2016,6,Sun,2015-09-20,16:00,Liverpool,Norwich City,44072,Anfield,Anthony Taylor,1,1
+EPL,2015-2016,7,Sat,2015-09-26,12:45,Tottenham,Manchester City,35867,White Hart Lane,Mark Clattenburg,4,1
+EPL,2015-2016,7,Sat,2015-09-26,15:00,Liverpool,Aston Villa,44228,Anfield,Jonathan Moss,3,2
+EPL,2015-2016,7,Sat,2015-09-26,15:00,Leicester City,Arsenal,32047,King Power Stadium,Craig Pawson,2,5
+EPL,2015-2016,7,Sat,2015-09-26,15:00,Manchester Utd,Sunderland,75328,Old Trafford,Mike Jones,3,0
+EPL,2015-2016,7,Sat,2015-09-26,15:00,Southampton,Swansea City,30704,St. Mary's Stadium,Roger East,3,1
+EPL,2015-2016,7,Sat,2015-09-26,15:00,Stoke City,Bournemouth,27742,Bet365 Stadium,Lee Mason,2,1
+EPL,2015-2016,7,Sat,2015-09-26,15:00,West Ham,Norwich City,34857,Boleyn Ground,Mike Dean,2,2
+EPL,2015-2016,7,Sat,2015-09-26,17:30,Newcastle Utd,Chelsea,48682,St. James' Park,Martin Atkinson,2,2
+EPL,2015-2016,7,Sun,2015-09-27,16:00,Watford,Crystal Palace,20168,Vicarage Road Stadium,Anthony Taylor,0,1
+EPL,2015-2016,7,Mon,2015-09-28,20:00,West Brom,Everton,24240,The Hawthorns,Robert Madley,2,3
+EPL,2015-2016,8,Sat,2015-10-03,12:45,Crystal Palace,West Brom,24033,Selhurst Park,Jonathan Moss,2,0
+EPL,2015-2016,8,Sat,2015-10-03,15:00,Sunderland,West Ham,42932,Stadium of Light,Niel Swarbrick,2,2
+EPL,2015-2016,8,Sat,2015-10-03,15:00,Bournemouth,Watford,11187,Vitality Stadium,Michael Oliver,1,1
+EPL,2015-2016,8,Sat,2015-10-03,15:00,Norwich City,Leicester City,27067,Carrow Road,Mark Clattenburg,1,2
+EPL,2015-2016,8,Sat,2015-10-03,15:00,Manchester City,Newcastle Utd,53850,Etihad Stadium,Kevin Friend,6,1
+EPL,2015-2016,8,Sat,2015-10-03,15:00,Aston Villa,Stoke City,33189,Villa Park,Mike Jones,0,1
+EPL,2015-2016,8,Sat,2015-10-03,17:30,Chelsea,Southampton,41642,Stamford Bridge,Robert Madley,1,3
+EPL,2015-2016,8,Sun,2015-10-04,13:30,Everton,Liverpool,39598,Goodison Park,Martin Atkinson,1,1
+EPL,2015-2016,8,Sun,2015-10-04,16:00,Arsenal,Manchester Utd,60084,Emirates Stadium,Anthony Taylor,3,0
+EPL,2015-2016,8,Sun,2015-10-04,16:00,Swansea City,Tottenham,20845,Liberty Stadium,Mike Dean,2,2
+EPL,2015-2016,9,Sat,2015-10-17,12:45,Tottenham,Liverpool,35926,White Hart Lane,Craig Pawson,0,0
+EPL,2015-2016,9,Sat,2015-10-17,15:00,Southampton,Leicester City,30966,St. Mary's Stadium,Paul Tierney,2,2
+EPL,2015-2016,9,Sat,2015-10-17,15:00,Crystal Palace,West Ham,24812,Selhurst Park,Mark Clattenburg,1,3
+EPL,2015-2016,9,Sat,2015-10-17,15:00,Everton,Manchester Utd,39553,Goodison Park,Jonathan Moss,0,3
+EPL,2015-2016,9,Sat,2015-10-17,15:00,West Brom,Sunderland,24225,The Hawthorns,Martin Atkinson,1,0
+EPL,2015-2016,9,Sat,2015-10-17,15:00,Manchester City,Bournemouth,54502,Etihad Stadium,Mike Dean,5,1
+EPL,2015-2016,9,Sat,2015-10-17,15:00,Chelsea,Aston Villa,41596,Stamford Bridge,Roger East,2,0
+EPL,2015-2016,9,Sat,2015-10-17,17:30,Watford,Arsenal,20721,Vicarage Road Stadium,Mike Jones,0,3
+EPL,2015-2016,9,Sun,2015-10-18,16:00,Newcastle Utd,Norwich City,47006,St. James' Park,Anthony Taylor,6,2
+EPL,2015-2016,9,Mon,2015-10-19,20:00,Swansea City,Stoke City,20044,Liberty Stadium,Robert Madley,0,1
+EPL,2015-2016,10,Sat,2015-10-24,15:00,Leicester City,Crystal Palace,31752,King Power Stadium,Mike Dean,1,0
+EPL,2015-2016,10,Sat,2015-10-24,15:00,West Ham,Chelsea,34977,Boleyn Ground,Jonathan Moss,2,1
+EPL,2015-2016,10,Sat,2015-10-24,15:00,Norwich City,West Brom,26983,Carrow Road,Kevin Friend,0,1
+EPL,2015-2016,10,Sat,2015-10-24,15:00,Aston Villa,Swansea City,33324,Villa Park,Niel Swarbrick,1,2
+EPL,2015-2016,10,Sat,2015-10-24,15:00,Stoke City,Watford,27587,Bet365 Stadium,Martin Atkinson,0,2
+EPL,2015-2016,10,Sat,2015-10-24,17:30,Arsenal,Everton,59985,Emirates Stadium,Lee Mason,2,1
+EPL,2015-2016,10,Sun,2015-10-25,12:00,Sunderland,Newcastle Utd,47653,Stadium of Light,Robert Madley,3,0
+EPL,2015-2016,10,Sun,2015-10-25,14:05,Manchester Utd,Manchester City,75329,Old Trafford,Mark Clattenburg,0,0
+EPL,2015-2016,10,Sun,2015-10-25,14:05,Bournemouth,Tottenham,11332,Vitality Stadium,Roger East,1,5
+EPL,2015-2016,10,Sun,2015-10-25,16:15,Liverpool,Southampton,44171,Anfield,Andre Marriner,1,1
+EPL,2015-2016,11,Sat,2015-10-31,12:45,Chelsea,Liverpool,41577,Stamford Bridge,Mark Clattenburg,1,3
+EPL,2015-2016,11,Sat,2015-10-31,15:00,Swansea City,Arsenal,20937,Liberty Stadium,Kevin Friend,0,3
+EPL,2015-2016,11,Sat,2015-10-31,15:00,Crystal Palace,Manchester Utd,24854,Selhurst Park,Mike Jones,0,0
+EPL,2015-2016,11,Sat,2015-10-31,15:00,West Brom,Leicester City,24150,The Hawthorns,Anthony Taylor,2,3
+EPL,2015-2016,11,Sat,2015-10-31,15:00,Newcastle Utd,Stoke City,47139,St. James' Park,Roger East,0,0
+EPL,2015-2016,11,Sat,2015-10-31,15:00,Watford,West Ham,20598,Vicarage Road Stadium,Keith Stroud,2,0
+EPL,2015-2016,11,Sat,2015-10-31,15:00,Manchester City,Norwich City,53418,Etihad Stadium,Robert Madley,2,1
+EPL,2015-2016,11,Sun,2015-11-01,13:30,Everton,Sunderland,36617,Goodison Park,Andre Marriner,6,2
+EPL,2015-2016,11,Sun,2015-11-01,16:00,Southampton,Bournemouth,31229,St. Mary's Stadium,Craig Pawson,2,0
+EPL,2015-2016,11,Mon,2015-11-02,20:00,Tottenham,Aston Villa,34882,White Hart Lane,Mike Dean,3,1
+EPL,2015-2016,12,Sat,2015-11-07,12:45,Bournemouth,Newcastle Utd,11155,Vitality Stadium,Lee Mason,0,1
+EPL,2015-2016,12,Sat,2015-11-07,15:00,West Ham,Everton,34977,Boleyn Ground,Paul Tierney,1,1
+EPL,2015-2016,12,Sat,2015-11-07,15:00,Manchester Utd,West Brom,75410,Old Trafford,Mike Dean,2,0
+EPL,2015-2016,12,Sat,2015-11-07,15:00,Leicester City,Watford,32029,King Power Stadium,Roger East,2,1
+EPL,2015-2016,12,Sat,2015-11-07,15:00,Sunderland,Southampton,41781,Stadium of Light,Mike Jones,0,1
+EPL,2015-2016,12,Sat,2015-11-07,15:00,Norwich City,Swansea City,27029,Carrow Road,Mark Clattenburg,1,0
+EPL,2015-2016,12,Sat,2015-11-07,17:30,Stoke City,Chelsea,27550,Bet365 Stadium,Anthony Taylor,1,0
+EPL,2015-2016,12,Sun,2015-11-08,13:30,Aston Villa,Manchester City,36757,Villa Park,Craig Pawson,0,0
+EPL,2015-2016,12,Sun,2015-11-08,16:00,Liverpool,Crystal Palace,44115,Anfield,Niel Swarbrick,1,2
+EPL,2015-2016,12,Sun,2015-11-08,16:00,Arsenal,Tottenham,60060,Emirates Stadium,Martin Atkinson,1,1
+EPL,2015-2016,13,Sat,2015-11-21,12:45,Watford,Manchester Utd,20702,Vicarage Road Stadium,Robert Madley,1,2
+EPL,2015-2016,13,Sat,2015-11-21,15:00,West Brom,Arsenal,24343,The Hawthorns,Mark Clattenburg,2,1
+EPL,2015-2016,13,Sat,2015-11-21,15:00,Chelsea,Norwich City,41582,Stamford Bridge,Craig Pawson,1,0
+EPL,2015-2016,13,Sat,2015-11-21,15:00,Swansea City,Bournemouth,20878,Liberty Stadium,Andre Marriner,2,2
+EPL,2015-2016,13,Sat,2015-11-21,15:00,Newcastle Utd,Leicester City,50151,St. James' Park,Mike Jones,0,3
+EPL,2015-2016,13,Sat,2015-11-21,15:00,Everton,Aston Villa,38424,Goodison Park,Michael Oliver,4,0
+EPL,2015-2016,13,Sat,2015-11-21,15:00,Southampton,Stoke City,30039,St. Mary's Stadium,Lee Mason,0,1
+EPL,2015-2016,13,Sat,2015-11-21,17:30,Manchester City,Liverpool,54444,Etihad Stadium,Jonathan Moss,1,4
+EPL,2015-2016,13,Sun,2015-11-22,16:00,Tottenham,West Ham,35968,White Hart Lane,Anthony Taylor,4,1
+EPL,2015-2016,13,Mon,2015-11-23,20:00,Crystal Palace,Sunderland,24361,Selhurst Park,Martin Atkinson,0,1
+EPL,2015-2016,14,Sat,2015-11-28,15:00,Aston Villa,Watford,35057,Villa Park,Lee Mason,2,3
+EPL,2015-2016,14,Sat,2015-11-28,15:00,Bournemouth,Everton,11228,Vitality Stadium,Kevin Friend,3,3
+EPL,2015-2016,14,Sat,2015-11-28,15:00,Crystal Palace,Newcastle Utd,24833,Selhurst Park,Stuart Attwell,5,1
+EPL,2015-2016,14,Sat,2015-11-28,15:00,Manchester City,Southampton,54102,Etihad Stadium,Roger East,3,1
+EPL,2015-2016,14,Sat,2015-11-28,15:00,Sunderland,Stoke City,41516,Stadium of Light,Mike Dean,2,0
+EPL,2015-2016,14,Sat,2015-11-28,17:30,Leicester City,Manchester Utd,32115,King Power Stadium,Craig Pawson,1,1
+EPL,2015-2016,14,Sun,2015-11-29,12:00,Tottenham,Chelsea,35639,White Hart Lane,Michael Oliver,0,0
+EPL,2015-2016,14,Sun,2015-11-29,14:05,West Ham,West Brom,34914,Boleyn Ground,Martin Atkinson,1,1
+EPL,2015-2016,14,Sun,2015-11-29,16:15,Norwich City,Arsenal,27091,Carrow Road,Jonathan Moss,1,1
+EPL,2015-2016,14,Sun,2015-11-29,16:15,Liverpool,Swansea City,43905,Anfield,Anthony Taylor,1,0
+EPL,2015-2016,15,Sat,2015-12-05,12:45,Stoke City,Manchester City,27264,Bet365 Stadium,Martin Atkinson,2,0
+EPL,2015-2016,15,Sat,2015-12-05,15:00,Manchester Utd,West Ham,75350,Old Trafford,Mark Clattenburg,0,0
+EPL,2015-2016,15,Sat,2015-12-05,15:00,Southampton,Aston Villa,29645,St. Mary's Stadium,Anthony Taylor,1,1
+EPL,2015-2016,15,Sat,2015-12-05,15:00,Watford,Norwich City,20422,Vicarage Road Stadium,Mike Dean,2,0
+EPL,2015-2016,15,Sat,2015-12-05,15:00,Arsenal,Sunderland,59937,Emirates Stadium,Robert Madley,3,1
+EPL,2015-2016,15,Sat,2015-12-05,15:00,Swansea City,Leicester City,20836,Liberty Stadium,Michael Oliver,0,3
+EPL,2015-2016,15,Sat,2015-12-05,15:00,West Brom,Tottenham,23602,The Hawthorns,Jonathan Moss,1,1
+EPL,2015-2016,15,Sat,2015-12-05,17:30,Chelsea,Bournemouth,41631,Stamford Bridge,Mike Jones,0,1
+EPL,2015-2016,15,Sun,2015-12-06,16:00,Newcastle Utd,Liverpool,51273,St. James' Park,Andre Marriner,2,0
+EPL,2015-2016,15,Mon,2015-12-07,20:00,Everton,Crystal Palace,35736,Goodison Park,Craig Pawson,1,1
+EPL,2015-2016,16,Sat,2015-12-12,12:45,Norwich City,Everton,27027,Carrow Road,Martin Atkinson,1,1
+EPL,2015-2016,16,Sat,2015-12-12,15:00,Crystal Palace,Southampton,24914,Selhurst Park,Mike Dean,1,0
+EPL,2015-2016,16,Sat,2015-12-12,15:00,Sunderland,Watford,43989,Stadium of Light,Graham Scott,0,1
+EPL,2015-2016,16,Sat,2015-12-12,15:00,Manchester City,Swansea City,53052,Etihad Stadium,Robert Madley,2,1
+EPL,2015-2016,16,Sat,2015-12-12,15:00,West Ham,Stoke City,34857,Boleyn Ground,Andre Marriner,0,0
+EPL,2015-2016,16,Sat,2015-12-12,17:30,Bournemouth,Manchester Utd,11334,Vitality Stadium,Anthony Taylor,2,1
+EPL,2015-2016,16,Sun,2015-12-13,13:30,Aston Villa,Arsenal,33285,Villa Park,Kevin Friend,0,2
+EPL,2015-2016,16,Sun,2015-12-13,16:00,Tottenham,Newcastle Utd,35768,White Hart Lane,Roger East,1,2
+EPL,2015-2016,16,Sun,2015-12-13,16:00,Liverpool,West Brom,44147,Anfield,Craig Pawson,2,2
+EPL,2015-2016,16,Mon,2015-12-14,20:00,Leicester City,Chelsea,32054,King Power Stadium,Mark Clattenburg,2,1
+EPL,2015-2016,17,Sat,2015-12-19,15:00,West Brom,Bournemouth,26127,The Hawthorns,Mike Dean,1,2
+EPL,2015-2016,17,Sat,2015-12-19,15:00,Southampton,Tottenham,31636,St. Mary's Stadium,Kevin Friend,0,2
+EPL,2015-2016,17,Sat,2015-12-19,15:00,Everton,Leicester City,39570,Goodison Park,Jonathan Moss,2,3
+EPL,2015-2016,17,Sat,2015-12-19,15:00,Stoke City,Crystal Palace,27500,Bet365 Stadium,Robert Madley,1,2
+EPL,2015-2016,17,Sat,2015-12-19,15:00,Chelsea,Sunderland,41562,Stamford Bridge,Roger East,3,1
+EPL,2015-2016,17,Sat,2015-12-19,15:00,Manchester Utd,Norwich City,75320,Old Trafford,Michael Oliver,1,2
+EPL,2015-2016,17,Sat,2015-12-19,17:30,Newcastle Utd,Aston Villa,48234,St. James' Park,Martin Atkinson,1,1
+EPL,2015-2016,17,Sun,2015-12-20,13:30,Watford,Liverpool,20707,Vicarage Road Stadium,Mark Clattenburg,3,0
+EPL,2015-2016,17,Sun,2015-12-20,16:00,Swansea City,West Ham,20661,Liberty Stadium,Lee Mason,0,0
+EPL,2015-2016,17,Mon,2015-12-21,20:00,Arsenal,Manchester City,60053,Emirates Stadium,Andre Marriner,2,1
+EPL,2015-2016,18,Sat,2015-12-26,12:45,Stoke City,Manchester Utd,27426,Bet365 Stadium,Kevin Friend,2,0
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Manchester City,Sunderland,54523,Etihad Stadium,Anthony Taylor,4,1
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Liverpool,Leicester City,44123,Anfield,Martin Atkinson,1,0
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Aston Villa,West Ham,38193,Villa Park,Mike Dean,1,1
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Swansea City,West Brom,20789,Liberty Stadium,Roger East,1,0
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Bournemouth,Crystal Palace,11218,Vitality Stadium,Michael Oliver,0,0
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Chelsea,Watford,41620,Stamford Bridge,Andre Marriner,2,2
+EPL,2015-2016,18,Sat,2015-12-26,15:00,Tottenham,Norwich City,35198,White Hart Lane,Mike Jones,3,0
+EPL,2015-2016,18,Sat,2015-12-26,17:30,Newcastle Utd,Everton,51682,St. James' Park,Lee Mason,0,1
+EPL,2015-2016,18,Sat,2015-12-26,19:45,Southampton,Arsenal,31669,St. Mary's Stadium,Jonathan Moss,4,0
+EPL,2015-2016,19,Mon,2015-12-28,15:00,Watford,Tottenham,20730,Vicarage Road Stadium,Anthony Taylor,1,2
+EPL,2015-2016,19,Mon,2015-12-28,15:00,West Brom,Newcastle Utd,26313,The Hawthorns,Mike Jones,1,0
+EPL,2015-2016,19,Mon,2015-12-28,15:00,Norwich City,Aston Villa,27071,Carrow Road,Graham Scott,2,0
+EPL,2015-2016,19,Mon,2015-12-28,15:00,Crystal Palace,Swansea City,23714,Selhurst Park,Niel Swarbrick,0,0
+EPL,2015-2016,19,Mon,2015-12-28,15:00,Everton,Stoke City,39340,Goodison Park,Mark Clattenburg,3,4
+EPL,2015-2016,19,Mon,2015-12-28,17:30,West Ham,Southampton,34977,Boleyn Ground,Michael Oliver,2,1
+EPL,2015-2016,19,Mon,2015-12-28,17:30,Manchester Utd,Chelsea,75275,Old Trafford,Martin Atkinson,0,0
+EPL,2015-2016,19,Mon,2015-12-28,17:30,Arsenal,Bournemouth,59983,Emirates Stadium,Roger East,2,0
+EPL,2015-2016,19,Tue,2015-12-29,19:45,Leicester City,Manchester City,32072,King Power Stadium,Craig Pawson,0,0
+EPL,2015-2016,19,Wed,2015-12-30,19:45,Sunderland,Liverpool,45765,Stadium of Light,Kevin Friend,0,1
+EPL,2015-2016,20,Sat,2016-01-02,12:45,West Ham,Liverpool,34977,Boleyn Ground,Robert Madley,2,0
+EPL,2015-2016,20,Sat,2016-01-02,15:00,Sunderland,Aston Villa,41535,Stadium of Light,Craig Pawson,3,1
+EPL,2015-2016,20,Sat,2016-01-02,15:00,West Brom,Stoke City,23218,The Hawthorns,Lee Mason,2,1
+EPL,2015-2016,20,Sat,2016-01-02,15:00,Norwich City,Southampton,27022,Carrow Road,Mark Clattenburg,1,0
+EPL,2015-2016,20,Sat,2016-01-02,15:00,Manchester Utd,Swansea City,75415,Old Trafford,Jonathan Moss,2,1
+EPL,2015-2016,20,Sat,2016-01-02,15:00,Arsenal,Newcastle Utd,59257,Emirates Stadium,Anthony Taylor,1,0
+EPL,2015-2016,20,Sat,2016-01-02,15:00,Leicester City,Bournemouth,32006,King Power Stadium,Andre Marriner,0,0
+EPL,2015-2016,20,Sat,2016-01-02,17:30,Watford,Manchester City,20676,Vicarage Road Stadium,Martin Atkinson,1,2
+EPL,2015-2016,20,Sun,2016-01-03,13:30,Crystal Palace,Chelsea,24854,Selhurst Park,Kevin Friend,0,3
+EPL,2015-2016,20,Sun,2016-01-03,16:00,Everton,Tottenham,38482,Goodison Park,Michael Oliver,1,1
+EPL,2015-2016,21,Tue,2016-01-12,19:45,Bournemouth,West Ham,11071,Vitality Stadium,Martin Atkinson,1,3
+EPL,2015-2016,21,Tue,2016-01-12,19:45,Aston Villa,Crystal Palace,28245,Villa Park,Mark Clattenburg,1,0
+EPL,2015-2016,21,Tue,2016-01-12,19:45,Newcastle Utd,Manchester Utd,49673,St. James' Park,Mike Dean,3,3
+EPL,2015-2016,21,Wed,2016-01-13,19:45,Southampton,Watford,28399,St. Mary's Stadium,Craig Pawson,2,0
+EPL,2015-2016,21,Wed,2016-01-13,19:45,Swansea City,Sunderland,20140,Liberty Stadium,Graham Scott,2,4
+EPL,2015-2016,21,Wed,2016-01-13,19:45,Chelsea,West Brom,40945,Stamford Bridge,Anthony Taylor,2,2
+EPL,2015-2016,21,Wed,2016-01-13,19:45,Manchester City,Everton,53796,Etihad Stadium,Roger East,0,0
+EPL,2015-2016,21,Wed,2016-01-13,19:45,Stoke City,Norwich City,27274,Bet365 Stadium,Niel Swarbrick,3,1
+EPL,2015-2016,21,Wed,2016-01-13,20:00,Liverpool,Arsenal,44109,Anfield,Mike Jones,3,3
+EPL,2015-2016,21,Wed,2016-01-13,20:00,Tottenham,Leicester City,35850,White Hart Lane,Lee Mason,0,1
+EPL,2015-2016,22,Sat,2016-01-16,12:45,Tottenham,Sunderland,35854,White Hart Lane,Mike Dean,4,1
+EPL,2015-2016,22,Sat,2016-01-16,15:00,Bournemouth,Norwich City,11065,Vitality Stadium,Robert Madley,3,0
+EPL,2015-2016,22,Sat,2016-01-16,15:00,Manchester City,Crystal Palace,53983,Etihad Stadium,Jonathan Moss,4,0
+EPL,2015-2016,22,Sat,2016-01-16,15:00,Newcastle Utd,West Ham,50031,St. James' Park,Niel Swarbrick,2,1
+EPL,2015-2016,22,Sat,2016-01-16,15:00,Chelsea,Everton,41633,Stamford Bridge,Mike Jones,3,3
+EPL,2015-2016,22,Sat,2016-01-16,15:00,Southampton,West Brom,29622,St. Mary's Stadium,Martin Atkinson,3,0
+EPL,2015-2016,22,Sat,2016-01-16,17:30,Aston Villa,Leicester City,32763,Villa Park,Roger East,1,1
+EPL,2015-2016,22,Sun,2016-01-17,14:05,Liverpool,Manchester Utd,43865,Anfield,Mark Clattenburg,0,1
+EPL,2015-2016,22,Sun,2016-01-17,16:15,Stoke City,Arsenal,27683,Bet365 Stadium,Craig Pawson,0,0
+EPL,2015-2016,22,Mon,2016-01-18,20:00,Swansea City,Watford,20430,Liberty Stadium,Michael Oliver,1,0
+EPL,2015-2016,23,Sat,2016-01-23,12:45,Norwich City,Liverpool,27108,Carrow Road,Lee Mason,4,5
+EPL,2015-2016,23,Sat,2016-01-23,15:00,West Brom,Aston Villa,26165,The Hawthorns,Robert Madley,0,0
+EPL,2015-2016,23,Sat,2016-01-23,15:00,Watford,Newcastle Utd,20611,Vicarage Road Stadium,Andre Marriner,2,1
+EPL,2015-2016,23,Sat,2016-01-23,15:00,Sunderland,Bournemouth,41367,Stadium of Light,Roger East,1,1
+EPL,2015-2016,23,Sat,2016-01-23,15:00,Manchester Utd,Southampton,75408,Old Trafford,Mike Jones,0,1
+EPL,2015-2016,23,Sat,2016-01-23,15:00,Crystal Palace,Tottenham,28467,Selhurst Park,Martin Atkinson,1,3
+EPL,2015-2016,23,Sat,2016-01-23,15:00,Leicester City,Stoke City,32018,King Power Stadium,Mike Dean,3,0
+EPL,2015-2016,23,Sat,2016-01-23,17:30,West Ham,Manchester City,34977,Boleyn Ground,Craig Pawson,2,2
+EPL,2015-2016,23,Sun,2016-01-24,13:30,Everton,Swansea City,36908,Goodison Park,Anthony Taylor,1,2
+EPL,2015-2016,23,Sun,2016-01-24,16:00,Arsenal,Chelsea,60072,Emirates Stadium,Mark Clattenburg,0,1
+EPL,2015-2016,24,Tue,2016-02-02,19:45,Leicester City,Liverpool,32121,King Power Stadium,Andre Marriner,2,0
+EPL,2015-2016,24,Tue,2016-02-02,19:45,Sunderland,Manchester City,38852,Stadium of Light,Stuart Attwell,0,1
+EPL,2015-2016,24,Tue,2016-02-02,19:45,West Ham,Aston Villa,34914,Boleyn Ground,Jonathan Moss,2,0
+EPL,2015-2016,24,Tue,2016-02-02,19:45,Arsenal,Southampton,60044,Emirates Stadium,Lee Mason,0,0
+EPL,2015-2016,24,Tue,2016-02-02,19:45,Norwich City,Tottenham,27067,Carrow Road,Kevin Friend,0,3
+EPL,2015-2016,24,Tue,2016-02-02,20:00,Manchester Utd,Stoke City,75234,Old Trafford,Roger East,3,0
+EPL,2015-2016,24,Tue,2016-02-02,20:00,West Brom,Swansea City,22062,The Hawthorns,Niel Swarbrick,1,1
+EPL,2015-2016,24,Tue,2016-02-02,20:00,Crystal Palace,Bournemouth,24855,Selhurst Park,Mike Jones,1,2
+EPL,2015-2016,24,Wed,2016-02-03,19:45,Everton,Newcastle Utd,36061,Goodison Park,Craig Pawson,3,0
+EPL,2015-2016,24,Wed,2016-02-03,19:45,Watford,Chelsea,20910,Vicarage Road Stadium,Mike Dean,0,0
+EPL,2015-2016,25,Sat,2016-02-06,12:45,Manchester City,Leicester City,54693,Etihad Stadium,Anthony Taylor,1,3
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Tottenham,Watford,35997,White Hart Lane,Roger East,1,0
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Stoke City,Everton,27733,Bet365 Stadium,Andre Marriner,0,3
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Newcastle Utd,West Brom,50152,St. James' Park,Lee Mason,1,0
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Liverpool,Sunderland,44179,Anfield,Robert Madley,2,2
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Swansea City,Crystal Palace,20492,Liberty Stadium,Mike Dean,1,1
+EPL,2015-2016,25,Sat,2016-02-06,15:00,Aston Villa,Norwich City,32472,Villa Park,Martin Atkinson,2,0
+EPL,2015-2016,25,Sat,2016-02-06,17:30,Southampton,West Ham,29161,St. Mary's Stadium,Mark Clattenburg,1,0
+EPL,2015-2016,25,Sun,2016-02-07,13:30,Bournemouth,Arsenal,11357,Vitality Stadium,Kevin Friend,0,2
+EPL,2015-2016,25,Sun,2016-02-07,16:00,Chelsea,Manchester Utd,41434,Stamford Bridge,Michael Oliver,1,1
+EPL,2015-2016,26,Sat,2016-02-13,12:45,Sunderland,Manchester Utd,41687,Stadium of Light,Andre Marriner,2,1
+EPL,2015-2016,26,Sat,2016-02-13,15:00,Crystal Palace,Watford,24564,Selhurst Park,Robert Madley,1,2
+EPL,2015-2016,26,Sat,2016-02-13,15:00,Bournemouth,Stoke City,10863,Vitality Stadium,Graham Scott,1,3
+EPL,2015-2016,26,Sat,2016-02-13,15:00,Swansea City,Southampton,20890,Liberty Stadium,Jonathan Moss,0,1
+EPL,2015-2016,26,Sat,2016-02-13,15:00,Everton,West Brom,38103,Goodison Park,Michael Oliver,0,1
+EPL,2015-2016,26,Sat,2016-02-13,15:00,Norwich City,West Ham,27101,Carrow Road,Mike Jones,2,2
+EPL,2015-2016,26,Sat,2016-02-13,17:30,Chelsea,Newcastle Utd,41622,Stamford Bridge,Roger East,5,1
+EPL,2015-2016,26,Sun,2016-02-14,12:00,Arsenal,Leicester City,60009,Emirates Stadium,Martin Atkinson,2,1
+EPL,2015-2016,26,Sun,2016-02-14,14:05,Aston Villa,Liverpool,35798,Villa Park,Niel Swarbrick,0,6
+EPL,2015-2016,26,Sun,2016-02-14,16:15,Manchester City,Tottenham,54551,Etihad Stadium,Mark Clattenburg,1,2
+EPL,2015-2016,27,Sat,2016-02-27,12:45,West Ham,Sunderland,34946,Boleyn Ground,Mike Dean,1,0
+EPL,2015-2016,27,Sat,2016-02-27,15:00,Stoke City,Aston Villa,27703,Bet365 Stadium,Kevin Friend,2,1
+EPL,2015-2016,27,Sat,2016-02-27,15:00,Southampton,Chelsea,31688,St. Mary's Stadium,Martin Atkinson,1,2
+EPL,2015-2016,27,Sat,2016-02-27,15:00,Watford,Bournemouth,20831,Vicarage Road Stadium,Anthony Taylor,0,0
+EPL,2015-2016,27,Sat,2016-02-27,15:00,Leicester City,Norwich City,32114,King Power Stadium,Niel Swarbrick,1,0
+EPL,2015-2016,27,Sat,2016-02-27,17:30,West Brom,Crystal Palace,24806,The Hawthorns,Jonathan Moss,3,2
+EPL,2015-2016,27,Sun,2016-02-28,14:05,Tottenham,Swansea City,35922,White Hart Lane,Mike Jones,2,1
+EPL,2015-2016,27,Sun,2016-02-28,14:05,Manchester Utd,Arsenal,75329,Old Trafford,Craig Pawson,3,2
+EPL,2015-2016,28,Tue,2016-03-01,19:45,Sunderland,Crystal Palace,39795,Stadium of Light,Anthony Taylor,2,2
+EPL,2015-2016,28,Tue,2016-03-01,19:45,Leicester City,West Brom,32018,King Power Stadium,Mark Clattenburg,2,2
+EPL,2015-2016,28,Tue,2016-03-01,19:45,Bournemouth,Southampton,11033,Vitality Stadium,Mike Dean,2,0
+EPL,2015-2016,28,Tue,2016-03-01,19:45,Norwich City,Chelsea,27091,Carrow Road,Lee Mason,1,2
+EPL,2015-2016,28,Tue,2016-03-01,19:45,Aston Villa,Everton,29755,Villa Park,Roger East,1,3
+EPL,2015-2016,28,Wed,2016-03-02,19:45,West Ham,Tottenham,34977,Boleyn Ground,Andre Marriner,1,0
+EPL,2015-2016,28,Wed,2016-03-02,19:45,Stoke City,Newcastle Utd,27331,Bet365 Stadium,Niel Swarbrick,1,0
+EPL,2015-2016,28,Wed,2016-03-02,19:45,Arsenal,Swansea City,59905,Emirates Stadium,Robert Madley,1,2
+EPL,2015-2016,28,Wed,2016-03-02,20:00,Manchester Utd,Watford,75272,Old Trafford,Mike Jones,1,0
+EPL,2015-2016,28,Wed,2016-03-02,20:00,Liverpool,Manchester City,43597,Anfield,Martin Atkinson,3,0
+EPL,2015-2016,29,Sat,2016-03-05,12:45,Tottenham,Arsenal,35762,White Hart Lane,Michael Oliver,2,2
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Manchester City,Aston Villa,53892,Etihad Stadium,Lee Mason,4,0
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Southampton,Sunderland,31458,St. Mary's Stadium,Niel Swarbrick,1,1
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Swansea City,Norwich City,20929,Liberty Stadium,Craig Pawson,1,0
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Newcastle Utd,Bournemouth,52107,St. James' Park,Paul Tierney,1,3
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Everton,West Ham,39000,Goodison Park,Anthony Taylor,2,3
+EPL,2015-2016,29,Sat,2016-03-05,15:00,Chelsea,Stoke City,41381,Stamford Bridge,Mark Clattenburg,1,1
+EPL,2015-2016,29,Sat,2016-03-05,17:30,Watford,Leicester City,20884,Vicarage Road Stadium,Jonathan Moss,0,1
+EPL,2015-2016,29,Sun,2016-03-06,13:30,Crystal Palace,Liverpool,24709,Selhurst Park,Andre Marriner,1,2
+EPL,2015-2016,29,Sun,2016-03-06,16:00,West Brom,Manchester Utd,24878,The Hawthorns,Mike Dean,1,0
+EPL,2015-2016,30,Sat,2016-03-12,12:45,Norwich City,Manchester City,26323,Carrow Road,Jonathan Moss,0,0
+EPL,2015-2016,30,Sat,2016-03-12,15:00,Bournemouth,Swansea City,11179,Vitality Stadium,Roger East,3,2
+EPL,2015-2016,30,Sat,2016-03-12,15:00,Stoke City,Southampton,27833,Bet365 Stadium,Lee Mason,1,2
+EPL,2015-2016,30,Sun,2016-03-13,16:00,Aston Villa,Tottenham,32393,Villa Park,Anthony Taylor,0,2
+EPL,2015-2016,30,Mon,2016-03-14,20:00,Leicester City,Newcastle Utd,31824,King Power Stadium,Craig Pawson,1,0
+EPL,2015-2016,31,Sat,2016-03-19,12:45,Everton,Arsenal,39270,Goodison Park,Mark Clattenburg,0,2
+EPL,2015-2016,31,Sat,2016-03-19,15:00,Watford,Stoke City,20759,Vicarage Road Stadium,Craig Pawson,1,2
+EPL,2015-2016,31,Sat,2016-03-19,15:00,Crystal Palace,Leicester City,25041,Selhurst Park,Mike Jones,0,1
+EPL,2015-2016,31,Sat,2016-03-19,15:00,Chelsea,West Ham,41623,Stamford Bridge,Robert Madley,2,2
+EPL,2015-2016,31,Sat,2016-03-19,15:00,West Brom,Norwich City,25039,The Hawthorns,Anthony Taylor,0,1
+EPL,2015-2016,31,Sat,2016-03-19,17:30,Swansea City,Aston Villa,20454,Liberty Stadium,Mike Dean,1,0
+EPL,2015-2016,31,Sun,2016-03-20,13:30,Southampton,Liverpool,31596,St. Mary's Stadium,Roger East,3,2
+EPL,2015-2016,31,Sun,2016-03-20,13:30,Newcastle Utd,Sunderland,52311,St. James' Park,Martin Atkinson,1,1
+EPL,2015-2016,31,Sun,2016-03-20,16:00,Tottenham,Bournemouth,36084,White Hart Lane,Niel Swarbrick,3,0
+EPL,2015-2016,31,Sun,2016-03-20,16:00,Manchester City,Manchester Utd,54557,Etihad Stadium,Michael Oliver,0,1
+EPL,2015-2016,32,Sat,2016-04-02,12:45,Aston Villa,Chelsea,31120,Villa Park,Niel Swarbrick,0,4
+EPL,2015-2016,32,Sat,2016-04-02,15:00,Stoke City,Swansea City,27649,Bet365 Stadium,Martin Atkinson,2,2
+EPL,2015-2016,32,Sat,2016-04-02,15:00,Norwich City,Newcastle Utd,27137,Carrow Road,Mike Dean,3,2
+EPL,2015-2016,32,Sat,2016-04-02,15:00,Arsenal,Watford,59981,Emirates Stadium,Anthony Taylor,4,0
+EPL,2015-2016,32,Sat,2016-04-02,15:00,Sunderland,West Brom,45144,Stadium of Light,Roger East,0,0
+EPL,2015-2016,32,Sat,2016-04-02,15:00,Bournemouth,Manchester City,11192,Vitality Stadium,Robert Madley,0,4
+EPL,2015-2016,32,Sat,2016-04-02,15:00,West Ham,Crystal Palace,34857,Boleyn Ground,Mark Clattenburg,2,2
+EPL,2015-2016,32,Sat,2016-04-02,17:30,Liverpool,Tottenham,44062,Anfield,Jonathan Moss,1,1
+EPL,2015-2016,32,Sun,2016-04-03,13:30,Leicester City,Southampton,32071,King Power Stadium,Michael Oliver,1,0
+EPL,2015-2016,32,Sun,2016-04-03,16:00,Manchester Utd,Everton,75341,Old Trafford,Andre Marriner,1,0
+EPL,2015-2016,33,Sat,2016-04-09,12:45,West Ham,Arsenal,34977,Boleyn Ground,Craig Pawson,3,3
+EPL,2015-2016,33,Sat,2016-04-09,15:00,Watford,Everton,20663,Vicarage Road Stadium,Kevin Friend,1,1
+EPL,2015-2016,33,Sat,2016-04-09,15:00,Aston Villa,Bournemouth,31057,Villa Park,Martin Atkinson,1,2
+EPL,2015-2016,33,Sat,2016-04-09,15:00,Swansea City,Chelsea,20966,Liberty Stadium,Andre Marriner,1,0
+EPL,2015-2016,33,Sat,2016-04-09,15:00,Crystal Palace,Norwich City,24960,Selhurst Park,Michael Oliver,1,0
+EPL,2015-2016,33,Sat,2016-04-09,15:00,Southampton,Newcastle Utd,31542,St. Mary's Stadium,Robert Madley,3,1
+EPL,2015-2016,33,Sat,2016-04-09,17:30,Manchester City,West Brom,53920,Etihad Stadium,Mike Jones,2,1
+EPL,2015-2016,33,Sun,2016-04-10,13:30,Sunderland,Leicester City,46531,Stadium of Light,Anthony Taylor,0,2
+EPL,2015-2016,33,Sun,2016-04-10,16:00,Liverpool,Stoke City,43688,Anfield,Mark Clattenburg,4,1
+EPL,2015-2016,33,Sun,2016-04-10,16:00,Tottenham,Manchester Utd,35761,White Hart Lane,Mike Dean,3,0
+EPL,2015-2016,35,Wed,2016-04-13,20:00,Crystal Palace,Everton,23528,Selhurst Park,Mike Jones,0,0
+EPL,2015-2016,34,Sat,2016-04-16,12:45,Norwich City,Sunderland,27117,Carrow Road,Andre Marriner,0,3
+EPL,2015-2016,34,Sat,2016-04-16,15:00,West Brom,Watford,25515,The Hawthorns,Michael Oliver,0,1
+EPL,2015-2016,34,Sat,2016-04-16,15:00,Newcastle Utd,Swansea City,48949,St. James' Park,Lee Mason,3,0
+EPL,2015-2016,34,Sat,2016-04-16,15:00,Manchester Utd,Aston Villa,75411,Old Trafford,Kevin Friend,1,0
+EPL,2015-2016,34,Sat,2016-04-16,15:00,Everton,Southampton,36761,Goodison Park,Craig Pawson,1,1
+EPL,2015-2016,34,Sat,2016-04-16,17:30,Chelsea,Manchester City,41212,Stamford Bridge,Mike Dean,0,3
+EPL,2015-2016,34,Sun,2016-04-17,13:30,Bournemouth,Liverpool,11386,Vitality Stadium,Mike Jones,1,2
+EPL,2015-2016,34,Sun,2016-04-17,13:30,Leicester City,West Ham,32104,King Power Stadium,Jonathan Moss,2,2
+EPL,2015-2016,34,Sun,2016-04-17,16:00,Arsenal,Crystal Palace,59961,Emirates Stadium,Roger East,1,1
+EPL,2015-2016,34,Mon,2016-04-18,20:00,Stoke City,Tottenham,27442,Bet365 Stadium,Niel Swarbrick,0,4
+EPL,2015-2016,27,Tue,2016-04-19,19:45,Newcastle Utd,Manchester City,46424,St. James' Park,Kevin Friend,1,1
+EPL,2015-2016,30,Wed,2016-04-20,19:45,West Ham,Watford,34857,Boleyn Ground,Mike Dean,3,1
+EPL,2015-2016,27,Wed,2016-04-20,20:00,Liverpool,Everton,43854,Anfield,Robert Madley,4,0
+EPL,2015-2016,30,Wed,2016-04-20,20:00,Manchester Utd,Crystal Palace,75277,Old Trafford,Lee Mason,2,0
+EPL,2015-2016,30,Thu,2016-04-21,19:45,Arsenal,West Brom,59568,Emirates Stadium,Jonathan Moss,2,0
+EPL,2015-2016,35,Sat,2016-04-23,12:45,Manchester City,Stoke City,53974,Etihad Stadium,Robert Madley,4,0
+EPL,2015-2016,35,Sat,2016-04-23,15:00,Aston Villa,Southampton,29729,Villa Park,Niel Swarbrick,2,4
+EPL,2015-2016,35,Sat,2016-04-23,15:00,Bournemouth,Chelsea,11365,Vitality Stadium,Roger East,1,4
+EPL,2015-2016,35,Sat,2016-04-23,15:00,Liverpool,Newcastle Utd,43837,Anfield,Andre Marriner,2,2
+EPL,2015-2016,35,Sun,2016-04-24,14:05,Sunderland,Arsenal,45420,Stadium of Light,Mike Dean,0,0
+EPL,2015-2016,35,Sun,2016-04-24,16:15,Leicester City,Swansea City,31962,King Power Stadium,Mark Clattenburg,4,0
+EPL,2015-2016,35,Mon,2016-04-25,20:00,Tottenham,West Brom,35923,White Hart Lane,Mike Jones,1,1
+EPL,2015-2016,36,Sat,2016-04-30,15:00,Everton,Bournemouth,38345,Goodison Park,Niel Swarbrick,2,1
+EPL,2015-2016,36,Sat,2016-04-30,15:00,Newcastle Utd,Crystal Palace,52107,St. James' Park,Mike Dean,1,0
+EPL,2015-2016,36,Sat,2016-04-30,15:00,Watford,Aston Villa,20653,Vicarage Road Stadium,Anthony Taylor,3,2
+EPL,2015-2016,36,Sat,2016-04-30,15:00,Stoke City,Sunderland,27667,Bet365 Stadium,Craig Pawson,1,1
+EPL,2015-2016,36,Sat,2016-04-30,15:00,West Brom,West Ham,25031,The Hawthorns,Lee Mason,0,3
+EPL,2015-2016,36,Sat,2016-04-30,17:30,Arsenal,Norwich City,59989,Emirates Stadium,Mike Jones,1,0
+EPL,2015-2016,36,Sun,2016-05-01,12:00,Swansea City,Liverpool,20972,Liberty Stadium,Roger East,3,1
+EPL,2015-2016,36,Sun,2016-05-01,14:05,Manchester Utd,Leicester City,75275,Old Trafford,Michael Oliver,1,1
+EPL,2015-2016,36,Sun,2016-05-01,16:30,Southampton,Manchester City,31472,St. Mary's Stadium,Andre Marriner,4,2
+EPL,2015-2016,36,Mon,2016-05-02,20:00,Chelsea,Tottenham,41545,Stamford Bridge,Mark Clattenburg,2,2
+EPL,2015-2016,37,Sat,2016-05-07,12:45,Norwich City,Manchester Utd,27132,Carrow Road,Craig Pawson,0,1
+EPL,2015-2016,37,Sat,2016-05-07,15:00,Sunderland,Chelsea,47050,Stadium of Light,Mike Jones,3,2
+EPL,2015-2016,37,Sat,2016-05-07,15:00,Crystal Palace,Stoke City,23990,Selhurst Park,Kevin Friend,2,1
+EPL,2015-2016,37,Sat,2016-05-07,15:00,West Ham,Swansea City,34907,Boleyn Ground,Michael Oliver,1,4
+EPL,2015-2016,37,Sat,2016-05-07,15:00,Aston Villa,Newcastle Utd,33055,Villa Park,Robert Madley,0,0
+EPL,2015-2016,37,Sat,2016-05-07,15:00,Bournemouth,West Brom,11040,Vitality Stadium,Mark Clattenburg,1,1
+EPL,2015-2016,37,Sat,2016-05-07,17:30,Leicester City,Everton,32140,King Power Stadium,Andre Marriner,3,1
+EPL,2015-2016,37,Sun,2016-05-08,13:30,Tottenham,Southampton,35748,White Hart Lane,Jonathan Moss,1,2
+EPL,2015-2016,37,Sun,2016-05-08,16:00,Liverpool,Watford,43341,Anfield,Lee Mason,2,0
+EPL,2015-2016,37,Sun,2016-05-08,16:00,Manchester City,Arsenal,54425,Etihad Stadium,Anthony Taylor,2,2
+EPL,2015-2016,35,Tue,2016-05-10,20:30,West Ham,Manchester Utd,34602,Boleyn Ground,Mike Dean,3,2
+EPL,2015-2016,30,Wed,2016-05-11,19:45,Sunderland,Everton,46454,Stadium of Light,Anthony Taylor,3,0
+EPL,2015-2016,35,Wed,2016-05-11,19:45,Norwich City,Watford,26279,Carrow Road,Roger East,4,2
+EPL,2015-2016,30,Wed,2016-05-11,20:00,Liverpool,Chelsea,43210,Anfield,Michael Oliver,1,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Everton,Norwich City,36691,Goodison Park,Lee Mason,3,0
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Watford,Sunderland,21012,Vicarage Road Stadium,Kevin Friend,2,2
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Arsenal,Aston Villa,60007,Emirates Stadium,Mark Clattenburg,4,0
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Stoke City,West Ham,27721,Bet365 Stadium,Mike Jones,2,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,West Brom,Liverpool,26196,The Hawthorns,Robert Madley,1,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Swansea City,Manchester City,20934,Liberty Stadium,Mike Dean,1,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Southampton,Crystal Palace,31313,St. Mary's Stadium,Michael Oliver,4,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Chelsea,Leicester City,41494,Stamford Bridge,Craig Pawson,1,1
+EPL,2015-2016,38,Sun,2016-05-15,15:00,Newcastle Utd,Tottenham,52183,St. James' Park,Anthony Taylor,5,1
+EPL,2015-2016,38,Tue,2016-05-17,20:00,Manchester Utd,Bournemouth,74363,Old Trafford,Jonathan Moss,3,1

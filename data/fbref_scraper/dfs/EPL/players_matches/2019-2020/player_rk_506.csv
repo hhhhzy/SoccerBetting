@@ -1,0 +1,52 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,AM,63,0,0,0,0,0,0,0,0,34,22,1,0,0,0.0,0.0,0.0,1,0,15,22,68.2,2,31,5,1,1,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,W 2–1,Arsenal,Burnley,Y,"DM,CM",90,0,0,0,0,1,0,0,0,77,11,1,0,2,0.0,0.0,0.1,3,0,55,64,85.9,9,59,14,3,3,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y,CM,80,0,0,0,0,0,0,0,0,42,20,0,1,4,0.0,0.0,0.0,2,0,26,31,83.9,2,33,4,3,3,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Home,D 2–2,Arsenal,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-15,Sun,Premier League,Matchweek 5,Away,D 2–2,Arsenal,Watford,N,"AM,CM",31,0,0,0,0,0,0,0,0,18,11,0,1,1,0.0,0.0,0.0,1,0,8,9,88.9,1,17,2,2,2,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Away,W 3–0,eng Arsenal,de Eint Frankfurt,Y,AM,71,1,0,0,0,3,2,1,0,32,16,0,0,0,0.5,0.5,0.3,5,1,17,22,77.3,4,26,4,2,2,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Home,W 3–2,Arsenal,Aston Villa,N,CM,19,0,0,0,0,1,0,0,0,16,9,1,0,0,0.1,0.1,0.0,5,1,10,13,76.9,2,8,4,1,2,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Home,W 5–0,Arsenal,Nott'ham Forest,Y,DM,90,1,0,0,0,4,1,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-30,Mon,Premier League,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,N,LW,11,0,0,0,0,0,0,0,0,8,5,1,1,1,0.0,0.0,0.2,4,0,4,5,80.0,0,7,1,1,2,Match Report
+2019-2020,2019-10-03,Thu,Europa Lg,Group stage,Home,W 4–0,eng Arsenal,be Standard Liège,Y,AM,73,1,0,0,0,3,1,0,0,43,13,0,2,0,0.8,0.8,0.0,2,0,35,37,94.6,4,37,5,1,1,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Home,W 1–0,Arsenal,Bournemouth,N,AM,16,0,0,0,0,0,0,0,0,12,7,1,0,0,0.0,0.0,0.0,1,0,8,9,88.9,3,9,1,0,0,Match Report
+2019-2020,2019-10-21,Mon,Premier League,Matchweek 9,Away,L 0–1,Arsenal,Sheffield Utd,Y,AM,45,0,0,0,0,0,0,0,0,15,7,1,0,0,0.0,0.0,0.1,2,0,9,10,90.0,1,10,1,0,0,Match Report
+2019-2020,2019-10-24,Thu,Europa Lg,Group stage,Home,W 3–2,eng Arsenal,pt Vitória,Y,DM,45,0,0,0,0,0,0,0,0,46,10,2,2,1,0.0,0.0,0.1,2,1,33,38,86.8,4,35,4,0,0,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Away,L 5 (4)–5 (5),Arsenal,Liverpool,Y,DM,120,1,0,0,0,1,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,D 1–1,Arsenal,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-06,Wed,Europa Lg,Group stage,Away,D 1–1,eng Arsenal,pt Vitória,Y,DM,77,0,0,0,0,1,0,0,0,60,28,3,0,2,0.0,0.0,0.0,1,0,46,50,92.0,2,53,1,3,3,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,L 0–2,Arsenal,Leicester City,N,DM,11,0,0,0,0,0,0,0,0,20,8,1,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,17,2,0,0,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,D 2–2,Arsenal,Southampton,N,DM,8,0,0,0,0,1,1,0,0,9,3,0,0,1,0.2,0.2,0.0,1,0,5,7,71.4,2,4,0,0,0,Match Report
+2019-2020,2019-11-28,Thu,Europa Lg,Group stage,Home,L 1–2,eng Arsenal,de Eint Frankfurt,Y,AM,90,0,0,0,0,2,0,0,0,50,22,2,2,2,0.3,0.3,0.1,3,0,25,32,78.1,3,41,8,5,5,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 2–2,Arsenal,Norwich City,Y,AM,69,0,0,0,0,1,0,0,0,39,17,3,0,0,0.1,0.1,0.0,3,0,23,27,85.2,2,31,4,2,4,Match Report
+2019-2020,2019-12-05,Thu,Premier League,Matchweek 15,Home,L 1–2,Arsenal,Brighton,Y,AM,45,0,0,0,0,1,1,0,0,18,19,2,0,1,0.2,0.2,0.0,1,0,6,11,54.5,0,17,2,2,2,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Away,D 2–2,eng Arsenal,be Standard Liège,Y,DM,90,0,0,0,0,1,0,0,0,70,34,3,1,2,0.0,0.0,0.0,0,0,53,59,89.8,1,54,10,2,2,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Home,L 0–3,Arsenal,Manchester City,N,DM,10,0,0,0,0,0,0,0,0,9,5,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,0,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,D 0–0,Arsenal,Everton,N,AM,25,0,0,0,0,0,0,1,0,13,5,2,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,9,2,0,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,N,AM,16,0,0,0,0,1,1,0,0,9,3,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,6,2,0,0,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Home,L 1–2,Arsenal,Chelsea,N,AM,15,0,0,0,0,1,0,0,0,9,8,0,0,0,0.1,0.1,0.1,1,0,3,5,60.0,0,6,1,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-06,Mon,FA Cup,Third round,Home,W 1–0,Arsenal,Leeds United,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 1–1,Arsenal,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,D 2–2,Arsenal,Chelsea,N,LW,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Match Report
+2019-2020,2020-01-27,Mon,FA Cup,Fourth round,Away,W 2–1,Arsenal,Bournemouth,Y,AM,89,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,Premier League,Matchweek 25,Away,D 0–0,Arsenal,Burnley,N,AM,28,0,0,0,0,1,0,0,0,15,8,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,14,5,1,2,Match Report
+2019-2020,2020-02-16,Sun,Premier League,Matchweek 26,Home,W 4–0,Arsenal,Newcastle Utd,N,AM,1,0,0,0,0,0,0,0,0,5,2,2,0,0,0.0,0.0,0.0,1,1,3,4,75.0,1,4,3,0,0,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Away,W 1–0,eng Arsenal,gr Olympiacos,Y,"AM,LW",74,0,0,0,0,0,0,0,0,47,25,1,1,4,0.0,0.0,0.0,2,0,22,30,73.3,4,31,6,1,2,Match Report
+2019-2020,2020-02-27,Thu,Europa Lg,Round of 32,Home,L 1–2,eng Arsenal,gr Olympiacos,N,DM,37,0,0,0,0,1,0,0,0,24,11,1,0,2,0.0,0.0,0.0,1,0,12,15,80.0,0,16,3,0,0,Match Report
+2019-2020,2020-03-02,Mon,FA Cup,Fifth round,Away,W 2–0,Arsenal,Portsmouth,Y,AM,86,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Arsenal,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-17,Wed,Premier League,Matchweek 28,Away,L 0–3,Arsenal,Manchester City,Y,"CM,RM",66,0,0,0,0,0,0,0,0,25,16,2,1,2,0.0,0.0,0.0,1,0,16,20,80.0,3,17,3,0,0,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,L 1–2,Arsenal,Brighton,N,CM,4,0,0,0,0,0,0,0,0,7,2,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,7,2,1,1,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Away,W 2–0,Arsenal,Southampton,N,RW,27,1,0,0,0,1,1,0,0,18,11,0,1,2,0.7,0.7,0.0,1,0,11,12,91.7,1,8,0,0,0,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Away,W 2–1,Arsenal,Sheffield Utd,Y,CM,66,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 4–0,Arsenal,Norwich City,N,"RW,AM",33,0,0,0,0,2,0,0,0,21,10,0,0,2,0.2,0.2,0.0,1,0,14,16,87.5,1,18,3,1,1,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,W 2–0,Arsenal,Wolves,N,RW,15,0,1,0,0,1,0,0,0,15,4,1,1,1,0.5,0.5,0.3,2,1,6,8,75.0,2,6,3,1,2,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Home,D 1–1,Arsenal,Leicester City,N,"CM,RW",20,0,0,0,0,0,0,0,0,6,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,1,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 1–2,Arsenal,Tottenham,N,AM,7,0,0,0,0,0,0,0,0,7,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,1,1,2,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Home,W 2–1,Arsenal,Liverpool,N,FW,33,0,0,0,0,1,0,0,0,15,8,2,0,1,0.1,0.1,0.0,0,0,2,5,40.0,1,4,0,0,1,Match Report
+2019-2020,2020-07-18,Sat,FA Cup,Semi-finals,Neutral,W 2–0,Arsenal,Manchester City,N,,19,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-21,Tue,Premier League,Matchweek 37,Away,L 0–1,Arsenal,Aston Villa,N,CB,12,0,0,0,0,0,0,1,0,10,2,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,6,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 3–2,Arsenal,Watford,Y,AM,56,0,0,0,0,1,0,0,0,19,8,1,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,20,5,2,3,Match Report
+2019-2020,2020-08-01,Sat,FA Cup,Final,Neutral,W 2–1,Arsenal,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,23 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,W 3–0,Brighton,Watford,Y,AM,63,0,0,0,0,1,1,0,0,22,8,0,0,0,0.1,0.1,0.0,1,0,8,15,53.3,0,17,3,1,1,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,D 1–1,Brighton,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Southampton,N,"FW,LM",23,0,0,0,0,1,0,0,0,12,4,1,0,0,0.3,0.3,0.0,0,0,1,4,25.0,0,8,0,0,0,Match Report
+2019-2020,2019-08-31,Sat,Bundesliga,Matchweek 3,Away,D 0–0,Hoffenheim,Leverkusen,N,FW,29,0,0,0,0,1,0,0,0,7,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,0,0,Match Report
+2019-2020,2019-09-15,Sun,Bundesliga,Matchweek 4,Home,L 0–3,Hoffenheim,Freiburg,N,FW,45,0,0,0,0,2,0,0,0,21,4,0,0,0,0.1,0.1,0.1,4,0,12,15,80.0,2,12,1,0,0,Match Report
+2019-2020,2019-09-28,Sat,Bundesliga,Matchweek 6,Home,L 0–3,Hoffenheim,M'Gladbach,N,"LW,RW,CB",24,0,0,0,0,1,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,6,2,0,0,Match Report
+2019-2020,2019-10-05,Sat,Bundesliga,Matchweek 7,Away,W 2–1,Hoffenheim,Bayern Munich,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-20,Sun,Bundesliga,Matchweek 8,Home,W 2–0,Hoffenheim,Schalke 04,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Bundesliga,Matchweek 9,Away,W 3–2,Hoffenheim,Hertha BSC,Y,FW,60,1,0,0,0,2,2,0,0,30,16,3,0,0,0.3,0.3,0.0,0,0,14,21,66.7,0,20,3,0,0,Match Report
+2019-2020,2019-10-29,Tue,DFB-Pokal,Second round,Away,W 2–0,Hoffenheim,MSV Duisburg,Y,FW,61,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-01,Fri,Bundesliga,Matchweek 10,Home,W 3–0,Hoffenheim,Paderborn 07,Y,FW,68,1,0,0,0,1,1,0,0,25,11,0,0,0,0.1,0.1,0.0,1,1,15,19,78.9,1,20,2,1,3,Match Report
+2019-2020,2019-11-08,Fri,Bundesliga,Matchweek 11,Away,W 2–1,Hoffenheim,Köln,Y,FW,90,1,0,1,1,2,1,1,0,37,16,1,0,0,1.0,0.2,0.0,2,0,20,26,76.9,2,25,2,0,0,Match Report
+2019-2020,2019-11-24,Sun,Bundesliga,Matchweek 12,Home,L 1–5,Hoffenheim,Mainz 05,Y,FW,90,0,0,0,0,3,1,0,0,28,13,1,0,0,0.4,0.4,0.0,1,0,15,20,75.0,0,14,2,0,0,Match Report
+2019-2020,2019-11-30,Sat,Bundesliga,Matchweek 13,Home,D 1–1,Hoffenheim,Düsseldorf,Y,FW,59,0,0,0,0,2,1,0,0,20,12,0,0,0,0.1,0.1,0.0,0,0,9,14,64.3,1,11,1,0,0,Match Report
+2019-2020,2019-12-07,Sat,Bundesliga,Matchweek 14,Away,L 1–3,Hoffenheim,RB Leipzig,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-13,Fri,Bundesliga,Matchweek 15,Home,L 2–4,Hoffenheim,Augsburg,N,"FW,CB",30,1,0,0,0,3,3,0,0,12,1,0,0,1,0.6,0.6,0.0,1,0,4,7,57.1,1,6,0,0,0,Match Report
+2019-2020,2019-12-17,Tue,Bundesliga,Matchweek 16,Away,W 2–0,Hoffenheim,Union Berlin,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-20,Fri,Bundesliga,Matchweek 17,Home,W 2–1,Hoffenheim,Dortmund,N,"CM,FW",26,0,0,0,0,1,1,0,0,8,1,1,0,0,0.4,0.4,0.0,2,1,3,6,50.0,0,7,1,1,1,Match Report
+2019-2020,2020-01-18,Sat,Bundesliga,Matchweek 18,Home,L 1–2,Hoffenheim,Eint Frankfurt,N,RB,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-01-26,Sun,Bundesliga,Matchweek 19,Away,W 3–0,Hoffenheim,Werder Bremen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-01,Sun,MLS,Regular Season,Away,L 2–3,FC Cincinnati,NY Red Bulls,N,FW,27,1,0,0,0,4,3,0,0,25,1,0,0,1,1.1,1.1,0.0,1,1,12,16,75.0,1,15,3,0,0,Match Report
+2019-2020,2020-03-07,Sat,MLS,Regular Season,Away,L 1–2,FC Cincinnati,Atlanta,Y,FW,90,0,0,0,0,4,1,0,0,49,15,2,0,0,0.2,0.2,0.0,1,0,27,36,75.0,1,28,2,0,0,Match Report

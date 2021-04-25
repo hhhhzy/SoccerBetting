@@ -1,0 +1,50 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-08,Tue,Super Cup,UEFA Super Cup,Neutral,L 1–2,eng Manchester Utd,es Real Madrid,Y,CM,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,West Ham,Y,"CM,AM",90,1,0,0,0,3,1,0,0,78,19,0,0,0,0.1,0.1,0.2,4,1,54,64,84.4,10,64,9,5,6,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,W 4–0,Manchester Utd,Swansea City,Y,"DM,AM,RW",90,1,1,0,0,3,2,1,0,90,17,3,4,1,0.4,0.4,0.2,5,3,58,78,74.4,4,76,12,1,2,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,W 2–0,Manchester Utd,Leicester City,Y,DM,90,0,0,0,0,6,0,0,0,126,9,1,1,1,0.3,0.3,0.1,6,1,89,105,84.8,13,99,15,4,6,Match Report
+2017-2018,2017-08-31,Thu,WCQ — UEFA (M),First round,Home,W 4–0,fr France,nl Netherlands,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Home,D 0–0,fr France,lu Luxembourg,Y,CM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,D 2–2,Manchester Utd,Stoke City,Y,CM,90,0,1,0,0,6,4,0,0,82,12,0,2,2,0.7,0.7,0.1,5,0,56,68,82.4,12,67,8,3,3,Match Report
+2017-2018,2017-09-12,Tue,Champions Lg,Group stage,Home,W 3–0,eng Manchester Utd,ch Basel,Y*,DM,19,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,CM,69,1,1,0,0,2,1,0,0,75,3,0,0,1,0.7,0.7,0.2,4,1,53,64,82.8,9,53,4,2,3,Match Report
+2017-2018,2017-11-22,Wed,Champions Lg,Group stage,Away,L 0–1,eng Manchester Utd,ch Basel,Y*,CM,66,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,W 1–0,Manchester Utd,Brighton,Y,CM,90,0,0,0,0,2,1,0,0,119,14,2,2,1,0.5,0.5,0.1,2,0,93,107,86.9,14,95,13,1,3,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,W 4–2,Manchester Utd,Watford,Y,CM,90,0,0,0,0,2,0,0,0,62,34,1,1,0,0.2,0.2,0.1,6,2,35,49,71.4,6,37,4,2,2,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,W 3–1,Manchester Utd,Arsenal,Y,"DM,AM",73,0,2,0,0,1,0,0,1,35,27,2,0,3,0.1,0.1,1.0,3,3,18,24,75.0,3,21,2,2,3,Match Report
+2017-2018,2017-12-05,Tue,Champions Lg,Group stage,Home,W 2–1,eng Manchester Utd,ru CSKA Moscow,Y,DM,90,0,1,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-20,Wed,EFL Cup,Quarter-finals,Away,L 1–2,Manchester Utd,Bristol City,Y,CM,90,0,0,0,0,1,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 2–2,Manchester Utd,Leicester City,Y*,DM,90,0,0,0,0,4,2,0,0,80,15,0,3,1,0.1,0.1,0.0,4,0,45,67,67.2,6,54,5,3,3,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 2–2,Manchester Utd,Burnley,Y*,DM,90,0,0,0,0,5,1,0,0,102,20,4,0,1,0.1,0.1,0.1,4,0,78,88,88.6,8,71,9,4,4,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,D 0–0,Manchester Utd,Southampton,Y*,CM,90,0,0,0,0,1,0,0,0,75,11,1,1,2,0.0,0.0,0.0,2,0,57,64,89.1,7,52,7,0,0,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Away,W 2–0,Manchester Utd,Everton,Y*,CM,90,0,2,0,0,4,1,0,0,77,7,1,0,0,0.5,0.5,0.3,8,2,52,62,83.9,11,63,9,2,2,Match Report
+2017-2018,2018-01-05,Fri,FA Cup,Third round,Home,W 2–0,Manchester Utd,Derby County,Y*,AM,90,0,0,0,0,7,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-15,Mon,Premier League,Matchweek 23,Home,W 3–0,Manchester Utd,Stoke City,Y,DM,90,0,2,0,0,2,0,0,0,90,10,1,1,0,0.2,0.2,0.2,8,2,75,81,92.6,17,78,11,4,5,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,W 1–0,Manchester Utd,Burnley,Y,CM,90,0,0,0,0,4,0,1,0,71,26,0,0,1,0.3,0.3,0.2,4,0,43,55,78.2,11,61,10,3,3,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,L 0–2,Manchester Utd,Tottenham,Y,CM,62,0,0,0,0,2,0,0,0,49,14,0,1,0,0.2,0.2,0.0,2,0,33,38,86.8,3,40,1,1,2,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 2–0,Manchester Utd,Huddersfield,N,CM,26,0,0,0,0,1,0,0,0,34,1,0,0,0,0.0,0.0,0.0,1,0,28,33,84.8,2,25,4,3,3,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Away,L 0–1,Manchester Utd,Newcastle Utd,Y,CM,65,0,0,0,0,0,0,0,0,55,8,0,0,0,0.0,0.0,0.1,2,0,42,50,84.0,6,41,4,1,1,Match Report
+2017-2018,2018-02-21,Wed,Champions Lg,Round of 16,Away,D 0–0,eng Manchester Utd,es Sevilla,N,,73,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,Premier League,Matchweek 28,Home,W 2–1,Manchester Utd,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,82,31,2,1,1,0.0,0.0,0.0,2,0,57,69,82.6,10,72,13,4,5,Match Report
+2017-2018,2018-03-05,Mon,Premier League,Matchweek 29,Away,W 3–2,Manchester Utd,Crystal Palace,Y,"CM,DM",90,0,0,0,0,4,2,0,0,119,12,0,0,1,0.1,0.1,0.0,5,1,86,103,83.5,12,100,25,1,4,Match Report
+2017-2018,2018-03-13,Tue,Champions Lg,Round of 16,Home,L 1–2,eng Manchester Utd,es Sevilla,N,,30,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Home,W 2–0,Manchester Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Home,L 2–3,fr France,co Colombia,N,,26,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,W 3–1,fr France,ru Russia,Y,CM,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 2–0,Manchester Utd,Swansea City,Y,DM,90,0,0,0,0,1,0,0,0,113,5,1,1,0,0.0,0.0,0.5,4,0,94,105,89.5,11,88,14,1,2,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,W 3–2,Manchester Utd,Manchester City,Y,CM,90,2,0,0,0,3,3,1,0,46,15,0,1,1,0.5,0.5,0.0,1,1,25,31,80.6,1,36,2,2,3,Match Report
+2017-2018,2018-04-15,Sun,Premier League,Matchweek 34,Home,L 0–1,Manchester Utd,West Brom,Y,CM,57,0,0,0,0,4,1,1,0,69,11,0,0,1,0.1,0.1,0.0,3,0,55,60,91.7,8,64,14,3,3,Match Report
+2017-2018,2018-04-18,Wed,Premier League,Matchweek 35,Away,W 2–0,Manchester Utd,Bournemouth,Y,CM,79,0,1,0,0,1,0,0,0,66,20,2,0,0,0.1,0.1,0.3,3,1,46,56,82.1,11,61,7,2,4,Match Report
+2017-2018,2018-04-21,Sat,FA Cup,Semi-finals,Home,W 2–1,Manchester Utd,Tottenham,Y,CM,90,0,1,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,W 2–1,Manchester Utd,Arsenal,Y,CM,90,1,0,0,0,4,1,0,0,82,38,2,1,0,0.8,0.8,0.0,3,0,56,66,84.8,8,71,7,4,7,Match Report
+2017-2018,2018-05-04,Fri,Premier League,Matchweek 37,Away,L 0–1,Manchester Utd,Brighton,Y,CM,90,0,0,0,0,5,1,0,0,106,8,2,0,1,0.2,0.2,0.0,0,0,68,85,80.0,13,84,19,2,4,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Away,D 0–0,Manchester Utd,West Ham,Y,CM,90,0,0,0,0,7,0,1,0,102,13,2,1,0,0.2,0.2,0.2,6,0,71,81,87.7,8,81,8,2,5,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 1–0,Manchester Utd,Watford,N,DM,6,0,0,0,0,0,0,0,0,3,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Match Report
+2017-2018,2018-05-19,Sat,FA Cup,Final,Away,L 0–1,Manchester Utd,Chelsea,Y,CM,90,0,0,0,0,4,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-28,Mon,Friendlies (M),Friendlies (M),Home,W 2–0,fr France,ie Republic of Ireland,N,,14,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-01,Fri,Friendlies (M),Friendlies (M),Home,W 3–1,fr France,it Italy,Y,CM,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-09,Sat,Friendlies (M),Friendlies (M),Home,D 1–1,fr France,us United States,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-16,Sat,FIFA World Cup,Group stage,Neutral,W 2–1,fr France,au Australia,Y,CM,90,0,0,0,0,1,1,0,0,68,15,0,0,1,0.1,0.1,0.0,2,1,48,58,82.8,8,53,6,0,1,Match Report
+2017-2018,2018-06-21,Thu,FIFA World Cup,Group stage,Neutral,W 1–0,fr France,pe Peru,Y,CM,88,0,0,0,0,1,0,1,0,72,40,2,2,0,0.0,0.0,0.4,3,0,45,60,75.0,9,59,3,2,5,Match Report
+2017-2018,2018-06-26,Tue,FIFA World Cup,Group stage,Neutral,D 0–0,fr France,dk Denmark,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-30,Sat,FIFA World Cup,Round of 16,Neutral,W 4–3,fr France,ar Argentina,Y,DM,90,0,0,0,0,1,0,0,0,59,31,2,1,1,0.1,0.1,0.1,4,0,34,44,77.3,5,48,4,3,3,Match Report

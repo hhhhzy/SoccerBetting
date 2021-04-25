@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,L 0–3,Southampton,Burnley,Y,AM,65,0,0,0,0,0,0,0,0,25,37,1,0,2,0.0,0.0,0.0,1,0,11,18,61.1,3,15,2,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,L 1–2,Southampton,Liverpool,N,DM,27,1,0,0,0,3,1,0,0,10,8,0,0,2,1.1,1.1,0.0,1,0,3,4,75.0,0,7,1,1,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–0,Southampton,Brighton,Y,FW,83,0,1,0,0,1,0,0,0,33,36,1,0,4,0.0,0.0,0.1,3,2,13,20,65.0,2,21,2,1,2,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,W 1–0,Southampton,Fulham,N,,23,0,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,D 1–1,Southampton,Manchester Utd,Y,FW,76,0,0,0,0,2,1,0,0,31,35,3,0,1,0.1,0.1,0.1,3,1,9,19,47.4,2,18,3,1,2,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,W 1–0,Southampton,Sheffield Utd,N,AM,17,0,0,0,0,0,0,0,0,10,10,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,1,9,0,1,1,Match Report
+2019-2020,2019-09-20,Fri,Premier League,Matchweek 6,Home,L 1–3,Southampton,Bournemouth,N,FW,14,0,0,0,0,4,0,0,0,8,3,0,0,0,0.2,0.2,0.1,2,0,1,2,50.0,0,3,1,0,0,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Southampton,Portsmouth,Y,FW,82,2,0,0,0,4,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 1–2,Southampton,Tottenham,Y,FW,82,1,0,0,0,2,1,0,0,24,19,3,0,0,0.9,0.9,0.0,2,1,9,14,64.3,0,14,1,0,0,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Home,L 1–4,Southampton,Chelsea,Y,FW,80,1,0,0,0,3,1,0,0,20,21,1,0,1,0.7,0.7,0.0,1,0,8,10,80.0,0,13,2,1,1,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,"FW,AM",90,1,0,0,0,6,3,0,0,35,21,1,0,0,1.1,1.1,0.0,2,0,13,21,61.9,1,27,6,3,3,Match Report
+2019-2020,2019-10-25,Fri,Premier League,Matchweek 10,Home,L 0–9,Southampton,Leicester City,Y,"LM,FW",45,0,0,0,0,1,0,0,0,22,21,2,0,2,0.0,0.0,0.0,2,0,8,12,66.7,0,15,3,2,3,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Away,L 1–3,Southampton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 1–2,Southampton,Manchester City,Y,FW,83,0,0,0,0,1,1,0,0,21,28,3,1,3,0.0,0.0,0.0,2,0,6,12,50.0,1,13,0,0,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,L 1–2,Southampton,Everton,Y,FW,90,1,0,0,0,1,1,0,0,25,28,1,1,4,0.8,0.8,0.0,1,0,6,13,46.2,2,16,2,0,1,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,FW,72,1,0,0,0,3,1,1,0,24,30,1,0,1,0.4,0.4,0.0,2,0,9,14,64.3,1,15,2,0,1,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Home,W 2–1,Southampton,Watford,Y,FW,90,1,0,0,0,2,2,0,0,39,19,0,0,1,0.4,0.4,0.6,3,0,16,26,61.5,1,24,0,2,3,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Southampton,Norwich City,Y,FW,76,1,0,0,0,4,1,0,0,36,49,4,0,2,0.4,0.4,0.1,4,0,14,21,66.7,4,23,3,4,4,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,L 1–2,Southampton,Newcastle Utd,Y,FW,87,1,0,0,0,2,1,0,0,36,32,1,0,1,0.5,0.5,0.0,2,0,13,21,61.9,2,23,2,1,4,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,L 0–1,Southampton,West Ham,Y,FW,90,0,0,0,0,1,0,0,0,36,29,1,0,6,0.0,0.0,0.0,2,0,12,25,48.0,0,26,3,1,2,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,Y,FW,86,2,0,0,0,3,3,0,0,35,23,1,0,3,1.2,1.2,0.0,5,0,15,20,75.0,2,24,6,1,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,W 2–0,Southampton,Chelsea,N,FW,22,0,0,0,0,0,0,0,0,11,11,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,6,0,0,0,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,D 1–1,Southampton,Crystal Palace,Y,FW,90,1,0,0,0,6,2,0,0,29,19,0,0,1,0.8,0.8,0.0,1,0,13,17,76.5,3,17,5,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 1–0,Southampton,Tottenham,Y,FW,75,1,0,0,0,2,1,0,0,35,30,1,1,4,0.3,0.3,0.0,3,1,9,19,47.4,1,26,2,3,5,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,W 2–0,Southampton,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,FW,90,1,0,0,0,9,5,1,0,44,20,2,0,1,1.7,1.7,0.0,5,1,12,23,52.2,1,28,6,2,4,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,L 2–3,Southampton,Wolves,Y,FW,90,0,0,0,0,1,0,0,0,25,27,0,1,2,0.1,0.1,0.0,0,0,9,15,60.0,2,14,0,1,4,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,N,FW,21,0,0,0,0,0,0,0,0,6,9,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Home,D 1–1,Southampton,Tottenham,Y,FW,90,0,1,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,L 0–4,Southampton,Liverpool,Y,FW,69,0,0,0,0,4,1,0,0,27,28,1,0,1,0.4,0.4,0.2,6,0,8,12,66.7,1,23,5,4,6,Match Report
+2019-2020,2020-02-05,Wed,FA Cup,Fourth round,Away,L 2–3,Southampton,Tottenham,Y,FW,90,1,0,0,0,4,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Home,L 1–2,Southampton,Burnley,Y,"FW,LW",90,1,0,0,0,1,1,0,0,53,17,0,0,2,0.1,0.1,0.0,3,1,24,34,70.6,3,33,4,2,4,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,Y,FW,72,0,0,0,0,3,1,0,0,17,27,2,0,2,0.4,0.4,0.2,5,0,8,9,88.9,1,9,1,3,3,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 1–3,Southampton,West Ham,N,FW,37,0,0,0,0,1,0,0,0,15,5,0,0,0,0.1,0.1,0.0,1,0,7,10,70.0,2,11,0,2,2,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,L 0–1,Southampton,Newcastle Utd,Y,"LM,FW",90,0,0,0,0,1,0,0,0,24,40,4,0,3,0.0,0.0,0.0,1,0,6,14,42.9,2,18,2,0,1,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Away,W 3–0,Southampton,Norwich City,Y,FW,87,1,1,0,0,4,1,1,0,38,20,3,0,2,0.5,0.5,0.2,5,2,15,23,65.2,5,23,5,0,2,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Home,L 0–2,Southampton,Arsenal,Y,FW,89,0,0,0,0,3,0,0,0,32,15,2,0,2,0.1,0.1,0.0,2,0,17,23,73.9,0,18,4,2,2,Match Report
+2019-2020,2020-06-28,Sun,Premier League,Matchweek 32,Away,W 3–1,Southampton,Watford,Y,FW,90,2,0,0,0,2,2,0,0,51,16,1,1,1,0.1,0.1,0.3,5,1,21,36,58.3,4,31,5,3,4,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 1–0,Southampton,Manchester City,Y,FW,90,0,0,0,0,1,0,0,0,40,29,2,1,2,0.4,0.4,0.0,1,0,13,24,54.2,1,20,1,1,3,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Away,D 1–1,Southampton,Everton,Y,FW,90,1,0,0,0,4,2,0,0,51,21,0,1,2,0.9,0.9,0.2,6,1,31,35,88.6,5,44,3,6,7,Match Report
+2019-2020,2020-07-13,Mon,Premier League,Matchweek 35,Away,D 2–2,Southampton,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,28,30,4,0,0,0.1,0.1,0.0,2,1,16,19,84.2,3,24,4,4,4,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,D 1–1,Southampton,Brighton,Y,FW,90,1,0,0,0,5,1,0,0,44,18,3,0,2,0.9,0.9,0.1,2,0,15,21,71.4,1,33,5,1,4,Match Report
+2019-2020,2020-07-19,Sun,Premier League,Matchweek 37,Away,W 2–0,Southampton,Bournemouth,Y,FW,89,1,0,0,1,2,1,0,0,32,14,0,0,1,0.8,0.1,0.1,2,0,13,21,61.9,5,22,5,3,6,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 3–1,Southampton,Sheffield Utd,Y,FW,90,1,0,1,1,1,0,0,0,43,14,1,0,0,0.9,0.1,0.2,3,1,24,35,68.6,2,36,7,1,2,Match Report

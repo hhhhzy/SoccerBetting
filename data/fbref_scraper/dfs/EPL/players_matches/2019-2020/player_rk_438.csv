@@ -1,0 +1,46 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-07-15,Mon,First League,Regular Season,Away,W 1–0,Slavia Prague,Fastav Zlín,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-07-21,Sun,First League,Regular Season,Away,W 5–1,Slavia Prague,Teplice,Y*,,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-07-28,Sun,First League,Regular Season,Home,W 1–0,Slavia Prague,Sigma Olomouc,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-04,Sun,First League,Regular Season,Away,D 0–0,Slavia Prague,Karviná,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,First League,Regular Season,Home,W 1–0,Slavia Prague,Slovan Liberec,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-16,Fri,First League,Regular Season,Away,W 3–0,Slavia Prague,České Budĕjov.,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-20,Tue,Champions Lg,Play-off Round,Away,W 1–0,cz Slavia Prague,ro CFR Cluj,Y*,DM,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-28,Wed,Champions Lg,Play-off Round,Home,W 1–0,cz Slavia Prague,ro CFR Cluj,Y,DM,90,0,0,0,0,2,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-01,Sun,First League,Regular Season,Away,D 1–1,Slavia Prague,Opava,Y*,,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-07,Sat,Euro Qualifying,Group stage,Away,L 1–2,cz Czech Republic,xk Kosovo,Y,DM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Euro Qualifying,Group stage,Away,W 3–0,cz Czech Republic,me Montenegro,Y,DM,90,1,0,0,0,3,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,First League,Regular Season,Home,W 3–0,Slavia Prague,Slovácko,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-17,Tue,Champions Lg,Group stage,Away,D 1–1,cz Slavia Prague,it Inter,Y*,DM,90,0,0,0,0,1,0,1,0,67,12,1,1,2,0.1,0.1,0.0,2,0,37,52,71.2,5,25,1,1,1,Match Report
+2019-2020,2019-09-22,Sun,First League,Regular Season,Away,W 3–0,Slavia Prague,Sparta Prague,Y*,,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,First League,Regular Season,Home,W 1–0,Slavia Prague,Mladá Boleslav,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-02,Wed,Champions Lg,Group stage,Home,L 0–2,cz Slavia Prague,de Dortmund,Y*,CM,90,0,0,0,0,2,1,0,0,62,17,1,5,3,0.1,0.1,0.0,1,0,34,45,75.6,5,34,5,1,2,Match Report
+2019-2020,2019-10-06,Sun,First League,Regular Season,Away,W 2–0,Slavia Prague,Jablonec,Y*,,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-11,Fri,Euro Qualifying,Group stage,Home,W 2–1,cz Czech Republic,eng England,Y,DM,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-14,Mon,Friendlies (M),Friendlies (M),Home,L 2–3,cz Czech Republic,nir Northern Ireland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,First League,Regular Season,Home,W 3–1,Slavia Prague,Příbram,Y,,90,2,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-23,Wed,Champions Lg,Group stage,Home,L 1–2,cz Slavia Prague,es Barcelona,Y*,"DM,CM",90,0,0,0,0,3,1,0,0,73,30,4,3,3,0.1,0.1,0.0,1,0,51,57,89.5,5,46,1,0,1,Match Report
+2019-2020,2019-10-27,Sun,First League,Regular Season,Away,W 1–0,Slavia Prague,Viktoria Plzeň,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,First League,Regular Season,Home,W 4–0,Slavia Prague,Baník Ostrava,Y*,,78,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-05,Tue,Champions Lg,Group stage,Away,D 0–0,cz Slavia Prague,es Barcelona,Y*,DM,90,0,0,0,0,0,0,0,0,51,48,4,1,3,0.0,0.0,0.0,1,0,32,37,86.5,4,31,3,0,1,Match Report
+2019-2020,2019-11-10,Sun,First League,Regular Season,Home,W 3–0,Slavia Prague,Teplice,Y*,,90,1,1,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-14,Thu,Euro Qualifying,Group stage,Home,W 2–1,cz Czech Republic,xk Kosovo,Y,DM,90,0,0,0,0,5,1,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-17,Sun,Euro Qualifying,Group stage,Away,L 0–1,cz Czech Republic,bg Bulgaria,Y,DM,90,0,0,0,0,5,2,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-27,Wed,Champions Lg,Group stage,Home,L 1–3,cz Slavia Prague,it Inter,Y*,DM,90,1,0,1,1,3,0,0,0,86,11,2,1,0,1.1,0.3,0.1,3,0,60,65,92.3,1,60,4,1,2,Match Report
+2019-2020,2019-12-01,Sun,First League,Regular Season,Home,W 2–0,Slavia Prague,Karviná,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-06,Fri,First League,Regular Season,Away,W 3–0,Slavia Prague,Slovan Liberec,Y,,90,0,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Champions Lg,Group stage,Away,L 1–2,cz Slavia Prague,de Dortmund,Y,CM,90,1,0,0,0,3,3,0,0,74,17,8,0,1,0.5,0.5,0.2,5,0,45,54,83.3,6,45,2,1,1,Match Report
+2019-2020,2019-12-15,Sun,First League,Regular Season,Home,W 4–1,Slavia Prague,České Budĕjov.,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,D 3–3,West Ham,Brighton,Y,CM,84,0,0,0,0,1,1,0,0,39,27,5,2,2,0.1,0.1,0.0,1,0,11,19,57.9,1,12,1,0,0,Match Report
+2019-2020,2020-02-19,Wed,Premier League,Matchweek 26,Away,L 0–2,West Ham,Manchester City,Y,DM,90,0,0,0,0,0,0,0,0,38,59,2,4,4,0.0,0.0,0.0,0,0,14,23,60.9,1,15,1,0,1,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Away,L 2–3,West Ham,Liverpool,Y,DM,46,0,0,0,0,0,0,0,0,27,10,3,1,2,0.0,0.0,0.0,0,0,6,15,40.0,0,7,0,0,1,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,West Ham,Arsenal,N,DM,10,0,0,0,0,0,0,0,0,9,2,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,3,0,0,0,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,West Ham,Wolves,Y,CM,90,0,0,0,0,1,0,0,0,41,20,3,1,1,0.0,0.0,0.0,0,0,23,34,67.6,3,22,1,0,0,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Away,L 0–2,West Ham,Tottenham,Y,DM,90,0,0,0,0,0,0,0,0,44,22,3,1,1,0.0,0.0,0.0,1,0,23,35,65.7,1,15,0,0,1,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 3–2,West Ham,Chelsea,Y,DM,90,1,0,0,0,2,1,0,0,39,23,4,1,0,0.7,0.7,0.4,1,0,15,27,55.6,2,14,1,0,0,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 2–2,West Ham,Newcastle Utd,Y,DM,90,1,0,0,0,3,2,0,0,54,12,1,3,2,0.4,0.4,0.1,1,0,34,46,73.9,3,31,2,0,0,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Home,L 0–1,West Ham,Burnley,Y,CM,90,0,0,0,0,7,1,0,0,58,15,2,1,1,0.5,0.5,0.0,0,0,30,38,78.9,1,31,1,0,0,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,W 4–0,West Ham,Norwich City,Y,CM,90,0,0,0,0,3,1,0,0,59,15,2,0,1,0.3,0.3,0.0,2,0,40,52,76.9,4,30,3,0,0,Match Report
+2019-2020,2020-07-17,Fri,Premier League,Matchweek 36,Home,W 3–1,West Ham,Watford,Y,CM,90,1,0,0,0,2,1,0,0,41,9,2,1,1,0.2,0.2,0.0,1,1,19,30,63.3,2,12,0,0,1,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Away,D 1–1,West Ham,Manchester Utd,Y,CM,90,0,0,0,0,0,0,0,0,41,9,4,0,1,0.0,0.0,0.0,1,0,28,33,84.8,2,26,3,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,West Ham,Aston Villa,Y,DM,90,0,0,0,0,0,0,0,0,40,17,4,0,0,0.0,0.0,0.0,0,0,26,32,81.3,2,20,0,1,2,Match Report

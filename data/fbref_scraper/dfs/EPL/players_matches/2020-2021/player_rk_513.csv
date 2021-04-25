@@ -1,0 +1,53 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Away,W 3–1,Chelsea,Brighton,Y,CB,90,1,0,0,0,1,1,0,0,57,3,0,2,2,0.1,0.1,0.0,0,0,40,46,87.0,0,36,0,1,1,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 0–2,Chelsea,Liverpool,Y,CB,90,0,0,0,0,1,1,0,0,62,2,0,0,0,0.1,0.1,0.0,0,0,46,52,88.5,0,48,0,0,0,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Home,W 6–0,Chelsea,Barnsley,N,,30,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-29,Tue,EFL Cup,Fourth round,Away,L 1 (4)–1 (5),Chelsea,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 4–0,Chelsea,Crystal Palace,Y,CB,90,1,0,0,0,2,1,0,0,114,2,1,1,2,0.2,0.2,0.0,0,0,99,104,95.2,4,87,4,0,0,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Away,W 2–1,fr France,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,D 3–3,Chelsea,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,87,5,0,0,1,0.0,0.0,0.0,0,0,62,76,81.6,1,42,0,0,0,Match Report
+2020-2021,2020-10-20,Tue,Champions Lg,Group stage,Home,D 0–0,eng Chelsea,es Sevilla,Y,CB,90,0,0,0,0,1,1,0,0,61,2,0,0,1,0.0,0.0,0.0,0,0,46,53,86.8,1,41,4,1,1,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,D 0–0,Chelsea,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,86,8,3,0,1,0.0,0.0,0.0,1,0,67,73,91.8,1,50,2,0,0,Match Report
+2020-2021,2020-10-28,Wed,Champions Lg,Group stage,Away,W 4–0,eng Chelsea,ru Krasnodar,Y,CB,90,0,0,0,0,0,0,0,0,132,6,2,1,3,0.0,0.0,0.0,0,0,113,119,95.0,3,89,1,0,0,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,W 3–0,Chelsea,Burnley,Y,CB,90,1,0,0,0,1,1,0,0,62,6,1,0,0,0.1,0.1,0.0,0,0,49,54,90.7,0,48,1,0,1,Match Report
+2020-2021,2020-11-04,Wed,Champions Lg,Group stage,Home,W 3–0,eng Chelsea,fr Rennes,Y,CB,90,0,0,0,0,0,0,0,0,101,4,2,0,1,0.0,0.0,0.0,1,0,85,94,90.4,4,69,7,0,0,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 4–1,Chelsea,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,107,6,1,0,0,0.0,0.0,0.0,1,0,93,99,93.9,1,64,0,0,0,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,L 0–2,fr France,fi Finland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,UEFA Nations League,League A,Away,W 1–0,fr France,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,UEFA Nations League,League A,Home,W 4–2,fr France,se Sweden,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–0,Chelsea,Newcastle Utd,Y,CB,90,0,0,0,0,1,0,0,0,116,3,0,0,3,0.1,0.1,0.0,1,0,101,105,96.2,8,80,7,0,0,Match Report
+2020-2021,2020-11-24,Tue,Champions Lg,Group stage,Away,W 2–1,eng Chelsea,fr Rennes,Y,CB,90,0,0,0,0,0,0,0,0,69,7,1,0,2,0.0,0.0,0.0,0,0,52,62,83.9,2,40,0,0,0,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Home,D 0–0,Chelsea,Tottenham,Y,CB,90,0,0,0,0,0,0,1,0,99,5,1,2,0,0.0,0.0,0.0,1,0,82,92,89.1,4,70,5,0,0,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,W 3–1,Chelsea,Leeds United,Y,CB,90,1,0,0,0,1,1,0,0,52,1,0,2,1,0.1,0.1,0.0,0,0,38,42,90.5,4,36,6,0,0,Match Report
+2020-2021,2020-12-08,Tue,Champions Lg,Group stage,Home,D 1–1,eng Chelsea,ru Krasnodar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,L 0–1,Chelsea,Everton,Y,CB,90,0,0,0,0,1,1,0,0,117,0,0,0,3,0.2,0.2,0.0,1,0,96,107,89.7,13,78,8,2,2,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Away,L 1–2,Chelsea,Wolves,Y,CB,90,0,0,0,0,2,0,0,0,67,9,3,0,2,0.1,0.1,0.0,1,0,49,53,92.5,2,35,5,0,0,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Home,W 3–0,Chelsea,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,74,4,1,2,1,0.0,0.0,0.0,0,0,57,63,90.5,4,53,4,0,0,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 1–3,Chelsea,Arsenal,Y,CB,90,0,0,0,0,3,0,0,0,78,2,1,2,1,0.1,0.1,0.0,0,0,56,66,84.8,2,40,4,0,0,Match Report
+2020-2021,2021-01-03,Sun,Premier League,Matchweek 17,Home,L 1–3,Chelsea,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,81,2,1,2,2,0.0,0.0,0.0,0,0,68,75,90.7,2,60,3,0,0,Match Report
+2020-2021,2021-01-10,Sun,FA Cup,Third round,Home,W 4–0,Chelsea,Morecambe,Y,CB,79,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 1–0,Chelsea,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Away,L 0–2,Chelsea,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,W 3–1,Chelsea,Luton Town,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 0–0,Chelsea,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,W 2–0,Chelsea,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,W 2–1,Chelsea,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-11,Thu,FA Cup,Fifth round,Away,W 1–0,Chelsea,Barnsley,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Home,W 2–0,Chelsea,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,D 1–1,Chelsea,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,109,5,1,1,0,0.1,0.1,0.0,0,0,94,99,94.9,2,74,1,0,0,Match Report
+2020-2021,2021-02-23,Tue,Champions Lg,Round of 16,Away,W 1–0,eng Chelsea,es Atlético Madrid,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Away,W 1–0,Chelsea,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Home,W 2–0,Chelsea,Everton,Y,CB,90,0,0,0,0,1,1,0,0,70,6,1,2,1,0.0,0.0,0.0,0,0,58,63,92.1,2,50,6,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,D 0–0,Chelsea,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-17,Wed,Champions Lg,Round of 16,Home,W 2–0,eng Chelsea,es Atlético Madrid,Y,CB,90,0,0,0,0,0,0,0,0,50,8,2,0,0,0.0,0.0,0.0,0,0,32,39,82.1,1,27,2,0,0,Match Report
+2020-2021,2021-03-21,Sun,FA Cup,Quarter-finals,Home,W 2–0,Chelsea,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Home,D 1–1,fr France,ua Ukraine,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–0,fr France,kz Kazakhstan,Y,CB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Away,W 1–0,fr France,ba Bosnia and Herzegovina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Home,L 2–5,Chelsea,West Brom,Y,CB,90,0,0,0,0,4,0,0,0,68,9,1,1,1,0.5,0.5,0.0,1,0,49,52,94.2,5,38,4,1,1,Match Report
+2020-2021,2021-04-07,Wed,Champions Lg,Quarter-finals,Away,W 2–0,eng Chelsea,pt Porto,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Away,W 4–1,Chelsea,Crystal Palace,Y,CB,90,1,0,0,0,2,1,0,0,86,4,0,3,0,0.2,0.2,0.0,0,0,66,72,91.7,0,58,4,0,0,Match Report
+2020-2021,2021-04-13,Tue,Champions Lg,Quarter-finals,Home,L 0–1,eng Chelsea,pt Porto,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,FA Cup,Semi-finals,Home,W 1–0,Chelsea,Manchester City,N,,3,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-20,Tue,Premier League,Matchweek 32,Home,D 0–0,Chelsea,Brighton,Y,CB,90,0,0,0,0,1,1,1,0,136,7,0,3,0,0.0,0.0,0.0,0,0,118,127,92.9,7,110,10,1,1,Match Report

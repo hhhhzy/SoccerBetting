@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-18,Sun,Coppa Italia,Third round,Home,W 3–1,Udinese,Südtirol,Y,,67,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-25,Sun,Serie A,Matchweek 1,Home,W 1–0,Udinese,Milan,Y,FW,70,0,0,0,0,1,0,0,0,34,18,0,0,1,0.1,0.1,0.1,5,0,18,22,81.8,2,23,4,2,3,Match Report
+2019-2020,2019-09-01,Sun,Serie A,Matchweek 2,Home,L 1–3,Udinese,Parma,N,FW,21,0,0,0,0,2,1,0,0,17,1,1,0,0,0.1,0.1,0.0,1,0,11,12,91.7,2,9,1,1,1,Match Report
+2019-2020,2019-09-14,Sat,Serie A,Matchweek 3,Away,L 0–1,Udinese,Inter,N,WB,10,0,0,0,0,1,1,0,0,4,12,1,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2019-2020,2019-09-21,Sat,Serie A,Matchweek 4,Home,L 0–1,Udinese,Brescia,Y,"RW,LW",66,0,0,0,0,1,0,1,0,33,28,2,1,0,0.0,0.0,0.1,2,0,10,18,55.6,2,25,7,0,1,Match Report
+2019-2020,2019-09-24,Tue,Serie A,Matchweek 5,Away,D 0–0,Udinese,Hellas Verona,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-29,Sun,Serie A,Matchweek 6,Home,W 1–0,Udinese,Bologna,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-06,Sun,Serie A,Matchweek 7,Away,L 0–1,Udinese,Fiorentina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-20,Sun,Serie A,Matchweek 8,Home,W 1–0,Udinese,Torino,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-27,Sun,Serie A,Matchweek 9,Away,L 1–7,Udinese,Atalanta,N,"WB,FW",45,0,0,0,0,0,0,0,0,20,6,0,0,2,0.0,0.0,0.3,1,0,7,11,63.6,0,9,0,0,2,Match Report
+2019-2020,2019-10-30,Wed,Serie A,Matchweek 10,Home,L 0–4,Udinese,Roma,N,WB,12,0,0,0,0,1,0,0,0,14,0,0,0,0,0.0,0.0,0.0,1,0,6,11,54.5,0,8,1,0,1,Match Report
+2019-2020,2019-11-03,Sun,Serie A,Matchweek 11,Away,W 3–1,Udinese,Genoa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Serie A,Matchweek 13,Away,L 1–2,Udinese,Sampdoria,N,WB,13,0,0,0,0,1,1,0,0,8,2,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,4,1,0,0,Match Report
+2019-2020,2019-12-01,Sun,Serie A,Matchweek 14,Away,L 0–3,Udinese,Lazio,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-04,Wed,Coppa Italia,Fourth round,Home,W 4–0,Udinese,Bologna,N,,33,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Serie A,Matchweek 15,Home,D 1–1,Udinese,Napoli,N,WB,17,0,0,0,0,0,0,0,0,5,4,1,0,0,0.0,0.0,0.0,3,0,3,5,60.0,0,5,1,1,1,Match Report
+2019-2020,2019-12-15,Sun,Serie A,Matchweek 16,Away,L 1–3,Udinese,Juventus,N,"FW,WB",30,1,0,0,0,2,1,0,0,22,10,0,0,0,0.4,0.4,0.1,3,0,13,17,76.5,2,16,1,4,4,Match Report
+2019-2020,2019-12-21,Sat,Serie A,Matchweek 17,Home,W 2–1,Udinese,Cagliari,N,FW,12,0,0,0,0,0,0,0,0,8,11,0,0,0,0.0,0.0,0.1,1,0,3,5,60.0,0,4,1,0,1,Match Report
+2019-2020,2020-01-06,Mon,Serie A,Matchweek 18,Away,W 1–0,Udinese,Lecce,N,WB,16,0,0,0,0,0,0,0,0,18,4,1,0,0,0.0,0.0,0.0,1,0,7,14,50.0,1,11,3,1,1,Match Report
+2019-2020,2020-01-12,Sun,Serie A,Matchweek 19,Home,W 3–0,Udinese,Sassuolo,N,FW,29,0,0,0,0,1,0,0,0,15,9,0,1,1,0.0,0.0,0.1,1,0,6,7,85.7,2,10,2,0,0,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 0–0,Watford,Tottenham,N,RW,2,0,0,0,0,0,0,0,0,5,0,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,L 1–2,Watford,Aston Villa,N,"WB,DM",16,0,0,0,0,0,0,0,0,15,13,2,3,0,0.0,0.0,0.0,0,0,4,7,57.1,0,7,0,1,1,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,L 2–3,Watford,Everton,N,RM,9,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,3,0,0,1,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Away,D 1–1,Watford,Brighton,N,RW,9,0,0,0,0,0,0,0,0,8,7,2,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,1,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–0,Watford,Liverpool,N,RW,9,0,0,0,0,0,0,0,0,3,3,1,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,Watford,Crystal Palace,N,LW,17,0,0,0,0,0,0,1,0,9,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,1,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,D 1–1,Watford,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Away,L 0–1,Watford,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-28,Sun,Premier League,Matchweek 32,Home,L 1–3,Watford,Southampton,N,RB,12,0,0,0,0,0,0,0,0,12,6,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,5,1,0,1,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Home,W 2–1,Watford,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,W 2–1,Watford,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-17,Fri,Premier League,Matchweek 36,Away,L 1–3,Watford,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-21,Tue,Premier League,Matchweek 37,Home,L 0–4,Watford,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 2–3,Watford,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

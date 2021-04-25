@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-14,Mon,PL2 — Div. 1,Regular Season,Away,W 3–2,Arsenal,Derby County,Y,LM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,L 1–3,West Brom,Brighton,N,LB,34,0,0,0,0,1,0,0,0,23,3,0,0,1,0.0,0.0,0.0,2,0,18,19,94.7,2,12,6,1,1,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,D 0–0,West Brom,West Ham,Y,LB,84,0,0,0,0,1,0,0,0,36,12,2,1,0,0.1,0.1,0.0,3,0,25,32,78.1,1,30,5,3,3,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,L 1–2,West Brom,Manchester City,Y,LB,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-25,Mon,Premier League,Matchweek 6,Away,L 0–2,West Brom,Arsenal,Y,"LM,LW",90,0,0,0,0,1,0,0,0,47,4,2,2,3,0.0,0.0,0.0,0,0,15,33,45.5,0,19,3,0,1,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,D 2–2,West Brom,Watford,Y,LB,90,0,0,0,0,0,0,0,0,48,17,4,1,1,0.0,0.0,0.0,1,1,20,34,58.8,3,22,2,1,1,Match Report
+2017-2018,2017-10-16,Mon,Premier League,Matchweek 8,Away,D 1–1,West Brom,Leicester City,Y,LB,90,0,0,0,0,0,0,0,0,53,11,0,1,3,0.0,0.0,0.1,1,0,27,46,58.7,1,30,5,1,2,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Southampton,Y,LB,90,0,0,0,0,1,1,0,0,42,3,0,1,0,0.0,0.0,0.1,1,0,29,39,74.4,3,27,2,0,0,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,L 2–3,West Brom,Manchester City,Y,"WB,LB",90,0,0,0,0,0,0,0,0,44,8,1,1,2,0.0,0.0,0.0,0,0,21,37,56.8,0,24,1,0,1,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,L 0–1,West Brom,Huddersfield,Y,WB,90,0,0,0,0,1,0,0,0,63,9,2,1,1,0.0,0.0,0.0,4,0,44,51,86.3,5,46,12,1,3,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,L 0–4,West Brom,Chelsea,Y,"WB,LB",90,0,0,0,0,0,0,0,0,66,24,5,2,6,0.0,0.0,0.0,1,0,37,51,72.5,4,41,5,0,2,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,D 1–1,West Brom,Tottenham,Y,LW,90,0,0,0,0,0,0,1,0,45,39,1,0,4,0.0,0.0,0.0,0,0,24,38,63.2,1,23,3,1,1,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Home,D 2–2,West Brom,Newcastle Utd,Y,"LM,LB",79,0,1,0,0,0,0,0,0,46,13,0,3,1,0.0,0.0,0.1,2,1,35,39,89.7,5,25,5,0,1,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,D 0–0,West Brom,Crystal Palace,Y,LB,90,0,0,0,0,0,0,0,0,66,6,2,1,0,0.0,0.0,0.0,1,0,45,60,75.0,3,35,6,1,2,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 0–1,West Brom,Swansea City,Y,RB,90,0,0,0,0,0,0,0,0,60,11,1,1,2,0.0,0.0,0.0,1,0,34,45,75.6,6,31,3,1,1,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,D 0–0,West Brom,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,45,8,1,3,2,0.0,0.0,0.0,0,0,29,37,78.4,4,16,5,1,1,Match Report
+2017-2018,2017-12-17,Sun,Premier League,Matchweek 18,Home,L 1–2,West Brom,Manchester Utd,Y,LB,90,0,0,0,0,2,0,0,0,55,6,0,0,1,0.1,0.1,0.2,6,0,41,50,82.0,2,28,5,1,1,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,L 1–3,West Brom,Stoke City,Y,"LB,CM",80,0,0,0,0,0,0,0,0,52,7,0,1,6,0.0,0.0,0.0,2,0,30,44,68.2,2,19,3,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 0–0,West Brom,Everton,Y,LB,90,0,0,0,0,1,0,0,0,59,9,2,0,1,0.1,0.1,0.0,2,0,41,51,80.4,3,28,3,0,0,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Home,D 1–1,West Brom,Arsenal,Y,LB,90,0,0,0,0,1,0,0,0,48,3,1,2,2,0.0,0.0,0.0,4,0,31,38,81.6,5,30,3,1,1,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,West Ham,Y,LB,90,0,0,0,0,0,0,0,0,63,9,1,0,0,0.0,0.0,0.0,2,0,47,58,81.0,2,44,10,2,3,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,W 2–0,West Brom,Exeter City,Y,LB,11,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,W 2–0,West Brom,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,39,10,0,1,4,0.0,0.0,0.0,0,0,20,31,64.5,1,20,4,1,1,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,D 1–1,West Brom,Everton,Y,LB,90,0,0,0,0,0,0,0,0,72,13,2,1,0,0.0,0.0,0.1,3,0,43,60,71.7,7,19,2,0,0,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,W 3–2,West Brom,Liverpool,Y,LB,36,0,1,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-12,Mon,Premier League,Matchweek 27,Away,L 0–3,West Brom,Chelsea,Y,"LM,LB",90,0,0,0,0,0,0,1,0,36,10,0,0,1,0.0,0.0,0.0,0,0,23,32,71.9,1,22,2,0,2,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,L 1–2,West Brom,Huddersfield,Y,LB,90,0,0,0,0,0,0,0,0,55,12,2,0,1,0.0,0.0,0.0,0,0,36,50,72.0,2,29,3,1,1,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 0–1,West Brom,Watford,Y,LB,90,0,0,0,0,0,0,0,0,41,18,0,1,1,0.0,0.0,0.3,1,0,23,36,63.9,1,20,3,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,L 1–4,West Brom,Leicester City,Y,LB,90,0,0,0,0,0,0,0,0,46,4,1,0,0,0.0,0.0,0.0,0,0,29,41,70.7,5,26,7,1,1,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Away,L 1–2,West Brom,Bournemouth,Y,"LM,LB",90,0,0,0,0,0,0,0,0,53,10,3,0,2,0.0,0.0,0.6,5,1,31,44,70.5,2,31,6,0,1,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,L 1–2,West Brom,Burnley,Y,WB,45,0,0,0,0,0,0,0,0,21,7,0,1,1,0.0,0.0,0.0,0,0,13,17,76.5,2,8,3,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 1–1,West Brom,Swansea City,Y,LB,90,0,0,0,0,0,0,0,0,70,5,1,2,1,0.0,0.0,0.1,4,0,44,64,68.8,4,40,10,0,1,Match Report
+2017-2018,2018-04-15,Sun,Premier League,Matchweek 34,Away,W 1–0,West Brom,Manchester Utd,Y,LB,90,0,0,0,0,0,0,0,0,31,5,0,6,1,0.0,0.0,0.0,0,0,15,24,62.5,1,14,1,0,0,Match Report
+2017-2018,2018-04-21,Sat,Premier League,Matchweek 35,Home,D 2–2,West Brom,Liverpool,Y,LB,75,0,0,0,0,0,0,0,0,28,11,0,0,1,0.0,0.0,0.0,0,0,21,25,84.0,0,19,1,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,W 1–0,West Brom,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,68,25,1,2,1,0.0,0.0,0.0,0,0,39,59,66.1,2,22,1,0,0,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,W 1–0,West Brom,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,27,13,2,1,2,0.0,0.0,0.0,1,0,13,19,68.4,1,7,1,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 0–2,West Brom,Crystal Palace,Y,LB,90,0,0,0,0,0,0,1,0,55,12,1,2,3,0.0,0.0,0.0,0,0,37,45,82.2,1,32,4,0,2,Match Report

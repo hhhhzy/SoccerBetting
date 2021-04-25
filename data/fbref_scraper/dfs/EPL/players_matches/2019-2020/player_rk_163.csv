@@ -1,0 +1,46 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,L 1–3,Aston Villa,Tottenham,Y,LM,90,0,0,0,0,2,1,0,0,37,8,0,1,1,0.0,0.0,0.0,0,0,16,26,61.5,2,27,4,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,L 1–2,Aston Villa,Bournemouth,Y,LW,74,0,0,0,0,3,0,0,0,35,8,1,0,1,0.2,0.2,0.0,2,0,19,28,67.9,0,19,3,0,1,Match Report
+2019-2020,2019-08-23,Fri,Premier League,Matchweek 3,Home,W 2–0,Aston Villa,Everton,N,"RM,LM",14,1,0,0,0,2,2,0,0,8,7,0,0,2,0.3,0.3,0.0,1,1,2,3,66.7,0,5,3,1,1,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,W 6–1,Aston Villa,Crewe Alexandra,Y,FW,90,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 0–1,Aston Villa,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-16,Mon,Premier League,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,Y,LW,90,0,0,0,0,1,1,0,0,43,13,1,0,1,0.1,0.1,0.2,4,0,22,34,64.7,4,30,9,2,3,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 2–3,Aston Villa,Arsenal,Y,LW,85,0,1,0,0,1,1,0,0,39,11,1,1,2,0.0,0.0,0.4,3,1,19,30,63.3,2,31,3,0,0,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Away,W 3–1,Aston Villa,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,Y,RW,69,1,0,0,0,4,1,0,0,32,19,2,0,1,0.2,0.2,0.0,1,0,15,22,68.2,1,26,3,1,1,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,W 5–1,Aston Villa,Norwich City,Y,RW,63,0,2,0,0,5,2,0,0,33,8,2,0,0,0.5,0.5,0.6,4,2,18,24,75.0,5,22,9,0,0,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,Y,RW,75,0,0,0,0,3,0,0,0,31,13,0,2,0,0.6,0.6,0.0,1,0,18,22,81.8,1,22,3,1,1,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,N,LM,7,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,1,0,0,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Aston Villa,Wolves,Y,FW,90,1,0,0,0,5,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,Y,RW,90,0,0,0,0,1,1,1,0,37,14,3,0,1,0.2,0.2,0.1,2,0,11,24,45.8,2,22,3,1,2,Match Report
+2019-2020,2019-11-10,Sun,Premier League,Matchweek 12,Away,L 1–2,Aston Villa,Wolves,Y,RW,90,0,0,0,0,1,1,0,0,36,5,0,1,0,0.0,0.0,0.2,3,0,19,28,67.9,2,25,5,2,4,Match Report
+2019-2020,2019-11-25,Mon,Premier League,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,Y,RW,90,1,0,0,0,1,1,0,0,32,17,1,0,1,0.5,0.5,0.1,2,0,22,26,84.6,3,27,5,1,3,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,Y,RW,17,0,1,0,0,0,0,0,0,3,3,0,0,0,0.0,0.0,0.0,2,2,1,2,50.0,0,4,1,2,2,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,Y,"RM,RW",90,0,0,0,0,5,1,0,0,34,19,0,0,0,0.6,0.6,0.1,5,0,18,28,64.3,1,26,6,3,4,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,Y,RW,79,0,0,0,0,1,0,0,0,28,16,0,0,0,0.0,0.0,0.2,2,0,17,25,68.0,2,23,4,0,0,Match Report
+2019-2020,2019-12-17,Tue,EFL Cup,Quarter-finals,Home,W 5–0,Aston Villa,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,Y,"RW,RM",67,0,0,0,0,1,1,1,0,25,6,0,1,1,0.3,0.3,0.2,2,0,11,20,55.0,2,13,3,1,2,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 1–0,Aston Villa,Norwich City,Y,RW,89,0,0,0,0,1,0,0,0,39,12,1,2,2,0.1,0.1,0.0,0,0,16,26,61.5,0,26,4,3,3,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–3,Aston Villa,Watford,N,RW,45,0,0,0,0,2,0,0,0,29,5,0,0,0,0.0,0.0,0.0,1,0,18,25,72.0,0,18,6,1,2,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Away,L 1–2,Aston Villa,Fulham,Y,FW,85,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-08,Wed,EFL Cup,Semi-finals,Away,D 1–1,Aston Villa,Leicester City,Y,FW,73,0,1,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-12,Sun,Premier League,Matchweek 22,Home,L 1–6,Aston Villa,Manchester City,Y,FW,90,1,0,1,1,2,0,1,0,31,31,1,0,1,0.9,0.1,0.0,0,0,13,17,76.5,0,20,3,2,4,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Aston Villa,Brighton,Y,"FW,RW",90,0,0,0,0,1,0,0,0,33,33,0,1,0,0.1,0.1,0.1,1,0,11,22,50.0,0,22,2,2,2,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,W 2–1,Aston Villa,Watford,Y,"FW,RW",90,0,0,0,0,1,0,0,0,35,11,0,0,0,0.0,0.0,0.1,6,0,20,27,74.1,1,26,4,1,1,Match Report
+2019-2020,2020-01-28,Tue,EFL Cup,Semi-finals,Home,W 2–1,Aston Villa,Leicester City,Y,FW,76,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,Y,RW,57,0,0,0,0,0,0,0,0,19,11,0,0,1,0.0,0.0,0.1,2,0,10,13,76.9,1,11,2,1,2,Match Report
+2019-2020,2020-02-16,Sun,Premier League,Matchweek 26,Home,L 2–3,Aston Villa,Tottenham,Y,RW,69,0,0,0,0,5,3,0,0,32,12,0,1,0,0.3,0.3,0.1,3,0,12,19,63.2,2,26,5,1,1,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Away,L 0–2,Aston Villa,Southampton,Y,RW,27,0,0,0,0,0,0,0,0,14,6,1,0,1,0.0,0.0,0.0,0,0,6,10,60.0,1,7,1,1,1,Match Report
+2019-2020,2020-03-01,Sun,EFL Cup,Final,Neutral,L 1–2,Aston Villa,Manchester City,Y,AM,69,0,1,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-09,Mon,Premier League,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,N,"AM,RM",28,0,0,0,0,0,0,0,0,12,8,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,9,3,1,1,Match Report
+2019-2020,2020-06-17,Wed,Premier League,Matchweek 28,Home,D 0–0,Aston Villa,Sheffield Utd,Y,RW,68,0,0,0,0,1,0,0,0,23,7,1,0,0,0.0,0.0,0.0,1,0,5,15,33.3,0,20,4,2,4,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Home,L 1–2,Aston Villa,Chelsea,Y,"LW,RW",69,0,0,0,0,1,1,0,0,17,17,0,0,0,0.0,0.0,0.1,1,0,7,12,58.3,2,12,1,0,1,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,D 1–1,Aston Villa,Newcastle Utd,Y,RW,69,0,0,0,0,2,1,0,0,25,9,0,0,1,0.1,0.1,0.2,2,0,15,19,78.9,2,15,3,0,0,Match Report
+2019-2020,2020-06-27,Sat,Premier League,Matchweek 32,Home,L 0–1,Aston Villa,Wolves,N,FW,9,0,0,0,0,0,0,0,0,11,3,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,2,10,2,1,3,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,L 0–2,Aston Villa,Liverpool,Y,RM,73,0,0,0,0,1,1,0,0,29,11,1,1,0,0.1,0.1,0.0,3,0,14,21,66.7,2,21,2,2,3,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Home,L 0–3,Aston Villa,Manchester Utd,Y,RM,57,0,0,0,0,1,0,0,0,25,3,0,0,0,0.0,0.0,0.0,1,0,11,21,52.4,1,18,5,2,3,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 2–0,Aston Villa,Crystal Palace,N,LW,3,0,0,0,0,0,0,0,0,2,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,1,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,D 1–1,Aston Villa,Everton,N,RW,27,0,0,0,0,1,0,0,0,11,1,0,0,1,0.5,0.5,0.0,1,0,5,8,62.5,1,4,1,0,0,Match Report
+2019-2020,2020-07-21,Tue,Premier League,Matchweek 37,Home,W 1–0,Aston Villa,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,D 1–1,Aston Villa,West Ham,N,RM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report

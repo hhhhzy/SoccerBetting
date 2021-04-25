@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Home,D 0–0,Southampton,Burnley,Y,FW,55,0,0,0,0,0,0,0,0,19,15,0,0,1,0.0,0.0,0.1,2,0,10,14,71.4,0,16,2,0,1,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–2,Southampton,Everton,N,RM,7,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,1,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,L 1–2,Southampton,Leicester City,N,RM,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 1–0,Southampton,Brighton,Y,AM,80,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-07,Fri,Friendlies (M),Friendlies (M),Home,L 0–4,sco Scotland,be Belgium,Y,AM,52,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-10,Mon,UEFA Nations League,League C,Home,W 2–0,sco Scotland,al Albania,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 0–3,Southampton,Liverpool,N,LW,36,0,0,0,0,0,0,0,0,24,22,3,1,1,0.0,0.0,0.0,0,0,17,20,85.0,1,15,1,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Southampton,Wolves,N,"LM,RM",20,0,0,0,0,1,1,0,0,14,2,0,1,0,0.2,0.2,0.0,0,0,8,10,80.0,2,11,1,0,0,Match Report
+2018-2019,2018-10-02,Tue,EFL Cup,Third round,Away,L 1 (4)–1 (3),Southampton,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-11,Thu,UEFA Nations League,League C,Away,L 1–2,sco Scotland,il Israel,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-14,Sun,Friendlies (M),Friendlies (M),Home,L 1–3,sco Scotland,pt Portugal,Y,DM,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,D 0–0,Southampton,Bournemouth,N,CM,25,0,0,0,0,0,0,0,0,16,4,1,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,12,0,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,D 0–0,Southampton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Away,L 1–6,Southampton,Manchester City,N,FW,9,0,0,0,0,0,0,0,0,10,0,0,0,0,0.0,0.0,0.0,2,0,10,10,100.0,1,9,2,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 1–1,Southampton,Watford,Y,AM,73,0,0,0,0,2,1,0,0,28,21,2,1,1,0.3,0.3,0.0,2,0,12,18,66.7,2,15,2,0,0,Match Report
+2018-2019,2018-11-17,Sat,UEFA Nations League,League C,Away,W 4–0,sco Scotland,al Albania,Y,CM,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,UEFA Nations League,League C,Home,W 3–2,sco Scotland,il Israel,Y,DM,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 2–3,Southampton,Fulham,Y,AM,80,2,0,0,0,3,3,0,0,51,12,1,0,1,0.3,0.3,0.0,2,0,36,43,83.7,0,36,2,1,1,Match Report
+2018-2019,2018-11-27,Tue,EFL Cup,Fourth round,Away,L 0 (5)–0 (6),Southampton,Leicester City,Y,CM,72,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,D 2–2,Southampton,Manchester Utd,Y,LW,90,1,0,0,0,2,1,1,0,59,30,4,2,0,0.0,0.0,0.0,2,0,39,48,81.3,6,43,5,2,2,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,L 1–3,Southampton,Tottenham,Y,AM,80,0,0,0,0,0,0,0,0,52,16,1,0,1,0.0,0.0,0.0,3,0,34,45,75.6,2,36,4,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–1,Southampton,Cardiff City,Y,AM,90,0,0,0,0,1,0,0,0,61,4,1,1,0,0.0,0.0,0.0,1,0,38,49,77.6,5,40,2,0,0,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,W 3–2,Southampton,Arsenal,Y,LW,89,0,0,0,0,3,2,1,0,52,25,5,1,5,0.2,0.2,0.1,6,1,23,32,71.9,2,34,4,1,2,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 3–1,Southampton,Huddersfield,Y,AM,68,0,0,0,0,0,0,0,0,44,15,1,1,1,0.0,0.0,0.2,4,0,24,32,75.0,3,33,4,1,5,Match Report
+2018-2019,2018-12-27,Thu,Premier League,Matchweek 19,Home,L 1–2,Southampton,West Ham,Y,"AM,LW",90,0,0,0,0,4,1,0,0,66,12,1,0,0,0.1,0.1,0.2,4,0,46,57,80.7,8,60,8,3,3,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Home,L 1–3,Southampton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,D 0–0,Southampton,Chelsea,Y,LW,88,0,0,0,0,1,1,0,0,42,36,0,2,1,0.0,0.0,0.0,4,0,21,32,65.6,3,34,5,3,4,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,AM,56,0,0,0,0,2,0,0,0,28,21,0,1,1,0.2,0.2,0.0,3,1,9,13,69.2,2,13,2,0,0,Match Report
+2018-2019,2019-01-16,Wed,FA Cup,Third round,Home,D 2 (3)–2 (5),Southampton,Derby County,Y,AM,89,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Southampton,Everton,N,FW,5,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,D 1–1,Southampton,Crystal Palace,N,"LW,CM,RM",29,0,0,0,0,4,1,0,0,27,2,1,0,0,0.2,0.2,0.0,3,1,15,21,71.4,3,23,4,1,1,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,D 1–1,Southampton,Burnley,Y,CM,76,0,0,0,0,3,1,0,0,42,38,0,0,0,0.2,0.2,0.0,2,0,26,33,78.8,4,37,7,0,0,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Away,L 0–2,Southampton,Arsenal,Y,AM,45,0,0,0,0,1,0,0,0,25,36,2,0,0,0.4,0.4,0.1,2,0,13,17,76.5,2,16,1,0,2,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 2–0,Southampton,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 2–3,Southampton,Manchester Utd,N,FW,28,0,0,0,0,0,0,0,0,7,14,0,0,1,0.0,0.0,0.0,1,1,3,4,75.0,1,6,2,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 2–1,Southampton,Tottenham,N,"FW,LW",18,0,1,0,0,0,0,0,0,13,5,0,0,1,0.0,0.0,0.3,3,2,9,10,90.0,2,9,1,0,0,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,W 1–0,Southampton,Brighton,Y,AM,75,0,0,0,0,1,0,0,0,41,12,4,0,2,0.0,0.0,0.1,3,1,17,30,56.7,3,27,5,1,2,Match Report
+2018-2019,2019-04-05,Fri,Premier League,Matchweek 33,Home,L 1–3,Southampton,Liverpool,N,"AM,DM",8,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 3–1,Southampton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,L 1–3,Southampton,Newcastle Utd,N,LW,45,0,1,0,0,0,0,0,0,42,12,2,1,1,0.0,0.0,0.1,4,1,26,34,76.5,2,32,9,2,2,Match Report
+2018-2019,2019-04-23,Tue,Premier League,Matchweek 31,Away,D 1–1,Southampton,Watford,Y,LW,66,0,0,0,0,0,0,0,0,29,22,0,0,1,0.0,0.0,0.0,0,0,13,22,59.1,1,21,1,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,D 3–3,Southampton,Bournemouth,N,FW,10,0,0,0,0,0,0,0,0,6,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,5,1,0,0,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–3,Southampton,West Ham,Y,RM,66,0,0,0,0,4,0,0,0,45,26,3,0,2,0.1,0.1,0.1,2,0,23,31,74.2,7,34,8,2,2,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 1–1,Southampton,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 2–1,sco Scotland,cy Cyprus,N,,4,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-11,Tue,Euro Qualifying,Group stage,Away,L 0–3,sco Scotland,be Belgium,Y,AM,31,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

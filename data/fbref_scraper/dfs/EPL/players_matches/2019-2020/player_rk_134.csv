@@ -1,0 +1,48 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-04,Sun,Community Shield,FA Community Shield,Neutral,L 1 (4)–1 (5),Liverpool,Manchester City,Y,CM,66,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-09,Fri,Premier League,Matchweek 1,Home,W 4–1,Liverpool,Norwich City,Y,DM,90,0,0,0,0,1,1,0,0,57,20,7,2,4,0.0,0.0,0.0,2,0,35,43,81.4,3,32,1,0,0,Match Report
+2019-2020,2019-08-14,Wed,Super Cup,UEFA Super Cup,Home,W 2 (5)–2 (4),eng Liverpool,eng Chelsea,Y,CM,120,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,W 2–1,Liverpool,Southampton,N,"DM,CM",17,0,0,0,0,0,0,0,0,8,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,DM,90,0,1,0,0,0,0,1,0,74,20,3,0,1,0.0,0.0,0.3,5,1,63,69,91.3,7,58,5,1,1,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,DM,90,0,0,0,0,1,0,0,0,69,13,4,1,1,0.0,0.0,0.1,1,0,51,60,85.0,4,46,4,0,1,Match Report
+2019-2020,2019-09-06,Fri,Friendlies (M),Friendlies (M),Neutral,D 2–2,br Brazil,co Colombia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Friendlies (M),Friendlies (M),Home,L 0–1,br Brazil,pe Peru,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,DM,90,0,0,0,0,0,0,0,0,90,22,3,2,0,0.0,0.0,0.0,1,0,76,81,93.8,5,62,4,0,0,Match Report
+2019-2020,2019-09-17,Tue,Champions Lg,Group stage,Away,L 0–2,eng Liverpool,it Napoli,Y,DM,90,0,0,0,0,2,0,0,0,73,25,6,0,0,0.1,0.1,0.0,1,0,64,67,95.5,6,53,7,2,2,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,DM,90,0,0,0,0,0,0,1,0,51,30,0,0,3,0.0,0.0,0.2,1,0,40,46,87.0,8,35,2,1,1,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,DM,90,0,0,0,0,1,0,0,0,82,18,3,2,3,0.0,0.0,0.1,2,0,63,70,90.0,7,41,3,0,0,Match Report
+2019-2020,2019-10-02,Wed,Champions Lg,Group stage,Home,W 4–3,eng Liverpool,at RB Salzburg,Y,"DM,CM",90,0,0,0,0,0,0,1,0,68,36,2,2,1,0.0,0.0,0.3,2,1,50,58,86.2,3,38,1,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,W 2–1,Liverpool,Leicester City,Y,DM,90,0,0,0,0,0,0,1,0,75,22,2,2,2,0.0,0.0,0.0,0,0,55,66,83.3,6,46,1,2,2,Match Report
+2019-2020,2019-10-10,Thu,Friendlies (M),Friendlies (M),Home,D 1–1,br Brazil,sn Senegal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-13,Sun,Friendlies (M),Friendlies (M),Home,D 1–1,br Brazil,ng Nigeria,N,,11,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-20,Sun,Premier League,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,DM,90,0,0,0,0,0,0,1,0,74,15,1,1,0,0.0,0.0,0.1,2,0,57,65,87.7,5,50,8,0,0,Match Report
+2019-2020,2019-10-23,Wed,Champions Lg,Group stage,Away,W 4–1,eng Liverpool,be Genk,Y,DM,90,0,1,0,0,1,1,0,0,78,23,5,2,1,0.0,0.0,0.0,3,1,64,68,94.1,9,47,4,0,1,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Home,W 2–1,Liverpool,Tottenham,Y,DM,90,0,0,0,0,1,0,0,0,104,15,7,4,2,0.0,0.0,0.2,3,0,76,86,88.4,6,76,7,0,0,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,W 2–1,Liverpool,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-05,Tue,Champions Lg,Group stage,Home,W 2–1,eng Liverpool,be Genk,Y,DM,90,0,0,0,0,1,0,0,0,99,25,4,1,1,0.0,0.0,0.0,3,0,79,91,86.8,5,72,2,1,1,Match Report
+2019-2020,2019-11-10,Sun,Premier League,Matchweek 12,Home,W 3–1,Liverpool,Manchester City,Y,DM,90,1,0,0,0,2,1,0,0,41,36,1,1,3,0.0,0.0,0.0,1,0,28,34,82.4,1,28,3,1,1,Match Report
+2019-2020,2019-11-15,Fri,Friendlies (M),Friendlies (M),Home,L 0–1,br Brazil,ar Argentina,N,,37,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Friendlies (M),Friendlies (M),Neutral,W 3–0,br Brazil,kr Korea Republic,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–1,Liverpool,Crystal Palace,Y,DM,90,0,0,0,0,0,0,1,0,78,19,5,0,2,0.0,0.0,0.0,1,0,56,69,81.2,3,44,5,0,0,Match Report
+2019-2020,2019-11-27,Wed,Champions Lg,Group stage,Home,D 1–1,eng Liverpool,it Napoli,Y,DM,18,0,0,0,0,0,0,0,0,8,5,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Match Report
+2019-2020,2020-01-19,Sun,Premier League,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,N,"CM,LW",8,0,0,0,0,0,0,0,0,2,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-01-23,Thu,Premier League,Matchweek 24,Away,W 2–1,Liverpool,Wolves,N,DM,21,0,0,0,0,0,0,0,0,23,6,0,1,0,0.0,0.0,0.0,0,0,15,20,75.0,0,17,2,0,0,Match Report
+2019-2020,2020-01-26,Sun,FA Cup,Fourth round,Away,D 2–2,Liverpool,Shrewsbury,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-29,Wed,Premier League,Matchweek 18,Away,W 2–0,Liverpool,West Ham,N,LW,22,0,0,0,0,0,0,0,0,37,8,2,0,2,0.0,0.0,0.0,0,0,30,33,90.9,0,27,1,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,W 4–0,Liverpool,Southampton,Y,DM,90,0,0,0,0,1,0,0,0,71,23,7,0,1,0.0,0.0,0.2,2,0,44,60,73.3,3,43,2,0,0,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Away,W 1–0,Liverpool,Norwich City,N,CM,31,0,0,0,0,0,0,0,0,30,6,2,1,0,0.0,0.0,0.0,0,0,22,25,88.0,0,24,4,0,1,Match Report
+2019-2020,2020-02-18,Tue,Champions Lg,Round of 16,Away,L 0–1,eng Liverpool,es Atlético Madrid,Y,DM,90,0,0,0,0,2,0,0,0,92,22,4,1,0,0.0,0.0,0.0,2,0,69,79,87.3,4,66,7,1,1,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Home,W 3–2,Liverpool,West Ham,Y,DM,90,0,0,0,0,1,0,0,0,85,21,4,1,0,0.1,0.1,0.1,3,0,68,78,87.2,7,51,2,0,0,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 0–3,Liverpool,Watford,Y,DM,90,0,0,0,0,0,0,0,0,93,19,1,1,3,0.0,0.0,0.0,1,0,74,88,84.1,1,61,8,0,0,Match Report
+2019-2020,2020-03-03,Tue,FA Cup,Fifth round,Away,L 0–2,Liverpool,Chelsea,Y,CM,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,Y,DM,90,0,0,0,0,0,0,0,0,66,8,0,1,0,0.0,0.0,0.0,0,0,58,60,96.7,7,45,5,0,0,Match Report
+2019-2020,2020-03-11,Wed,Champions Lg,Round of 16,Home,L 2–3,eng Liverpool,es Atlético Madrid,N,DM,15,0,0,0,0,0,0,0,0,10,2,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,7,2,0,0,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,DM,90,0,0,0,0,1,1,0,0,69,12,5,0,2,0.1,0.1,0.0,2,0,55,61,90.2,3,46,3,1,1,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 4–0,Liverpool,Crystal Palace,Y,DM,90,1,1,0,0,2,1,0,0,107,20,6,0,1,0.1,0.1,0.4,3,1,94,96,97.9,1,63,6,1,1,Match Report
+2019-2020,2020-07-02,Thu,Premier League,Matchweek 32,Away,L 0–4,Liverpool,Manchester City,Y,"DM,CB",90,0,0,0,0,0,0,0,0,84,16,3,1,2,0.0,0.0,0.0,0,0,64,73,87.7,3,50,1,1,1,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 2–0,Liverpool,Aston Villa,Y,DM,60,0,0,0,0,0,0,0,0,45,11,1,1,0,0.0,0.0,0.0,0,0,39,42,92.9,8,33,1,1,1,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 3–1,Liverpool,Brighton,N,"DM,CM",30,0,0,0,0,0,0,1,0,14,3,1,0,0,0.0,0.0,0.1,1,0,10,13,76.9,0,8,0,0,0,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,D 1–1,Liverpool,Burnley,Y,DM,90,0,1,0,0,1,0,0,0,71,10,2,1,0,0.0,0.0,0.1,2,1,59,67,88.1,6,57,5,1,1,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,L 1–2,Liverpool,Arsenal,Y,DM,90,0,0,0,0,0,0,0,0,71,11,2,1,3,0.0,0.0,0.0,1,0,53,62,85.5,1,52,2,0,0,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Home,W 5–3,Liverpool,Chelsea,Y,DM,90,0,0,0,0,0,0,0,0,64,15,4,1,0,0.0,0.0,0.0,0,0,46,56,82.1,3,37,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 3–1,Liverpool,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

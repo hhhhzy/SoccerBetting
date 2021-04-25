@@ -1,0 +1,23 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,L 1–3,Aston Villa,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,38,1,0,0,0,0.0,0.0,0.0,0,0,16,35,45.7,0,14,0,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,L 1–2,Aston Villa,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,0,8,0,0,0,Match Report
+2019-2020,2019-08-23,Fri,Premier League,Matchweek 3,Home,W 2–0,Aston Villa,Everton,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,19,36,52.8,0,15,0,0,0,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 0–1,Aston Villa,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,14,0,0,0,Match Report
+2019-2020,2019-09-07,Sat,Euro Qualifying,Group stage,Home,W 4–0,eng England,bg Bulgaria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Euro Qualifying,Group stage,Home,W 5–3,eng England,xk Kosovo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-16,Mon,Premier League,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,10,0,0,0,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 2–3,Aston Villa,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,8,0,0,0,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,11,23,47.8,0,12,0,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,W 5–1,Aston Villa,Norwich City,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,11,0,0,0,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,12,0,0,0,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,17,0,0,0,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,0,0,17,42,40.5,0,10,0,0,0,Match Report
+2019-2020,2019-11-25,Mon,Premier League,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,15,0,0,0,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,0,0,14,36,38.9,0,16,0,0,0,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 1–2,Aston Villa,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,7,0,0,0,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,39,2,0,0,0,0.0,0.0,0.0,0,0,12,34,35.3,0,10,0,0,0,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,19,37,51.4,0,17,0,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,13,0,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 1–0,Aston Villa,Norwich City,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,9,0,0,0,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–3,Aston Villa,Watford,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,10,0,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,Y,GK,84,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,11,0,0,0,Match Report

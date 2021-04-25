@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–2,West Ham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Home,W 3–0,West Ham,Charlton Ath,Y,AM,90,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 1–2,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,W 5–1,West Ham,Hull City,Y,AM,90,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,W 4–0,West Ham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,L 1–4,West Ham,Everton,Y,AM,90,0,0,0,0,4,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 3–0,West Ham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 3–3,West Ham,Tottenham,N,AM,14,1,0,0,0,1,1,1,0,11,3,1,0,1,0.0,0.0,0.0,1,1,4,5,80.0,1,9,1,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 1–1,West Ham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,L 1–2,West Ham,Liverpool,N,WB,3,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,3,0,0,0,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 1–0,West Ham,Fulham,N,RW,19,0,0,0,0,0,0,0,0,13,6,0,0,2,0.0,0.0,0.0,0,0,10,10,100.0,1,12,1,1,1,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,W 1–0,West Ham,Sheffield Utd,N,AM,15,0,0,0,0,0,0,0,0,13,4,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,12,1,2,3,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Home,W 2–1,West Ham,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,L 1–3,West Ham,Manchester Utd,N,AM,15,0,0,0,0,1,1,0,0,10,5,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Match Report
+2020-2021,2020-12-11,Fri,Premier League,Matchweek 12,Away,W 2–1,West Ham,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 1–1,West Ham,Crystal Palace,N,"AM,LW",45,0,0,0,0,0,0,0,0,46,4,0,1,1,0.0,0.0,0.0,4,1,34,39,87.2,3,37,10,1,3,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 2–2,West Ham,Brighton,N,AM,45,0,1,0,0,2,0,0,0,39,10,0,0,2,0.2,0.2,0.3,3,2,29,32,90.6,3,28,3,1,1,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,D 0–0,West Ham,Southampton,Y,CM,59,0,0,0,0,1,0,0,0,28,14,0,2,3,0.2,0.2,0.0,0,0,15,20,75.0,1,16,0,0,0,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Away,W 1–0,West Ham,Everton,N,LW,18,0,0,0,0,1,0,0,0,10,1,0,1,0,0.1,0.1,0.0,0,0,5,8,62.5,0,6,0,0,0,Match Report
+2020-2021,2021-01-11,Mon,FA Cup,Third round,Away,W 1–0,West Ham,Stockport,Y,AM,67,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,W 1–0,West Ham,Burnley,N,AM,23,0,0,0,0,1,0,0,0,13,6,0,1,0,0.1,0.1,0.0,0,0,9,11,81.8,0,9,0,0,0,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Home,W 2–1,West Ham,West Brom,Y,AM,61,0,0,0,0,3,1,0,0,48,8,1,0,2,0.5,0.5,0.0,2,0,29,36,80.6,0,35,1,1,1,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 4–0,West Ham,Doncaster,Y,AM,90,0,0,0,0,4,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 3–2,West Ham,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,L 1–3,West Ham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 3–1,West Ham,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 0–0,West Ham,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-09,Tue,FA Cup,Fifth round,Away,L 0–1,West Ham,Manchester Utd,N,,9,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Home,W 3–0,West Ham,Sheffield Utd,Y,RW,62,0,0,0,0,0,0,0,0,33,13,1,0,1,0.0,0.0,0.2,4,0,24,26,92.3,2,24,3,0,0,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,W 2–1,West Ham,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,L 1–2,West Ham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Home,W 2–0,West Ham,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 0–1,West Ham,Manchester Utd,N,CM,29,0,0,0,0,1,0,0,0,24,6,1,0,0,0.0,0.0,0.2,2,0,21,22,95.5,1,23,3,1,1,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 29,Home,D 3–3,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Away,L 2–3,West Ham,Newcastle Utd,N,FW,4,0,0,0,0,0,0,0,0,8,2,0,0,0,0.0,0.0,0.1,1,0,7,8,87.5,0,7,0,1,1,Match Report
+2020-2021,2021-04-19,Mon,PL2 — Div. 1,Matchweek 24,Home,W 2–1,West Ham,Everton,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

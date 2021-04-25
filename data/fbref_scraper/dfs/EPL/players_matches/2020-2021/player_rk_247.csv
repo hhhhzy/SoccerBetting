@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–1,Tottenham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-17,Thu,Europa Lg,Second qualifying round,Away,W 2–1,eng Tottenham,bg Loko Plovdiv,N,,21,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 5–2,Tottenham,Southampton,N,RW,30,0,0,0,0,2,1,0,0,13,4,0,0,0,0.3,0.3,0.0,1,1,8,9,88.9,2,9,3,0,0,Match Report
+2020-2021,2020-09-24,Thu,Europa Lg,Third qualifying round,Away,W 3–1,eng Tottenham,mk Shkëndija 79,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,D 1–1,Tottenham,Newcastle Utd,N,RW,12,0,0,0,0,1,1,0,0,10,2,0,0,0,0.0,0.0,0.0,1,0,9,9,100.0,0,7,1,1,1,Match Report
+2020-2021,2020-09-29,Tue,EFL Cup,Fourth round,Home,W 1 (5)–1 (4),Tottenham,Chelsea,Y,FW,90,1,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-01,Thu,Europa Lg,Play-off Round,Home,W 7–2,eng Tottenham,il Maccabi Haifa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 6–1,Tottenham,Manchester Utd,Y,RW,45,0,0,0,0,2,0,1,0,22,15,2,0,0,0.1,0.1,0.0,2,1,13,18,72.2,1,16,4,1,1,Match Report
+2020-2021,2020-10-22,Thu,Europa Lg,Group stage,Home,W 3–0,eng Tottenham,at LASK,Y,AM,61,0,0,0,0,2,1,0,0,39,17,3,0,2,0.3,0.3,0.1,5,1,17,23,73.9,1,26,6,4,5,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Away,W 1–0,Tottenham,Burnley,N,RW,34,0,0,0,0,1,1,0,0,27,10,2,1,0,0.1,0.1,0.0,2,1,14,20,70.0,2,18,4,0,0,Match Report
+2020-2021,2020-10-29,Thu,Europa Lg,Group stage,Away,L 0–1,eng Tottenham,be Antwerp,N,AM,45,0,0,0,0,0,0,0,0,37,11,0,0,1,0.0,0.0,0.0,1,0,24,29,82.8,2,31,5,1,1,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Brighton,Y,RW,69,0,0,0,0,2,0,0,0,28,15,3,0,0,0.1,0.1,0.0,2,0,14,22,63.6,1,19,2,0,0,Match Report
+2020-2021,2020-12-23,Wed,EFL Cup,Quarter-finals,Away,W 3–1,Tottenham,Stoke City,N,,25,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,Tottenham,Wolves,N,FW,7,0,0,0,0,0,0,0,0,8,1,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,0,6,0,0,1,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Home,D 1–1,Tottenham,Fulham,N,RW,16,0,0,0,0,0,0,0,0,7,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,0,1,1,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,W 3–1,Tottenham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-25,Mon,FA Cup,Fourth round,Away,W 4–1,Tottenham,Wycombe,Y,AM,67,0,0,0,0,4,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-28,Thu,Premier League,Matchweek 20,Home,L 1–3,Tottenham,Liverpool,N,"RW,FW,LW",45,0,0,0,0,0,0,0,0,20,16,0,1,1,0.0,0.0,0.0,1,1,13,17,76.5,1,12,2,0,0,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,L 0–1,Tottenham,Brighton,N,CM,17,0,0,0,0,2,1,0,0,10,1,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,0,5,3,0,0,Match Report
+2020-2021,2021-02-04,Thu,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Chelsea,N,AM,22,0,0,0,0,1,1,0,0,26,3,0,1,1,0.0,0.0,0.0,0,0,14,20,70.0,0,21,6,1,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,W 2–0,Tottenham,West Brom,Y,RW,73,0,0,0,0,2,0,1,0,57,7,2,0,1,0.1,0.1,0.1,4,0,38,49,77.6,6,42,8,1,1,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Away,L 4–5,Tottenham,Everton,Y,AM,97,1,0,0,0,5,4,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,L 0–3,Tottenham,Manchester City,Y,RW,71,0,0,0,0,0,0,1,0,45,14,0,1,1,0.0,0.0,0.0,0,0,32,37,86.5,1,37,8,2,4,Match Report
+2020-2021,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,W 4–1,eng Tottenham,at Wolfsberger AC,N,RW,26,0,1,0,0,3,0,0,0,28,2,1,0,0,0.2,0.2,0.0,4,1,21,24,87.5,2,25,7,2,2,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,L 1–2,Tottenham,West Ham,Y,AM,45,0,0,0,0,2,1,1,0,32,6,0,0,2,0.1,0.1,0.1,3,0,21,26,80.8,2,22,7,1,1,Match Report
+2020-2021,2021-02-24,Wed,Europa Lg,Round of 32,Neutral,W 4–0,eng Tottenham,at Wolfsberger AC,Y,RW,68,0,0,0,0,4,1,0,0,46,16,3,0,2,0.5,0.5,0.7,5,0,32,33,97.0,7,45,11,4,4,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,W 4–0,Tottenham,Burnley,N,RW,21,0,0,0,0,0,0,0,0,11,3,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,10,1,1,1,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 33,Away,W 1–0,Tottenham,Fulham,N,AM,16,0,0,0,0,0,0,0,0,13,6,1,0,0,0.0,0.0,0.5,1,0,5,9,55.6,1,9,0,2,3,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,W 4–1,Tottenham,Crystal Palace,N,RW,21,0,0,0,0,1,0,0,0,23,13,3,0,0,0.0,0.0,0.0,1,1,15,18,83.3,2,19,6,3,4,Match Report
+2020-2021,2021-03-11,Thu,Europa Lg,Round of 16,Home,W 2–0,eng Tottenham,hr Dinamo Zagreb,Y,RW,63,0,1,0,0,1,0,0,0,43,11,4,0,1,0.4,0.4,0.0,1,1,27,32,84.4,3,28,4,2,3,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 1–2,Tottenham,Arsenal,N,"AM,RW,LW",57,1,0,0,0,2,2,2,1,31,23,1,0,0,0.1,0.1,0.0,0,0,15,18,83.3,1,23,2,0,1,Match Report
+2020-2021,2021-03-18,Thu,Europa Lg,Round of 16,Away,L 0–3,eng Tottenham,hr Dinamo Zagreb,Y,RW,59,0,0,0,0,1,0,1,0,56,9,2,1,2,0.3,0.3,0.1,2,0,32,36,88.9,1,45,4,2,5,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,D 2–2,Tottenham,Newcastle Utd,N,RW,27,0,0,0,0,1,0,0,0,20,5,0,0,1,0.0,0.0,0.1,3,0,13,14,92.9,2,16,6,0,0,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 1–3,Tottenham,Manchester Utd,N,CM,13,0,0,0,0,0,0,0,0,12,5,2,0,0,0.0,0.0,0.0,1,0,6,10,60.0,3,8,3,1,1,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Away,D 2–2,Tottenham,Everton,N,AM,27,0,0,0,0,1,0,0,0,23,11,2,0,1,0.1,0.1,0.0,0,0,12,15,80.0,1,16,1,1,2,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 29,Home,W 2–1,Tottenham,Southampton,N,AM,12,0,0,0,0,0,0,0,0,8,5,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,0,0,0,Match Report

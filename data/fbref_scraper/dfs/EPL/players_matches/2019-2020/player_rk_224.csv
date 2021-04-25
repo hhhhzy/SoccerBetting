@@ -1,0 +1,57 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Away,L 0–4,Chelsea,Manchester Utd,Y,CM,72,0,0,0,0,1,0,1,0,62,20,1,2,2,0.0,0.0,0.0,1,0,47,57,82.5,1,53,5,2,3,Match Report
+2019-2020,2019-08-14,Wed,Super Cup,UEFA Super Cup,Away,L 2 (4)–2 (5),eng Chelsea,eng Liverpool,Y,CM,120,1,0,1,1,2,1,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Home,D 1–1,Chelsea,Leicester City,Y,DM,70,0,0,0,0,1,0,1,0,52,11,3,0,2,0.0,0.0,0.0,1,0,37,47,78.7,5,31,1,1,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 3–2,Chelsea,Norwich City,Y,DM,90,0,0,0,0,2,0,1,0,70,23,3,4,1,0.1,0.1,0.1,6,0,53,60,88.3,13,51,3,1,1,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,D 2–2,Chelsea,Sheffield Utd,Y,DM,90,0,0,0,0,0,0,0,0,98,17,3,2,1,0.0,0.0,0.1,2,0,73,88,83.0,8,79,5,2,3,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Away,W 3–1,it Italy,am Armenia,Y,CM,90,0,0,0,0,1,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-08,Sun,Euro Qualifying,Group stage,Away,W 2–1,it Italy,fi Finland,Y,CM,90,1,0,1,1,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,W 5–2,Chelsea,Wolves,Y,CM,90,0,1,0,0,0,0,0,0,80,30,2,2,1,0.0,0.0,0.5,3,1,65,74,87.8,5,58,6,0,0,Match Report
+2019-2020,2019-09-17,Tue,Champions Lg,Group stage,Home,L 0–1,eng Chelsea,es Valencia,Y,CM,90,0,0,0,0,1,0,1,0,104,32,2,3,2,0.1,0.1,0.0,2,0,89,95,93.7,15,91,11,0,0,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Home,L 1–2,Chelsea,Liverpool,Y,DM,90,0,0,0,0,1,0,0,0,77,22,1,2,3,0.0,0.0,0.0,3,0,53,65,81.5,6,53,0,0,1,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Home,W 7–1,Chelsea,Grimsby Town,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–0,Chelsea,Brighton,Y,DM,90,1,0,1,1,1,0,0,0,83,26,2,2,3,0.8,0.0,0.3,3,0,62,68,91.2,8,55,5,0,0,Match Report
+2019-2020,2019-10-02,Wed,Champions Lg,Group stage,Away,W 2–1,eng Chelsea,fr Lille,Y,"CM,DM",90,0,0,0,0,1,0,0,0,75,26,5,1,0,0.0,0.0,0.0,0,0,56,63,88.9,5,55,,0,1,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Away,W 4–1,Chelsea,Southampton,Y,DM,90,0,0,0,0,0,0,1,0,75,18,3,0,2,0.0,0.0,0.0,2,2,60,68,88.2,6,56,4,1,1,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Home,W 2–0,it Italy,gr Greece,Y,CM,90,1,0,1,1,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Away,W 5–0,it Italy,li Liechtenstein,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 1–0,Chelsea,Newcastle Utd,Y,DM,90,0,0,0,0,0,0,0,0,110,8,6,0,1,0.0,0.0,0.1,4,0,90,98,91.8,8,85,7,1,1,Match Report
+2019-2020,2019-10-23,Wed,Champions Lg,Group stage,Away,W 1–0,eng Chelsea,nl Ajax,Y,DM,90,0,0,0,0,0,0,0,0,58,28,1,0,3,0.0,0.0,0.1,2,0,44,46,95.7,6,38,2,0,1,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,W 4–2,Chelsea,Burnley,Y,DM,90,0,0,0,0,0,0,0,0,97,23,0,2,1,0.0,0.0,0.0,1,0,86,91,94.5,2,76,6,0,0,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Home,L 1–2,Chelsea,Manchester Utd,Y*,CM,90,0,0,0,0,0,0,0,0,,,,6,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,W 2–1,Chelsea,Watford,Y,DM,90,0,1,0,0,0,0,1,0,133,25,2,2,2,0.0,0.0,0.5,3,1,116,125,92.8,5,97,4,2,2,Match Report
+2019-2020,2019-11-05,Tue,Champions Lg,Group stage,Home,D 4–4,eng Chelsea,nl Ajax,Y,DM,90,2,0,2,2,2,0,0,0,69,25,4,0,1,1.7,0.1,0.3,3,0,53,58,91.4,6,39,8,0,0,Match Report
+2019-2020,2019-11-15,Fri,Euro Qualifying,Group stage,Away,W 3–0,it Italy,ba Bosnia and Herzegovina,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Home,W 9–1,it Italy,am Armenia,Y,CM,90,1,1,1,1,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,L 1–2,Chelsea,Manchester City,Y,DM,73,0,0,0,0,0,0,1,0,83,27,3,0,0,0.0,0.0,0.0,1,1,72,78,92.3,6,65,3,1,1,Match Report
+2019-2020,2019-11-27,Wed,Champions Lg,Group stage,Away,D 2–2,eng Chelsea,es Valencia,Y,DM,71,0,0,0,0,0,0,1,0,52,16,0,1,1,0.0,0.0,0.0,0,0,42,46,91.3,4,38,2,0,0,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Home,L 0–1,Chelsea,West Ham,Y*,CM,62,0,0,0,0,0,0,0,0,65,14,0,1,0,0.0,0.0,0.0,2,0,49,58,84.5,6,44,4,0,0,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Chelsea,Aston Villa,N,DM,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,L 1–3,Chelsea,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Champions Lg,Group stage,Home,W 2–1,eng Chelsea,fr Lille,Y,DM,90,0,0,0,0,0,0,0,0,84,27,4,1,0,0.0,0.0,0.0,0,0,66,76,86.8,9,47,1,0,0,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,L 0–1,Chelsea,Bournemouth,Y,CM,77,0,0,0,0,2,0,0,0,80,16,5,3,1,0.1,0.1,0.2,3,0,56,69,81.2,12,49,4,0,0,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Away,W 2–0,Chelsea,Tottenham,N,DM,23,0,0,0,0,0,0,0,0,36,11,1,0,1,0.0,0.0,0.0,1,0,29,31,93.5,2,24,1,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,L 0–2,Chelsea,Southampton,Y,"DM,CM",90,0,0,0,0,0,0,1,0,114,18,4,3,1,0.0,0.0,0.0,2,0,86,102,84.3,14,87,5,2,2,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,N,DM,57,1,0,0,0,1,1,1,0,67,12,1,2,2,0.8,0.8,0.0,1,1,52,59,88.1,7,41,1,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Chelsea,Brighton,Y,DM,90,0,0,0,0,0,0,0,0,82,16,1,1,3,0.0,0.0,0.0,2,0,53,70,75.7,5,51,3,0,1,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,Y*,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,W 3–0,Chelsea,Burnley,Y,DM,90,1,0,1,1,0,0,0,0,57,17,0,1,0,0.8,0.0,0.0,0,0,44,53,83.0,3,42,2,0,0,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,L 0–1,Chelsea,Newcastle Utd,Y,DM,90,0,0,0,0,1,0,0,0,126,14,0,1,2,0.0,0.0,0.0,3,0,103,116,88.8,16,109,19,1,1,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,D 2–2,Chelsea,Arsenal,Y,DM,90,1,0,1,1,0,0,0,0,83,19,4,4,1,0.8,0.0,0.2,4,0,56,69,81.2,4,61,4,1,1,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 2–2,Chelsea,Leicester City,Y,DM,73,0,0,0,0,0,0,1,0,52,14,2,2,0,0.0,0.0,0.0,1,0,38,45,84.4,3,29,4,1,2,Match Report
+2019-2020,2020-02-17,Mon,Premier League,Matchweek 26,Home,L 0–2,Chelsea,Manchester Utd,Y,DM,90,0,0,0,0,0,0,0,0,97,17,5,0,0,0.0,0.0,0.0,3,0,82,88,93.2,9,56,4,0,1,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 2–1,Chelsea,Tottenham,Y,DM,90,0,0,0,0,0,0,0,0,83,27,4,1,4,0.0,0.0,0.2,3,0,61,69,88.4,4,66,3,1,1,Match Report
+2019-2020,2020-02-25,Tue,Champions Lg,Round of 16,Home,L 0–3,eng Chelsea,de Bayern Munich,Y,CM,90,0,0,0,0,0,0,1,0,67,39,3,2,1,0.0,0.0,0.0,0,0,54,60,90.0,5,44,1,1,1,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,D 2–2,Chelsea,Bournemouth,Y,DM,63,0,0,0,0,0,0,1,0,94,13,2,0,2,0.0,0.0,0.0,3,0,83,88,94.3,3,76,8,0,0,Match Report
+2019-2020,2020-03-03,Tue,FA Cup,Fifth round,Home,W 2–0,Chelsea,Liverpool,N,,40,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Home,W 2–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Away,W 1–0,Chelsea,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Away,L 2–3,Chelsea,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 3–0,Chelsea,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Away,W 3–2,Chelsea,Crystal Palace,N,DM,11,0,0,0,0,0,0,0,0,30,2,2,1,0,0.0,0.0,0.0,0,0,25,28,89.3,2,25,1,0,1,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,L 0–3,Chelsea,Sheffield Utd,Y,DM,90,0,0,0,0,0,0,0,0,115,15,1,1,1,0.0,0.0,0.0,2,0,100,110,90.9,6,97,8,0,0,Match Report
+2019-2020,2020-07-14,Tue,Premier League,Matchweek 36,Home,W 1–0,Chelsea,Norwich City,Y,DM,90,0,0,0,0,0,0,0,0,103,28,2,0,1,0.0,0.0,0.0,2,0,89,98,90.8,7,75,3,0,0,Match Report
+2019-2020,2020-07-19,Sun,FA Cup,Semi-finals,Neutral,W 3–1,Chelsea,Manchester Utd,Y,CM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Away,L 3–5,Chelsea,Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,75,32,3,2,2,0.0,0.0,0.0,2,0,58,64,90.6,6,43,4,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 2–0,Chelsea,Wolves,Y,DM,87,0,0,0,0,0,0,0,0,92,18,2,1,1,0.0,0.0,0.0,2,0,77,85,90.6,4,67,2,0,0,Match Report
+2019-2020,2020-08-01,Sat,FA Cup,Final,Neutral,L 1–2,Chelsea,Arsenal,Y,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

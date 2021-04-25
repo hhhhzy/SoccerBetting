@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,W 3–0,Huddersfield,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Home,W 1–0,Huddersfield,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Home,W 2–1,Huddersfield,Rotherham Utd,Y,LB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,D 0–0,Huddersfield,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-11,Mon,Premier League,Matchweek 4,Away,L 0–2,Huddersfield,West Ham,N,LB,28,0,0,0,0,0,0,0,0,25,2,1,2,1,0.0,0.0,0.0,2,0,12,18,66.7,1,16,4,3,3,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,D 1–1,Huddersfield,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,L 0–1,Huddersfield,Crystal Palace,Y,LB,90,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,D 0–0,Huddersfield,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,L 0–4,Huddersfield,Tottenham,N,LB,31,0,0,0,0,0,0,0,0,27,2,1,0,2,0.0,0.0,0.0,0,0,13,22,59.1,0,15,2,1,1,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 0–2,Huddersfield,Swansea City,Y,LB,80,0,0,0,0,0,0,0,0,52,18,4,2,1,0.0,0.0,0.0,0,0,33,46,71.7,5,27,5,0,1,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,W 2–1,Huddersfield,Manchester Utd,N,LW,1,0,0,0,0,0,0,0,0,2,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,L 0–3,Huddersfield,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,W 1–0,Huddersfield,West Brom,Y,LB,78,0,1,0,0,0,0,0,0,68,18,5,1,3,0.0,0.0,0.0,1,1,42,56,75.0,8,48,8,1,2,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 0–4,Huddersfield,Bournemouth,Y,LB,90,0,0,0,0,2,0,0,0,81,9,1,3,2,0.2,0.2,0.3,6,0,59,73,80.8,8,58,10,2,2,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Home,L 1–2,Huddersfield,Manchester City,Y,LB,73,0,0,0,0,0,0,1,0,24,7,2,0,2,0.0,0.0,0.0,0,0,8,15,53.3,0,5,0,0,1,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–5,Huddersfield,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 0–2,Huddersfield,Everton,Y,LB,70,0,0,0,0,0,0,1,0,57,19,6,0,0,0.0,0.0,0.1,1,0,27,38,71.1,2,21,1,1,3,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,W 4–1,Huddersfield,Watford,N,LB,46,0,0,0,0,0,0,0,0,30,15,4,1,1,0.0,0.0,0.0,1,0,15,23,65.2,2,18,1,2,2,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 1–1,Huddersfield,Southampton,Y,LB,90,0,0,0,0,1,1,0,0,54,2,0,1,1,0.1,0.1,0.0,0,0,25,44,56.8,2,26,1,1,2,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 1–1,Huddersfield,Stoke City,N,LB,8,0,0,0,0,0,0,0,0,12,2,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,6,3,0,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,D 0–0,Huddersfield,Burnley,Y,LB,90,0,0,0,0,1,0,0,0,58,12,3,1,1,0.0,0.0,0.0,0,0,33,44,75.0,1,18,2,2,2,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Away,L 0–3,Huddersfield,Leicester City,N,LB,15,0,0,0,0,0,0,1,0,11,0,2,1,1,0.0,0.0,0.0,0,0,4,5,80.0,0,2,1,0,0,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,W 2–1,Huddersfield,Bolton,Y,LB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,L 1–4,Huddersfield,West Ham,Y,LB,90,0,0,0,0,1,0,0,0,59,8,1,0,2,0.0,0.0,0.0,0,0,33,50,66.0,3,29,4,1,3,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,L 0–2,Huddersfield,Stoke City,Y,LB,90,0,0,0,0,0,0,0,0,71,10,1,1,3,0.0,0.0,0.0,1,0,31,57,54.4,3,20,2,0,1,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Home,D 1–1,Huddersfield,Birmingham City,N,,9,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 0–2,Huddersfield,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-06,Tue,FA Cup,Fourth round,Away,W 4–1,Huddersfield,Birmingham City,Y,LB,94,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Home,W 4–1,Huddersfield,Bournemouth,Y,LB,51,0,0,0,0,0,0,0,0,37,4,1,2,1,0.0,0.0,0.0,1,1,17,32,53.1,2,17,1,0,0,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Home,L 0–2,Huddersfield,Manchester Utd,N,,21,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,W 2–1,Huddersfield,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 0–2,Huddersfield,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,D 0–0,Huddersfield,Swansea City,Y,LB,90,0,0,0,0,2,0,0,0,98,11,1,2,1,0.3,0.3,0.1,5,0,74,92,80.4,6,64,20,0,1,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Home,L 0–2,Huddersfield,Crystal Palace,Y,LB,45,0,0,0,0,0,0,0,0,30,2,0,0,1,0.0,0.0,0.0,0,0,14,26,53.8,2,11,1,0,1,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,L 0–1,Huddersfield,Newcastle Utd,N,LW,5,0,0,0,0,0,0,0,0,6,4,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,D 1–1,Huddersfield,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,W 1–0,Huddersfield,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,L 0–2,Huddersfield,Everton,N,"LM,LW,DM",29,0,0,0,0,1,0,0,0,18,0,0,0,0,0.1,0.1,0.0,0,0,8,12,66.7,2,12,0,1,3,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Away,D 0–0,Huddersfield,Manchester City,N,LB,13,0,0,0,0,1,1,0,0,4,1,1,1,0,0.1,0.1,0.0,1,0,2,2,100.0,0,2,1,0,0,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 35,Away,D 1–1,Huddersfield,Chelsea,N,"LW,RB",6,0,0,0,0,0,0,0,0,2,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Match Report

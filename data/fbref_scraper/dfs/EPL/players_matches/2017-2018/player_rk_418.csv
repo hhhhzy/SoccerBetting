@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,D 0–0,Swansea City,Southampton,Y,"AM,FW",85,0,0,0,0,0,0,0,0,27,5,0,1,0,0.0,0.0,0.1,1,0,13,21,61.9,1,17,0,2,2,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,L 0–4,Swansea City,Manchester Utd,N,LW,24,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,7,0,0,2,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,W 2–0,Swansea City,Crystal Palace,N,RW,21,0,0,0,0,0,0,0,0,14,6,2,1,0,0.0,0.0,0.0,0,0,7,11,63.6,1,6,1,1,1,Match Report
+2017-2018,2017-09-10,Sun,Premier League,Matchweek 4,Home,L 0–1,Swansea City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,D 0–0,Swansea City,Tottenham,N,CB,6,0,0,0,0,0,0,1,0,4,1,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,W 2–0,Swansea City,Reading,Y,FW,61,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,L 1–2,Swansea City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 2–0,Swansea City,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Swansea City,Leicester City,N,CM,13,0,0,0,0,1,0,0,0,9,4,0,0,1,0.1,0.1,0.0,1,0,4,6,66.7,0,7,2,0,0,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Home,L 0–2,Swansea City,Manchester Utd,Y,AM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,L 1–2,Swansea City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 0–1,Swansea City,Brighton,N,LB,12,0,0,0,0,0,0,0,0,13,3,2,0,0,0.0,0.0,0.0,1,0,6,10,60.0,2,8,0,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 0–2,Swansea City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,D 0–0,Swansea City,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–1,Swansea City,Chelsea,N,LM,7,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,2,7,28.6,0,4,0,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 1–2,Swansea City,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,Swansea City,West Brom,Y,LW,55,0,0,0,0,0,0,0,0,21,13,1,1,3,0.0,0.0,0.2,1,0,8,15,53.3,1,8,0,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,L 0–5,Swansea City,Liverpool,Y,RM,90,0,0,0,0,0,0,0,0,47,18,2,0,1,0.0,0.0,0.2,4,0,30,39,76.9,3,34,2,4,6,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Home,L 0–2,Swansea City,Tottenham,N,CM,13,0,0,0,0,0,0,0,0,6,1,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,4,1,0,0,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,D 0–0,Swansea City,Wolves,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,D 1–1,Swansea City,Notts County,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Home,W 3–1,Swansea City,Arsenal,N,CM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,D 1–1,Swansea City,Leicester City,N,RM,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+2017-2018,2018-02-06,Tue,FA Cup,Fourth round,Home,W 8–1,Swansea City,Notts County,Y,DM,90,1,1,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 1–0,Swansea City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Away,D 0–0,Swansea City,Sheffield Weds,Y,FW,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 1–4,Swansea City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-27,Tue,FA Cup,Fifth round,Home,W 2–0,Swansea City,Sheffield Weds,Y,FW,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Home,L 0–3,Swansea City,Tottenham,N,,5,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,L 0–2,Swansea City,Manchester Utd,N,CM,35,0,0,0,0,1,0,0,0,23,5,0,0,1,0.0,0.0,0.0,1,0,17,20,85.0,0,20,3,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,D 1–1,Swansea City,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,D 1–1,Swansea City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 0–5,Swansea City,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,L 0–1,Swansea City,Chelsea,N,LM,10,0,0,0,0,1,1,0,0,6,0,0,0,0,0.1,0.1,0.0,0,0,5,5,100.0,1,7,1,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,L 1–2,Swansea City,Stoke City,Y,LM,56,0,0,0,0,1,0,0,0,34,3,2,0,1,0.2,0.2,0.4,2,1,12,30,40.0,3,19,5,0,0,Match Report

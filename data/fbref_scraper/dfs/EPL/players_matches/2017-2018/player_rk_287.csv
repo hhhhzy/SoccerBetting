@@ -1,0 +1,61 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,D 3–3,Liverpool,Watford,Y,CB,90,0,0,0,0,1,1,0,0,73,11,3,3,2,0.0,0.0,0.2,1,0,50,61,82.0,4,42,0,0,0,Match Report
+2017-2018,2017-08-15,Tue,Champions Lg,Play-off Round,Away,W 2–1,eng Liverpool,de Hoffenheim,Y,CB,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,W 1–0,Liverpool,Crystal Palace,N,LW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2017-08-23,Wed,Champions Lg,Play-off Round,Home,W 4–2,eng Liverpool,de Hoffenheim,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Home,W 4–0,Liverpool,Arsenal,Y,CB,90,0,0,0,0,0,0,1,0,67,13,1,1,0,0.0,0.0,0.0,0,0,53,59,89.8,1,44,0,0,0,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Home,W 1–0,hr Croatia,xk Kosovo,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Away,L 0–1,hr Croatia,tr Turkey,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,L 0–5,Liverpool,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-13,Wed,Champions Lg,Group stage,Home,D 2–2,eng Liverpool,es Sevilla,Y,CB,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,D 1–1,Liverpool,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 3–2,Liverpool,Leicester City,Y,CB,90,0,0,0,0,1,0,1,0,58,1,1,1,0,0.1,0.1,0.0,0,0,31,50,62.0,2,34,1,0,0,Match Report
+2017-2018,2017-09-26,Tue,Champions Lg,Group stage,Away,D 1–1,eng Liverpool,ru Spartak Moscow,Y,CB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Away,D 1–1,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,1,0,0,0,102,1,0,1,0,0.4,0.4,0.0,2,0,82,92,89.1,7,72,5,0,0,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Away,W 2–0,hr Croatia,ua Ukraine,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,D 0–0,Liverpool,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,85,8,1,1,2,0.1,0.1,0.0,0,0,65,73,89.0,3,59,2,0,0,Match Report
+2017-2018,2017-10-17,Tue,Champions Lg,Group stage,Away,W 7–0,eng Liverpool,si NK Maribor,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Away,L 1–4,Liverpool,Tottenham,Y,CB,30,0,0,0,0,0,0,0,0,33,6,1,0,1,0.0,0.0,0.0,0,0,25,27,92.6,0,18,0,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,W 4–1,Liverpool,West Ham,N,CB,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Match Report
+2017-2018,2017-11-09,Thu,WCQ — UEFA (M),Second round,Home,W 4–1,hr Croatia,gr Greece,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-12,Sun,WCQ — UEFA (M),Second round,Away,D 0–0,hr Croatia,gr Greece,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 3–0,Liverpool,Southampton,Y,CB,90,0,0,0,0,1,0,1,0,74,13,0,2,4,0.1,0.1,0.0,2,0,50,58,86.2,2,47,5,0,0,Match Report
+2017-2018,2017-11-21,Tue,Champions Lg,Group stage,Away,D 3–3,eng Liverpool,es Sevilla,Y,CB,90,0,0,0,0,0,0,0,0,,,,5,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,W 3–0,Liverpool,Stoke City,Y,CB,90,0,0,0,0,0,0,0,0,77,5,0,0,2,0.0,0.0,0.0,0,0,63,72,87.5,3,56,3,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,W 5–1,Liverpool,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,95,2,1,1,0,0.0,0.0,0.0,1,0,81,89,91.0,1,74,7,0,0,Match Report
+2017-2018,2017-12-06,Wed,Champions Lg,Group stage,Home,W 7–0,eng Liverpool,ru Spartak Moscow,Y,CB,60,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Home,D 1–1,Liverpool,Everton,Y,CB,90,0,0,0,0,1,0,1,0,76,5,1,1,1,0.0,0.0,0.0,0,0,65,70,92.9,3,53,6,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,D 0–0,Liverpool,West Brom,Y,CB,90,0,0,0,0,0,0,0,0,110,16,0,0,1,0.0,0.0,0.0,2,0,90,99,90.9,12,82,14,0,0,Match Report
+2017-2018,2017-12-17,Sun,Premier League,Matchweek 18,Away,W 4–0,Liverpool,Bournemouth,Y,CB,90,1,0,0,0,1,1,0,0,100,7,1,1,0,0.4,0.4,0.0,0,0,86,95,90.5,3,70,3,0,0,Match Report
+2017-2018,2017-12-22,Fri,Premier League,Matchweek 19,Away,D 3–3,Liverpool,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,57,14,2,3,2,0.0,0.0,0.0,0,0,30,42,71.4,2,24,0,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,W 5–0,Liverpool,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,W 2–1,Liverpool,Leicester City,Y,CB,90,0,0,0,0,1,0,0,0,60,6,1,0,1,0.1,0.1,0.0,0,0,49,53,92.5,2,40,1,0,0,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Away,W 2–1,Liverpool,Burnley,Y,CB,90,0,1,0,0,1,1,0,0,79,9,2,2,0,0.1,0.1,0.8,2,1,57,72,79.2,2,51,2,0,0,Match Report
+2017-2018,2018-01-05,Fri,FA Cup,Third round,Home,W 2–1,Liverpool,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-14,Sun,Premier League,Matchweek 23,Home,W 4–3,Liverpool,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,46,16,2,3,1,0.0,0.0,0.0,0,0,30,37,81.1,0,25,0,0,0,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Home,L 2–3,Liverpool,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Away,W 3–0,Liverpool,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,156,7,2,0,3,0.0,0.0,0.0,0,0,132,140,94.3,5,114,4,0,0,Match Report
+2017-2018,2018-02-04,Sun,Premier League,Matchweek 26,Home,D 2–2,Liverpool,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,35,5,0,0,2,0.0,0.0,0.0,0,0,12,16,75.0,1,8,1,1,1,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Away,W 2–0,Liverpool,Southampton,N,RW,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Match Report
+2017-2018,2018-02-14,Wed,Champions Lg,Round of 16,Away,W 5–0,eng Liverpool,pt Porto,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,W 4–1,Liverpool,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,W 2–0,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,2,1,0,0,109,3,0,2,2,0.2,0.2,0.1,2,0,85,88,96.6,4,76,3,0,0,Match Report
+2017-2018,2018-03-06,Tue,Champions Lg,Round of 16,Home,D 0–0,eng Liverpool,pt Porto,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Away,L 1–2,Liverpool,Manchester Utd,Y,CB,90,0,0,0,0,2,0,0,0,69,9,2,1,1,0.1,0.1,0.0,1,0,46,55,83.6,2,31,2,0,0,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,W 2–1,Liverpool,Crystal Palace,N,AM,21,0,0,0,0,0,0,0,0,19,0,1,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,9,1,0,0,Match Report
+2017-2018,2018-04-04,Wed,Champions Lg,Quarter-finals,Home,W 3–0,eng Liverpool,eng Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,D 0–0,Liverpool,Everton,Y,CB,90,0,0,0,0,0,0,0,0,92,4,0,0,2,0.0,0.0,0.0,0,0,68,85,80.0,6,64,10,0,0,Match Report
+2017-2018,2018-04-10,Tue,Champions Lg,Quarter-finals,Away,W 2–1,eng Liverpool,eng Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,W 3–0,Liverpool,Bournemouth,Y,CB,82,0,0,0,0,0,0,0,0,105,4,3,2,0,0.0,0.0,0.2,3,1,85,95,89.5,4,80,15,0,0,Match Report
+2017-2018,2018-04-21,Sat,Premier League,Matchweek 35,Away,D 2–2,Liverpool,West Brom,N,CB,7,0,0,0,0,0,0,0,0,4,0,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Match Report
+2017-2018,2018-04-24,Tue,Champions Lg,Semi-finals,Home,W 5–2,eng Liverpool,it Roma,Y,CB,90,0,0,0,0,1,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,D 0–0,Liverpool,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-02,Wed,Champions Lg,Semi-finals,Away,L 2–4,eng Liverpool,it Roma,Y,CB,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Away,L 0–1,Liverpool,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,108,8,0,0,1,0.0,0.0,0.0,2,0,99,105,94.3,5,83,9,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 4–0,Liverpool,Brighton,Y,CB,90,1,0,0,0,1,1,0,0,114,3,1,2,3,0.1,0.1,0.1,1,0,94,101,93.1,10,81,15,0,0,Match Report
+2017-2018,2018-05-26,Sat,Champions Lg,Final,Neutral,L 1–3,eng Liverpool,es Real Madrid,Y,CB,90,0,1,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-03,Sun,Friendlies (M),Friendlies (M),Away,L 0–2,hr Croatia,br Brazil,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-08,Fri,Friendlies (M),Friendlies (M),Home,W 2–1,hr Croatia,sn Senegal,Y,CB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-16,Sat,FIFA World Cup,Group stage,Neutral,W 2–0,hr Croatia,ng Nigeria,Y,CB,90,0,0,0,0,1,0,0,0,67,5,0,1,5,0.0,0.0,0.0,1,0,48,57,84.2,3,45,6,0,0,Match Report
+2017-2018,2018-06-21,Thu,FIFA World Cup,Group stage,Neutral,W 3–0,hr Croatia,ar Argentina,Y,CB,90,0,0,0,0,0,0,0,0,52,8,1,0,3,0.0,0.0,0.0,0,0,35,39,89.7,1,20,0,0,0,Match Report
+2017-2018,2018-06-26,Tue,FIFA World Cup,Group stage,Neutral,W 2–1,hr Croatia,is Iceland,N,"CB,RW",21,0,0,0,0,0,0,0,0,4,1,0,0,2,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report

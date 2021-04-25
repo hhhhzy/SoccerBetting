@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–1,Tottenham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 5–2,Tottenham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-24,Thu,Europa Lg,Third qualifying round,Away,W 3–1,eng Tottenham,mk Shkëndija 79,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-29,Tue,EFL Cup,Fourth round,Home,W 1 (5)–1 (4),Tottenham,Chelsea,Y,RM,90,0,0,0,0,2,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-01,Thu,Europa Lg,Play-off Round,Home,W 7–2,eng Tottenham,il Maccabi Haifa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 6–1,Tottenham,Manchester Utd,Y,RB,90,1,1,0,0,3,2,0,0,87,16,4,2,1,0.6,0.6,0.0,4,1,62,71,87.3,6,63,10,1,1,Match Report
+2020-2021,2020-10-08,Thu,Friendlies (M),Friendlies (M),Away,D 1–1,ci Côte d'Ivoire,be Belgium,Y*,RM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-13,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–1,ci Côte d'Ivoire,jp Japan,Y*,RM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 3–3,Tottenham,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,82,23,5,0,6,0.0,0.0,0.4,1,0,43,59,72.9,2,43,2,0,1,Match Report
+2020-2021,2020-10-22,Thu,Europa Lg,Group stage,Home,W 3–0,eng Tottenham,at LASK,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-29,Thu,Europa Lg,Group stage,Away,L 0–1,eng Tottenham,be Antwerp,Y,RB,45,0,0,0,0,0,0,0,0,79,13,2,0,2,0.0,0.0,0.0,0,0,53,69,76.8,9,41,2,1,2,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,W 1–0,Tottenham,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-12,Thu,Africa Cup of Nations qualification,Group stage,Home,W 2–1,ci Côte d'Ivoire,mg Madagascar,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,D 1–1,ci Côte d'Ivoire,mg Madagascar,Y*,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,W 2–0,Tottenham,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,50,29,9,2,2,0.0,0.0,0.0,0,0,19,32,59.4,7,21,4,1,2,Match Report
+2020-2021,2020-11-26,Thu,Europa Lg,Group stage,Home,W 4–0,eng Tottenham,bg Ludogorets,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Away,D 0–0,Tottenham,Chelsea,Y,RB,90,0,0,0,0,2,1,0,0,63,18,2,2,2,0.0,0.0,0.0,1,0,39,48,81.3,7,26,2,1,3,Match Report
+2020-2021,2020-12-03,Thu,Europa Lg,Group stage,Away,D 3–3,eng Tottenham,at LASK,N,RW,9,0,0,0,0,0,0,0,0,10,3,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,3,5,1,0,0,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,W 2–0,Tottenham,Arsenal,Y,"RB,WB",90,0,0,0,0,0,0,0,0,49,21,3,3,1,0.0,0.0,0.0,0,0,29,38,76.3,1,18,1,1,2,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,D 1–1,Tottenham,Crystal Palace,Y,RB,90,0,0,0,0,1,0,0,0,62,28,3,0,1,0.0,0.0,0.0,3,0,32,55,58.2,2,34,4,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,L 1–2,Tottenham,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,53,36,13,1,2,0.0,0.0,0.0,0,0,21,32,65.6,2,20,0,0,1,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,L 0–2,Tottenham,Leicester City,Y,RB,63,0,0,0,0,0,0,0,0,47,18,1,2,0,0.0,0.0,0.0,0,0,26,36,72.2,3,27,3,1,1,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,Tottenham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-05,Tue,EFL Cup,Semi-finals,Home,W 2–0,Tottenham,Brentford,Y,RB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Home,D 1–1,Tottenham,Fulham,Y,RB,90,0,0,0,0,0,0,0,0,68,22,4,1,1,0.0,0.0,0.7,4,0,49,60,81.7,4,35,4,1,2,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,W 3–1,Tottenham,Sheffield Utd,Y,WB,90,1,0,0,0,1,1,0,0,56,16,2,0,2,0.2,0.2,0.0,0,0,38,48,79.2,1,32,3,1,1,Match Report
+2020-2021,2021-01-25,Mon,FA Cup,Fourth round,Away,W 4–1,Tottenham,Wycombe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-28,Thu,Premier League,Matchweek 20,Home,L 1–3,Tottenham,Liverpool,Y,WB,45,0,0,0,0,0,0,0,0,25,12,0,2,1,0.0,0.0,0.0,0,0,18,21,85.7,2,10,0,0,0,Match Report
+2020-2021,2021-02-04,Thu,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Chelsea,Y,RB,90,0,0,0,0,1,0,0,0,53,14,2,0,3,0.1,0.1,0.1,2,0,33,40,82.5,2,35,2,0,0,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,W 2–0,Tottenham,West Brom,Y,RB,67,0,0,0,0,1,1,0,0,49,8,2,2,1,0.1,0.1,0.1,4,0,35,38,92.1,1,28,5,1,4,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,W 4–0,Tottenham,Burnley,Y,RB,80,0,0,0,0,1,0,0,0,93,11,3,1,3,0.0,0.0,0.2,3,0,67,78,85.9,1,66,2,2,3,Match Report
+2020-2021,2021-03-11,Thu,Europa Lg,Round of 16,Home,W 2–0,eng Tottenham,hr Dinamo Zagreb,Y,RB,90,0,0,0,0,1,0,0,0,83,11,5,2,2,0.0,0.0,0.0,0,0,55,68,80.9,1,37,1,1,1,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 1–2,Tottenham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-18,Thu,Europa Lg,Round of 16,Away,L 0–3,eng Tottenham,hr Dinamo Zagreb,Y,RB,107,0,0,0,0,1,0,0,0,88,19,4,2,1,0.1,0.1,0.0,0,0,59,74,79.7,5,50,2,3,3,Match Report
+2020-2021,2021-03-26,Fri,Africa Cup of Nations qualification,Group stage,Away,W 3–0,ci Côte d'Ivoire,ne Niger,Y*,RB,90,1,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Africa Cup of Nations qualification,Group stage,Home,W 3–1,ci Côte d'Ivoire,et Ethiopia,Y*,RB,90,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 1–3,Tottenham,Manchester Utd,Y,RB,90,0,0,0,0,3,0,0,0,65,27,4,3,2,0.3,0.3,0.0,2,0,43,51,84.3,5,36,6,1,2,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Away,D 2–2,Tottenham,Everton,Y,WB,90,0,0,0,0,0,0,0,0,50,27,1,1,3,0.0,0.0,0.0,0,0,27,35,77.1,2,23,1,0,1,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 29,Home,W 2–1,Tottenham,Southampton,Y,RB,90,0,0,0,0,0,0,0,0,97,20,8,0,5,0.0,0.0,0.0,1,0,67,76,88.2,5,57,1,2,3,Match Report

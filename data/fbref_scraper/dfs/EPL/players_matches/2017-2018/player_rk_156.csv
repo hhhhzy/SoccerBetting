@@ -1,0 +1,64 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,W 2–0,Manchester City,Brighton,Y,DM,90,0,0,0,0,2,1,0,0,112,15,1,1,1,0.1,0.1,0.0,2,0,83,100,83.0,10,76,6,0,0,Match Report
+2017-2018,2017-08-21,Mon,Premier League,Matchweek 2,Home,D 1–1,Manchester City,Everton,Y,"DM,CB",90,0,0,0,0,0,0,0,0,78,20,3,2,3,0.0,0.0,0.1,2,0,58,69,84.1,8,53,8,0,0,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,W 2–1,Manchester City,Bournemouth,Y,DM,90,0,0,0,0,2,2,0,0,86,8,1,0,2,0.1,0.1,0.0,3,0,61,71,85.9,6,60,9,1,3,Match Report
+2017-2018,2017-08-31,Thu,WCQ,WCQ — CONMEBOL (M),Home,W 2–0,br Brazil,ec Ecuador,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ,WCQ — CONMEBOL (M),Away,D 1–1,br Brazil,co Colombia,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,W 5–0,Manchester City,Liverpool,Y,"DM,CM",90,0,0,0,0,1,1,1,0,92,21,2,7,0,0.0,0.0,0.0,1,1,73,82,89.0,4,63,8,0,0,Match Report
+2017-2018,2017-09-13,Wed,Champions Lg,Group stage,Away,W 4–0,eng Manchester City,nl Feyenoord,Y,DM,72,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,W 6–0,Manchester City,Watford,Y,DM,90,0,0,0,0,2,1,0,0,87,13,2,4,3,0.1,0.1,0.0,1,1,65,71,91.5,3,61,2,1,1,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Away,W 2–1,Manchester City,West Brom,N,,12,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,W 5–0,Manchester City,Crystal Palace,Y,DM,90,0,0,0,0,2,1,0,0,105,7,3,0,1,0.4,0.4,0.0,3,0,91,98,92.9,11,74,10,0,0,Match Report
+2017-2018,2017-09-26,Tue,Champions Lg,Group stage,Home,W 2–0,eng Manchester City,ua Shakhtar,Y,CM,90,0,0,0,0,1,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,W 1–0,Manchester City,Chelsea,Y,DM,90,0,0,0,0,3,1,1,0,74,5,3,0,1,0.1,0.1,0.0,2,0,62,69,89.9,4,48,7,1,1,Match Report
+2017-2018,2017-10-05,Thu,WCQ,WCQ — CONMEBOL (M),Away,D 0–0,br Brazil,bo Bolivia,N,,9,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-10,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 3–0,br Brazil,cl Chile,N,,9,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 7–2,Manchester City,Stoke City,Y,DM,72,1,0,0,0,1,1,0,0,96,12,2,1,1,0.0,0.0,0.0,4,0,83,91,91.2,17,75,13,0,0,Match Report
+2017-2018,2017-10-17,Tue,Champions Lg,Group stage,Home,W 2–1,eng Manchester City,it Napoli,Y,CM,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,W 3–0,Manchester City,Burnley,Y,CM,77,0,0,0,0,0,0,1,0,83,5,2,1,2,0.0,0.0,0.0,2,0,69,75,92.0,4,61,7,0,0,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,W 3–2,Manchester City,West Brom,Y,DM,90,1,1,0,0,1,1,0,0,124,8,1,1,0,0.0,0.0,0.0,4,2,106,114,93.0,14,101,11,0,0,Match Report
+2017-2018,2017-11-01,Wed,Champions Lg,Group stage,Away,W 4–2,eng Manchester City,it Napoli,Y*,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Home,W 3–1,Manchester City,Arsenal,Y,DM,90,0,1,0,0,0,0,0,0,90,32,5,0,1,0.0,0.0,0.0,3,3,66,76,86.8,5,67,9,0,0,Match Report
+2017-2018,2017-11-10,Fri,Friendlies (M),Friendlies (M),Away,W 3–1,br Brazil,jp Japan,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Away,D 0–0,br Brazil,eng England,N,,23,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,W 2–0,Manchester City,Leicester City,Y,CM,90,0,0,0,0,0,0,0,0,112,6,4,2,4,0.0,0.0,0.0,0,0,90,102,88.2,13,92,12,0,0,Match Report
+2017-2018,2017-11-21,Tue,Champions Lg,Group stage,Home,W 1–0,eng Manchester City,nl Feyenoord,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,W 2–1,Manchester City,Huddersfield,Y,DM,90,0,0,0,0,2,0,1,0,112,8,1,2,1,0.1,0.1,0.4,2,0,99,105,94.3,11,98,11,2,2,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 2–1,Manchester City,Southampton,Y,DM,90,0,0,0,0,4,2,0,0,115,4,2,0,2,0.2,0.2,0.0,2,0,89,102,87.3,10,77,16,0,0,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Home,W 2–1,Manchester City,West Ham,N,DM,6,0,0,0,0,0,0,0,0,10,0,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,7,0,0,0,Match Report
+2017-2018,2017-12-06,Wed,Champions Lg,Group stage,Away,L 1–2,eng Manchester City,ua Shakhtar,Y*,CB,70,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,W 2–1,Manchester City,Manchester Utd,Y,CM,90,0,0,0,0,2,0,0,0,86,7,1,1,0,0.1,0.1,0.3,4,0,69,83,83.1,9,60,6,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,W 4–0,Manchester City,Swansea City,Y,DM,57,0,0,0,0,1,1,0,0,90,5,0,1,0,0.0,0.0,0.0,1,0,80,88,90.9,6,65,13,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,W 4–1,Manchester City,Tottenham,Y*,CM,90,0,0,0,0,0,0,0,0,47,28,3,0,3,0.0,0.0,0.0,1,0,29,37,78.4,1,29,1,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,W 4–0,Manchester City,Bournemouth,Y,CM,90,0,1,0,0,2,0,0,0,126,18,0,0,0,0.1,0.1,0.4,3,1,102,116,87.9,8,83,6,1,1,Match Report
+2017-2018,2017-12-27,Wed,Premier League,Matchweek 20,Away,W 1–0,Manchester City,Newcastle Utd,Y,"CB,DM",90,0,0,0,0,0,0,0,0,136,3,0,2,2,0.0,0.0,0.2,1,0,113,128,88.3,8,100,28,0,0,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Away,D 0–0,Manchester City,Crystal Palace,Y*,DM,90,0,0,0,0,2,0,1,0,87,8,2,0,4,0.0,0.0,0.0,1,0,69,76,90.8,4,70,3,2,2,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Home,W 3–1,Manchester City,Watford,Y,DM,70,0,0,0,0,0,0,0,0,121,12,2,0,1,0.0,0.0,0.1,1,0,109,115,94.8,9,74,6,1,1,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Home,W 4–1,Manchester City,Burnley,Y,CM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-09,Tue,EFL Cup,Semi-finals,Home,W 2–1,Manchester City,Bristol City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-14,Sun,Premier League,Matchweek 23,Away,L 3–4,Manchester City,Liverpool,Y*,CM,90,0,0,0,0,1,0,1,0,90,17,4,2,4,0.0,0.0,0.0,2,0,65,74,87.8,4,50,3,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,W 3–1,Manchester City,Newcastle Utd,Y,DM,90,0,0,0,0,2,0,0,0,113,10,2,1,1,0.1,0.1,0.0,1,0,86,104,82.7,10,70,15,0,0,Match Report
+2017-2018,2018-01-23,Tue,EFL Cup,Semi-finals,Away,W 3–2,Manchester City,Bristol City,Y,CM,90,0,0,0,0,1,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-28,Sun,FA Cup,Fourth round,Away,W 2–0,Manchester City,Cardiff City,Y,CM,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,W 3–0,Manchester City,West Brom,Y,CM,90,1,0,0,0,1,1,0,0,77,7,3,1,0,0.1,0.1,0.0,2,0,59,67,88.1,6,59,6,0,1,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,D 1–1,Manchester City,Burnley,Y,DM,90,0,0,0,0,0,0,0,0,69,7,0,1,4,0.0,0.0,0.0,0,0,53,60,88.3,8,42,3,1,1,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 5–1,Manchester City,Leicester City,Y*,DM,79,0,0,0,0,2,1,0,0,77,10,1,0,3,0.3,0.3,0.0,1,1,55,63,87.3,6,45,6,0,1,Match Report
+2017-2018,2018-02-13,Tue,Champions Lg,Round of 16,Away,W 4–0,eng Manchester City,ch Basel,Y,CM,90,0,1,0,0,1,0,1,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-19,Mon,FA Cup,Fifth round,Away,L 0–1,Manchester City,Wigan Athletic,Y,CM,90,0,0,0,0,4,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,EFL Cup,Final,Away,W 3–0,Manchester City,Arsenal,Y,DM,51,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-12,Mon,Premier League,Matchweek 30,Away,W 2–0,Manchester City,Stoke City,Y,DM,90,0,0,0,0,3,1,0,0,84,9,0,1,2,0.2,0.2,0.0,3,0,64,77,83.1,4,69,11,0,0,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Away,W 3–0,br Brazil,ru Russia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,W 1–0,br Brazil,de Germany,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,W 3–1,Manchester City,Everton,Y,DM,90,0,0,0,0,4,2,0,0,181,2,0,0,2,0.1,0.1,0.0,2,1,159,170,93.5,12,131,31,1,1,Match Report
+2017-2018,2018-04-04,Wed,Champions Lg,Quarter-finals,Away,L 0–3,eng Manchester City,eng Liverpool,Y,DM,90,0,0,0,0,2,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,L 2–3,Manchester City,Manchester Utd,Y,DM,90,0,0,0,0,2,0,1,0,85,10,2,1,1,0.1,0.1,0.1,6,0,70,78,89.7,12,62,11,1,1,Match Report
+2017-2018,2018-04-10,Tue,Champions Lg,Quarter-finals,Home,L 1–2,eng Manchester City,eng Liverpool,Y,DM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Away,W 4–1,Manchester City,West Ham,Y*,CM,90,1,0,0,0,2,1,0,0,119,7,3,0,1,0.3,0.3,0.0,3,1,100,109,91.7,10,85,13,1,1,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,D 0–0,Manchester City,Huddersfield,Y,"DM,CB",90,0,0,0,0,2,0,0,0,95,13,0,3,2,0.1,0.1,0.1,2,0,76,86,88.4,7,77,8,1,1,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Home,W 3–1,Manchester City,Brighton,Y,"RM,DM",90,1,0,0,0,2,2,0,0,101,12,0,0,1,0.1,0.1,0.4,5,1,83,92,90.2,10,83,15,0,2,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 1–0,Manchester City,Southampton,Y*,CM,90,0,0,0,0,1,0,0,0,98,3,2,2,4,0.1,0.1,0.0,2,1,69,86,80.2,5,68,28,0,1,Match Report
+2017-2018,2018-06-03,Sun,Friendlies (M),Friendlies (M),Home,W 2–0,br Brazil,hr Croatia,Y,CM,45,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-10,Sun,Friendlies (M),Friendlies (M),Away,W 3–0,br Brazil,at Austria,N,,31,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-17,Sun,FIFA World Cup,Group stage,Neutral,D 1–1,br Brazil,ch Switzerland,N,DM,31,0,0,0,0,2,0,0,0,20,9,0,0,1,0.0,0.0,0.0,0,0,13,13,100.0,1,8,1,0,1,Match Report
+2017-2018,2018-06-22,Fri,FIFA World Cup,Group stage,Neutral,W 2–0,br Brazil,cr Costa Rica,N,"FW,DM",1,0,0,0,0,0,0,0,0,11,1,0,1,0,0.0,0.0,0.0,0,0,10,10,100.0,0,10,0,0,0,Match Report
+2017-2018,2018-06-27,Wed,FIFA World Cup,Group stage,Neutral,W 2–0,br Brazil,rs Serbia,N,CM,25,0,0,0,0,0,0,0,0,38,1,1,1,2,0.0,0.0,0.1,2,0,27,32,84.4,0,23,1,0,0,Match Report

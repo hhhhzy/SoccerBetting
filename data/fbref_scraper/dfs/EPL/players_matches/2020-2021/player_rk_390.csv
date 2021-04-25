@@ -1,0 +1,28 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-03,Thu,UEFA Nations League,League B,Away,W 1–0,wal Wales,fi Finland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-06,Sun,UEFA Nations League,League B,Home,W 1–0,wal Wales,bg Bulgaria,N,,30,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,N,FW,31,0,0,0,0,1,0,0,0,7,4,0,0,1,0.1,0.1,0.0,0,0,2,4,50.0,0,3,1,0,0,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y*,FW,60,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 2–5,West Brom,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,L 2 (4)–2 (5),West Brom,Brentford,Y*,FW,84,2,0,2,2,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,D 3–3,West Brom,Chelsea,N,FW,25,0,0,0,0,1,0,0,0,17,4,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,1,13,3,1,2,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,N,FW,31,0,0,0,0,1,1,0,0,7,8,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,5,1,0,0,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,AM,29,0,0,0,0,0,0,0,0,7,5,0,0,1,0.0,0.0,0.0,1,0,2,3,66.7,1,5,1,0,0,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,FW,26,0,0,0,0,1,1,0,0,9,7,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,9,2,1,1,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 3–2,West Brom,Wolves,N,LW,22,0,0,0,0,0,0,0,0,8,7,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,6,0,0,1,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Away,L 1–2,West Brom,West Ham,N,DM,11,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,6,1,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 0–5,West Brom,Manchester City,N,FW,27,0,0,0,0,0,0,1,0,8,4,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,6,1,0,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,D 2–2,West Brom,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,Sheffield Utd,N,FW,23,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,L 0–2,West Brom,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,D 1–1,West Brom,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,D 0–0,West Brom,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 1–0,West Brom,Brighton,N,FW,8,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,1,1,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,West Brom,Everton,N,CM,13,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.2,2,0,4,5,80.0,0,6,0,0,0,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,D 0–0,West Brom,Newcastle Utd,N,FW,7,0,0,0,0,0,0,0,0,4,1,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,L 0–1,West Brom,Crystal Palace,N,"FW,CM",28,0,0,0,0,0,0,0,0,8,3,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,2,8,2,0,1,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,L 1–3,wal Wales,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,Friendlies (M),Friendlies (M),Home,W 1–0,wal Wales,mx Mexico,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 5–2,West Brom,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Home,W 3–0,West Brom,Southampton,N,FW,15,0,0,0,0,0,0,0,0,8,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,6,0,0,1,Match Report
+2020-2021,2021-04-22,Thu,Premier League,Matchweek 32,Away,L 0–3,West Brom,Leicester City,N,FW,30,0,0,0,0,0,0,0,0,11,9,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,10,0,1,2,Match Report

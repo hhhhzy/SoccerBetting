@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-28,Sun,Premier League,Matchweek 3,Home,W 3–1,Manchester City,West Ham,N,,16,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-10,Sat,La Liga,Matchweek 3,Home,W 2–1,Sevilla,Las Palmas,Y,FW,90,0,0,0,0,1,0,0,0,1,2,0,4,2,0,0,0,0,Match Report
+2016-2017,2016-09-20,Tue,La Liga,Matchweek 5,Home,W 1–0,Sevilla,Betis,Y,FW,90,0,1,0,0,1,1,1,0,3,0,0,3,0,1,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,La Liga,Matchweek 6,Away,L 1–3,Sevilla,Athletic Club,Y,AM,90,1,0,0,0,1,1,0,0,1,0,0,2,1,0,0,0,0,Match Report
+2016-2017,2016-09-27,Tue,Champions Lg,Group stage,Home,W 1–0,es Sevilla,fr Lyon,Y,RW,90,0,0,0,0,4,1,0,0,1,2,0,4,1,2,0,1,0,Match Report
+2016-2017,2016-10-01,Sat,La Liga,Matchweek 7,Home,W 2–1,Sevilla,Alavés,Y,LM,58,0,0,0,0,2,0,0,0,1,1,0,4,2,1,0,0,0,Match Report
+2016-2017,2016-10-15,Sat,La Liga,Matchweek 8,Away,W 3–2,Sevilla,Leganés,Y,CM,90,1,0,0,0,2,2,1,0,2,0,1,1,0,1,0,0,0,Match Report
+2016-2017,2016-10-18,Tue,Champions Lg,Group stage,Away,W 1–0,es Sevilla,hr Dinamo Zagreb,Y,CM,90,1,0,0,0,3,2,0,0,0,1,0,6,2,0,0,0,0,Match Report
+2016-2017,2016-10-23,Sun,La Liga,Matchweek 9,Home,W 1–0,Sevilla,Atlético Madrid,Y,FW,90,0,0,0,0,2,0,1,0,0,1,0,6,0,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,La Liga,Matchweek 10,Away,D 1–1,Sevilla,Sporting Gijón,Y,DM,45,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,Match Report
+2016-2017,2016-11-06,Sun,La Liga,Matchweek 11,Home,L 1–2,Sevilla,Barcelona,Y,AM,78,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-07,Wed,Champions Lg,Group stage,Away,D 0–0,es Sevilla,fr Lyon,Y,FW,87,0,0,0,0,0,0,1,0,1,2,1,1,0,1,0,0,0,Match Report
+2016-2017,2016-12-11,Sun,La Liga,Matchweek 15,Away,W 3–0,Sevilla,Celta Vigo,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,La Liga,Matchweek 16,Home,W 4–1,Sevilla,Málaga,Y,CM,90,0,0,0,0,0,0,0,0,4,0,2,1,0,0,0,0,0,Match Report
+2016-2017,2017-01-04,Wed,Copa del Rey,Round of 16,Away,L 0–3,Sevilla,Real Madrid,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-07,Sat,La Liga,Matchweek 17,Away,W 4–0,Sevilla,Real Sociedad,Y,FW,90,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,Match Report
+2016-2017,2017-01-12,Thu,Copa del Rey,Round of 16,Home,D 3–3,Sevilla,Real Madrid,N,,36,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-15,Sun,La Liga,Matchweek 18,Home,W 2–1,Sevilla,Real Madrid,Y,DM,90,0,0,0,0,2,1,1,0,3,0,1,4,2,1,0,0,0,Match Report
+2016-2017,2017-01-29,Sun,La Liga,Matchweek 20,Away,L 1–3,Sevilla,Espanyol,Y,AM,90,0,1,0,0,1,1,0,0,2,2,0,2,0,0,0,0,0,Match Report
+2016-2017,2017-02-05,Sun,La Liga,Matchweek 21,Home,D 0–0,Sevilla,Villarreal,Y,CM,90,0,0,0,1,3,1,1,0,1,1,0,3,0,0,0,0,0,Match Report
+2016-2017,2017-02-12,Sun,La Liga,Matchweek 22,Away,W 1–0,Sevilla,Las Palmas,Y,FW,90,0,0,0,0,3,0,0,0,0,0,0,1,2,0,0,0,0,Match Report
+2016-2017,2017-02-18,Sat,La Liga,Matchweek 23,Home,W 2–0,Sevilla,Eibar,Y,AM,70,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,Match Report
+2016-2017,2017-02-22,Wed,Champions Lg,Round of 16,Home,W 2–1,es Sevilla,eng Leicester City,Y,AM,90,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,La Liga,Matchweek 24,Away,W 2–1,Sevilla,Betis,Y,DM,90,0,0,0,0,0,0,0,0,3,0,0,3,1,1,0,0,0,Match Report
+2016-2017,2017-03-02,Thu,La Liga,Matchweek 25,Home,W 1–0,Sevilla,Athletic Club,Y,LM,90,0,0,0,0,1,0,1,0,2,3,0,6,5,1,0,0,0,Match Report
+2016-2017,2017-03-14,Tue,Champions Lg,Round of 16,Away,L 0–2,es Sevilla,eng Leicester City,Y,AM,73,0,0,0,0,1,1,1,1,3,0,0,3,0,0,0,0,0,Match Report
+2016-2017,2017-03-19,Sun,La Liga,Matchweek 28,Away,L 1–3,Sevilla,Atlético Madrid,Y,CM,90,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,Match Report
+2016-2017,2017-04-02,Sun,La Liga,Matchweek 29,Home,D 0–0,Sevilla,Sporting Gijón,Y,AM,90,0,0,0,0,1,1,1,0,1,1,0,4,0,1,0,0,0,Match Report
+2016-2017,2017-04-05,Wed,La Liga,Matchweek 30,Away,L 0–3,Sevilla,Barcelona,Y,LM,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-27,Thu,La Liga,Matchweek 34,Home,W 2–1,Sevilla,Celta Vigo,N,,26,0,2,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,Match Report
+2016-2017,2017-05-05,Fri,La Liga,Matchweek 36,Home,D 1–1,Sevilla,Real Sociedad,Y,DM,81,0,0,0,0,1,0,0,0,2,0,0,5,3,3,0,0,0,Match Report

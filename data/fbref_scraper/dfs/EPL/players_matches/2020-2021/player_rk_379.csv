@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Fulham,Arsenal,N,AM,16,0,0,0,0,1,0,0,0,10,13,1,0,2,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Away,W 1–0,Fulham,Ipswich Town,Y,AM,90,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 3–4,Fulham,Leeds United,N,AM,33,1,0,0,0,1,1,0,0,12,6,0,0,0,0.2,0.2,0.0,0,0,7,9,77.8,0,14,3,2,3,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Home,W 2–0,Fulham,Sheffield Weds,Y,AM,90,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,Y,AM,77,0,0,0,0,1,0,1,0,32,10,0,0,1,0.0,0.0,0.0,2,0,19,24,79.2,2,26,1,2,4,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–1,Fulham,Wolves,Y,AM,80,0,0,0,0,0,0,0,0,37,7,2,0,1,0.0,0.0,0.0,0,0,25,31,80.6,0,26,2,0,0,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Fulham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,L 1–2,Fulham,Crystal Palace,N,RW,17,0,0,0,0,0,0,0,0,7,10,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,4,0,0,1,Match Report
+2020-2021,2020-11-02,Mon,Premier League,Matchweek 7,Home,W 2–0,Fulham,West Brom,Y,RW,84,1,0,0,0,3,1,1,0,37,21,1,1,0,0.9,0.9,0.0,2,1,18,27,66.7,2,25,1,0,0,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Away,L 0–1,Fulham,West Ham,Y,RW,82,0,0,0,0,2,1,0,0,43,5,0,0,1,0.1,0.1,0.0,2,0,31,36,86.1,4,37,2,2,3,Match Report
+2020-2021,2020-11-14,Sat,Friendlies (M),Friendlies (M),Away,L 0–3,jm Jamaica,sa Saudi Arabia,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Friendlies (M),Friendlies (M),Away,W 2–1,jm Jamaica,sa Saudi Arabia,Y,RW,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Home,L 2–3,Fulham,Everton,Y,RW,57,1,0,0,0,3,2,1,0,38,14,1,0,1,0.8,0.8,0.0,2,1,26,31,83.9,1,26,4,1,1,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Away,W 2–1,Fulham,Leicester City,Y,WB,90,0,0,0,0,0,0,0,0,41,18,4,2,2,0.0,0.0,0.0,1,1,21,32,65.6,3,19,2,1,1,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Away,L 0–2,Fulham,Manchester City,Y,WB,71,0,0,0,0,0,0,0,0,28,7,0,0,2,0.0,0.0,0.0,0,0,13,18,72.2,2,21,3,0,1,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,D 1–1,Fulham,Liverpool,Y,WB,90,1,0,0,0,2,1,0,0,42,12,0,4,2,0.2,0.2,0.0,0,0,15,28,53.6,2,26,4,0,1,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 0–0,Fulham,Brighton,Y,WB,61,0,0,0,0,0,0,0,0,34,11,2,1,3,0.0,0.0,0.0,0,0,13,24,54.2,2,18,1,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Away,D 1–1,Fulham,Newcastle Utd,Y,RW,90,0,0,0,0,1,0,0,0,35,6,0,0,1,0.3,0.3,0.0,0,0,20,31,64.5,2,30,1,1,2,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,D 0–0,Fulham,Southampton,Y,WB,82,0,0,0,0,0,0,1,0,37,5,0,0,1,0.0,0.0,0.0,0,0,16,29,55.2,1,18,3,2,4,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,W 2–0,Fulham,QPR,N,,54,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Away,D 1–1,Fulham,Tottenham,Y,"RW,WB",90,0,0,0,0,2,0,0,0,40,9,2,1,0,0.1,0.1,0.0,1,0,27,31,87.1,6,30,7,3,4,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Fulham,Chelsea,Y,CM,82,0,0,0,0,0,0,1,0,32,15,2,0,3,0.0,0.0,0.0,1,0,18,23,78.3,4,19,7,0,0,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,L 0–3,Fulham,Burnley,Y,RW,67,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Fulham,Brighton,Y,WB,90,0,0,0,0,2,0,0,0,48,17,1,1,5,0.2,0.2,0.0,1,0,23,32,71.9,2,27,4,2,2,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,D 2–2,Fulham,West Brom,Y,WB,71,1,0,0,0,3,1,0,0,41,6,2,0,0,1.0,1.0,0.1,1,0,24,28,85.7,0,23,3,0,1,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–2,Fulham,Leicester City,N,RM,20,0,0,0,0,1,0,0,0,12,3,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,2,13,3,2,3,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,D 0–0,Fulham,West Ham,Y,"RW,DM",82,0,0,0,0,2,0,0,0,38,12,1,0,3,0.3,0.3,0.1,3,0,22,27,81.5,4,28,5,1,1,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,W 2–0,Fulham,Everton,Y,FW,90,0,0,0,0,1,0,0,0,40,22,1,0,0,0.0,0.0,0.4,2,0,25,30,83.3,1,31,5,1,2,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 17,Away,D 1–1,Fulham,Burnley,Y,"AM,RM",66,0,0,0,0,0,0,0,0,34,10,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,1,17,2,1,2,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,W 1–0,Fulham,Sheffield Utd,N,LW,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,D 0–0,Fulham,Crystal Palace,Y,RW,65,0,0,0,0,1,0,0,0,43,18,1,0,0,0.0,0.0,0.0,3,0,24,34,70.6,4,32,2,0,1,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 33,Home,L 0–1,Fulham,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,W 1–0,Fulham,Liverpool,Y,RM,90,0,0,0,0,0,0,0,0,35,15,0,0,3,0.0,0.0,0.1,2,0,18,24,75.0,1,17,2,0,1,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 1–3,Fulham,Aston Villa,Y,RW,90,0,0,0,0,3,1,1,0,39,23,4,2,1,0.1,0.1,0.0,3,0,12,19,63.2,1,30,4,2,4,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Home,L 0–1,Fulham,Wolves,Y,"AM,RM",90,0,0,0,0,1,0,0,0,42,25,1,0,1,0.0,0.0,0.0,0,0,21,31,67.7,2,32,6,0,1,Match Report
+2020-2021,2021-04-18,Sun,Premier League,Matchweek 32,Away,D 1–1,Fulham,Arsenal,Y,RM,90,0,0,0,0,1,0,1,0,27,16,1,0,0,0.0,0.0,0.0,1,0,11,20,55.0,1,17,4,0,0,Match Report

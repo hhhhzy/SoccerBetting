@@ -1,0 +1,56 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-05,Sat,UEFA Nations League,League A,Away,W 2–0,be Belgium,dk Denmark,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-08,Tue,UEFA Nations League,League A,Home,W 5–1,be Belgium,is Iceland,Y*,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–1,Tottenham,Everton,Y,CB,90,0,0,0,0,1,0,0,0,78,9,0,0,3,0.0,0.0,0.0,1,0,59,68,86.8,5,51,2,1,1,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 5–2,Tottenham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-24,Thu,Europa Lg,Third qualifying round,Away,W 3–1,eng Tottenham,mk Shkëndija 79,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,D 1–1,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-29,Tue,EFL Cup,Fourth round,Home,W 1 (5)–1 (4),Tottenham,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-01,Thu,Europa Lg,Play-off Round,Home,W 7–2,eng Tottenham,il Maccabi Haifa,Y,CB,90,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 6–1,Tottenham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Away,L 1–2,be Belgium,eng England,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Away,W 2–1,be Belgium,is Iceland,Y,CB,90,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 3–3,Tottenham,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,56,13,5,0,0,0.0,0.0,0.0,1,0,37,45,82.2,3,28,0,0,0,Match Report
+2020-2021,2020-10-22,Thu,Europa Lg,Group stage,Home,W 3–0,eng Tottenham,at LASK,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Away,W 1–0,Tottenham,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,70,6,0,0,3,0.0,0.0,0.1,1,0,54,63,85.7,1,41,2,0,0,Match Report
+2020-2021,2020-10-29,Thu,Europa Lg,Group stage,Away,L 0–1,eng Tottenham,be Antwerp,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,52,4,0,0,1,0.0,0.0,0.0,1,1,36,46,78.3,4,37,3,0,0,Match Report
+2020-2021,2020-11-05,Thu,Europa Lg,Group stage,Away,W 3–1,eng Tottenham,bg Ludogorets,Y,CB,90,0,0,0,0,1,0,0,0,87,7,0,0,3,0.1,0.1,0.0,2,0,74,82,90.2,6,64,3,1,1,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,W 1–0,Tottenham,West Brom,Y,CB,90,0,0,0,0,1,1,0,0,67,8,0,0,2,0.0,0.0,0.0,1,1,48,59,81.4,6,33,2,0,0,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League A,Home,W 2–0,be Belgium,eng England,Y,CB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League A,Home,W 4–2,be Belgium,dk Denmark,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,W 2–0,Tottenham,Manchester City,Y,CB,80,0,0,0,0,0,0,0,0,37,8,2,1,4,0.0,0.0,0.0,1,1,16,22,72.7,0,16,1,0,0,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,W 2–0,Tottenham,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,38,2,0,0,1,0.0,0.0,0.0,0,0,18,26,69.2,0,11,0,0,0,Match Report
+2020-2021,2020-12-10,Thu,Europa Lg,Group stage,Home,W 2–0,eng Tottenham,be Antwerp,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,D 1–1,Tottenham,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,54,14,4,0,1,0.0,0.0,0.1,1,0,38,46,82.6,3,26,5,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,L 1–2,Tottenham,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,32,10,3,0,1,0.0,0.0,0.1,1,0,11,21,52.4,1,10,0,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,L 0–2,Tottenham,Leicester City,Y,CB,90,0,0,0,0,1,0,0,0,76,11,3,0,5,0.1,0.1,0.0,2,0,49,59,83.1,2,43,4,0,0,Match Report
+2020-2021,2020-12-23,Wed,EFL Cup,Quarter-finals,Away,W 3–1,Tottenham,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,Tottenham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,W 3–0,Tottenham,Leeds United,Y,CB,90,1,0,0,0,2,1,0,0,40,9,2,0,1,0.2,0.2,0.0,1,0,19,30,63.3,2,17,1,0,0,Match Report
+2020-2021,2021-01-05,Tue,EFL Cup,Semi-finals,Home,W 2–0,Tottenham,Brentford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-10,Sun,FA Cup,Third round,Away,W 5–0,Tottenham,Marine,Y,CB,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Home,D 1–1,Tottenham,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,W 3–1,Tottenham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-25,Mon,FA Cup,Fourth round,Away,W 4–1,Tottenham,Wycombe,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-28,Thu,Premier League,Matchweek 20,Home,L 1–3,Tottenham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,L 0–1,Tottenham,Brighton,Y,CB,90,0,0,0,0,0,0,1,0,82,13,2,0,6,0.0,0.0,0.0,0,0,50,65,76.9,0,48,5,1,1,Match Report
+2020-2021,2021-02-04,Thu,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,62,7,2,0,2,0.0,0.0,0.0,0,0,49,53,92.5,0,42,1,0,0,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,W 2–0,Tottenham,West Brom,Y,CB,90,0,0,0,0,1,0,0,0,79,6,3,0,1,0.1,0.1,0.0,0,0,59,68,86.8,4,53,9,0,0,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Away,L 4–5,Tottenham,Everton,Y,CB,120,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,L 0–3,Tottenham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,W 4–1,eng Tottenham,at Wolfsberger AC,Y,CB,90,0,0,0,0,0,0,0,0,85,4,1,1,1,0.0,0.0,0.0,3,0,64,77,83.1,7,51,4,0,0,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,L 1–2,Tottenham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-24,Wed,Europa Lg,Round of 32,Neutral,W 4–0,eng Tottenham,at Wolfsberger AC,Y,CB,90,0,0,0,0,0,0,1,0,55,5,0,1,0,0.0,0.0,0.1,1,0,46,46,100.0,0,35,1,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,W 4–0,Tottenham,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,83,5,2,0,1,0.0,0.0,0.0,0,0,55,67,82.1,1,53,0,0,0,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 33,Away,W 1–0,Tottenham,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,54,13,1,1,1,0.0,0.0,0.0,0,0,37,46,80.4,0,26,0,0,0,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,W 4–1,Tottenham,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,100,12,2,1,1,0.0,0.0,0.0,0,0,76,85,89.4,1,75,1,0,0,Match Report
+2020-2021,2021-03-11,Thu,Europa Lg,Round of 16,Home,W 2–0,eng Tottenham,hr Dinamo Zagreb,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 1–2,Tottenham,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,84,5,1,1,2,0.0,0.0,0.0,0,0,64,71,90.1,3,59,0,0,0,Match Report
+2020-2021,2021-03-18,Thu,Europa Lg,Round of 16,Away,L 0–3,eng Tottenham,hr Dinamo Zagreb,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Home,W 3–1,be Belgium,wal Wales,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Away,D 1–1,be Belgium,cz Czech Republic,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,WCQ — UEFA (M),First round,Home,W 8–0,be Belgium,by Belarus,Y,CB,90,0,1,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 1–3,Tottenham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Away,D 2–2,Tottenham,Everton,Y,CB,90,0,0,0,0,1,0,0,0,67,15,1,1,0,0.0,0.0,0.0,3,0,47,59,79.7,4,34,1,0,0,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 29,Home,W 2–1,Tottenham,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,70,1,0,0,1,0.2,0.2,0.0,0,0,54,60,90.0,2,51,1,0,0,Match Report

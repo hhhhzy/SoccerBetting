@@ -1,0 +1,381 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,AwayTeam,Attendance,Venue,Referee,HomeScore,AwayScore
+EPL,2016-2017,1,Sat,2016-08-13,12:30,Hull City,Leicester City,21037,Kingston Communications Stadium,Mike Dean,2,1
+EPL,2016-2017,1,Sat,2016-08-13,15:00,Everton,Tottenham,39494,Goodison Park,Martin Atkinson,1,1
+EPL,2016-2017,1,Sat,2016-08-13,15:00,Burnley,Swansea City,19126,Turf Moor,Jonathan Moss,0,1
+EPL,2016-2017,1,Sat,2016-08-13,15:00,Crystal Palace,West Brom,24490,Selhurst Park,Craig Pawson,0,1
+EPL,2016-2017,1,Sat,2016-08-13,15:00,Southampton,Watford,31488,St. Mary's Stadium,Roger East,1,1
+EPL,2016-2017,1,Sat,2016-08-13,15:00,Middlesbrough,Stoke City,32110,Riverside Stadium,Kevin Friend,1,1
+EPL,2016-2017,1,Sat,2016-08-13,17:30,Manchester City,Sunderland,54362,Etihad Stadium,Robert Madley,2,1
+EPL,2016-2017,1,Sun,2016-08-14,13:30,Bournemouth,Manchester Utd,11355,Vitality Stadium,Andre Marriner,1,3
+EPL,2016-2017,1,Sun,2016-08-14,16:00,Arsenal,Liverpool,60033,Emirates Stadium,Michael Oliver,3,4
+EPL,2016-2017,1,Mon,2016-08-15,20:00,Chelsea,West Ham,41521,Stamford Bridge,Anthony Taylor,2,1
+EPL,2016-2017,2,Fri,2016-08-19,20:00,Manchester Utd,Southampton,75326,Old Trafford,Anthony Taylor,2,0
+EPL,2016-2017,2,Sat,2016-08-20,12:30,Stoke City,Manchester City,27455,Bet365 Stadium,Mike Dean,1,4
+EPL,2016-2017,2,Sat,2016-08-20,15:00,Tottenham,Crystal Palace,31447,White Hart Lane,Michael Oliver,1,0
+EPL,2016-2017,2,Sat,2016-08-20,15:00,Watford,Chelsea,20772,Vicarage Road Stadium,Jonathan Moss,1,2
+EPL,2016-2017,2,Sat,2016-08-20,15:00,West Brom,Everton,23654,The Hawthorns,Niel Swarbrick,1,2
+EPL,2016-2017,2,Sat,2016-08-20,15:00,Burnley,Liverpool,21313,Turf Moor,Lee Mason,2,0
+EPL,2016-2017,2,Sat,2016-08-20,15:00,Swansea City,Hull City,20024,Liberty Stadium,Stuart Attwell,0,2
+EPL,2016-2017,2,Sat,2016-08-20,17:30,Leicester City,Arsenal,32008,King Power Stadium,Mark Clattenburg,0,0
+EPL,2016-2017,2,Sun,2016-08-21,13:30,Sunderland,Middlesbrough,43515,Stadium of Light,Martin Atkinson,1,2
+EPL,2016-2017,2,Sun,2016-08-21,16:00,West Ham,Bournemouth,56977,London Stadium,Craig Pawson,1,0
+EPL,2016-2017,3,Sat,2016-08-27,12:30,Tottenham,Liverpool,31211,White Hart Lane,Robert Madley,1,1
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Crystal Palace,Bournemouth,23503,Selhurst Park,Mike Dean,1,1
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Chelsea,Burnley,41607,Stamford Bridge,Mark Clattenburg,3,0
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Southampton,Sunderland,30152,St. Mary's Stadium,Lee Mason,1,1
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Leicester City,Swansea City,31727,King Power Stadium,Roger East,2,1
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Watford,Arsenal,20545,Vicarage Road Stadium,Kevin Friend,1,3
+EPL,2016-2017,3,Sat,2016-08-27,15:00,Everton,Stoke City,39581,Goodison Park,Michael Oliver,1,0
+EPL,2016-2017,3,Sat,2016-08-27,17:30,Hull City,Manchester Utd,24560,Kingston Communications Stadium,Jonathan Moss,0,1
+EPL,2016-2017,3,Sun,2016-08-28,13:30,West Brom,Middlesbrough,23690,The Hawthorns,Anthony Taylor,0,0
+EPL,2016-2017,3,Sun,2016-08-28,16:00,Manchester City,West Ham,54008,Etihad Stadium,Andre Marriner,3,1
+EPL,2016-2017,4,Sat,2016-09-10,12:30,Manchester Utd,Manchester City,75272,Old Trafford,Mark Clattenburg,1,2
+EPL,2016-2017,4,Sat,2016-09-10,15:00,Bournemouth,West Brom,11184,Vitality Stadium,Kevin Friend,1,0
+EPL,2016-2017,4,Sat,2016-09-10,15:00,Arsenal,Southampton,59962,Emirates Stadium,Robert Madley,2,1
+EPL,2016-2017,4,Sat,2016-09-10,15:00,Stoke City,Tottenham,27385,Bet365 Stadium,Anthony Taylor,0,4
+EPL,2016-2017,4,Sat,2016-09-10,15:00,West Ham,Watford,56974,London Stadium,Martin Atkinson,2,4
+EPL,2016-2017,4,Sat,2016-09-10,15:00,Middlesbrough,Crystal Palace,30551,Riverside Stadium,Niel Swarbrick,1,2
+EPL,2016-2017,4,Sat,2016-09-10,15:00,Burnley,Hull City,18803,Turf Moor,Paul Tierney,1,1
+EPL,2016-2017,4,Sat,2016-09-10,17:30,Liverpool,Leicester City,51232,Anfield,Craig Pawson,4,1
+EPL,2016-2017,4,Sun,2016-09-11,16:00,Swansea City,Chelsea,20865,Liberty Stadium,Andre Marriner,2,2
+EPL,2016-2017,4,Mon,2016-09-12,20:00,Sunderland,Everton,42406,Stadium of Light,Mike Jones,0,3
+EPL,2016-2017,5,Fri,2016-09-16,20:00,Chelsea,Liverpool,41514,Stamford Bridge,Martin Atkinson,1,2
+EPL,2016-2017,5,Sat,2016-09-17,15:00,Leicester City,Burnley,31916,King Power Stadium,Anthony Taylor,3,0
+EPL,2016-2017,5,Sat,2016-09-17,15:00,Manchester City,Bournemouth,54335,Etihad Stadium,Jonathan Moss,4,0
+EPL,2016-2017,5,Sat,2016-09-17,15:00,Hull City,Arsenal,22536,Kingston Communications Stadium,Roger East,1,4
+EPL,2016-2017,5,Sat,2016-09-17,15:00,West Brom,West Ham,22209,The Hawthorns,Mark Clattenburg,4,2
+EPL,2016-2017,5,Sat,2016-09-17,17:30,Everton,Middlesbrough,39074,Goodison Park,Lee Mason,3,1
+EPL,2016-2017,5,Sun,2016-09-18,12:00,Watford,Manchester Utd,21118,Vicarage Road Stadium,Michael Oliver,3,1
+EPL,2016-2017,5,Sun,2016-09-18,14:15,Southampton,Swansea City,29087,St. Mary's Stadium,Mike Jones,1,0
+EPL,2016-2017,5,Sun,2016-09-18,14:15,Crystal Palace,Stoke City,23781,Selhurst Park,Craig Pawson,4,1
+EPL,2016-2017,5,Sun,2016-09-18,16:30,Tottenham,Sunderland,31251,White Hart Lane,Mike Dean,1,0
+EPL,2016-2017,6,Sat,2016-09-24,12:30,Manchester Utd,Leicester City,75256,Old Trafford,Mike Dean,4,1
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Middlesbrough,Tottenham,32703,Riverside Stadium,Graham Scott,1,2
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Stoke City,West Brom,27645,Bet365 Stadium,Martin Atkinson,1,1
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Sunderland,Crystal Palace,38941,Stadium of Light,Anthony Taylor,2,3
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Liverpool,Hull City,53109,Anfield,Andre Marriner,5,1
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Swansea City,Manchester City,20786,Liberty Stadium,Niel Swarbrick,1,3
+EPL,2016-2017,6,Sat,2016-09-24,15:00,Bournemouth,Everton,11291,Vitality Stadium,Robert Madley,1,0
+EPL,2016-2017,6,Sat,2016-09-24,17:30,Arsenal,Chelsea,60028,Emirates Stadium,Michael Oliver,3,0
+EPL,2016-2017,6,Sun,2016-09-25,16:00,West Ham,Southampton,56864,London Stadium,Jonathan Moss,0,3
+EPL,2016-2017,6,Mon,2016-09-26,20:00,Burnley,Watford,18519,Turf Moor,Mike Jones,2,0
+EPL,2016-2017,7,Fri,2016-09-30,20:00,Everton,Crystal Palace,38758,Goodison Park,Jonathan Moss,1,1
+EPL,2016-2017,7,Sat,2016-10-01,12:30,Swansea City,Liverpool,20862,Liberty Stadium,Michael Oliver,1,2
+EPL,2016-2017,7,Sat,2016-10-01,15:00,West Ham,Middlesbrough,56945,London Stadium,Niel Swarbrick,1,1
+EPL,2016-2017,7,Sat,2016-10-01,15:00,Sunderland,West Brom,40043,Stadium of Light,Stuart Attwell,1,1
+EPL,2016-2017,7,Sat,2016-10-01,15:00,Hull City,Chelsea,21257,Kingston Communications Stadium,Anthony Taylor,0,2
+EPL,2016-2017,7,Sat,2016-10-01,15:00,Watford,Bournemouth,20575,Vicarage Road Stadium,Mike Dean,2,2
+EPL,2016-2017,7,Sun,2016-10-02,12:00,Manchester Utd,Stoke City,75251,Old Trafford,Robert Madley,1,1
+EPL,2016-2017,7,Sun,2016-10-02,14:15,Leicester City,Southampton,31563,King Power Stadium,Martin Atkinson,0,0
+EPL,2016-2017,7,Sun,2016-10-02,14:15,Tottenham,Manchester City,31793,White Hart Lane,Andre Marriner,2,0
+EPL,2016-2017,7,Sun,2016-10-02,16:30,Burnley,Arsenal,20982,Turf Moor,Craig Pawson,0,1
+EPL,2016-2017,8,Sat,2016-10-15,12:30,Chelsea,Leicester City,41547,Stamford Bridge,Andre Marriner,3,0
+EPL,2016-2017,8,Sat,2016-10-15,15:00,West Brom,Tottenham,24263,The Hawthorns,Kevin Friend,1,1
+EPL,2016-2017,8,Sat,2016-10-15,15:00,Bournemouth,Hull City,11029,Vitality Stadium,Lee Mason,6,1
+EPL,2016-2017,8,Sat,2016-10-15,15:00,Arsenal,Swansea City,60007,Emirates Stadium,Jonathan Moss,3,2
+EPL,2016-2017,8,Sat,2016-10-15,15:00,Manchester City,Everton,54512,Etihad Stadium,Michael Oliver,1,1
+EPL,2016-2017,8,Sat,2016-10-15,15:00,Stoke City,Sunderland,27701,Bet365 Stadium,Mike Jones,2,0
+EPL,2016-2017,8,Sat,2016-10-15,17:30,Crystal Palace,West Ham,25643,Selhurst Park,Martin Atkinson,0,1
+EPL,2016-2017,8,Sun,2016-10-16,13:30,Middlesbrough,Watford,28131,Riverside Stadium,Roger East,0,1
+EPL,2016-2017,8,Sun,2016-10-16,16:00,Southampton,Burnley,29040,St. Mary's Stadium,Mike Dean,3,1
+EPL,2016-2017,8,Mon,2016-10-17,20:00,Liverpool,Manchester Utd,52769,Anfield,Anthony Taylor,0,0
+EPL,2016-2017,9,Sat,2016-10-22,12:30,Bournemouth,Tottenham,11201,Vitality Stadium,Craig Pawson,0,0
+EPL,2016-2017,9,Sat,2016-10-22,15:00,West Ham,Sunderland,56985,London Stadium,Robert Madley,1,0
+EPL,2016-2017,9,Sat,2016-10-22,15:00,Swansea City,Watford,20694,Liberty Stadium,Paul Tierney,0,0
+EPL,2016-2017,9,Sat,2016-10-22,15:00,Arsenal,Middlesbrough,59982,Emirates Stadium,Mike Dean,0,0
+EPL,2016-2017,9,Sat,2016-10-22,15:00,Leicester City,Crystal Palace,31969,King Power Stadium,Michael Oliver,3,1
+EPL,2016-2017,9,Sat,2016-10-22,15:00,Burnley,Everton,21416,Turf Moor,Mike Jones,2,1
+EPL,2016-2017,9,Sat,2016-10-22,15:00,Hull City,Stoke City,18522,Kingston Communications Stadium,Kevin Friend,0,2
+EPL,2016-2017,9,Sat,2016-10-22,17:30,Liverpool,West Brom,53218,Anfield,Niel Swarbrick,2,1
+EPL,2016-2017,9,Sun,2016-10-23,13:30,Manchester City,Southampton,53731,Etihad Stadium,Mark Clattenburg,1,1
+EPL,2016-2017,9,Sun,2016-10-23,16:00,Chelsea,Manchester Utd,41424,Stamford Bridge,Martin Atkinson,4,0
+EPL,2016-2017,10,Sat,2016-10-29,12:30,Sunderland,Arsenal,44322,Stadium of Light,Martin Atkinson,1,4
+EPL,2016-2017,10,Sat,2016-10-29,15:00,Middlesbrough,Bournemouth,29600,Riverside Stadium,Stuart Attwell,2,0
+EPL,2016-2017,10,Sat,2016-10-29,15:00,Tottenham,Leicester City,31868,White Hart Lane,Robert Madley,1,1
+EPL,2016-2017,10,Sat,2016-10-29,15:00,West Brom,Manchester City,22470,The Hawthorns,Lee Mason,0,4
+EPL,2016-2017,10,Sat,2016-10-29,15:00,Manchester Utd,Burnley,75325,Old Trafford,Mark Clattenburg,0,0
+EPL,2016-2017,10,Sat,2016-10-29,15:00,Watford,Hull City,20022,Vicarage Road Stadium,Jonathan Moss,1,0
+EPL,2016-2017,10,Sat,2016-10-29,17:30,Crystal Palace,Liverpool,25628,Selhurst Park,Andre Marriner,2,4
+EPL,2016-2017,10,Sun,2016-10-30,13:30,Everton,West Ham,39574,Goodison Park,Anthony Taylor,2,0
+EPL,2016-2017,10,Sun,2016-10-30,16:00,Southampton,Chelsea,31827,St. Mary's Stadium,Mike Jones,0,2
+EPL,2016-2017,10,Mon,2016-10-31,20:00,Stoke City,Swansea City,26602,Bet365 Stadium,Michael Oliver,3,1
+EPL,2016-2017,11,Sat,2016-11-05,15:00,Bournemouth,Sunderland,11084,Vitality Stadium,Mike Dean,1,2
+EPL,2016-2017,11,Sat,2016-11-05,15:00,Manchester City,Middlesbrough,54294,Etihad Stadium,Kevin Friend,1,1
+EPL,2016-2017,11,Sat,2016-11-05,15:00,West Ham,Stoke City,56970,London Stadium,Andre Marriner,1,1
+EPL,2016-2017,11,Sat,2016-11-05,15:00,Burnley,Crystal Palace,19196,Turf Moor,Anthony Taylor,3,2
+EPL,2016-2017,11,Sat,2016-11-05,17:30,Chelsea,Everton,41429,Stamford Bridge,Robert Madley,5,0
+EPL,2016-2017,11,Sun,2016-11-06,12:00,Arsenal,Tottenham,60039,Emirates Stadium,Mark Clattenburg,1,1
+EPL,2016-2017,11,Sun,2016-11-06,14:15,Liverpool,Watford,53163,Anfield,Michael Oliver,6,1
+EPL,2016-2017,11,Sun,2016-11-06,14:15,Hull City,Southampton,17768,Kingston Communications Stadium,Graham Scott,2,1
+EPL,2016-2017,11,Sun,2016-11-06,15:00,Swansea City,Manchester Utd,20938,Liberty Stadium,Niel Swarbrick,1,3
+EPL,2016-2017,11,Sun,2016-11-06,16:30,Leicester City,West Brom,31879,King Power Stadium,Craig Pawson,1,2
+EPL,2016-2017,12,Sat,2016-11-19,12:30,Manchester Utd,Arsenal,75264,Old Trafford,Andre Marriner,1,1
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Everton,Swansea City,38773,Goodison Park,Martin Atkinson,1,1
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Southampton,Liverpool,31848,St. Mary's Stadium,Mark Clattenburg,0,0
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Watford,Leicester City,20640,Vicarage Road Stadium,Niel Swarbrick,2,1
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Stoke City,Bournemouth,27815,Bet365 Stadium,Roger East,0,1
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Sunderland,Hull City,41271,Stadium of Light,Lee Mason,3,0
+EPL,2016-2017,12,Sat,2016-11-19,15:00,Crystal Palace,Manchester City,25529,Selhurst Park,Robert Madley,1,2
+EPL,2016-2017,12,Sat,2016-11-19,17:30,Tottenham,West Ham,31212,White Hart Lane,Mike Dean,3,2
+EPL,2016-2017,12,Sun,2016-11-20,16:00,Middlesbrough,Chelsea,32704,Riverside Stadium,Jonathan Moss,0,1
+EPL,2016-2017,12,Mon,2016-11-21,20:00,West Brom,Burnley,23016,The Hawthorns,Mike Jones,4,0
+EPL,2016-2017,13,Sat,2016-11-26,12:30,Burnley,Manchester City,21794,Turf Moor,Andre Marriner,1,2
+EPL,2016-2017,13,Sat,2016-11-26,15:00,Liverpool,Sunderland,53114,Anfield,Anthony Taylor,2,0
+EPL,2016-2017,13,Sat,2016-11-26,15:00,Hull City,West Brom,18086,Kingston Communications Stadium,Paul Tierney,1,1
+EPL,2016-2017,13,Sat,2016-11-26,15:00,Swansea City,Crystal Palace,20276,Liberty Stadium,Kevin Friend,5,4
+EPL,2016-2017,13,Sat,2016-11-26,15:00,Leicester City,Middlesbrough,32058,King Power Stadium,Lee Mason,2,2
+EPL,2016-2017,13,Sat,2016-11-26,17:30,Chelsea,Tottenham,41513,Stamford Bridge,Michael Oliver,2,1
+EPL,2016-2017,13,Sun,2016-11-27,12:00,Watford,Stoke City,20058,Vicarage Road Stadium,Robert Madley,0,1
+EPL,2016-2017,13,Sun,2016-11-27,14:15,Arsenal,Bournemouth,59978,Emirates Stadium,Mike Jones,3,1
+EPL,2016-2017,13,Sun,2016-11-27,16:30,Southampton,Everton,31132,St. Mary's Stadium,Craig Pawson,1,0
+EPL,2016-2017,13,Sun,2016-11-27,16:30,Manchester Utd,West Ham,75313,Old Trafford,Jonathan Moss,1,1
+EPL,2016-2017,14,Sat,2016-12-03,12:30,Manchester City,Chelsea,54457,Etihad Stadium,Anthony Taylor,1,3
+EPL,2016-2017,14,Sat,2016-12-03,15:00,West Brom,Watford,22244,The Hawthorns,Graham Scott,3,1
+EPL,2016-2017,14,Sat,2016-12-03,15:00,Sunderland,Leicester City,39725,Stadium of Light,Andre Marriner,2,1
+EPL,2016-2017,14,Sat,2016-12-03,15:00,Stoke City,Burnley,27306,Bet365 Stadium,Mark Clattenburg,2,0
+EPL,2016-2017,14,Sat,2016-12-03,15:00,Crystal Palace,Southampton,25393,Selhurst Park,Niel Swarbrick,3,0
+EPL,2016-2017,14,Sat,2016-12-03,15:00,Tottenham,Swansea City,31663,White Hart Lane,Jonathan Moss,5,0
+EPL,2016-2017,14,Sat,2016-12-03,17:30,West Ham,Arsenal,56980,London Stadium,Craig Pawson,1,5
+EPL,2016-2017,14,Sun,2016-12-04,13:30,Bournemouth,Liverpool,11183,Vitality Stadium,Robert Madley,4,3
+EPL,2016-2017,14,Sun,2016-12-04,16:00,Everton,Manchester Utd,39550,Goodison Park,Michael Oliver,1,1
+EPL,2016-2017,14,Mon,2016-12-05,20:00,Middlesbrough,Hull City,27395,Riverside Stadium,Mike Dean,1,0
+EPL,2016-2017,15,Sat,2016-12-10,12:30,Watford,Everton,20769,Vicarage Road Stadium,Anthony Taylor,3,2
+EPL,2016-2017,15,Sat,2016-12-10,15:00,Swansea City,Sunderland,20453,Liberty Stadium,Craig Pawson,3,0
+EPL,2016-2017,15,Sat,2016-12-10,15:00,Arsenal,Stoke City,59964,Emirates Stadium,Lee Mason,3,1
+EPL,2016-2017,15,Sat,2016-12-10,15:00,Burnley,Bournemouth,19680,Turf Moor,Martin Atkinson,3,2
+EPL,2016-2017,15,Sat,2016-12-10,15:00,Hull City,Crystal Palace,17403,Kingston Communications Stadium,Mike Jones,3,3
+EPL,2016-2017,15,Sat,2016-12-10,17:30,Leicester City,Manchester City,31966,King Power Stadium,Michael Oliver,4,2
+EPL,2016-2017,15,Sun,2016-12-11,12:00,Chelsea,West Brom,41622,Stamford Bridge,Mike Dean,1,0
+EPL,2016-2017,15,Sun,2016-12-11,14:15,Manchester Utd,Tottenham,75271,Old Trafford,Robert Madley,1,0
+EPL,2016-2017,15,Sun,2016-12-11,14:15,Southampton,Middlesbrough,28976,St. Mary's Stadium,Stuart Attwell,1,0
+EPL,2016-2017,15,Sun,2016-12-11,16:30,Liverpool,West Ham,53068,Anfield,Mark Clattenburg,2,2
+EPL,2016-2017,16,Tue,2016-12-13,19:45,Bournemouth,Leicester City,11068,Vitality Stadium,Paul Tierney,1,0
+EPL,2016-2017,16,Tue,2016-12-13,19:45,Everton,Arsenal,39510,Goodison Park,Mark Clattenburg,2,1
+EPL,2016-2017,16,Wed,2016-12-14,19:45,West Ham,Burnley,56990,London Stadium,Robert Madley,1,0
+EPL,2016-2017,16,Wed,2016-12-14,19:45,Sunderland,Chelsea,41008,Stadium of Light,Niel Swarbrick,0,1
+EPL,2016-2017,16,Wed,2016-12-14,19:45,Middlesbrough,Liverpool,32704,Riverside Stadium,Jonathan Moss,0,3
+EPL,2016-2017,16,Wed,2016-12-14,20:00,West Brom,Swansea City,21467,The Hawthorns,Michael Oliver,3,1
+EPL,2016-2017,16,Wed,2016-12-14,20:00,Stoke City,Southampton,27002,Bet365 Stadium,Anthony Taylor,0,0
+EPL,2016-2017,16,Wed,2016-12-14,20:00,Crystal Palace,Manchester Utd,25547,Selhurst Park,Craig Pawson,1,2
+EPL,2016-2017,16,Wed,2016-12-14,20:00,Tottenham,Hull City,31347,White Hart Lane,Andre Marriner,3,0
+EPL,2016-2017,16,Wed,2016-12-14,20:00,Manchester City,Watford,51527,Etihad Stadium,Kevin Friend,2,0
+EPL,2016-2017,17,Sat,2016-12-17,12:30,Crystal Palace,Chelsea,25259,Selhurst Park,Jonathan Moss,0,1
+EPL,2016-2017,17,Sat,2016-12-17,15:00,Middlesbrough,Swansea City,28302,Riverside Stadium,Niel Swarbrick,3,0
+EPL,2016-2017,17,Sat,2016-12-17,15:00,West Ham,Hull City,56952,London Stadium,Lee Mason,1,0
+EPL,2016-2017,17,Sat,2016-12-17,15:00,Stoke City,Leicester City,27663,Bet365 Stadium,Craig Pawson,2,2
+EPL,2016-2017,17,Sat,2016-12-17,15:00,Sunderland,Watford,40267,Stadium of Light,Robert Madley,1,0
+EPL,2016-2017,17,Sat,2016-12-17,17:30,West Brom,Manchester Utd,26308,The Hawthorns,Anthony Taylor,0,2
+EPL,2016-2017,17,Sun,2016-12-18,13:30,Bournemouth,Southampton,11113,Vitality Stadium,Mark Clattenburg,1,3
+EPL,2016-2017,17,Sun,2016-12-18,16:00,Tottenham,Burnley,31467,White Hart Lane,Kevin Friend,2,1
+EPL,2016-2017,17,Sun,2016-12-18,16:00,Manchester City,Arsenal,54409,Etihad Stadium,Martin Atkinson,2,1
+EPL,2016-2017,17,Mon,2016-12-19,20:00,Everton,Liverpool,39590,Goodison Park,Mike Dean,0,1
+EPL,2016-2017,18,Mon,2016-12-26,12:30,Watford,Crystal Palace,20304,Vicarage Road Stadium,Mark Clattenburg,1,1
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Burnley,Middlesbrough,21562,Turf Moor,Craig Pawson,1,0
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Leicester City,Everton,31985,King Power Stadium,Stuart Attwell,0,2
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Chelsea,Bournemouth,41384,Stamford Bridge,Mike Jones,3,0
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Arsenal,West Brom,59925,Emirates Stadium,Niel Swarbrick,1,0
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Manchester Utd,Sunderland,75325,Old Trafford,Martin Atkinson,3,1
+EPL,2016-2017,18,Mon,2016-12-26,15:00,Swansea City,West Ham,20757,Liberty Stadium,Andre Marriner,1,4
+EPL,2016-2017,18,Mon,2016-12-26,17:15,Hull City,Manchester City,23134,Kingston Communications Stadium,Robert Madley,0,3
+EPL,2016-2017,18,Tue,2016-12-27,17:15,Liverpool,Stoke City,53094,Anfield,Michael Oliver,4,1
+EPL,2016-2017,18,Wed,2016-12-28,19:45,Southampton,Tottenham,31853,St. Mary's Stadium,Mike Dean,1,4
+EPL,2016-2017,19,Fri,2016-12-30,20:00,Hull City,Everton,20111,Kingston Communications Stadium,Jonathan Moss,2,2
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Swansea City,Bournemouth,20316,Liberty Stadium,Kevin Friend,0,3
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Chelsea,Stoke City,41601,Stamford Bridge,Robert Madley,4,2
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Burnley,Sunderland,21124,Turf Moor,Graham Scott,4,1
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Manchester Utd,Middlesbrough,75314,Old Trafford,Lee Mason,2,1
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Leicester City,West Ham,32060,King Power Stadium,Anthony Taylor,1,0
+EPL,2016-2017,19,Sat,2016-12-31,15:00,Southampton,West Brom,30975,St. Mary's Stadium,Mike Jones,1,2
+EPL,2016-2017,19,Sat,2016-12-31,17:30,Liverpool,Manchester City,53120,Anfield,Craig Pawson,1,0
+EPL,2016-2017,19,Sun,2017-01-01,13:30,Watford,Tottenham,20882,Vicarage Road Stadium,Michael Oliver,1,4
+EPL,2016-2017,19,Sun,2017-01-01,16:00,Arsenal,Crystal Palace,59975,Emirates Stadium,Andre Marriner,2,0
+EPL,2016-2017,20,Mon,2017-01-02,12:30,Middlesbrough,Leicester City,32437,Riverside Stadium,Robert Madley,0,0
+EPL,2016-2017,20,Mon,2017-01-02,15:00,West Brom,Hull City,23402,The Hawthorns,Mark Clattenburg,3,1
+EPL,2016-2017,20,Mon,2017-01-02,15:00,Manchester City,Burnley,54463,Etihad Stadium,Lee Mason,2,1
+EPL,2016-2017,20,Mon,2017-01-02,15:00,Everton,Southampton,38891,Goodison Park,Kevin Friend,3,0
+EPL,2016-2017,20,Mon,2017-01-02,15:00,Sunderland,Liverpool,46494,Stadium of Light,Anthony Taylor,2,2
+EPL,2016-2017,20,Mon,2017-01-02,17:15,West Ham,Manchester Utd,56996,London Stadium,Mike Dean,0,2
+EPL,2016-2017,20,Tue,2017-01-03,19:45,Bournemouth,Arsenal,11202,Vitality Stadium,Michael Oliver,3,3
+EPL,2016-2017,20,Tue,2017-01-03,20:00,Crystal Palace,Swansea City,24913,Selhurst Park,Paul Tierney,1,2
+EPL,2016-2017,20,Tue,2017-01-03,20:00,Stoke City,Watford,27010,Bet365 Stadium,Niel Swarbrick,2,0
+EPL,2016-2017,20,Wed,2017-01-04,20:00,Tottenham,Chelsea,31491,White Hart Lane,Martin Atkinson,2,0
+EPL,2016-2017,21,Sat,2017-01-14,12:30,Tottenham,West Brom,31613,White Hart Lane,Anthony Taylor,4,0
+EPL,2016-2017,21,Sat,2017-01-14,15:00,Hull City,Bournemouth,17963,Kingston Communications Stadium,Martin Atkinson,3,1
+EPL,2016-2017,21,Sat,2017-01-14,15:00,Swansea City,Arsenal,20875,Liberty Stadium,Mike Jones,0,4
+EPL,2016-2017,21,Sat,2017-01-14,15:00,West Ham,Crystal Palace,56984,London Stadium,Niel Swarbrick,3,0
+EPL,2016-2017,21,Sat,2017-01-14,15:00,Watford,Middlesbrough,20659,Vicarage Road Stadium,Jonathan Moss,0,0
+EPL,2016-2017,21,Sat,2017-01-14,15:00,Burnley,Southampton,20254,Turf Moor,Paul Tierney,1,0
+EPL,2016-2017,21,Sat,2017-01-14,15:00,Sunderland,Stoke City,42722,Stadium of Light,Mike Dean,1,3
+EPL,2016-2017,21,Sat,2017-01-14,17:30,Leicester City,Chelsea,32066,King Power Stadium,Andre Marriner,0,3
+EPL,2016-2017,21,Sun,2017-01-15,13:30,Everton,Manchester City,39588,Goodison Park,Mark Clattenburg,4,0
+EPL,2016-2017,21,Sun,2017-01-15,16:00,Manchester Utd,Liverpool,75276,Old Trafford,Michael Oliver,1,1
+EPL,2016-2017,22,Sat,2017-01-21,12:30,Liverpool,Swansea City,53169,Anfield,Kevin Friend,2,3
+EPL,2016-2017,22,Sat,2017-01-21,15:00,West Brom,Sunderland,24380,The Hawthorns,Craig Pawson,2,0
+EPL,2016-2017,22,Sat,2017-01-21,15:00,Middlesbrough,West Ham,30848,Riverside Stadium,Martin Atkinson,1,3
+EPL,2016-2017,22,Sat,2017-01-21,15:00,Crystal Palace,Everton,25594,Selhurst Park,Anthony Taylor,0,1
+EPL,2016-2017,22,Sat,2017-01-21,15:00,Bournemouth,Watford,11123,Vitality Stadium,Lee Mason,2,2
+EPL,2016-2017,22,Sat,2017-01-21,15:00,Stoke City,Manchester Utd,27423,Bet365 Stadium,Mark Clattenburg,1,1
+EPL,2016-2017,22,Sat,2017-01-21,17:30,Manchester City,Tottenham,54402,Etihad Stadium,Andre Marriner,2,2
+EPL,2016-2017,22,Sun,2017-01-22,12:00,Southampton,Leicester City,30548,St. Mary's Stadium,Michael Oliver,3,0
+EPL,2016-2017,22,Sun,2017-01-22,14:15,Arsenal,Burnley,59955,Emirates Stadium,Jonathan Moss,2,1
+EPL,2016-2017,22,Sun,2017-01-22,16:30,Chelsea,Hull City,41605,Stamford Bridge,Niel Swarbrick,2,0
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Swansea City,Southampton,20359,Liberty Stadium,Roger East,2,1
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Sunderland,Tottenham,40058,Stadium of Light,Lee Mason,0,0
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Bournemouth,Crystal Palace,11286,Vitality Stadium,Jonathan Moss,0,2
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Arsenal,Watford,60035,Emirates Stadium,Andre Marriner,1,2
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Burnley,Leicester City,19202,Turf Moor,Mike Dean,1,0
+EPL,2016-2017,23,Tue,2017-01-31,19:45,Middlesbrough,West Brom,27316,Riverside Stadium,Stuart Attwell,1,1
+EPL,2016-2017,23,Tue,2017-01-31,20:00,Liverpool,Chelsea,53157,Anfield,Mark Clattenburg,1,1
+EPL,2016-2017,23,Wed,2017-02-01,19:45,West Ham,Manchester City,56980,London Stadium,Kevin Friend,0,4
+EPL,2016-2017,23,Wed,2017-02-01,20:00,Stoke City,Everton,27612,Bet365 Stadium,Craig Pawson,1,1
+EPL,2016-2017,23,Wed,2017-02-01,20:00,Manchester Utd,Hull City,75297,Old Trafford,Mike Jones,0,0
+EPL,2016-2017,24,Sat,2017-02-04,12:30,Chelsea,Arsenal,41490,Stamford Bridge,Martin Atkinson,3,1
+EPL,2016-2017,24,Sat,2017-02-04,15:00,Crystal Palace,Sunderland,25310,Selhurst Park,Andre Marriner,0,4
+EPL,2016-2017,24,Sat,2017-02-04,15:00,Everton,Bournemouth,39026,Goodison Park,Mike Jones,6,3
+EPL,2016-2017,24,Sat,2017-02-04,15:00,Southampton,West Ham,31891,St. Mary's Stadium,Graham Scott,1,3
+EPL,2016-2017,24,Sat,2017-02-04,15:00,West Brom,Stoke City,23921,The Hawthorns,Kevin Friend,1,0
+EPL,2016-2017,24,Sat,2017-02-04,15:00,Hull City,Liverpool,24822,Kingston Communications Stadium,Lee Mason,2,0
+EPL,2016-2017,24,Sat,2017-02-04,15:00,Watford,Burnley,20178,Vicarage Road Stadium,Michael Oliver,2,1
+EPL,2016-2017,24,Sat,2017-02-04,17:30,Tottenham,Middlesbrough,31949,White Hart Lane,Mark Clattenburg,1,0
+EPL,2016-2017,24,Sun,2017-02-05,13:30,Manchester City,Swansea City,54065,Etihad Stadium,Mike Dean,2,1
+EPL,2016-2017,24,Sun,2017-02-05,16:00,Leicester City,Manchester Utd,32072,King Power Stadium,Anthony Taylor,0,3
+EPL,2016-2017,25,Sat,2017-02-11,12:30,Arsenal,Hull City,59962,Emirates Stadium,Mark Clattenburg,2,0
+EPL,2016-2017,25,Sat,2017-02-11,15:00,Manchester Utd,Watford,75301,Old Trafford,Robert Madley,2,0
+EPL,2016-2017,25,Sat,2017-02-11,15:00,West Ham,West Brom,56983,London Stadium,Michael Oliver,2,2
+EPL,2016-2017,25,Sat,2017-02-11,15:00,Sunderland,Southampton,39931,Stadium of Light,Paul Tierney,0,4
+EPL,2016-2017,25,Sat,2017-02-11,15:00,Stoke City,Crystal Palace,27007,Bet365 Stadium,Martin Atkinson,1,0
+EPL,2016-2017,25,Sat,2017-02-11,15:00,Middlesbrough,Everton,31496,Riverside Stadium,Mike Dean,0,0
+EPL,2016-2017,25,Sat,2017-02-11,17:30,Liverpool,Tottenham,53159,Anfield,Anthony Taylor,2,0
+EPL,2016-2017,25,Sun,2017-02-12,13:30,Burnley,Chelsea,21744,Turf Moor,Kevin Friend,1,1
+EPL,2016-2017,25,Sun,2017-02-12,16:00,Swansea City,Leicester City,20391,Liberty Stadium,Jonathan Moss,2,0
+EPL,2016-2017,25,Mon,2017-02-13,20:00,Bournemouth,Manchester City,11129,Vitality Stadium,Niel Swarbrick,0,2
+EPL,2016-2017,26,Sat,2017-02-25,15:00,Hull City,Burnley,20156,Kingston Communications Stadium,Martin Atkinson,1,1
+EPL,2016-2017,26,Sat,2017-02-25,15:00,West Brom,Bournemouth,24162,The Hawthorns,Mark Clattenburg,2,1
+EPL,2016-2017,26,Sat,2017-02-25,15:00,Chelsea,Swansea City,41612,Stamford Bridge,Niel Swarbrick,3,1
+EPL,2016-2017,26,Sat,2017-02-25,15:00,Crystal Palace,Middlesbrough,25416,Selhurst Park,Robert Madley,1,0
+EPL,2016-2017,26,Sat,2017-02-25,15:00,Everton,Sunderland,39595,Goodison Park,Stuart Attwell,2,0
+EPL,2016-2017,26,Sat,2017-02-25,17:30,Watford,West Ham,20702,Vicarage Road Stadium,Craig Pawson,1,1
+EPL,2016-2017,26,Sun,2017-02-26,13:30,Tottenham,Stoke City,31864,White Hart Lane,Jonathan Moss,4,0
+EPL,2016-2017,26,Mon,2017-02-27,20:00,Leicester City,Liverpool,32034,King Power Stadium,Michael Oliver,3,1
+EPL,2016-2017,27,Sat,2017-03-04,12:30,Manchester Utd,Bournemouth,75245,Old Trafford,Kevin Friend,1,1
+EPL,2016-2017,27,Sat,2017-03-04,15:00,Stoke City,Middlesbrough,27644,Bet365 Stadium,Craig Pawson,2,0
+EPL,2016-2017,27,Sat,2017-03-04,15:00,Leicester City,Hull City,31971,King Power Stadium,Mike Dean,3,1
+EPL,2016-2017,27,Sat,2017-03-04,15:00,Watford,Southampton,20670,Vicarage Road Stadium,Jonathan Moss,3,4
+EPL,2016-2017,27,Sat,2017-03-04,15:00,Swansea City,Burnley,20679,Liberty Stadium,Anthony Taylor,3,2
+EPL,2016-2017,27,Sat,2017-03-04,15:00,West Brom,Crystal Palace,24051,The Hawthorns,Mike Jones,0,2
+EPL,2016-2017,27,Sat,2017-03-04,17:30,Liverpool,Arsenal,53146,Anfield,Robert Madley,3,1
+EPL,2016-2017,27,Sun,2017-03-05,13:30,Tottenham,Everton,31962,White Hart Lane,Michael Oliver,3,2
+EPL,2016-2017,27,Sun,2017-03-05,16:00,Sunderland,Manchester City,41107,Stadium of Light,Martin Atkinson,0,2
+EPL,2016-2017,27,Mon,2017-03-06,20:00,West Ham,Chelsea,56984,London Stadium,Andre Marriner,1,2
+EPL,2016-2017,28,Wed,2017-03-08,20:00,Manchester City,Stoke City,52625,Etihad Stadium,Niel Swarbrick,0,0
+EPL,2016-2017,28,Sat,2017-03-11,15:00,Bournemouth,West Ham,11369,Vitality Stadium,Robert Madley,3,2
+EPL,2016-2017,28,Sat,2017-03-11,15:00,Everton,West Brom,39592,Goodison Park,Graham Scott,3,0
+EPL,2016-2017,28,Sat,2017-03-11,15:00,Hull City,Swansea City,19195,Kingston Communications Stadium,Andre Marriner,2,1
+EPL,2016-2017,28,Sun,2017-03-12,16:00,Liverpool,Burnley,53145,Anfield,Craig Pawson,2,1
+EPL,2016-2017,29,Sat,2017-03-18,12:30,West Brom,Arsenal,24065,The Hawthorns,Niel Swarbrick,3,1
+EPL,2016-2017,29,Sat,2017-03-18,15:00,West Ham,Leicester City,56979,London Stadium,Roger East,2,3
+EPL,2016-2017,29,Sat,2017-03-18,15:00,Sunderland,Burnley,41518,Stadium of Light,Robert Madley,0,0
+EPL,2016-2017,29,Sat,2017-03-18,15:00,Crystal Palace,Watford,25109,Selhurst Park,Martin Atkinson,1,0
+EPL,2016-2017,29,Sat,2017-03-18,15:00,Everton,Hull City,39248,Goodison Park,Paul Tierney,4,0
+EPL,2016-2017,29,Sat,2017-03-18,15:00,Stoke City,Chelsea,27724,Bet365 Stadium,Anthony Taylor,1,2
+EPL,2016-2017,29,Sat,2017-03-18,17:30,Bournemouth,Swansea City,11240,Vitality Stadium,Mike Dean,2,0
+EPL,2016-2017,29,Sun,2017-03-19,12:00,Middlesbrough,Manchester Utd,32689,Riverside Stadium,Jonathan Moss,1,3
+EPL,2016-2017,29,Sun,2017-03-19,14:15,Tottenham,Southampton,31697,White Hart Lane,Andre Marriner,2,1
+EPL,2016-2017,29,Sun,2017-03-19,16:30,Manchester City,Liverpool,54449,Etihad Stadium,Michael Oliver,1,1
+EPL,2016-2017,30,Sat,2017-04-01,12:30,Liverpool,Everton,52920,Anfield,Anthony Taylor,3,1
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Chelsea,Crystal Palace,41489,Stamford Bridge,Craig Pawson,1,2
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Hull City,West Ham,20820,Kingston Communications Stadium,Mike Jones,2,1
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Burnley,Tottenham,21684,Turf Moor,Stuart Attwell,0,2
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Watford,Sunderland,20805,Vicarage Road Stadium,Lee Probert,1,0
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Leicester City,Stoke City,31958,King Power Stadium,Lee Mason,2,0
+EPL,2016-2017,30,Sat,2017-04-01,15:00,Manchester Utd,West Brom,75397,Old Trafford,Mike Dean,0,0
+EPL,2016-2017,30,Sat,2017-04-01,17:30,Southampton,Bournemouth,31847,St. Mary's Stadium,Jonathan Moss,0,0
+EPL,2016-2017,30,Sun,2017-04-02,13:30,Swansea City,Middlesbrough,20354,Liberty Stadium,Robert Madley,0,0
+EPL,2016-2017,30,Sun,2017-04-02,16:00,Arsenal,Manchester City,60001,Emirates Stadium,Andre Marriner,2,2
+EPL,2016-2017,31,Tue,2017-04-04,19:45,Burnley,Stoke City,19881,Turf Moor,Kevin Friend,1,0
+EPL,2016-2017,31,Tue,2017-04-04,19:45,Watford,West Brom,20090,Vicarage Road Stadium,Paul Tierney,2,0
+EPL,2016-2017,31,Tue,2017-04-04,19:45,Leicester City,Sunderland,31757,King Power Stadium,Graham Scott,2,0
+EPL,2016-2017,31,Tue,2017-04-04,20:00,Manchester Utd,Everton,75272,Old Trafford,Niel Swarbrick,1,1
+EPL,2016-2017,31,Wed,2017-04-05,19:45,Swansea City,Tottenham,20855,Liberty Stadium,Jonathan Moss,1,3
+EPL,2016-2017,31,Wed,2017-04-05,19:45,Southampton,Crystal Palace,29968,St. Mary's Stadium,Roger East,3,1
+EPL,2016-2017,31,Wed,2017-04-05,19:45,Arsenal,West Ham,59961,Emirates Stadium,Martin Atkinson,3,0
+EPL,2016-2017,31,Wed,2017-04-05,19:45,Hull City,Middlesbrough,20380,Kingston Communications Stadium,Michael Oliver,4,2
+EPL,2016-2017,31,Wed,2017-04-05,20:00,Liverpool,Bournemouth,53292,Anfield,Lee Mason,2,2
+EPL,2016-2017,31,Wed,2017-04-05,20:00,Chelsea,Manchester City,41528,Stamford Bridge,Mike Dean,2,1
+EPL,2016-2017,32,Sat,2017-04-08,12:30,Tottenham,Watford,31706,White Hart Lane,Anthony Taylor,4,0
+EPL,2016-2017,32,Sat,2017-04-08,15:00,Middlesbrough,Burnley,29547,Riverside Stadium,Martin Atkinson,0,0
+EPL,2016-2017,32,Sat,2017-04-08,15:00,West Brom,Southampton,24697,The Hawthorns,Chris Kavanagh,0,1
+EPL,2016-2017,32,Sat,2017-04-08,15:00,West Ham,Swansea City,56973,London Stadium,Kevin Friend,1,0
+EPL,2016-2017,32,Sat,2017-04-08,15:00,Stoke City,Liverpool,27568,Bet365 Stadium,Mike Dean,1,2
+EPL,2016-2017,32,Sat,2017-04-08,15:00,Manchester City,Hull City,54393,Etihad Stadium,Jonathan Moss,3,1
+EPL,2016-2017,32,Sat,2017-04-08,17:30,Bournemouth,Chelsea,11283,Vitality Stadium,Andre Marriner,1,3
+EPL,2016-2017,32,Sun,2017-04-09,13:30,Sunderland,Manchester Utd,43779,Stadium of Light,Craig Pawson,0,3
+EPL,2016-2017,32,Sun,2017-04-09,16:00,Everton,Leicester City,39573,Goodison Park,Robert Madley,4,2
+EPL,2016-2017,32,Mon,2017-04-10,20:00,Crystal Palace,Arsenal,25648,Selhurst Park,Michael Oliver,3,0
+EPL,2016-2017,33,Sat,2017-04-15,12:30,Tottenham,Bournemouth,31943,White Hart Lane,Michael Oliver,4,0
+EPL,2016-2017,33,Sat,2017-04-15,15:00,Everton,Burnley,39328,Goodison Park,Mark Clattenburg,3,1
+EPL,2016-2017,33,Sat,2017-04-15,15:00,Watford,Swansea City,20272,Vicarage Road Stadium,Lee Mason,1,0
+EPL,2016-2017,33,Sat,2017-04-15,15:00,Crystal Palace,Leicester City,25504,Selhurst Park,Mike Dean,2,2
+EPL,2016-2017,33,Sat,2017-04-15,15:00,Stoke City,Hull City,27505,Bet365 Stadium,Stuart Attwell,3,1
+EPL,2016-2017,33,Sat,2017-04-15,15:00,Sunderland,West Ham,40168,Stadium of Light,Andre Marriner,2,2
+EPL,2016-2017,33,Sat,2017-04-15,17:30,Southampton,Manchester City,31850,St. Mary's Stadium,Niel Swarbrick,0,3
+EPL,2016-2017,33,Sun,2017-04-16,13:30,West Brom,Liverpool,25669,The Hawthorns,Jonathan Moss,0,1
+EPL,2016-2017,33,Sun,2017-04-16,16:00,Manchester Utd,Chelsea,75272,Old Trafford,Robert Madley,2,0
+EPL,2016-2017,33,Mon,2017-04-17,20:00,Middlesbrough,Arsenal,31298,Riverside Stadium,Anthony Taylor,1,2
+EPL,2016-2017,34,Sat,2017-04-22,15:00,Bournemouth,Middlesbrough,10890,Vitality Stadium,Graham Scott,4,0
+EPL,2016-2017,34,Sat,2017-04-22,15:00,West Ham,Everton,56971,London Stadium,Roger East,0,0
+EPL,2016-2017,34,Sat,2017-04-22,15:00,Hull City,Watford,20432,Kingston Communications Stadium,Robert Madley,2,0
+EPL,2016-2017,34,Sat,2017-04-22,15:00,Swansea City,Stoke City,20566,Liberty Stadium,Michael Oliver,2,0
+EPL,2016-2017,34,Sun,2017-04-23,14:15,Burnley,Manchester Utd,21870,Turf Moor,Anthony Taylor,0,2
+EPL,2016-2017,34,Sun,2017-04-23,16:30,Liverpool,Crystal Palace,53086,Anfield,Andre Marriner,1,2
+EPL,2016-2017,34,Tue,2017-04-25,19:45,Chelsea,Southampton,41168,Stamford Bridge,Lee Mason,4,2
+EPL,2016-2017,28,Wed,2017-04-26,19:45,Middlesbrough,Sunderland,30742,Riverside Stadium,Mike Dean,1,0
+EPL,2016-2017,28,Wed,2017-04-26,19:45,Arsenal,Leicester City,59829,Emirates Stadium,Mike Jones,1,0
+EPL,2016-2017,28,Wed,2017-04-26,20:00,Crystal Palace,Tottenham,25596,Goodison Park,Jonathan Moss,0,1
+EPL,2016-2017,26,Thu,2017-04-27,20:00,Manchester City,Manchester Utd,54176,Etihad Stadium,Martin Atkinson,0,0
+EPL,2016-2017,35,Sat,2017-04-29,15:00,West Brom,Leicester City,24611,The Hawthorns,Mark Clattenburg,0,1
+EPL,2016-2017,35,Sat,2017-04-29,15:00,Stoke City,West Ham,27628,Bet365 Stadium,Lee Probert,0,0
+EPL,2016-2017,35,Sat,2017-04-29,15:00,Sunderland,Bournemouth,38394,Stadium of Light,Stuart Attwell,0,1
+EPL,2016-2017,35,Sat,2017-04-29,15:00,Southampton,Hull City,31120,St. Mary's Stadium,Mike Dean,0,0
+EPL,2016-2017,35,Sat,2017-04-29,17:30,Crystal Palace,Burnley,25013,Selhurst Park,Robert Madley,0,2
+EPL,2016-2017,35,Sun,2017-04-30,12:00,Manchester Utd,Swansea City,75271,Old Trafford,Niel Swarbrick,1,1
+EPL,2016-2017,35,Sun,2017-04-30,14:05,Middlesbrough,Manchester City,29763,Riverside Stadium,Kevin Friend,2,2
+EPL,2016-2017,35,Sun,2017-04-30,14:05,Everton,Chelsea,39595,Goodison Park,Jonathan Moss,0,3
+EPL,2016-2017,35,Sun,2017-04-30,16:30,Tottenham,Arsenal,31811,White Hart Lane,Michael Oliver,2,0
+EPL,2016-2017,35,Mon,2017-05-01,20:00,Watford,Liverpool,20959,Vicarage Road Stadium,Craig Pawson,0,1
+EPL,2016-2017,36,Fri,2017-05-05,20:00,West Ham,Tottenham,56992,London Stadium,Anthony Taylor,1,0
+EPL,2016-2017,36,Sat,2017-05-06,12:30,Manchester City,Crystal Palace,54119,Etihad Stadium,Michael Oliver,5,0
+EPL,2016-2017,36,Sat,2017-05-06,15:00,Bournemouth,Stoke City,11046,Vitality Stadium,Paul Tierney,2,2
+EPL,2016-2017,36,Sat,2017-05-06,15:00,Burnley,West Brom,20825,Turf Moor,Mike Jones,2,2
+EPL,2016-2017,36,Sat,2017-05-06,15:00,Hull City,Sunderland,22480,Kingston Communications Stadium,Niel Swarbrick,0,2
+EPL,2016-2017,36,Sat,2017-05-06,15:00,Leicester City,Watford,31628,King Power Stadium,Roger East,3,0
+EPL,2016-2017,36,Sat,2017-05-06,17:30,Swansea City,Everton,20827,Liberty Stadium,Martin Atkinson,1,0
+EPL,2016-2017,36,Sun,2017-05-07,13:30,Liverpool,Southampton,53159,Anfield,Robert Madley,0,0
+EPL,2016-2017,36,Sun,2017-05-07,16:00,Arsenal,Manchester Utd,60055,Emirates Stadium,Andre Marriner,2,0
+EPL,2016-2017,36,Mon,2017-05-08,20:00,Chelsea,Middlesbrough,41500,Stamford Bridge,Craig Pawson,3,0
+EPL,2016-2017,26,Wed,2017-05-10,19:45,Southampton,Arsenal,31474,St. Mary's Stadium,Jonathan Moss,0,2
+EPL,2016-2017,37,Fri,2017-05-12,19:45,Everton,Watford,38550,Goodison Park,Kevin Friend,1,0
+EPL,2016-2017,37,Fri,2017-05-12,20:00,West Brom,Chelsea,25367,The Hawthorns,Michael Oliver,0,1
+EPL,2016-2017,37,Sat,2017-05-13,12:30,Manchester City,Leicester City,54407,Etihad Stadium,Robert Madley,2,1
+EPL,2016-2017,37,Sat,2017-05-13,15:00,Middlesbrough,Southampton,28203,Riverside Stadium,Anthony Taylor,1,2
+EPL,2016-2017,37,Sat,2017-05-13,15:00,Sunderland,Swansea City,38781,Stadium of Light,Andre Marriner,0,2
+EPL,2016-2017,37,Sat,2017-05-13,15:00,Bournemouth,Burnley,11388,Vitality Stadium,Lee Probert,2,1
+EPL,2016-2017,37,Sat,2017-05-13,17:30,Stoke City,Arsenal,27535,Bet365 Stadium,Mike Dean,1,4
+EPL,2016-2017,37,Sun,2017-05-14,12:00,Crystal Palace,Hull City,25176,Selhurst Park,Martin Atkinson,4,0
+EPL,2016-2017,37,Sun,2017-05-14,14:15,West Ham,Liverpool,56985,London Stadium,Niel Swarbrick,0,4
+EPL,2016-2017,37,Sun,2017-05-14,16:30,Tottenham,Manchester Utd,31848,White Hart Lane,Jonathan Moss,2,1
+EPL,2016-2017,28,Mon,2017-05-15,20:00,Chelsea,Watford,41473,Stamford Bridge,Lee Mason,4,3
+EPL,2016-2017,34,Tue,2017-05-16,19:45,Arsenal,Sunderland,59510,Emirates Stadium,Roger East,2,0
+EPL,2016-2017,34,Tue,2017-05-16,20:00,Manchester City,West Brom,53624,Etihad Stadium,Craig Pawson,3,1
+EPL,2016-2017,28,Wed,2017-05-17,19:45,Southampton,Manchester Utd,31425,St. Mary's Stadium,Mike Dean,0,0
+EPL,2016-2017,34,Thu,2017-05-18,19:45,Leicester City,Tottenham,31351,King Power Stadium,Michael Oliver,1,6
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Burnley,West Ham,21634,Turf Moor,Robert Madley,1,2
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Manchester Utd,Crystal Palace,75254,Old Trafford,Anthony Taylor,2,0
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Swansea City,West Brom,20889,Liberty Stadium,Mike Dean,2,1
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Liverpool,Middlesbrough,53191,Anfield,Martin Atkinson,3,0
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Chelsea,Sunderland,41618,Stamford Bridge,Niel Swarbrick,5,1
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Watford,Manchester City,20829,Vicarage Road Stadium,Jonathan Moss,0,5
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Hull City,Tottenham,23804,Kingston Communications Stadium,Andre Marriner,1,7
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Arsenal,Everton,59976,Emirates Stadium,Michael Oliver,3,1
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Leicester City,Bournemouth,32000,King Power Stadium,Lee Mason,1,1
+EPL,2016-2017,38,Sun,2017-05-21,15:00,Southampton,Stoke City,31286,St. Mary's Stadium,Lee Probert,0,1

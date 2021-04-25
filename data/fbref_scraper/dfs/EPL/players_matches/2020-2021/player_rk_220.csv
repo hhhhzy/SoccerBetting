@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-26,Sat,La Liga,Matchweek 3,Away,W 3–0,Real Sociedad,Elche,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-29,Tue,La Liga,Matchweek 4,Home,L 0–1,Real Sociedad,Valencia,N,FW,24,0,0,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,1,0,0,Match Report
+2020-2021,2020-10-03,Sat,La Liga,Matchweek 5,Home,W 3–0,Real Sociedad,Getafe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,La Liga,Matchweek 6,Away,W 3–0,Real Sociedad,Betis,Y,FW,68,0,0,0,0,1,0,0,0,34,8,0,0,2,0.2,0.2,0.3,1,0,20,29,69.0,5,26,2,0,0,Match Report
+2020-2021,2020-10-22,Thu,Europa Lg,Group stage,Away,W 1–0,es Real Sociedad,hr Rijeka,N,FW,19,0,0,0,0,1,0,0,0,13,0,0,0,0,0.2,0.2,0.2,3,0,10,12,83.3,2,10,2,0,0,Match Report
+2020-2021,2020-10-25,Sun,La Liga,Matchweek 7,Home,W 4–1,Real Sociedad,Huesca,Y,FW,62,0,0,0,0,0,0,0,0,21,12,0,0,0,0.0,0.0,0.1,3,0,18,19,94.7,3,16,0,0,0,Match Report
+2020-2021,2020-10-29,Thu,Europa Lg,Group stage,Home,L 0–1,es Real Sociedad,it Napoli,N,FW,24,0,0,0,0,1,1,0,0,5,4,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,1,4,1,1,1,Match Report
+2020-2021,2020-11-01,Sun,La Liga,Matchweek 8,Away,W 4–1,Real Sociedad,Celta Vigo,Y,FW,90,2,0,0,0,3,3,0,0,49,31,0,0,0,1.9,1.9,0.0,0,0,26,36,72.2,2,35,1,1,1,Match Report
+2020-2021,2020-11-05,Thu,Europa Lg,Group stage,Home,W 1–0,es Real Sociedad,nl AZ Alkmaar,N,FW,28,0,0,0,0,1,1,0,0,14,2,0,0,1,0.1,0.1,0.0,0,0,7,9,77.8,0,10,0,0,0,Match Report
+2020-2021,2020-11-08,Sun,La Liga,Matchweek 9,Home,W 2–0,Real Sociedad,Granada,Y,FW,90,0,0,0,1,2,1,0,0,33,8,0,0,1,0.8,0.1,0.3,3,0,21,26,80.8,3,17,1,0,0,Match Report
+2020-2021,2020-11-22,Sun,La Liga,Matchweek 10,Away,W 1–0,Real Sociedad,Cádiz,N,FW,17,0,0,0,0,0,0,0,0,12,1,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,8,0,1,1,Match Report
+2020-2021,2020-11-26,Thu,Europa Lg,Group stage,Away,D 0–0,es Real Sociedad,nl AZ Alkmaar,N,FW,18,0,0,0,0,0,0,0,0,8,1,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Match Report
+2020-2021,2020-11-29,Sun,La Liga,Matchweek 11,Home,D 1–1,Real Sociedad,Villarreal,Y,FW,90,0,0,0,0,1,1,0,0,34,14,1,0,0,0.2,0.2,0.0,0,0,19,28,67.9,1,21,3,0,0,Match Report
+2020-2021,2020-12-03,Thu,Europa Lg,Group stage,Home,D 2–2,es Real Sociedad,hr Rijeka,N,"AM,FW",24,0,0,0,0,0,0,0,0,9,1,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,3,0,0,0,Match Report
+2020-2021,2020-12-06,Sun,La Liga,Matchweek 12,Away,D 0–0,Real Sociedad,Alavés,N,FW,16,0,0,0,0,1,1,0,0,5,0,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,3,1,0,0,Match Report
+2020-2021,2020-12-10,Thu,Europa Lg,Group stage,Away,D 1–1,es Real Sociedad,it Napoli,Y,FW,90,1,0,0,0,5,2,0,0,32,11,0,1,0,1.0,1.0,0.8,5,0,17,21,81.0,3,23,3,2,2,Match Report
+2020-2021,2020-12-13,Sun,La Liga,Matchweek 13,Home,D 1–1,Real Sociedad,Eibar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-16,Wed,La Liga,Matchweek 19,Away,L 1–2,Real Sociedad,Barcelona,Y,FW,90,1,0,0,0,4,2,0,0,44,13,1,1,0,1.0,1.0,0.0,2,0,30,35,85.7,4,27,2,0,0,Match Report
+2020-2021,2020-12-19,Sat,La Liga,Matchweek 14,Away,L 1–2,Real Sociedad,Levante,N,FW,12,0,0,0,0,0,0,0,0,7,0,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,1,1,Match Report
+2020-2021,2020-12-22,Tue,La Liga,Matchweek 15,Home,L 0–2,Real Sociedad,Atlético Madrid,Y,FW,65,0,0,0,0,0,0,0,0,26,6,2,0,1,0.0,0.0,0.0,1,0,14,18,77.8,0,18,2,1,1,Match Report
+2020-2021,2020-12-31,Thu,La Liga,Matchweek 16,Away,W 1–0,Real Sociedad,Athletic Club,N,FW,6,0,0,0,0,0,0,0,0,5,2,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,5,0,0,0,Match Report
+2020-2021,2021-01-03,Sun,La Liga,Matchweek 17,Home,D 1–1,Real Sociedad,Osasuna,Y,FW,59,0,1,0,0,1,0,0,0,21,3,0,0,1,0.1,0.1,0.0,1,1,13,19,68.4,0,15,0,0,0,Match Report
+2020-2021,2021-01-09,Sat,La Liga,Matchweek 18,Away,L 2–3,Real Sociedad,Sevilla,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Supercopa de España,Semi-finals,Home,L 1 (2)–1 (3),Real Sociedad,Barcelona,N,,30,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-20,Wed,Copa del Rey,Round of 32,Away,W 2–0,Real Sociedad,Córdoba,Y,FW,90,2,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Wolves,Chelsea,N,AM,19,0,0,0,0,0,0,0,0,10,5,0,0,1,0.0,0.0,0.0,1,0,3,4,75.0,0,8,0,1,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,L 0–1,Wolves,Crystal Palace,Y,FW,90,0,0,0,0,3,2,0,0,40,9,0,0,0,0.3,0.3,0.0,0,0,21,29,72.4,2,24,3,0,0,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,W 2–1,Wolves,Arsenal,Y,FW,89,0,0,0,0,2,1,0,0,27,7,0,1,0,0.1,0.1,0.0,3,1,20,23,87.0,1,21,2,3,3,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,D 0–0,Wolves,Leicester City,Y,FW,60,0,0,0,0,0,0,0,0,14,7,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,8,0,0,1,Match Report
+2020-2021,2021-02-11,Thu,FA Cup,Fifth round,Home,L 0–2,Wolves,Southampton,N,,27,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,W 2–1,Wolves,Southampton,Y,FW,88,0,0,0,0,3,0,0,0,24,10,0,1,0,0.1,0.1,0.0,0,0,15,19,78.9,0,15,1,0,0,Match Report
+2020-2021,2021-02-19,Fri,Premier League,Matchweek 25,Home,W 1–0,Wolves,Leeds United,Y,FW,86,0,0,0,0,0,0,0,0,30,3,0,0,1,0.0,0.0,0.2,5,0,21,24,87.5,3,23,1,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,D 1–1,Wolves,Newcastle Utd,Y,FW,81,0,0,0,0,0,0,0,0,24,16,0,0,1,0.0,0.0,0.0,2,0,14,16,87.5,0,11,0,0,0,Match Report
+2020-2021,2021-03-02,Tue,Premier League,Matchweek 29,Away,L 1–4,Wolves,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,D 0–0,Wolves,Aston Villa,Y,FW,77,0,0,0,0,2,0,0,0,29,8,0,0,2,0.1,0.1,0.0,1,0,19,21,90.5,0,13,0,0,0,Match Report
+2020-2021,2021-03-15,Mon,Premier League,Matchweek 28,Home,L 0–1,Wolves,Liverpool,Y,FW,69,0,0,0,0,0,0,0,0,39,6,0,0,1,0.0,0.0,0.0,0,0,27,34,79.4,1,25,2,1,1,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,L 2–3,Wolves,West Ham,Y,FW,71,0,0,0,0,3,1,0,0,37,11,1,0,0,0.7,0.7,0.1,4,0,25,29,86.2,0,18,0,1,1,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Away,W 1–0,Wolves,Fulham,Y,FW,77,0,0,0,0,1,0,0,0,18,1,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,10,0,0,0,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Home,W 1–0,Wolves,Sheffield Utd,Y,FW,76,1,0,0,0,1,1,0,0,32,7,0,1,0,0.3,0.3,0.1,2,0,22,28,78.6,2,23,1,0,0,Match Report

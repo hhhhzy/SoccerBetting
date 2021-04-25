@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-04,Sat,Championship,Matchweek 1,Home,D 1–1,Bristol City,Nott'ham Forest,Y,LB,90,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,L 0–2,Fulham,Crystal Palace,Y,LB,70,0,0,0,0,0,0,0,0,69,14,1,0,5,0.0,0.0,0.1,1,0,46,59,78.0,5,53,3,1,2,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–3,Fulham,Tottenham,Y,LB,84,0,0,0,0,1,0,0,0,49,18,0,0,1,0.0,0.0,0.1,3,1,29,38,76.3,2,30,7,0,0,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,W 4–2,Fulham,Burnley,Y,LB,71,0,0,0,0,1,0,0,0,44,7,0,0,3,0.0,0.0,0.1,4,1,25,39,64.1,2,29,10,0,1,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,W 2–0,Fulham,Exeter City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,D 2–2,Fulham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 0–3,Fulham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,W 3–1,Fulham,Millwall,Y,LM,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–3,Fulham,Everton,Y,LB,90,0,0,0,0,0,0,0,0,51,4,3,1,1,0.0,0.0,0.0,0,0,24,45,53.3,5,27,2,1,1,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,W 3–2,Fulham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Away,L 0–2,Fulham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 1–1,Fulham,Leicester City,N,LB,14,0,0,0,0,1,0,0,0,7,5,0,0,1,0.0,0.0,0.0,1,0,3,5,60.0,0,1,0,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 1–4,Fulham,Manchester Utd,Y,LB,90,0,0,0,0,1,1,0,0,51,12,3,3,4,0.0,0.0,0.0,0,0,27,38,71.1,3,25,5,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,L 0–2,Fulham,West Ham,Y,LB,90,0,0,0,0,0,0,0,0,51,15,2,1,1,0.0,0.0,0.2,1,0,30,45,66.7,8,28,3,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,D 0–0,Fulham,Newcastle Utd,Y,WB,90,0,0,0,0,0,0,0,0,66,8,1,3,1,0.0,0.0,0.1,2,0,35,52,67.3,6,38,6,2,3,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,D 1–1,Fulham,Wolves,Y,WB,90,0,0,0,0,0,0,0,0,39,24,2,1,1,0.0,0.0,0.0,0,0,17,32,53.1,2,20,0,1,2,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,W 1–0,Fulham,Huddersfield,Y,WB,90,0,0,0,0,2,1,0,0,56,17,2,0,3,0.1,0.1,0.1,3,0,23,41,56.1,4,26,5,1,1,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Away,L 1–4,Fulham,Arsenal,Y,WB,90,0,0,0,0,1,0,0,0,53,22,1,3,1,0.0,0.0,0.2,1,0,27,44,61.4,1,33,5,0,0,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,L 1–2,Fulham,Burnley,Y,WB,60,0,0,0,0,0,0,0,0,50,11,1,1,2,0.0,0.0,0.2,3,0,26,40,65.0,3,26,2,0,2,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Home,L 1–2,Fulham,Tottenham,Y,WB,90,0,0,0,0,2,1,0,0,52,17,1,0,2,0.1,0.1,0.0,4,0,23,36,63.9,0,24,2,2,2,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 4–2,Fulham,Brighton,Y,"LB,WB",76,0,1,0,0,0,0,0,0,55,10,1,3,3,0.0,0.0,0.1,1,1,35,43,81.4,2,34,6,1,1,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–2,Fulham,Crystal Palace,Y,"WB,LB",90,0,0,0,0,2,0,0,0,72,16,5,0,1,0.1,0.1,0.2,3,0,39,53,73.6,3,48,5,2,2,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 0–3,Fulham,Manchester Utd,Y,"LB,LM",80,0,0,0,0,0,0,1,0,51,12,0,0,3,0.0,0.0,0.4,2,0,26,42,61.9,4,30,4,0,0,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Away,L 1–3,Fulham,West Ham,Y,LB,90,0,0,0,0,0,0,1,0,53,19,3,4,1,0.0,0.0,0.0,0,0,26,42,61.9,6,30,5,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Fulham,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,73,23,3,0,3,0.0,0.0,0.0,0,0,40,59,67.8,6,40,4,1,2,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,L 1–2,Fulham,Chelsea,Y,LB,90,0,0,0,0,3,1,0,0,59,11,2,4,1,0.1,0.1,0.0,2,0,36,48,75.0,4,30,5,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 1–3,Fulham,Leicester City,Y,LB,90,0,0,0,0,1,1,1,0,73,27,6,3,3,0.0,0.0,0.0,1,0,43,57,75.4,3,37,7,1,1,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Home,L 1–2,Fulham,Liverpool,Y,LB,90,0,0,0,0,0,0,1,0,53,20,6,1,0,0.0,0.0,0.0,0,0,33,44,75.0,2,28,8,0,1,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–2,Fulham,Manchester City,Y,WB,90,0,0,0,0,1,0,0,0,51,11,5,0,2,0.0,0.0,0.1,2,0,30,41,73.2,1,25,2,0,0,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–4,Fulham,Watford,Y,"WB,LB",90,0,0,0,0,2,0,0,0,62,13,0,1,3,0.1,0.1,0.1,1,0,41,56,73.2,4,44,6,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–0,Fulham,Everton,Y,LB,90,0,0,0,0,0,0,0,0,43,8,2,0,3,0.0,0.0,0.1,2,0,25,35,71.4,1,20,1,0,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,W 1–0,Fulham,Bournemouth,Y,LB,90,0,0,0,0,1,0,0,0,71,11,2,0,0,0.0,0.0,0.2,4,0,46,65,70.8,8,41,10,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,W 1–0,Fulham,Cardiff City,Y,LB,90,0,0,0,0,0,0,0,0,55,8,6,0,0,0.0,0.0,0.0,0,0,26,42,61.9,3,29,4,1,1,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–1,Fulham,Wolves,Y,"WB,LB",90,0,0,0,0,2,2,0,0,50,20,3,0,0,0.1,0.1,0.0,1,0,34,41,82.9,2,32,6,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–4,Fulham,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,1,0,116,10,4,1,1,0.0,0.0,0.2,2,0,92,109,84.4,14,73,9,2,2,Match Report

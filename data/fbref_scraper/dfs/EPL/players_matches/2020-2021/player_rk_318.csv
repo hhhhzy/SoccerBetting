@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-03,Thu,UEFA Nations League,League B,Away,D 1–1,ie Republic of Ireland,bg Bulgaria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-06,Sun,UEFA Nations League,League B,Home,L 0–1,ie Republic of Ireland,fi Finland,Y,CM,90,0,0,0,0,1,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,W 4–0,Brighton,Portsmouth,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,L 0–3,Brighton,Manchester Utd,Y,CM,80,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-08,Thu,Euro Qualifying,Semi-finals,Away,L 0 (2)–0 (4),ie Republic of Ireland,sk Slovakia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League B,Home,D 0–0,ie Republic of Ireland,wal Wales,Y,CM,88,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,fi Finland,Y,CM,82,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-06,Fri,PL2 — Div. 1,Matchweek 8,Home,L 2–5,Brighton,Manchester Utd,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-12,Thu,Friendlies (M),Friendlies (M),Away,L 0–3,ie Republic of Ireland,eng England,N,,20,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,wal Wales,Y,CM,75,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,N,DM,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,D 1–1,Brighton,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Away,W 1–0,Brighton,Southampton,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–1,Brighton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,D 3–3,Brighton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 1–4,Preston,Wycombe,Y,CM,74,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Championship,Matchweek 24,Away,L 0–2,Preston,Bristol City,N,,12,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-20,Wed,Championship,Matchweek 25,Away,W 1–0,Preston,Birmingham City,Y,AM,85,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,Championship,Matchweek 26,Home,D 0–0,Preston,Reading,Y,AM,79,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Championship,Matchweek 27,Away,L 0–1,Preston,Sheffield Weds,Y,AM,77,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Championship,Matchweek 28,Home,L 1–2,Preston,Rotherham Utd,Y,AM,65,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-12,Fri,Championship,Matchweek 29,Away,W 2–1,Preston,Blackburn,N,,1,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-16,Tue,Championship,Matchweek 30,Home,L 0–1,Preston,Watford,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Championship,Matchweek 31,Away,L 0–4,Preston,Cardiff City,Y,DM,71,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-24,Wed,Championship,Matchweek 32,Home,D 0–0,Preston,QPR,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Championship,Matchweek 33,Home,W 3–0,Preston,Huddersfield,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-02,Tue,Championship,Matchweek 34,Away,L 1–2,Preston,Millwall,Y,DM,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Championship,Matchweek 35,Home,D 1–1,Preston,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-13,Sat,Championship,Matchweek 36,Away,L 0–1,Preston,Wycombe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-16,Tue,Championship,Matchweek 37,Away,L 0–2,Preston,Middlesbrough,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,Championship,Matchweek 38,Home,L 0–1,Preston,Luton Town,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,L 2–3,ie Republic of Ireland,rs Serbia,Y,CM,60,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Home,L 0–1,ie Republic of Ireland,lu Luxembourg,N,,3,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,ie Republic of Ireland,qa Qatar,Y,RW,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-02,Fri,Championship,Matchweek 39,Home,D 1–1,Preston,Norwich City,N,,34,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Championship,Matchweek 40,Away,W 1–0,Preston,Swansea City,N,,11,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Championship,Matchweek 41,Home,L 0–5,Preston,Brentford,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,Championship,Matchweek 42,Away,D 0–0,Preston,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-20,Tue,Championship,Matchweek 43,Home,W 3–0,Preston,Derby County,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

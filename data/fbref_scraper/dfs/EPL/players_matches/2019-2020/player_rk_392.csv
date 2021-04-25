@@ -1,0 +1,49 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,D 1–1,Sheffield Utd,Bournemouth,Y,"FW,AM",90,0,0,0,0,2,1,0,0,28,21,1,2,0,0.1,0.1,0.0,0,0,12,13,92.3,0,19,0,1,1,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Home,W 1–0,Sheffield Utd,Crystal Palace,Y,FW,55,0,0,0,0,2,0,0,0,25,17,0,0,1,0.2,0.2,0.0,2,0,8,14,57.1,1,17,4,0,2,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–2,Sheffield Utd,Leicester City,Y,FW,53,0,0,0,0,0,0,0,0,23,15,0,0,0,0.0,0.0,0.0,1,0,13,18,72.2,1,21,1,2,2,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 2–2,Sheffield Utd,Chelsea,Y,FW,90,1,0,0,0,4,1,0,0,34,14,0,0,1,0.9,0.9,0.0,1,1,18,22,81.8,1,27,5,0,4,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,ch Switzerland,Y,FW,57,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,L 0–1,Sheffield Utd,Southampton,N,CM,7,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Away,W 2–0,Sheffield Utd,Everton,Y,FW,61,0,0,0,0,0,0,0,0,7,9,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,2,1,2,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Home,L 0–1,Sheffield Utd,Sunderland,Y,FW,56,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,L 0–1,Sheffield Utd,Liverpool,Y,FW,59,0,0,0,0,2,0,0,0,19,16,0,0,0,0.2,0.2,0.0,0,0,9,12,75.0,0,9,3,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,D 0–0,Sheffield Utd,Watford,Y,FW,70,0,0,0,0,2,1,0,0,20,15,0,0,0,0.3,0.3,0.0,0,0,12,14,85.7,0,16,3,0,0,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Away,D 0–0,ie Republic of Ireland,ge Georgia,Y,AM,72,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Away,L 0–2,ie Republic of Ireland,ch Switzerland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-21,Mon,Premier League,Matchweek 9,Home,W 1–0,Sheffield Utd,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,D 1–1,Sheffield Utd,West Ham,Y,FW,53,0,0,0,0,1,0,0,0,20,16,0,0,1,0.4,0.4,0.0,1,0,12,16,75.0,2,14,2,0,0,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 3–0,Sheffield Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,D 1–1,Sheffield Utd,Tottenham,N,FW,4,0,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,2,Match Report
+2019-2020,2019-11-14,Thu,Friendlies (M),Friendlies (M),Home,W 3–1,ie Republic of Ireland,nz New Zealand,N,,29,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,dk Denmark,N,,23,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Premier League,Matchweek 13,Home,D 3–3,Sheffield Utd,Manchester Utd,N,AM,8,0,1,0,0,0,0,0,0,5,4,0,0,0,0.0,0.0,0.2,1,1,3,5,60.0,0,5,2,0,0,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 1–1,Sheffield Utd,Wolves,N,FW,5,0,0,0,0,0,0,0,0,4,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,1,1,Match Report
+2019-2020,2019-12-05,Thu,Premier League,Matchweek 15,Home,L 0–2,Sheffield Utd,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,W 2–1,Sheffield Utd,Norwich City,N,FW,26,0,0,0,0,0,0,1,0,10,9,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,8,1,1,1,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 1–0,Sheffield Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,D 1–1,Sheffield Utd,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Away,L 0–2,Sheffield Utd,Manchester City,Y,FW,58,0,0,0,0,0,0,0,0,22,21,1,0,1,0.0,0.0,0.3,2,0,13,16,81.3,1,17,2,0,0,Match Report
+2019-2020,2020-01-02,Thu,Premier League,Matchweek 21,Away,L 0–2,Sheffield Utd,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,W 2–1,Sheffield Utd,Fylde,Y,FW,87,1,0,0,0,5,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-10,Fri,Premier League,Matchweek 22,Home,W 1–0,Sheffield Utd,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Sheffield Utd,Arsenal,N,AM,24,0,0,0,0,0,0,0,0,8,6,1,0,0,0.0,0.0,0.1,2,0,5,8,62.5,0,8,0,0,0,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,L 0–1,Sheffield Utd,Manchester City,N,"AM,CB",13,0,0,0,0,0,0,0,0,2,7,1,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–0,Sheffield Utd,Millwall,Y,FW,66,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Championship,Matchweek 30,Home,W 2–0,West Brom,Luton Town,Y,AM,90,0,0,0,0,6,3,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-09,Sun,Championship,Matchweek 31,Away,W 2–0,West Brom,Millwall,Y,AM,65,0,0,0,0,3,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-12,Wed,Championship,Matchweek 32,Away,W 2–1,West Brom,Reading,Y,FW,71,0,0,0,0,6,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-15,Sat,Championship,Matchweek 33,Home,D 2–2,West Brom,Nott'ham Forest,Y,FW,90,1,0,0,0,5,2,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,Championship,Matchweek 34,Away,W 3–0,West Brom,Bristol City,Y,FW,72,1,0,0,0,5,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-25,Tue,Championship,Matchweek 35,Home,W 2–0,West Brom,Preston,Y,FW,78,0,1,0,0,5,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Championship,Matchweek 36,Home,L 0–1,West Brom,Wigan Athletic,Y,FW,60,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Championship,Matchweek 37,Away,D 0–0,West Brom,Swansea City,Y,FW,57,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Championship,Matchweek 38,Home,D 0–0,West Brom,Birmingham City,Y,AM,59,0,0,0,0,4,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-26,Fri,Championship,Matchweek 39,Away,L 0–1,West Brom,Brentford,N,,12,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Championship,Matchweek 40,Away,W 3–0,West Brom,Sheffield Weds,N,,36,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-05,Sun,Championship,Matchweek 41,Home,W 4–2,West Brom,Hull City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-08,Wed,Championship,Matchweek 42,Home,W 2–0,West Brom,Derby County,N,,40,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Championship,Matchweek 43,Away,D 1–1,West Brom,Blackburn,N,,11,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-14,Tue,Championship,Matchweek 44,Home,D 0–0,West Brom,Fulham,N,,6,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-17,Fri,Championship,Matchweek 45,Away,L 1–2,West Brom,Huddersfield,N,,16,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Championship,Matchweek 46,Home,D 2–2,West Brom,QPR,Y,FW,90,1,1,0,0,5,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,RW,83,0,0,0,0,1,0,1,0,63,29,0,1,1,0.2,0.2,0.1,2,0,34,49,69.4,5,49,8,1,3,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,W 2–1,Arsenal,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,N,CM,5,0,0,0,0,0,0,0,0,10,0,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,10,1,1,1,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Home,D 2–2,Arsenal,Tottenham,N,LW,24,0,0,0,0,1,0,0,0,25,3,0,0,1,0.1,0.1,0.1,4,0,16,18,88.9,1,18,0,0,1,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,L 1–3,am Armenia,it Italy,Y*,AM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-08,Sun,Euro Qualifying,Group stage,Home,W 4–2,am Armenia,ba Bosnia and Herzegovina,Y*,CM,90,2,1,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-15,Sun,Serie A,Matchweek 3,Home,W 4–2,Roma,Sassuolo,Y,LW,90,1,0,0,0,1,1,0,0,52,8,0,0,1,0.3,0.3,0.1,3,0,39,46,84.8,2,39,6,0,0,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Home,W 4–0,it Roma,tr Başakşehir,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-22,Sun,Serie A,Matchweek 4,Away,W 2–1,Roma,Bologna,Y,LW,86,0,0,0,0,1,0,0,0,51,18,3,0,0,0.0,0.0,0.2,6,1,37,41,90.2,5,37,7,1,3,Match Report
+2019-2020,2019-09-25,Wed,Serie A,Matchweek 5,Home,L 0–2,Roma,Atalanta,N,AM,26,0,0,0,0,0,0,0,0,13,3,0,1,1,0.0,0.0,0.0,0,0,8,10,80.0,3,12,1,1,2,Match Report
+2019-2020,2019-09-29,Sun,Serie A,Matchweek 6,Away,W 1–0,Roma,Lecce,Y,LW,86,0,1,0,0,1,0,1,0,44,4,1,0,1,0.4,0.4,0.2,4,1,29,35,82.9,3,32,3,1,1,Match Report
+2019-2020,2019-11-28,Thu,Europa Lg,Group stage,Away,W 3–0,it Roma,tr Başakşehir,N,AM,19,0,0,0,0,0,0,0,0,34,4,0,0,0,0.0,0.0,0.1,1,0,32,33,97.0,3,26,4,1,1,Match Report
+2019-2020,2019-12-01,Sun,Serie A,Matchweek 14,Away,W 3–1,Roma,Hellas Verona,N,"AM,FW,RW",24,1,0,0,0,1,1,0,0,11,13,0,0,0,0.6,0.6,0.0,0,0,6,8,75.0,0,9,1,0,0,Match Report
+2019-2020,2019-12-06,Fri,Serie A,Matchweek 15,Away,D 0–0,Roma,Inter,Y,"RW,LW",88,0,0,0,0,0,0,0,0,50,13,0,0,1,0.0,0.0,0.0,1,0,36,40,90.0,3,36,8,2,5,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Home,D 2–2,it Roma,at Wolfsberger AC,Y,"AM,LW",90,0,0,0,0,1,0,0,0,68,15,4,1,2,0.0,0.0,0.2,3,1,38,49,77.6,3,39,5,4,4,Match Report
+2019-2020,2019-12-15,Sun,Serie A,Matchweek 16,Home,W 3–1,Roma,SPAL,N,LW,12,1,0,0,0,3,1,0,0,14,7,1,0,0,1.2,1.2,0.0,1,0,7,9,77.8,0,8,3,1,1,Match Report
+2019-2020,2019-12-20,Fri,Serie A,Matchweek 17,Away,W 4–1,Roma,Fiorentina,N,LW,15,0,0,0,0,0,0,0,0,16,5,1,0,1,0.0,0.0,0.0,1,0,9,11,81.8,1,12,2,0,0,Match Report
+2019-2020,2020-01-05,Sun,Serie A,Matchweek 18,Home,L 0–2,Roma,Torino,N,CM,28,0,0,0,0,3,1,0,0,22,3,0,1,1,0.4,0.4,0.0,3,0,11,15,73.3,4,17,3,1,1,Match Report
+2019-2020,2020-02-07,Fri,Serie A,Matchweek 23,Home,L 2–3,Roma,Bologna,Y,AM,90,1,0,0,0,1,1,0,0,55,27,0,0,0,0.3,0.3,0.2,5,0,42,46,91.3,4,41,4,1,3,Match Report
+2019-2020,2020-02-15,Sat,Serie A,Matchweek 24,Away,L 1–2,Roma,Atalanta,Y,CM,90,0,0,0,0,1,0,1,0,47,12,3,1,2,0.0,0.0,0.0,1,0,29,35,82.9,1,27,1,0,2,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Home,W 1–0,it Roma,be Gent,N,AM,12,0,0,0,0,1,0,0,0,10,2,1,0,0,0.2,0.2,0.0,1,0,7,8,87.5,0,6,2,1,1,Match Report
+2019-2020,2020-02-23,Sun,Serie A,Matchweek 25,Home,W 4–0,Roma,Lecce,Y,LW,90,1,1,0,0,1,1,0,0,64,14,4,3,0,0.1,0.1,0.6,5,2,45,51,88.2,6,50,8,1,2,Match Report
+2019-2020,2020-02-27,Thu,Europa Lg,Round of 32,Away,D 1–1,it Roma,be Gent,Y,"AM,LW",90,0,1,0,0,2,0,0,0,44,27,1,0,0,0.0,0.0,0.4,3,1,32,37,86.5,6,38,9,1,2,Match Report
+2019-2020,2020-03-01,Sun,Serie A,Matchweek 26,Away,W 4–3,Roma,Cagliari,Y,"AM,LW",90,1,1,0,0,3,3,0,0,54,22,4,1,1,0.3,0.3,0.7,8,2,32,39,82.1,4,35,6,4,5,Match Report
+2019-2020,2020-06-24,Wed,Serie A,Matchweek 27,Home,W 2–1,Roma,Sampdoria,Y,LW,84,0,0,0,0,5,1,1,0,54,7,0,0,1,0.3,0.3,0.4,9,0,35,39,89.7,3,35,7,1,3,Match Report
+2019-2020,2020-06-28,Sun,Serie A,Matchweek 28,Away,L 0–2,Roma,Milan,Y,"RW,LW",68,0,0,0,0,2,0,0,0,38,8,4,0,2,0.1,0.1,0.0,2,0,21,26,80.8,5,25,7,0,1,Match Report
+2019-2020,2020-07-02,Thu,Serie A,Matchweek 29,Home,L 0–2,Roma,Udinese,N,LW,45,0,0,0,0,2,0,1,0,33,17,1,0,3,0.0,0.0,0.0,2,0,16,21,76.2,0,19,3,1,2,Match Report
+2019-2020,2020-07-05,Sun,Serie A,Matchweek 30,Away,L 1–2,Roma,Napoli,Y,CM,90,1,0,0,0,3,2,0,0,57,20,3,0,2,0.1,0.1,0.0,1,0,42,45,93.3,2,37,6,1,1,Match Report
+2019-2020,2020-07-08,Wed,Serie A,Matchweek 31,Home,W 2–1,Roma,Parma,Y,AM,89,1,1,0,0,3,2,1,0,48,27,6,0,2,0.4,0.4,0.2,5,1,28,34,82.4,3,30,9,0,0,Match Report
+2019-2020,2020-07-15,Wed,Serie A,Matchweek 33,Home,W 2–1,Roma,Hellas Verona,Y,AM,87,0,0,0,0,6,1,0,0,48,23,6,0,5,1.0,1.0,0.1,5,1,27,34,79.4,5,22,5,0,1,Match Report
+2019-2020,2020-07-19,Sun,Serie A,Matchweek 34,Home,D 2–2,Roma,Inter,Y,AM,82,1,0,0,0,2,1,0,0,43,11,1,1,1,0.5,0.5,0.0,2,1,27,33,81.8,4,29,9,1,2,Match Report
+2019-2020,2020-07-22,Wed,Serie A,Matchweek 35,Away,W 6–1,Roma,SPAL,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Serie A,Matchweek 36,Home,W 2–1,Roma,Fiorentina,Y,AM,81,0,0,0,0,2,0,0,0,47,18,1,0,0,0.2,0.2,0.0,2,0,24,38,63.2,5,28,4,2,4,Match Report
+2019-2020,2020-07-29,Wed,Serie A,Matchweek 37,Away,W 3–2,Roma,Torino,Y,LW,89,0,1,0,0,2,0,0,0,54,16,1,1,2,0.1,0.1,0.3,4,1,32,39,82.1,2,40,7,2,2,Match Report
+2019-2020,2020-08-01,Sat,Serie A,Matchweek 38,Away,W 3–1,Roma,Juventus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-08-06,Thu,Europa Lg,Round of 16,Neutral,L 0–2,it Roma,es Sevilla,Y,"AM,LW",90,0,0,0,0,1,0,0,0,40,27,0,1,1,0.0,0.0,0.1,3,0,22,29,75.9,1,22,5,0,1,Match Report

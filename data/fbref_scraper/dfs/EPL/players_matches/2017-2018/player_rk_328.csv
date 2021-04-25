@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,D 0–0,Swansea City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,L 0–4,Swansea City,Manchester Utd,Y,DM,66,0,0,0,0,0,0,0,0,38,18,1,0,0,0.0,0.0,0.1,1,0,30,36,83.3,0,30,2,0,0,Match Report
+2017-2018,2017-08-22,Tue,EFL Cup,Second round,Away,W 4–1,Swansea City,MK Dons,Y,DM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,W 2–0,Swansea City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-10,Sun,Premier League,Matchweek 4,Home,L 0–1,Swansea City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,D 0–0,Swansea City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,W 2–0,Swansea City,Reading,Y,CM,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,L 1–2,Swansea City,Watford,N,"CM,DM",45,0,0,0,0,0,0,0,0,43,10,1,1,0,0.0,0.0,0.1,1,0,33,41,80.5,4,33,6,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,L 0–1,Swansea City,West Ham,N,DM,22,0,0,0,0,0,0,0,0,21,2,0,1,0,0.0,0.0,0.0,1,0,16,20,80.0,0,15,2,0,0,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Home,L 0–2,Swansea City,Manchester Utd,Y,DM,66,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,L 1–2,Swansea City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 0–1,Swansea City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,D 0–0,Swansea City,Bournemouth,Y,DM,90,0,0,0,0,1,0,1,0,53,22,1,0,2,0.0,0.0,0.0,0,0,39,47,83.0,0,34,2,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–1,Swansea City,Chelsea,Y,CM,64,0,0,0,0,0,0,0,0,29,7,1,1,2,0.0,0.0,0.0,0,0,23,25,92.0,0,21,1,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,Swansea City,West Brom,Y,"DM,CM",90,0,0,0,0,1,0,1,0,73,31,2,0,0,0.0,0.0,0.0,4,0,62,68,91.2,10,49,10,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,L 0–4,Swansea City,Manchester City,Y,"DM,CM",90,0,0,0,0,1,1,0,0,37,67,2,2,1,0.0,0.0,0.1,2,0,28,34,82.4,3,30,3,2,2,Match Report
+2017-2018,2017-12-18,Mon,Premier League,Matchweek 18,Away,L 1–3,Swansea City,Everton,Y,DM,90,0,0,0,0,1,0,0,0,65,21,1,0,4,0.0,0.0,0.0,2,0,48,57,84.2,5,46,7,1,1,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,D 1–1,Swansea City,Crystal Palace,Y,CM,88,0,0,0,0,1,0,1,0,72,16,3,1,2,0.0,0.0,0.0,0,0,52,62,83.9,2,57,4,3,3,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,L 0–5,Swansea City,Liverpool,Y,DM,64,0,0,0,0,0,0,0,0,58,17,3,0,1,0.0,0.0,0.0,1,0,50,53,94.3,0,37,1,1,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,W 2–1,Swansea City,Watford,Y,DM,45,0,0,0,0,2,0,0,0,38,13,3,0,1,0.1,0.1,0.0,0,0,30,31,96.8,1,29,1,0,0,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Home,L 0–2,Swansea City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,D 0–0,Swansea City,Wolves,N,,16,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,D 1–1,Swansea City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-17,Wed,FA Cup,Third round,Home,W 2–1,Swansea City,Wolves,Y,DM,72,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-22,Mon,Premier League,Matchweek 24,Home,W 1–0,Swansea City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Copa del Rey,Semi-finals,Away,D 1–1,Sevilla,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,La Liga,Matchweek 22,Away,L 1–5,Sevilla,Eibar,Y,DM,53,0,0,0,0,0,0,1,0,22,7,0,0,1,0.0,0.0,0.0,1,0,18,19,94.7,0,15,0,0,0,Match Report
+2017-2018,2018-02-07,Wed,Copa del Rey,Semi-finals,Home,W 2–0,Sevilla,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-11,Sun,La Liga,Matchweek 23,Home,W 1–0,Sevilla,Girona,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-17,Sat,La Liga,Matchweek 24,Away,W 2–1,Sevilla,Las Palmas,N,"CM,LW",14,0,0,0,0,0,0,1,0,10,5,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,0,0,Match Report
+2017-2018,2018-02-21,Wed,Champions Lg,Round of 16,Home,D 0–0,es Sevilla,eng Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,La Liga,Matchweek 25,Home,L 2–5,Sevilla,Atlético Madrid,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-28,Wed,La Liga,Matchweek 26,Away,W 1–0,Sevilla,Málaga,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-18,Sun,La Liga,Matchweek 29,Away,L 1–2,Sevilla,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,La Liga,Matchweek 32,Home,D 2–2,Sevilla,Villarreal,N,LW,5,0,0,0,0,0,0,0,0,10,2,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,10,2,0,0,Match Report
+2017-2018,2018-04-17,Tue,La Liga,Matchweek 33,Away,D 0–0,Sevilla,La Coruña,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-04,Fri,La Liga,Matchweek 36,Home,W 1–0,Sevilla,Real Sociedad,Y,CM,79,0,0,0,0,1,0,0,0,44,14,4,0,1,0.0,0.0,0.0,3,0,32,36,88.9,3,33,0,0,0,Match Report
+2017-2018,2018-05-09,Wed,La Liga,Matchweek 34,Home,W 3–2,Sevilla,Real Madrid,N,LW,11,0,0,0,0,0,0,0,0,9,5,0,0,1,0.0,0.0,0.0,1,0,6,7,85.7,0,5,1,0,0,Match Report
+2017-2018,2018-05-12,Sat,La Liga,Matchweek 37,Away,D 2–2,Sevilla,Betis,Y,CM,90,0,0,0,0,0,0,0,0,71,21,3,3,1,0.0,0.0,0.0,1,0,58,61,95.1,2,58,5,0,0,Match Report
+2017-2018,2018-05-19,Sat,La Liga,Matchweek 38,Home,W 1–0,Sevilla,Alavés,Y,CM,90,0,0,0,0,0,0,0,0,85,18,3,1,2,0.0,0.0,0.2,3,0,74,77,96.1,11,71,8,3,3,Match Report

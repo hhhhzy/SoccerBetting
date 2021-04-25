@@ -1,0 +1,60 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-01,Sun,FIFA World Cup,Round of 16,Neutral,L 1 (3)–1 (4),es Spain,ru Russia,Y,GK,120,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,1,1,13,24,54.2,0,11,0,0,0,Match Report
+2018-2019,2018-08-10,Fri,Premier League,Matchweek 1,Home,W 2–1,Manchester Utd,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0,0.0,0.0,0.0,0,0,4,17,23.5,0,10,0,0,0,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Away,L 2–3,Manchester Utd,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,22,0,0,0,Match Report
+2018-2019,2018-08-27,Mon,Premier League,Matchweek 3,Home,L 0–3,Manchester Utd,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,21,33,63.6,0,29,0,0,0,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Away,W 2–0,Manchester Utd,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,1,0,15,27,55.6,0,16,0,0,0,Match Report
+2018-2019,2018-09-08,Sat,UEFA Nations League,League A,Away,W 2–1,es Spain,eng England,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,UEFA Nations League,League A,Home,W 6–0,es Spain,hr Croatia,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 2–1,Manchester Utd,Watford,Y,GK,90,0,0,0,0,0,0,0,0,23,0,0,0,0,0.0,0.0,0.0,0,0,10,21,47.6,0,8,0,0,0,Match Report
+2018-2019,2018-09-19,Wed,Champions Lg,Group stage,Away,W 3–0,eng Manchester Utd,ch Young Boys,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,17,0,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 1–1,Manchester Utd,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,14,0,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 1–3,Manchester Utd,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,20,0,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,7,0,0,0,Match Report
+2018-2019,2018-10-02,Tue,Champions Lg,Group stage,Home,D 0–0,eng Manchester Utd,es Valencia,Y,GK,90,0,0,0,0,0,0,0,0,16,0,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,4,0,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,W 3–2,Manchester Utd,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,17,0,0,0,Match Report
+2018-2019,2018-10-11,Thu,Friendlies (M),Friendlies (M),Away,W 4–1,es Spain,wal Wales,Y,GK,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-15,Mon,UEFA Nations League,League A,Home,L 2–3,es Spain,eng England,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,D 2–2,Manchester Utd,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,1,0,20,35,57.1,0,15,0,0,0,Match Report
+2018-2019,2018-10-23,Tue,Champions Lg,Group stage,Home,L 0–1,eng Manchester Utd,it Juventus,Y,GK,90,0,0,0,0,0,0,0,0,20,0,0,0,0,0.0,0.0,0.0,0,0,8,16,50.0,0,4,0,0,0,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Home,W 2–1,Manchester Utd,Everton,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,15,0,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 2–1,Manchester Utd,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,9,0,0,0,Match Report
+2018-2019,2018-11-07,Wed,Champions Lg,Group stage,Away,W 2–1,eng Manchester Utd,it Juventus,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,11,23,47.8,0,6,0,0,0,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,L 1–3,Manchester Utd,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,13,0,0,0,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Away,L 2–3,es Spain,hr Croatia,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,Friendlies (M),Friendlies (M),Home,W 1–0,es Spain,ba Bosnia and Herzegovina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,D 0–0,Manchester Utd,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,8,0,0,0,Match Report
+2018-2019,2018-11-27,Tue,Champions Lg,Group stage,Home,W 1–0,eng Manchester Utd,ch Young Boys,Y,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,10,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,D 2–2,Manchester Utd,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,1,1,22,24,91.7,0,12,0,0,0,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 2–2,Manchester Utd,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,18,34,52.9,0,21,0,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 4–1,Manchester Utd,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,20,0,0,0,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Away,L 1–3,Manchester Utd,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,14,31,45.2,0,9,0,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 5–1,Manchester Utd,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,15,0,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 3–1,Manchester Utd,Huddersfield,Y*,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,26,36,72.2,0,19,0,0,0,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Home,W 4–1,Manchester Utd,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,17,0,0,0,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,W 2–0,Manchester Utd,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,1,0,22,28,78.6,0,10,0,0,0,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Away,W 1–0,Manchester Utd,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,17,38,44.7,0,12,0,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Manchester Utd,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,27,0,1,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,12,0,0,0,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,D 2–2,Manchester Utd,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,18,0,0,0,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Away,W 1–0,Manchester Utd,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,8,0,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 3–0,Manchester Utd,Fulham,Y*,GK,90,0,0,0,0,0,0,1,0,38,0,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,16,0,0,0,Match Report
+2018-2019,2019-02-12,Tue,Champions Lg,Round of 16,Home,L 0–2,eng Manchester Utd,fr Paris S-G,Y,GK,90,0,0,0,0,0,0,0,0,19,0,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,0,9,0,0,0,Match Report
+2018-2019,2019-02-18,Mon,FA Cup,Fifth round,Away,W 2–0,Manchester Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Home,D 0–0,Manchester Utd,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,11,0,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,W 3–1,Manchester Utd,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,1,0,14,26,53.8,0,6,0,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 3–2,Manchester Utd,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,1,0.0,0.0,0.0,0,0,17,27,63.0,0,15,0,0,0,Match Report
+2018-2019,2019-03-06,Wed,Champions Lg,Round of 16,Away,W 3–1,eng Manchester Utd,fr Paris S-G,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,14,0,0,0,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Away,L 0–2,Manchester Utd,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,13,0,0,0,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Away,L 1–2,Manchester Utd,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-26,Tue,Euro Qualifying,Group stage,Away,W 2–0,es Spain,mt Malta,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–1,Manchester Utd,Watford,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,12,0,0,0,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–2,Manchester Utd,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,24,1,0,0,0,0.0,0.0,0.0,0,0,13,22,59.1,0,5,0,0,0,Match Report
+2018-2019,2019-04-10,Wed,Champions Lg,Quarter-finals,Home,L 0–1,eng Manchester Utd,es Barcelona,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,16,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–1,Manchester Utd,West Ham,Y*,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,10,0,0,0,Match Report
+2018-2019,2019-04-16,Tue,Champions Lg,Quarter-finals,Away,L 0–3,eng Manchester Utd,es Barcelona,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,15,0,0,0,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Away,L 0–4,Manchester Utd,Everton,Y*,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,15,0,0,0,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Home,L 0–2,Manchester Utd,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,12,0,0,0,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Home,D 1–1,Manchester Utd,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,0,10,0,0,0,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Away,D 1–1,Manchester Utd,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,14,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–2,Manchester Utd,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,10,0,0,0,Match Report
+2018-2019,2019-06-07,Fri,Euro Qualifying,Group stage,Away,W 4–1,es Spain,fo Faroe Islands,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-10,Mon,Euro Qualifying,Group stage,Home,W 3–0,es Spain,se Sweden,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

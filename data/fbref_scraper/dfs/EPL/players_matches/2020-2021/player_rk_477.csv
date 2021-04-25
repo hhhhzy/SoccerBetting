@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Away,W 2–0,Wolves,Sheffield Utd,N,DM,5,0,0,0,0,0,0,0,0,5,7,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,L 0–1,Wolves,Stoke City,Y,FW,59,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Home,L 1–3,Wolves,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Away,L 0–4,Wolves,West Ham,N,CM,18,0,0,0,0,0,0,0,0,26,3,1,0,0,0.0,0.0,0.0,2,0,22,24,91.7,1,22,4,2,2,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 1–0,Wolves,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-26,Mon,PL2 — Div. 2,Matchweek 6,Away,L 1–2,Wolves,Crystal Palace U23,Y,CM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Home,D 1–1,Wolves,Southampton,N,AM,6,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Away,W 2–1,Wolves,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Away,L 0–4,Wolves,Liverpool,N,AM,12,0,0,0,0,0,0,0,0,15,0,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,8,1,0,0,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,L 0–1,Wolves,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Home,W 2–1,Wolves,Chelsea,N,AM,1,0,1,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.1,1,1,3,3,100.0,1,3,0,0,0,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Away,L 1–2,Wolves,Burnley,N,CM,15,0,0,0,0,0,0,0,0,13,1,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,0,12,1,0,0,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 1–1,Wolves,Tottenham,N,AM,1,0,0,0,0,0,0,0,0,2,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,L 0–1,Wolves,Manchester Utd,Y,DM,54,0,0,0,0,1,1,0,0,34,11,1,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,27,6,1,1,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Away,D 3–3,Wolves,Brighton,Y,AM,63,0,0,0,0,1,0,0,0,35,14,2,0,0,0.1,0.1,0.0,1,0,26,28,92.9,0,20,1,0,0,Match Report
+2020-2021,2021-01-08,Fri,FA Cup,Third round,Home,W 1–0,Wolves,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 18,Home,L 1–2,Wolves,Everton,N,CM,5,0,0,0,0,0,0,0,0,7,2,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,3,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 2–3,Wolves,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-22,Fri,FA Cup,Fourth round,Away,W 1–0,Wolves,Chorley,Y,AM,68,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Wolves,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,L 0–1,Wolves,Crystal Palace,N,"CM,AM",23,0,0,0,0,0,0,0,0,14,9,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,11,3,0,0,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,W 2–1,Wolves,Arsenal,N,AM,29,0,0,0,0,2,0,0,0,31,4,1,0,0,0.3,0.3,0.0,2,0,27,27,100.0,1,24,2,1,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,D 0–0,Wolves,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-11,Thu,FA Cup,Fifth round,Home,L 0–2,Wolves,Southampton,Y,FW,68,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,W 2–1,Wolves,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-19,Fri,Premier League,Matchweek 25,Home,W 1–0,Wolves,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,D 1–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-02,Tue,Premier League,Matchweek 29,Away,L 1–4,Wolves,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,D 0–0,Wolves,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-15,Mon,Premier League,Matchweek 28,Home,L 0–1,Wolves,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,L 2–3,Wolves,West Ham,N,FW,19,0,0,0,0,0,0,0,0,13,1,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,12,3,0,0,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Away,W 1–0,Wolves,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Home,W 1–0,Wolves,Sheffield Utd,N,LW,19,0,0,0,0,0,0,0,0,11,9,0,0,0,0.0,0.0,0.1,2,0,9,9,100.0,0,8,0,0,0,Match Report

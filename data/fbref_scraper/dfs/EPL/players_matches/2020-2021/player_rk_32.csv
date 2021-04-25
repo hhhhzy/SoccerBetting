@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-08-29,Sat,Community Shield,FA Community Shield,Neutral,W 1 (5)–1 (4),Arsenal,Liverpool,Y*,FW,120,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Away,W 3–0,Arsenal,Fulham,Y*,LW,90,1,0,0,0,3,2,1,0,39,17,0,0,0,0.4,0.4,0.1,4,0,21,31,67.7,0,26,6,2,4,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,W 2–1,Arsenal,West Ham,Y*,LW,90,0,1,0,0,1,1,0,0,40,8,0,0,1,0.1,0.1,0.4,4,1,27,34,79.4,3,31,2,1,1,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y*,"LW,FW",90,0,0,0,0,0,0,0,0,27,27,2,0,0,0.0,0.0,0.0,1,0,11,25,44.0,0,16,4,1,2,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 2–1,Arsenal,Sheffield Utd,Y*,"LW,FW",90,0,0,0,0,2,2,0,0,39,13,0,0,1,0.1,0.1,0.0,1,1,26,33,78.8,8,24,6,0,0,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Away,L 0–1,Arsenal,Manchester City,Y*,LW,90,0,0,0,0,0,0,0,0,26,8,1,0,2,0.0,0.0,0.5,3,0,11,16,68.8,3,15,2,0,1,Match Report
+2020-2021,2020-10-22,Thu,Europa Lg,Group stage,Away,W 2–1,eng Arsenal,at Rapid Wien,N,"LW,FW",30,1,0,0,0,3,1,0,0,22,3,0,0,1,1.1,1.1,0.0,1,0,7,11,63.6,2,9,2,0,0,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Home,L 0–1,Arsenal,Leicester City,Y*,RW,90,0,0,0,0,2,0,0,0,33,9,2,0,2,0.3,0.3,0.1,3,0,20,24,83.3,3,19,2,0,0,Match Report
+2020-2021,2020-10-29,Thu,Europa Lg,Group stage,Home,W 3–0,eng Arsenal,ie Dundalk,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,W 1–0,Arsenal,Manchester Utd,Y*,LW,86,1,0,1,1,1,0,1,0,43,12,2,0,1,0.9,0.1,0.1,1,0,32,36,88.9,2,30,4,0,0,Match Report
+2020-2021,2020-11-05,Thu,Europa Lg,Group stage,Home,W 4–1,eng Arsenal,no Molde,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Home,L 0–3,Arsenal,Aston Villa,Y*,"LW,FW",90,0,0,0,0,0,0,0,0,39,11,1,0,2,0.0,0.0,0.2,3,0,25,31,80.6,3,28,6,0,1,Match Report
+2020-2021,2020-11-12,Thu,Africa Cup of Nations qualification,Group stage,Home,W 2–1,ga Gabon,gm Gambia,Y*,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-16,Mon,Africa Cup of Nations qualification,Group stage,Away,L 1–2,ga Gabon,gm Gambia,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,D 0–0,Arsenal,Leeds United,Y*,FW,90,0,0,0,0,3,1,0,0,32,5,0,0,1,0.3,0.3,0.0,1,0,16,25,64.0,0,23,3,1,1,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Home,L 1–2,Arsenal,Wolves,Y*,FW,90,0,0,0,0,5,1,0,0,22,10,0,0,0,0.4,0.4,0.0,0,0,9,14,64.3,1,14,1,0,0,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Away,L 0–2,Arsenal,Tottenham,Y*,FW,90,0,0,0,0,2,0,0,0,19,9,0,0,0,0.2,0.2,0.0,0,0,13,14,92.9,2,16,3,0,0,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,L 0–1,Arsenal,Burnley,Y*,"FW,LW",90,0,0,0,0,4,2,0,0,39,11,2,0,0,0.2,0.2,0.1,2,0,25,31,80.6,2,30,6,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 1–1,Arsenal,Southampton,Y*,"LW,FW",90,1,0,0,0,1,1,0,0,39,16,0,1,1,0.3,0.3,0.1,2,1,18,29,62.1,3,29,6,0,0,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 3–1,Arsenal,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,W 1–0,Arsenal,Brighton,Y*,FW,90,0,0,0,0,3,1,0,0,34,8,0,0,1,0.6,0.6,0.0,1,0,19,21,90.5,2,18,4,0,0,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Away,W 4–0,Arsenal,West Brom,Y*,LW,90,0,0,0,0,3,1,0,0,56,12,0,0,2,0.8,0.8,0.0,2,1,35,44,79.5,5,43,11,1,1,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 2–0,Arsenal,Newcastle Utd,Y*,FW,120,1,0,0,0,6,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Premier League,Matchweek 18,Home,D 0–0,Arsenal,Crystal Palace,Y*,LW,90,0,0,0,0,2,1,0,0,48,10,0,1,3,0.1,0.1,0.0,1,0,28,41,68.3,0,33,7,2,2,Match Report
+2020-2021,2021-01-18,Mon,Premier League,Matchweek 19,Home,W 3–0,Arsenal,Newcastle Utd,Y*,LW,78,2,0,0,0,5,2,0,0,36,4,0,1,1,1.4,1.4,0.0,2,1,19,25,76.0,3,22,6,0,2,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,Arsenal,Wolves,N,"LM,LW",30,0,0,0,0,1,0,0,0,12,9,1,0,0,0.1,0.1,0.0,1,0,8,8,100.0,0,7,0,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,L 0–1,Arsenal,Aston Villa,N,FW,32,0,0,0,0,1,0,0,0,8,4,0,0,0,0.2,0.2,0.0,0,0,4,5,80.0,0,4,0,0,0,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,W 4–2,Arsenal,Leeds United,Y*,FW,90,3,0,1,1,4,2,0,0,36,19,0,0,1,1.9,1.1,0.1,3,0,18,25,72.0,2,26,4,1,2,Match Report
+2020-2021,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,D 1–1,eng Arsenal,pt Benfica,Y*,FW,76,0,0,0,0,2,0,0,0,20,10,0,0,1,0.8,0.8,0.0,0,0,12,15,80.0,2,13,1,0,1,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,L 0–1,Arsenal,Manchester City,Y*,"FW,LM",90,0,0,0,0,0,0,0,0,20,11,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,0,16,2,0,1,Match Report
+2020-2021,2021-02-25,Thu,Europa Lg,Round of 32,Neutral,W 3–2,eng Arsenal,pt Benfica,Y*,"FW,RW",90,2,0,0,0,3,2,0,0,26,12,0,1,1,0.8,0.8,0.0,0,0,12,15,80.0,0,12,1,0,2,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 3–1,Arsenal,Leicester City,N,FW,7,0,0,0,0,1,0,0,0,6,2,0,0,1,0.1,0.1,0.0,1,0,2,3,66.7,0,5,1,1,2,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,D 1–1,Arsenal,Burnley,Y*,FW,90,1,0,0,0,4,1,0,0,28,13,0,1,0,0.8,0.8,0.0,1,1,17,21,81.0,1,20,3,1,2,Match Report
+2020-2021,2021-03-11,Thu,Europa Lg,Round of 16,Away,W 3–1,eng Arsenal,gr Olympiacos,Y*,FW,87,0,0,0,0,3,2,0,0,28,11,0,0,1,0.3,0.3,0.1,3,0,18,21,85.7,1,18,2,1,1,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Home,W 2–1,Arsenal,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-18,Thu,Europa Lg,Round of 16,Home,L 0–1,eng Arsenal,gr Olympiacos,Y*,FW,90,0,0,0,0,4,1,0,0,32,13,1,0,1,0.9,0.9,0.0,2,0,12,21,57.1,1,15,4,0,1,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 29,Away,D 3–3,Arsenal,West Ham,Y*,RW,80,0,0,0,0,0,0,0,0,36,13,1,0,1,0.0,0.0,0.0,1,0,17,28,60.7,1,22,3,1,2,Match Report
+2020-2021,2021-03-25,Thu,Africa Cup of Nations qualification,Group stage,Home,W 3–0,ga Gabon,cd Congo DR,Y*,FW,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Home,L 0–3,Arsenal,Liverpool,Y*,LW,76,0,0,0,0,0,0,0,0,37,16,4,1,3,0.0,0.0,0.3,2,0,20,28,71.4,1,26,2,0,1,Match Report
+2020-2021,2021-04-08,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Arsenal,cz Slavia Prague,N,FW,13,0,1,0,0,1,0,0,0,8,2,0,0,0,0.3,0.3,0.3,1,1,5,6,83.3,3,6,0,0,1,Match Report

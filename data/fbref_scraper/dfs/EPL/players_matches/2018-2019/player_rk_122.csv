@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,D 2–2,Everton,Wolves,N,LW,5,0,0,0,0,0,0,0,0,2,7,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,D 2–2,Everton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-29,Wed,EFL Cup,Second round,Home,W 3–1,Everton,Rotherham Utd,Y,LB,90,0,1,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,D 1–1,Everton,Huddersfield,Y,LB,75,0,1,0,0,0,0,0,0,62,10,0,0,4,0.0,0.0,0.1,3,2,45,56,80.4,7,43,4,3,3,Match Report
+2018-2019,2018-09-16,Sun,Premier League,Matchweek 5,Home,L 1–3,Everton,West Ham,Y,LB,90,0,0,0,0,4,1,0,0,75,26,6,1,2,0.1,0.1,0.8,5,0,43,59,72.9,5,36,4,1,1,Match Report
+2018-2019,2018-09-23,Sun,Premier League,Matchweek 6,Away,L 0–2,Everton,Arsenal,Y,LB,90,0,0,0,0,1,1,1,0,66,15,1,2,2,0.0,0.0,0.0,1,0,35,53,66.0,4,33,2,2,3,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 3–0,Everton,Fulham,Y,LB,90,0,0,0,0,0,0,0,0,72,21,4,2,1,0.0,0.0,0.1,2,0,44,65,67.7,2,40,4,0,0,Match Report
+2018-2019,2018-10-02,Tue,EFL Cup,Third round,Home,W 1 (3)–1 (4),Everton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 2–1,Everton,Leicester City,Y,LB,90,0,0,0,0,2,1,0,0,86,8,4,3,4,0.0,0.0,0.0,1,0,49,73,67.1,9,40,7,0,0,Match Report
+2018-2019,2018-10-11,Thu,Friendlies (M),Friendlies (M),Home,D 2–2,fr France,is Iceland,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,UEFA Nations League,League A,Home,W 2–1,fr France,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-21,Sun,Premier League,Matchweek 9,Home,W 2–0,Everton,Crystal Palace,Y,LB,90,0,0,0,0,2,0,0,0,96,8,3,0,0,0.1,0.1,0.2,7,0,65,79,82.3,11,66,10,0,3,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Away,L 1–2,Everton,Manchester Utd,Y,LB,90,0,0,0,0,1,0,0,0,60,7,1,0,2,0.0,0.0,0.1,2,0,38,53,71.7,5,34,5,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,W 3–1,Everton,Brighton,Y,LB,90,0,0,0,0,1,0,0,0,72,2,3,2,0,0.0,0.0,0.3,3,0,46,61,75.4,5,37,6,1,1,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,D 0–0,Everton,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,51,8,2,1,2,0.0,0.0,0.2,3,0,29,39,74.4,1,23,2,0,0,Match Report
+2018-2019,2018-11-16,Fri,UEFA Nations League,League A,Away,L 0–2,fr France,nl Netherlands,Y,LB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,fr France,uy Uruguay,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,W 1–0,Everton,Cardiff City,Y,LB,90,0,0,0,0,0,0,0,0,62,8,2,1,1,0.0,0.0,0.0,3,0,42,56,75.0,2,30,1,1,1,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Away,L 0–1,Everton,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,64,11,2,2,3,0.0,0.0,0.1,2,0,35,47,74.5,1,26,5,0,0,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 1–1,Everton,Newcastle Utd,Y,LB,90,0,0,0,0,3,1,0,0,114,10,1,2,0,0.1,0.1,0.8,4,0,64,94,68.1,12,65,9,0,3,Match Report
+2018-2019,2018-12-10,Mon,Premier League,Matchweek 16,Home,D 2–2,Everton,Watford,Y,LB,90,1,0,0,0,2,1,0,0,77,13,4,2,0,0.1,0.1,0.2,3,0,50,66,75.8,7,47,6,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,L 1–3,Everton,Manchester City,Y,"WB,LB",90,0,1,0,0,0,0,1,0,61,20,2,1,4,0.0,0.0,0.4,4,1,35,46,76.1,3,24,3,1,2,Match Report
+2018-2019,2018-12-23,Sun,Premier League,Matchweek 18,Home,L 2–6,Everton,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,88,20,3,1,3,0.0,0.0,0.0,2,1,55,79,69.6,5,58,7,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,W 5–1,Everton,Burnley,Y,WB,90,2,0,0,0,2,2,0,0,68,16,1,2,1,0.1,0.1,0.0,2,0,40,56,71.4,5,38,0,0,1,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,L 0–1,Everton,Brighton,Y,"LM,LB",90,0,0,0,0,2,0,0,0,96,18,5,2,4,0.1,0.1,0.1,1,0,42,66,63.6,3,27,1,0,1,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Home,L 0–1,Everton,Leicester City,Y,LB,90,0,0,0,0,2,0,1,0,79,24,0,0,3,0.1,0.1,0.1,4,0,47,69,68.1,5,47,6,0,0,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Home,W 2–0,Everton,Bournemouth,Y,LB,90,0,1,0,0,2,0,0,0,65,18,4,0,2,0.1,0.1,0.3,6,1,37,56,66.1,7,32,4,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 1–2,Everton,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,94,23,4,1,4,0.0,0.0,0.2,2,1,52,82,63.4,6,50,6,1,1,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Away,L 2–3,Everton,Millwall,Y,LB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,W 1–0,Everton,Huddersfield,N,LB,11,0,0,0,0,0,0,0,1,11,4,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,6,1,0,0,Match Report
+2018-2019,2019-02-06,Wed,Premier League,Matchweek 27,Home,L 0–2,Everton,Manchester City,Y,LB,90,0,0,0,0,1,0,0,0,52,25,3,3,2,0.0,0.0,0.0,0,0,25,38,65.8,0,27,1,1,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,L 0–1,Everton,Watford,Y,LB,90,0,0,0,0,1,0,0,0,58,16,1,0,2,0.1,0.1,0.2,3,0,34,50,68.0,2,22,2,0,0,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Away,W 3–0,Everton,Cardiff City,Y,LB,90,0,0,0,0,0,0,1,0,91,15,3,0,1,0.0,0.0,0.0,1,0,51,81,63.0,4,26,1,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,D 0–0,Everton,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,65,17,3,2,3,0.0,0.0,0.3,4,0,32,50,64.0,4,21,3,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 2–3,Everton,Newcastle Utd,Y,"LB,WB",90,0,1,0,0,0,0,0,0,82,11,2,2,4,0.0,0.0,0.2,2,1,51,69,73.9,4,51,10,0,0,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Home,W 2–0,Everton,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,51,11,1,2,3,0.0,0.0,0.3,5,0,31,41,75.6,4,20,2,0,1,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,W 2–0,Everton,West Ham,Y,LB,90,0,0,0,0,1,1,0,0,64,16,0,2,5,0.0,0.0,0.2,2,0,33,49,67.3,1,21,2,2,2,Match Report
+2018-2019,2019-04-07,Sun,Premier League,Matchweek 33,Home,W 1–0,Everton,Arsenal,Y,LB,90,0,0,0,0,0,0,0,0,70,22,4,1,2,0.0,0.0,0.1,6,0,40,59,67.8,7,32,8,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 0–2,Everton,Fulham,Y,LB,90,0,0,0,0,0,0,0,0,85,9,2,0,0,0.0,0.0,0.1,2,0,52,81,64.2,9,52,10,0,0,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Home,W 4–0,Everton,Manchester Utd,Y,LB,84,1,0,0,0,2,1,0,0,63,8,2,3,0,0.0,0.0,0.3,3,1,35,49,71.4,3,26,3,0,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,D 0–0,Everton,Crystal Palace,Y,LB,90,0,0,0,0,2,0,0,0,92,19,3,2,3,0.0,0.0,0.1,3,0,58,78,74.4,9,55,7,0,1,Match Report
+2018-2019,2019-05-03,Fri,Premier League,Matchweek 37,Home,W 2–0,Everton,Burnley,Y,LB,90,0,0,0,0,2,1,0,0,94,12,2,2,2,0.0,0.0,0.2,9,1,65,81,80.2,2,63,7,1,4,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,D 2–2,Everton,Tottenham,Y,LB,90,0,0,0,0,1,0,1,0,86,26,5,1,5,0.0,0.0,0.2,3,0,51,67,76.1,6,50,7,0,2,Match Report
+2018-2019,2019-06-02,Sun,Friendlies (M),Friendlies (M),Home,W 2–0,fr France,bo Bolivia,Y,LB,78,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Away,L 0–2,fr France,tr Turkey,Y,LB,45,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-11,Tue,Euro Qualifying,Group stage,Away,W 4–0,fr France,ad Andorra,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

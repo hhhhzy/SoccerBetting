@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-10,Fri,Premier League,Matchweek 1,Away,L 1–2,Leicester City,Manchester Utd,Y,AM,90,0,0,0,0,3,1,0,0,53,16,2,2,0,0.1,0.1,0.0,0,0,30,40,75.0,4,47,12,2,2,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 2–0,Leicester City,Wolves,Y,"LW,FW",81,0,0,0,0,1,0,0,0,53,30,0,0,2,0.0,0.0,0.0,0,0,31,37,83.8,5,47,8,3,6,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,W 2–1,Leicester City,Southampton,Y,"LW,FW",87,1,0,0,0,2,1,0,0,37,11,0,1,0,0.1,0.1,0.0,1,0,22,26,84.6,3,25,4,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,W 4–0,Leicester City,Fleetwood Town,N,,41,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,L 1–2,Leicester City,Liverpool,Y,FW,75,0,0,0,0,2,1,0,0,24,18,1,1,2,0.3,0.3,0.1,3,0,13,16,81.3,0,21,3,1,1,Match Report
+2018-2019,2018-09-11,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,eng England,ch Switzerland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 2–4,Leicester City,Bournemouth,Y,LW,60,0,0,0,0,0,0,0,0,30,4,1,0,0,0.0,0.0,0.0,0,0,20,24,83.3,2,24,3,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,W 3–1,Leicester City,Huddersfield,N,RW,45,0,0,0,0,2,1,0,0,24,1,2,1,1,0.1,0.1,0.0,1,0,12,18,66.7,0,23,3,1,1,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,D 0 (3)–0 (1),Leicester City,Wolves,N,,60,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,D 1–1,Leicester City,West Ham,N,"LW,FW",30,0,1,0,0,0,0,0,0,23,3,0,0,1,0.0,0.0,0.0,3,1,14,20,70.0,0,23,5,3,3,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 1–0,Leicester City,Cardiff City,Y,LW,69,1,0,0,0,1,1,1,0,36,7,1,0,2,0.2,0.2,0.0,0,0,16,26,61.5,4,25,3,1,2,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 0–0,Leicester City,Burnley,Y,LW,83,0,0,0,0,2,1,0,0,43,0,1,0,2,0.4,0.4,0.0,3,0,24,35,68.6,4,37,9,1,1,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,D 1–1,Leicester City,Brighton,Y,"LM,LW",55,0,0,0,0,0,0,0,0,19,7,2,1,0,0.0,0.0,0.0,0,0,13,15,86.7,1,20,3,2,2,Match Report
+2018-2019,2018-11-27,Tue,EFL Cup,Fourth round,Home,W 0 (6)–0 (5),Leicester City,Southampton,Y,LM,120,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 2–0,Leicester City,Watford,Y,LM,68,0,0,0,0,2,0,0,0,24,12,1,2,1,0.1,0.1,0.0,0,0,9,14,64.3,0,18,4,2,2,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,D 1–1,Leicester City,Fulham,N,"LW,RW",36,0,0,0,0,2,1,0,0,15,6,0,0,0,0.1,0.1,0.0,3,1,9,11,81.8,1,15,3,2,3,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,L 0–2,Leicester City,Tottenham,Y,"RW,FW",90,0,0,0,0,2,1,1,0,45,26,3,0,0,0.1,0.1,0.0,2,0,23,33,69.7,2,37,9,3,3,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,L 0–1,Leicester City,Crystal Palace,Y,"LW,AM",72,0,0,0,0,3,0,0,0,34,20,1,0,1,0.2,0.2,0.1,2,0,14,18,77.8,0,28,3,2,3,Match Report
+2018-2019,2018-12-18,Tue,EFL Cup,Quarter-finals,Home,L 1 (1)–1 (3),Leicester City,Manchester City,Y,LM,120,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 1–0,Leicester City,Chelsea,N,LW,9,0,0,0,0,0,0,0,0,8,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,2,0,1,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 2–1,Leicester City,Manchester City,N,RW,28,0,0,0,0,1,0,0,0,13,9,0,0,1,0.1,0.1,0.0,0,0,7,9,77.8,0,9,2,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,L 0–1,Leicester City,Cardiff City,Y,LW,78,0,0,0,0,2,1,0,0,28,11,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,1,26,5,1,4,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Away,W 1–0,Leicester City,Everton,N,FW,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2019-01-06,Sun,FA Cup,Third round,Away,L 1–2,Leicester City,Newport County,N,,31,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,L 1–2,Leicester City,Southampton,N,"RW,LW",45,0,0,0,0,1,0,0,0,30,6,0,0,0,0.0,0.0,0.2,4,0,22,29,75.9,1,32,11,4,4,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 3–4,Leicester City,Wolves,Y,"AM,RW",90,1,0,0,0,6,3,0,0,53,27,2,0,0,0.4,0.4,0.0,3,1,17,35,48.6,2,44,3,6,7,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Away,D 1–1,Leicester City,Liverpool,Y,"RW,LW,AM",83,0,0,0,0,1,1,0,0,29,22,0,0,1,0.1,0.1,0.0,0,0,14,26,53.8,1,27,6,3,4,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Home,L 0–1,Leicester City,Manchester Utd,Y,RW,73,0,0,0,0,1,0,0,0,33,21,0,1,4,0.0,0.0,0.0,2,0,18,22,81.8,2,26,1,0,0,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Away,L 1–3,Leicester City,Tottenham,Y,FW,58,0,0,0,0,2,2,0,0,19,29,0,0,0,0.2,0.2,0.0,1,0,10,12,83.3,2,17,3,1,2,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,L 1–4,Leicester City,Crystal Palace,N,RW,45,0,0,0,0,1,0,0,0,19,13,0,0,0,0.1,0.1,0.0,2,0,13,16,81.3,0,17,7,1,1,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–1,Leicester City,Brighton,Y,RW,90,1,0,0,0,3,2,0,0,44,19,0,2,1,0.7,0.7,0.2,2,0,25,32,78.1,2,36,6,1,3,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,L 1–2,Leicester City,Watford,N,LW,25,0,0,0,0,1,0,0,0,17,3,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,15,2,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–1,Leicester City,Fulham,Y,RW,71,0,0,0,0,0,0,0,0,41,22,1,0,1,0.0,0.0,0.0,5,0,24,28,85.7,1,36,4,1,4,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,W 2–1,Leicester City,Burnley,Y,RM,5,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,1,0,0,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–0,Leicester City,Bournemouth,Y,"RM,RW",88,0,0,0,0,1,0,0,0,48,16,0,0,1,0.0,0.0,0.0,1,1,28,39,71.8,2,43,8,2,3,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Away,W 4–1,Leicester City,Huddersfield,Y,RM,90,0,0,0,0,3,2,0,0,54,18,1,0,3,0.6,0.6,0.0,2,1,27,34,79.4,3,44,8,1,3,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Home,L 0–1,Leicester City,Newcastle Utd,Y,RM,71,0,0,0,0,0,0,0,0,32,7,0,0,1,0.0,0.0,0.0,0,0,16,26,61.5,0,22,1,1,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,D 2–2,Leicester City,West Ham,Y,LM,83,0,0,0,0,0,0,0,0,33,10,0,1,0,0.0,0.0,0.0,1,0,16,23,69.6,1,30,8,1,3,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Home,W 3–0,Leicester City,Arsenal,N,RM,5,0,0,0,0,1,0,0,0,4,5,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,1,0,0,Match Report
+2018-2019,2019-05-06,Mon,Premier League,Matchweek 37,Away,L 0–1,Leicester City,Manchester City,N,RM,6,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 0–0,Leicester City,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

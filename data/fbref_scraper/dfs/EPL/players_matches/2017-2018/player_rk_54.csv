@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Stoke City,Everton,Y,"WB,RW",90,0,0,0,0,2,0,0,0,31,2,0,2,1,0.1,0.1,0.0,2,0,16,23,69.6,6,18,5,1,2,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,W 1–0,Stoke City,Arsenal,Y,RM,90,0,0,0,0,1,0,0,0,31,15,2,1,3,0.0,0.0,0.0,1,0,5,17,29.4,1,10,1,1,1,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,D 2–2,Stoke City,Manchester Utd,Y,RM,90,0,1,0,0,0,0,0,0,28,8,2,0,0,0.0,0.0,0.0,0,0,14,23,60.9,3,15,1,2,2,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,L 1–2,Stoke City,Newcastle Utd,Y,"RM,FW",90,0,0,0,0,3,1,0,0,57,3,1,0,2,0.3,0.3,0.0,0,0,31,45,68.9,3,25,1,0,0,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,L 0–2,Stoke City,Bristol City,N,,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,L 0–4,Stoke City,Chelsea,Y,RM,90,0,0,0,0,2,0,0,0,46,6,1,0,2,0.2,0.2,0.0,0,0,23,37,62.2,5,24,2,0,1,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,W 2–1,Stoke City,Southampton,Y,RM,89,1,0,0,0,3,1,0,0,40,8,7,1,1,0.2,0.2,0.0,2,0,14,27,51.9,2,14,2,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 2–7,Stoke City,Manchester City,Y,"RM,FW",90,1,0,0,0,3,2,0,0,25,9,2,0,0,0.4,0.4,0.0,1,1,7,12,58.3,0,11,2,0,1,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Stoke City,Bournemouth,Y,"FW,RM",90,1,0,0,0,2,2,0,0,33,13,1,1,1,0.6,0.6,0.0,0,0,15,23,65.2,3,22,1,0,1,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,W 1–0,Stoke City,Watford,Y,RM,90,0,0,0,0,0,0,1,0,41,12,1,3,1,0.0,0.0,0.1,1,0,9,25,36.0,3,20,2,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,D 2–2,Stoke City,Leicester City,Y,"WB,FW",85,0,0,0,0,0,0,0,0,29,12,1,1,0,0.0,0.0,0.0,1,0,15,22,68.2,1,17,3,0,1,Match Report
+2017-2018,2017-11-20,Mon,Premier League,Matchweek 12,Away,D 2–2,Stoke City,Brighton,Y,RM,90,0,0,0,0,3,0,0,0,41,13,2,3,2,0.1,0.1,0.0,0,0,10,22,45.5,2,21,4,0,1,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,L 1–2,Stoke City,Crystal Palace,Y,RM,73,0,0,0,0,2,0,0,0,49,12,2,1,1,0.1,0.1,0.0,0,0,27,36,75.0,7,31,4,0,3,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,L 0–3,Stoke City,Liverpool,Y,WB,90,0,0,0,0,2,0,0,0,29,17,2,0,0,0.1,0.1,0.0,2,0,8,17,47.1,1,16,0,1,3,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,W 2–1,Stoke City,Swansea City,Y,AM,90,1,0,0,0,3,1,0,0,30,24,2,1,1,0.4,0.4,0.0,3,2,8,15,53.3,0,17,2,2,2,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 1–5,Stoke City,Tottenham,Y,"FW,RW",90,0,0,0,0,0,0,0,0,27,19,0,0,1,0.0,0.0,0.2,1,0,10,19,52.6,1,14,2,1,1,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Away,L 0–1,Stoke City,Burnley,Y,FW,90,0,0,0,0,3,1,0,0,32,9,1,0,2,0.1,0.1,0.1,2,0,12,20,60.0,0,14,1,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,L 0–3,Stoke City,West Ham,Y,FW,61,0,0,0,0,1,0,0,0,18,8,1,0,0,0.1,0.1,0.1,3,0,6,10,60.0,1,13,2,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,W 3–1,Stoke City,West Brom,N,FW,24,0,0,0,0,1,1,0,0,9,18,1,0,0,0.3,0.3,0.0,2,1,5,6,83.3,1,6,0,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 1–1,Stoke City,Huddersfield,N,AM,26,0,0,0,0,0,0,1,0,12,4,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,1,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,L 0–5,Stoke City,Chelsea,Y,RW,90,0,0,0,0,0,0,1,0,45,7,7,2,2,0.0,0.0,0.0,0,0,15,28,53.6,4,22,2,0,4,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Home,L 0–1,Stoke City,Newcastle Utd,N,RW,34,0,0,0,0,4,2,0,0,19,0,0,0,0,1.1,1.1,0.0,2,0,5,8,62.5,1,11,0,1,2,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,L 1–2,Stoke City,Coventry City,Y,FW,90,0,0,0,0,8,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-15,Mon,Premier League,Matchweek 23,Away,L 0–3,Stoke City,Manchester Utd,N,FW,21,0,0,0,0,2,1,0,0,6,4,0,0,0,0.4,0.4,0.0,1,0,1,2,50.0,0,3,0,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,W 2–0,Stoke City,Huddersfield,Y,FW,76,1,0,0,0,3,2,0,0,36,22,0,0,3,0.8,0.8,0.1,2,0,9,20,45.0,2,8,1,0,2,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,D 0–0,Stoke City,Watford,Y,FW,84,0,0,0,0,1,0,1,0,24,17,0,0,0,0.1,0.1,0.0,3,0,5,17,29.4,1,7,2,1,1,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–2,Stoke City,Bournemouth,N,FW,8,0,0,0,0,0,0,0,0,3,1,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,D 1–1,Stoke City,Brighton,Y,AM,90,0,0,0,0,2,0,0,0,28,9,0,1,0,0.1,0.1,0.0,1,0,11,23,47.8,2,13,0,0,0,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,D 1–1,Stoke City,Leicester City,Y,FW,63,0,0,0,0,1,0,1,0,21,23,1,1,0,0.0,0.0,0.0,0,0,4,12,33.3,1,6,1,0,0,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,D 0–0,Stoke City,Southampton,Y,FW,22,0,0,0,0,0,0,0,0,2,6,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Home,D 0–0,sn Senegal,ba Bosnia and Herzegovina,Y,FW,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-01,Sun,Premier League,Matchweek 32,Away,L 0–3,Stoke City,Arsenal,Y,FW,60,0,0,0,0,2,0,0,0,26,3,0,0,1,0.1,0.1,0.1,3,0,9,19,47.4,0,7,0,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,L 1–2,Stoke City,Tottenham,Y,FW,90,1,0,0,0,3,2,0,0,21,21,1,0,0,0.8,0.8,0.0,2,0,4,13,30.8,1,6,2,0,1,Match Report
+2017-2018,2018-04-16,Mon,Premier League,Matchweek 34,Away,D 1–1,Stoke City,West Ham,Y,"FW,LW",86,0,0,0,0,4,2,0,0,30,2,0,0,2,0.4,0.4,0.1,3,0,9,16,56.3,2,10,2,0,0,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Home,D 1–1,Stoke City,Burnley,Y,FW,74,0,1,0,0,1,1,0,0,21,12,1,2,0,0.1,0.1,0.1,2,1,12,15,80.0,1,17,1,1,1,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,D 0–0,Stoke City,Liverpool,Y,"FW,RM",90,0,0,0,0,2,0,1,0,31,12,1,0,3,0.2,0.2,0.0,1,0,9,17,52.9,0,15,0,0,0,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,L 1–2,Stoke City,Crystal Palace,Y,FW,90,0,0,0,0,2,1,0,0,27,22,1,0,2,0.2,0.2,0.0,0,0,7,18,38.9,0,11,0,0,2,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 2–1,Stoke City,Swansea City,Y,FW,90,0,0,0,0,1,0,0,0,33,18,2,0,1,0.0,0.0,0.0,1,0,18,23,78.3,1,21,4,0,2,Match Report
+2017-2018,2018-05-31,Thu,Friendlies (M),Friendlies (M),Away,D 0–0,sn Senegal,lu Luxembourg,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-08,Fri,Friendlies (M),Friendlies (M),Away,L 1–2,sn Senegal,hr Croatia,N,,16,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-11,Mon,Friendlies (M),Friendlies (M),Away,W 2–0,sn Senegal,kr Korea Republic,N,,10,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-19,Tue,FIFA World Cup,Group stage,Neutral,W 2–1,sn Senegal,pl Poland,Y,FW,61,0,0,0,0,1,0,0,0,16,23,2,0,1,0.1,0.1,0.0,1,0,6,8,75.0,2,9,0,0,0,Match Report
+2017-2018,2018-06-24,Sun,FIFA World Cup,Group stage,Neutral,D 2–2,sn Senegal,jp Japan,N,FW,5,0,0,0,0,1,0,0,0,2,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Match Report
+2017-2018,2018-06-28,Thu,FIFA World Cup,Group stage,Neutral,L 0–1,sn Senegal,co Colombia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

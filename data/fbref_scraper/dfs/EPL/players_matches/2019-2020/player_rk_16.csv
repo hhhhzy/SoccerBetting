@@ -1,0 +1,28 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-12,Mon,PL2 — Div. 1,Matchweek 1,Home,W 2–0,Brighton,Wolves,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,W 2–1,Brighton,Bristol Rovers,Y,RM,90,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,D 1–1,Brighton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Away,D 0–0,Brighton,Newcastle Utd,Y,"WB,AM,LW",90,0,0,0,0,0,0,0,0,59,14,0,0,2,0.0,0.0,0.0,3,0,36,43,83.7,3,49,6,4,7,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 0–2,Brighton,Chelsea,Y,WB,90,0,0,0,0,1,0,1,0,48,31,2,1,1,0.0,0.0,0.0,3,0,31,35,88.6,1,35,3,4,4,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,W 3–0,Brighton,Tottenham,Y,"DM,WB",87,0,0,0,0,0,0,0,0,59,18,5,5,3,0.0,0.0,0.0,2,0,38,41,92.7,4,41,5,1,2,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,N,"LW,FW",10,0,0,0,0,0,0,0,0,6,4,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,1,2,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Home,W 3–2,Brighton,Everton,Y,DM,90,0,0,0,0,3,1,0,0,54,18,0,1,1,0.3,0.3,0.0,2,0,36,45,80.0,4,51,6,4,5,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 2–0,Brighton,Norwich City,Y,LM,90,0,0,0,0,3,1,0,0,49,10,1,1,1,0.4,0.4,0.0,3,1,31,34,91.2,6,47,9,4,5,Match Report
+2019-2020,2019-11-10,Sun,Premier League,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,Y,"RM,CM",90,0,0,0,0,0,0,0,0,52,15,7,0,0,0.0,0.0,0.1,2,0,37,40,92.5,6,41,11,2,3,Match Report
+2019-2020,2019-11-15,Fri,Friendlies (M),Friendlies (M),Home,W 1–0,co Colombia,pe Peru,N,,17,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Friendlies (M),Friendlies (M),Neutral,W 1–0,co Colombia,ec Ecuador,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,L 1–2,Brighton,Liverpool,N,RB,22,0,0,0,0,0,0,0,0,21,1,1,0,0,0.0,0.0,0.0,2,0,15,19,78.9,0,14,4,0,0,Match Report
+2019-2020,2019-12-05,Thu,Premier League,Matchweek 15,Away,W 2–1,Brighton,Arsenal,Y,"RB,RM",87,0,0,0,0,0,0,0,0,47,14,0,0,3,0.0,0.0,0.2,1,0,34,38,89.5,2,34,8,1,2,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Home,D 2–2,Brighton,Wolves,Y,RB,90,0,0,0,0,1,0,0,0,81,11,0,1,4,0.2,0.2,0.1,3,0,61,70,87.1,6,61,11,1,2,Match Report
+2019-2020,2019-12-16,Mon,Premier League,Matchweek 17,Away,D 1–1,Brighton,Crystal Palace,N,LW,7,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,1,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 0–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 1–2,Brighton,Tottenham,Y,"DM,RB,CM",90,0,0,0,0,2,1,0,0,53,23,2,0,2,0.1,0.1,0.0,2,0,35,43,81.4,3,41,5,3,4,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,W 2–0,Brighton,Bournemouth,N,"RW,RM",7,0,0,0,0,0,0,0,0,5,2,0,0,0,0.0,0.0,0.1,2,0,2,5,40.0,1,2,1,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,D 1–1,Brighton,Chelsea,Y,CM,90,0,0,0,0,3,0,0,0,57,21,3,0,2,0.1,0.1,0.0,0,0,28,37,75.7,0,36,2,1,3,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,L 0–1,Brighton,Sheffield Weds,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,L 0–1,Brighton,Everton,N,"DM,CM",29,0,0,0,0,0,0,0,0,36,8,1,0,0,0.0,0.0,0.0,2,0,29,32,90.6,3,28,7,2,3,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 1–1,Brighton,Aston Villa,Y,"RB,CM",90,0,0,0,0,0,0,0,0,70,19,1,1,3,0.0,0.0,0.0,1,0,46,55,83.6,5,48,7,2,3,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,L 1–3,Brighton,Bournemouth,Y,"RB,DM",90,0,0,0,0,0,0,0,0,93,18,2,0,4,0.0,0.0,0.1,2,0,68,84,81.0,8,50,8,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 3–3,Brighton,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Home,D 1–1,Brighton,Watford,N,AM,30,0,0,0,0,0,0,0,0,26,3,1,0,0,0.0,0.0,0.0,0,0,19,22,86.4,2,20,3,0,1,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,L 0–1,Brighton,Crystal Palace,N,"RB,DM",9,0,0,0,0,0,0,0,0,18,4,2,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,10,3,3,4,Match Report

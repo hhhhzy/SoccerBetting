@@ -1,0 +1,48 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-06,Sun,Community Shield,FA Community Shield,Neutral,W 1 (4)–1 (1),Arsenal,Chelsea,Y,DM,120,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-11,Fri,Premier League,Matchweek 1,Home,W 4–3,Arsenal,Leicester City,Y,"WB,LB",90,0,0,0,0,1,1,0,0,75,15,0,1,0,0.2,0.2,0.0,6,1,56,65,86.2,4,59,2,1,4,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–1,Arsenal,Stoke City,Y,"LM,LB",90,0,0,0,0,2,1,0,0,83,5,2,0,0,0.1,0.1,0.0,5,0,61,71,85.9,5,52,4,0,2,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–4,Arsenal,Liverpool,Y,"RB,LM",90,0,0,0,0,0,0,0,0,58,11,0,0,1,0.0,0.0,0.0,1,0,37,49,75.5,4,35,7,2,4,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,W 3–0,Arsenal,Bournemouth,Y,RM,90,0,0,0,0,0,0,0,0,64,14,1,2,2,0.0,0.0,0.1,2,0,47,54,87.0,8,47,5,1,2,Match Report
+2017-2018,2017-09-14,Thu,Europa Lg,Group stage,Home,W 3–1,eng Arsenal,de Köln,Y,RM,90,1,0,0,0,1,1,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Away,D 0–0,Arsenal,Chelsea,Y,"RM,RB",90,0,0,0,0,0,0,1,0,67,10,1,2,5,0.0,0.0,0.4,3,0,46,59,78.0,2,46,5,0,0,Match Report
+2017-2018,2017-09-25,Mon,Premier League,Matchweek 6,Home,W 2–0,Arsenal,West Brom,Y,RM,90,0,0,0,0,1,0,0,0,83,5,1,1,0,0.0,0.0,0.1,2,0,66,76,86.8,6,51,4,0,0,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,W 2–0,Arsenal,Brighton,Y,RM,90,0,0,0,0,1,0,0,0,63,16,2,2,4,0.0,0.0,0.0,5,1,40,52,76.9,3,38,4,1,1,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 1–2,Arsenal,Watford,Y,RM,90,0,0,0,0,1,0,0,0,79,18,3,1,1,0.1,0.1,0.0,1,0,55,69,79.7,4,56,10,0,0,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Away,W 5–2,Arsenal,Everton,Y,WB,90,0,0,0,0,3,1,0,0,56,5,0,0,3,0.2,0.2,0.2,4,0,39,48,81.3,3,38,4,3,3,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,W 2–1,Arsenal,Swansea City,Y,RM,90,0,0,0,0,2,0,0,0,93,9,1,0,1,0.2,0.2,0.1,2,0,69,85,81.2,4,59,10,1,2,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 1–3,Arsenal,Manchester City,Y,"RM,RB",90,0,0,0,0,0,0,0,0,51,8,0,1,1,0.0,0.0,0.0,1,0,36,44,81.8,3,24,4,0,1,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 2–0,Arsenal,Tottenham,Y,RM,90,0,0,0,0,1,0,0,0,60,11,0,3,0,0.0,0.0,0.0,3,1,36,52,69.2,4,40,6,1,1,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,W 1–0,Arsenal,Burnley,Y,RM,90,0,0,0,0,1,0,0,0,66,0,2,0,0,0.0,0.0,0.1,3,0,48,56,85.7,2,46,4,1,3,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 5–0,Arsenal,Huddersfield,Y,RM,90,0,0,0,0,0,0,0,0,57,13,1,0,2,0.0,0.0,0.2,4,0,47,52,90.4,4,45,6,1,1,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,L 1–3,Arsenal,Manchester Utd,Y,"RB,WB",90,0,0,0,0,1,1,1,0,59,1,0,0,0,0.0,0.0,0.0,2,0,51,56,91.1,6,39,5,0,0,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,D 1–1,Arsenal,Southampton,Y,"WB,RB",90,0,0,0,0,0,0,1,0,90,12,3,0,2,0.0,0.0,0.1,1,0,74,80,92.5,5,67,5,1,3,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,D 0–0,Arsenal,West Ham,Y,RB,90,0,0,0,0,2,0,0,0,90,16,2,2,0,0.1,0.1,0.0,3,0,67,79,84.8,6,58,8,1,4,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,W 1–0,Arsenal,Newcastle Utd,Y,RB,90,0,0,0,0,2,0,0,0,108,12,2,3,3,0.2,0.2,0.0,2,0,75,94,79.8,7,60,11,0,1,Match Report
+2017-2018,2017-12-22,Fri,Premier League,Matchweek 19,Home,D 3–3,Arsenal,Liverpool,Y,RB,90,0,1,0,0,1,1,0,0,67,21,2,0,3,0.0,0.0,0.2,1,1,40,52,76.9,5,38,4,1,1,Match Report
+2017-2018,2017-12-28,Thu,Premier League,Matchweek 20,Away,W 3–2,Arsenal,Crystal Palace,Y,"WB,RB",90,0,0,0,0,1,1,0,0,76,14,2,0,1,0.0,0.0,0.1,1,0,43,62,69.4,3,39,2,0,2,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Away,D 1–1,Arsenal,West Brom,Y,"WB,RM",90,0,0,0,0,0,0,0,0,74,4,1,0,3,0.0,0.0,0.1,3,1,60,68,88.2,4,44,10,0,0,Match Report
+2017-2018,2018-01-03,Wed,Premier League,Matchweek 22,Home,D 2–2,Arsenal,Chelsea,Y,WB,90,1,0,0,0,2,1,0,0,68,6,4,0,2,0.2,0.2,0.3,3,0,45,57,78.9,1,49,4,2,3,Match Report
+2017-2018,2018-01-10,Wed,EFL Cup,Semi-finals,Away,D 0–0,Arsenal,Chelsea,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-14,Sun,Premier League,Matchweek 23,Away,L 1–2,Arsenal,Bournemouth,Y,"RM,RB",90,1,0,0,0,1,1,0,0,82,18,4,0,5,0.5,0.5,0.0,1,0,53,69,76.8,3,53,8,2,2,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,W 4–1,Arsenal,Crystal Palace,Y,RB,90,0,0,0,0,1,0,0,0,82,21,3,0,3,0.0,0.0,0.1,5,0,57,65,87.7,7,62,12,3,5,Match Report
+2017-2018,2018-01-24,Wed,EFL Cup,Semi-finals,Home,W 2–1,Arsenal,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Away,L 1–3,Arsenal,Swansea City,Y,RB,90,0,0,0,0,0,0,1,0,90,14,1,1,2,0.0,0.0,0.0,1,0,70,83,84.3,4,62,6,0,1,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 5–1,Arsenal,Everton,Y,RB,90,0,0,0,0,0,0,0,0,68,8,3,4,1,0.0,0.0,0.0,0,0,45,55,81.8,5,43,11,1,2,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,L 0–1,Arsenal,Tottenham,Y,RB,90,0,0,0,0,1,0,0,0,72,27,3,0,7,0.0,0.0,0.1,1,0,42,55,76.4,2,47,10,2,2,Match Report
+2017-2018,2018-02-15,Thu,Europa Lg,Round of 32,Neutral,W 3–0,eng Arsenal,se Östersund,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-22,Thu,Europa Lg,Round of 32,Neutral,L 1–2,eng Arsenal,se Östersund,Y,RB,90,0,1,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,EFL Cup,Final,Home,L 0–3,Arsenal,Manchester City,Y,DM,90,0,0,0,0,1,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-01,Thu,Premier League,Matchweek 28,Home,L 0–3,Arsenal,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,73,13,3,0,1,0.0,0.0,0.1,3,0,52,63,82.5,5,47,3,1,1,Match Report
+2017-2018,2018-03-04,Sun,Premier League,Matchweek 29,Away,L 1–2,Arsenal,Brighton,N,RB,8,0,0,0,0,0,0,0,0,10,3,0,0,0,0.0,0.0,0.2,1,0,6,7,85.7,0,4,1,0,1,Match Report
+2017-2018,2018-03-15,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Arsenal,it Milan,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-01,Sun,Premier League,Matchweek 32,Home,W 3–0,Arsenal,Stoke City,Y,RB,90,0,0,0,0,1,0,0,0,58,0,0,0,0,0.0,0.0,0.2,5,1,48,55,87.3,7,40,6,0,0,Match Report
+2017-2018,2018-04-05,Thu,Europa Lg,Quarter-finals,Home,W 4–1,eng Arsenal,ru CSKA Moscow,Y,RB,90,0,1,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Home,W 3–2,Arsenal,Southampton,Y,RB,73,0,0,0,0,0,0,1,0,79,16,0,1,2,0.0,0.0,0.0,1,0,57,73,78.1,4,63,10,0,0,Match Report
+2017-2018,2018-04-12,Thu,Europa Lg,Quarter-finals,Away,D 2–2,eng Arsenal,ru CSKA Moscow,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Home,W 4–1,Arsenal,West Ham,Y,"RB,RM",90,0,0,0,0,1,0,0,0,64,13,0,0,2,0.1,0.1,0.1,1,0,52,59,88.1,2,47,5,1,2,Match Report
+2017-2018,2018-04-26,Thu,Europa Lg,Semi-finals,Home,D 1–1,eng Arsenal,es Atlético Madrid,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Away,L 1–2,Arsenal,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,62,15,4,3,7,0.0,0.0,0.2,2,0,36,44,81.8,3,29,1,0,0,Match Report
+2017-2018,2018-05-03,Thu,Europa Lg,Semi-finals,Away,L 0–1,eng Arsenal,es Atlético Madrid,Y,RB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,W 5–0,Arsenal,Burnley,Y,RB,90,0,2,0,0,1,0,0,0,75,11,0,0,0,0.0,0.0,0.6,2,2,63,69,91.3,4,53,7,1,1,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 1–0,Arsenal,Huddersfield,Y,RB,90,0,0,0,0,0,0,0,0,56,12,1,1,3,0.0,0.0,0.0,0,0,39,44,88.6,2,29,4,0,1,Match Report

@@ -1,0 +1,59 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-06,Sun,Community Shield,FA Community Shield,Neutral,L 1 (1)–1 (4),Chelsea,Arsenal,Y,GK,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,L 2–3,Chelsea,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,22,0,0,0,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Away,W 2–1,Chelsea,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,17,0,0,0,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Home,W 2–0,Chelsea,Everton,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,1,0,38,46,82.6,0,27,0,0,0,Match Report
+2017-2018,2017-08-31,Thu,WCQ — UEFA (M),First round,Home,W 9–0,be Belgium,gi Gibraltar,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Away,W 2–1,be Belgium,gr Greece,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,W 2–1,Chelsea,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,15,0,0,0,Match Report
+2017-2018,2017-09-12,Tue,Champions Lg,Group stage,Home,W 6–0,eng Chelsea,az Qarabağ FK,Y,GK,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Home,D 0–0,Chelsea,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,24,0,0,0,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 4–0,Chelsea,Stoke City,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,17,0,0,0,Match Report
+2017-2018,2017-09-27,Wed,Champions Lg,Group stage,Away,W 2–1,eng Chelsea,es Atlético Madrid,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,L 0–1,Chelsea,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,17,0,0,0,Match Report
+2017-2018,2017-10-07,Sat,WCQ — UEFA (M),First round,Away,W 4–3,be Belgium,ba Bosnia and Herzegovina,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-10,Tue,WCQ — UEFA (M),First round,Home,W 4–0,be Belgium,cy Cyprus,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 1–2,Chelsea,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,22,0,0,0,Match Report
+2017-2018,2017-10-18,Wed,Champions Lg,Group stage,Home,D 3–3,eng Chelsea,it Roma,Y,GK,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,W 4–2,Chelsea,Watford,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,18,0,0,0,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,W 1–0,Chelsea,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,17,0,0,0,Match Report
+2017-2018,2017-10-31,Tue,Champions Lg,Group stage,Away,L 0–3,eng Chelsea,it Roma,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Home,W 1–0,Chelsea,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,20,0,0,0,0,0.0,0.0,0.0,0,0,7,15,46.7,0,6,0,0,0,Match Report
+2017-2018,2017-11-10,Fri,Friendlies (M),Friendlies (M),Home,D 3–3,be Belgium,mx Mexico,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,be Belgium,jp Japan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,W 4–0,Chelsea,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,14,0,0,0,Match Report
+2017-2018,2017-11-22,Wed,Champions Lg,Group stage,Away,W 4–0,eng Chelsea,az Qarabağ FK,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,12,0,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 1–0,Chelsea,Swansea City,Y,GK,90,0,0,0,0,0,0,0,0,12,0,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,W 3–1,Chelsea,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,14,0,0,0,Match Report
+2017-2018,2017-12-05,Tue,Champions Lg,Group stage,Home,D 1–1,eng Chelsea,es Atlético Madrid,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 0–1,Chelsea,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,18,0,0,0,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Away,W 3–1,Chelsea,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,19,0,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,15,0,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,W 1–0,Chelsea,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,17,0,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 0–0,Chelsea,Everton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,22,0,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,W 2–0,Chelsea,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,16,0,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,W 5–0,Chelsea,Stoke City,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,1,0,23,24,95.8,0,21,0,0,0,Match Report
+2017-2018,2018-01-03,Wed,Premier League,Matchweek 22,Away,D 2–2,Chelsea,Arsenal,Y,GK,90,0,0,0,0,0,0,1,0,34,0,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,18,0,0,0,Match Report
+2017-2018,2018-01-10,Wed,EFL Cup,Semi-finals,Home,D 0–0,Chelsea,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,D 0–0,Chelsea,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,13,0,0,0,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,L 0–3,Chelsea,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,41,1,0,0,0,0.0,0.0,0.0,0,0,31,40,77.5,0,24,0,0,0,Match Report
+2017-2018,2018-02-05,Mon,Premier League,Matchweek 26,Away,L 1–4,Chelsea,Watford,Y,GK,90,0,0,0,0,0,0,0,0,39,1,0,0,0,0.0,0.0,0.0,0,0,26,36,72.2,0,17,0,0,0,Match Report
+2017-2018,2018-02-12,Mon,Premier League,Matchweek 27,Home,W 3–0,Chelsea,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,11,0,0,0,Match Report
+2017-2018,2018-02-20,Tue,Champions Lg,Round of 16,Home,D 1–1,eng Chelsea,es Barcelona,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,Premier League,Matchweek 28,Away,L 1–2,Chelsea,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,1,0,33,37,89.2,0,23,0,0,0,Match Report
+2017-2018,2018-03-04,Sun,Premier League,Matchweek 29,Away,L 0–1,Chelsea,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,52,0,0,0,0,0.0,0.0,0.0,0,0,37,51,72.5,0,26,0,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 2–1,Chelsea,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,1,0,20,28,71.4,0,17,0,0,0,Match Report
+2017-2018,2018-03-14,Wed,Champions Lg,Round of 16,Away,L 0–3,eng Chelsea,es Barcelona,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Home,D 1–1,Chelsea,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,19,0,0,0,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,W 3–2,Chelsea,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,31,1,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,23,0,0,0,Match Report
+2017-2018,2018-04-19,Thu,Premier League,Matchweek 31,Away,W 2–1,Chelsea,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,1,0,32,41,78.0,0,32,0,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,W 1–0,Chelsea,Swansea City,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,0,24,0,0,0,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,W 1–0,Chelsea,Liverpool,Y,GK,90,0,0,0,0,0,0,1,0,32,1,0,0,0,0.0,0.0,0.0,0,0,10,23,43.5,0,10,0,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 0–3,Chelsea,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,14,0,0,0,Match Report
+2017-2018,2018-05-19,Sat,FA Cup,Final,Home,W 1–0,Chelsea,Manchester Utd,Y,GK,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,D 0–0,be Belgium,pt Portugal,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-06,Wed,Friendlies (M),Friendlies (M),Home,W 3–0,be Belgium,eg Egypt,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-11,Mon,Friendlies (M),Friendlies (M),Home,W 4–1,be Belgium,cr Costa Rica,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-18,Mon,FIFA World Cup,Group stage,Neutral,W 3–0,be Belgium,pa Panama,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,20,0,0,0,Match Report
+2017-2018,2018-06-23,Sat,FIFA World Cup,Group stage,Neutral,W 5–2,be Belgium,tn Tunisia,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,25,0,0,0,Match Report
+2017-2018,2018-06-28,Thu,FIFA World Cup,Group stage,Neutral,W 1–0,be Belgium,eng England,Y*,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,28,0,0,0,Match Report

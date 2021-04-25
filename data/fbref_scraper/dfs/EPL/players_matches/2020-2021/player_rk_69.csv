@@ -1,0 +1,26 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,PL2 — Div. 1,Matchweek 1,Away,L 0–1,Everton,Liverpool,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Everton,Leicester City,Y,FW,14,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-23,Fri,PL2 — Div. 1,Matchweek 6,Away,L 1–2,Everton,Manchester Utd,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,PL2 — Div. 1,Matchweek 8,Home,W 2–0,Everton,Chelsea,Y,FW,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-20,Fri,PL2 — Div. 1,Matchweek 9,Away,L 0–1,Everton,Arsenal,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-27,Fri,PL2 — Div. 1,Matchweek 10,Away,D 1–1,Everton,Blackburn,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-18,Mon,PL2 — Div. 1,Matchweek 14,Home,D 1–1,Everton,Liverpool,Y,AM,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-25,Mon,PL2 — Div. 1,Matchweek 15,Away,W 4–2,Everton,Leicester City,Y,FW,90,1,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-01,Mon,PL2 — Div. 1,Matchweek 16,Away,W 3–1,Everton,Derby County,Y,FW,89,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-05,Fri,PL2 — Div. 1,Matchweek 17,Away,L 1–3,Everton,Manchester City,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-22,Mon,PL2 — Div. 1,Matchweek 19,Home,W 3–1,Everton,Manchester Utd,Y*,FW,90,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Home,W 1–0,Everton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Away,W 1–0,Everton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-05,Fri,PL2 — Div. 1,Matchweek 18,Away,L 1–2,Everton,Tottenham,Y*,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Away,L 0–2,Everton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-12,Fri,PL2 — Div. 1,Matchweek 21,Away,L 1–2,Everton,Chelsea,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 1–2,Everton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Home,L 0–2,Everton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-21,Sun,PL2 — Div. 1,Matchweek 22,Home,D 1–1,Everton,Arsenal,Y*,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-09,Fri,PL2 — Div. 1,Matchweek 23,Home,W 2–1,Everton,Blackburn,Y*,FW,64,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Away,D 0–0,Everton,Brighton,N,DM,3,0,0,0,0,0,0,0,0,3,1,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Home,D 2–2,Everton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-19,Mon,PL2 — Div. 1,Matchweek 24,Away,L 1–2,Everton,West Ham,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-23,Fri,Premier League,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

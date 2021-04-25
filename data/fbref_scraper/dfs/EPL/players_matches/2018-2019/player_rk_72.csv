@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,D 2–2,Wolves,Everton,Y,LM,75,0,0,0,0,1,0,0,0,48,16,0,3,3,0.0,0.0,0.0,0,0,32,40,80.0,1,27,4,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 0–2,Wolves,Leicester City,Y,"WB,LB",90,0,0,0,0,1,0,0,0,48,17,2,3,1,0.1,0.1,0.0,3,0,28,38,73.7,2,36,1,2,2,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 1–1,Wolves,Manchester City,Y,WB,84,0,0,0,0,1,0,0,0,34,15,4,2,4,0.2,0.2,0.0,2,0,19,22,86.4,2,17,4,0,1,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 2–0,Wolves,Sheffield Weds,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 1–0,Wolves,West Ham,Y,LM,90,0,0,0,0,1,0,0,0,60,18,4,2,1,0.0,0.0,0.0,1,0,40,48,83.3,5,34,12,0,1,Match Report
+2018-2019,2018-09-16,Sun,Premier League,Matchweek 5,Home,W 1–0,Wolves,Burnley,Y,WB,90,0,0,0,0,3,0,0,0,72,7,1,2,0,0.2,0.2,0.2,8,0,48,64,75.0,4,53,8,2,2,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 1–1,Wolves,Manchester Utd,Y,WB,90,0,0,0,0,0,0,0,0,46,11,2,1,2,0.0,0.0,0.0,0,0,27,35,77.1,3,27,3,1,1,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,D 0 (1)–0 (3),Wolves,Leicester City,Y,RM,74,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 2–0,Wolves,Southampton,Y,LM,90,1,0,0,0,2,2,1,0,56,8,1,0,2,0.4,0.4,0.0,0,0,36,46,78.3,5,28,5,0,1,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 1–0,Wolves,Crystal Palace,Y,WB,90,0,0,0,0,0,0,1,0,48,12,3,2,5,0.0,0.0,0.0,0,0,23,33,69.7,0,21,2,0,0,Match Report
+2018-2019,2018-10-11,Thu,Friendlies (M),Friendlies (M),Away,W 4–1,es Spain,wal Wales,N,,28,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-15,Mon,UEFA Nations League,League A,Home,L 2–3,es Spain,eng England,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–2,Wolves,Watford,Y,LM,45,0,0,0,0,0,0,0,0,24,8,0,0,2,0.0,0.0,0.0,0,0,11,19,57.9,0,13,3,1,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,L 0–1,Wolves,Brighton,Y,WB,84,0,0,0,0,0,0,0,0,46,11,0,3,2,0.0,0.0,0.1,3,0,38,41,92.7,2,24,8,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 2–3,Wolves,Tottenham,Y,LM,90,0,0,0,0,0,0,0,0,60,16,3,0,3,0.0,0.0,0.0,1,1,40,47,85.1,0,33,3,0,2,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,D 1–1,Wolves,Arsenal,Y,WB,90,0,0,0,0,0,0,0,0,32,13,3,5,1,0.0,0.0,0.0,0,0,19,22,86.4,1,14,0,0,0,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Away,L 2–3,es Spain,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,Friendlies (M),Friendlies (M),Home,W 1–0,es Spain,ba Bosnia and Herzegovina,Y,RB,50,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 2–0,Wolves,Bournemouth,Y,LM,90,0,0,0,0,2,1,0,0,55,18,4,0,2,0.1,0.1,0.0,0,0,31,42,73.8,1,31,1,1,1,Match Report
+2018-2019,2018-12-21,Fri,Premier League,Matchweek 18,Home,L 0–2,Wolves,Liverpool,Y,LM,80,0,0,0,0,1,1,0,0,53,22,3,1,1,0.1,0.1,0.0,3,0,33,38,86.8,1,30,2,2,3,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 1–1,Wolves,Fulham,Y,WB,81,0,0,0,0,1,0,0,0,83,17,5,0,0,0.0,0.0,0.2,4,0,55,64,85.9,3,47,8,1,3,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,W 3–1,Wolves,Tottenham,Y,WB,90,0,0,0,0,0,0,1,0,52,24,2,2,2,0.0,0.0,0.0,0,0,31,42,73.8,1,36,7,2,3,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,L 0–2,Wolves,Crystal Palace,Y,LM,90,0,0,0,0,1,0,1,0,85,24,3,2,4,0.0,0.0,0.0,2,0,59,67,88.1,2,57,12,0,1,Match Report
+2018-2019,2019-01-07,Mon,FA Cup,Third round,Home,W 2–1,Wolves,Liverpool,Y,RW,74,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-14,Mon,Premier League,Matchweek 22,Away,L 0–3,Wolves,Manchester City,Y,"WB,LB",90,0,0,0,0,0,0,0,0,40,32,1,5,3,0.0,0.0,0.0,0,0,21,25,84.0,1,24,0,0,1,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 4–3,Wolves,Leicester City,Y,WB,90,0,0,0,0,0,0,1,0,61,15,4,4,2,0.0,0.0,0.0,1,0,31,43,72.1,1,29,3,1,1,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Away,D 2–2,Wolves,Shrewsbury,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 3–0,Wolves,West Ham,Y,LM,89,0,0,0,0,3,1,0,0,61,18,1,2,1,0.6,0.6,0.1,3,2,37,43,86.0,1,33,4,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,W 3–1,Wolves,Everton,Y,LM,90,0,0,0,0,0,0,0,0,49,28,2,2,3,0.0,0.0,0.0,2,0,23,30,76.7,1,21,2,0,1,Match Report
+2018-2019,2019-02-05,Tue,FA Cup,Fourth round,Home,W 3–2,Wolves,Shrewsbury,Y,LM,90,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-11,Mon,Premier League,Matchweek 26,Home,D 1–1,Wolves,Newcastle Utd,Y,WB,90,0,0,0,0,1,1,0,0,71,25,2,0,0,0.0,0.0,0.0,2,0,51,63,81.0,3,44,5,1,2,Match Report
+2018-2019,2019-02-17,Sun,FA Cup,Fifth round,Away,W 1–0,Wolves,Bristol City,Y,LM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,D 1–1,Wolves,Bournemouth,Y,WB,90,0,0,0,0,1,0,0,0,68,22,4,0,2,0.0,0.0,0.0,3,1,49,56,87.5,4,45,4,2,2,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Away,L 0–1,Wolves,Huddersfield,Y,WB,90,0,0,0,0,0,0,0,0,100,30,3,2,3,0.0,0.0,0.0,2,0,68,82,82.9,2,65,9,1,3,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 2–0,Wolves,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Away,D 1–1,Wolves,Chelsea,Y,WB,90,0,0,0,0,0,0,0,0,31,25,3,0,3,0.0,0.0,0.0,0,0,17,21,81.0,0,16,1,0,0,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Home,W 2–1,Wolves,Manchester Utd,Y,LM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,L 0–2,Wolves,Burnley,Y,WB,90,0,0,0,0,2,1,0,0,59,2,2,0,1,0.0,0.0,0.0,0,0,38,51,74.5,2,43,9,0,1,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Home,W 2–1,Wolves,Manchester Utd,N,WB,15,0,0,0,0,0,0,1,0,14,4,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,12,4,0,0,Match Report
+2018-2019,2019-04-07,Sun,FA Cup,Semi-finals,Away,L 2–3,Wolves,Watford,Y,LM,104,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 1–3,Wolves,Southampton,Y,WB,90,0,0,0,0,1,0,0,0,66,11,2,0,0,0.0,0.0,0.1,1,0,47,56,83.9,1,40,6,4,4,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,D 0–0,Wolves,Brighton,Y,WB,66,0,0,0,0,0,0,0,0,43,24,1,1,2,0.0,0.0,0.1,2,0,30,36,83.3,0,28,6,1,1,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Home,W 3–1,Wolves,Arsenal,Y,WB,90,0,1,0,0,0,0,0,0,45,15,2,2,3,0.0,0.0,0.4,5,2,26,35,74.3,6,26,4,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,W 2–1,Wolves,Watford,Y,WB,90,0,0,0,0,1,0,0,0,59,16,2,2,4,0.0,0.0,0.1,1,0,38,44,86.4,0,34,5,2,3,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,W 1–0,Wolves,Fulham,Y,WB,89,0,0,0,0,2,0,0,0,50,11,3,2,0,0.0,0.0,0.3,5,0,26,37,70.3,1,27,4,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,L 0–2,Wolves,Liverpool,Y,WB,83,0,0,0,0,1,0,0,0,59,10,2,1,1,0.0,0.0,0.0,0,0,42,51,82.4,1,38,7,1,2,Match Report

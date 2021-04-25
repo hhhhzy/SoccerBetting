@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,L 0–5,West Ham,Manchester City,N,"FW,RW",25,0,0,0,0,2,1,0,0,11,3,0,0,0,0.5,0.5,0.0,2,0,8,8,100.0,1,5,0,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,D 1–1,West Ham,Brighton,Y,FW,82,1,0,0,0,1,1,0,0,18,23,0,1,0,0.3,0.3,0.0,0,0,11,14,78.6,2,9,0,0,1,Match Report
+2019-2020,2019-09-06,Fri,Friendlies (M),Friendlies (M),Away,W 3–0,mx Mexico,us United States,Y,FW,86,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Friendlies (M),Friendlies (M),Away,L 0–4,mx Mexico,ar Argentina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-15,Sun,La Liga,Matchweek 4,Away,W 1–0,Sevilla,Alavés,N,FW,21,0,0,0,0,0,0,0,0,12,6,0,0,2,0.0,0.0,0.1,1,0,5,6,83.3,0,9,3,0,1,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Away,W 3–0,es Sevilla,az Qarabağ Ağdam,Y,FW,71,1,0,0,0,4,1,0,0,31,13,1,0,1,0.5,0.5,0.0,1,0,14,21,66.7,0,22,1,1,2,Match Report
+2019-2020,2019-09-22,Sun,La Liga,Matchweek 5,Home,L 0–1,Sevilla,Real Madrid,N,CM,22,0,0,0,0,0,0,0,0,6,1,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,5,0,0,0,Match Report
+2019-2020,2019-09-26,Thu,La Liga,Matchweek 6,Away,L 2–3,Sevilla,Eibar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-29,Sun,La Liga,Matchweek 7,Home,W 3–2,Sevilla,Real Sociedad,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-03,Thu,Europa Lg,Group stage,Home,W 1–0,es Sevilla,cy APOEL,Y,FW,78,1,0,0,0,2,2,0,0,32,35,2,0,0,0.7,0.7,0.0,2,0,15,19,78.9,1,26,2,1,2,Match Report
+2019-2020,2019-10-06,Sun,La Liga,Matchweek 8,Away,L 0–4,Sevilla,Barcelona,N,FW,26,0,0,0,0,1,0,0,0,11,0,0,0,0,0.2,0.2,0.0,1,0,5,7,71.4,0,8,0,0,0,Match Report
+2019-2020,2019-10-20,Sun,La Liga,Matchweek 9,Home,W 1–0,Sevilla,Levante,Y,FW,79,0,0,0,0,3,2,0,0,20,18,2,0,0,0.7,0.7,0.0,1,0,10,11,90.9,1,13,1,0,0,Match Report
+2019-2020,2019-10-27,Sun,La Liga,Matchweek 10,Home,W 2–0,Sevilla,Getafe,Y,FW,80,1,0,0,0,4,3,0,0,28,13,2,0,2,0.6,0.6,0.1,1,0,9,15,60.0,1,9,2,0,0,Match Report
+2019-2020,2019-10-30,Wed,La Liga,Matchweek 11,Away,D 1–1,Sevilla,Valencia,Y,FW,84,0,0,0,0,1,0,0,0,19,14,0,1,1,0.0,0.0,0.0,2,0,13,13,100.0,0,10,1,0,0,Match Report
+2019-2020,2019-11-02,Sat,La Liga,Matchweek 12,Home,D 1–1,Sevilla,Atlético Madrid,N,FW,14,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Match Report
+2019-2020,2019-11-07,Thu,Europa Lg,Group stage,Away,W 5–2,es Sevilla,lu F91 Dudelange,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-10,Sun,La Liga,Matchweek 13,Away,W 2–1,Sevilla,Betis,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,La Liga,Matchweek 14,Away,W 1–0,Sevilla,Valladolid,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-28,Thu,Europa Lg,Group stage,Home,W 2–0,es Sevilla,az Qarabağ Ağdam,Y,FW,61,0,0,0,0,1,0,0,0,9,15,1,0,0,0.2,0.2,0.0,1,0,3,3,100.0,1,5,1,0,0,Match Report
+2019-2020,2019-12-01,Sun,La Liga,Matchweek 15,Home,W 1–0,Sevilla,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-08,Sun,La Liga,Matchweek 16,Away,D 1–1,Sevilla,Osasuna,Y,FW,90,0,0,0,0,3,1,0,0,37,8,0,1,2,0.6,0.6,0.1,2,0,11,20,55.0,1,18,2,1,1,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Away,L 0–1,es Sevilla,cy APOEL,Y,FW,45,0,0,0,0,1,0,0,0,27,13,0,0,0,0.1,0.1,0.0,0,0,18,23,78.3,1,23,0,1,1,Match Report
+2019-2020,2019-12-15,Sun,La Liga,Matchweek 17,Home,L 1–2,Sevilla,Villarreal,N,FW,32,0,0,0,0,1,0,0,0,6,3,0,0,0,0.2,0.2,0.0,1,0,3,3,100.0,0,2,0,0,0,Match Report
+2019-2020,2020-01-03,Fri,La Liga,Matchweek 19,Home,D 1–1,Sevilla,Athletic Club,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,MLS,Regular Season,Away,D 1–1,LA Galaxy,Houston,Y*,FW,90,0,0,0,0,1,0,0,0,28,24,1,0,0,0.0,0.0,0.6,3,0,12,14,85.7,1,22,3,1,3,Match Report
+2019-2020,2020-03-07,Sat,MLS,Regular Season,Home,L 0–1,LA Galaxy,Vancouver,Y,FW,90,0,0,0,0,0,0,0,0,33,11,0,0,0,0.0,0.0,0.0,1,0,19,25,76.0,1,25,2,0,0,Match Report

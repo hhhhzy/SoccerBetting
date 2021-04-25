@@ -1,0 +1,48 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-08-08,Sat,Premier League,Matchweek 1,Home,D 2–2,Everton,Watford,Y,RB,90,0,0,0,0,0,0,1,0,1,2,0,9,1,2,0,,,Match Report
+2015-2016,2015-08-15,Sat,Premier League,Matchweek 2,Away,W 3–0,Everton,Southampton,Y,RB,90,0,1,0,0,0,0,0,0,0,1,0,3,1,1,0,,,Match Report
+2015-2016,2015-08-23,Sun,Premier League,Matchweek 3,Home,L 0–2,Everton,Manchester City,Y,LB,90,0,0,0,0,1,0,0,0,0,2,1,2,1,2,0,,,Match Report
+2015-2016,2015-08-29,Sat,Premier League,Matchweek 4,Away,D 0–0,Everton,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,0,4,0,2,2,0,0,,,Match Report
+2015-2016,2015-09-04,Fri,Euro Qualifying,Group stage,Away,W 4–0,ie Republic of Ireland,gi Gibraltar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-09-07,Mon,Euro Qualifying,Group stage,Home,W 1–0,ie Republic of Ireland,ge Georgia,Y,RB,90,0,0,0,0,2,2,0,0,3,1,0,6,1,2,0,0,0,Match Report
+2015-2016,2015-09-12,Sat,Premier League,Matchweek 5,Home,W 3–1,Everton,Chelsea,Y,RB,76,0,0,0,0,2,0,0,0,0,0,0,4,1,0,0,,,Match Report
+2015-2016,2015-10-11,Sun,Euro Qualifying,Group stage,Away,L 1–2,ie Republic of Ireland,pl Poland,Y,RB,90,0,0,0,0,0,0,0,0,0,3,0,2,2,2,0,0,0,Match Report
+2015-2016,2015-10-17,Sat,Premier League,Matchweek 9,Home,L 0–3,Everton,Manchester Utd,Y,RB,90,0,0,0,0,1,0,1,0,0,0,0,5,4,1,0,,,Match Report
+2015-2016,2015-10-24,Sat,Premier League,Matchweek 10,Away,L 1–2,Everton,Arsenal,Y,RB,88,0,0,0,0,1,1,0,0,1,1,0,1,2,2,0,,,Match Report
+2015-2016,2015-11-01,Sun,Premier League,Matchweek 11,Home,W 6–2,Everton,Sunderland,Y,RB,90,0,0,0,0,2,1,0,0,0,0,0,3,0,0,0,,,Match Report
+2015-2016,2015-11-07,Sat,Premier League,Matchweek 12,Away,D 1–1,Everton,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,,,Match Report
+2015-2016,2015-11-13,Fri,Euro Qualifying,Play-off Round,Away,D 1–1,ie Republic of Ireland,ba Bosnia and Herzegovina,Y,,90,0,0,0,0,0,0,0,0,0,3,0,0,1,8,0,0,0,Match Report
+2015-2016,2015-11-16,Mon,Euro Qualifying,Play-off Round,Home,W 2–0,ie Republic of Ireland,ba Bosnia and Herzegovina,Y,,90,0,0,0,0,0,0,0,0,0,3,1,0,2,0,0,0,0,Match Report
+2015-2016,2015-11-21,Sat,Premier League,Matchweek 13,Home,W 4–0,Everton,Aston Villa,Y,RB,90,0,1,0,0,0,0,0,0,1,0,1,2,2,1,0,,,Match Report
+2015-2016,2015-11-28,Sat,Premier League,Matchweek 14,Away,D 3–3,Everton,Bournemouth,Y,RB,90,0,1,0,0,1,0,0,0,0,1,0,2,2,3,0,,,Match Report
+2015-2016,2015-12-01,Tue,League Cup,Quarter-finals,Away,W 2–0,Everton,Middlesbrough,Y,RB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-07,Mon,Premier League,Matchweek 15,Home,D 1–1,Everton,Crystal Palace,Y,RB,90,0,0,0,0,2,0,0,0,1,1,0,5,5,1,0,,,Match Report
+2015-2016,2015-12-12,Sat,Premier League,Matchweek 16,Away,D 1–1,Everton,Norwich City,Y,RB,90,0,0,0,0,1,0,0,0,1,1,1,4,1,0,0,,,Match Report
+2015-2016,2015-12-19,Sat,Premier League,Matchweek 17,Home,L 2–3,Everton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,0,3,0,4,1,1,0,,,Match Report
+2015-2016,2015-12-26,Sat,Premier League,Matchweek 18,Away,W 1–0,Everton,Newcastle Utd,Y,RB,90,0,0,0,0,1,0,0,0,3,0,1,5,2,2,0,,,Match Report
+2015-2016,2015-12-28,Mon,Premier League,Matchweek 19,Home,L 3–4,Everton,Stoke City,Y,RB,90,0,0,0,0,1,0,0,0,1,1,1,6,2,0,0,,,Match Report
+2015-2016,2016-01-03,Sun,Premier League,Matchweek 20,Home,D 1–1,Everton,Tottenham,Y,RB,90,0,0,0,0,0,0,1,0,1,2,1,1,1,1,0,,,Match Report
+2015-2016,2016-01-06,Wed,League Cup,Semi-finals,Home,W 2–1,Everton,Manchester City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-24,Sun,Premier League,Matchweek 23,Home,L 1–2,Everton,Swansea City,N,,24,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,,,Match Report
+2015-2016,2016-01-27,Wed,League Cup,Semi-finals,Away,L 1–3,Everton,Manchester City,N,,14,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-31,Sun,FA Cup,Fourth round,Away,W 3–0,Everton,Carlisle United,Y,,82,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-02-03,Wed,Premier League,Matchweek 24,Home,W 3–0,Everton,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,1,0,1,2,0,4,1,1,0,,,Match Report
+2015-2016,2016-02-06,Sat,Premier League,Matchweek 25,Away,W 3–0,Everton,Stoke City,Y,RB,90,1,0,0,0,1,1,0,0,1,3,0,0,1,2,0,,,Match Report
+2015-2016,2016-02-13,Sat,Premier League,Matchweek 26,Home,L 0–1,Everton,West Brom,Y,RB,90,0,0,0,0,6,1,0,0,1,2,0,5,1,3,0,,,Match Report
+2015-2016,2016-02-20,Sat,FA Cup,Fifth round,Away,W 2–0,Everton,Bournemouth,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-03-01,Tue,Premier League,Matchweek 28,Away,W 3–1,Everton,Aston Villa,Y,RB,72,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+2015-2016,2016-03-05,Sat,Premier League,Matchweek 29,Home,L 2–3,Everton,West Ham,Y,LM,90,0,0,0,0,0,0,0,0,1,1,0,2,0,4,0,,,Match Report
+2015-2016,2016-03-12,Sat,FA Cup,Quarter-finals,Home,W 2–0,Everton,Chelsea,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-03-19,Sat,Premier League,Matchweek 31,Home,L 0–2,Everton,Arsenal,Y,RB,90,0,0,0,0,1,0,0,0,1,0,0,8,3,1,0,,,Match Report
+2015-2016,2016-03-25,Fri,Friendlies (M),Friendlies (M),Home,W 1–0,ie Republic of Ireland,ch Switzerland,Y*,RB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-03-29,Tue,Friendlies (M),Friendlies (M),Home,D 2–2,ie Republic of Ireland,sk Slovakia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-04-03,Sun,Premier League,Matchweek 32,Away,L 0–1,Everton,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,1,0,1,2,7,3,0,,,Match Report
+2015-2016,2016-04-09,Sat,Premier League,Matchweek 33,Away,D 1–1,Everton,Watford,Y,RB,90,0,0,0,0,1,0,0,0,1,1,1,5,2,1,0,,,Match Report
+2015-2016,2016-04-13,Wed,Premier League,Matchweek 35,Away,D 0–0,Everton,Crystal Palace,Y,RB,90,0,0,0,0,3,2,0,0,2,0,0,4,2,1,0,,,Match Report
+2015-2016,2016-04-16,Sat,Premier League,Matchweek 34,Home,D 1–1,Everton,Southampton,Y,RB,53,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,,,Match Report
+2015-2016,2016-05-27,Fri,Friendlies (M),Friendlies (M),Home,D 1–1,ie Republic of Ireland,nl Netherlands,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-05-31,Tue,Friendlies (M),Friendlies (M),Home,L 1–2,ie Republic of Ireland,by Belarus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-13,Mon,UEFA Euro,Group stage,Home,D 1–1,ie Republic of Ireland,se Sweden,Y,RB,90,0,1,0,0,0,0,0,0,0,1,0,5,1,1,0,0,0,Match Report
+2015-2016,2016-06-18,Sat,UEFA Euro,Group stage,Away,L 0–3,ie Republic of Ireland,be Belgium,Y,RB,90,0,0,0,0,0,0,0,0,3,0,0,3,0,2,0,0,0,Match Report
+2015-2016,2016-06-22,Wed,UEFA Euro,Group stage,Away,W 1–0,ie Republic of Ireland,it Italy,Y*,RB,90,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-06-26,Sun,UEFA Euro,Round of 16,Away,L 1–2,ie Republic of Ireland,fr France,Y*,RB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,Match Report

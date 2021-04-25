@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,D 0–0,Crystal Palace,Everton,Y*,CM,90,0,0,0,0,0,0,1,0,51,9,4,4,2,0.0,0.0,0.2,3,0,24,36,66.7,3,17,1,0,0,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Sheffield Utd,Y*,CM,90,0,0,0,0,1,0,0,0,74,16,3,2,0,0.0,0.0,0.0,1,0,47,64,73.4,5,44,4,0,0,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Crystal Palace,Manchester Utd,Y*,DM,90,0,0,0,0,0,0,1,0,43,21,2,2,0,0.0,0.0,0.1,2,0,21,33,63.6,2,17,0,0,0,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 1–0,Crystal Palace,Aston Villa,Y*,DM,90,0,0,0,0,2,2,1,0,88,13,0,0,0,0.1,0.1,0.4,6,0,63,83,75.9,8,41,5,0,0,Match Report
+2019-2020,2019-09-07,Sat,Euro Qualifying,Group stage,Home,L 2–4,rs Serbia,pt Portugal,Y,DM,86,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Euro Qualifying,Group stage,Away,W 3–1,rs Serbia,lu Luxembourg,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–4,Crystal Palace,Tottenham,Y*,DM,90,0,0,0,0,0,0,1,0,51,22,3,3,0,0.0,0.0,0.1,4,0,32,38,84.2,3,23,0,1,2,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Home,D 1–1,Crystal Palace,Wolves,Y*,DM,90,0,0,0,0,2,0,0,0,80,8,2,1,2,0.0,0.0,0.0,1,0,54,73,74.0,4,49,2,0,0,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–0,Crystal Palace,Norwich City,Y*,DM,90,1,0,1,1,0,0,1,0,56,30,4,0,3,0.8,0.0,0.1,3,0,40,50,80.0,4,28,2,0,0,Match Report
+2019-2020,2019-10-10,Thu,Friendlies (M),Friendlies (M),Home,W 1–0,rs Serbia,py Paraguay,Y,DM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-14,Mon,Euro Qualifying,Group stage,Away,W 2–1,rs Serbia,lt Lithuania,Y,DM,71,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,L 0–2,Crystal Palace,Manchester City,Y*,DM,75,0,0,0,0,1,0,1,0,33,21,1,4,5,0.0,0.0,0.0,0,0,15,18,83.3,2,14,2,0,0,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,D 2–2,Crystal Palace,Arsenal,Y*,DM,90,1,0,1,1,0,0,0,0,69,20,4,2,2,0.8,0.0,0.0,1,1,45,57,78.9,1,31,4,1,1,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Home,L 0–2,Crystal Palace,Leicester City,Y*,DM,90,0,0,0,0,1,0,0,0,58,14,0,1,0,0.0,0.0,0.0,2,0,41,55,74.5,4,31,1,1,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,L 0–2,Crystal Palace,Chelsea,Y*,CM,90,0,0,0,0,0,0,0,0,56,14,2,0,3,0.0,0.0,0.1,1,0,35,42,83.3,2,29,1,0,0,Match Report
+2019-2020,2019-11-14,Thu,Euro Qualifying,Group stage,Home,W 3–2,rs Serbia,lu Luxembourg,Y,DM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-17,Sun,Euro Qualifying,Group stage,Home,D 2–2,rs Serbia,ua Ukraine,N,,15,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 1–2,Crystal Palace,Liverpool,Y*,DM,90,0,0,0,0,4,3,0,0,67,18,3,0,3,0.0,0.0,0.0,0,0,32,53,60.4,1,25,0,0,0,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,W 2–0,Crystal Palace,Burnley,Y*,DM,90,0,0,0,0,1,0,0,0,75,10,0,1,1,0.1,0.1,0.0,0,0,51,68,75.0,2,36,1,0,0,Match Report
+2019-2020,2019-12-03,Tue,Premier League,Matchweek 15,Home,W 1–0,Crystal Palace,Bournemouth,Y*,"CM,DM",90,0,0,0,0,1,0,1,0,44,37,3,1,1,0.0,0.0,0.1,1,0,16,31,51.6,2,20,1,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,D 0–0,Crystal Palace,Watford,Y*,DM,90,0,0,0,0,0,0,0,0,61,18,2,0,1,0.0,0.0,0.0,2,0,36,48,75.0,4,37,4,0,0,Match Report
+2019-2020,2019-12-16,Mon,Premier League,Matchweek 17,Home,D 1–1,Crystal Palace,Brighton,Y*,DM,90,0,0,0,0,0,0,0,0,47,19,2,2,4,0.0,0.0,0.1,2,1,25,38,65.8,3,17,0,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,L 0–1,Crystal Palace,Newcastle Utd,Y*,DM,90,0,0,0,0,3,0,0,0,73,8,3,0,1,0.1,0.1,0.1,3,0,55,64,85.9,7,50,6,2,2,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 2–1,Crystal Palace,West Ham,Y*,DM,90,0,0,0,0,2,0,0,0,88,22,1,1,1,0.0,0.0,0.1,2,0,66,79,83.5,8,57,5,2,2,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,D 1–1,Crystal Palace,Southampton,Y*,DM,90,0,1,0,0,1,0,1,0,60,19,2,0,2,0.0,0.0,0.1,2,1,43,50,86.0,1,26,1,0,1,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Crystal Palace,Norwich City,Y*,DM,90,0,0,0,0,1,0,0,0,81,21,3,0,0,0.0,0.0,0.0,0,0,58,76,76.3,7,47,2,2,3,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,L 0–1,Crystal Palace,Derby County,Y*,CM,62,0,0,0,0,1,0,0,1,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,L 0–1,Crystal Palace,Sheffield Utd,Y*,DM,90,0,0,0,0,1,0,1,0,66,30,2,0,0,0.0,0.0,0.0,2,0,45,59,76.3,3,33,1,0,0,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Away,L 1–3,Crystal Palace,Everton,Y*,DM,90,0,0,0,0,1,0,0,0,79,18,3,0,3,0.0,0.0,0.0,0,0,54,68,79.4,4,50,0,2,2,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,W 1–0,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Crystal Palace,Watford,N,CM,21,0,0,0,0,0,0,0,0,19,6,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,2,12,0,0,0,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,W 2–0,Crystal Palace,Bournemouth,Y*,DM,64,1,0,0,0,2,1,0,0,45,8,2,1,3,0.1,0.1,0.0,0,0,25,32,78.1,1,30,5,0,0,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–4,Crystal Palace,Liverpool,N,CM,25,0,0,0,0,0,0,0,0,9,5,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0,Match Report
+2019-2020,2020-06-29,Mon,Premier League,Matchweek 32,Home,L 0–1,Crystal Palace,Burnley,Y*,DM,90,0,0,0,0,3,0,0,0,84,15,1,0,3,0.2,0.2,0.0,2,0,61,71,85.9,6,57,4,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,L 0–3,Crystal Palace,Leicester City,Y*,DM,90,0,0,0,0,1,0,0,0,68,20,3,1,1,0.0,0.0,0.0,0,0,45,61,73.8,5,42,3,0,0,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Home,L 2–3,Crystal Palace,Chelsea,Y*,CM,88,0,0,0,0,0,0,1,0,46,19,1,0,0,0.0,0.0,0.0,2,0,34,40,85.0,1,24,0,0,3,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 0–2,Crystal Palace,Aston Villa,Y*,DM,74,0,0,0,0,0,0,1,0,47,20,1,0,3,0.0,0.0,0.0,2,0,30,40,75.0,6,29,0,0,0,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,L 0–2,Crystal Palace,Manchester Utd,Y*,DM,90,0,0,0,0,1,1,1,0,63,16,3,1,1,0.0,0.0,0.0,1,0,48,55,87.3,3,41,4,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,Crystal Palace,Tottenham,N,LM,6,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Match Report

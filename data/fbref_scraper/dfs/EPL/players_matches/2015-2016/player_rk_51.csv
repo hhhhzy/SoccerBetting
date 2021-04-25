@@ -1,0 +1,59 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-08-09,Sun,Premier League,Matchweek 1,Away,W 1–0,Liverpool,Stoke City,Y,FW,90,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,,,Match Report
+2015-2016,2015-08-17,Mon,Premier League,Matchweek 2,Home,W 1–0,Liverpool,Bournemouth,Y,FW,90,1,0,0,0,3,2,0,0,1,1,0,0,1,0,0,,,Match Report
+2015-2016,2015-08-24,Mon,Premier League,Matchweek 3,Away,D 0–0,Liverpool,Arsenal,Y,FW,90,0,0,0,0,4,2,0,0,1,1,2,0,0,0,0,,,Match Report
+2015-2016,2015-08-29,Sat,Premier League,Matchweek 4,Home,L 0–3,Liverpool,West Ham,Y,FW,90,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,,,Match Report
+2015-2016,2015-09-06,Sun,Euro Qualifying,Group stage,Away,W 1–0,be Belgium,cy Cyprus,Y,FW,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2015-09-12,Sat,Premier League,Matchweek 5,Away,L 1–3,Liverpool,Manchester Utd,Y,FW,90,1,0,0,0,2,1,0,0,2,2,1,0,0,0,0,,,Match Report
+2015-2016,2015-09-20,Sun,Premier League,Matchweek 6,Home,D 1–1,Liverpool,Norwich City,Y,FW,45,0,0,0,0,1,0,0,0,0,2,2,0,0,0,0,,,Match Report
+2015-2016,2015-10-22,Thu,Europa Lg,Group stage,Home,D 1–1,eng Liverpool,ru Rubin Kazan,N,,27,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2015-10-25,Sun,Premier League,Matchweek 10,Home,D 1–1,Liverpool,Southampton,N,,45,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2015-10-31,Sat,Premier League,Matchweek 11,Away,W 3–1,Liverpool,Chelsea,N,,27,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,,,Match Report
+2015-2016,2015-11-05,Thu,Europa Lg,Group stage,Away,W 1–0,eng Liverpool,ru Rubin Kazan,Y,FW,90,0,0,0,0,5,1,0,0,6,2,0,1,1,0,0,0,0,Match Report
+2015-2016,2015-11-08,Sun,Premier League,Matchweek 12,Home,L 1–2,Liverpool,Crystal Palace,Y,FW,90,0,0,0,0,5,1,0,0,3,0,0,0,1,0,0,,,Match Report
+2015-2016,2015-11-13,Fri,Friendlies (M),Friendlies (M),Home,W 3–1,be Belgium,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-11-21,Sat,Premier League,Matchweek 13,Away,W 4–1,Liverpool,Manchester City,N,,14,0,1,0,0,1,1,0,0,3,0,0,0,0,0,0,,,Match Report
+2015-2016,2015-11-26,Thu,Europa Lg,Group stage,Home,W 2–1,eng Liverpool,fr Bordeaux,Y,FW,90,1,0,0,0,3,1,1,0,8,3,1,0,0,0,0,0,0,Match Report
+2015-2016,2015-11-29,Sun,Premier League,Matchweek 14,Home,W 1–0,Liverpool,Swansea City,Y,FW,70,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,,,Match Report
+2015-2016,2015-12-02,Wed,League Cup,Quarter-finals,Away,W 6–1,Liverpool,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-12-06,Sun,Premier League,Matchweek 15,Away,L 0–2,Liverpool,Newcastle Utd,Y,FW,61,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+2015-2016,2015-12-10,Thu,Europa Lg,Group stage,Away,D 0–0,eng Liverpool,ch Sion,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-12-13,Sun,Premier League,Matchweek 16,Home,D 2–2,Liverpool,West Brom,Y,FW,90,0,0,0,0,6,0,0,0,1,3,0,0,0,0,0,,,Match Report
+2015-2016,2015-12-20,Sun,Premier League,Matchweek 17,Away,L 0–3,Liverpool,Watford,N,,17,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,,,Match Report
+2015-2016,2015-12-26,Sat,Premier League,Matchweek 18,Home,W 1–0,Liverpool,Leicester City,N,,53,1,0,0,0,3,2,0,0,2,2,3,0,1,0,0,,,Match Report
+2015-2016,2015-12-30,Wed,Premier League,Matchweek 19,Away,W 1–0,Liverpool,Sunderland,Y,FW,90,1,0,0,0,3,2,1,0,3,1,0,0,1,0,0,,,Match Report
+2015-2016,2016-01-02,Sat,Premier League,Matchweek 20,Away,L 0–2,Liverpool,West Ham,Y,FW,90,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0,,,Match Report
+2015-2016,2016-01-05,Tue,League Cup,Semi-finals,Away,W 1–0,Liverpool,Stoke City,N,,12,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-08,Fri,FA Cup,Third round,Away,D 2–2,Liverpool,Exeter City,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-13,Wed,Premier League,Matchweek 21,Home,D 3–3,Liverpool,Arsenal,N,,25,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2016-01-17,Sun,Premier League,Matchweek 22,Home,L 0–1,Liverpool,Manchester Utd,N,,10,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,,,Match Report
+2015-2016,2016-01-20,Wed,FA Cup,Third round,Home,W 3–0,Liverpool,Exeter City,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-23,Sat,Premier League,Matchweek 23,Away,W 5–4,Liverpool,Norwich City,N,,15,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,,Match Report
+2015-2016,2016-01-26,Tue,League Cup,Semi-finals,Home,D 0 (6)–1 (5),Liverpool,Stoke City,N,,63,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-30,Sat,FA Cup,Fourth round,Home,D 0–0,Liverpool,West Ham,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-02-02,Tue,Premier League,Matchweek 24,Away,L 0–2,Liverpool,Leicester City,N,,25,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,,,Match Report
+2015-2016,2016-02-06,Sat,Premier League,Matchweek 25,Home,D 2–2,Liverpool,Sunderland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-09,Tue,FA Cup,Fourth round,Away,L 1–2,Liverpool,West Ham,Y,,120,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-02-14,Sun,Premier League,Matchweek 26,Away,W 6–0,Liverpool,Aston Villa,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2016-02-18,Thu,Europa Lg,Round of 32,Away,D 0–0,eng Liverpool,de Augsburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-25,Thu,Europa Lg,Round of 32,Home,W 1–0,eng Liverpool,de Augsburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-28,Sun,League Cup,Final,Home,L 1 (1)–1 (3),Liverpool,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-03-02,Wed,Premier League,Matchweek 28,Home,W 3–0,Liverpool,Manchester City,N,,22,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,Match Report
+2015-2016,2016-03-06,Sun,Premier League,Matchweek 29,Away,W 2–1,Liverpool,Crystal Palace,N,,11,1,0,1,1,3,3,0,0,0,2,0,0,0,0,0,,,Match Report
+2015-2016,2016-03-10,Thu,Europa Lg,Round of 16,Home,W 2–0,eng Liverpool,eng Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-03-17,Thu,Europa Lg,Round of 16,Away,D 1–1,eng Liverpool,eng Manchester Utd,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-03-20,Sun,Premier League,Matchweek 31,Away,L 2–3,Liverpool,Southampton,N,,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2016-04-28,Thu,Europa Lg,Semi-finals,Away,L 0–1,eng Liverpool,es Villarreal,N,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-05-01,Sun,Premier League,Matchweek 36,Away,L 1–3,Liverpool,Swansea City,N,,45,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,,,Match Report
+2015-2016,2016-05-05,Thu,Europa Lg,Semi-finals,Home,W 3–0,eng Liverpool,es Villarreal,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-05-08,Sun,Premier League,Matchweek 37,Home,W 2–0,Liverpool,Watford,Y,FW,90,0,1,0,0,8,1,0,0,2,2,1,0,1,1,0,,,Match Report
+2015-2016,2016-05-11,Wed,Premier League,Matchweek 30,Home,D 1–1,Liverpool,Chelsea,N,,16,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2016-05-15,Sun,Premier League,Matchweek 38,Away,D 1–1,Liverpool,West Brom,Y,FW,90,0,0,0,0,2,0,0,0,2,1,0,0,0,0,0,,,Match Report
+2015-2016,2016-05-18,Wed,Europa Lg,Final,Home,L 1–3,eng Liverpool,es Sevilla,N,,8,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-05-28,Sat,Friendlies (M),Friendlies (M),Away,W 2–1,be Belgium,ch Switzerland,N,,6,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-01,Wed,Friendlies (M),Friendlies (M),Home,D 1–1,be Belgium,fi Finland,N,,34,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-05,Sun,Friendlies (M),Friendlies (M),Home,W 3–2,be Belgium,no Norway,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-13,Mon,UEFA Euro,Group stage,Home,L 0–2,be Belgium,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-18,Sat,UEFA Euro,Group stage,Home,W 3–0,be Belgium,ie Republic of Ireland,N,,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,Match Report
+2015-2016,2016-06-22,Wed,UEFA Euro,Group stage,Away,W 1–0,be Belgium,se Sweden,N,,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-06-26,Sun,UEFA Euro,Round of 16,Away,W 4–0,be Belgium,hu Hungary,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

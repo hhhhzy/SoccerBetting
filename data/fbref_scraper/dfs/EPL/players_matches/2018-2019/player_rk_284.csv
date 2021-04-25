@@ -1,0 +1,31 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,L 0–2,Cardiff City,Bournemouth,N,FW,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,D 0–0,Cardiff City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,D 0–0,Cardiff City,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,L 1–3,Cardiff City,Norwich City,Y,FW,58,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Home,L 2–3,Cardiff City,Arsenal,N,RM,2,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 1–4,Cardiff City,Chelsea,N,FW,14,0,0,0,0,0,0,0,0,7,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,4,1,1,1,Match Report
+2018-2019,2018-09-30,Sun,Premier League,Matchweek 7,Home,L 1–2,Cardiff City,Burnley,N,"CM,FW",12,0,0,0,0,0,0,0,0,5,3,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,2,2,0,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,L 1–4,Cardiff City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 0–1,Cardiff City,Leicester City,N,LM,6,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,1,0,0,0,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,L 1–3,Cardiff City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 1–0,Cardiff City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 0–0,Cardiff City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Home,L 0–3,Cardiff City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Championship,Matchweek 27,Home,W 1–0,Sheffield Utd,QPR,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Championship,Matchweek 28,Away,L 0–1,Sheffield Utd,Swansea City,N,,17,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-26,Sat,Championship,Matchweek 29,Away,D 2–2,Sheffield Utd,Norwich City,Y,FW,59,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-02,Sat,Championship,Matchweek 30,Home,W 2–0,Sheffield Utd,Bolton,N,,11,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-08,Fri,Championship,Matchweek 31,Away,D 3–3,Sheffield Utd,Aston Villa,Y,FW,68,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-13,Wed,Championship,Matchweek 32,Home,W 1–0,Sheffield Utd,Middlesbrough,N,,45,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-16,Sat,Championship,Matchweek 33,Home,W 4–0,Sheffield Utd,Reading,Y,FW,83,2,1,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Championship,Matchweek 34,Away,W 1–0,Sheffield Utd,West Brom,N,,27,0,0,0,0,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-04,Mon,Championship,Matchweek 35,Away,D 0–0,Sheffield Utd,Sheffield Weds,Y,FW,67,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-09,Sat,Championship,Matchweek 36,Home,W 2–0,Sheffield Utd,Rotherham Utd,N,,26,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-12,Tue,Championship,Matchweek 37,Home,W 2–0,Sheffield Utd,Brentford,Y,FW,34,0,0,0,0,1,0,0,1,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-10,Wed,Championship,Matchweek 41,Away,D 1–1,Sheffield Utd,Birmingham City,N,,31,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Championship,Matchweek 42,Home,D 1–1,Sheffield Utd,Millwall,N,,70,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-19,Fri,Championship,Matchweek 43,Home,W 2–0,Sheffield Utd,Nott'ham Forest,Y,FW,65,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-22,Mon,Championship,Matchweek 44,Away,W 3–0,Sheffield Utd,Hull City,N,,20,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Championship,Matchweek 45,Home,W 2–0,Sheffield Utd,Ipswich Town,N,,13,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-05,Sun,Championship,Matchweek 46,Away,D 2–2,Sheffield Utd,Stoke City,N,,19,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

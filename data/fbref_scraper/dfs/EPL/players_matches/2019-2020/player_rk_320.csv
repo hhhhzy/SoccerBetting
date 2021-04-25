@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,98,16,1,2,0,0.0,0.0,0.2,1,0,90,93,96.8,4,78,4,0,1,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,W 2–1,Arsenal,Burnley,Y*,"LB,CB",90,0,0,0,0,0,0,0,0,71,2,0,0,1,0.0,0.0,0.1,3,0,54,60,90.0,2,49,6,1,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y,LB,90,0,0,0,0,1,0,0,0,62,16,3,2,2,0.1,0.1,0.0,0,0,38,48,79.2,1,36,4,0,1,Match Report
+2019-2020,2019-09-14,Sat,La Liga,Matchweek 4,Home,W 2–0,Real Sociedad,Atlético Madrid,Y,LB,90,1,0,0,0,1,1,0,0,63,3,0,1,0,0.3,0.3,0.0,0,0,42,54,77.8,6,33,5,0,0,Match Report
+2019-2020,2019-09-22,Sun,La Liga,Matchweek 5,Away,W 3–1,Real Sociedad,Espanyol,Y,LB,90,0,0,0,0,0,0,0,0,53,5,1,1,0,0.0,0.0,0.0,1,0,35,44,79.5,2,27,3,0,0,Match Report
+2019-2020,2019-09-26,Thu,La Liga,Matchweek 6,Home,W 3–0,Real Sociedad,Alavés,Y,LB,90,0,0,0,0,1,0,0,0,49,7,1,2,1,0.0,0.0,0.0,2,1,37,39,94.9,3,25,4,0,0,Match Report
+2019-2020,2019-09-29,Sun,La Liga,Matchweek 7,Away,L 2–3,Real Sociedad,Sevilla,Y,LB,90,0,0,0,0,0,0,0,0,61,12,2,3,5,0.0,0.0,0.0,1,0,40,48,83.3,2,33,1,1,2,Match Report
+2019-2020,2019-10-06,Sun,La Liga,Matchweek 8,Home,L 1–2,Real Sociedad,Getafe,Y,LB,90,0,0,0,0,0,0,0,0,61,15,3,2,3,0.0,0.0,0.0,0,0,28,42,66.7,2,22,1,0,1,Match Report
+2019-2020,2019-10-20,Sun,La Liga,Matchweek 9,Home,W 3–1,Real Sociedad,Betis,Y,LB,90,0,0,0,0,1,0,0,0,43,9,1,0,4,0.4,0.4,0.0,1,0,28,34,82.4,1,16,2,0,0,Match Report
+2019-2020,2019-10-27,Sun,La Liga,Matchweek 10,Away,W 1–0,Real Sociedad,Celta Vigo,Y,LB,90,0,0,0,0,1,0,0,0,50,11,1,0,2,0.1,0.1,0.0,0,0,34,41,82.9,3,17,2,0,0,Match Report
+2019-2020,2019-10-30,Wed,La Liga,Matchweek 11,Home,L 1–2,Real Sociedad,Levante,Y,LB,90,0,0,0,0,1,0,0,0,62,21,0,0,2,0.1,0.1,0.0,1,0,42,52,80.8,3,44,5,0,0,Match Report
+2019-2020,2019-11-03,Sun,La Liga,Matchweek 12,Away,W 2–1,Real Sociedad,Granada,Y,LB,90,0,0,0,0,0,0,0,0,47,11,3,1,2,0.0,0.0,0.0,1,0,32,38,84.2,4,22,0,0,0,Match Report
+2019-2020,2019-11-08,Fri,La Liga,Matchweek 13,Home,D 1–1,Real Sociedad,Leganés,Y,LB,90,0,0,0,0,1,0,1,0,74,17,3,0,3,0.1,0.1,0.0,0,0,54,65,83.1,6,36,6,0,0,Match Report
+2019-2020,2019-11-23,Sat,La Liga,Matchweek 14,Away,L 1–3,Real Sociedad,Real Madrid,Y,LB,90,0,0,0,0,0,0,0,0,69,9,2,2,0,0.0,0.0,0.0,2,0,53,61,86.9,3,47,4,1,1,Match Report
+2019-2020,2019-11-30,Sat,La Liga,Matchweek 15,Home,W 4–1,Real Sociedad,Eibar,Y,LB,90,0,0,0,0,0,0,0,0,71,15,1,0,4,0.0,0.0,0.1,1,0,55,63,87.3,3,35,2,0,0,Match Report
+2019-2020,2019-12-08,Sun,La Liga,Matchweek 16,Away,D 0–0,Real Sociedad,Valladolid,Y,LB,90,0,0,0,0,1,0,0,0,61,8,0,0,1,0.2,0.2,0.2,3,0,47,58,81.0,5,36,2,1,1,Match Report
+2019-2020,2019-12-14,Sat,La Liga,Matchweek 17,Home,D 2–2,Real Sociedad,Barcelona,Y,LB,90,0,0,0,0,0,0,0,0,54,9,2,0,1,0.0,0.0,0.0,1,0,38,43,88.4,1,35,4,0,0,Match Report
+2019-2020,2019-12-22,Sun,La Liga,Matchweek 18,Away,W 4–3,Real Sociedad,Osasuna,Y,LB,45,0,0,0,0,0,0,0,0,26,5,0,0,3,0.0,0.0,0.0,0,0,19,21,90.5,1,9,0,0,0,Match Report
+2019-2020,2020-01-05,Sun,La Liga,Matchweek 19,Home,L 1–2,Real Sociedad,Villarreal,Y,LB,90,0,0,0,0,0,0,0,0,68,12,4,1,3,0.0,0.0,0.0,1,0,46,58,79.3,3,42,5,1,1,Match Report
+2019-2020,2020-01-29,Wed,Copa del Rey,Round of 16,Home,W 3–1,Real Sociedad,Osasuna,N,,31,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,La Liga,Matchweek 22,Away,L 1–2,Real Sociedad,Leganés,Y,LB,90,0,0,0,0,0,0,0,0,63,10,2,1,4,0.0,0.0,0.0,1,0,43,51,84.3,3,30,2,1,1,Match Report
+2019-2020,2020-02-06,Thu,Copa del Rey,Quarter-finals,Away,W 4–3,Real Sociedad,Real Madrid,Y,LB,90,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-09,Sun,La Liga,Matchweek 23,Home,W 2–1,Real Sociedad,Athletic Club,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-13,Thu,Copa del Rey,Semi-finals,Home,W 2–1,Real Sociedad,CD Mirandés,Y,LB,90,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,La Liga,Matchweek 25,Home,W 3–0,Real Sociedad,Valencia,Y,LB,90,1,0,0,0,2,1,0,0,64,17,0,1,3,0.7,0.7,0.1,1,0,43,51,84.3,2,37,3,0,0,Match Report
+2019-2020,2020-02-28,Fri,La Liga,Matchweek 26,Home,W 1–0,Real Sociedad,Valladolid,Y,LB,90,0,0,0,0,0,0,0,0,60,8,3,2,1,0.0,0.0,0.1,1,0,34,52,65.4,2,35,3,1,1,Match Report
+2019-2020,2020-03-04,Wed,Copa del Rey,Semi-finals,Away,W 1–0,Real Sociedad,CD Mirandés,Y,LB,90,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,La Liga,Matchweek 27,Away,L 0–1,Real Sociedad,Barcelona,Y,LB,90,0,0,0,0,1,0,0,0,58,9,0,0,2,0.1,0.1,0.1,1,0,37,50,74.0,2,31,1,0,2,Match Report
+2019-2020,2020-03-10,Tue,La Liga,Matchweek 24,Away,W 2–1,Real Sociedad,Eibar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-14,Sun,La Liga,Matchweek 28,Home,D 1–1,Real Sociedad,Osasuna,Y,LB,81,0,0,0,0,0,0,0,0,69,13,1,2,1,0.0,0.0,0.0,0,0,49,65,75.4,5,48,5,0,0,Match Report
+2019-2020,2020-06-18,Thu,La Liga,Matchweek 29,Away,L 0–2,Real Sociedad,Alavés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-21,Sun,La Liga,Matchweek 30,Home,L 1–2,Real Sociedad,Real Madrid,Y,LB,90,0,0,0,0,1,0,0,0,83,10,1,0,3,0.1,0.1,0.0,2,0,65,72,90.3,5,51,0,0,1,Match Report
+2019-2020,2020-06-24,Wed,La Liga,Matchweek 31,Home,L 0–1,Real Sociedad,Celta Vigo,Y,LB,57,0,0,0,0,0,0,1,0,45,8,1,2,0,0.0,0.0,0.0,0,0,32,39,82.1,1,21,1,1,1,Match Report
+2019-2020,2020-06-29,Mon,La Liga,Matchweek 32,Away,L 1–2,Real Sociedad,Getafe,Y,WB,90,0,0,0,0,0,0,0,0,62,11,2,0,2,0.0,0.0,0.3,2,0,37,49,75.5,3,20,1,0,0,Match Report
+2019-2020,2020-07-02,Thu,La Liga,Matchweek 33,Home,W 2–1,Real Sociedad,Espanyol,Y,LB,90,0,0,0,0,1,1,0,0,87,14,3,0,2,0.1,0.1,0.2,1,0,71,79,89.9,4,46,3,1,1,Match Report
+2019-2020,2020-07-06,Mon,La Liga,Matchweek 34,Away,D 1–1,Real Sociedad,Levante,N,WB,7,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Match Report
+2019-2020,2020-07-10,Fri,La Liga,Matchweek 35,Home,L 2–3,Real Sociedad,Granada,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-13,Mon,La Liga,Matchweek 36,Away,W 2–1,Real Sociedad,Villarreal,Y,LB,85,0,0,0,0,1,1,0,0,53,15,3,1,1,0.1,0.1,0.0,0,0,42,44,95.5,2,32,4,0,0,Match Report
+2019-2020,2020-07-16,Thu,La Liga,Matchweek 37,Home,D 0–0,Real Sociedad,Sevilla,N,WB,45,0,0,0,0,0,0,0,0,20,5,0,0,3,0.0,0.0,0.0,1,0,12,16,75.0,2,9,1,1,1,Match Report
+2019-2020,2020-07-19,Sun,La Liga,Matchweek 38,Away,D 1–1,Real Sociedad,Atlético Madrid,Y,WB,90,0,0,0,0,3,1,1,0,61,13,0,1,2,0.1,0.1,0.0,3,0,39,49,79.6,5,30,3,1,1,Match Report
+2019-2020,2021-04-03,Sat,Copa del Rey,Final,Away,W 1–0,Real Sociedad,Athletic Club,Y,LB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

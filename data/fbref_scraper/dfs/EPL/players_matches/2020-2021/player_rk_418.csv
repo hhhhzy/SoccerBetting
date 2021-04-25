@@ -1,0 +1,39 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-24,Thu,EFL Cup,Third round,Away,W 7–2,Liverpool,Lincoln City,Y,CM,74,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-10,Sat,UEFA Nations League,League A,Away,L 0–1,ch Switzerland,es Spain,N,,31,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-13,Tue,UEFA Nations League,League A,Away,D 3–3,ch Switzerland,de Germany,Y,LM,65,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-21,Wed,Champions Lg,Group stage,Away,W 1–0,eng Liverpool,nl Ajax,N,RW,31,0,0,0,0,1,0,0,0,18,10,0,0,2,0.1,0.1,0.3,2,0,6,13,46.2,2,7,1,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,W 2–1,Liverpool,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-27,Tue,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,dk Midtjylland,Y,CM,90,0,0,0,0,0,0,0,0,55,17,2,0,6,0.0,0.0,0.1,2,1,35,41,85.4,4,41,1,2,3,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Home,W 2–1,Liverpool,West Ham,N,"AM,CM",21,0,1,0,0,0,0,0,0,17,2,1,0,0,0.0,0.0,0.6,2,1,12,14,85.7,1,13,0,1,1,Match Report
+2020-2021,2020-11-03,Tue,Champions Lg,Group stage,Away,W 5–0,eng Liverpool,it Atalanta,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,D 1–1,Liverpool,Manchester City,N,RW,32,0,0,0,0,0,0,0,0,17,4,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,10,0,1,1,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Away,L 1–2,ch Switzerland,be Belgium,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,UEFA Nations League,League A,Home,D 1–1,ch Switzerland,es Spain,Y,DM,72,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 1–1,Liverpool,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-30,Wed,Premier League,Matchweek 16,Away,D 0–0,Liverpool,Newcastle Utd,N,RW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-01-04,Mon,Premier League,Matchweek 17,Away,L 0–1,Liverpool,Southampton,N,CM,34,0,0,0,0,1,0,1,0,31,8,1,1,0,0.0,0.0,0.0,2,0,19,27,70.4,0,20,1,0,0,Match Report
+2020-2021,2021-01-08,Fri,FA Cup,Third round,Away,W 4–1,Liverpool,Aston Villa,N,,30,0,2,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Home,D 0–0,Liverpool,Manchester Utd,Y,CM,75,0,0,0,0,2,0,1,0,73,11,0,0,5,0.1,0.1,0.2,2,0,52,62,83.9,5,57,3,1,1,Match Report
+2020-2021,2021-01-21,Thu,Premier League,Matchweek 18,Home,L 0–1,Liverpool,Burnley,Y,CM,83,0,0,0,0,4,0,0,0,83,18,0,1,0,0.1,0.1,0.2,4,0,64,77,83.1,12,63,9,0,0,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Away,L 2–3,Liverpool,Manchester Utd,N,,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-28,Thu,Premier League,Matchweek 20,Away,W 3–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,W 3–1,Liverpool,West Ham,Y,AM,68,0,1,0,0,1,0,0,0,50,9,0,0,0,0.0,0.0,0.6,6,2,40,45,88.9,4,43,0,0,0,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–1,Liverpool,Brighton,Y,RW,63,0,0,0,0,0,0,0,0,41,13,0,2,1,0.0,0.0,0.1,2,0,26,31,83.9,1,23,2,0,0,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Home,L 1–4,Liverpool,Manchester City,N,CM,23,0,0,0,0,0,0,0,0,16,6,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,9,1,0,0,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,L 1–3,Liverpool,Leicester City,N,AM,4,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,2,0,0,0,Match Report
+2020-2021,2021-02-16,Tue,Champions Lg,Round of 16,Away,W 2–0,eng Liverpool,de RB Leipzig,N,FW,19,0,0,0,0,0,0,0,0,8,4,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,L 0–2,Liverpool,Everton,N,CM,28,0,0,0,0,0,0,0,0,26,5,1,0,0,0.0,0.0,0.3,1,0,21,24,87.5,5,19,1,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,Liverpool,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,"RW,CM",90,0,0,0,0,3,0,0,0,83,11,1,0,1,0.1,0.1,0.4,7,0,58,71,81.7,4,57,2,2,2,Match Report
+2020-2021,2021-03-10,Wed,Champions Lg,Round of 16,Home,W 2–0,eng Liverpool,de RB Leipzig,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-15,Mon,Premier League,Matchweek 28,Away,W 1–0,Liverpool,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Away,W 3–1,ch Switzerland,bg Bulgaria,Y,AM,74,0,2,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Home,W 1–0,ch Switzerland,lt Lithuania,Y,AM,79,1,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,Friendlies (M),Friendlies (M),Home,W 3–2,ch Switzerland,fi Finland,Y*,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-06,Tue,Champions Lg,Quarter-finals,Away,L 1–3,eng Liverpool,es Real Madrid,N,"RW,FW",10,0,0,0,0,0,0,0,0,17,3,1,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,16,1,1,1,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,N,CB,2,0,0,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.5,2,0,4,4,100.0,1,4,0,0,0,Match Report
+2020-2021,2021-04-14,Wed,Champions Lg,Quarter-finals,Home,D 0–0,eng Liverpool,es Real Madrid,N,AM,9,0,0,0,0,0,0,0,0,17,2,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,2,13,1,0,1,Match Report
+2020-2021,2021-04-19,Mon,Premier League,Matchweek 32,Away,D 1–1,Liverpool,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

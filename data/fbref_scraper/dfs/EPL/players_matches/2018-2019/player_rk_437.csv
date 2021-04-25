@@ -1,0 +1,51 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Home,D 0–0,Southampton,Burnley,Y,RM,55,0,0,0,0,0,0,0,0,22,10,1,0,2,0.0,0.0,0.0,1,0,12,18,66.7,0,11,2,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–2,Southampton,Everton,Y,RB,90,0,0,0,0,1,1,1,0,54,11,2,3,2,0.0,0.0,0.1,2,0,26,48,54.2,3,29,2,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,L 1–2,Southampton,Leicester City,Y,RB,90,0,0,0,0,1,0,0,0,54,13,1,1,1,0.0,0.0,0.0,1,1,33,44,75.0,2,33,1,2,2,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 2–0,Southampton,Crystal Palace,Y,RB,90,0,1,0,0,2,0,0,0,87,24,4,1,5,0.0,0.0,0.5,4,1,48,74,64.9,8,58,8,0,0,Match Report
+2018-2019,2018-09-06,Thu,Friendlies (M),Friendlies (M),Home,D 1–1,pt Portugal,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-10,Mon,UEFA Nations League,League A,Home,W 1–0,pt Portugal,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-17,Mon,Premier League,Matchweek 5,Home,D 2–2,Southampton,Brighton,Y,RB,90,0,0,0,0,1,1,1,0,57,15,1,3,1,0.0,0.0,0.0,1,0,35,46,76.1,5,38,3,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 0–3,Southampton,Liverpool,Y,"RB,WB",90,0,0,0,0,0,0,0,0,74,23,1,0,3,0.0,0.0,0.1,1,0,48,65,73.8,5,48,9,2,2,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Southampton,Wolves,Y,RB,90,0,0,0,0,0,0,0,0,50,11,1,1,2,0.0,0.0,0.0,1,0,29,47,61.7,4,36,3,0,0,Match Report
+2018-2019,2018-10-02,Tue,EFL Cup,Third round,Away,L 1 (4)–1 (3),Southampton,Everton,Y,DM,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Home,L 0–3,Southampton,Chelsea,Y,RM,90,0,0,0,0,0,0,1,0,49,29,3,2,3,0.0,0.0,0.0,0,0,26,38,68.4,4,19,2,0,0,Match Report
+2018-2019,2018-10-11,Thu,UEFA Nations League,League A,Away,W 3–2,pt Portugal,pl Poland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-14,Sun,Friendlies (M),Friendlies (M),Away,W 3–1,pt Portugal,sco Scotland,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,D 0–0,Southampton,Bournemouth,Y,RB,90,0,0,0,0,0,0,0,0,57,9,2,1,3,0.0,0.0,0.0,0,0,36,46,78.3,0,27,3,1,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,D 0–0,Southampton,Newcastle Utd,Y,RB,90,0,0,0,0,1,0,0,0,57,10,1,0,2,0.1,0.1,0.2,5,0,35,50,70.0,5,32,3,0,0,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Away,L 1–6,Southampton,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,60,6,0,2,3,0.0,0.0,0.1,1,0,39,51,76.5,2,40,6,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 1–1,Southampton,Watford,Y,RB,90,0,0,0,0,0,0,1,0,52,14,3,0,2,0.0,0.0,0.0,1,0,23,42,54.8,0,27,3,0,2,Match Report
+2018-2019,2018-11-17,Sat,UEFA Nations League,League A,Away,D 0–0,pt Portugal,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,UEFA Nations League,League A,Home,D 1–1,pt Portugal,pl Poland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 2–3,Southampton,Fulham,Y,RB,90,0,1,0,0,1,0,0,0,93,9,3,0,2,0.0,0.0,0.1,3,1,62,82,75.6,6,52,3,0,1,Match Report
+2018-2019,2018-11-27,Tue,EFL Cup,Fourth round,Away,L 0 (5)–0 (6),Southampton,Leicester City,N,,60,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,D 2–2,Southampton,Manchester Utd,Y,WB,90,1,0,0,0,1,1,0,0,32,36,0,0,0,0.1,0.1,0.0,0,0,23,29,79.3,0,26,4,2,2,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,L 1–3,Southampton,Tottenham,Y,RB,90,0,0,0,0,2,0,0,0,69,12,1,1,0,0.0,0.0,0.1,3,0,50,63,79.4,7,51,6,2,2,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,D 0–0,Southampton,Chelsea,Y,WB,90,0,0,0,0,0,0,0,0,62,32,1,1,5,0.0,0.0,0.0,2,0,33,49,67.3,3,35,2,0,2,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Away,D 2–2,Southampton,Derby County,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,N,WB,34,0,0,0,0,0,0,0,0,9,24,2,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Match Report
+2018-2019,2019-01-16,Wed,FA Cup,Third round,Home,D 2 (3)–2 (5),Southampton,Derby County,Y,DM,120,0,0,0,0,2,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Southampton,Everton,N,WB,56,0,0,0,0,0,0,0,0,36,9,1,1,0,0.0,0.0,0.0,0,0,18,27,66.7,1,21,2,0,0,Match Report
+2018-2019,2019-01-31,Thu,Coppa Italia,Quarter-finals,Home,L 1 (3)–1 (4),Inter,Lazio,N,,16,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-03,Sun,Serie A,Matchweek 22,Home,L 0–1,Inter,Bologna,Y,RB,78,0,0,0,0,1,0,0,0,73,28,4,1,2,0.0,0.0,0.0,1,0,43,63,68.3,2,47,1,0,0,Match Report
+2018-2019,2019-02-09,Sat,Serie A,Matchweek 23,Away,W 1–0,Inter,Parma,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2018-2019,2019-02-14,Thu,Europa Lg,Round of 32,Away,W 1–0,it Inter,at Rapid Wien,Y,RB,90,0,0,0,0,0,0,1,0,82,21,2,0,2,0.0,0.0,0.0,1,0,55,74,74.3,4,55,4,3,3,Match Report
+2018-2019,2019-02-17,Sun,Serie A,Matchweek 24,Home,W 2–1,Inter,Sampdoria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-21,Thu,Europa Lg,Round of 32,Home,W 4–0,it Inter,at Rapid Wien,Y,RB,90,0,0,0,0,0,0,0,0,66,12,5,0,2,0.0,0.0,0.0,1,0,48,60,80.0,7,46,12,2,2,Match Report
+2018-2019,2019-02-24,Sun,Serie A,Matchweek 25,Away,D 3–3,Inter,Fiorentina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-01,Fri,Serie A,Matchweek 26,Away,L 1–2,Inter,Cagliari,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-07,Thu,Europa Lg,Round of 16,Away,D 0–0,it Inter,de Eint Frankfurt,N,"WB,AM",12,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,1,Match Report
+2018-2019,2019-03-10,Sun,Serie A,Matchweek 27,Home,W 2–0,Inter,SPAL,Y,"WB,RB",90,0,1,0,0,1,0,0,0,76,15,3,0,3,0.0,0.0,0.1,4,1,45,64,70.3,3,45,3,1,1,Match Report
+2018-2019,2019-03-14,Thu,Europa Lg,Round of 16,Home,L 0–1,it Inter,de Eint Frankfurt,Y,"LB,RB",61,0,0,0,0,1,0,0,0,31,4,0,0,1,0.0,0.0,0.0,0,0,15,27,55.6,2,20,2,1,1,Match Report
+2018-2019,2019-03-17,Sun,Serie A,Matchweek 28,Away,W 3–2,Inter,Milan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-31,Sun,Serie A,Matchweek 29,Home,L 0–1,Inter,Lazio,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-03,Wed,Serie A,Matchweek 30,Away,W 4–0,Inter,Genoa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-07,Sun,Serie A,Matchweek 31,Home,D 0–0,Inter,Atalanta,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-14,Sun,Serie A,Matchweek 32,Away,W 3–1,Inter,Frosinone,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-20,Sat,Serie A,Matchweek 33,Home,D 1–1,Inter,Roma,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Serie A,Matchweek 34,Home,D 1–1,Inter,Juventus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-04,Sat,Serie A,Matchweek 35,Away,D 0–0,Inter,Udinese,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-13,Mon,Serie A,Matchweek 36,Home,W 2–0,Inter,Chievo,Y,RB,90,0,0,0,0,2,0,0,0,84,9,1,0,2,0.1,0.1,0.1,4,1,69,79,87.3,4,48,7,0,0,Match Report
+2018-2019,2019-05-19,Sun,Serie A,Matchweek 37,Away,L 1–4,Inter,Napoli,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-26,Sun,Serie A,Matchweek 38,Home,W 2–1,Inter,Empoli,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

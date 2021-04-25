@@ -1,0 +1,30 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Home,W 4–0,Liverpool,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-20,Mon,Premier League,Matchweek 2,Away,W 2–0,Liverpool,Crystal Palace,N,CM,4,0,0,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,W 1–0,Liverpool,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 2–1,Liverpool,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 1–0,Liverpool,Huddersfield,Y,LW,68,0,0,0,0,0,0,1,0,53,19,1,1,2,0.0,0.0,0.0,1,0,35,41,85.4,3,44,2,3,5,Match Report
+2018-2019,2018-10-24,Wed,Champions Lg,Group stage,Home,W 4–0,eng Liverpool,rs Red Star,N,RW,23,0,0,0,0,1,1,0,0,23,7,0,0,0,0.3,0.3,0.0,0,0,16,18,88.9,0,22,2,1,2,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,W 4–1,Liverpool,Cardiff City,Y,RW,60,0,0,0,0,2,0,0,0,52,14,1,0,2,0.1,0.1,0.1,1,0,36,44,81.8,5,42,5,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,D 1–1,Liverpool,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-06,Tue,Champions Lg,Group stage,Away,L 0–2,eng Liverpool,rs Red Star,Y,CM,78,0,0,0,0,2,0,1,0,43,5,0,0,0,0.1,0.1,0.2,2,0,24,37,64.9,5,33,1,3,3,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,W 3–1,Liverpool,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,W 4–0,Liverpool,Bournemouth,N,LM,26,0,0,0,0,0,0,0,0,23,5,2,0,2,0.0,0.0,0.0,0,0,13,18,72.2,2,16,1,0,1,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,W 3–1,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-21,Fri,Premier League,Matchweek 18,Away,W 2–0,Liverpool,Wolves,N,LM,33,0,0,0,0,1,1,0,0,25,11,2,0,0,0.1,0.1,0.0,0,0,20,20,100.0,0,16,2,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 4–0,Liverpool,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,W 5–1,Liverpool,Arsenal,N,CM,13,0,0,0,0,0,0,0,0,12,9,0,1,0,0.0,0.0,0.1,2,0,10,10,100.0,2,10,0,2,2,Match Report
+2018-2019,2019-01-03,Thu,Premier League,Matchweek 21,Away,L 1–2,Liverpool,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 4–3,Liverpool,Crystal Palace,N,DM,4,0,0,0,0,0,0,0,0,7,1,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,D 1–1,Liverpool,Leicester City,N,LW,25,0,0,0,0,0,0,0,0,19,4,0,1,1,0.0,0.0,0.1,3,0,13,16,81.3,2,14,2,0,0,Match Report
+2018-2019,2019-02-04,Mon,Premier League,Matchweek 25,Away,D 1–1,Liverpool,West Ham,Y,CM,68,0,0,0,0,1,1,0,0,49,25,2,0,3,0.1,0.1,0.0,5,1,32,38,84.2,3,38,5,1,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,W 3–0,Liverpool,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-19,Tue,Champions Lg,Round of 16,Home,D 0–0,eng Liverpool,de Bayern Munich,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Away,D 0–0,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 5–0,Liverpool,Watford,N,FW,13,0,0,0,0,0,0,0,0,6,7,0,0,0,0.0,0.0,0.0,1,1,4,4,100.0,0,6,0,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,D 0–0,Liverpool,Everton,N,"RW,LW",7,0,0,0,0,0,0,0,0,7,2,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,2,0,0,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Home,W 4–2,Liverpool,Burnley,Y,CM,76,0,0,0,0,1,0,0,0,73,24,6,1,1,0.1,0.1,0.1,6,0,49,63,77.8,11,59,8,2,3,Match Report
+2018-2019,2019-03-13,Wed,Champions Lg,Round of 16,Away,W 3–1,eng Liverpool,de Bayern Munich,N,CM,4,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Away,W 2–1,Liverpool,Fulham,Y,CM,71,0,0,0,0,0,0,0,0,48,17,2,0,4,0.0,0.0,0.1,1,0,29,35,82.9,4,29,1,1,1,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Home,W 2–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-01,Sat,Champions Lg,Final,Away,W 2–0,eng Liverpool,eng Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

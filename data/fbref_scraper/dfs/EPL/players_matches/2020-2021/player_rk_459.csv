@@ -1,0 +1,61 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-03,Thu,UEFA Nations League,League A,Away,D 1–1,es Spain,de Germany,Y,FW,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-06,Sun,UEFA Nations League,League A,Home,W 4–0,es Spain,ua Ukraine,N,,17,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Away,W 3–1,Manchester City,Wolves,N,LW,10,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,1,Match Report
+2020-2021,2020-09-24,Thu,EFL Cup,Third round,Home,W 2–1,Manchester City,Bournemouth,Y,AM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,L 2–5,Manchester City,Leicester City,N,"RW,LW",27,0,0,0,0,1,0,0,0,25,4,0,0,0,0.0,0.0,0.1,1,0,14,19,73.7,1,19,5,2,4,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 3–0,Manchester City,Burnley,Y,RW,90,1,1,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,D 1–1,Manchester City,Leeds United,Y,RW,64,0,1,0,0,2,0,0,0,31,5,0,0,0,0.1,0.1,0.1,1,1,17,23,73.9,3,28,5,1,4,Match Report
+2020-2021,2020-10-07,Wed,Friendlies (M),Friendlies (M),Away,D 0–0,es Spain,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-10,Sat,UEFA Nations League,League A,Home,W 1–0,es Spain,ch Switzerland,Y,FW,87,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-13,Tue,UEFA Nations League,League A,Away,L 0–1,es Spain,ua Ukraine,N,,33,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,W 1–0,Manchester City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-21,Wed,Champions Lg,Group stage,Home,W 3–1,eng Manchester City,pt Porto,N,"LW,FW",23,1,0,0,0,1,1,0,0,12,4,0,0,2,0.2,0.2,0.0,1,1,6,7,85.7,2,14,3,3,3,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,D 1–1,Manchester City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-27,Tue,Champions Lg,Group stage,Away,W 3–0,eng Manchester City,fr Marseille,Y,FW,76,1,0,0,0,1,1,0,0,18,17,0,0,1,0.6,0.6,0.1,3,0,11,13,84.6,1,11,1,2,3,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,W 1–0,Manchester City,Sheffield Utd,Y,FW,80,0,0,0,0,5,3,0,0,22,10,0,0,1,1.0,1.0,0.0,1,0,10,11,90.9,0,15,0,1,2,Match Report
+2020-2021,2020-11-03,Tue,Champions Lg,Group stage,Home,W 3–0,eng Manchester City,gr Olympiacos,Y,"FW,RW,LW",90,1,0,0,0,5,1,0,0,29,9,1,0,0,0.6,0.6,0.5,6,1,18,19,94.7,1,18,2,0,0,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Home,D 1–1,Manchester City,Liverpool,Y,RW,60,0,0,0,0,0,0,0,0,19,6,0,0,0,0.0,0.0,0.0,2,0,11,15,73.3,3,14,3,0,1,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Away,D 1–1,es Spain,nl Netherlands,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,UEFA Nations League,League A,Away,D 1–1,es Spain,ch Switzerland,Y,AM,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,UEFA Nations League,League A,Home,W 6–0,es Spain,de Germany,Y,AM,72,3,0,0,0,7,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–2,Manchester City,Tottenham,Y,"LW,RW",90,0,0,0,0,4,1,1,0,52,10,2,0,0,0.1,0.1,0.0,3,0,33,38,86.8,3,45,10,2,3,Match Report
+2020-2021,2020-11-25,Wed,Champions Lg,Group stage,Away,W 1–0,eng Manchester City,gr Olympiacos,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 5–0,Manchester City,Burnley,Y,LW,66,1,0,0,0,2,1,0,0,25,4,0,0,1,0.6,0.6,0.0,2,1,16,17,94.1,3,18,5,0,1,Match Report
+2020-2021,2020-12-01,Tue,Champions Lg,Group stage,Away,D 0–0,eng Manchester City,pt Porto,Y,FW,70,0,0,0,0,3,1,0,0,15,10,0,0,0,0.5,0.5,0.1,3,0,5,7,71.4,0,8,0,1,1,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,W 2–0,Manchester City,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-09,Wed,Champions Lg,Group stage,Home,W 3–0,eng Manchester City,fr Marseille,Y,"FW,RW",90,1,0,0,0,2,1,0,0,30,22,3,2,0,0.6,0.6,0.1,4,0,12,17,70.6,3,21,4,2,2,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,D 0–0,Manchester City,Manchester Utd,N,RW,25,0,0,0,0,0,0,0,0,18,8,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,16,2,0,0,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Home,D 1–1,Manchester City,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Away,W 1–0,Manchester City,Southampton,Y,FW,71,0,0,0,0,1,0,0,0,21,14,0,1,1,0.0,0.0,0.0,1,0,10,13,76.9,1,13,2,0,0,Match Report
+2020-2021,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,W 4–1,Manchester City,Arsenal,N,,21,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 2–0,Manchester City,Newcastle Utd,Y,FW,76,1,0,0,0,2,2,0,0,15,10,1,0,0,0.5,0.5,0.3,3,0,6,8,75.0,2,11,3,1,3,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 18,Home,W 1–0,Manchester City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Home,W 4–0,Manchester City,Crystal Palace,N,"LW,CM",20,0,0,0,0,0,0,0,0,17,6,1,0,1,0.0,0.0,0.0,1,1,11,13,84.6,1,11,1,0,0,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 1,Home,W 2–0,Manchester City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Away,W 3–1,Manchester City,Cheltenham,Y,FW,90,1,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 5–0,Manchester City,West Brom,N,LW,39,0,0,0,0,1,0,0,0,22,1,0,0,1,0.1,0.1,0.1,2,0,17,19,89.5,1,20,2,1,2,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Manchester City,Sheffield Utd,Y,RW,89,0,1,0,0,0,0,0,0,59,13,1,0,0,0.0,0.0,0.6,3,2,40,49,81.6,2,55,5,3,7,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–0,Manchester City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,W 4–1,Manchester City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Away,W 3–1,Manchester City,Swansea City,Y,FW,90,0,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,W 3–0,Manchester City,Tottenham,N,CM,22,0,0,0,0,0,0,0,0,5,3,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 16,Away,W 3–1,Manchester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,W 1–0,Manchester City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-24,Wed,Champions Lg,Round of 16,Away,W 2–0,eng Manchester City,de M'Gladbach,N,LW,11,0,0,0,0,1,0,0,0,6,1,1,0,0,0.0,0.0,0.1,2,0,4,4,100.0,2,5,1,1,1,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 2–1,Manchester City,West Ham,Y,LW,64,0,0,0,0,2,1,0,0,40,11,0,3,1,0.1,0.1,0.0,1,0,24,28,85.7,1,36,8,2,5,Match Report
+2020-2021,2021-03-02,Tue,Premier League,Matchweek 29,Home,W 4–1,Manchester City,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,L 0–2,Manchester City,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-10,Wed,Premier League,Matchweek 33,Home,W 5–2,Manchester City,Southampton,N,RW,30,0,0,0,0,2,0,0,0,13,10,0,0,0,0.6,0.6,0.0,0,0,5,6,83.3,0,11,2,1,3,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,W 3–0,Manchester City,Fulham,Y,RW,90,0,0,0,0,2,1,0,0,38,32,2,0,2,0.3,0.3,0.0,2,1,18,24,75.0,2,26,5,1,1,Match Report
+2020-2021,2021-03-16,Tue,Champions Lg,Round of 16,Home,W 2–0,eng Manchester City,de M'Gladbach,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Away,W 2–0,Manchester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Home,D 1–1,es Spain,gr Greece,Y,FW,71,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–1,es Spain,ge Georgia,Y,FW,90,1,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Home,W 3–1,es Spain,xk Kosovo,Y,FW,90,1,0,0,0,7,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 2–0,Manchester City,Leicester City,N,RW,12,0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-04-06,Tue,Champions Lg,Quarter-finals,Home,W 2–1,eng Manchester City,de Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–2,Manchester City,Leeds United,Y,RW,90,1,0,0,0,4,1,0,0,42,6,0,0,3,0.7,0.7,0.3,7,0,20,27,74.1,3,28,4,1,2,Match Report
+2020-2021,2021-04-14,Wed,Champions Lg,Quarter-finals,Away,W 2–1,eng Manchester City,de Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,FA Cup,Semi-finals,Away,L 0–1,Manchester City,Chelsea,Y,AM,63,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 32,Away,W 2–1,Manchester City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

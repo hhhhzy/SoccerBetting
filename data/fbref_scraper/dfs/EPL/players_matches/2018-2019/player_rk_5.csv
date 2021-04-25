@@ -1,0 +1,67 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-02,Mon,FIFA World Cup,Round of 16,Neutral,W 3–2,be Belgium,jp Japan,Y,CB,90,0,0,0,0,0,0,0,0,79,8,0,0,1,0.0,0.0,0.0,1,0,68,76,89.5,4,63,5,0,0,Match Report
+2018-2019,2018-07-06,Fri,FIFA World Cup,Quarter-finals,Neutral,W 2–1,be Belgium,br Brazil,Y,CB,90,0,0,0,0,0,0,1,0,45,14,1,0,5,0.0,0.0,0.0,0,0,25,29,86.2,1,22,1,0,0,Match Report
+2018-2019,2018-07-10,Tue,FIFA World Cup,Semi-finals,Neutral,L 0–1,be Belgium,fr France,Y,CB,90,0,0,0,0,2,1,1,0,121,3,1,1,2,0.1,0.1,0.0,1,0,105,114,92.1,5,86,28,0,0,Match Report
+2018-2019,2018-07-14,Sat,FIFA World Cup,Third-place match,Neutral,W 2–0,be Belgium,eng England,Y,CB,90,0,0,0,0,1,0,0,0,69,7,0,1,1,0.0,0.0,0.0,0,0,55,62,88.7,4,54,4,0,0,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,W 2–1,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 3–1,Tottenham,Fulham,Y,CB,90,0,0,0,0,1,1,0,0,85,8,2,0,0,0.0,0.0,0.0,0,0,73,82,89.0,7,69,8,0,0,Match Report
+2018-2019,2018-08-27,Mon,Premier League,Matchweek 3,Away,W 3–0,Tottenham,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,62,10,2,3,3,0.0,0.0,0.0,1,0,35,54,64.8,1,33,0,1,1,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Away,L 1–2,Tottenham,Watford,Y,CB,80,0,0,0,0,0,0,0,0,73,3,1,0,1,0.0,0.0,0.1,1,0,55,65,84.6,8,54,5,0,1,Match Report
+2018-2019,2018-09-07,Fri,Friendlies (M),Friendlies (M),Away,W 4–0,be Belgium,sco Scotland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,UEFA Nations League,League A,Away,W 3–0,be Belgium,is Iceland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,L 1–2,Tottenham,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,104,13,2,0,4,0.0,0.0,0.0,1,0,86,96,89.6,6,79,4,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,W 2–1,Tottenham,Brighton,Y,CB,90,0,0,0,0,1,1,0,0,86,5,0,0,2,0.1,0.1,0.0,1,0,71,80,88.8,1,66,2,0,0,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Home,W 2 (4)–2 (2),Tottenham,Watford,Y,CB,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,W 2–0,Tottenham,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,58,4,1,0,0,0.0,0.0,0.0,1,0,38,51,74.5,3,39,1,0,0,Match Report
+2018-2019,2018-10-03,Wed,Champions Lg,Group stage,Home,L 2–4,eng Tottenham,es Barcelona,Y,CB,90,0,0,0,0,0,0,1,0,63,11,2,2,1,0.0,0.0,0.0,1,0,50,54,92.6,4,41,1,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,W 1–0,Tottenham,Cardiff City,Y,CB,90,0,0,0,0,0,0,1,0,80,2,4,2,1,0.0,0.0,0.0,0,0,61,72,84.7,2,54,1,0,0,Match Report
+2018-2019,2018-10-12,Fri,UEFA Nations League,League A,Home,W 2–1,be Belgium,ch Switzerland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Home,D 1–1,be Belgium,nl Netherlands,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 1–0,Tottenham,West Ham,Y,CB,90,0,0,0,0,1,0,0,0,50,2,1,1,1,0.0,0.0,0.0,1,0,35,39,89.7,0,31,0,0,0,Match Report
+2018-2019,2018-10-24,Wed,Champions Lg,Group stage,Away,D 2–2,eng Tottenham,nl PSV Eindhoven,Y,CB,90,0,0,0,0,1,1,0,0,75,4,0,1,0,0.0,0.0,0.0,2,0,63,65,96.9,3,52,3,0,0,Match Report
+2018-2019,2018-10-29,Mon,Premier League,Matchweek 10,Home,L 0–1,Tottenham,Manchester City,Y,CB,90,0,0,0,0,1,1,0,0,68,11,2,0,2,0.0,0.0,0.0,0,0,53,59,89.8,3,45,1,0,1,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 3–2,Tottenham,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,63,5,0,1,0,0.0,0.0,0.0,1,0,51,56,91.1,1,47,1,0,0,Match Report
+2018-2019,2018-11-06,Tue,Champions Lg,Group stage,Home,W 2–1,eng Tottenham,nl PSV Eindhoven,Y,CB,90,0,0,0,0,1,0,0,0,84,3,0,0,2,0.1,0.1,0.2,1,0,63,75,84.0,2,54,1,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,W 1–0,Tottenham,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,96,9,0,0,3,0.1,0.1,0.0,0,0,80,83,96.4,1,63,4,0,0,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Home,W 2–0,be Belgium,is Iceland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,UEFA Nations League,League A,Away,L 2–5,be Belgium,ch Switzerland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,W 3–1,Tottenham,Chelsea,Y,CB,90,0,0,0,0,1,1,0,0,36,6,0,1,1,0.2,0.2,0.0,1,0,22,28,78.6,1,18,1,0,0,Match Report
+2018-2019,2018-11-28,Wed,Champions Lg,Group stage,Home,W 1–0,eng Tottenham,it Inter,Y,CB,90,0,0,0,0,1,0,1,0,66,3,1,1,1,0.1,0.1,0.0,0,0,51,58,87.9,5,44,3,0,0,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Away,L 2–4,Tottenham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,W 3–1,Tottenham,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,83,5,1,2,2,0.0,0.0,0.0,0,0,61,70,87.1,7,59,5,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,W 2–0,Tottenham,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,80,3,2,1,3,0.0,0.0,0.0,1,0,61,70,87.1,6,60,2,0,0,Match Report
+2018-2019,2018-12-11,Tue,Champions Lg,Group stage,Away,D 1–1,eng Tottenham,es Barcelona,Y,CB,90,0,0,0,0,0,0,0,0,72,4,0,0,0,0.0,0.0,0.0,4,0,57,67,85.1,1,53,6,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 1–0,Tottenham,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,117,5,1,0,1,0.0,0.0,0.0,2,0,100,109,91.7,6,94,16,0,0,Match Report
+2018-2019,2018-12-19,Wed,EFL Cup,Quarter-finals,Away,W 2–0,Tottenham,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-23,Sun,Premier League,Matchweek 18,Away,W 6–2,Tottenham,Everton,Y,CB,90,0,0,0,0,0,0,0,0,77,7,0,0,0,0.0,0.0,0.0,1,0,57,63,90.5,1,49,0,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 5–0,Tottenham,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,80,6,0,2,0,0.0,0.0,0.0,1,0,66,75,88.0,2,65,5,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,L 1–3,Tottenham,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,88,9,2,0,1,0.0,0.0,0.0,0,0,73,77,94.8,5,61,5,0,0,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Away,W 3–0,Tottenham,Cardiff City,Y,CB,90,0,0,0,0,0,0,0,0,127,3,0,0,0,0.0,0.0,0.0,0,0,117,122,95.9,1,104,1,0,0,Match Report
+2018-2019,2019-01-04,Fri,FA Cup,Third round,Away,W 7–0,Tottenham,Tranmere Rovers,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-08,Tue,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Manchester Utd,Y,CB,90,0,0,0,0,1,1,0,0,86,14,2,1,1,0.1,0.1,0.0,1,0,68,80,85.0,4,63,2,0,0,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Away,W 2–1,Tottenham,Fulham,Y,CB,90,0,0,0,0,0,0,1,0,85,12,1,0,3,0.0,0.0,0.0,0,0,72,75,96.0,3,43,4,0,0,Match Report
+2018-2019,2019-01-24,Thu,EFL Cup,Semi-finals,Away,L 1 (2)–2 (4),Tottenham,Chelsea,Y,CB,120,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,W 2–1,Tottenham,Watford,Y,CB,90,0,0,0,0,1,0,0,0,92,10,0,0,2,0.0,0.0,0.1,2,0,76,84,90.5,15,67,10,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,86,5,1,1,3,0.0,0.0,0.0,2,0,68,77,88.3,10,63,10,0,0,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Home,W 3–1,Tottenham,Leicester City,N,"CM,CB",20,0,0,0,0,0,0,0,0,11,0,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,5,0,0,0,Match Report
+2018-2019,2019-02-13,Wed,Champions Lg,Round of 16,Home,W 3–0,eng Tottenham,de Dortmund,Y,CB,90,0,0,0,0,1,1,0,0,96,6,1,0,2,0.1,0.1,0.0,0,0,78,87,89.7,9,71,8,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,L 1–2,Tottenham,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,80,6,3,1,4,0.0,0.0,0.0,1,0,57,68,83.8,3,43,2,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Tottenham,Chelsea,Y,CB,90,0,0,0,0,2,0,0,0,84,11,6,0,4,0.1,0.1,0.0,0,0,64,71,90.1,4,62,5,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,D 1–1,Tottenham,Arsenal,Y,CB,90,0,0,0,0,1,0,0,0,89,6,0,0,2,0.0,0.0,0.0,1,0,60,76,78.9,6,47,5,0,0,Match Report
+2018-2019,2019-03-05,Tue,Champions Lg,Round of 16,Away,W 1–0,eng Tottenham,de Dortmund,Y,CB,90,0,0,0,0,1,0,0,0,49,7,1,1,1,0.1,0.1,0.0,0,0,33,43,76.7,1,35,1,0,0,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Away,L 1–2,Tottenham,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,76,5,1,1,2,0.0,0.0,0.0,0,0,57,66,86.4,0,53,0,0,0,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 31,Home,W 2–0,Tottenham,Crystal Palace,Y,CB,90,0,0,0,0,2,0,0,0,82,7,0,0,0,0.3,0.3,0.0,3,0,75,78,96.2,7,68,4,0,0,Match Report
+2018-2019,2019-04-09,Tue,Champions Lg,Quarter-finals,Home,W 1–0,eng Tottenham,eng Manchester City,Y,CB,90,0,0,0,0,1,0,0,0,53,4,2,0,2,0.0,0.0,0.0,0,0,32,42,76.2,1,28,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 4–0,Tottenham,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-17,Wed,Champions Lg,Quarter-finals,Away,L 3–4,eng Tottenham,eng Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,43,13,2,0,3,0.0,0.0,0.0,0,0,22,28,78.6,0,23,0,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,L 0–1,Tottenham,Manchester City,Y,CB,77,0,0,0,0,0,0,0,0,41,5,1,0,2,0.0,0.0,0.3,1,0,33,37,89.2,3,18,2,0,0,Match Report
+2018-2019,2019-04-23,Tue,Premier League,Matchweek 33,Home,W 1–0,Tottenham,Brighton,Y,CB,90,0,0,0,0,3,0,0,0,103,6,2,0,0,0.1,0.1,0.1,6,1,85,93,91.4,3,85,14,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,L 0–1,Tottenham,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,87,6,1,0,4,0.0,0.0,0.0,0,0,66,75,88.0,2,54,2,0,0,Match Report
+2018-2019,2019-04-30,Tue,Champions Lg,Semi-finals,Home,L 0–1,eng Tottenham,nl Ajax,Y,CB,90,0,0,0,0,2,0,0,0,66,10,1,0,3,0.1,0.1,0.0,0,0,48,59,81.4,5,41,1,0,0,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–1,Tottenham,Bournemouth,Y,CB,45,0,0,0,0,0,0,1,0,32,0,0,0,2,0.0,0.0,0.0,0,0,27,28,96.4,4,20,1,0,0,Match Report
+2018-2019,2019-05-08,Wed,Champions Lg,Semi-finals,Away,W 3–2,eng Tottenham,nl Ajax,Y,CB,90,0,0,0,0,1,0,0,0,88,4,1,1,4,0.1,0.1,0.0,0,0,68,76,89.5,2,56,9,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 2–2,Tottenham,Everton,Y,CB,90,0,0,0,0,0,0,0,0,85,6,2,2,0,0.0,0.0,0.0,0,0,57,74,77.0,1,49,0,0,0,Match Report
+2018-2019,2019-06-01,Sat,Champions Lg,Final,Home,L 0–2,eng Tottenham,eng Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,84,3,0,1,1,0.0,0.0,0.0,0,0,60,76,78.9,2,58,3,0,0,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 3–0,be Belgium,kz Kazakhstan,Y,CB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-11,Tue,Euro Qualifying,Group stage,Home,W 3–0,be Belgium,sco Scotland,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

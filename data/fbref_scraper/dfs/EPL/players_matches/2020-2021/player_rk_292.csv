@@ -1,0 +1,31 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-11,Fri,DFB-Pokal,First round,Away,W 5–1,Mainz 05,TSV Havelse,Y,FW,90,3,0,0,0,5,5,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Bundesliga,Matchweek 1,Away,L 1–3,Mainz 05,RB Leipzig,Y,FW,89,1,0,0,0,2,1,1,0,28,11,0,0,0,0.9,0.9,0.0,0,0,11,14,78.6,0,14,1,0,1,Match Report
+2020-2021,2020-09-26,Sat,Bundesliga,Matchweek 2,Home,L 1–4,Mainz 05,Stuttgart,Y,FW,85,0,1,0,0,1,1,0,0,32,11,1,0,0,0.0,0.0,0.7,2,1,14,22,63.6,0,24,1,2,4,Match Report
+2020-2021,2020-10-02,Fri,Bundesliga,Matchweek 3,Away,L 0–4,Mainz 05,Union Berlin,Y,FW,59,0,0,0,0,2,0,1,0,27,6,0,0,0,0.1,0.1,0.0,0,0,13,16,81.3,0,18,1,0,1,Match Report
+2020-2021,2020-10-17,Sat,Bundesliga,Matchweek 4,Home,L 0–1,Mainz 05,Leverkusen,Y,FW,76,0,0,0,0,0,0,0,0,23,5,0,0,0,0.0,0.0,0.1,2,0,14,16,87.5,2,15,1,1,1,Match Report
+2020-2021,2020-10-24,Sat,Bundesliga,Matchweek 5,Home,L 2–3,Mainz 05,M'Gladbach,Y,FW,90,2,0,0,0,2,2,0,0,36,11,1,0,0,0.6,0.6,0.4,4,0,19,25,76.0,1,17,0,1,2,Match Report
+2020-2021,2020-10-31,Sat,Bundesliga,Matchweek 6,Away,L 1–3,Mainz 05,Augsburg,Y,FW,57,0,0,0,0,0,0,0,0,13,8,2,1,1,0.0,0.0,0.0,0,0,6,9,66.7,0,6,2,0,0,Match Report
+2020-2021,2020-11-07,Sat,Bundesliga,Matchweek 7,Home,D 2–2,Mainz 05,Schalke 04,Y,FW,78,1,0,1,1,5,2,0,0,33,6,0,0,2,1.7,1.0,0.2,3,1,16,20,80.0,1,16,3,0,0,Match Report
+2020-2021,2020-11-22,Sun,Bundesliga,Matchweek 8,Away,W 3–1,Mainz 05,Freiburg,Y,FW,79,3,0,0,0,6,4,0,0,46,4,0,0,0,2.0,2.0,0.0,6,1,22,30,73.3,0,33,5,3,5,Match Report
+2020-2021,2020-11-29,Sun,Bundesliga,Matchweek 9,Home,D 1–1,Mainz 05,Hoffenheim,Y,FW,90,0,0,0,0,3,1,0,0,44,7,0,0,3,0.5,0.5,0.0,3,1,19,26,73.1,2,27,3,2,3,Match Report
+2020-2021,2020-12-05,Sat,Bundesliga,Matchweek 10,Away,L 1–2,Mainz 05,Arminia,Y,FW,90,0,0,0,0,3,2,0,0,31,20,0,0,0,0.9,0.9,0.0,3,0,10,20,50.0,0,15,1,2,3,Match Report
+2020-2021,2020-12-12,Sat,Bundesliga,Matchweek 11,Home,L 0–1,Mainz 05,Köln,Y,FW,90,0,0,0,0,2,0,0,0,35,8,1,0,0,0.7,0.7,0.0,0,0,19,28,67.9,0,27,1,4,4,Match Report
+2020-2021,2020-12-15,Tue,Bundesliga,Matchweek 12,Away,D 0–0,Mainz 05,Hertha BSC,N,FW,11,0,0,0,0,0,0,0,0,7,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,0,0,Match Report
+2020-2021,2020-12-19,Sat,Bundesliga,Matchweek 13,Home,L 0–1,Mainz 05,Werder Bremen,Y,FW,78,0,0,0,0,0,0,0,0,32,4,0,0,1,0.0,0.0,0.1,1,0,16,22,72.7,0,23,0,0,1,Match Report
+2020-2021,2020-12-23,Wed,DFB-Pokal,Second round,Home,L 2 (0)–2 (3),Mainz 05,Bochum,N,,59,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-03,Sun,Bundesliga,Matchweek 14,Away,L 2–5,Mainz 05,Bayern Munich,N,FW,11,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Match Report
+2020-2021,2021-01-09,Sat,Bundesliga,Matchweek 15,Home,L 0–2,Mainz 05,Eint Frankfurt,N,LW,14,0,0,0,0,1,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,1,0,0,Match Report
+2020-2021,2021-01-16,Sat,Bundesliga,Matchweek 16,Away,D 1–1,Mainz 05,Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,W 2–1,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-08,Mon,Premier League,Matchweek 23,Away,L 0–2,Crystal Palace,Leeds United,Y,FW,64,0,0,0,0,0,0,0,0,28,7,0,1,0,0.0,0.0,0.0,3,0,15,18,83.3,2,18,0,0,0,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,L 0–3,Crystal Palace,Burnley,N,FW,15,0,0,0,0,1,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,1,0,0,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,Y,FW,74,1,0,0,0,1,1,0,0,17,12,0,0,0,0.1,0.1,0.0,0,0,5,9,55.6,1,6,1,0,1,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,L 1–4,Crystal Palace,Tottenham,N,FW,17,0,0,0,0,1,0,0,0,6,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,1,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,W 1–0,Crystal Palace,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Away,D 1–1,Crystal Palace,Everton,N,FW,14,0,0,0,0,1,1,0,0,9,4,1,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,4,1,1,1,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-12,Mon,PL2 — Div. 2,Matchweek 23,Home,D 2–2,Crystal Palace U23,Stoke City,Y,LM,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

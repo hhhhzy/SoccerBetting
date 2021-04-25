@@ -1,0 +1,62 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-06,Sun,Community Shield,FA Community Shield,Neutral,W 1 (4)–1 (1),Arsenal,Chelsea,Y,DM,120,0,1,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-11,Fri,Premier League,Matchweek 1,Home,W 4–3,Arsenal,Leicester City,Y,DM,90,0,2,0,0,4,1,0,0,110,19,1,0,0,0.1,0.1,0.3,10,2,83,102,81.4,15,89,13,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–1,Arsenal,Stoke City,Y,DM,78,0,0,0,0,2,1,0,0,106,6,0,1,2,0.0,0.0,0.1,2,0,82,97,84.5,15,73,10,1,1,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–4,Arsenal,Liverpool,Y,"DM,CM",90,0,0,0,0,1,0,1,0,86,25,0,1,1,0.0,0.0,0.0,1,0,70,82,85.4,7,62,2,0,0,Match Report
+2017-2018,2017-08-31,Thu,WCQ — UEFA (M),First round,Home,W 3–0,ch Switzerland,ad Andorra,Y,DM,65,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Away,W 3–0,ch Switzerland,lv Latvia,Y,CM,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,W 3–0,Arsenal,Bournemouth,Y,DM,90,0,0,0,0,2,1,0,0,85,15,2,2,0,0.1,0.1,0.0,2,0,54,76,71.1,7,63,3,2,2,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Away,D 0–0,Arsenal,Chelsea,Y,"CM,DM",90,0,0,0,0,1,0,0,0,82,16,2,1,2,0.0,0.0,0.0,1,0,53,70,75.7,2,60,3,0,0,Match Report
+2017-2018,2017-09-25,Mon,Premier League,Matchweek 6,Home,W 2–0,Arsenal,West Brom,Y,DM,90,0,0,0,0,3,0,0,0,84,7,2,0,0,0.2,0.2,0.1,2,0,63,74,85.1,5,63,6,0,0,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,W 2–0,Arsenal,Brighton,Y,CM,82,0,0,0,0,3,0,0,0,104,26,0,1,2,0.1,0.1,0.0,3,0,80,98,81.6,11,76,18,1,1,Match Report
+2017-2018,2017-10-07,Sat,WCQ — UEFA (M),First round,Home,W 5–2,ch Switzerland,hu Hungary,Y,DM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-10,Tue,WCQ — UEFA (M),First round,Away,L 0–2,ch Switzerland,pt Portugal,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 1–2,Arsenal,Watford,Y,DM,90,0,1,0,0,2,2,0,0,79,19,1,2,1,0.1,0.1,0.2,3,1,54,68,79.4,7,56,6,0,0,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Away,W 5–2,Arsenal,Everton,Y,CM,90,0,0,0,0,4,1,0,0,111,19,3,3,2,0.1,0.1,0.0,4,1,79,94,84.0,7,74,14,2,3,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,W 2–1,Arsenal,Swansea City,Y,CM,90,0,0,0,0,0,0,0,0,107,23,0,0,2,0.0,0.0,0.0,2,1,92,104,88.5,14,61,6,0,0,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 1–3,Arsenal,Manchester City,Y,CM,77,0,0,0,0,0,0,1,0,50,6,1,2,1,0.0,0.0,0.0,0,0,36,42,85.7,3,32,1,0,0,Match Report
+2017-2018,2017-11-09,Thu,WCQ — UEFA (M),Second round,Away,W 1–0,ch Switzerland,nir Northern Ireland,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-12,Sun,WCQ — UEFA (M),Second round,Home,D 0–0,ch Switzerland,nir Northern Ireland,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 2–0,Arsenal,Tottenham,Y,CM,90,0,0,0,0,2,0,1,0,57,11,0,1,2,0.1,0.1,0.0,0,0,34,47,72.3,4,22,4,0,0,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,W 1–0,Arsenal,Burnley,Y,CM,90,0,0,0,0,2,0,0,0,88,4,1,1,1,0.1,0.1,0.0,2,1,70,81,86.4,4,63,5,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 5–0,Arsenal,Huddersfield,Y,DM,90,0,0,0,0,4,1,0,0,133,22,2,0,1,0.1,0.1,0.0,3,1,114,125,91.2,19,111,10,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,L 1–3,Arsenal,Manchester Utd,Y,"LM,CM",69,0,0,0,0,2,0,0,0,69,7,5,0,2,0.1,0.1,0.6,3,0,55,61,90.2,7,44,7,0,0,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,D 1–1,Arsenal,Southampton,Y,"CM,DM",68,0,0,0,0,1,0,0,0,105,7,1,0,0,0.0,0.0,0.1,3,0,90,98,91.8,9,91,14,1,1,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,D 0–0,Arsenal,West Ham,Y,CM,90,0,0,0,0,3,1,0,0,118,19,1,0,3,0.0,0.0,0.1,2,0,93,108,86.1,10,83,14,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,W 1–0,Arsenal,Newcastle Utd,Y,DM,90,0,0,0,0,1,0,1,0,103,8,2,2,2,0.0,0.0,0.0,0,0,77,91,84.6,12,63,6,0,0,Match Report
+2017-2018,2017-12-22,Fri,Premier League,Matchweek 19,Home,D 3–3,Arsenal,Liverpool,Y,CM,90,1,0,0,0,3,1,0,0,69,21,2,1,0,0.1,0.1,0.0,1,1,46,60,76.7,6,33,2,0,0,Match Report
+2017-2018,2017-12-28,Thu,Premier League,Matchweek 20,Away,W 3–2,Arsenal,Crystal Palace,Y,CM,86,0,0,0,0,3,1,0,0,81,21,0,0,1,0.1,0.1,0.0,0,0,67,75,89.3,6,54,8,1,1,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Away,D 1–1,Arsenal,West Brom,Y,CM,90,0,0,0,0,2,1,0,0,103,3,0,1,1,0.0,0.0,0.0,6,0,80,93,86.0,9,79,3,0,0,Match Report
+2017-2018,2018-01-03,Wed,Premier League,Matchweek 22,Home,D 2–2,Arsenal,Chelsea,Y,CM,90,0,0,0,0,2,0,0,0,95,17,2,0,2,0.0,0.0,0.0,3,0,68,82,82.9,8,80,6,1,4,Match Report
+2017-2018,2018-01-10,Wed,EFL Cup,Semi-finals,Away,D 0–0,Arsenal,Chelsea,Y,DM,90,0,0,0,0,2,1,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-14,Sun,Premier League,Matchweek 23,Away,L 1–2,Arsenal,Bournemouth,Y,"CM,DM",90,0,0,0,0,3,1,1,0,94,18,3,0,0,0.1,0.1,0.3,6,1,59,76,77.6,10,61,5,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,W 4–1,Arsenal,Crystal Palace,Y,CM,90,0,1,0,0,2,0,0,0,91,20,2,0,1,0.1,0.1,0.3,5,2,67,82,81.7,10,76,11,0,0,Match Report
+2017-2018,2018-01-24,Wed,EFL Cup,Semi-finals,Home,W 2–1,Arsenal,Chelsea,Y,CM,90,1,0,0,0,5,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Away,L 1–3,Arsenal,Swansea City,Y,"CM,DM",90,0,0,0,0,1,0,0,0,124,11,0,0,0,0.1,0.1,0.0,1,0,109,120,90.8,7,91,12,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 5–1,Arsenal,Everton,Y,CM,90,0,0,0,0,1,0,0,0,95,8,4,1,2,0.1,0.1,0.1,3,0,75,82,91.5,5,59,2,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,L 0–1,Arsenal,Tottenham,Y,CM,85,0,0,0,0,0,0,0,0,75,31,2,1,1,0.0,0.0,0.0,0,0,55,63,87.3,5,49,1,0,0,Match Report
+2017-2018,2018-02-15,Thu,Europa Lg,Round of 32,Neutral,W 3–0,eng Arsenal,se Östersund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-22,Thu,Europa Lg,Round of 32,Neutral,L 1–2,eng Arsenal,se Östersund,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,EFL Cup,Final,Home,L 0–3,Arsenal,Manchester City,Y,DM,90,0,0,0,0,1,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-01,Thu,Premier League,Matchweek 28,Home,L 0–3,Arsenal,Manchester City,Y,CM,90,0,0,0,0,2,2,0,0,86,21,6,0,2,0.0,0.0,0.0,0,0,62,73,84.9,4,59,2,0,0,Match Report
+2017-2018,2018-03-04,Sun,Premier League,Matchweek 29,Away,L 1–2,Arsenal,Brighton,Y,DM,90,0,1,0,0,1,0,1,0,115,13,2,0,3,0.0,0.0,0.6,3,1,90,104,86.5,9,76,7,1,2,Match Report
+2017-2018,2018-03-08,Thu,Europa Lg,Round of 16,Away,W 2–0,eng Arsenal,it Milan,Y,DM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-11,Sun,Premier League,Matchweek 30,Home,W 3–0,Arsenal,Watford,Y,DM,90,0,0,0,0,1,1,1,0,74,9,2,2,2,0.0,0.0,0.0,0,0,57,62,91.9,5,55,6,0,0,Match Report
+2017-2018,2018-03-15,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Arsenal,it Milan,Y,DM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Away,W 1–0,ch Switzerland,gr Greece,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Home,W 6–0,ch Switzerland,pa Panama,Y*,DM,68,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-01,Sun,Premier League,Matchweek 32,Home,W 3–0,Arsenal,Stoke City,N,DM,15,0,0,0,0,1,0,0,0,21,1,1,0,1,0.0,0.0,0.2,1,0,17,19,89.5,5,9,0,0,0,Match Report
+2017-2018,2018-04-05,Thu,Europa Lg,Quarter-finals,Home,W 4–1,eng Arsenal,ru CSKA Moscow,Y,DM,90,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Home,W 3–2,Arsenal,Southampton,Y,"CM,DM",90,0,0,0,0,3,1,0,0,142,7,1,0,0,0.1,0.1,0.1,4,1,110,135,81.5,9,109,11,0,0,Match Report
+2017-2018,2018-04-15,Sun,Premier League,Matchweek 34,Away,L 1–2,Arsenal,Newcastle Utd,Y,CM,90,0,0,0,0,0,0,0,0,100,8,3,0,2,0.0,0.0,0.1,3,0,78,91,85.7,14,68,10,0,0,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Home,W 4–1,Arsenal,West Ham,Y,CM,90,0,1,0,0,3,2,1,0,132,7,3,0,2,0.1,0.1,0.2,4,1,102,118,86.4,17,83,20,0,0,Match Report
+2017-2018,2018-04-26,Thu,Europa Lg,Semi-finals,Home,D 1–1,eng Arsenal,es Atlético Madrid,Y,DM,90,0,0,0,0,4,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Away,L 1–2,Arsenal,Manchester Utd,Y*,CM,90,0,1,0,0,0,0,1,0,93,9,4,2,2,0.0,0.0,0.1,5,2,68,78,87.2,5,67,5,1,1,Match Report
+2017-2018,2018-05-03,Thu,Europa Lg,Semi-finals,Away,L 0–1,eng Arsenal,es Atlético Madrid,Y,DM,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,W 5–0,Arsenal,Burnley,Y,CM,90,0,0,0,0,0,0,0,0,92,9,1,0,2,0.0,0.0,0.0,2,0,80,84,95.2,9,68,10,0,0,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Away,L 1–3,Arsenal,Leicester City,Y,"CM,DM",90,0,0,0,0,1,0,1,0,80,18,2,0,2,0.0,0.0,0.1,4,0,63,71,88.7,5,60,6,1,1,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 1–0,Arsenal,Huddersfield,Y,DM,90,0,0,0,0,1,0,0,0,52,18,1,0,3,0.0,0.0,0.1,2,0,41,44,93.2,5,34,2,0,0,Match Report
+2017-2018,2018-06-08,Fri,Friendlies (M),Friendlies (M),Home,W 2–0,ch Switzerland,jp Japan,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-17,Sun,FIFA World Cup,Group stage,Neutral,D 1–1,ch Switzerland,br Brazil,Y,CM,90,0,0,0,0,0,0,0,0,66,23,1,1,2,0.0,0.0,0.0,0,0,50,59,84.7,3,49,0,0,0,Match Report
+2017-2018,2018-06-22,Fri,FIFA World Cup,Group stage,Neutral,W 2–1,ch Switzerland,rs Serbia,Y,CM,90,1,0,0,0,2,1,0,0,99,11,1,0,1,0.0,0.0,0.0,2,1,78,90,86.7,4,70,7,0,0,Match Report
+2017-2018,2018-06-27,Wed,FIFA World Cup,Group stage,Neutral,D 2–2,ch Switzerland,cr Costa Rica,Y,"DM,CM",90,0,0,0,0,0,0,0,0,110,10,3,2,1,0.0,0.0,0.0,3,0,99,102,97.1,12,76,3,2,2,Match Report

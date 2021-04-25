@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–2,West Ham,Newcastle Utd,N,"FW,LW",24,0,0,0,0,2,1,0,0,12,1,1,0,0,0.3,0.3,0.3,2,0,5,9,55.6,0,8,0,1,1,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Home,W 3–0,West Ham,Charlton Ath,Y,FW,90,2,0,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 1–2,West Ham,Arsenal,N,"LW,FW",3,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,W 5–1,West Ham,Hull City,Y,FW,90,2,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,W 4–0,West Ham,Wolves,N,FW,3,1,0,0,0,1,1,0,0,8,2,0,0,1,0.1,0.1,0.0,0,0,3,5,60.0,0,6,0,0,0,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,L 1–4,West Ham,Everton,Y,FW,90,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 3–0,West Ham,Leicester City,N,FW,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 1–1,West Ham,Manchester City,N,FW,22,0,0,0,0,0,0,0,0,9,15,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,2,0,0,0,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,L 1–2,West Ham,Liverpool,Y,FW,73,0,0,0,0,0,0,0,0,17,13,0,0,1,0.0,0.0,0.1,1,0,7,10,70.0,2,8,0,0,0,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 1–0,West Ham,Fulham,Y,FW,90,0,0,0,0,3,1,0,0,19,11,1,0,0,0.2,0.2,0.0,1,0,7,12,58.3,0,6,0,0,0,Match Report
+2020-2021,2020-11-12,Thu,Africa Cup of Nations qualification,Group stage,Home,W 2–1,ci Côte d'Ivoire,mg Madagascar,N,,68,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,D 1–1,ci Côte d'Ivoire,mg Madagascar,Y,FW,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,W 1–0,West Ham,Sheffield Utd,Y,FW,90,1,0,0,0,4,2,0,0,49,14,1,0,0,1.0,1.0,0.4,4,0,24,34,70.6,5,26,0,2,2,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Home,W 2–1,West Ham,Aston Villa,N,FW,45,0,0,0,0,0,0,0,0,18,15,1,0,0,0.0,0.0,0.0,0,0,5,14,35.7,1,11,1,1,1,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,L 1–3,West Ham,Manchester Utd,Y,FW,90,0,0,0,0,3,0,0,0,39,25,1,2,1,0.1,0.1,0.2,5,0,18,24,75.0,4,25,3,3,4,Match Report
+2020-2021,2020-12-11,Fri,Premier League,Matchweek 12,Away,W 2–1,West Ham,Leeds United,Y,FW,90,0,0,0,0,5,4,0,0,50,20,2,0,0,0.8,0.8,0.0,0,0,20,29,69.0,2,34,2,0,3,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 1–1,West Ham,Crystal Palace,Y,FW,90,1,0,0,0,3,1,0,0,33,8,1,1,0,0.1,0.1,0.0,0,0,17,21,81.0,4,10,0,0,0,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Away,L 0–3,West Ham,Chelsea,Y,FW,90,0,0,0,0,1,0,0,0,33,26,1,1,1,0.1,0.1,0.0,0,0,10,18,55.6,0,15,0,0,2,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 2–2,West Ham,Brighton,Y,FW,90,0,0,0,0,1,1,0,0,31,15,0,0,0,0.0,0.0,0.2,1,0,17,24,70.8,0,18,0,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,D 0–0,West Ham,Southampton,Y,FW,76,0,0,0,0,1,0,0,0,27,18,2,0,0,0.1,0.1,0.0,2,0,10,15,66.7,0,14,1,1,1,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Away,W 1–0,West Ham,Everton,Y,FW,58,0,0,0,0,1,0,0,0,31,13,0,1,0,0.1,0.1,0.0,1,0,19,23,82.6,1,14,1,0,0,Match Report
+2020-2021,2021-01-10,Sun,Dutch Eredivisie,Regular Season,Home,D 2–2,Ajax,PSV Eindhoven,N,,45,0,1,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Dutch Eredivisie,Regular Season,Away,W 3–1,Ajax,Twente,Y,FW,90,1,1,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Dutch Eredivisie,Regular Season,Home,W 1–0,Ajax,Feyenoord,Y,FW,82,0,1,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,Dutch Eredivisie,Regular Season,Away,W 2–1,Ajax,Fortuna Sittard,Y,FW,90,1,0,0,0,4,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-28,Thu,Dutch Eredivisie,Regular Season,Home,W 3–1,Ajax,Willem II,Y,FW,90,0,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Dutch Eredivisie,Regular Season,Away,W 3–0,Ajax,AZ Alkmaar,Y,FW,88,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Dutch Eredivisie,Regular Season,Away,W 2–0,Ajax,Heracles Almelo,Y,FW,90,1,1,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-21,Sun,Dutch Eredivisie,Regular Season,Home,W 4–2,Ajax,Sparta R'dam,Y,FW,74,2,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-28,Sun,Dutch Eredivisie,Regular Season,Away,D 1–1,Ajax,PSV Eindhoven,Y,FW,90,0,0,0,0,3,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Dutch Eredivisie,Regular Season,Home,W 3–1,Ajax,Groningen,Y,FW,90,1,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-14,Sun,Dutch Eredivisie,Regular Season,Away,W 2–0,Ajax,Zwolle,Y,FW,90,0,0,0,0,4,2,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Dutch Eredivisie,Regular Season,Away,W 2–1,Ajax,Heerenveen,Y,FW,89,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-11,Sun,Dutch Eredivisie,Regular Season,Away,W 1–0,Ajax,RKC Waalwijk,Y,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-22,Thu,Dutch Eredivisie,Regular Season,Home,D 1–1,Ajax,Utrecht,Y,FW,80,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report

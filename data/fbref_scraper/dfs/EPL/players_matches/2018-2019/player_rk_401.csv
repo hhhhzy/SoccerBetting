@@ -1,0 +1,52 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,D 2–2,Wolves,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 0–2,Wolves,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 1–1,Wolves,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 2–0,Wolves,Sheffield Weds,Y,CM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 1–0,Wolves,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-08,Sat,Africa Cup of Nations qualification,Group stage,Home,W 3–0,ma Morocco,mw Malawi,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-16,Sun,Premier League,Matchweek 5,Home,W 1–0,Wolves,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 1–1,Wolves,Manchester Utd,N,DM,11,0,0,0,0,0,0,0,0,3,3,1,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,D 0 (1)–0 (3),Wolves,Leicester City,Y,CM,120,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 2–0,Wolves,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 1–0,Wolves,Crystal Palace,N,FW,7,0,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2018-10-13,Sat,Africa Cup of Nations qualification,Group stage,Home,W 1–0,ma Morocco,km Comoros,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Africa Cup of Nations qualification,Group stage,Away,D 2–2,ma Morocco,km Comoros,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–2,Wolves,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,D 1–1,Wolves,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-16,Fri,Africa Cup of Nations qualification,Group stage,Home,W 2–0,ma Morocco,cm Cameroon,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,Friendlies (M),Friendlies (M),Away,W 1–0,ma Morocco,tn Tunisia,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-25,Sun,Premier League,Matchweek 13,Home,L 0–2,Wolves,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-30,Fri,Premier League,Matchweek 14,Away,L 1–2,Wolves,Cardiff City,Y,CB,90,0,0,0,0,0,0,1,0,55,6,3,0,4,0.0,0.0,0.0,0,0,23,37,62.2,5,14,3,0,0,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,W 2–1,Wolves,Chelsea,Y,DM,90,0,0,0,0,1,0,1,0,41,16,2,0,1,0.0,0.0,0.0,0,0,26,35,74.3,0,19,0,0,0,Match Report
+2018-2019,2018-12-09,Sun,Premier League,Matchweek 16,Away,W 2–1,Wolves,Newcastle Utd,Y,CM,59,0,0,0,0,0,0,0,0,32,25,3,0,0,0.0,0.0,0.0,0,0,22,27,81.5,1,17,1,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 2–0,Wolves,Bournemouth,N,FW,16,0,0,0,0,0,0,0,0,16,5,1,0,1,0.0,0.0,0.0,0,0,8,12,66.7,0,11,1,0,0,Match Report
+2018-2019,2018-12-21,Fri,Premier League,Matchweek 18,Home,L 0–2,Wolves,Liverpool,Y,CM,90,0,0,0,0,2,2,0,0,74,28,4,2,1,0.3,0.3,0.0,1,0,49,62,79.0,7,56,7,2,2,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 1–1,Wolves,Fulham,Y,CM,90,1,0,0,0,2,1,1,0,116,20,1,1,2,0.8,0.8,0.1,4,0,83,105,79.0,13,88,8,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,W 3–1,Wolves,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,L 0–2,Wolves,Crystal Palace,Y,CM,72,0,0,0,0,1,0,1,0,68,22,5,0,3,0.0,0.0,0.0,0,0,45,53,84.9,2,39,2,1,1,Match Report
+2018-2019,2019-01-07,Mon,FA Cup,Third round,Home,W 2–1,Wolves,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-14,Mon,Premier League,Matchweek 22,Away,L 0–3,Wolves,Manchester City,N,FW,32,0,0,0,0,0,0,0,0,20,9,1,0,2,0.0,0.0,0.0,0,0,8,11,72.7,1,10,1,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 4–3,Wolves,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,62,3,2,0,4,0.0,0.0,0.0,0,0,33,49,67.3,4,30,2,0,0,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Away,D 2–2,Wolves,Shrewsbury,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 3–0,Wolves,West Ham,Y,CB,90,1,0,0,0,3,2,1,0,71,17,3,3,3,0.3,0.3,0.0,0,0,42,50,84.0,6,44,4,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,W 3–1,Wolves,Everton,N,CM,42,0,0,0,0,1,0,0,0,25,13,0,0,1,0.0,0.0,0.0,0,0,8,17,47.1,0,16,1,0,0,Match Report
+2018-2019,2019-02-05,Tue,FA Cup,Fourth round,Home,W 3–2,Wolves,Shrewsbury,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-11,Mon,Premier League,Matchweek 26,Home,D 1–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-17,Sun,FA Cup,Fifth round,Away,W 1–0,Wolves,Bristol City,Y,CM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,D 1–1,Wolves,Bournemouth,N,FW,3,0,0,0,0,0,0,0,0,5,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Away,L 0–1,Wolves,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 2–0,Wolves,Cardiff City,Y,DM,90,0,0,0,0,0,0,0,0,68,27,6,1,3,0.0,0.0,0.1,1,0,42,48,87.5,3,29,0,0,0,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Away,D 1–1,Wolves,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,40,7,4,2,5,0.0,0.0,0.0,0,0,11,20,55.0,0,18,1,1,1,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Home,W 2–1,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-26,Tue,Friendlies (M),Friendlies (M),Home,L 0–1,ma Morocco,ar Argentina,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,L 0–2,Wolves,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,94,7,4,0,1,0.0,0.0,0.0,0,0,61,73,83.6,12,50,3,1,1,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Home,W 2–1,Wolves,Manchester Utd,N,DM,7,0,0,0,0,0,0,0,0,16,3,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,13,0,0,0,Match Report
+2018-2019,2019-04-07,Sun,FA Cup,Semi-finals,Away,L 2–3,Wolves,Watford,Y,CB,120,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 1–3,Wolves,Southampton,Y,CB,90,0,0,0,0,1,0,1,0,101,10,5,2,2,0.0,0.0,0.0,1,0,76,89,85.4,3,73,5,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,D 0–0,Wolves,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Home,W 3–1,Wolves,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,W 2–1,Wolves,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-16,Sun,Friendlies (M),Friendlies (M),Home,L 2–3,ma Morocco,zm Zambia,Y,CB,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-23,Sun,Africa Cup of Nations,Group stage,Neutral,W 1–0,ma Morocco,na Namibia,Y,CB,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-28,Fri,Africa Cup of Nations,Group stage,Neutral,W 1–0,ma Morocco,ci Côte d'Ivoire,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,D 3–3,Watford,Liverpool,Y,LW,48,0,0,0,0,1,0,0,0,9,6,0,0,3,0.1,0.1,0.0,3,1,3,3,100.0,0,6,0,2,2,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,L 0–6,Watford,Manchester City,N,CM,27,0,0,0,0,0,0,0,0,15,5,0,0,0,0.0,0.0,0.0,1,0,12,13,92.3,1,8,0,0,0,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 2–1,Watford,Swansea City,N,RW,17,0,0,0,0,0,0,0,0,19,1,0,0,1,0.0,0.0,0.0,1,0,7,11,63.6,0,16,2,0,4,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,D 2–2,Watford,West Brom,N,DM,29,0,0,0,0,1,0,0,0,22,10,1,0,0,0.1,0.1,0.0,0,0,14,18,77.8,0,19,3,2,2,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 2–1,Watford,Arsenal,Y,FW,80,0,0,0,0,1,0,0,0,50,3,2,0,0,0.2,0.2,0.0,2,1,38,42,90.5,0,38,7,2,2,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 2–4,Watford,Chelsea,Y,AM,64,1,0,0,0,1,1,0,0,46,11,1,1,0,0.5,0.5,0.0,2,0,26,32,81.3,3,34,3,0,2,Match Report
+2017-2018,2017-11-19,Sun,Premier League,Matchweek 12,Home,W 2–0,Watford,West Ham,N,RW,7,0,0,0,0,0,0,0,0,16,3,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,1,13,2,0,0,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,W 3–0,Watford,Newcastle Utd,N,AM,12,0,0,0,0,0,0,0,0,9,0,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,0,7,1,0,0,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Home,L 2–4,Watford,Manchester Utd,N,FW,33,0,0,0,0,0,0,0,0,26,5,0,0,0,0.0,0.0,0.0,5,3,21,23,91.3,4,23,8,1,1,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,D 1–1,Watford,Tottenham,Y,RW,66,0,0,0,0,0,0,0,0,27,21,0,0,2,0.0,0.0,0.0,0,0,13,18,72.2,0,22,1,1,3,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 0–1,Watford,Burnley,Y,AM,43,0,0,0,0,1,0,0,0,22,4,0,0,1,0.0,0.0,0.2,2,0,14,17,82.4,0,12,1,0,1,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Away,L 1–2,Watford,Crystal Palace,N,"RW,AM",20,0,0,0,0,0,0,1,0,16,13,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,2,10,2,1,1,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,L 1–4,Watford,Huddersfield,N,"AM,CM,CB",62,0,0,0,0,2,2,0,0,55,14,0,1,1,0.1,0.1,0.1,5,0,41,46,89.1,5,44,6,1,1,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,L 0–1,Watford,Brighton,Y,AM,70,0,0,0,0,1,0,0,0,37,8,0,0,0,0.0,0.0,0.1,4,0,25,29,86.2,3,33,6,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,W 2–1,Watford,Leicester City,Y,LW,43,0,0,0,0,1,0,0,0,22,4,2,1,0,0.1,0.1,0.0,0,0,10,14,71.4,2,16,3,1,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,L 1–2,Watford,Swansea City,N,RW,8,0,0,0,0,0,0,0,0,5,4,0,0,2,0.0,0.0,0.5,1,0,1,2,50.0,1,2,1,0,0,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Away,L 1–3,Watford,Manchester City,N,DM,30,0,0,0,0,0,0,1,0,15,20,1,1,0,0.0,0.0,0.0,0,0,11,12,91.7,1,13,0,0,0,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Home,W 3–0,Watford,Bristol City,Y,RM,68,0,1,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,D 2–2,Watford,Southampton,N,FW,56,0,0,0,0,1,0,0,0,48,6,2,0,1,0.1,0.1,0.1,4,1,34,39,87.2,5,29,4,0,1,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,L 0–2,Watford,Leicester City,Y,AM,59,0,0,0,0,1,0,0,0,26,10,0,0,1,0.0,0.0,0.0,2,0,9,18,50.0,1,15,3,1,2,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,L 0–1,Watford,Southampton,N,,34,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,D 0–0,Watford,Stoke City,N,CM,19,0,0,0,0,2,1,0,0,15,4,0,0,0,0.2,0.2,0.0,1,0,6,9,66.7,2,5,1,0,1,Match Report
+2017-2018,2018-02-05,Mon,Premier League,Matchweek 26,Home,W 4–1,Watford,Chelsea,N,LW,26,1,1,0,0,2,2,0,0,13,5,0,0,1,0.1,0.1,0.3,1,1,4,5,80.0,1,9,2,0,1,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,L 0–2,Watford,West Ham,N,LM,35,0,0,0,0,0,0,0,0,33,1,0,0,0,0.0,0.0,0.1,3,0,22,28,78.6,2,28,8,2,3,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,W 1–0,Watford,Everton,Y,AM,55,0,0,0,0,0,0,0,0,27,8,0,0,0,0.0,0.0,0.1,2,0,15,19,78.9,4,21,5,1,3,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,W 1–0,Watford,West Brom,Y,"AM,LW",90,0,0,0,0,2,0,0,0,44,21,0,1,2,0.1,0.1,0.3,2,0,26,32,81.3,2,28,6,1,3,Match Report
+2017-2018,2018-03-11,Sun,Premier League,Matchweek 30,Away,L 0–3,Watford,Arsenal,Y,LW,66,0,0,0,0,1,0,0,0,35,3,0,0,1,0.3,0.3,0.1,3,0,18,24,75.0,2,27,5,0,2,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Away,L 0–5,Watford,Liverpool,Y,"RW,LW",90,0,0,0,0,2,0,0,0,46,3,0,2,0,0.1,0.1,0.1,2,0,33,39,84.6,0,40,7,4,5,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,D 2–2,Watford,Bournemouth,Y,LW,90,1,0,0,0,2,1,0,0,48,13,0,2,2,0.1,0.1,0.0,1,1,29,34,85.3,4,34,5,0,1,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,L 1–2,Watford,Burnley,Y,"LW,CM",90,1,0,0,0,6,4,0,0,59,7,0,0,2,0.7,0.7,0.0,3,0,30,42,71.4,4,38,6,2,4,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,L 0–1,Watford,Huddersfield,Y,AM,90,0,0,0,0,0,0,1,0,54,9,0,1,2,0.0,0.0,0.0,2,0,34,45,75.6,3,40,6,1,3,Match Report
+2017-2018,2018-04-21,Sat,Premier League,Matchweek 35,Home,D 0–0,Watford,Crystal Palace,Y,LM,54,0,0,0,0,1,0,0,0,27,4,0,0,1,0.0,0.0,0.0,1,0,13,19,68.4,3,26,6,3,5,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,W 2–1,Watford,Newcastle Utd,Y,LM,55,1,1,0,0,3,2,0,0,39,10,0,1,2,0.7,0.7,0.4,2,1,26,27,96.3,2,24,4,0,2,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 0–1,Watford,Manchester Utd,Y,"AM,LW",90,0,0,0,0,2,0,0,0,53,13,0,1,1,0.1,0.1,0.0,1,0,40,44,90.9,2,46,6,1,1,Match Report

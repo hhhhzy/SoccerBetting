@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,D 0–0,Crystal Palace,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Home,L 0 (4)–0 (5),Crystal Palace,Colchester Utd,Y,DM,120,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 1–0,Crystal Palace,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–4,Crystal Palace,Tottenham,N,LM,6,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,3,1,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,W 2–1,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Home,L 0–2,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,W 2–0,Crystal Palace,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-03,Tue,Premier League,Matchweek 15,Home,W 1–0,Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,D 0–0,Crystal Palace,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-16,Mon,Premier League,Matchweek 17,Home,D 1–1,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 2–1,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,D 1–1,Crystal Palace,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,La Liga,Matchweek 20,Away,W 1–0,Alavés,Levante,Y,CM,88,0,0,0,0,0,0,1,0,38,20,1,1,1,0.0,0.0,0.0,2,0,25,33,75.8,2,28,1,1,1,Match Report
+2019-2020,2020-01-25,Sat,La Liga,Matchweek 21,Home,L 1–2,Alavés,Villarreal,Y,CM,90,0,0,0,0,2,1,0,0,61,13,0,1,1,0.1,0.1,0.1,2,0,46,51,90.2,4,48,4,1,1,Match Report
+2019-2020,2020-02-02,Sun,La Liga,Matchweek 22,Away,D 1–1,Alavés,Sevilla,Y,CM,90,0,0,0,0,1,1,0,0,36,18,0,1,1,0.0,0.0,0.3,2,1,16,22,72.7,1,18,0,0,0,Match Report
+2019-2020,2020-02-07,Fri,La Liga,Matchweek 23,Home,W 2–1,Alavés,Eibar,Y,CM,90,0,0,0,0,1,0,0,0,29,19,2,1,0,0.0,0.0,0.0,1,0,14,22,63.6,2,21,1,0,1,Match Report
+2019-2020,2020-02-15,Sat,La Liga,Matchweek 24,Away,L 0–1,Alavés,Mallorca,Y,DM,90,0,0,0,0,1,0,0,0,45,14,2,1,0,0.0,0.0,0.0,3,0,29,37,78.4,4,30,2,1,2,Match Report
+2019-2020,2020-02-23,Sun,La Liga,Matchweek 25,Home,W 2–1,Alavés,Athletic Club,Y,DM,80,0,0,0,0,0,0,0,0,24,16,3,0,1,0.0,0.0,0.0,0,0,15,19,78.9,1,17,0,1,3,Match Report
+2019-2020,2020-02-29,Sat,La Liga,Matchweek 26,Away,D 1–1,Alavés,Leganés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-06,Fri,La Liga,Matchweek 27,Home,D 1–1,Alavés,Valencia,Y,DM,75,0,0,0,0,1,0,0,0,48,21,0,1,0,0.0,0.0,0.0,3,0,36,41,87.8,2,38,5,1,3,Match Report
+2019-2020,2020-06-13,Sat,La Liga,Matchweek 28,Away,L 0–2,Alavés,Espanyol,Y,"CM,RM",81,0,0,0,0,0,0,0,0,36,13,1,0,0,0.0,0.0,0.0,1,0,21,26,80.8,3,21,1,0,1,Match Report
+2019-2020,2020-06-18,Thu,La Liga,Matchweek 29,Home,W 2–0,Alavés,Real Sociedad,Y,CM,89,0,0,0,0,0,0,0,0,25,22,1,0,4,0.0,0.0,0.0,2,0,15,17,88.2,1,15,3,0,0,Match Report
+2019-2020,2020-06-21,Sun,La Liga,Matchweek 30,Away,L 0–6,Alavés,Celta Vigo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-24,Wed,La Liga,Matchweek 31,Home,L 0–1,Alavés,Osasuna,Y,CM,84,0,0,0,0,0,0,0,0,53,11,1,1,1,0.0,0.0,0.2,1,0,33,47,70.2,2,40,4,2,2,Match Report
+2019-2020,2020-06-27,Sat,La Liga,Matchweek 32,Away,L 1–2,Alavés,Atlético Madrid,N,CM,5,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,1,1,0,0,Match Report
+2019-2020,2020-07-01,Wed,La Liga,Matchweek 33,Home,L 0–2,Alavés,Granada,Y,CM,90,0,0,0,0,1,0,0,0,72,15,3,1,3,0.0,0.0,0.0,0,0,48,57,84.2,4,56,6,3,5,Match Report
+2019-2020,2020-07-04,Sat,La Liga,Matchweek 34,Away,L 0–1,Alavés,Valladolid,Y,"AM,DM",88,0,0,0,0,1,0,0,0,40,8,0,0,1,0.1,0.1,0.0,2,0,23,31,74.2,0,30,2,3,4,Match Report
+2019-2020,2020-07-10,Fri,La Liga,Matchweek 35,Away,L 0–2,Alavés,Real Madrid,Y,CM,90,0,0,0,0,0,0,0,0,55,20,3,0,1,0.0,0.0,0.1,1,0,39,46,84.8,2,40,7,1,2,Match Report
+2019-2020,2020-07-13,Mon,La Liga,Matchweek 36,Home,D 0–0,Alavés,Getafe,N,DM,10,0,0,0,0,0,0,0,0,13,6,0,1,1,0.0,0.0,0.0,0,0,10,12,83.3,1,10,1,0,1,Match Report
+2019-2020,2020-07-16,Thu,La Liga,Matchweek 37,Away,W 2–1,Alavés,Betis,Y,CM,89,0,1,0,0,0,0,0,0,37,17,0,0,1,0.0,0.0,0.7,3,1,24,30,80.0,2,17,2,0,0,Match Report
+2019-2020,2020-07-19,Sun,La Liga,Matchweek 38,Home,L 0–5,Alavés,Barcelona,Y,CM,64,0,0,0,0,0,0,0,0,47,19,0,1,0,0.0,0.0,0.0,0,0,33,39,84.6,4,33,3,2,3,Match Report

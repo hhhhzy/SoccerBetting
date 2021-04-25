@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,D 1–1,Sheffield Utd,Bournemouth,Y,FW,62,0,0,0,0,2,1,0,0,35,21,1,0,2,0.2,0.2,0.0,0,0,17,22,77.3,0,25,1,2,2,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Home,W 1–0,Sheffield Utd,Crystal Palace,Y,FW,88,0,0,0,0,2,1,0,0,38,25,3,0,1,0.5,0.5,0.0,0,0,17,22,77.3,1,27,6,0,3,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–2,Sheffield Utd,Leicester City,Y,FW,53,0,0,0,0,0,0,0,0,20,16,2,0,0,0.0,0.0,0.0,0,0,11,16,68.8,3,13,1,2,2,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Home,W 2–1,Sheffield Utd,Blackburn,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 2–2,Sheffield Utd,Chelsea,N,"FW,CM",28,0,0,0,0,0,0,0,0,10,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,8,0,0,0,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,ch Switzerland,Y,FW,89,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,L 0–1,Sheffield Utd,Southampton,Y,"FW,AM",90,0,0,0,0,6,3,0,0,38,22,2,0,0,1.0,1.0,0.0,1,0,19,22,86.4,2,31,5,4,4,Match Report
+2019-2020,2019-10-21,Mon,Premier League,Matchweek 9,Home,W 1–0,Sheffield Utd,Arsenal,Y,FW,77,0,0,0,0,0,0,1,0,32,29,0,0,1,0.0,0.0,0.0,1,0,16,21,76.2,0,21,1,0,1,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,D 1–1,Sheffield Utd,West Ham,Y,"FW,AM",80,0,0,0,0,3,2,0,0,35,11,0,0,0,0.6,0.6,0.1,6,0,18,25,72.0,1,27,1,4,5,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 3–0,Sheffield Utd,Burnley,Y,FW,74,0,0,0,0,2,0,0,0,38,24,4,0,3,0.2,0.2,0.3,3,1,18,25,72.0,1,18,4,1,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,D 1–1,Sheffield Utd,Tottenham,Y,FW,89,0,1,0,0,1,1,0,0,50,20,3,1,3,0.0,0.0,0.2,6,2,29,34,85.3,6,36,5,2,2,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,dk Denmark,Y,FW,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Premier League,Matchweek 13,Home,D 3–3,Sheffield Utd,Manchester Utd,Y,FW,77,0,0,0,0,3,3,0,0,33,21,2,0,1,0.3,0.3,0.0,0,0,16,24,66.7,1,27,3,2,2,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 1–1,Sheffield Utd,Wolves,Y,FW,72,0,0,0,0,5,2,0,0,40,21,2,0,1,0.4,0.4,0.0,1,0,16,24,66.7,1,26,2,0,2,Match Report
+2019-2020,2019-12-05,Thu,Premier League,Matchweek 15,Home,L 0–2,Sheffield Utd,Newcastle Utd,N,"AM,DM",19,0,0,0,0,1,0,0,0,15,6,3,0,0,0.2,0.2,0.0,0,0,8,10,80.0,0,9,0,0,1,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,W 2–1,Sheffield Utd,Norwich City,Y,FW,82,0,0,0,0,3,1,0,0,48,25,1,2,0,0.4,0.4,0.1,3,0,23,35,65.7,3,32,4,1,1,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,W 2–0,Sheffield Utd,Aston Villa,Y,FW,89,0,1,0,0,3,1,0,0,57,24,3,0,2,0.7,0.7,0.4,2,1,28,39,71.8,3,24,5,0,1,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 1–0,Sheffield Utd,Brighton,Y,FW,90,0,0,0,0,3,0,1,0,41,23,2,0,1,0.8,0.8,0.0,1,0,20,24,83.3,0,27,0,1,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,D 1–1,Sheffield Utd,Watford,Y,FW,90,0,0,0,0,0,0,0,0,46,31,2,0,2,0.0,0.0,0.0,3,0,22,31,71.0,1,22,0,2,3,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Away,L 0–2,Sheffield Utd,Manchester City,N,FW,32,0,0,0,0,0,0,0,0,15,10,1,0,0,0.0,0.0,0.0,1,0,9,13,69.2,0,10,3,0,0,Match Report
+2019-2020,2020-01-02,Thu,Premier League,Matchweek 21,Away,L 0–2,Sheffield Utd,Liverpool,Y,FW,65,0,0,0,0,1,1,0,0,27,13,1,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,15,2,0,0,Match Report
+2019-2020,2020-01-10,Fri,Premier League,Matchweek 22,Home,W 1–0,Sheffield Utd,West Ham,Y,FW,59,0,0,0,0,1,0,0,0,15,13,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,11,1,1,1,Match Report
+2019-2020,2020-02-09,Sun,Premier League,Matchweek 26,Home,W 2–1,Sheffield Utd,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,D 1–1,Sheffield Utd,Brighton,N,FW,17,0,0,0,0,0,0,0,0,10,2,0,0,0,0.0,0.0,0.3,2,0,7,8,87.5,0,14,0,4,4,Match Report
+2019-2020,2020-03-03,Tue,FA Cup,Fifth round,Away,W 2–1,Sheffield Utd,Reading,Y,FW,78,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Sheffield Utd,Norwich City,N,FW,20,0,0,0,0,0,0,0,0,12,13,1,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,7,1,1,2,Match Report
+2019-2020,2020-06-17,Wed,Premier League,Matchweek 28,Away,D 0–0,Sheffield Utd,Aston Villa,N,FW,22,0,0,0,0,0,0,0,0,17,6,1,0,0,0.0,0.0,0.0,1,0,13,15,86.7,2,9,0,1,2,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–3,Sheffield Utd,Manchester Utd,Y,FW,63,0,0,0,0,1,0,0,0,36,14,0,0,0,0.0,0.0,0.0,1,0,27,32,84.4,0,24,3,0,1,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 1–2,Sheffield Utd,Arsenal,Y,FW,90,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-02,Thu,Premier League,Matchweek 32,Home,W 3–1,Sheffield Utd,Tottenham,Y,FW,62,0,0,0,0,2,1,0,0,28,10,1,0,2,0.2,0.2,0.0,0,0,18,19,94.7,0,15,0,0,0,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 1–1,Sheffield Utd,Burnley,Y,"FW,CM,AM",90,0,0,0,0,1,0,0,0,57,13,4,0,0,0.0,0.0,0.2,4,0,37,43,86.0,0,32,3,0,0,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,W 3–0,Sheffield Utd,Chelsea,Y,FW,90,2,0,0,0,3,2,0,0,37,15,1,0,0,1.1,1.1,0.4,3,0,18,27,66.7,3,21,1,1,1,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,L 0–2,Sheffield Utd,Leicester City,Y,FW,45,0,0,0,0,1,0,0,0,16,7,1,0,0,0.1,0.1,0.0,0,0,4,9,44.4,1,7,0,0,0,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Home,L 0–1,Sheffield Utd,Everton,Y,FW,90,0,0,0,0,2,0,0,0,49,10,1,0,0,0.1,0.1,0.0,0,0,29,37,78.4,3,28,2,2,5,Match Report

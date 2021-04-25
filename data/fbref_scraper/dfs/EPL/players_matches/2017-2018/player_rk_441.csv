@@ -1,0 +1,49 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-21,Mon,Premier League,Matchweek 2,Away,D 1–1,Everton,Manchester City,N,LW,30,0,0,0,0,0,0,0,0,14,14,1,1,0,0.0,0.0,0.0,1,0,6,10,60.0,0,7,0,0,0,Match Report
+2017-2018,2017-08-24,Thu,Europa Lg,Play-off Round,Away,D 1–1,eng Everton,hr Hajduk Split,Y,AM,90,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–2,Everton,Chelsea,Y,"AM,LW",90,0,0,0,0,1,0,0,0,46,22,2,2,3,0.0,0.0,0.1,2,0,25,37,67.6,5,33,4,2,3,Match Report
+2017-2018,2017-09-02,Sat,WCQ — UEFA (M),First round,Away,L 0–1,is Iceland,fi Finland,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Home,W 2–0,is Iceland,ua Ukraine,Y,AM,89,2,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,L 0–3,Everton,Tottenham,Y,"LW,RW",90,0,0,0,0,4,0,0,0,56,25,1,0,4,0.2,0.2,0.0,3,0,31,39,79.5,4,30,3,1,2,Match Report
+2017-2018,2017-09-14,Thu,Europa Lg,Group stage,Away,L 0–3,eng Everton,it Atalanta,Y,AM,90,0,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Away,L 0–4,Everton,Manchester Utd,Y,AM,90,0,0,0,0,2,1,0,0,50,18,1,2,1,0.2,0.2,0.1,3,0,32,39,82.1,3,32,3,1,1,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,W 3–0,Everton,Sunderland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,W 2–1,Everton,Bournemouth,Y,LW,90,0,0,0,0,3,0,0,0,38,27,0,1,0,0.1,0.1,0.1,5,0,24,32,75.0,1,22,0,1,1,Match Report
+2017-2018,2017-09-28,Thu,Europa Lg,Group stage,Home,D 2–2,eng Everton,cy Apollon Limassol,Y,AM,90,0,1,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,L 0–1,Everton,Burnley,Y,"LW,CM",90,0,0,0,0,3,1,0,0,53,4,0,0,0,0.3,0.3,0.5,10,0,26,46,56.5,5,33,7,1,1,Match Report
+2017-2018,2017-10-06,Fri,WCQ — UEFA (M),First round,Away,W 3–0,is Iceland,tr Turkey,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Home,W 2–0,is Iceland,xk Kosovo,Y,AM,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-15,Sun,Premier League,Matchweek 8,Away,D 1–1,Everton,Brighton,Y,AM,90,0,0,0,0,3,0,0,0,39,21,2,0,2,0.1,0.1,0.0,4,1,20,30,66.7,0,18,3,0,0,Match Report
+2017-2018,2017-10-19,Thu,Europa Lg,Group stage,Home,L 1–2,eng Everton,fr Lyon,N,,33,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Home,L 2–5,Everton,Arsenal,Y,"LW,AM",90,0,0,0,0,1,0,0,0,37,28,0,0,2,0.1,0.1,0.0,2,0,19,31,61.3,3,18,1,0,0,Match Report
+2017-2018,2017-10-25,Wed,EFL Cup,Fourth round,Away,L 1–2,Everton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-29,Sun,Premier League,Matchweek 10,Away,L 0–2,Everton,Leicester City,N,AM,17,0,0,0,0,0,0,0,0,9,1,0,0,0,0.0,0.0,0.0,2,0,6,9,66.7,0,4,2,0,0,Match Report
+2017-2018,2017-11-02,Thu,Europa Lg,Group stage,Away,L 0–3,eng Everton,fr Lyon,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Home,W 3–2,Everton,Watford,Y,RW,84,0,0,0,0,1,1,0,0,39,21,1,2,3,0.3,0.3,0.0,0,0,19,24,79.2,1,15,1,0,2,Match Report
+2017-2018,2017-11-08,Wed,Friendlies (M),Friendlies (M),Home,L 1–2,is Iceland,cz Czech Republic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,is Iceland,qa Qatar,Y*,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,D 2–2,Everton,Crystal Palace,Y,"CM,AM",90,0,1,0,0,0,0,0,0,43,24,6,3,4,0.0,0.0,0.6,3,1,17,29,58.6,2,17,1,0,0,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,L 1–4,Everton,Southampton,Y,"AM,LM,FW",90,1,0,0,0,3,2,0,0,40,16,0,2,3,0.1,0.1,0.0,2,1,20,26,76.9,1,24,0,1,1,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 4–0,Everton,West Ham,Y,LM,90,0,1,0,0,1,0,1,0,50,12,2,0,2,0.1,0.1,0.1,2,1,31,42,73.8,2,35,4,3,3,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,W 2–0,Everton,Huddersfield,Y,"LM,AM",90,1,0,0,0,1,1,0,0,45,19,0,0,1,0.5,0.5,0.3,1,0,24,39,61.5,3,18,3,0,0,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,D 1–1,Everton,Liverpool,Y,LM,90,0,0,0,0,1,1,1,0,30,32,0,0,5,0.0,0.0,0.0,0,0,6,15,40.0,0,6,0,0,1,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,W 1–0,Everton,Newcastle Utd,Y,LW,84,0,0,0,0,2,1,0,0,42,9,1,2,0,0.2,0.2,0.3,2,0,22,34,64.7,1,23,2,0,0,Match Report
+2017-2018,2017-12-18,Mon,Premier League,Matchweek 18,Home,W 3–1,Everton,Swansea City,Y,LW,90,1,0,0,0,2,2,0,0,50,15,0,1,2,0.0,0.0,0.4,6,0,25,39,64.1,6,36,5,3,4,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,D 0–0,Everton,Chelsea,Y,"LM,AM",90,0,0,0,0,1,0,0,0,50,22,2,1,2,0.0,0.0,0.0,2,0,21,31,67.7,4,28,1,1,3,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 0–0,Everton,West Brom,Y,CM,90,0,0,0,0,2,0,0,0,55,23,3,0,2,0.1,0.1,0.0,2,0,29,42,69.0,3,25,2,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,L 1–2,Everton,Bournemouth,Y,LW,90,0,0,0,0,1,0,0,0,49,31,0,1,3,0.1,0.1,0.0,1,1,33,40,82.5,5,25,2,0,0,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Home,L 0–2,Everton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-05,Fri,FA Cup,Third round,Away,L 1–2,Everton,Liverpool,Y,AM,90,1,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,L 0–4,Everton,Tottenham,Y,LW,90,0,0,0,0,0,0,0,0,34,28,1,0,2,0.0,0.0,0.0,1,0,15,26,57.7,2,16,1,1,3,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,D 1–1,Everton,West Brom,Y,AM,90,0,0,0,0,3,0,0,0,57,12,0,0,4,0.1,0.1,0.1,3,0,26,37,70.3,3,42,4,5,9,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,W 2–1,Everton,Leicester City,Y,LM,81,0,1,0,0,0,0,0,0,40,20,1,0,3,0.0,0.0,0.7,2,1,16,29,55.2,2,23,3,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–5,Everton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 3–1,Everton,Crystal Palace,Y,LW,90,1,0,0,0,3,1,0,0,44,24,1,1,2,0.2,0.2,0.0,3,1,12,30,40.0,3,18,3,1,2,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 0–1,Everton,Watford,Y,LW,81,0,0,0,0,1,1,0,0,36,16,0,1,1,0.0,0.0,0.0,3,0,15,29,51.7,2,23,6,2,2,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 1–2,Everton,Burnley,Y,CM,82,0,0,0,0,1,0,0,0,44,6,2,1,2,0.0,0.0,0.3,6,0,22,33,66.7,1,23,1,2,3,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 2–0,Everton,Brighton,Y,CM,90,0,0,0,0,1,0,0,0,50,13,1,2,2,0.0,0.0,0.2,2,0,24,41,58.5,5,27,3,0,0,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,L 2–3,is Iceland,no Norway,N,,28,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-07,Thu,Friendlies (M),Friendlies (M),Home,D 2–2,is Iceland,gh Ghana,Y*,CM,66,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-16,Sat,FIFA World Cup,Group stage,Neutral,D 1–1,is Iceland,ar Argentina,Y,FW,90,0,0,0,0,4,1,0,0,46,29,5,3,3,0.1,0.1,0.3,4,0,15,23,65.2,0,28,6,3,3,Match Report
+2017-2018,2018-06-22,Fri,FIFA World Cup,Group stage,Neutral,L 0–2,is Iceland,ng Nigeria,Y,DM,90,0,0,0,1,2,2,0,0,64,52,2,1,1,0.9,0.2,0.2,3,0,34,49,69.4,3,49,3,4,6,Match Report
+2017-2018,2018-06-26,Tue,FIFA World Cup,Group stage,Neutral,L 1–2,is Iceland,hr Croatia,Y,"AM,CM",90,1,0,1,1,2,1,0,0,47,47,1,1,0,0.8,0.1,0.5,5,0,25,37,67.6,5,26,3,2,3,Match Report

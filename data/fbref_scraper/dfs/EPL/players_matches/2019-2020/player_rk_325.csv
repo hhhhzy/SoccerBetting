@@ -1,0 +1,44 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Home,D 0–0,Leicester City,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Away,D 1–1,Leicester City,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Leicester City,Sheffield Utd,N,CB,13,0,0,0,0,0,0,0,0,7,0,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+2019-2020,2019-08-28,Wed,EFL Cup,Second round,Away,W 1 (4)–1 (2),Leicester City,Newcastle Utd,Y*,CB,56,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–1,Leicester City,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 2–1,Leicester City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Leicester City,Luton Town,Y*,CB,90,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-29,Sun,Premier League,Matchweek 7,Home,W 5–0,Leicester City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 1–2,Leicester City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 2–1,Leicester City,Burnley,N,CB,12,0,0,0,0,0,0,0,0,3,0,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2019-2020,2019-10-25,Fri,Premier League,Matchweek 10,Away,W 9–0,Leicester City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Away,W 3–1,Leicester City,Burton Albion,Y*,CB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Away,W 2–0,Leicester City,Crystal Palace,N,"LM,CB",6,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 2–0,Leicester City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–0,Leicester City,Brighton,N,CB,29,0,0,0,0,0,0,0,0,10,1,0,0,1,0.0,0.0,0.0,0,0,7,7,100.0,0,7,0,0,0,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,W 2–1,Leicester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–0,Leicester City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,W 4–1,Leicester City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,D 1–1,Leicester City,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Away,W 2 (4)–2 (2),Leicester City,Everton,Y*,CB,120,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,L 1–3,Leicester City,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,L 0–4,Leicester City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,W 2–1,Leicester City,West Ham,Y*,CB,90,0,0,0,0,1,1,0,0,64,5,0,0,1,0.0,0.0,0.0,1,0,48,54,88.9,1,49,0,2,2,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 3–0,Leicester City,Newcastle Utd,N,CB,7,0,0,0,0,0,0,0,0,16,1,1,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,13,1,0,0,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,W 2–0,Leicester City,Wigan Athletic,Y*,CB,24,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-19,Sun,Premier League,Matchweek 23,Away,L 1–2,Leicester City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Home,W 4–1,Leicester City,West Ham,N,CB,8,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 1–0,Leicester City,Brentford,Y*,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-14,Fri,Premier League,Matchweek 26,Away,D 0–0,Leicester City,Wolves,N,CB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,L 0–1,Leicester City,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-28,Fri,Premier League,Matchweek 28,Away,L 0–1,Leicester City,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-04,Wed,FA Cup,Fifth round,Home,W 1–0,Leicester City,Birmingham City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-09,Mon,Premier League,Matchweek 29,Home,W 4–0,Leicester City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,D 1–1,Leicester City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Home,D 0–0,Leicester City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 0–1,Leicester City,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Away,L 1–2,Leicester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 3–0,Leicester City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Away,D 1–1,Leicester City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 1–4,Leicester City,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,W 2–0,Leicester City,Sheffield Utd,Y*,CB,90,0,0,0,0,0,0,0,0,54,7,2,1,1,0.0,0.0,0.0,0,0,37,39,94.9,1,27,1,0,0,Match Report
+2019-2020,2020-07-19,Sun,Premier League,Matchweek 37,Away,L 0–3,Leicester City,Tottenham,Y*,CB,90,0,0,0,0,2,0,0,0,87,6,0,0,1,0.1,0.1,0.0,5,0,79,81,97.5,4,62,3,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 0–2,Leicester City,Manchester Utd,Y*,CB,90,0,0,0,0,0,0,0,0,42,9,2,1,1,0.0,0.0,0.0,0,0,33,37,89.2,2,27,0,0,0,Match Report

@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,W 2–0,Bournemouth,Cardiff City,Y,"RB,RM",89,0,0,0,0,0,0,0,0,58,10,1,0,3,0.0,0.0,0.1,1,0,41,49,83.7,6,39,3,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,W 2–1,Bournemouth,West Ham,Y,"RB,RW",90,0,0,0,0,1,0,0,0,52,17,2,0,4,0.1,0.1,0.0,2,0,33,40,82.5,9,31,6,2,2,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 2–2,Bournemouth,Everton,Y,"RB,DM",60,0,0,0,0,0,0,0,1,38,20,4,0,1,0.0,0.0,0.0,1,0,29,34,85.3,3,24,8,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,L 0–2,Bournemouth,Chelsea,Y,WB,79,0,0,0,0,0,0,0,0,39,17,2,2,0,0.0,0.0,0.0,1,0,20,28,71.4,2,22,2,0,1,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,W 4–2,Bournemouth,Leicester City,Y,"RB,RM",90,1,0,0,0,1,1,0,0,51,11,1,0,4,0.2,0.2,0.0,0,0,30,43,69.8,5,26,2,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 0–4,Bournemouth,Burnley,Y,"RB,LB",77,0,0,0,0,0,0,0,0,68,13,0,1,1,0.0,0.0,0.0,2,0,49,63,77.8,5,53,4,3,4,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,W 3–2,Bournemouth,Blackburn,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-01,Mon,Premier League,Matchweek 7,Home,W 2–1,Bournemouth,Crystal Palace,Y,LB,90,0,0,0,0,0,0,0,0,59,22,4,1,1,0.0,0.0,0.0,4,1,40,50,80.0,3,37,8,0,1,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 4–0,Bournemouth,Watford,Y,LB,90,0,0,0,0,0,0,0,0,50,12,0,1,2,0.0,0.0,0.0,2,1,34,39,87.2,2,36,4,0,1,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,D 0–0,Bournemouth,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,74,6,2,0,2,0.0,0.0,0.0,1,0,44,55,80.0,4,42,3,2,5,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,W 3–0,Bournemouth,Fulham,Y,WB,90,0,0,0,0,0,0,0,0,52,22,1,2,2,0.0,0.0,0.0,1,0,32,40,80.0,6,28,8,1,2,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 1–2,Bournemouth,Manchester Utd,Y,LB,90,0,0,0,0,1,0,1,0,57,4,2,0,1,0.0,0.0,0.4,2,0,41,49,83.7,6,39,10,1,2,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,L 1–2,Bournemouth,Newcastle Utd,Y,LB,29,0,0,0,0,0,0,0,0,16,3,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,10,1,0,0,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Away,L 0–2,Bournemouth,Everton,Y,"LB,RB",90,0,0,0,0,0,0,0,0,54,28,2,0,0,0.0,0.0,0.0,2,0,29,44,65.9,3,27,2,0,1,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–0,Bournemouth,West Ham,Y,LB,90,0,0,0,0,1,0,0,0,60,30,3,1,0,0.0,0.0,0.0,1,0,39,49,79.6,2,34,7,0,0,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,W 4–0,Bournemouth,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,51,43,1,1,4,0.0,0.0,0.0,1,1,31,38,81.6,1,25,0,1,3,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–2,Bournemouth,Cardiff City,Y,LB,90,0,0,0,0,0,0,1,0,74,21,0,0,3,0.0,0.0,0.1,3,0,51,59,86.4,4,51,7,1,3,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,L 0–3,Bournemouth,Liverpool,Y,RB,90,0,0,0,0,2,0,1,0,54,27,5,3,2,0.0,0.0,0.0,1,0,29,35,82.9,2,33,1,3,5,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,D 1–1,Bournemouth,Wolves,Y,LB,90,0,0,0,0,0,0,1,0,70,14,0,1,3,0.0,0.0,0.0,0,0,47,57,82.5,3,40,9,1,2,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 1–5,Bournemouth,Arsenal,Y,"LB,LM",69,0,0,0,0,0,0,0,0,48,19,3,1,4,0.0,0.0,0.1,2,0,28,33,84.8,1,31,6,1,1,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,L 0–1,Bournemouth,Manchester City,Y,"AM,WB",90,0,0,0,0,0,0,0,0,17,33,1,2,3,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,1,2,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,W 2–0,Bournemouth,Huddersfield,Y,RB,43,0,0,0,0,0,0,0,0,29,13,3,1,2,0.0,0.0,0.0,0,0,13,19,68.4,0,11,0,0,0,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Home,L 1–3,Bournemouth,Burnley,Y,"LB,RB",90,0,0,0,0,0,0,1,0,61,11,3,0,4,0.0,0.0,0.0,1,0,37,45,82.2,1,33,8,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,W 5–0,Bournemouth,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,54,27,2,3,2,0.0,0.0,0.0,1,0,35,43,81.4,2,29,3,0,0,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,W 1–0,Bournemouth,Tottenham,Y,"RB,LB",90,0,0,0,0,1,0,0,0,88,11,4,0,3,0.0,0.0,0.2,4,0,61,77,79.2,9,61,15,1,2,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,L 3–5,Bournemouth,Crystal Palace,Y,"RB,LB",90,0,1,0,0,1,0,0,0,77,9,3,1,5,0.0,0.0,0.0,1,0,51,61,83.6,4,49,12,0,0,Match Report

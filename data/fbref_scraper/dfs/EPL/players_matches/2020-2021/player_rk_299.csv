@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-03,Thu,UEFA Nations League,League B,Away,D 1–1,ie Republic of Ireland,bg Bulgaria,Y,CM,69,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-06,Sun,UEFA Nations League,League B,Home,L 0–1,ie Republic of Ireland,fi Finland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,W 1–0,Crystal Palace,Southampton,Y,DM,73,0,0,0,0,0,0,1,0,29,8,1,2,2,0.0,0.0,0.0,2,1,14,21,66.7,2,8,0,0,0,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Away,L 0 (10)–0 (11),Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,DM,87,0,0,0,0,0,0,0,0,40,22,3,1,3,0.0,0.0,0.0,0,0,18,30,60.0,2,19,0,2,2,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CM,90,0,0,0,0,1,0,0,0,56,26,4,1,1,0.0,0.0,0.0,1,0,36,46,78.3,6,20,4,0,0,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CM,66,0,0,0,0,0,0,0,0,24,14,1,1,2,0.0,0.0,0.0,1,0,13,20,65.0,0,15,2,1,1,Match Report
+2020-2021,2020-10-08,Thu,Euro Qualifying,Semi-finals,Away,L 0 (2)–0 (4),ie Republic of Ireland,sk Slovakia,Y,DM,59,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,N,CM,14,0,0,0,0,0,0,0,0,8,6,1,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,5,0,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Home,W 3–0,Crystal Palace U23,Newcastle Utd,Y,DM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-28,Mon,Premier League,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-08,Fri,FA Cup,Third round,Away,L 0–1,Crystal Palace,Wolves,Y,CM,69,0,0,0,0,1,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Premier League,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,N,DM,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,L 0–4,Crystal Palace,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,23,19,0,1,3,0.0,0.0,0.0,0,0,13,17,76.5,0,11,0,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,Y,DM,45,0,0,0,0,0,0,0,0,50,5,0,1,1,0.0,0.0,0.0,0,0,42,46,91.3,4,41,5,0,0,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,N,CM,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,N,CM,12,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,Y,CM,61,0,0,0,0,0,0,0,0,36,8,1,0,4,0.0,0.0,0.0,1,0,26,29,89.7,1,21,0,0,0,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,N,DM,32,0,0,0,0,0,0,0,0,18,6,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,0,8,0,0,0,Match Report

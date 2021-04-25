@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,W 1 (5)–1 (4),Burnley,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,L 2–4,Burnley,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 2–0,Burnley,Millwall,Y,RB,90,0,1,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 0–1,Burnley,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,L 0–3,Burnley,Manchester City,Y,RB,78,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Home,L 0–1,Burnley,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,62,10,2,0,4,0.0,0.0,0.0,2,0,32,50,64.0,5,29,1,1,1,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Home,L 0–3,Burnley,Chelsea,Y,RB,90,0,0,0,0,1,0,0,0,68,5,2,0,0,0.0,0.0,0.2,1,0,43,59,72.9,4,39,5,2,3,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Away,D 0–0,Burnley,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,46,11,1,1,4,0.0,0.0,0.0,0,0,25,33,75.8,3,24,5,0,0,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Home,W 1–0,Burnley,Crystal Palace,Y,RB,90,0,0,0,0,0,0,1,0,54,9,2,3,1,0.0,0.0,0.0,1,0,34,47,72.3,2,39,2,0,0,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Away,L 0–5,Burnley,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,45,5,1,1,5,0.0,0.0,0.0,0,0,24,37,64.9,0,17,3,0,0,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,D 1–1,Burnley,Everton,Y,RB,90,0,0,0,0,0,0,0,0,66,15,3,2,1,0.0,0.0,0.0,2,0,48,58,82.8,5,32,4,2,2,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,W 1–0,Burnley,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,62,7,3,3,5,0.0,0.0,0.0,1,0,32,47,68.1,3,24,2,0,0,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Away,D 0–0,Burnley,Aston Villa,Y,RB,90,0,0,0,0,0,0,0,0,38,13,3,1,4,0.0,0.0,0.0,0,0,15,28,53.6,2,8,0,0,0,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Home,W 2–1,Burnley,Wolves,Y,RB,90,0,0,0,0,1,0,0,0,42,8,2,2,0,0.0,0.0,0.0,0,0,22,33,66.7,3,22,4,0,2,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,L 0–1,Burnley,Leeds United,Y,RB,90,0,0,0,0,2,1,0,0,47,3,3,0,1,0.1,0.1,0.0,0,0,26,37,70.3,3,16,1,0,1,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,W 1–0,Burnley,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,1,0,56,4,2,1,1,0.0,0.0,0.0,2,0,31,45,68.9,9,27,2,0,0,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 1 (4)–1 (3),Burnley,MK Dons,N,,22,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 1,Home,L 0–1,Burnley,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,56,12,2,0,4,0.0,0.0,0.0,2,0,25,43,58.1,3,27,3,1,2,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,L 0–1,Burnley,West Ham,Y,RB,90,0,0,0,0,1,0,0,0,58,4,1,2,1,0.0,0.0,0.0,2,0,37,52,71.2,3,36,6,2,2,Match Report
+2020-2021,2021-01-21,Thu,Premier League,Matchweek 18,Away,W 1–0,Burnley,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,30,8,1,1,1,0.0,0.0,0.0,0,0,10,20,50.0,1,17,2,0,0,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Away,W 3–0,Burnley,Fulham,N,,4,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,W 3–2,Burnley,Aston Villa,Y,RB,90,0,0,0,0,0,0,0,0,50,11,3,1,1,0.0,0.0,0.0,0,0,23,41,56.1,3,15,2,0,0,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,L 0–2,Burnley,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,43,9,2,4,0,0.0,0.0,0.0,0,0,19,31,61.3,2,20,2,3,3,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–2,Burnley,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,40,14,4,2,1,0.0,0.0,0.0,2,0,23,30,76.7,0,15,2,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,D 1–1,Burnley,Brighton,Y,RB,90,0,0,0,0,3,0,0,0,72,5,3,0,0,0.1,0.1,0.1,2,0,44,59,74.6,5,46,15,3,3,Match Report
+2020-2021,2021-02-09,Tue,FA Cup,Fifth round,Home,L 0–2,Burnley,Bournemouth,N,,17,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,W 3–0,Burnley,Crystal Palace,Y,RB,90,1,0,0,0,3,1,0,0,72,9,5,2,2,0.2,0.2,0.1,5,1,45,56,80.4,8,39,4,3,3,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 17,Home,D 1–1,Burnley,Fulham,Y,RB,90,0,0,0,0,0,0,0,0,52,6,1,4,2,0.0,0.0,0.0,2,0,30,43,69.8,2,20,1,0,1,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,D 0–0,Burnley,West Brom,Y,RB,90,0,0,0,0,1,0,1,0,77,11,4,1,4,0.0,0.0,0.1,2,0,45,64,70.3,4,36,7,1,1,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,L 0–4,Burnley,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,53,8,0,2,0,0.0,0.0,0.1,2,0,32,45,71.1,12,38,4,0,2,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 1–1,Burnley,Leicester City,Y,RB,90,0,0,0,0,1,0,0,0,64,3,0,3,2,0.0,0.0,0.6,4,0,39,58,67.2,7,33,6,2,2,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,D 1–1,Burnley,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,62,9,1,3,1,0.0,0.0,0.0,0,0,38,54,70.4,4,30,2,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,W 2–1,Burnley,Everton,Y,RB,90,0,0,0,0,0,0,1,0,39,8,1,0,2,0.0,0.0,0.0,1,0,19,33,57.6,4,11,0,0,0,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 2–3,Burnley,Southampton,Y,RB,90,0,0,0,0,0,0,0,0,56,12,5,2,1,0.0,0.0,0.0,1,0,29,41,70.7,4,19,2,0,2,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 1–2,Burnley,Newcastle Utd,Y,RB,90,0,0,0,0,3,1,0,0,61,7,2,0,2,0.1,0.1,0.1,4,0,35,51,68.6,4,29,2,0,0,Match Report
+2020-2021,2021-04-18,Sun,Premier League,Matchweek 32,Away,L 1–3,Burnley,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,39,11,1,1,0,0.0,0.0,0.0,2,0,19,31,61.3,2,15,1,0,0,Match Report

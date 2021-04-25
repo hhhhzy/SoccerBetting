@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-14,Sun,Premier League,Matchweek 1,Home,L 1–3,Bournemouth,Manchester Utd,N,,24,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-08-21,Sun,Premier League,Matchweek 2,Away,L 0–1,Bournemouth,West Ham,N,,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Match Report
+2016-2017,2016-08-24,Wed,EFL Cup,Second round,Away,W 2–1,Bournemouth,Morecambe,Y,FW,76,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Away,D 1–1,Bournemouth,Crystal Palace,N,,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-20,Tue,EFL Cup,Third round,Home,L 2–3,Bournemouth,Preston,Y,CM,120,1,1,1,1,2,2,0,0,2,2,0,4,0,0,0,0,0,Match Report
+2016-2017,2017-01-07,Sat,FA Cup,Third round,Away,L 0–3,Bournemouth,Millwall,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-02-04,Sat,Championship,Matchweek 30,Away,D 2–2,Reading,Ipswich Town,N,,45,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-11,Sat,Championship,Matchweek 31,Home,D 0–0,Reading,Barnsley,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-14,Tue,Championship,Matchweek 32,Home,W 3–2,Reading,Brentford,Y,FW,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-21,Tue,Championship,Matchweek 33,Away,L 0–1,Reading,Huddersfield,Y,FW,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,Championship,Matchweek 34,Away,L 0–3,Reading,Brighton,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-04,Sat,Championship,Matchweek 35,Home,W 2–1,Reading,Wolves,N,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-07,Tue,Championship,Matchweek 36,Home,D 0–0,Reading,Newcastle Utd,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Championship,Matchweek 37,Away,L 0–3,Reading,Preston,Y,FW,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-17,Fri,Championship,Matchweek 38,Away,W 2–0,Reading,Sheffield Weds,N,,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-01,Sat,Championship,Matchweek 39,Home,W 1–0,Reading,Leeds United,N,,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-04,Tue,Championship,Matchweek 40,Home,W 3–1,Reading,Blackburn,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-08,Sat,Championship,Matchweek 41,Away,L 1–7,Reading,Norwich City,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-15,Sat,Championship,Matchweek 42,Away,W 3–1,Reading,Aston Villa,Y,FW,90,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-17,Mon,Championship,Matchweek 43,Home,W 2–1,Reading,Rotherham Utd,N,,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-22,Sat,Championship,Matchweek 44,Away,L 2–3,Reading,Nott'ham Forest,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Championship,Matchweek 45,Home,W 1–0,Reading,Wigan Athletic,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-07,Sun,Championship,Matchweek 46,Away,W 4–2,Reading,Burton Albion,N,,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-13,Sat,Championship,Semi-finals,Away,D 1–1,Reading,Fulham,Y,AM,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-16,Tue,Championship,Semi-finals,Home,W 1–0,Reading,Fulham,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-29,Mon,Championship,Final,Away,L 0 (3)–0 (4),Reading,Huddersfield,Y,FW,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report

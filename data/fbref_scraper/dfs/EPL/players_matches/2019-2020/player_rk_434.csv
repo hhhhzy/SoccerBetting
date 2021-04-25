@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,L 0–5,West Ham,Manchester City,N,"DM,CM",35,0,0,0,0,0,0,0,0,20,8,0,0,0,0.0,0.0,0.2,2,0,13,18,72.2,1,15,1,0,1,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,D 1–1,West Ham,Brighton,Y,RM,90,0,0,0,0,1,1,0,0,47,27,2,0,4,0.1,0.1,0.0,2,0,15,28,53.6,1,33,4,4,4,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,W 2–0,West Ham,Newport County,Y,RW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 2–0,West Ham,Norwich City,N,RM,20,0,0,0,0,1,1,1,0,21,4,0,0,0,0.1,0.1,0.0,2,0,15,19,78.9,0,15,2,0,1,Match Report
+2019-2020,2019-09-06,Fri,Euro Qualifying,Group stage,Home,L 1–2,sco Scotland,ru Russia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-09,Mon,Euro Qualifying,Group stage,Home,L 0–4,sco Scotland,be Belgium,Y,FW,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-16,Mon,Premier League,Matchweek 5,Away,D 0–0,West Ham,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Home,W 2–0,West Ham,Manchester Utd,N,RM,2,0,0,0,0,0,0,0,0,4,1,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,3,1,0,1,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–4,West Ham,Oxford United,Y,RW,73,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,D 2–2,West Ham,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,L 1–2,West Ham,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-10,Thu,Euro Qualifying,Group stage,Away,L 0–4,sco Scotland,ru Russia,Y,AM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 0–2,West Ham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Home,D 1–1,West Ham,Sheffield Utd,Y,"CM,LM",85,1,0,0,0,2,1,0,0,56,12,0,0,2,0.8,0.8,0.2,2,0,30,47,63.8,1,38,5,1,1,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 2–3,West Ham,Newcastle Utd,Y,"RM,CM",90,1,0,0,0,2,1,0,0,64,15,2,1,1,0.2,0.2,0.4,6,0,34,49,69.4,4,30,3,0,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,L 0–3,West Ham,Burnley,Y,"DM,RM",90,0,0,0,0,0,0,0,0,59,21,1,0,0,0.0,0.0,0.0,2,0,36,52,69.2,5,44,8,0,0,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 2–3,West Ham,Tottenham,Y,AM,90,0,1,0,0,1,0,1,0,41,32,2,0,0,0.0,0.0,0.3,6,1,27,34,79.4,2,34,6,1,2,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,W 1–0,West Ham,Chelsea,Y,RM,90,0,0,0,0,0,0,0,0,55,33,3,0,2,0.0,0.0,0.2,2,0,31,45,68.9,3,28,5,1,1,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 0–2,West Ham,Wolves,Y,RM,61,0,0,0,0,1,1,0,0,31,18,1,0,0,0.3,0.3,0.1,1,0,19,27,70.4,2,17,3,1,1,Match Report
+2019-2020,2019-12-09,Mon,Premier League,Matchweek 16,Home,L 1–3,West Ham,Arsenal,Y,RM,77,0,0,0,0,1,0,1,0,42,23,3,0,1,0.1,0.1,0.0,1,0,23,34,67.6,4,31,8,1,2,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,W 1–0,West Ham,Southampton,Y,"RM,LM",72,0,0,0,0,0,0,1,0,33,18,0,0,0,0.0,0.0,0.0,3,1,20,31,64.5,3,22,1,2,3,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 1–2,West Ham,Crystal Palace,Y,RM,89,1,0,0,0,3,1,0,0,48,25,2,0,2,0.6,0.6,0.0,3,0,21,36,58.3,3,27,6,0,0,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 1–2,West Ham,Leicester City,N,"AM,CM",29,0,0,0,0,1,0,0,0,18,12,3,0,1,0.1,0.1,0.1,1,0,10,11,90.9,1,7,0,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 4–0,West Ham,Bournemouth,Y,RM,82,0,1,0,0,0,0,0,0,41,27,0,0,2,0.0,0.0,0.1,6,2,24,33,72.7,1,28,4,1,1,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Away,W 2–0,West Ham,Gillingham,Y,AM,69,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-10,Fri,Premier League,Matchweek 22,Away,L 0–1,West Ham,Sheffield Utd,N,WB,22,0,0,0,0,0,0,0,0,13,3,0,0,1,0.0,0.0,0.0,1,0,3,8,37.5,1,2,0,0,1,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 1–1,West Ham,Everton,Y,RM,90,0,1,0,0,3,1,0,0,55,8,0,0,1,0.1,0.1,0.2,3,1,30,42,71.4,6,43,8,0,1,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,L 1–4,West Ham,Leicester City,Y,CM,45,0,0,0,0,1,0,0,0,17,12,2,0,0,0.0,0.0,0.0,1,0,6,11,54.5,0,9,1,1,1,Match Report
+2019-2020,2020-01-29,Wed,Premier League,Matchweek 18,Home,L 0–2,West Ham,Liverpool,Y,AM,90,0,0,0,0,1,1,0,0,31,7,0,0,2,0.2,0.2,0.2,3,0,19,26,73.1,4,18,1,1,1,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,D 3–3,West Ham,Brighton,Y,RM,84,2,1,0,0,3,2,0,0,37,18,2,0,1,0.1,0.1,0.4,2,1,18,26,69.2,3,24,5,0,1,Match Report
+2019-2020,2020-02-19,Wed,Premier League,Matchweek 26,Away,L 0–2,West Ham,Manchester City,Y,FW,79,0,0,0,0,0,0,0,0,23,22,0,0,0,0.0,0.0,0.0,1,0,15,17,88.2,0,16,1,0,0,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Away,L 2–3,West Ham,Liverpool,Y,RW,83,0,1,0,0,0,0,0,0,38,17,3,0,0,0.0,0.0,0.1,1,1,20,29,69.0,1,20,3,1,3,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–1,West Ham,Southampton,N,RW,13,0,0,0,0,0,0,0,0,8,4,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,1,0,0,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,West Ham,Arsenal,N,RM,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Match Report

@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-02,Fri,Championship,Matchweek 1,Away,D 3–3,Middlesbrough,Luton Town,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,Championship,Matchweek 2,Home,L 0–1,Middlesbrough,Brentford,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,Championship,Matchweek 3,Away,L 0–1,Middlesbrough,Blackburn,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-20,Tue,Championship,Matchweek 4,Home,W 1–0,Middlesbrough,Wigan Athletic,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Championship,Matchweek 5,Home,D 1–1,Middlesbrough,Millwall,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Championship,Matchweek 6,Away,D 2–2,Middlesbrough,Bristol City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,ch Switzerland,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Friendlies (M),Friendlies (M),Home,W 3–1,ie Republic of Ireland,bg Bulgaria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Championship,Matchweek 7,Home,W 1–0,Middlesbrough,Reading,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Championship,Matchweek 8,Away,L 0–1,Middlesbrough,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Championship,Matchweek 9,Home,L 1–4,Middlesbrough,Sheffield Weds,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-01,Tue,Championship,Matchweek 10,Home,D 1–1,Middlesbrough,Preston,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-04,Fri,Championship,Matchweek 11,Away,L 1–2,Middlesbrough,Birmingham City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Away,D 0–0,ie Republic of Ireland,ge Georgia,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Away,L 0–2,ie Republic of Ireland,ch Switzerland,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Championship,Matchweek 12,Home,L 0–1,Middlesbrough,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Championship,Matchweek 16,Away,D 2–2,Middlesbrough,QPR,Y,GK,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,dk Denmark,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Championship,Matchweek 17,Home,D 2–2,Middlesbrough,Hull City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 1–1,West Ham,Everton,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,11,0,0,0,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,L 1–4,West Ham,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,22,0,0,0,0,0.0,0.0,0.0,0,0,7,17,41.2,0,5,0,0,0,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Home,L 0–1,West Ham,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-29,Wed,Premier League,Matchweek 18,Home,L 0–2,West Ham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,D 3–3,West Ham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-19,Wed,Premier League,Matchweek 26,Away,L 0–2,West Ham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Away,L 2–3,West Ham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–1,West Ham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,West Ham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Away,L 0–2,West Ham,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 3–2,West Ham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 2–2,West Ham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Home,L 0–1,West Ham,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,W 4–0,West Ham,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-17,Fri,Premier League,Matchweek 36,Home,W 3–1,West Ham,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Away,D 1–1,West Ham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,West Ham,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,57 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Home,W 4–0,Liverpool,West Ham,Y,LB,90,0,1,0,0,0,0,0,0,89,14,2,2,2,0.0,0.0,0.9,5,2,75,82,91.5,10,70,5,1,1,Match Report
+2018-2019,2018-08-20,Mon,Premier League,Matchweek 2,Away,W 2–0,Liverpool,Crystal Palace,Y,LB,90,0,0,0,0,1,0,0,0,101,15,4,1,3,0.1,0.1,0.0,4,0,79,86,91.9,8,78,4,0,1,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,W 1–0,Liverpool,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,69,14,2,0,0,0.0,0.0,0.6,6,0,53,61,86.9,5,54,3,0,1,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 2–1,Liverpool,Leicester City,Y,LB,90,0,1,0,0,0,0,0,0,54,26,3,3,0,0.0,0.0,0.0,3,2,35,46,76.1,4,38,7,1,1,Match Report
+2018-2019,2018-09-07,Fri,Friendlies (M),Friendlies (M),Home,L 0–4,sco Scotland,be Belgium,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-10,Mon,UEFA Nations League,League C,Home,W 2–0,sco Scotland,al Albania,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 2–1,Liverpool,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,67,15,5,0,1,0.0,0.0,0.1,1,0,40,56,71.4,8,41,4,0,0,Match Report
+2018-2019,2018-09-18,Tue,Champions Lg,Group stage,Home,W 3–2,eng Liverpool,fr Paris S-G,Y,LB,90,0,1,0,0,0,0,0,0,69,15,2,1,0,0.0,0.0,0.3,2,1,52,64,81.3,7,40,5,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,W 3–0,Liverpool,Southampton,Y,LB,90,0,0,0,0,1,0,0,0,113,14,0,3,2,0.1,0.1,0.0,1,0,86,105,81.9,8,90,2,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,D 1–1,Liverpool,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,78,24,1,2,3,0.0,0.0,0.3,1,0,54,67,80.6,4,55,7,0,1,Match Report
+2018-2019,2018-10-03,Wed,Champions Lg,Group stage,Away,L 0–1,eng Liverpool,it Napoli,Y,LB,90,0,0,0,0,0,0,0,0,66,11,5,2,0,0.0,0.0,0.0,1,0,41,54,75.9,5,38,6,2,2,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Home,D 0–0,Liverpool,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,67,17,2,3,1,0.0,0.0,0.1,2,0,47,56,83.9,4,47,5,3,5,Match Report
+2018-2019,2018-10-11,Thu,UEFA Nations League,League C,Away,L 1–2,sco Scotland,il Israel,Y*,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-14,Sun,Friendlies (M),Friendlies (M),Home,L 1–3,sco Scotland,pt Portugal,Y*,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 1–0,Liverpool,Huddersfield,Y,LB,90,0,0,0,0,2,0,0,0,92,16,1,1,2,0.0,0.0,0.0,2,0,69,85,81.2,9,64,6,0,0,Match Report
+2018-2019,2018-10-24,Wed,Champions Lg,Group stage,Home,W 4–0,eng Liverpool,rs Red Star,Y,LB,81,0,1,0,0,1,0,0,0,82,8,6,1,2,0.1,0.1,0.1,2,1,57,68,83.8,7,58,7,0,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,W 4–1,Liverpool,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,D 1–1,Liverpool,Arsenal,Y,LB,90,0,0,0,0,1,1,0,0,80,9,1,0,2,0.1,0.1,0.2,2,1,53,73,72.6,2,55,4,2,2,Match Report
+2018-2019,2018-11-06,Tue,Champions Lg,Group stage,Away,L 0–2,eng Liverpool,rs Red Star,Y,LB,90,0,0,0,0,1,0,0,0,100,3,1,0,0,0.2,0.2,0.0,4,0,76,96,79.2,3,82,11,1,2,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Home,W 2–0,Liverpool,Fulham,Y,LB,90,0,1,0,0,1,1,0,0,111,12,1,5,1,0.1,0.1,0.3,3,1,83,102,81.4,11,85,6,0,0,Match Report
+2018-2019,2018-11-17,Sat,UEFA Nations League,League C,Away,W 4–0,sco Scotland,al Albania,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,UEFA Nations League,League C,Home,W 3–2,sco Scotland,il Israel,Y*,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,W 3–0,Liverpool,Watford,Y,LB,90,0,0,0,0,0,0,0,0,90,6,1,0,1,0.0,0.0,0.0,2,0,73,85,85.9,9,72,6,4,4,Match Report
+2018-2019,2018-11-28,Wed,Champions Lg,Group stage,Away,L 1–2,eng Liverpool,fr Paris S-G,Y,LB,90,0,0,0,0,0,0,1,0,90,11,0,1,1,0.0,0.0,0.1,1,0,72,86,83.7,6,59,5,0,0,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Home,W 1–0,Liverpool,Everton,Y,LB,90,0,0,0,0,0,0,0,0,84,17,3,1,0,0.0,0.0,0.0,2,0,59,77,76.6,6,52,7,1,1,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,W 4–0,Liverpool,Bournemouth,Y,LB,90,0,0,0,0,0,0,0,0,91,9,5,0,4,0.0,0.0,0.1,2,0,65,79,82.3,5,56,3,0,0,Match Report
+2018-2019,2018-12-11,Tue,Champions Lg,Group stage,Home,W 1–0,eng Liverpool,it Napoli,Y,LB,90,0,0,0,0,0,0,1,0,73,7,2,1,1,0.0,0.0,0.5,3,0,48,65,73.8,7,54,5,3,3,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,W 3–1,Liverpool,Manchester Utd,Y,LB,90,0,0,0,0,0,0,0,0,92,10,2,1,2,0.0,0.0,0.2,6,1,62,84,73.8,9,61,9,3,4,Match Report
+2018-2019,2018-12-21,Fri,Premier League,Matchweek 18,Away,W 2–0,Liverpool,Wolves,Y,LB,90,0,0,0,0,0,0,0,0,91,12,2,1,1,0.0,0.0,0.0,1,0,63,80,78.8,1,65,8,1,3,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 4–0,Liverpool,Newcastle Utd,Y,LB,81,0,0,0,0,0,0,0,0,124,8,1,0,2,0.0,0.0,0.0,1,0,98,117,83.8,11,95,9,0,1,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,W 5–1,Liverpool,Arsenal,Y,LB,82,0,0,0,0,0,0,1,0,61,13,2,3,0,0.0,0.0,0.1,2,1,39,53,73.6,4,45,6,2,2,Match Report
+2018-2019,2019-01-03,Thu,Premier League,Matchweek 21,Away,L 1–2,Liverpool,Manchester City,Y,LB,90,0,1,0,0,0,0,0,0,75,16,7,1,1,0.0,0.0,0.8,1,1,51,64,79.7,4,55,6,2,2,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,W 1–0,Liverpool,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,98,13,3,1,3,0.0,0.0,0.4,1,0,74,86,86.0,8,72,5,1,1,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 4–3,Liverpool,Crystal Palace,Y,LB,90,0,1,0,0,2,1,0,0,105,8,4,0,2,0.1,0.1,0.2,5,3,76,93,81.7,12,80,10,2,3,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,D 1–1,Liverpool,Leicester City,Y,LB,90,0,0,0,0,1,0,0,0,104,19,1,1,1,0.0,0.0,0.1,1,1,78,95,82.1,6,79,5,0,0,Match Report
+2018-2019,2019-02-04,Mon,Premier League,Matchweek 25,Away,D 1–1,Liverpool,West Ham,Y,LB,90,0,0,0,0,1,0,0,0,86,12,1,1,1,0.0,0.0,0.0,0,0,59,80,73.8,8,59,6,1,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,W 3–0,Liverpool,Bournemouth,Y,LB,90,0,1,0,0,0,0,1,0,96,21,3,1,3,0.0,0.0,0.2,3,1,73,85,85.9,9,70,3,0,0,Match Report
+2018-2019,2019-02-19,Tue,Champions Lg,Round of 16,Home,D 0–0,eng Liverpool,de Bayern Munich,Y,LB,90,0,0,0,0,0,0,0,0,67,13,1,1,2,0.0,0.0,0.1,2,0,45,57,78.9,7,41,2,0,0,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Away,D 0–0,Liverpool,Manchester Utd,Y,LB,90,0,0,0,0,0,0,0,0,45,16,3,0,0,0.0,0.0,0.0,1,0,29,39,74.4,1,27,4,1,1,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 5–0,Liverpool,Watford,Y,LB,90,0,2,0,0,1,0,0,0,75,22,2,0,0,0.1,0.1,0.2,4,2,60,71,84.5,8,60,4,2,3,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,D 0–0,Liverpool,Everton,Y,LB,90,0,0,0,0,0,0,1,0,81,8,3,3,0,0.0,0.0,0.1,3,0,45,62,72.6,5,31,4,0,0,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Home,W 4–2,Liverpool,Burnley,Y,LB,90,0,0,0,0,1,0,0,0,91,6,1,1,2,0.1,0.1,0.3,2,0,72,85,84.7,4,58,7,0,1,Match Report
+2018-2019,2019-03-13,Wed,Champions Lg,Round of 16,Away,W 3–1,eng Liverpool,de Bayern Munich,Y,LB,90,0,0,0,0,1,1,1,0,64,12,0,1,2,0.1,0.1,0.0,1,1,39,53,73.6,5,42,4,1,2,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Away,W 2–1,Liverpool,Fulham,Y,LB,90,0,0,0,0,1,1,0,0,103,7,1,1,1,0.1,0.1,0.2,3,0,81,96,84.4,12,77,13,1,2,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Home,W 2–1,Liverpool,Tottenham,Y,LB,90,0,1,0,0,0,0,0,0,87,16,2,2,2,0.0,0.0,0.2,2,1,63,79,79.7,11,56,11,0,0,Match Report
+2018-2019,2019-04-05,Fri,Premier League,Matchweek 33,Away,W 3–1,Liverpool,Southampton,Y,LB,90,0,0,0,0,0,0,1,0,76,18,2,1,1,0.0,0.0,0.0,2,1,58,71,81.7,13,55,11,0,0,Match Report
+2018-2019,2019-04-14,Sun,Premier League,Matchweek 34,Home,W 2–0,Liverpool,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,87,13,1,2,0,0.0,0.0,0.0,0,0,68,79,86.1,7,55,2,0,0,Match Report
+2018-2019,2019-04-17,Wed,Champions Lg,Quarter-finals,Away,W 4–1,eng Liverpool,pt Porto,Y,LB,70,0,0,0,0,0,0,0,0,57,23,3,0,1,0.0,0.0,0.0,1,0,43,52,82.7,5,32,1,1,1,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Away,W 2–0,Liverpool,Cardiff City,Y,LB,90,0,0,0,0,0,0,0,0,73,6,1,0,1,0.0,0.0,0.0,1,0,58,69,84.1,4,44,2,0,1,Match Report
+2018-2019,2019-04-26,Fri,Premier League,Matchweek 36,Home,W 5–0,Liverpool,Huddersfield,Y,LB,90,0,2,0,0,0,0,0,0,78,6,0,0,4,0.0,0.0,0.8,6,2,63,74,85.1,5,57,6,0,0,Match Report
+2018-2019,2019-05-01,Wed,Champions Lg,Semi-finals,Away,L 0–3,eng Liverpool,es Barcelona,Y,LB,90,0,0,0,0,0,0,0,0,83,13,4,1,3,0.0,0.0,0.0,2,0,59,73,80.8,11,66,7,2,2,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,W 3–2,Liverpool,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,90,11,1,0,1,0.0,0.0,0.2,2,0,70,84,83.3,5,77,8,1,1,Match Report
+2018-2019,2019-05-07,Tue,Champions Lg,Semi-finals,Home,W 4–0,eng Liverpool,es Barcelona,Y,LB,45,0,0,0,0,2,1,0,0,33,4,1,1,1,0.0,0.0,0.1,1,0,18,26,69.2,4,21,2,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,W 2–0,Liverpool,Wolves,Y,LB,83,0,0,0,0,1,1,0,0,97,13,2,2,3,0.0,0.0,0.1,1,0,72,91,79.1,8,71,15,1,1,Match Report
+2018-2019,2019-06-01,Sat,Champions Lg,Final,Away,W 2–0,eng Liverpool,eng Tottenham,Y,LB,90,0,0,0,0,1,1,0,0,61,12,2,2,2,0.0,0.0,0.0,1,0,34,54,63.0,2,29,3,0,0,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 2–1,sco Scotland,cy Cyprus,Y*,LB,90,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report

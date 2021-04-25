@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,L 0–1,Crystal Palace,West Brom,Y*,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,0,3,0,0,0,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Tottenham,Y*,CB,90,0,0,0,0,1,0,1,0,3,2,0,0,1,7,0,0,0,Match Report
+2016-2017,2016-08-23,Tue,EFL Cup,Second round,Home,W 2–0,Crystal Palace,Blackpool,Y*,CB,90,1,0,0,0,1,1,0,0,0,0,0,0,0,7,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Home,D 1–1,Crystal Palace,Bournemouth,Y*,CB,90,1,0,0,0,3,2,0,0,0,1,0,1,1,5,0,0,0,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Away,W 2–1,Crystal Palace,Middlesbrough,Y*,CB,90,0,0,0,0,2,0,0,0,0,0,0,1,3,4,0,0,0,Match Report
+2016-2017,2016-09-18,Sun,Premier League,Matchweek 5,Home,W 4–1,Crystal Palace,Stoke City,Y*,CB,90,1,0,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,Match Report
+2016-2017,2016-09-21,Wed,EFL Cup,Third round,Away,L 0–2,Crystal Palace,Southampton,Y*,CB,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,Premier League,Matchweek 10,Home,L 2–4,Crystal Palace,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-05,Sat,Premier League,Matchweek 11,Away,L 2–3,Crystal Palace,Burnley,Y*,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-19,Sat,Premier League,Matchweek 12,Home,L 1–2,Crystal Palace,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Away,L 4–5,Crystal Palace,Swansea City,Y*,CB,90,0,1,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Premier League,Matchweek 14,Home,W 3–0,Crystal Palace,Southampton,Y*,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-12-10,Sat,Premier League,Matchweek 15,Away,D 3–3,Crystal Palace,Hull City,Y*,CB,90,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,1,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Home,L 1–2,Crystal Palace,Manchester Utd,Y*,CB,90,0,0,0,0,1,1,0,0,0,2,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,Premier League,Matchweek 17,Home,L 0–1,Crystal Palace,Chelsea,Y*,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Away,D 1–1,Crystal Palace,Watford,Y*,CB,90,0,0,0,0,2,1,0,0,3,1,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-01-01,Sun,Premier League,Matchweek 19,Away,L 0–2,Crystal Palace,Arsenal,Y*,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-01-14,Sat,Premier League,Matchweek 21,Away,L 0–3,Crystal Palace,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-01-21,Sat,Premier League,Matchweek 22,Home,L 0–1,Crystal Palace,Everton,Y*,CB,90,0,0,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-01-31,Tue,Premier League,Matchweek 23,Away,W 2–0,Crystal Palace,Bournemouth,Y*,CB,90,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-04,Sat,Premier League,Matchweek 24,Home,L 0–4,Crystal Palace,Sunderland,Y*,CB,90,0,0,0,0,2,1,0,0,1,0,0,1,0,3,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,Premier League,Matchweek 26,Home,W 1–0,Crystal Palace,Middlesbrough,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-04,Sat,Premier League,Matchweek 27,Away,W 2–0,Crystal Palace,West Brom,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-03-18,Sat,Premier League,Matchweek 29,Home,W 1–0,Crystal Palace,Watford,N,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-01,Sat,Premier League,Matchweek 30,Away,W 2–1,Crystal Palace,Chelsea,N,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-21,Sun,Premier League,Matchweek 38,Away,L 0–2,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

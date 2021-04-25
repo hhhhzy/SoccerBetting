@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Bournemouth,West Brom,Y*,RB,79,0,0,0,0,0,0,0,0,81,11,3,0,3,0.0,0.0,0.0,0,0,48,70,68.6,1,57,7,2,2,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,L 0–3,Bournemouth,Arsenal,N,CB,45,0,0,0,0,0,0,1,0,31,10,0,3,0,0.0,0.0,0.0,1,0,12,23,52.2,0,17,2,0,1,Match Report
+2017-2018,2017-09-15,Fri,Premier League,Matchweek 5,Home,W 2–1,Bournemouth,Brighton,Y*,CB,90,0,0,0,0,0,0,0,0,94,6,4,0,2,0.0,0.0,0.0,0,0,69,82,84.1,2,59,4,0,1,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Home,W 1–0,Bournemouth,Brighton,Y*,CB,120,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,L 1–2,Bournemouth,Everton,Y*,CB,90,0,0,0,0,0,0,0,0,55,7,1,1,2,0.0,0.0,0.0,0,0,40,47,85.1,5,26,1,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,D 0–0,Bournemouth,Leicester City,Y*,CB,90,0,0,0,0,1,0,0,0,69,7,1,1,2,0.0,0.0,0.0,0,0,44,64,68.8,2,31,1,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 0–1,Bournemouth,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,36,2,2,1,2,0.0,0.0,0.0,0,0,16,22,72.7,0,15,1,0,0,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Bournemouth,Stoke City,Y*,CB,90,0,0,0,0,0,0,0,0,69,1,0,1,1,0.0,0.0,0.0,0,0,40,53,75.5,1,44,2,0,0,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,L 0–1,Bournemouth,Chelsea,Y*,CB,90,0,0,0,0,0,0,1,0,77,14,0,1,4,0.0,0.0,0.0,0,0,54,67,80.6,4,42,7,0,1,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,W 1–0,Bournemouth,Newcastle Utd,Y*,RB,90,0,0,0,0,0,0,1,0,91,8,4,2,2,0.0,0.0,0.1,4,0,48,81,59.3,7,45,2,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 4–0,Bournemouth,Huddersfield,Y*,RB,44,0,0,0,0,0,0,1,1,28,3,0,1,2,0.0,0.0,0.1,1,0,10,23,43.5,1,9,1,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,L 1–2,Bournemouth,Burnley,Y*,RB,90,0,0,0,0,1,0,0,0,101,7,3,0,1,0.1,0.1,0.0,3,1,70,93,75.3,8,69,11,1,1,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Home,D 1–1,Bournemouth,Southampton,Y*,CB,90,0,0,0,0,0,0,0,0,73,6,0,1,1,0.0,0.0,0.0,0,0,49,61,80.3,6,39,4,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,D 2–2,Bournemouth,Crystal Palace,Y*,RB,90,0,0,0,0,0,0,0,0,69,20,3,1,6,0.0,0.0,0.1,2,0,34,51,66.7,5,30,4,0,1,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,L 0–1,Bournemouth,Manchester Utd,Y*,CB,90,0,0,0,0,1,0,0,0,66,1,1,2,1,0.2,0.2,0.3,2,0,49,60,81.7,2,41,2,0,0,Match Report
+2017-2018,2017-12-17,Sun,Premier League,Matchweek 18,Home,L 0–4,Bournemouth,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,68,3,0,0,2,0.0,0.0,0.1,1,0,48,59,81.4,3,46,4,0,0,Match Report
+2017-2018,2017-12-20,Wed,EFL Cup,Quarter-finals,Away,L 1–2,Bournemouth,Chelsea,Y*,CB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 3–3,Bournemouth,West Ham,Y*,RB,90,0,0,0,0,1,0,1,0,69,22,5,1,0,0.0,0.0,0.5,6,0,47,55,85.5,5,33,1,2,4,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,W 2–1,Bournemouth,Everton,Y*,RB,90,0,0,0,0,1,0,0,0,63,7,0,1,3,0.0,0.0,0.3,5,0,37,54,68.5,1,28,3,1,1,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Away,D 2–2,Bournemouth,Brighton,Y*,"CB,RB",90,0,0,0,0,0,0,1,0,64,5,0,1,0,0.0,0.0,0.0,2,0,43,57,75.4,3,34,4,1,3,Match Report
+2017-2018,2018-01-14,Sun,Premier League,Matchweek 23,Home,W 2–1,Bournemouth,Arsenal,Y*,CB,90,0,0,0,0,0,0,1,0,55,1,1,1,0,0.0,0.0,0.0,0,0,22,49,44.9,1,25,1,1,1,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,D 1–1,Bournemouth,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,62,11,2,1,1,0.0,0.0,0.0,0,0,33,51,64.7,3,22,2,0,0,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,W 3–0,Bournemouth,Chelsea,Y*,CB,90,0,0,0,0,1,0,0,0,40,9,0,1,2,0.0,0.0,0.0,0,0,22,30,73.3,1,14,0,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 2–1,Bournemouth,Stoke City,Y*,CB,90,0,0,0,0,0,0,0,0,51,6,0,2,1,0.0,0.0,0.1,2,0,33,45,73.3,3,23,2,0,0,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Away,L 1–4,Bournemouth,Huddersfield,Y*,"CB,RB",90,0,0,0,0,0,0,1,0,87,19,2,2,2,0.0,0.0,0.0,0,0,47,75,62.7,7,43,6,1,2,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,D 2–2,Bournemouth,Newcastle Utd,Y*,RB,90,0,0,0,0,0,0,0,0,104,10,0,1,0,0.0,0.0,0.0,1,0,78,101,77.2,13,72,6,0,0,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,D 1–1,Bournemouth,Leicester City,Y*,RB,90,0,0,0,0,0,0,0,0,76,9,2,1,3,0.0,0.0,0.0,0,0,32,52,61.5,5,24,1,1,1,Match Report
+2017-2018,2018-03-11,Sun,Premier League,Matchweek 30,Home,L 1–4,Bournemouth,Tottenham,Y*,"RB,CB",90,0,0,0,0,2,1,0,0,57,16,5,1,4,0.1,0.1,0.0,3,1,29,45,64.4,5,30,1,0,0,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Home,W 2–1,Bournemouth,West Brom,Y*,RB,16,0,0,0,0,0,0,0,0,23,0,0,0,1,0.0,0.0,0.0,2,0,12,21,57.1,2,11,4,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 2–2,Bournemouth,Crystal Palace,Y*,RB,90,0,0,0,0,0,0,1,0,81,4,2,0,1,0.0,0.0,0.3,3,0,48,65,73.8,7,51,6,0,0,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,L 0–3,Bournemouth,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,54,21,0,0,3,0.0,0.0,0.0,1,0,30,42,71.4,0,30,2,0,0,Match Report
+2017-2018,2018-04-18,Wed,Premier League,Matchweek 35,Home,L 0–2,Bournemouth,Manchester Utd,Y*,RB,90,0,0,0,0,3,0,0,0,67,20,2,3,1,0.1,0.1,0.0,2,0,44,60,73.3,2,34,2,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,L 1–2,Bournemouth,Southampton,Y*,CB,90,0,1,0,0,1,0,0,0,100,11,3,1,1,0.0,0.0,0.0,0,0,69,89,77.5,1,61,4,1,1,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,W 1–0,Bournemouth,Swansea City,Y*,CB,90,0,0,0,0,1,0,0,0,73,11,1,1,3,0.0,0.0,0.0,0,0,39,63,61.9,2,30,2,0,0,Match Report

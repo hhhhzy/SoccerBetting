@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Home,D 0–0,Leicester City,Wolves,Y,RB,90,0,0,0,0,1,0,0,0,103,25,4,1,0,0.0,0.0,0.1,2,0,76,88,86.4,12,84,20,5,9,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Away,D 1–1,Leicester City,Chelsea,Y,RB,90,0,0,0,0,1,0,0,0,91,17,5,2,1,0.0,0.0,0.0,0,0,54,71,76.1,5,49,8,5,5,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Leicester City,Sheffield Utd,Y,"RB,WB",90,0,0,0,0,0,0,0,0,82,36,4,0,3,0.0,0.0,0.0,2,0,56,65,86.2,3,46,9,0,1,Match Report
+2019-2020,2019-08-28,Wed,EFL Cup,Second round,Away,W 1 (4)–1 (2),Leicester City,Newcastle Utd,Y,RB,120,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 3–1,Leicester City,Bournemouth,Y,"RB,WB",90,0,0,0,0,0,0,0,0,86,23,2,3,8,0.0,0.0,0.0,1,0,59,69,85.5,9,50,8,2,4,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–1,Leicester City,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,73,21,5,0,1,0.0,0.0,0.0,0,0,46,59,78.0,2,45,7,3,5,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 2–1,Leicester City,Tottenham,Y,RB,90,1,0,0,0,2,1,0,0,82,13,5,2,2,0.3,0.3,0.2,2,0,40,60,66.7,5,46,8,0,0,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Leicester City,Luton Town,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-29,Sun,Premier League,Matchweek 7,Home,W 5–0,Leicester City,Newcastle Utd,Y,RB,90,1,0,0,0,1,1,0,0,129,19,5,2,1,0.0,0.0,0.0,4,2,93,112,83.0,11,90,11,1,2,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 1–2,Leicester City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,63,20,3,0,5,0.0,0.0,0.0,0,0,37,49,75.5,5,44,5,4,5,Match Report
+2019-2020,2019-10-11,Fri,Euro Qualifying,Group stage,Home,W 3–0,pt Portugal,lu Luxembourg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-14,Mon,Euro Qualifying,Group stage,Away,L 1–2,pt Portugal,ua Ukraine,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 2–1,Leicester City,Burnley,Y,"RB,WB",90,0,0,0,0,0,0,0,0,82,15,5,3,1,0.0,0.0,0.4,6,1,58,66,87.9,3,57,10,2,2,Match Report
+2019-2020,2019-10-25,Fri,Premier League,Matchweek 10,Away,W 9–0,Leicester City,Southampton,Y,RB,90,0,0,0,0,0,0,0,0,101,16,7,1,0,0.0,0.0,0.0,0,0,68,86,79.1,10,63,8,1,2,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Away,W 3–1,Leicester City,Burton Albion,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Away,W 2–0,Leicester City,Crystal Palace,Y,RB,90,0,0,0,0,1,0,0,0,70,15,2,2,1,0.1,0.1,0.0,0,0,39,54,72.2,3,36,4,0,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 2–0,Leicester City,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,75,19,5,0,4,0.0,0.0,0.0,3,1,55,60,91.7,6,49,10,3,4,Match Report
+2019-2020,2019-11-14,Thu,Euro Qualifying,Group stage,Home,W 6–0,pt Portugal,lt Lithuania,Y,RB,90,0,1,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-17,Sun,Euro Qualifying,Group stage,Away,W 2–0,pt Portugal,lu Luxembourg,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–0,Leicester City,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,60,18,4,3,3,0.0,0.0,0.0,0,0,39,46,84.8,1,33,4,3,4,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,W 2–1,Leicester City,Everton,Y,RB,90,0,1,0,0,1,1,0,0,94,15,3,2,3,0.1,0.1,0.4,3,1,58,70,82.9,6,56,8,1,2,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–0,Leicester City,Watford,Y,"RB,WB",90,0,0,0,0,0,0,0,0,87,21,2,1,0,0.0,0.0,0.3,1,0,62,73,84.9,9,59,13,5,6,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,W 4–1,Leicester City,Aston Villa,Y,RB,90,0,0,0,0,1,0,1,0,91,32,8,0,2,0.1,0.1,0.3,3,0,53,70,75.7,8,58,15,1,2,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,D 1–1,Leicester City,Norwich City,Y,RB,90,0,0,0,0,1,0,0,0,91,24,6,2,3,0.0,0.0,0.0,1,0,58,73,79.5,9,53,10,3,4,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Away,W 2 (4)–2 (2),Leicester City,Everton,Y,RB,120,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,L 1–3,Leicester City,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,60,13,2,4,3,0.0,0.0,0.0,0,0,36,47,76.6,4,37,3,1,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,L 0–4,Leicester City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,86,16,4,2,2,0.0,0.0,0.0,0,0,45,64,70.3,8,55,9,3,4,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 3–0,Leicester City,Newcastle Utd,Y,WB,90,0,0,0,0,0,0,0,0,90,19,5,2,2,0.0,0.0,0.0,5,1,68,74,91.9,6,65,6,2,3,Match Report
+2019-2020,2020-01-08,Wed,EFL Cup,Semi-finals,Home,D 1–1,Leicester City,Aston Villa,Y,RM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,RB,90,0,0,0,0,0,0,0,0,77,23,8,1,3,0.0,0.0,0.0,0,0,37,57,64.9,6,36,5,1,2,Match Report
+2019-2020,2020-01-19,Sun,Premier League,Matchweek 23,Away,L 1–2,Leicester City,Burnley,Y,"RB,WB",90,0,0,0,0,1,0,0,0,94,20,8,0,3,0.1,0.0,0.1,6,0,55,73,75.3,8,59,16,3,5,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Home,W 4–1,Leicester City,West Ham,Y,"RB,WB",90,1,1,0,0,3,1,0,0,85,24,5,1,1,0.2,0.2,1.1,6,2,61,71,85.9,6,54,11,2,3,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 1–0,Leicester City,Brentford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-28,Tue,EFL Cup,Semi-finals,Away,L 1–2,Leicester City,Aston Villa,Y,DM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,D 2–2,Leicester City,Chelsea,Y,RB,90,0,0,0,0,1,0,0,0,78,19,4,1,0,0.0,0.0,0.0,4,1,50,63,79.4,7,46,4,2,3,Match Report
+2019-2020,2020-02-14,Fri,Premier League,Matchweek 26,Away,D 0–0,Leicester City,Wolves,Y,RB,90,0,0,0,0,1,0,0,0,87,16,1,0,2,0.1,0.1,0.2,4,0,61,73,83.6,4,64,19,3,5,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,L 0–1,Leicester City,Manchester City,Y,WB,90,0,0,0,0,2,1,0,0,48,30,4,2,2,0.1,0.1,0.1,2,0,25,36,69.4,2,28,4,2,2,Match Report
+2019-2020,2020-02-28,Fri,Premier League,Matchweek 28,Away,L 0–1,Leicester City,Norwich City,Y,RB,90,0,0,0,0,0,0,0,0,84,17,5,4,1,0.0,0.0,0.2,3,0,61,72,84.7,1,53,9,0,0,Match Report
+2019-2020,2020-03-04,Wed,FA Cup,Fifth round,Home,W 1–0,Leicester City,Birmingham City,Y,RB,90,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-09,Mon,Premier League,Matchweek 29,Home,W 4–0,Leicester City,Aston Villa,Y,RB,90,0,0,0,0,0,0,0,0,81,17,1,0,2,0.0,0.0,0.2,2,0,63,74,85.1,4,48,4,1,2,Match Report

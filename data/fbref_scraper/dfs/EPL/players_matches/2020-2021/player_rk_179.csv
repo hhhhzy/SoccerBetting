@@ -1,0 +1,28 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-04,Fri,UEFA Nations League,League A,Away,L 0–1,pl Poland,nl Netherlands,N,,20,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-07,Mon,UEFA Nations League,League A,Away,W 2–1,pl Poland,ba Bosnia and Herzegovina,Y,AM,79,1,1,0,0,3,2,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y,RM,54,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-07,Wed,Friendlies (M),Friendlies (M),Home,W 5–1,pl Poland,fi Finland,Y*,LM,61,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Home,D 0–0,pl Poland,it Italy,N,,32,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Home,W 3–0,pl Poland,ba Bosnia and Herzegovina,Y,AM,63,0,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,W 2–0,pl Poland,ua Ukraine,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League A,Away,L 0–2,pl Poland,it Italy,N,,45,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League A,Home,L 1–2,pl Poland,nl Netherlands,N,,16,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 2,Matchweek 10,Home,W 3–1,West Brom,Sunderland,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,L 1–5,West Brom,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,L 1–2,West Brom,Newcastle Utd,N,"LW,DM",11,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,0,0,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Away,D 1–1,West Brom,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,L 0–3,West Brom,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Away,L 3–4,West Brom,Stoke City,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,West Brom,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–5,West Brom,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,L 0–4,West Brom,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 2 (2)–2 (3),West Brom,Blackpool,Y,LW,120,0,1,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 3–2,West Brom,Wolves,Y,LW,68,0,0,0,0,3,0,0,0,24,11,1,0,0,0.1,0.1,0.0,3,1,10,16,62.5,3,14,2,0,0,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Away,L 1–2,West Brom,West Ham,Y,LM,69,0,1,0,0,0,0,0,0,32,10,0,0,1,0.0,0.0,0.1,2,1,20,29,69.0,2,25,10,1,1,Match Report
+2020-2021,2021-03-12,Fri,PL2 — Div. 2,Matchweek 21,Home,L 0–1,West Brom,Middlesbrough,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Away,D 3–3,pl Poland,hu Hungary,N,,7,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Home,W 3–0,pl Poland,ad Andorra,N,,31,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Away,L 1–2,pl Poland,eng England,N,,5,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-23,Fri,PL2 — Div. 2,Matchweek 25,Home,L 0–1,West Brom,Stoke City,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

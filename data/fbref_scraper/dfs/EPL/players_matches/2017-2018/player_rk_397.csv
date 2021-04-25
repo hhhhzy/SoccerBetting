@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-07-27,Thu,Europa Lg,Third qualifying round,Home,W 1–0,eng Everton,sk Ružomberok,N,,29,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-03,Thu,Europa Lg,Third qualifying round,Away,W 1–0,eng Everton,sk Ružomberok,Y,FW,69,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,W 1–0,Everton,Stoke City,Y,"FW,AM",76,0,0,0,0,2,0,0,0,29,23,0,0,0,0.1,0.1,0.0,2,1,13,20,65.0,1,21,3,2,4,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–2,Everton,Chelsea,Y,FW,61,0,0,0,0,1,0,0,0,28,16,1,0,1,0.3,0.3,0.0,0,0,15,17,88.2,0,20,1,1,1,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,L 0–3,Everton,Tottenham,Y,FW,45,0,0,0,0,2,0,0,0,22,18,0,0,0,0.3,0.3,0.0,0,0,8,14,57.1,0,18,2,0,0,Match Report
+2017-2018,2017-09-14,Thu,Europa Lg,Group stage,Away,L 0–3,eng Everton,it Atalanta,N,,24,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Away,L 0–4,Everton,Manchester Utd,N,AM,25,0,0,0,0,2,1,0,0,16,0,0,0,1,0.1,0.1,0.0,1,0,8,10,80.0,1,12,2,0,0,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,W 3–0,Everton,Sunderland,Y,FW,72,0,1,0,0,6,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,W 2–1,Everton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-28,Thu,Europa Lg,Group stage,Home,D 2–2,eng Everton,cy Apollon Limassol,Y,FW,67,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,L 0–1,Everton,Burnley,N,FW,9,0,0,0,0,1,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Match Report
+2017-2018,2017-10-19,Thu,Europa Lg,Group stage,Home,L 1–2,eng Everton,fr Lyon,N,,22,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,D 2–2,Everton,Crystal Palace,N,FW,15,0,0,0,0,0,0,0,0,6,9,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,1,5,1,0,0,Match Report
+2017-2018,2017-11-23,Thu,Europa Lg,Group stage,Home,L 1–5,eng Everton,it Atalanta,Y,FW,90,1,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,L 1–4,Everton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 4–0,Everton,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-18,Mon,Premier League,Matchweek 18,Home,W 3–1,Everton,Swansea City,N,AM,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,D 0–0,Everton,Chelsea,N,FW,45,0,0,0,0,0,0,0,0,20,10,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,1,12,0,1,1,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 0–0,Everton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,La Liga,Matchweek 22,Away,L 1–5,Sevilla,Eibar,Y,"LW,AM",66,0,0,0,0,1,0,0,0,34,9,0,1,0,0.0,0.0,0.2,1,0,19,26,73.1,1,31,1,0,2,Match Report
+2017-2018,2018-02-07,Wed,Copa del Rey,Semi-finals,Home,W 2–0,Sevilla,Leganés,N,,11,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-11,Sun,La Liga,Matchweek 23,Home,W 1–0,Sevilla,Girona,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-17,Sat,La Liga,Matchweek 24,Away,W 2–1,Sevilla,Las Palmas,N,"AM,LW,FW",47,0,0,0,0,0,0,0,0,21,20,0,1,1,0.0,0.0,0.0,1,0,13,14,92.9,3,17,0,0,0,Match Report
+2017-2018,2018-02-21,Wed,Champions Lg,Round of 16,Home,D 0–0,es Sevilla,eng Manchester Utd,N,,5,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-28,Wed,La Liga,Matchweek 26,Away,W 1–0,Sevilla,Málaga,N,FW,12,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,0,0,Match Report
+2017-2018,2018-03-03,Sat,La Liga,Matchweek 27,Home,W 2–0,Sevilla,Athletic Club,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,La Liga,Matchweek 28,Home,L 0–2,Sevilla,Valencia,N,FW,9,0,0,0,0,0,0,0,0,9,5,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,1,0,0,Match Report
+2017-2018,2018-03-18,Sun,La Liga,Matchweek 29,Away,L 1–2,Sevilla,Leganés,N,"LW,RW",27,0,0,0,0,1,1,0,0,22,6,1,0,1,0.0,0.0,0.0,1,1,7,9,77.8,0,19,2,0,3,Match Report
+2017-2018,2018-04-03,Tue,Champions Lg,Quarter-finals,Home,L 1–2,es Sevilla,de Bayern Munich,N,,12,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,La Liga,Matchweek 31,Away,L 0–4,Sevilla,Celta Vigo,Y,CM,90,0,0,0,0,4,2,0,0,40,20,0,1,0,0.7,0.7,0.0,1,0,28,33,84.8,2,32,2,0,0,Match Report
+2017-2018,2018-04-11,Wed,Champions Lg,Quarter-finals,Away,D 0–0,es Sevilla,de Bayern Munich,N,,20,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,La Liga,Matchweek 32,Home,D 2–2,Sevilla,Villarreal,Y,LW,85,0,1,0,0,3,0,0,0,45,14,2,0,0,0.0,0.0,0.1,4,1,25,31,80.6,3,30,2,0,3,Match Report
+2017-2018,2018-04-17,Tue,La Liga,Matchweek 33,Away,D 0–0,Sevilla,La Coruña,Y,RM,76,0,0,0,0,3,2,0,0,54,26,1,0,0,0.4,0.4,0.1,3,0,32,43,74.4,3,41,7,2,2,Match Report
+2017-2018,2018-04-21,Sat,Copa del Rey,Final,Neutral,L 0–5,Sevilla,Barcelona,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-27,Fri,La Liga,Matchweek 35,Away,L 1–2,Sevilla,Levante,N,LW,31,0,0,0,0,2,0,0,0,20,5,0,0,0,0.1,0.1,0.0,2,0,12,17,70.6,2,15,5,0,0,Match Report
+2017-2018,2018-05-04,Fri,La Liga,Matchweek 36,Home,W 1–0,Sevilla,Real Sociedad,Y,FW,90,0,0,0,0,3,3,0,0,37,19,2,1,0,0.6,0.6,0.0,7,1,16,23,69.6,0,27,1,2,4,Match Report
+2017-2018,2018-05-09,Wed,La Liga,Matchweek 34,Home,W 3–2,Sevilla,Real Madrid,N,FW,28,0,0,0,0,2,1,0,0,21,5,0,1,0,0.1,0.1,0.0,0,0,12,14,85.7,1,19,1,1,3,Match Report
+2017-2018,2018-05-12,Sat,La Liga,Matchweek 37,Away,D 2–2,Sevilla,Betis,Y,"FW,AM",90,0,0,0,0,3,1,0,0,29,24,0,1,0,0.1,0.1,0.0,2,0,15,19,78.9,1,25,3,0,0,Match Report
+2017-2018,2018-05-19,Sat,La Liga,Matchweek 38,Home,W 1–0,Sevilla,Alavés,Y,FW,64,0,0,0,0,3,0,0,0,25,5,0,0,0,0.3,0.3,0.0,0,0,15,19,78.9,1,23,3,0,0,Match Report

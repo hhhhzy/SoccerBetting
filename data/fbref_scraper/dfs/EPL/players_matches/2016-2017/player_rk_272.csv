@@ -1,0 +1,39 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,L 0–1,Burnley,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Home,W 2–0,Burnley,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-08-24,Wed,EFL Cup,Second round,Away,L 0–1,Burnley,Acc'ton Stanley,Y,LM,80,0,0,0,0,1,1,0,0,3,0,1,6,0,1,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Away,L 0–3,Burnley,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Home,D 1–1,Burnley,Hull City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-17,Sat,Premier League,Matchweek 5,Away,L 0–3,Burnley,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-26,Mon,Premier League,Matchweek 6,Home,W 2–0,Burnley,Watford,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-02,Sun,Premier League,Matchweek 7,Home,L 0–1,Burnley,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-10-16,Sun,Premier League,Matchweek 8,Away,L 1–3,Burnley,Southampton,N,,21,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,Match Report
+2016-2017,2016-10-22,Sat,Premier League,Matchweek 9,Home,W 2–1,Burnley,Everton,Y,DM,73,0,0,0,0,1,0,0,0,2,1,0,4,4,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,Premier League,Matchweek 10,Away,D 0–0,Burnley,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-05,Sat,Premier League,Matchweek 11,Home,W 3–2,Burnley,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-21,Mon,Premier League,Matchweek 12,Away,L 0–4,Burnley,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Home,L 1–2,Burnley,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-03,Sat,Premier League,Matchweek 14,Away,L 0–2,Burnley,Stoke City,N,,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,Match Report
+2016-2017,2016-12-10,Sat,Premier League,Matchweek 15,Home,W 3–2,Burnley,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,L 0–1,Burnley,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-18,Sun,Premier League,Matchweek 17,Away,L 1–2,Burnley,Tottenham,N,,8,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Home,W 1–0,Burnley,Middlesbrough,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-07,Sat,FA Cup,Third round,Away,D 0–0,Burnley,Sunderland,N,,31,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-14,Sat,Premier League,Matchweek 21,Home,W 1–0,Burnley,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-17,Tue,FA Cup,Third round,Home,W 2–0,Burnley,Sunderland,Y,,76,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-22,Sun,Premier League,Matchweek 22,Away,L 1–2,Burnley,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-28,Sat,FA Cup,Fourth round,Home,W 2–0,Burnley,Bristol City,N,,13,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-02-04,Sat,Championship,Matchweek 30,Home,W 2–1,Burton Albion,Wolves,Y,LM,80,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-11,Sat,Championship,Matchweek 31,Away,L 1–4,Burton Albion,Brighton,Y,LM,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-18,Sat,Championship,Matchweek 33,Home,W 2–1,Burton Albion,Norwich City,Y,LM,77,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-24,Fri,Championship,Matchweek 34,Home,D 1–1,Burton Albion,Blackburn,Y,LM,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Championship,Matchweek 37,Home,W 1–0,Burton Albion,Nott'ham Forest,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-03-18,Sat,Championship,Matchweek 38,Home,L 3–5,Burton Albion,Brentford,Y,LM,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-01,Sat,Championship,Matchweek 39,Away,W 1–0,Burton Albion,Huddersfield,Y,CM,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-05,Wed,Championship,Matchweek 40,Away,L 0–1,Burton Albion,Newcastle Utd,N,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Championship,Matchweek 41,Home,D 1–1,Burton Albion,Aston Villa,Y,AM,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-14,Fri,Championship,Matchweek 42,Home,L 1–2,Burton Albion,Ipswich Town,Y,AM,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-17,Mon,Championship,Matchweek 43,Away,W 2–0,Burton Albion,Birmingham City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-22,Sat,Championship,Matchweek 44,Home,W 2–1,Burton Albion,Leeds United,N,,25,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Championship,Matchweek 45,Away,D 1–1,Burton Albion,Barnsley,Y,LM,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-07,Sun,Championship,Matchweek 46,Home,L 2–4,Burton Albion,Reading,Y,LB,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report

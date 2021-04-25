@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,D 1–1,Middlesbrough,Stoke City,Y,RB,90,0,0,0,0,1,0,0,0,0,2,0,0,0,2,0,0,0,Match Report
+2016-2017,2016-08-21,Sun,Premier League,Matchweek 2,Away,W 2–1,Middlesbrough,Sunderland,Y,RB,82,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,Match Report
+2016-2017,2016-08-24,Wed,EFL Cup,Second round,Away,L 1–2,Middlesbrough,Fulham,Y,AM,120,0,0,0,0,1,0,0,0,1,2,0,2,0,0,0,0,0,Match Report
+2016-2017,2016-08-28,Sun,Premier League,Matchweek 3,Away,D 0–0,Middlesbrough,West Brom,Y,RB,90,0,0,0,0,1,0,0,0,2,1,0,4,2,2,0,0,0,Match Report
+2016-2017,2016-09-04,Sun,Africa Cup of Nations qualification,Group stage,Home,W 4–0,gq Equatorial Guinea,ss South Sudan,Y*,,90,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Home,L 1–2,Middlesbrough,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-17,Sat,Premier League,Matchweek 5,Away,L 1–3,Middlesbrough,Everton,Y,AM,58,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Premier League,Matchweek 6,Home,L 1–2,Middlesbrough,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-20,Sun,Premier League,Matchweek 12,Home,L 0–1,Middlesbrough,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Away,D 2–2,Middlesbrough,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-05,Mon,Premier League,Matchweek 14,Home,W 1–0,Middlesbrough,Hull City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-11,Sun,Premier League,Matchweek 15,Away,L 0–1,Middlesbrough,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Home,L 0–3,Middlesbrough,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-21,Sat,Championship,Matchweek 27,Away,D 1–1,Birmingham City,Blackburn,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-28,Sat,Championship,Matchweek 28,Away,L 0–2,Birmingham City,Norwich City,Y,RB,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-31,Tue,Championship,Matchweek 29,Home,L 0–1,Birmingham City,Reading,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-02-04,Sat,Championship,Matchweek 30,Home,W 1–0,Birmingham City,Fulham,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-10,Fri,Championship,Matchweek 31,Away,L 0–3,Birmingham City,Sheffield Weds,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-14,Tue,Championship,Matchweek 32,Away,L 1–2,Birmingham City,Preston,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-18,Sat,Championship,Matchweek 33,Home,L 1–4,Birmingham City,QPR,Y,RB,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-24,Fri,Championship,Matchweek 34,Away,W 2–1,Birmingham City,Wolves,Y,DM,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-03,Fri,Championship,Matchweek 35,Home,L 1–3,Birmingham City,Leeds United,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-07,Tue,Championship,Matchweek 36,Home,L 0–1,Birmingham City,Wigan Athletic,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Championship,Matchweek 37,Away,D 1–1,Birmingham City,Cardiff City,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-18,Sat,Championship,Matchweek 38,Home,D 0–0,Birmingham City,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-01,Sat,Championship,Matchweek 39,Away,D 1–1,Birmingham City,Ipswich Town,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-04,Tue,Championship,Matchweek 40,Away,L 1–3,Birmingham City,Brighton,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Championship,Matchweek 41,Home,L 1–2,Birmingham City,Derby County,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-14,Fri,Championship,Matchweek 42,Away,D 1–1,Birmingham City,Rotherham Utd,Y,RM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-17,Mon,Championship,Matchweek 43,Home,L 0–2,Birmingham City,Burton Albion,Y,RM,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-23,Sun,Championship,Matchweek 44,Away,L 0–1,Birmingham City,Aston Villa,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Championship,Matchweek 45,Home,W 2–0,Birmingham City,Huddersfield,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-07,Sun,Championship,Matchweek 46,Away,W 1–0,Birmingham City,Bristol City,Y,RB,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-06-10,Sat,Africa Cup of Nations qualification,Group stage,Away,L 0–3,gq Equatorial Guinea,sn Senegal,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report

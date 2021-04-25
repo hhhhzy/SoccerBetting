@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-09-08,Fri,Ligue 1,Matchweek 5,Away,W 5–1,Paris S-G,Metz,N,"RW,FW",12,1,0,0,0,2,1,0,0,9,1,0,0,0,0.9,0.9,0.0,1,1,8,8,100.0,0,10,2,2,2,Match Report
+2017-2018,2017-09-12,Tue,Champions Lg,Group stage,Away,W 5–0,fr Paris S-G,sco Celtic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Ligue 1,Matchweek 6,Home,W 2–0,Paris S-G,Lyon,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Ligue 1,Matchweek 7,Away,D 0–0,Paris S-G,Montpellier,N,RW,24,0,0,0,0,0,0,1,0,16,3,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,1,9,3,0,0,Match Report
+2017-2018,2017-09-27,Wed,Champions Lg,Group stage,Home,W 3–0,fr Paris S-G,de Bayern Munich,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Ligue 1,Matchweek 8,Home,W 6–2,Paris S-G,Bordeaux,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Ligue 1,Matchweek 9,Away,W 2–1,Paris S-G,Dijon,N,RW,13,0,0,0,0,0,0,0,0,9,2,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,5,0,1,1,Match Report
+2017-2018,2017-10-27,Fri,Ligue 1,Matchweek 11,Home,W 3–0,Paris S-G,Nice,N,FW,5,0,0,0,0,1,1,0,0,12,1,1,0,0,0.3,0.3,0.0,0,0,7,8,87.5,1,8,2,0,1,Match Report
+2017-2018,2017-11-04,Sat,Ligue 1,Matchweek 12,Away,W 5–0,Paris S-G,Angers,N,"LW,FW",17,0,1,0,0,0,0,0,0,9,6,0,0,0,0.0,0.0,0.8,1,1,5,7,71.4,1,8,1,1,2,Match Report
+2017-2018,2017-11-18,Sat,Ligue 1,Matchweek 13,Home,W 4–1,Paris S-G,Nantes,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Ligue 1,Matchweek 17,Home,W 3–1,Paris S-G,Lille,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-13,Wed,Coupe de la Ligue,Round of 16,Away,W 4–2,Paris S-G,Strasbourg,N,,9,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-20,Wed,Ligue 1,Matchweek 19,Home,W 3–1,Paris S-G,Caen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-14,Sun,Ligue 1,Matchweek 20,Away,W 1–0,Paris S-G,Nantes,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-24,Wed,Coupe de France,Round of 32,Home,W 4–2,Paris S-G,Guingamp,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 1–0,Tottenham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-13,Tue,Champions Lg,Round of 16,Away,D 2–2,eng Tottenham,it Juventus,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-18,Sun,FA Cup,Fifth round,Away,D 2–2,Tottenham,Rochdale,Y,RW,70,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,Premier League,Matchweek 28,Away,W 1–0,Tottenham,Crystal Palace,N,LW,25,0,0,0,0,0,0,0,0,19,3,0,0,1,0.0,0.0,0.0,1,0,9,12,75.0,2,14,2,0,3,Match Report
+2017-2018,2018-02-28,Wed,FA Cup,Fifth round,Home,W 6–1,Tottenham,Rochdale,Y,AM,81,0,2,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,W 2–0,Tottenham,Huddersfield,N,AM,8,0,0,0,0,0,0,0,0,11,2,0,0,0,0.0,0.0,0.0,2,0,10,10,100.0,1,6,2,0,0,Match Report
+2017-2018,2018-03-07,Wed,Champions Lg,Round of 16,Home,L 1–2,eng Tottenham,it Juventus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-11,Sun,Premier League,Matchweek 30,Away,W 4–1,Tottenham,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Away,W 3–0,Tottenham,Swansea City,Y,AM,72,0,1,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-01,Sun,Premier League,Matchweek 32,Away,W 3–1,Tottenham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,W 2–1,Tottenham,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,L 1–3,Tottenham,Manchester City,N,"RW,CM",18,0,0,0,0,1,1,0,0,18,4,1,1,0,0.0,0.0,0.1,2,0,10,13,76.9,0,19,7,3,3,Match Report
+2017-2018,2018-04-17,Tue,Premier League,Matchweek 35,Away,D 1–1,Tottenham,Brighton,Y,RW,73,0,0,0,0,2,1,0,0,50,6,1,1,0,0.1,0.1,0.1,4,0,32,42,76.2,2,46,12,1,2,Match Report
+2017-2018,2018-04-21,Sat,FA Cup,Semi-finals,Away,L 1–2,Tottenham,Manchester Utd,N,,23,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-30,Mon,Premier League,Matchweek 36,Home,W 2–0,Tottenham,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,L 0–1,Tottenham,West Brom,N,"AM,RW",13,0,0,0,0,0,0,0,0,8,1,0,0,0,0.0,0.0,0.0,2,0,2,3,66.7,1,7,2,0,1,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Home,W 1–0,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 5–4,Tottenham,Leicester City,Y,LW,73,0,1,0,0,2,0,0,0,44,7,0,0,1,0.1,0.1,0.0,4,1,28,33,84.8,4,37,5,1,3,Match Report

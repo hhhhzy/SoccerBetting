@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,DFB-Pokal,First round,Away,W 5–1,Hertha BSC,Eichstätt,Y,AM,90,0,1,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-16,Fri,Bundesliga,Matchweek 1,Away,D 2–2,Hertha BSC,Bayern Munich,Y,FW,77,0,1,0,0,2,0,0,0,34,27,1,0,2,0.1,0.1,0.2,3,1,22,27,81.5,2,22,0,0,0,Match Report
+2019-2020,2019-08-25,Sun,Bundesliga,Matchweek 2,Home,L 0–3,Hertha BSC,Wolfsburg,Y,CM,74,0,0,0,0,0,0,1,0,51,15,0,2,0,0.0,0.0,0.2,2,0,34,40,85.0,5,45,2,3,8,Match Report
+2019-2020,2019-08-31,Sat,Bundesliga,Matchweek 3,Away,L 0–3,Hertha BSC,Schalke 04,Y,AM,90,0,0,0,0,2,2,0,0,47,30,1,0,0,0.1,0.1,0.0,5,0,25,34,73.5,1,41,9,2,4,Match Report
+2019-2020,2019-09-06,Fri,Euro Qualifying,Group stage,Home,L 0–4,sk Slovakia,hr Croatia,Y,FW,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-09,Mon,Euro Qualifying,Group stage,Away,W 2–1,sk Slovakia,hu Hungary,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Bundesliga,Matchweek 4,Away,L 1–2,Hertha BSC,Mainz 05,Y,AM,68,0,0,0,0,2,2,0,0,39,15,0,0,2,0.3,0.3,0.1,5,0,25,32,78.1,4,32,2,4,4,Match Report
+2019-2020,2019-09-21,Sat,Bundesliga,Matchweek 5,Home,W 2–1,Hertha BSC,Paderborn 07,Y,AM,45,0,0,0,0,0,0,0,0,28,13,0,1,0,0.0,0.0,0.0,0,0,15,18,83.3,1,22,1,1,2,Match Report
+2019-2020,2019-09-29,Sun,Bundesliga,Matchweek 6,Away,W 4–0,Hertha BSC,Köln,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-04,Fri,Bundesliga,Matchweek 7,Home,W 3–1,Hertha BSC,Düsseldorf,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-10,Thu,Euro Qualifying,Group stage,Home,D 1–1,sk Slovakia,wal Wales,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-13,Sun,Friendlies (M),Friendlies (M),Home,D 1–1,sk Slovakia,py Paraguay,Y,CM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Bundesliga,Matchweek 8,Away,D 1–1,Hertha BSC,Werder Bremen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Bundesliga,Matchweek 9,Home,L 2–3,Hertha BSC,Hoffenheim,N,AM,45,0,0,0,0,0,0,0,0,27,10,2,0,1,0.0,0.0,0.0,1,1,17,19,89.5,3,23,1,2,3,Match Report
+2019-2020,2019-10-30,Wed,DFB-Pokal,Second round,Home,W 3 (5)–3 (4),Hertha BSC,Dresden,Y,CM,87,1,0,1,1,3,3,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Bundesliga,Matchweek 10,Away,L 0–1,Hertha BSC,Union Berlin,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Bundesliga,Matchweek 11,Home,L 2–4,Hertha BSC,RB Leipzig,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-16,Sat,Euro Qualifying,Group stage,Away,L 1–3,sk Slovakia,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Euro Qualifying,Group stage,Home,W 2–0,sk Slovakia,az Azerbaijan,N,,6,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Bundesliga,Matchweek 12,Away,L 0–4,Hertha BSC,Augsburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-06,Fri,Bundesliga,Matchweek 14,Away,D 2–2,Hertha BSC,Eint Frankfurt,Y,AM,48,0,0,0,0,1,1,1,0,31,6,1,0,0,0.0,0.0,0.0,1,0,14,22,63.6,1,23,1,1,1,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,Y,AM,77,0,0,0,0,3,1,0,0,63,12,2,1,1,0.2,0.2,0.0,4,1,49,56,87.5,2,32,1,0,0,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,Y,AM,90,0,0,0,0,0,0,0,0,59,34,3,2,5,0.0,0.0,0.1,5,1,35,45,77.8,4,26,1,1,2,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–1,Norwich City,Burnley,N,,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 0–0,Norwich City,Newcastle Utd,Y,AM,90,0,0,0,0,2,0,0,0,61,19,2,0,1,0.2,0.2,0.5,5,0,37,54,68.5,4,36,6,0,1,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,Y,"AM,CM",90,0,0,0,0,0,0,0,0,46,39,1,1,3,0.0,0.0,0.1,1,0,28,36,77.8,0,26,1,0,3,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,AM,58,0,0,0,0,0,0,0,0,46,24,2,0,3,0.0,0.0,0.0,1,0,27,34,79.4,0,30,1,1,1,Match Report
+2019-2020,2020-02-28,Fri,Premier League,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,Y,AM,86,0,0,0,0,3,2,0,0,49,16,3,1,2,0.3,0.3,0.2,3,0,25,34,73.5,3,29,3,1,2,Match Report
+2019-2020,2020-03-04,Wed,FA Cup,Fifth round,Away,W 1 (3)–1 (2),Norwich City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,Y,AM,86,0,0,0,0,0,0,0,0,47,19,3,0,0,0.0,0.0,0.1,2,0,33,40,82.5,3,33,3,1,2,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Home,L 0–3,Norwich City,Southampton,N,FW,11,0,0,0,0,0,0,0,0,10,2,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,6,1,0,0,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,L 0–1,Norwich City,Everton,Y,AM,70,0,0,0,0,1,0,0,0,39,18,0,0,2,0.1,0.1,0.1,4,0,27,34,79.4,4,25,3,1,1,Match Report
+2019-2020,2020-06-27,Sat,FA Cup,Quarter-finals,Home,L 1–2,Norwich City,Manchester Utd,N,,30,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Away,L 0–4,Norwich City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,L 0–1,Norwich City,Brighton,Y,AM,66,0,0,0,0,1,0,0,0,47,14,3,0,1,0.0,0.0,0.0,1,0,31,40,77.5,2,35,2,0,0,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Away,L 1–2,Norwich City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,L 0–4,Norwich City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

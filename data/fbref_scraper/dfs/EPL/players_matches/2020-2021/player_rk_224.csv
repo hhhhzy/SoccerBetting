@@ -1,0 +1,30 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Fulham,Arsenal,Y,FW,62,0,0,0,0,1,0,0,0,26,13,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,20,2,0,2,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 3–4,Fulham,Leeds United,Y,RW,57,0,0,0,0,0,0,0,0,25,13,0,1,1,0.0,0.0,0.0,0,0,13,20,65.0,1,20,2,0,0,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Home,W 2–0,Fulham,Sheffield Weds,Y,FW,70,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,N,WB,52,0,0,0,0,0,0,1,0,42,11,0,0,2,0.0,0.0,0.2,5,0,27,34,79.4,5,33,7,1,1,Match Report
+2020-2021,2020-10-01,Thu,EFL Cup,Fourth round,Away,L 0–3,Fulham,Brentford,Y,FW,90,0,0,0,0,2,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–1,Fulham,Wolves,N,"RW,LW",24,0,0,0,0,2,1,0,0,18,5,0,0,1,0.3,0.3,0.0,0,0,7,13,53.8,1,14,2,1,1,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Fulham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,L 1–2,Fulham,Crystal Palace,N,CM,22,0,0,0,0,0,0,0,1,12,5,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,9,1,0,0,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Away,W 2–1,Fulham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Away,L 0–2,Fulham,Manchester City,N,"FW,WB",19,0,0,0,0,0,0,0,0,3,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,D 1–1,Fulham,Liverpool,N,"FW,RW",17,0,0,0,0,0,0,0,0,11,4,0,0,2,0.0,0.0,0.0,0,0,6,8,75.0,1,2,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 0–0,Fulham,Brighton,N,WB,29,0,0,0,0,0,0,0,0,17,7,1,1,2,0.0,0.0,0.0,0,0,9,13,69.2,2,13,1,1,1,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Away,D 1–1,Fulham,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,D 0–0,Fulham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Away,D 1–1,Fulham,Tottenham,N,FW,5,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.1,2,0,3,3,100.0,0,5,2,1,2,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Fulham,Chelsea,N,CM,8,0,0,0,0,1,1,0,0,9,6,0,0,1,0.0,0.0,0.0,1,0,3,5,60.0,0,5,0,0,1,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 18,Home,L 1–2,Fulham,Manchester Utd,N,"FW,AM,RW",20,0,0,0,0,0,0,0,0,9,4,0,0,0,0.0,0.0,0.2,2,0,3,6,50.0,1,5,1,0,0,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,L 0–3,Fulham,Burnley,Y,FW,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Fulham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,D 2–2,Fulham,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,Coupe de France,Round of 64,Home,L 0–1,Dijon,Lille,N,,27,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Ligue 1,Matchweek 25,Home,L 0–2,Dijon,Nîmes,Y,AM,61,0,0,0,0,1,0,0,0,27,12,1,0,0,0.1,0.1,0.0,1,0,15,21,71.4,2,15,3,1,3,Match Report
+2020-2021,2021-02-21,Sun,Ligue 1,Matchweek 26,Away,L 1–2,Dijon,Lens,Y,"FW,DM",73,0,0,0,0,2,1,0,1,27,13,0,0,0,0.2,0.2,0.1,4,1,15,20,75.0,0,22,0,0,0,Match Report
+2020-2021,2021-03-14,Sun,Ligue 1,Matchweek 29,Home,L 1–3,Dijon,Bordeaux,Y,FW,55,0,0,0,0,1,0,1,0,32,13,1,0,0,0.1,0.1,0.0,2,0,18,20,90.0,1,22,2,2,3,Match Report
+2020-2021,2021-03-21,Sun,Ligue 1,Matchweek 30,Home,L 0–1,Dijon,Reims,N,"AM,CB",19,0,0,0,0,0,0,0,0,8,2,0,0,0,0.0,0.0,0.0,2,0,4,6,66.7,0,7,1,1,1,Match Report
+2020-2021,2021-03-26,Fri,Africa Cup of Nations qualification,Group stage,Home,D 0–0,mr Mauritania,ma Morocco,Y,FW,68,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Africa Cup of Nations qualification,Group stage,Away,W 1–0,mr Mauritania,cf Central African Republic,Y,FW,75,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-11,Sun,Ligue 1,Matchweek 32,Away,L 0–3,Dijon,Monaco,Y,FW,72,0,0,0,0,2,0,0,0,29,12,0,1,0,0.1,0.1,0.3,5,0,13,17,76.5,2,23,6,4,4,Match Report
+2020-2021,2021-04-18,Sun,Ligue 1,Matchweek 33,Home,W 2–0,Dijon,Nice,Y,FW,87,0,0,0,0,3,1,0,0,42,13,1,0,0,0.1,0.1,0.0,1,0,14,20,70.0,1,35,5,3,6,Match Report

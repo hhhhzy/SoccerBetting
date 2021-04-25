@@ -1,0 +1,28 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Away,W 1–0,Everton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,Everton,Salford City,Y,RB,90,0,0,0,0,2,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,W 5–2,Everton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 5–2,Everton,Fleetwood Town,Y,RB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Away,W 2–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,W 4–1,Everton,West Ham,Y,RB,41,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,RB,76,0,0,0,0,0,0,0,0,59,9,1,0,2,0.0,0.0,0.0,1,0,41,52,78.8,4,28,2,0,1,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,W 1–0,Everton,Chelsea,N,LW,1,0,0,0,0,0,0,0,0,7,0,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,W 2–0,Everton,Leicester City,N,RW,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,W 2–1,Everton,Arsenal,N,LW,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Match Report
+2020-2021,2020-12-23,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Everton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 18,Away,W 2–1,Everton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,W 3–0,Everton,Sheffield Weds,N,,15,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 1–1,Everton,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,L 0–2,Everton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premiership,Regular Season,Away,W 4–0,Celtic,Kilmarnock,Y,RB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premiership,Regular Season,Home,W 2–1,Celtic,Motherwell,Y,RB,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,Premiership,Regular Season,Away,W 4–0,Celtic,St Mirren,Y,RB,90,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premiership,Regular Season,Away,W 2–1,Celtic,St Johnstone,Y,RB,90,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-17,Wed,Premiership,Regular Season,Home,W 1–0,Celtic,Aberdeen,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-21,Sun,Premiership,Regular Season,Away,L 0–1,Celtic,Ross County,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Premiership,Regular Season,Home,W 1–0,Celtic,Aberdeen,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-07,Sun,Premiership,Regular Season,Away,D 0–0,Celtic,Dundee United,Y,RB,90,0,0,0,0,2,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-21,Sun,Premiership,Regular Season,Home,D 1–1,Celtic,Rangers,Y,RB,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Premiership,Championship round,Home,W 6–0,Celtic,Livingston,Y,RB,90,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premiership,Championship round,Away,D 1–1,Celtic,Aberdeen,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-10-16,Mon,PL2 — Div. 2,Regular Season,Home,D 2–2,Brighton,Blackburn,Y,DM,59,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-20,Fri,PL2 — Div. 2,Regular Season,Home,D 2–2,Brighton,Middlesbrough,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-30,Mon,PL2 — Div. 2,Regular Season,Away,W 1–0,Brighton,Southampton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,L 0–1,Brighton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Home,D 0–0,Brighton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,L 1–5,Brighton,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 0–2,Brighton,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,L 0–2,Brighton,Tottenham,Y,DM,77,0,0,0,0,0,0,0,0,26,14,6,1,2,0.0,0.0,0.0,3,0,11,16,68.8,1,14,0,0,2,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,D 0–0,Brighton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,W 1–0,Brighton,Watford,N,FW,8,0,0,0,0,0,0,0,0,5,2,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,0,1,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,L 0–2,Brighton,Chelsea,Y,CM,72,0,0,0,0,1,0,0,0,28,19,1,3,1,0.1,0.1,0.0,1,0,12,15,80.0,1,12,2,0,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,D 0–0,Brighton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Home,D 2–2,Brighton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-08,Mon,FA Cup,Third round,Home,W 2–1,Brighton,Crystal Palace,Y,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,L 0–2,Brighton,West Brom,N,DM,15,0,0,0,0,0,0,0,0,10,4,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,9,2,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,L 0–4,Brighton,Chelsea,N,CM,23,0,0,0,0,0,0,0,0,11,4,0,0,1,0.0,0.0,0.2,1,0,6,7,85.7,0,9,0,0,0,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,W 1–0,Brighton,Middlesbrough,Y,CM,90,0,0,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,D 1–1,Brighton,Southampton,N,AM,8,0,0,0,0,0,0,0,0,4,2,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 3–1,Brighton,West Ham,N,FW,8,0,0,0,0,1,1,0,0,4,4,0,0,1,0.1,0.1,0.0,1,0,1,1,100.0,0,2,0,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,D 1–1,Brighton,Stoke City,N,AM,12,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Home,W 3–1,Brighton,Coventry City,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,W 4–1,Brighton,Swansea City,N,FW,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Match Report
+2017-2018,2018-03-04,Sun,Premier League,Matchweek 29,Home,W 2–1,Brighton,Arsenal,N,AM,4,0,0,0,0,0,0,0,0,6,5,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,Match Report
+2017-2018,2018-03-05,Mon,PL2 — Div. 2,Regular Season,Home,D 1–1,Brighton,Southampton,Y,CM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Away,L 0–2,Brighton,Everton,Y,CM,68,0,0,0,0,0,0,0,0,30,15,2,0,1,0.0,0.0,0.0,0,0,20,24,83.3,1,21,0,0,0,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Away,L 0–2,Brighton,Manchester Utd,Y,CM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-24,Sat,Friendlies (M),Friendlies (M),Home,L 1–2,il Israel,ro Romania,Y,DM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,L 0–2,Brighton,Leicester City,Y,CM,83,0,0,0,0,1,0,1,0,37,28,3,2,1,0.0,0.0,0.1,1,0,19,26,73.1,4,15,2,1,2,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 1–1,Brighton,Huddersfield,N,CM,15,0,0,0,0,0,0,0,0,7,0,1,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,L 2–3,Brighton,Crystal Palace,Y,CM,90,0,0,0,0,0,0,1,0,45,27,1,0,2,0.0,0.0,0.7,4,0,31,39,79.5,3,32,4,1,1,Match Report
+2017-2018,2018-04-17,Tue,Premier League,Matchweek 35,Home,D 1–1,Brighton,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,46,15,6,1,3,0.0,0.0,0.0,1,0,24,29,82.8,3,23,1,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,D 0–0,Brighton,Burnley,Y,DM,90,0,0,0,0,1,1,0,0,45,10,1,1,2,0.1,0.1,0.0,0,0,28,36,77.8,4,29,5,0,0,Match Report
+2017-2018,2018-05-04,Fri,Premier League,Matchweek 37,Home,W 1–0,Brighton,Manchester Utd,N,"CM,DM,AM",7,0,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Away,L 1–3,Brighton,Manchester City,N,AM,18,0,0,0,0,0,0,0,0,9,6,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,7,0,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 0–4,Brighton,Liverpool,Y,AM,56,0,0,0,0,0,0,0,0,14,22,0,0,2,0.0,0.0,0.1,3,0,7,9,77.8,0,10,3,0,0,Match Report

@@ -1,0 +1,57 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,D 0–0,Southampton,Swansea City,Y,AM,90,0,0,0,0,4,1,0,0,65,17,2,1,3,0.4,0.4,0.1,10,0,28,45,62.2,3,48,10,2,2,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,W 3–2,Southampton,West Ham,Y,"RW,AM",90,1,0,1,1,1,1,1,0,60,18,0,1,2,0.8,0.0,0.1,4,0,36,52,69.2,10,44,10,1,2,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Home,L 0–2,Southampton,Wolves,Y,AM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,D 0–0,Southampton,Huddersfield,Y,RW,73,0,0,0,0,0,0,0,0,34,12,1,0,2,0.0,0.0,0.0,0,0,21,27,77.8,2,24,1,1,1,Match Report
+2017-2018,2017-09-02,Sat,WCQ — UEFA (M),First round,Home,W 3–0,rs Serbia,md Moldova,Y,FW,65,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Away,W 1–0,rs Serbia,ie Republic of Ireland,Y,AM,81,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,L 0–2,Southampton,Watford,N,"AM,RW",45,0,0,0,0,0,0,0,0,29,7,2,0,1,0.0,0.0,0.0,1,0,15,24,62.5,2,16,4,0,1,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,W 1–0,Southampton,Crystal Palace,Y,RW,86,0,0,0,0,1,0,0,0,56,31,2,1,3,0.1,0.1,0.5,4,0,26,41,63.4,6,42,7,1,3,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,L 0–1,Southampton,Manchester Utd,Y,RW,90,0,0,0,0,1,0,0,0,65,13,1,0,2,0.0,0.0,0.4,5,0,42,55,76.4,5,51,5,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,L 1–2,Southampton,Stoke City,Y,"RW,AM",90,0,0,0,0,1,0,1,0,67,3,3,0,3,0.1,0.1,0.4,6,0,41,57,71.9,5,66,14,5,6,Match Report
+2017-2018,2017-10-06,Fri,WCQ — UEFA (M),First round,Away,L 2–3,rs Serbia,at Austria,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Home,W 1–0,rs Serbia,ge Georgia,Y,AM,88,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-15,Sun,Premier League,Matchweek 8,Home,D 2–2,Southampton,Newcastle Utd,Y,RM,90,0,0,0,0,3,0,0,0,41,13,0,0,0,0.4,0.4,0.0,1,0,26,34,76.5,3,34,6,1,1,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,W 1–0,Southampton,West Brom,Y,FW,80,0,0,0,0,3,2,0,0,57,7,2,0,1,0.3,0.3,0.0,2,0,32,41,78.0,3,50,9,2,3,Match Report
+2017-2018,2017-10-29,Sun,Premier League,Matchweek 10,Away,D 1–1,Southampton,Brighton,Y,RW,83,0,0,0,0,1,0,0,0,40,34,1,0,1,0.1,0.1,0.0,0,0,21,30,70.0,3,27,7,1,1,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 0–1,Southampton,Burnley,Y,RW,75,0,0,0,0,0,0,0,0,44,3,0,1,1,0.0,0.0,0.4,4,0,26,35,74.3,2,34,7,1,1,Match Report
+2017-2018,2017-11-10,Fri,Friendlies (M),Friendlies (M),Away,W 2–0,rs Serbia,cn China PR,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 0–3,Southampton,Liverpool,Y,RW,54,0,0,0,0,0,0,0,0,28,14,1,0,1,0.0,0.0,0.2,2,0,17,23,73.9,0,15,1,0,0,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Home,W 4–1,Southampton,Everton,Y,AM,77,1,1,0,0,1,1,0,0,46,14,0,0,0,0.4,0.4,0.3,3,2,29,39,74.4,2,35,7,1,1,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 1–2,Southampton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Away,D 1–1,Southampton,Bournemouth,Y,AM,73,0,0,0,0,2,0,0,0,39,7,0,0,0,0.3,0.3,0.1,2,0,24,33,72.7,3,30,5,0,1,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Home,D 1–1,Southampton,Arsenal,Y,AM,87,0,1,0,0,0,0,0,0,37,20,2,1,1,0.0,0.0,1.4,4,1,21,27,77.8,3,34,6,3,3,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,L 1–4,Southampton,Leicester City,Y,"RW,LW",82,0,0,0,0,0,0,0,0,28,15,1,0,2,0.0,0.0,0.0,2,0,15,19,78.9,2,21,3,1,2,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,L 0–1,Southampton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,D 1–1,Southampton,Huddersfield,Y,AM,71,0,0,0,0,0,0,0,0,41,25,0,0,2,0.0,0.0,0.0,0,0,18,28,64.3,2,28,1,1,3,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,L 2–5,Southampton,Tottenham,N,"AM,LM",28,1,0,0,0,1,1,0,0,19,4,0,0,0,0.0,0.0,0.1,4,0,11,17,64.7,3,15,4,1,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,D 0–0,Southampton,Manchester Utd,Y,AM,81,0,0,0,0,2,0,0,0,38,11,0,0,1,0.2,0.2,0.0,2,0,25,33,75.8,4,28,3,4,4,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Home,L 1–2,Southampton,Crystal Palace,Y,"AM,RW",78,0,0,0,0,2,0,0,0,45,10,2,2,1,0.1,0.1,0.1,2,0,22,33,66.7,0,28,3,0,1,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,W 1–0,Southampton,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,D 2–2,Southampton,Watford,Y,"AM,LM",89,0,1,0,0,0,0,1,0,48,8,0,0,0,0.0,0.0,0.4,7,1,28,37,75.7,2,38,9,4,4,Match Report
+2017-2018,2018-01-21,Sun,Premier League,Matchweek 24,Home,D 1–1,Southampton,Tottenham,Y,"LW,AM",90,0,0,0,0,0,0,0,0,52,17,0,0,4,0.0,0.0,0.4,4,1,20,40,50.0,5,33,6,2,4,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Home,W 1–0,Southampton,Watford,Y,AM,82,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,D 1–1,Southampton,Brighton,Y,LW,45,0,0,0,0,0,0,0,0,41,11,0,0,0,0.0,0.0,0.1,3,0,27,35,77.1,3,37,4,1,1,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,W 3–2,Southampton,West Brom,Y,AM,87,0,0,0,0,1,0,0,0,50,10,0,1,0,0.0,0.0,0.1,3,0,31,42,73.8,5,42,5,2,3,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Home,L 0–2,Southampton,Liverpool,Y,AM,90,0,0,0,0,0,0,0,0,55,9,0,0,0,0.0,0.0,0.1,4,0,29,45,64.4,2,45,8,0,2,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Away,W 2–1,Southampton,West Brom,Y,AM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,D 1–1,Southampton,Burnley,Y,AM,80,0,0,0,0,1,0,0,0,36,12,0,0,0,0.1,0.1,0.1,2,0,17,29,58.6,1,22,5,0,1,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,D 0–0,Southampton,Stoke City,Y,AM,63,0,0,0,0,0,0,0,0,38,6,3,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,27,4,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Away,L 0–3,Southampton,Newcastle Utd,Y,AM,45,0,0,0,0,0,0,0,0,25,4,2,0,1,0.0,0.0,0.0,0,0,15,19,78.9,4,11,1,0,1,Match Report
+2017-2018,2018-03-18,Sun,FA Cup,Quarter-finals,Away,W 2–0,Southampton,Wigan Athletic,Y,RM,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Away,L 1–2,rs Serbia,ma Morocco,Y,FW,69,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,W 2–0,rs Serbia,ng Nigeria,Y,AM,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,L 0–3,Southampton,West Ham,Y,RW,90,0,0,0,0,1,0,1,0,52,37,1,0,4,0.0,0.0,0.1,3,0,20,37,54.1,3,32,3,1,1,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Away,L 2–3,Southampton,Arsenal,Y,"AM,LW",90,0,0,0,0,1,1,0,0,51,20,2,2,3,0.1,0.1,0.7,5,1,28,39,71.8,5,32,3,1,1,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,L 2–3,Southampton,Chelsea,Y,"AM,LW",82,1,0,0,0,1,1,0,0,52,34,2,1,5,0.4,0.4,0.0,1,0,22,37,59.5,2,33,8,1,1,Match Report
+2017-2018,2018-04-19,Thu,Premier League,Matchweek 35,Away,D 0–0,Southampton,Leicester City,Y,AM,90,0,0,0,0,3,0,0,0,51,20,3,0,1,0.1,0.1,0.0,3,0,25,37,67.6,1,36,4,1,1,Match Report
+2017-2018,2018-04-22,Sun,FA Cup,Semi-finals,Away,L 0–2,Southampton,Chelsea,N,,28,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,W 2–1,Southampton,Bournemouth,Y,"RW,FW",86,2,0,0,0,2,2,0,0,43,32,1,2,0,0.1,0.1,0.3,6,0,26,34,76.5,3,29,10,2,2,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,D 1–1,Southampton,Everton,Y,AM,69,0,0,0,0,1,0,0,0,38,7,1,1,0,0.0,0.0,0.0,3,1,17,26,65.4,4,30,4,0,0,Match Report
+2017-2018,2018-05-08,Tue,Premier League,Matchweek 31,Away,W 1–0,Southampton,Swansea City,Y,"RW,AM",82,0,0,0,0,0,0,0,0,38,3,0,0,1,0.0,0.0,0.1,4,0,24,29,82.8,3,26,5,0,1,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,L 0–1,Southampton,Manchester City,Y,RM,90,0,0,0,0,1,0,0,0,45,15,2,1,2,0.2,0.2,0.0,3,0,17,30,56.7,2,29,2,1,2,Match Report
+2017-2018,2018-06-04,Mon,Friendlies (M),Friendlies (M),Home,L 0–1,rs Serbia,cl Chile,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-09,Sat,Friendlies (M),Friendlies (M),Home,W 5–1,rs Serbia,bo Bolivia,Y,AM,84,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-17,Sun,FIFA World Cup,Group stage,Neutral,W 1–0,rs Serbia,cr Costa Rica,Y,RM,81,0,0,0,0,0,0,0,0,49,12,3,0,3,0.0,0.0,0.1,4,0,20,31,64.5,4,34,7,0,2,Match Report
+2017-2018,2018-06-22,Fri,FIFA World Cup,Group stage,Neutral,L 1–2,rs Serbia,ch Switzerland,Y,RW,90,0,1,0,0,2,1,0,0,34,37,2,1,0,0.1,0.1,0.4,4,1,14,24,58.3,2,22,5,2,4,Match Report
+2017-2018,2018-06-27,Wed,FIFA World Cup,Group stage,Neutral,L 0–2,rs Serbia,br Brazil,Y,"RW,AM",90,0,0,0,0,1,0,0,0,45,71,4,1,3,0.0,0.0,0.2,5,0,24,32,75.0,4,31,8,1,3,Match Report

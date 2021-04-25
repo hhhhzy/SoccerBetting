@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Away,W 2–0,Tottenham,Newcastle Utd,N,DM,1,0,0,0,0,0,0,0,0,6,1,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Home,L 1–2,Tottenham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Home,D 1–1,Tottenham,Burnley,N,CM,3,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,2,0,0,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,W 3–0,Tottenham,Everton,N,CM,13,0,0,0,0,0,0,0,0,13,7,0,1,2,0.0,0.0,0.0,0,0,6,7,85.7,0,8,0,1,1,Match Report
+2017-2018,2017-09-13,Wed,Champions Lg,Group stage,Home,W 3–1,eng Tottenham,de Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,D 0–0,Tottenham,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Home,W 1–0,Tottenham,Barnsley,Y,DM,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 3–2,Tottenham,West Ham,N,CM,18,0,0,0,0,0,0,0,0,10,10,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Match Report
+2017-2018,2017-09-26,Tue,Champions Lg,Group stage,Away,W 3–0,eng Tottenham,cy APOEL FC,Y,CM,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,W 4–0,Tottenham,Huddersfield,Y,CM,90,0,0,0,0,0,0,0,0,73,22,0,1,3,0.0,0.0,0.1,1,0,56,61,91.8,6,59,1,1,1,Match Report
+2017-2018,2017-10-05,Thu,WCQ — UEFA (M),First round,Home,W 1–0,eng England,si Slovenia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-08,Sun,WCQ — UEFA (M),First round,Away,W 1–0,eng England,lt Lithuania,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 1–0,Tottenham,Bournemouth,Y,CM,90,0,0,0,0,1,0,0,0,90,9,3,0,0,0.0,0.0,0.2,2,0,71,79,89.9,5,74,10,0,0,Match Report
+2017-2018,2017-10-17,Tue,Champions Lg,Group stage,Away,D 1–1,eng Tottenham,es Real Madrid,Y,CM,90,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Home,W 4–1,Tottenham,Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,47,27,3,2,1,0.0,0.0,0.0,1,0,33,41,80.5,1,32,3,1,1,Match Report
+2017-2018,2017-10-25,Wed,EFL Cup,Fourth round,Home,L 2–3,Tottenham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,L 0–1,Tottenham,Manchester Utd,Y,CM,90,0,0,0,0,0,0,0,0,69,5,0,0,4,0.0,0.0,0.0,2,0,52,61,85.2,4,50,5,0,0,Match Report
+2017-2018,2017-11-01,Wed,Champions Lg,Group stage,Home,W 3–1,eng Tottenham,es Real Madrid,Y,CM,66,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Home,W 1–0,Tottenham,Crystal Palace,Y,CM,45,0,0,0,0,1,0,0,0,52,3,0,1,0,0.0,0.0,0.0,2,0,42,49,85.7,2,41,4,1,1,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 0–2,Tottenham,Arsenal,N,CM,29,0,0,0,0,0,0,0,0,46,4,1,0,1,0.0,0.0,0.0,0,0,35,42,83.3,4,32,7,0,0,Match Report
+2017-2018,2017-11-21,Tue,Champions Lg,Group stage,Away,W 2–1,eng Tottenham,de Dortmund,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,D 1–1,Tottenham,West Brom,Y,CM,60,0,0,0,0,1,0,0,0,69,5,0,0,0,0.0,0.0,0.0,1,0,62,68,91.2,9,61,6,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,D 1–1,Tottenham,Watford,N,RW,5,0,0,0,0,0,0,0,0,6,1,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,3,0,0,Match Report
+2017-2018,2017-12-06,Wed,Champions Lg,Group stage,Home,W 3–0,eng Tottenham,cy APOEL FC,Y,DM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 5–1,Tottenham,Stoke City,Y,DM,77,0,0,0,0,0,0,0,0,84,10,0,0,0,0.0,0.0,0.0,3,2,74,81,91.4,6,76,5,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,W 2–0,Tottenham,Brighton,Y,CM,66,0,1,0,0,0,0,0,0,103,11,3,1,1,0.0,0.0,0.2,4,1,89,97,91.8,3,94,6,1,1,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,L 1–4,Tottenham,Manchester City,Y,"LM,CM",90,0,0,0,0,0,0,0,0,50,15,2,2,3,0.0,0.0,0.0,0,0,28,31,90.3,2,34,1,2,2,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,W 5–2,Tottenham,Southampton,N,AM,7,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Away,W 2–0,Tottenham,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-04,Thu,Premier League,Matchweek 21,Home,D 1–1,Tottenham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-04,Sun,Premier League,Matchweek 26,Away,D 2–2,Tottenham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-07,Wed,FA Cup,Fourth round,Home,W 2–0,Tottenham,Newport County,Y,DM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-18,Sun,FA Cup,Fifth round,Away,D 2–2,Tottenham,Rochdale,Y,AM,61,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-28,Wed,FA Cup,Fifth round,Home,W 6–1,Tottenham,Rochdale,Y,DM,61,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

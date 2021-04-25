@@ -1,0 +1,23 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,L 0–1,Leicester City,Aston Villa,N,FW,20,0,0,0,0,1,0,0,0,13,5,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,6,0,0,0,Match Report
+2020-2021,2020-11-23,Mon,PL2 — Div. 1,Matchweek 9,Home,W 2–1,Leicester City,West Ham,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-18,Fri,PL2 — Div. 1,Matchweek 12,Away,L 1–2,Leicester City,Arsenal,Y,FW,82,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Ligue 1,Matchweek 20,Home,L 0–1,Lyon,Metz,N,RW,14,0,0,0,0,0,0,0,0,11,1,0,0,0,0.0,0.0,0.2,1,0,6,11,54.5,0,6,0,0,0,Match Report
+2020-2021,2021-01-24,Sun,Ligue 1,Matchweek 21,Away,W 5–0,Lyon,Saint-Étienne,N,RW,6,0,0,0,0,1,1,0,0,6,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,0,0,1,Match Report
+2020-2021,2021-01-29,Fri,Ligue 1,Matchweek 22,Home,W 2–1,Lyon,Bordeaux,N,FW,19,0,0,0,0,1,0,0,0,9,4,0,0,0,0.4,0.4,0.0,0,0,8,8,100.0,1,7,1,0,0,Match Report
+2020-2021,2021-02-03,Wed,Ligue 1,Matchweek 23,Away,W 1–0,Lyon,Dijon,N,FW,16,0,0,0,0,0,0,0,0,13,3,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,3,10,1,0,0,Match Report
+2020-2021,2021-02-06,Sat,Ligue 1,Matchweek 24,Home,W 3–0,Lyon,Strasbourg,N,FW,20,0,0,0,0,0,0,0,0,16,2,1,0,0,0.0,0.0,0.0,1,0,11,14,78.6,2,4,1,0,0,Match Report
+2020-2021,2021-02-09,Tue,Coupe de France,Round of 64,Home,W 5–1,Lyon,Ajaccio,Y,FW,90,1,2,0,0,7,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Ligue 1,Matchweek 25,Home,L 1–2,Lyon,Montpellier,N,"FW,LM",19,0,0,0,0,5,2,0,0,21,3,1,0,0,0.7,0.7,0.1,1,0,14,15,93.3,1,11,0,1,1,Match Report
+2020-2021,2021-02-19,Fri,Ligue 1,Matchweek 26,Away,W 3–2,Lyon,Brest,N,FW,3,0,0,0,0,0,0,0,0,5,3,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Match Report
+2020-2021,2021-02-28,Sun,Ligue 1,Matchweek 27,Away,D 1–1,Lyon,Marseille,N,LW,4,0,0,0,0,0,0,0,0,4,6,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Match Report
+2020-2021,2021-03-03,Wed,Ligue 1,Matchweek 28,Home,W 1–0,Lyon,Rennes,Y,RW,57,0,0,0,0,1,0,0,0,30,8,0,1,0,0.1,0.1,0.0,1,0,19,22,86.4,2,15,6,1,2,Match Report
+2020-2021,2021-03-06,Sat,Coupe de France,Round of 32,Home,W 5–2,Lyon,Sochaux,Y,FW,90,0,1,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-12,Fri,Ligue 1,Matchweek 29,Away,D 1–1,Lyon,Reims,N,FW,24,0,0,0,0,2,0,0,0,23,2,0,0,0,0.1,0.1,0.0,2,0,16,18,88.9,2,18,1,0,0,Match Report
+2020-2021,2021-03-21,Sun,Ligue 1,Matchweek 30,Home,L 2–4,Lyon,Paris S-G,N,FW,35,1,0,0,0,3,2,0,0,18,7,0,0,0,0.2,0.2,0.0,0,0,10,13,76.9,0,13,1,0,0,Match Report
+2020-2021,2021-03-25,Thu,Africa Cup of Nations qualification,Group stage,Away,D 3–3,dz Algeria,zm Zambia,Y,AM,89,2,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-29,Mon,Africa Cup of Nations qualification,Group stage,Home,W 5–0,dz Algeria,bw Botswana,Y,FW,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Ligue 1,Matchweek 31,Away,D 1–1,Lyon,Lens,N,DM,20,0,0,0,0,0,0,0,1,6,2,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Match Report
+2020-2021,2021-04-11,Sun,Ligue 1,Matchweek 32,Home,W 3–0,Lyon,Angers,Y,FW,90,0,0,0,0,1,0,0,0,39,28,2,0,0,0.1,0.1,0.2,3,0,19,31,61.3,3,21,1,0,0,Match Report
+2020-2021,2021-04-18,Sun,Ligue 1,Matchweek 33,Away,W 2–1,Lyon,Nantes,Y,FW,90,0,0,0,0,0,0,0,0,46,8,0,0,0,0.0,0.0,0.4,3,0,22,39,56.4,1,22,2,0,1,Match Report
+2020-2021,2021-04-21,Wed,Coupe de France,Quarter-finals,Home,L 0–2,Lyon,Monaco,N,,22,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

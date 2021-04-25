@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,W 1–0,West Brom,Bournemouth,N,"FW,RW",19,0,0,0,0,1,0,1,0,9,8,0,0,0,0.1,0.1,0.0,0,0,2,4,50.0,0,7,1,0,2,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,W 1–0,West Brom,Burnley,N,"LM,CM",20,1,0,0,0,2,1,0,1,12,7,0,0,1,0.4,0.4,0.0,1,1,2,3,66.7,0,8,2,1,1,Match Report
+2017-2018,2017-09-02,Sat,WCQ — UEFA (M),First round,Home,W 1–0,wal Wales,at Austria,N,,22,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Away,W 2–0,wal Wales,md Moldova,Y,FW,87,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,D 0–0,West Brom,West Ham,N,FW,19,0,0,0,0,1,1,0,0,8,1,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,1,0,0,0,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,L 1–2,West Brom,Manchester City,Y,FW,90,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-25,Mon,Premier League,Matchweek 6,Away,L 0–2,West Brom,Arsenal,Y,FW,63,0,0,0,0,1,0,0,0,18,10,0,0,1,0.1,0.1,0.0,2,0,7,9,77.8,0,10,0,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,D 2–2,West Brom,Watford,N,FW,18,0,0,0,0,0,0,0,0,10,2,0,0,0,0.0,0.0,0.3,2,0,3,6,50.0,1,5,1,0,0,Match Report
+2017-2018,2017-10-06,Fri,WCQ — UEFA (M),First round,Away,W 1–0,wal Wales,ge Georgia,N,,17,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Home,L 0–1,wal Wales,ie Republic of Ireland,Y,FW,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,L 2–3,West Brom,Manchester City,N,FW,33,0,0,0,0,0,0,0,0,8,4,0,0,0,0.0,0.0,0.0,0,0,1,6,16.7,1,6,0,0,1,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,L 0–1,West Brom,Huddersfield,Y,FW,58,0,0,0,0,0,0,0,0,23,29,0,0,1,0.0,0.0,0.1,2,0,10,12,83.3,3,17,1,1,1,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,L 0–4,West Brom,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,D 1–1,West Brom,Tottenham,N,FW,24,0,0,0,0,1,1,0,0,11,11,0,0,0,0.1,0.1,0.0,1,0,2,6,33.3,2,9,0,1,1,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Home,D 2–2,West Brom,Newcastle Utd,Y,FW,90,1,0,0,0,4,3,0,0,36,33,1,1,1,0.5,0.5,0.0,3,0,14,20,70.0,1,26,5,1,1,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,D 0–0,West Brom,Crystal Palace,Y,RW,71,0,0,0,0,5,1,0,0,32,11,0,1,1,0.8,0.8,0.2,3,0,12,18,66.7,1,22,4,0,1,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,L 0–1,West Brom,Swansea City,Y,LM,77,0,0,0,0,0,0,1,0,37,19,0,1,1,0.0,0.0,0.0,0,0,15,28,53.6,2,26,4,0,1,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,D 0–0,West Brom,Liverpool,Y,RW,70,0,0,0,0,1,0,0,0,23,7,1,1,0,0.0,0.0,0.0,0,0,7,15,46.7,1,20,1,1,2,Match Report
+2017-2018,2017-12-17,Sun,Premier League,Matchweek 18,Home,L 1–2,West Brom,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,L 1–3,West Brom,Stoke City,Y,"FW,RW",90,0,0,0,0,0,0,0,0,41,11,1,0,0,0.0,0.0,0.0,1,0,20,26,76.9,1,38,2,4,8,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 0–0,West Brom,Everton,N,FW,38,0,0,0,0,1,1,0,0,13,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,9,1,0,0,Match Report
+2017-2018,2017-12-31,Sun,Premier League,Matchweek 21,Home,D 1–1,West Brom,Arsenal,Y,FW,74,0,0,0,0,3,0,0,0,35,12,0,0,0,0.2,0.2,0.0,5,0,14,20,70.0,3,21,3,2,3,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,West Ham,N,"RW,AM",27,0,0,0,0,0,0,0,0,14,9,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,3,10,1,0,1,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,W 2–0,West Brom,Exeter City,N,,79,0,0,0,1,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,W 2–0,West Brom,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,D 1–1,West Brom,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,W 3–2,West Brom,Liverpool,Y,FW,38,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,L 1–4,West Brom,Leicester City,N,RM,8,0,0,0,0,0,0,0,0,5,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Away,L 1–2,West Brom,Bournemouth,N,FW,5,0,0,0,0,1,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+2017-2018,2018-04-21,Sat,Premier League,Matchweek 35,Home,D 2–2,West Brom,Liverpool,N,AM,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,W 1–0,West Brom,Newcastle Utd,N,FW,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,W 1–0,West Brom,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 0–2,West Brom,Crystal Palace,N,FW,20,0,0,0,0,0,0,0,0,9,7,0,0,1,0.0,0.0,0.0,1,0,3,6,50.0,0,8,2,0,1,Match Report

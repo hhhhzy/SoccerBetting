@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,N,CM,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,N,CM,19,0,0,0,0,0,0,0,0,10,1,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,7,0,0,0,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 1–1,Crystal Palace,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,38,15,2,1,1,0.0,0.0,0.0,0,0,24,27,88.9,2,24,2,1,1,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,W 2–1,Crystal Palace,Fulham,Y,DM,84,1,0,0,0,1,1,0,0,33,16,2,0,4,0.4,0.4,0.1,1,0,20,22,90.9,1,18,1,0,0,Match Report
+2020-2021,2020-10-30,Fri,Premier League,Matchweek 7,Away,L 0–2,Crystal Palace,Wolves,Y,DM,90,0,0,0,0,0,0,0,0,50,8,3,0,3,0.0,0.0,0.0,2,0,38,41,92.7,3,32,3,1,1,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,Y,CM,76,0,0,0,0,0,0,0,0,27,8,2,0,3,0.0,0.0,0.0,0,0,19,21,90.5,1,13,1,0,1,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Away,L 0–1,Crystal Palace,Burnley,Y,DM,66,0,0,0,0,1,0,0,0,39,4,1,0,2,0.1,0.1,0.1,4,0,24,29,82.8,4,26,1,0,0,Match Report
+2020-2021,2020-11-27,Fri,Premier League,Matchweek 10,Home,L 0–2,Crystal Palace,Newcastle Utd,N,RW,24,0,0,0,0,0,0,0,0,13,5,2,0,0,0.0,0.0,0.0,0,0,11,12,91.7,3,9,1,0,0,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Away,W 5–1,Crystal Palace,West Brom,N,DM,18,0,0,0,0,0,0,0,0,14,5,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,3,13,2,0,0,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,D 1–1,Crystal Palace,Tottenham,N,DM,18,0,0,0,0,0,0,0,0,5,4,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 1–1,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,N,DM,16,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Match Report
+2020-2021,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Home,W 3–0,Crystal Palace U23,Newcastle Utd,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,N,CM,22,0,0,0,0,1,0,0,0,17,0,0,0,0,0.0,0.0,0.1,1,0,13,15,86.7,0,12,1,0,0,Match Report
+2020-2021,2020-12-28,Mon,Premier League,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,Y,DM,73,0,0,0,0,0,0,0,0,25,6,2,0,3,0.0,0.0,0.0,0,0,13,18,72.2,1,9,0,0,0,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,N,DM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-01-08,Fri,FA Cup,Third round,Away,L 0–1,Crystal Palace,Wolves,Y,CM,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Premier League,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,L 0–4,Crystal Palace,Manchester City,N,"CM,DM",23,0,0,0,0,0,0,0,0,10,3,0,2,1,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,West Ham,N,CM,18,0,0,0,0,0,0,0,0,23,4,0,0,0,0.0,0.0,0.0,1,0,21,22,95.5,4,17,4,1,2,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,N,DM,45,0,0,0,0,0,0,0,0,26,4,0,0,0,0.0,0.0,0.0,1,0,21,23,91.3,2,20,2,1,1,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,W 2–1,Crystal Palace,Newcastle Utd,Y,"CM,DM",89,1,0,0,0,1,1,0,0,48,16,4,2,2,0.0,0.0,0.5,1,0,31,37,83.8,2,26,6,0,0,Match Report
+2020-2021,2021-02-08,Mon,Premier League,Matchweek 23,Away,L 0–2,Crystal Palace,Leeds United,Y,CM,90,0,0,0,0,0,0,0,0,37,9,1,2,1,0.0,0.0,0.1,1,0,25,29,86.2,3,25,4,1,1,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,L 0–3,Crystal Palace,Burnley,Y,DM,90,0,0,0,0,1,0,0,0,50,7,2,0,3,0.0,0.0,0.0,2,0,35,42,83.3,1,34,4,1,1,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,24,7,0,0,4,0.0,0.0,0.0,0,0,11,16,68.8,1,9,0,1,1,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,Y,CM,90,0,0,0,0,0,0,0,0,40,16,3,3,5,0.0,0.0,0.0,0,0,22,28,78.6,0,24,2,1,1,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,N,CM,29,0,0,0,0,0,0,1,0,16,11,1,0,2,0.0,0.0,0.0,1,0,10,12,83.3,0,7,1,0,0,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,L 1–4,Crystal Palace,Tottenham,Y,DM,90,0,0,0,0,1,0,1,0,41,28,2,2,1,0.0,0.0,0.0,1,0,25,30,83.3,1,23,1,0,1,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,W 1–0,Crystal Palace,West Brom,Y,DM,90,0,0,0,0,0,0,0,0,34,28,0,1,3,0.0,0.0,0.0,0,0,23,25,92.0,3,16,0,0,1,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Away,D 1–1,Crystal Palace,Everton,Y,CM,67,0,0,0,0,0,0,0,0,30,8,0,0,1,0.0,0.0,0.0,1,0,23,29,79.3,2,25,1,1,1,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,Y,DM,58,0,0,0,0,0,0,0,0,29,10,1,1,0,0.0,0.0,0.0,0,0,21,26,80.8,0,18,0,0,0,Match Report

@@ -1,0 +1,43 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,L 0–3,Watford,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,52,14,0,1,1,0.0,0.0,0.0,0,0,41,47,87.2,1,32,2,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,L 0–1,Watford,Everton,Y,CB,90,0,0,0,0,0,0,0,0,54,3,1,1,2,0.0,0.0,0.0,0,0,36,44,81.8,5,36,2,2,3,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–3,Watford,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,56,11,2,0,0,0.0,0.0,0.0,0,0,41,47,87.2,3,36,2,0,0,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 1–1,Watford,Newcastle Utd,Y*,CB,90,0,0,0,0,0,0,1,0,60,16,3,1,1,0.0,0.0,0.0,1,0,42,46,91.3,4,33,1,0,1,Match Report
+2019-2020,2019-09-09,Mon,Euro Qualifying,Group stage,Home,L 0–2,nir Northern Ireland,de Germany,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 0–2,Watford,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,68,7,1,1,0,0.0,0.0,0.0,0,0,59,62,95.2,1,49,2,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,D 0–0,Watford,Sheffield Utd,Y*,CB,90,0,0,0,0,0,0,0,0,49,10,1,2,2,0.0,0.0,0.0,0,0,26,37,70.3,2,30,3,0,0,Match Report
+2019-2020,2019-10-10,Thu,Euro Qualifying,Group stage,Away,L 1–3,nir Northern Ireland,nl Netherlands,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-14,Mon,Friendlies (M),Friendlies (M),Away,W 3–2,nir Northern Ireland,cz Czech Republic,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 1–1,Watford,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,36,6,3,0,1,0.0,0.0,0.0,1,1,17,22,77.3,0,14,0,0,0,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Home,D 0–0,Watford,Bournemouth,Y*,CB,90,0,0,0,0,0,0,0,0,46,8,2,1,2,0.0,0.0,0.0,0,0,32,37,86.5,3,29,1,0,0,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Away,L 0–2,Watford,Everton,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 1–2,Watford,Chelsea,Y*,CB,19,0,0,0,0,0,0,0,0,7,0,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,7,0,0,0,Match Report
+2019-2020,2019-11-08,Fri,Premier League,Matchweek 12,Away,W 2–0,Watford,Norwich City,Y,CB,90,0,0,0,0,0,0,0,0,31,10,1,0,1,0.0,0.0,0.0,0,0,14,20,70.0,1,17,0,0,0,Match Report
+2019-2020,2019-11-16,Sat,Euro Qualifying,Group stage,Home,D 0–0,nir Northern Ireland,nl Netherlands,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Euro Qualifying,Group stage,Away,L 1–6,nir Northern Ireland,de Germany,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 0–3,Watford,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,46,3,1,0,1,0.1,0.1,0.0,0,0,28,34,82.4,2,27,0,1,1,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,L 1–2,Watford,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,40,10,1,0,3,0.0,0.0,0.0,0,0,21,24,87.5,1,16,0,0,0,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 0–2,Watford,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,36,1,2,1,2,0.0,0.0,0.0,1,0,16,22,72.7,1,10,1,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Home,D 0–0,Watford,Crystal Palace,Y,CB,90,0,0,0,0,0,0,1,0,40,3,1,0,0,0.0,0.0,0.0,2,0,32,35,91.4,1,25,2,0,0,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Watford,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,40,9,4,1,3,0.0,0.0,0.0,0,0,11,20,55.0,0,12,0,0,0,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Home,W 2–0,Watford,Manchester Utd,Y,CB,90,0,0,0,0,0,0,1,0,23,8,0,0,3,0.0,0.0,0.0,0,0,12,17,70.6,1,12,0,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,D 1–1,Watford,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,1,0,37,8,0,0,2,0.0,0.0,0.0,0,0,26,30,86.7,0,22,1,0,0,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,W 3–0,Watford,Aston Villa,Y,CB,84,0,0,0,0,0,0,0,0,51,2,1,0,1,0.0,0.0,0.0,0,0,35,39,89.7,1,32,2,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 2–1,Watford,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,39,2,1,1,0,0.0,0.0,0.0,0,0,24,29,82.8,1,19,0,1,1,Match Report
+2019-2020,2020-01-12,Sun,Premier League,Matchweek 22,Away,W 3–0,Watford,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,33,6,1,0,1,0.0,0.0,0.0,0,0,19,24,79.2,0,15,0,0,0,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,D 0–0,Watford,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,26,8,1,0,3,0.0,0.0,0.0,0,0,10,14,71.4,1,9,0,0,0,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,L 1–2,Watford,Aston Villa,Y,CB,90,0,0,0,0,0,0,1,0,29,8,2,1,1,0.0,0.0,0.0,0,0,10,15,66.7,2,7,0,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,L 2–3,Watford,Everton,Y,CB,90,0,0,0,0,0,0,0,0,34,6,1,1,1,0.0,0.0,0.0,0,0,18,22,81.8,2,13,1,0,0,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Away,D 1–1,Watford,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,38,7,1,1,2,0.0,0.0,0.0,0,0,23,26,88.5,0,17,0,0,0,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Away,L 0–3,Watford,Manchester Utd,Y,CB,90,0,0,0,0,0,0,1,0,35,4,2,2,1,0.0,0.0,0.0,0,0,27,29,93.1,0,18,0,0,0,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–0,Watford,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,30,5,1,0,1,0.0,0.0,0.0,0,0,14,14,100.0,2,6,0,0,0,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,Watford,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,41,5,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,1,29,0,0,0,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,D 1–1,Watford,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Away,L 0–1,Watford,Burnley,N,CB,45,0,0,0,0,1,1,0,0,24,2,0,0,0,0.2,0.2,0.0,0,0,12,19,63.2,1,10,0,0,0,Match Report
+2019-2020,2020-06-28,Sun,Premier League,Matchweek 32,Home,L 1–3,Watford,Southampton,Y,CB,90,0,0,0,0,0,0,1,0,56,13,3,1,0,0.0,0.0,0.0,0,0,35,45,77.8,2,25,1,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,L 0–3,Watford,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Home,W 2–1,Watford,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,W 2–1,Watford,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-17,Fri,Premier League,Matchweek 36,Away,L 1–3,Watford,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-21,Tue,Premier League,Matchweek 37,Home,L 0–4,Watford,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 2–3,Watford,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

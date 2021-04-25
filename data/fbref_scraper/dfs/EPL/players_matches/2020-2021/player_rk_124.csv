@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-05,Sat,UEFA Nations League,League A,Away,W 1–0,fr France,se Sweden,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-08,Tue,UEFA Nations League,League A,Home,W 4–2,fr France,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Away,W 1–0,Everton,Tottenham,Y,LB,90,0,1,0,0,0,0,0,0,88,11,3,0,2,0.0,0.0,0.1,1,1,63,77,81.8,6,46,2,0,0,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,Everton,Salford City,N,,67,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,W 5–2,Everton,West Brom,Y,LB,90,0,0,0,0,1,0,0,0,100,10,2,0,2,0.1,0.1,0.4,7,1,70,91,76.9,10,49,7,0,0,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 5–2,Everton,Fleetwood Town,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Away,W 2–1,Everton,Crystal Palace,Y,LB,90,0,0,0,0,1,0,0,0,99,20,5,0,6,0.0,0.0,0.0,1,0,62,79,78.5,4,39,3,0,2,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,W 4–1,Everton,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 4–2,Everton,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,70,21,2,0,3,0.0,0.0,0.1,1,0,48,59,81.4,3,40,6,1,2,Match Report
+2020-2021,2020-10-07,Wed,Friendlies (M),Friendlies (M),Home,W 7–1,fr France,ua Ukraine,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Home,D 0–0,fr France,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Away,W 2–1,fr France,hr Croatia,Y,LB,82,0,1,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,D 2–2,Everton,Liverpool,Y,LB,90,0,1,0,0,0,0,0,0,69,12,1,0,2,0.0,0.0,0.4,2,1,36,56,64.3,5,30,2,1,1,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Away,L 0–2,Everton,Southampton,Y,"LB,FW",71,0,0,0,0,0,0,0,1,80,17,0,0,1,0.0,0.0,0.0,1,0,54,73,74.0,4,44,3,0,1,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,L 1–3,Everton,Manchester Utd,Y,LB,90,0,0,0,0,1,0,0,0,70,7,1,1,1,0.1,0.1,0.0,2,0,44,62,71.0,6,42,6,0,0,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,L 0–2,fr France,fi Finland,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,UEFA Nations League,League A,Away,W 1–0,fr France,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,UEFA Nations League,League A,Home,W 4–2,fr France,se Sweden,N,,45,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,W 3–2,Everton,Fulham,Y*,WB,90,0,2,0,0,0,0,0,0,62,14,3,0,1,0.0,0.0,0.6,4,2,43,57,75.4,3,34,2,0,0,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 2–1,Everton,Rotherham Utd,Y,LB,65,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 18,Away,W 2–1,Everton,Wolves,Y,LM,90,0,1,0,0,0,0,0,0,43,10,1,1,3,0.0,0.0,0.1,1,1,23,34,67.6,2,20,2,0,0,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 1–1,Everton,Leicester City,Y*,"LM,LB",90,0,0,0,0,1,0,0,0,43,6,2,3,2,0.0,0.0,0.2,2,0,19,35,54.3,1,23,3,0,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,L 0–2,Everton,Newcastle Utd,Y,LB,90,0,0,0,0,1,0,0,0,94,29,9,0,5,0.0,0.0,0.1,2,0,57,74,77.0,6,60,6,1,1,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–1,Everton,Leeds United,Y,"LB,WB",90,0,1,0,0,0,0,0,0,57,15,7,1,3,0.0,0.0,0.4,2,1,28,40,70.0,0,24,1,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,Y*,LB,90,0,0,0,0,1,0,0,0,63,14,0,0,2,0.0,0.0,0.0,3,2,44,58,75.9,5,23,1,0,0,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Home,W 5–4,Everton,Tottenham,Y,LB,106,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,L 0–2,Everton,Fulham,Y,LB,90,0,0,0,0,0,0,0,0,81,9,0,0,4,0.0,0.0,0.0,0,0,50,74,67.6,2,49,3,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 16,Home,L 1–3,Everton,Manchester City,Y,"LM,LB",90,0,0,0,0,1,0,0,0,29,15,3,2,0,0.1,0.1,0.0,1,1,11,19,57.9,2,11,0,0,0,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,W 2–0,Everton,Liverpool,Y,WB,90,0,0,0,0,1,0,0,0,48,16,3,0,1,0.0,0.0,0.2,1,0,19,34,55.9,3,23,3,0,0,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Home,W 1–0,Everton,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,79,17,5,0,3,0.0,0.0,0.0,2,0,46,63,73.0,3,27,3,1,2,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Away,W 1–0,Everton,West Brom,Y*,"WB,LB",90,0,0,0,0,0,0,0,0,90,12,5,1,3,0.0,0.0,0.2,6,0,47,73,64.4,3,40,5,0,0,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Away,L 0–2,Everton,Chelsea,Y,"WB,LB",90,0,0,0,0,1,0,1,0,62,8,0,1,3,0.1,0.1,0.0,1,0,41,56,73.2,3,31,4,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 1–2,Everton,Burnley,Y*,LB,90,0,0,0,0,0,0,0,0,92,11,0,0,2,0.0,0.0,0.6,4,0,65,83,78.3,8,45,2,1,2,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Home,L 0–2,Everton,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Home,D 1–1,fr France,ua Ukraine,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–0,fr France,kz Kazakhstan,Y,LB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Away,W 1–0,fr France,ba Bosnia and Herzegovina,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,Y,WB,90,0,0,0,0,0,0,1,0,56,9,1,1,2,0.0,0.0,0.7,3,0,32,45,71.1,4,32,6,0,0,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Away,D 0–0,Everton,Brighton,Y,WB,90,0,0,0,0,0,0,0,0,62,4,0,2,1,0.0,0.0,0.0,1,0,32,57,56.1,4,27,2,0,0,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Home,D 2–2,Everton,Tottenham,Y,WB,90,0,0,0,0,0,0,0,0,68,9,4,1,1,0.0,0.0,0.0,2,0,43,54,79.6,5,29,5,1,1,Match Report
+2020-2021,2021-04-23,Fri,Premier League,Matchweek 33,Away,W 1–0,Everton,Arsenal,Y,LB,90,0,0,0,0,2,0,0,0,51,21,7,2,1,0.0,0.0,0.2,1,0,29,37,78.4,2,25,0,0,0,Match Report

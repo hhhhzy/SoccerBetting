@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-07-23,Tue,Champions Lg,Second qualifying round,Away,D 0–0,gr Olympiacos,cz Viktoria Plzeň,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-07-30,Tue,Champions Lg,Second qualifying round,Home,W 4–0,gr Olympiacos,cz Viktoria Plzeň,Y,AM,84,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-07,Wed,Champions Lg,Third qualifying round,Away,W 1–0,gr Olympiacos,tr Başakşehir,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-13,Tue,Champions Lg,Third qualifying round,Home,W 2–0,gr Olympiacos,tr Başakşehir,Y,AM,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-21,Wed,Champions Lg,Play-off Round,Home,W 4–0,gr Olympiacos,ru Krasnodar,Y,AM,89,1,1,0,0,4,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Super League,Matchweek 1,Home,W 1–0,Olympiacos,Asteras Tripoli,Y,RM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,Champions Lg,Play-off Round,Away,W 2–1,gr Olympiacos,ru Krasnodar,Y,AM,83,0,0,0,0,2,2,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-01,Sun,Super League,Matchweek 2,Away,W 1–0,Olympiacos,Larissa,Y,AM,81,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Super League,Matchweek 3,Home,W 5–0,Olympiacos,Volos NFC,Y,AM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-18,Wed,Champions Lg,Group stage,Home,D 2–2,gr Olympiacos,eng Tottenham,Y,"RW,LW",90,1,0,0,0,4,3,0,0,57,18,1,2,1,0.3,0.3,0.1,5,1,36,42,85.7,7,52,15,5,6,Match Report
+2019-2020,2019-09-22,Sun,Super League,Matchweek 4,Away,D 1–1,Olympiacos,Panathinaikos,Y,AM,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Super League,Matchweek 5,Home,W 2–0,Olympiacos,PAS Lamia,Y,AM,77,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-01,Tue,Champions Lg,Group stage,Away,L 1–3,gr Olympiacos,rs Red Star,N,LW,30,0,0,0,0,0,0,0,0,12,8,1,0,1,0.0,0.0,0.4,4,0,5,9,55.6,0,6,2,1,2,Match Report
+2019-2020,2019-10-06,Sun,Super League,Matchweek 6,Away,W 2–1,Olympiacos,Aris,Y,AM,37,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Super League,Matchweek 7,Home,W 2–1,Olympiacos,OFI Crete,Y,RM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-22,Tue,Champions Lg,Group stage,Home,L 2–3,gr Olympiacos,de Bayern Munich,Y,RM,90,0,0,0,0,1,1,0,0,41,19,1,0,0,0.1,0.1,0.0,3,0,20,33,60.6,2,32,8,2,4,Match Report
+2019-2020,2019-10-27,Sun,Super League,Matchweek 8,Home,W 2–0,Olympiacos,AEK Athens,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Super League,Matchweek 9,Away,D 0–0,Olympiacos,Xanthi,Y,AM,82,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-06,Wed,Champions Lg,Group stage,Away,L 0–2,gr Olympiacos,de Bayern Munich,Y,"LW,RW",79,0,0,0,0,0,0,0,0,20,22,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,15,2,1,3,Match Report
+2019-2020,2019-11-10,Sun,Super League,Matchweek 10,Home,W 2–0,Olympiacos,Atromitos,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-14,Thu,Euro Qualifying,Group stage,Home,W 6–0,pt Portugal,lt Lithuania,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Super League,Matchweek 11,Away,D 1–1,Olympiacos,Panionios,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-26,Tue,Champions Lg,Group stage,Away,L 2–4,gr Olympiacos,eng Tottenham,Y,RW,78,0,0,0,0,1,0,1,0,42,19,3,1,0,0.2,0.2,0.0,0,0,21,31,67.7,0,37,7,4,8,Match Report
+2019-2020,2019-12-01,Sun,Super League,Matchweek 12,Home,D 1–1,Olympiacos,PAOK,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Super League,Matchweek 13,Away,W 3–0,Olympiacos,Panetolikos,Y,AM,56,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-11,Wed,Champions Lg,Group stage,Home,W 1–0,gr Olympiacos,rs Red Star,Y,"RW,RM",90,0,0,0,0,5,3,1,0,61,19,1,0,2,1.0,1.0,0.1,5,0,33,48,68.8,6,58,15,9,10,Match Report
+2019-2020,2019-12-15,Sun,Super League,Matchweek 14,Away,W 5–0,Olympiacos,Asteras Tripoli,Y,RM,36,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-18,Wed,Super League,Matchweek 15,Home,W 4–1,Olympiacos,Larissa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-05,Sun,Super League,Matchweek 17,Home,W 1–0,Olympiacos,Panathinaikos,Y,AM,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 0–0,Wolves,Manchester Utd,N,RW,15,0,0,0,0,1,0,0,0,9,5,0,0,0,0.1,0.1,0.0,2,0,6,7,85.7,1,7,1,0,0,Match Report
+2019-2020,2020-02-14,Fri,Premier League,Matchweek 26,Home,D 0–0,Wolves,Leicester City,N,AM,13,0,0,0,0,0,0,0,0,6,3,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,5,2,0,0,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Home,W 4–0,eng Wolves,es Espanyol,N,FW,8,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Home,W 3–0,Wolves,Norwich City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-27,Thu,Europa Lg,Round of 32,Away,L 2–3,eng Wolves,es Espanyol,Y,"FW,AM",90,0,1,0,0,2,0,0,0,44,10,2,2,0,0.1,0.1,0.8,4,1,23,29,79.3,1,27,6,3,5,Match Report
+2019-2020,2020-03-01,Sun,Premier League,Matchweek 28,Away,W 3–2,Wolves,Tottenham,N,FW,1,0,0,0,0,0,0,0,0,3,5,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,1,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,D 0–0,Wolves,Brighton,N,"AM,FW",17,0,0,0,0,1,0,0,0,11,1,0,0,0,0.1,0.1,0.0,2,0,7,9,77.8,1,9,3,0,0,Match Report
+2019-2020,2020-03-12,Thu,Europa Lg,Round of 16,Away,D 1–1,eng Wolves,gr Olympiacos,N,RW,12,0,0,0,0,0,0,0,0,5,3,0,0,0,0.0,0.0,0.1,1,0,2,3,66.7,0,2,1,0,1,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,W 2–0,Wolves,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 1–0,Wolves,Bournemouth,N,FW,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Match Report
+2019-2020,2020-06-27,Sat,Premier League,Matchweek 32,Away,W 1–0,Wolves,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Away,L 0–1,Wolves,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 3–0,Wolves,Everton,Y,"LW,RW",70,0,0,0,0,3,3,0,0,45,3,0,0,1,0.3,0.3,0.0,3,2,24,35,68.6,2,33,10,3,4,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,D 1–1,Wolves,Burnley,Y,RW,69,0,0,0,0,2,0,0,0,26,5,1,0,1,0.1,0.1,0.3,2,0,12,18,66.7,1,23,5,4,5,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Home,W 2–0,Wolves,Crystal Palace,Y,AM,71,1,0,0,0,3,1,0,0,35,13,1,0,2,0.9,0.9,0.1,2,0,14,20,70.0,1,19,2,2,3,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 0–2,Wolves,Chelsea,N,WB,32,0,0,0,0,0,0,0,0,14,8,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,1,13,1,0,0,Match Report
+2019-2020,2020-08-06,Thu,Europa Lg,Round of 16,Home,W 1–0,eng Wolves,gr Olympiacos,Y,LW,70,0,0,0,0,1,1,1,0,32,16,3,0,1,0.1,0.1,0.1,3,1,15,22,68.2,3,20,5,0,1,Match Report

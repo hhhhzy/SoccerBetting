@@ -1,0 +1,50 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,W 2–0,Bournemouth,Cardiff City,Y,CB,90,0,0,0,0,0,0,0,0,69,5,1,0,2,0.0,0.0,0.0,0,0,56,63,88.9,2,52,5,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,W 2–1,Bournemouth,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,30,3,0,0,1,0.0,0.0,0.0,1,0,19,22,86.4,1,14,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 2–2,Bournemouth,Everton,Y,CB,90,1,0,0,0,2,1,0,0,55,4,1,0,0,0.6,0.6,0.0,1,0,45,50,90.0,4,38,1,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,L 0–2,Bournemouth,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,27,3,1,1,1,0.4,0.4,0.0,0,0,15,19,78.9,2,12,0,0,0,Match Report
+2018-2019,2018-09-06,Thu,Friendlies (M),Friendlies (M),Home,W 2–1,nl Netherlands,pe Peru,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League A,Away,L 1–2,nl Netherlands,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,W 4–2,Bournemouth,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,35,2,0,0,1,0.0,0.0,0.0,0,0,26,32,81.3,0,18,1,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 0–4,Bournemouth,Burnley,Y,CB,90,0,0,0,0,2,0,0,0,84,12,1,2,4,0.1,0.1,0.0,0,0,59,69,85.5,3,52,4,0,0,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,W 3–2,Bournemouth,Blackburn,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-01,Mon,Premier League,Matchweek 7,Home,W 2–1,Bournemouth,Crystal Palace,Y,CB,90,0,0,0,0,2,0,0,0,69,6,0,1,2,0.2,0.2,0.0,0,0,50,57,87.7,4,44,2,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 4–0,Bournemouth,Watford,Y,CB,90,0,0,0,0,1,1,0,0,58,3,2,1,4,0.1,0.1,0.0,0,0,37,40,92.5,0,33,1,0,0,Match Report
+2018-2019,2018-10-13,Sat,UEFA Nations League,League A,Home,W 3–0,nl Netherlands,de Germany,N,,14,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,nl Netherlands,be Belgium,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,D 0–0,Bournemouth,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,80,5,0,0,0,0.0,0.0,0.0,0,0,57,70,81.4,0,48,2,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,W 3–0,Bournemouth,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,82,11,2,1,0,0.0,0.0,0.0,1,0,65,71,91.5,9,57,4,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 1–2,Bournemouth,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,64,4,2,0,3,0.1,0.1,0.0,0,0,40,48,83.3,4,34,2,1,1,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,L 1–2,Bournemouth,Newcastle Utd,Y,CB,90,0,0,0,0,1,1,0,0,84,8,4,1,2,0.7,0.7,0.0,0,0,57,64,89.1,6,50,1,0,0,Match Report
+2018-2019,2018-11-16,Fri,UEFA Nations League,League A,Home,W 2–0,nl Netherlands,fr France,N,,1,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-19,Mon,UEFA Nations League,League A,Away,D 2–2,nl Netherlands,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-25,Sun,Premier League,Matchweek 13,Home,L 1–2,Bournemouth,Arsenal,Y,CB,90,0,0,0,0,0,0,1,0,56,9,1,0,4,0.0,0.0,0.0,0,0,32,44,72.7,1,30,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,L 1–3,Bournemouth,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,29,9,0,1,1,0.0,0.0,0.0,0,0,19,21,90.5,0,16,1,0,0,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Home,W 2–1,Bournemouth,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,41,13,1,0,6,0.0,0.0,0.0,0,0,17,20,85.0,1,12,1,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,L 0–4,Bournemouth,Liverpool,Y,CB,90,0,0,0,0,0,0,1,0,43,8,3,0,0,0.0,0.0,0.0,0,0,29,34,85.3,1,20,0,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,L 0–2,Bournemouth,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,101,12,2,2,3,0.0,0.0,0.1,1,0,87,91,95.6,2,76,3,0,0,Match Report
+2018-2019,2018-12-19,Wed,EFL Cup,Quarter-finals,Away,L 0–1,Bournemouth,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,W 2–0,Bournemouth,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,69,6,1,1,1,0.0,0.0,0.0,0,0,49,56,87.5,2,44,1,1,1,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,L 0–5,Bournemouth,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,48,8,1,1,0,0.0,0.0,0.0,1,0,43,45,95.6,1,39,1,0,0,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Away,L 1–4,Bournemouth,Manchester Utd,Y,CB,81,1,0,0,0,2,2,0,0,52,16,1,0,3,0.2,0.2,0.0,0,0,35,39,89.7,3,29,0,0,1,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,D 3–3,Bournemouth,Watford,Y,CB,90,1,0,0,0,2,1,0,0,58,13,2,0,0,0.3,0.3,0.0,1,0,44,48,91.7,1,31,0,0,0,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,L 1–3,Bournemouth,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Away,L 0–2,Bournemouth,Everton,Y,CB,90,0,0,0,0,0,0,0,0,47,7,1,0,3,0.0,0.0,0.0,0,0,25,31,80.6,3,22,0,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–0,Bournemouth,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,38,6,2,0,1,0.0,0.0,0.0,0,0,27,32,84.4,0,23,0,0,0,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,W 4–0,Bournemouth,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,48,23,1,0,1,0.0,0.0,0.0,0,0,22,28,78.6,0,26,0,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–2,Bournemouth,Cardiff City,Y,CB,90,0,0,0,0,1,0,0,0,55,14,1,0,2,0.2,0.2,0.0,1,0,43,46,93.5,1,36,3,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,L 0–3,Bournemouth,Liverpool,Y,"CB,LB",90,0,0,0,0,0,0,0,0,36,14,3,6,0,0.0,0.0,0.0,0,0,21,27,77.8,1,19,0,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,D 1–1,Bournemouth,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,47,15,2,0,2,0.0,0.0,0.0,0,0,18,27,66.7,0,17,0,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 1–5,Bournemouth,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,37,11,1,0,2,0.0,0.0,0.0,0,0,27,32,84.4,1,18,1,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,L 0–1,Bournemouth,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,36,20,4,1,4,0.0,0.0,0.0,0,0,11,20,55.0,1,17,2,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,W 2–0,Bournemouth,Huddersfield,Y,CB,90,0,0,0,0,1,0,0,0,50,16,2,1,1,0.2,0.2,0.0,0,0,26,33,78.8,0,27,0,0,0,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Home,D 2–2,Bournemouth,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,47,10,0,1,1,0.0,0.0,0.0,1,1,33,36,91.7,2,30,1,0,0,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,L 0–2,Bournemouth,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,66,5,0,0,4,0.0,0.0,0.0,0,0,48,54,88.9,3,38,2,0,0,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Home,L 1–3,Bournemouth,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,76,9,1,0,2,0.0,0.0,0.2,3,1,57,65,87.7,3,44,2,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,W 5–0,Bournemouth,Brighton,Y,LB,90,0,0,0,0,0,0,1,0,58,21,5,2,1,0.0,0.0,0.1,1,0,40,47,85.1,2,38,0,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,L 0–1,Bournemouth,Fulham,Y,"LB,CB",90,0,0,0,0,1,0,0,0,51,12,1,0,2,0.1,0.1,0.0,1,0,35,42,83.3,0,30,4,0,0,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,D 3–3,Bournemouth,Southampton,Y,"LB,CB",90,0,0,0,0,0,0,0,0,86,17,2,1,5,0.0,0.0,0.0,1,0,57,71,80.3,3,45,1,0,1,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,W 1–0,Bournemouth,Tottenham,Y,DM,90,1,0,0,0,3,1,0,0,58,19,3,2,0,0.2,0.2,0.0,2,0,39,45,86.7,2,41,6,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,L 3–5,Bournemouth,Crystal Palace,Y,CM,90,0,0,0,0,1,0,0,0,77,16,5,1,2,0.0,0.0,0.3,1,0,59,62,95.2,2,42,4,0,1,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,W 3–1,nl Netherlands,eng England,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Final,Neutral,L 0–1,nl Netherlands,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,65 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,W 3–1,Tottenham,Aston Villa,N,AM,27,0,0,0,0,3,1,0,0,36,9,0,1,0,0.3,0.3,0.3,3,0,19,31,61.3,2,26,3,1,1,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,D 2–2,Tottenham,Manchester City,Y,"LW,AM",89,0,0,0,0,0,0,0,0,42,24,2,0,2,0.0,0.0,0.0,2,0,28,35,80.0,1,36,1,1,4,Match Report
+2019-2020,2019-08-25,Sun,Premier League,Matchweek 3,Home,L 0–1,Tottenham,Newcastle Utd,N,DM,29,0,0,0,0,2,0,0,0,50,4,0,0,0,0.0,0.0,0.1,5,0,39,46,84.8,8,43,10,0,0,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Away,D 2–2,Tottenham,Arsenal,Y,"AM,LW",90,1,0,0,0,4,4,1,0,64,26,1,1,2,0.9,0.9,0.1,4,0,37,52,71.2,8,35,5,0,0,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Away,W 6–0,dk Denmark,gi Gibraltar,Y,FW,90,2,2,2,2,4,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-08,Sun,Euro Qualifying,Group stage,Away,D 0–0,dk Denmark,ge Georgia,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 4–0,Tottenham,Crystal Palace,Y,AM,90,0,0,0,0,1,0,1,0,61,12,1,0,0,0.1,0.1,0.1,3,0,44,53,83.0,5,40,4,0,1,Match Report
+2019-2020,2019-09-18,Wed,Champions Lg,Group stage,Away,D 2–2,eng Tottenham,gr Olympiacos,Y,AM,90,0,0,0,0,0,0,0,0,75,21,3,0,0,0.0,0.0,0.4,3,0,48,65,73.8,1,60,5,1,2,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Away,L 1–2,Tottenham,Leicester City,N,"AM,CM",12,0,0,0,0,0,0,0,0,21,5,0,0,0,0.0,0.0,0.0,1,0,13,19,68.4,1,13,0,0,0,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,L 0 (3)–0 (4),Tottenham,Colchester Utd,N,,55,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Southampton,Y,AM,90,0,1,0,0,1,0,0,0,48,28,2,1,1,0.1,0.1,0.6,4,1,27,36,75.0,4,32,4,0,1,Match Report
+2019-2020,2019-10-01,Tue,Champions Lg,Group stage,Home,L 2–7,eng Tottenham,de Bayern Munich,N,"RM,DM",27,0,0,0,0,2,1,0,0,21,6,2,1,0,0.1,0.1,0.0,1,0,13,16,81.3,0,13,4,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 0–3,Tottenham,Brighton,Y,"AM,DM",90,0,0,0,0,3,1,0,0,71,27,2,0,1,0.1,0.1,0.0,0,0,46,63,73.0,3,43,3,0,0,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Home,W 1–0,dk Denmark,ch Switzerland,Y,AM,90,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Friendlies (M),Friendlies (M),Home,W 4–0,dk Denmark,lu Luxembourg,Y,CM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-22,Tue,Champions Lg,Group stage,Home,W 5–0,eng Tottenham,rs Red Star,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,L 1–2,Tottenham,Liverpool,Y,RW,87,0,0,0,0,1,0,0,0,35,19,0,0,2,0.0,0.0,0.1,1,0,16,29,55.2,2,22,2,0,0,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Away,D 1–1,Tottenham,Everton,Y,AM,89,0,0,0,0,0,0,1,0,44,17,1,0,0,0.0,0.0,0.0,0,0,25,36,69.4,1,23,2,0,1,Match Report
+2019-2020,2019-11-06,Wed,Champions Lg,Group stage,Away,W 4–0,eng Tottenham,rs Red Star,N,AM,29,1,0,0,0,2,2,0,0,22,11,0,0,0,0.1,0.1,0.4,2,0,13,18,72.2,0,18,2,0,0,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,D 1–1,Tottenham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-15,Fri,Euro Qualifying,Group stage,Home,W 6–0,dk Denmark,gi Gibraltar,Y,AM,90,2,0,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Away,D 1–1,dk Denmark,ie Republic of Ireland,Y,FW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 3–2,Tottenham,West Ham,N,AM,12,0,0,0,0,0,0,0,0,3,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Match Report
+2019-2020,2019-11-26,Tue,Champions Lg,Group stage,Home,W 4–2,eng Tottenham,gr Olympiacos,N,"CM,AM",62,0,1,0,0,2,0,0,0,56,9,1,0,1,0.2,0.2,0.5,3,1,36,51,70.6,2,40,11,0,0,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Home,W 3–2,Tottenham,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 1–2,Tottenham,Manchester Utd,N,"RW,DM",27,0,0,0,0,0,0,0,0,24,10,1,0,1,0.0,0.0,0.0,2,0,15,21,71.4,1,16,2,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Home,W 5–0,Tottenham,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-11,Wed,Champions Lg,Group stage,Away,L 1–3,eng Tottenham,de Bayern Munich,Y,AM,90,0,0,0,0,2,2,0,0,47,20,0,0,0,0.4,0.4,0.4,3,0,28,38,73.7,4,29,2,0,2,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Away,W 2–1,Tottenham,Wolves,N,RW,2,0,1,0,0,0,0,0,0,2,2,0,0,0,0.0,0.0,0.0,1,1,1,2,50.0,0,0,0,0,0,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Home,L 0–2,Tottenham,Chelsea,N,"DM,CM",45,0,0,0,0,2,0,0,0,50,14,1,1,0,0.1,0.1,0.0,1,0,28,45,62.2,1,29,0,0,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 2–1,Tottenham,Brighton,N,"LW,DM",23,0,0,0,0,1,0,0,0,23,6,1,0,1,0.1,0.1,0.0,1,1,15,18,83.3,2,11,1,0,1,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,D 2–2,Tottenham,Norwich City,Y,"DM,CM",90,1,0,0,0,4,2,1,0,118,12,2,3,4,0.2,0.2,0.2,4,0,83,102,81.4,7,84,9,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–1,Tottenham,Southampton,Y,CM,90,0,0,0,0,1,0,1,0,84,16,2,1,0,0.0,0.0,0.0,1,0,54,77,70.1,3,44,5,0,0,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Away,D 1–1,Tottenham,Middlesbrough,Y,CM,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Liverpool,Y,DM,68,0,0,0,0,1,1,0,0,36,16,0,0,2,0.1,0.1,0.3,4,0,20,27,74.1,3,14,1,0,0,Match Report
+2019-2020,2020-01-14,Tue,FA Cup,Third round,Home,W 2–1,Tottenham,Middlesbrough,Y,AM,90,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 0–0,Tottenham,Watford,N,CM,18,0,0,0,0,1,0,0,0,22,2,2,0,2,0.0,0.0,0.0,3,0,14,20,70.0,4,16,3,0,0,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Home,W 2–1,Tottenham,Norwich City,N,"CM,RW",29,0,0,0,0,1,0,0,0,34,6,1,0,1,0.1,0.1,0.0,1,0,23,28,82.1,1,25,3,1,2,Match Report
+2019-2020,2020-01-29,Wed,Coppa Italia,Quarter-finals,Home,W 2–1,Inter,Fiorentina,N,,25,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,Serie A,Matchweek 22,Away,W 2–0,Inter,Udinese,Y,AM,57,0,0,0,0,2,1,0,0,52,11,0,0,1,0.1,0.1,0.2,3,0,34,41,82.9,4,36,3,1,2,Match Report
+2019-2020,2020-02-09,Sun,Serie A,Matchweek 23,Home,W 4–2,Inter,Milan,N,AM,19,0,0,0,0,1,0,0,0,21,10,1,0,1,0.0,0.0,0.0,2,0,15,17,88.2,0,11,3,0,0,Match Report
+2019-2020,2020-02-12,Wed,Coppa Italia,Semi-finals,Home,L 0–1,Inter,Napoli,N,,25,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-16,Sun,Serie A,Matchweek 24,Away,L 1–2,Inter,Lazio,N,DM,14,0,0,0,0,1,1,0,0,12,5,1,0,0,0.0,0.0,0.2,1,0,5,10,50.0,1,9,1,0,0,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Away,W 2–0,it Inter,bg Ludogorets,Y,"CM,AM",90,1,0,0,0,3,2,0,0,92,25,1,1,4,0.2,0.2,0.3,7,0,63,78,80.8,6,62,6,0,1,Match Report
+2019-2020,2020-02-27,Thu,Europa Lg,Round of 32,Home,W 2–1,it Inter,bg Ludogorets,Y,CM,90,0,1,0,0,2,0,0,0,71,30,1,1,0,0.1,0.1,0.2,4,1,54,64,84.4,7,49,5,1,2,Match Report
+2019-2020,2020-03-08,Sun,Serie A,Matchweek 26,Away,L 0–2,Inter,Juventus,N,CM,32,0,0,0,0,1,0,0,0,21,7,0,1,0,0.0,0.0,0.0,0,0,12,17,70.6,1,13,1,1,1,Match Report
+2019-2020,2020-06-13,Sat,Coppa Italia,Semi-finals,Away,D 1–1,Inter,Napoli,Y,AM,87,1,0,0,0,5,5,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-21,Sun,Serie A,Matchweek 25,Home,W 2–1,Inter,Sampdoria,Y,AM,77,0,1,0,0,5,2,0,0,64,7,2,0,0,0.3,0.3,1.3,7,1,47,57,82.5,1,40,4,0,0,Match Report
+2019-2020,2020-06-24,Wed,Serie A,Matchweek 27,Home,D 3–3,Inter,Sassuolo,Y,AM,61,0,0,0,0,0,0,0,0,30,8,0,0,0,0.0,0.0,0.1,2,0,20,28,71.4,1,25,0,1,2,Match Report
+2019-2020,2020-06-28,Sun,Serie A,Matchweek 28,Away,W 2–1,Inter,Parma,Y,AM,68,0,0,0,0,3,0,0,0,40,7,1,0,0,0.3,0.3,0.1,3,0,29,36,80.6,5,22,5,1,1,Match Report
+2019-2020,2020-07-01,Wed,Serie A,Matchweek 29,Home,W 6–0,Inter,Brescia,N,AM,23,1,1,0,0,3,2,0,0,21,6,1,0,0,1.0,1.0,0.1,3,2,12,17,70.6,1,11,0,0,0,Match Report
+2019-2020,2020-07-05,Sun,Serie A,Matchweek 30,Home,L 1–2,Inter,Bologna,Y,AM,74,0,0,0,0,0,0,0,0,46,13,1,0,1,0.0,0.0,0.2,3,0,30,41,73.2,3,26,2,0,0,Match Report
+2019-2020,2020-07-09,Thu,Serie A,Matchweek 31,Away,D 2–2,Inter,Hellas Verona,N,AM,3,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,3,1,0,0,Match Report
+2019-2020,2020-07-13,Mon,Serie A,Matchweek 32,Home,W 3–1,Inter,Torino,N,"AM,FW",7,0,0,0,0,1,1,0,0,7,3,0,0,0,0.1,0.1,0.1,1,0,5,5,100.0,1,4,0,0,0,Match Report
+2019-2020,2020-07-16,Thu,Serie A,Matchweek 33,Away,W 4–0,Inter,SPAL,Y,AM,90,0,0,0,0,2,0,0,0,72,10,1,0,1,0.1,0.1,0.1,4,2,48,63,76.2,8,45,5,1,3,Match Report
+2019-2020,2020-07-19,Sun,Serie A,Matchweek 34,Away,D 2–2,Inter,Roma,N,AM,22,0,0,0,0,1,0,0,0,17,4,0,0,0,0.0,0.0,0.0,2,0,8,16,50.0,2,10,1,0,0,Match Report
+2019-2020,2020-07-22,Wed,Serie A,Matchweek 35,Home,D 0–0,Inter,Fiorentina,Y,AM,90,0,0,0,0,1,0,0,0,72,13,0,0,0,0.1,0.1,0.7,5,0,53,70,75.7,7,41,6,1,1,Match Report
+2019-2020,2020-07-25,Sat,Serie A,Matchweek 36,Away,W 3–0,Inter,Genoa,Y,AM,63,0,0,0,0,3,1,0,0,50,4,1,0,0,0.3,0.3,0.0,1,1,34,44,77.3,2,41,3,0,0,Match Report
+2019-2020,2020-07-28,Tue,Serie A,Matchweek 37,Home,W 2–0,Inter,Napoli,N,AM,2,0,0,0,0,1,1,0,0,1,0,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-08-01,Sat,Serie A,Matchweek 38,Away,W 2–0,Inter,Atalanta,N,AM,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,1,0,0,Match Report
+2019-2020,2020-08-05,Wed,Europa Lg,Round of 16,Neutral,W 2–0,it Inter,es Getafe,N,DM,9,1,0,0,0,1,1,0,0,6,6,0,0,0,0.2,0.2,0.0,0,0,3,4,75.0,1,4,0,0,0,Match Report
+2019-2020,2020-08-10,Mon,Europa Lg,Quarter-finals,Home,W 2–1,it Inter,de Leverkusen,N,CM,32,0,0,0,0,2,2,1,0,22,6,1,0,1,0.1,0.1,0.4,3,0,14,17,82.4,3,13,2,0,0,Match Report
+2019-2020,2020-08-17,Mon,Europa Lg,Semi-finals,Home,W 5–0,it Inter,ua Shakhtar,N,FW,10,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Match Report
+2019-2020,2020-08-21,Fri,Europa Lg,Final,Away,L 2–3,it Inter,es Sevilla,N,CM,13,0,0,0,0,0,0,0,0,12,2,1,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,7,1,0,0,Match Report

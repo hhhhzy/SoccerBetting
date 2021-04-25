@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-07-28,Thu,Europa Lg,Third qualifying round,Home,W 1–0,nl AZ Alkmaar,gr PAS Giannina,Y,AM,90,0,0,0,0,1,0,0,0,1,1,1,3,2,1,0,0,0,Match Report
+2016-2017,2016-08-04,Thu,Europa Lg,Third qualifying round,Away,W 2–1,nl AZ Alkmaar,gr PAS Giannina,Y,CM,90,0,0,0,0,1,0,0,0,3,0,0,2,2,2,0,0,0,Match Report
+2016-2017,2016-08-07,Sun,Dutch Eredivisie,Regular Season,Home,D 2–2,AZ Alkmaar,Heerenveen,Y,CM,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-14,Sun,Dutch Eredivisie,Regular Season,Away,L 0–1,AZ Alkmaar,PSV Eindhoven,Y,CM,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-18,Thu,Europa Lg,Play-off Round,Away,W 3–0,nl AZ Alkmaar,rs Vojvodina,Y,AM,90,0,1,0,0,0,0,1,0,2,4,0,2,0,0,0,0,0,Match Report
+2016-2017,2016-08-21,Sun,Dutch Eredivisie,Regular Season,Away,W 2–1,AZ Alkmaar,Utrecht,Y,CM,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-25,Thu,Europa Lg,Play-off Round,Home,D 0–0,nl AZ Alkmaar,rs Vojvodina,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-04,Sun,WCQ — UEFA (M),First round,Home,L 0–3,no Norway,de Germany,Y,FW,60,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Away,D 1–1,Hull City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-17,Sat,Premier League,Matchweek 5,Home,L 1–4,Hull City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-21,Wed,EFL Cup,Third round,Away,W 2–1,Hull City,Stoke City,Y,CM,90,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Premier League,Matchweek 6,Away,L 1–5,Hull City,Liverpool,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Premier League,Matchweek 7,Home,L 0–2,Hull City,Chelsea,Y,CM,71,0,0,0,0,1,0,0,0,4,2,0,1,1,0,0,0,0,Match Report
+2016-2017,2016-10-08,Sat,WCQ — UEFA (M),First round,Away,L 0–1,no Norway,az Azerbaijan,Y,FW,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-11,Tue,WCQ — UEFA (M),First round,Home,W 4–1,no Norway,sm San Marino,Y,FW,45,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-15,Sat,Premier League,Matchweek 8,Away,L 1–6,Hull City,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-10-25,Tue,EFL Cup,Fourth round,Away,W 2–1,Hull City,Bristol City,Y,LM,90,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,Premier League,Matchweek 10,Away,L 0–1,Hull City,Watford,Y,CM,89,0,0,0,0,0,0,0,0,1,3,0,2,1,1,0,0,0,Match Report
+2016-2017,2016-11-06,Sun,Premier League,Matchweek 11,Home,W 2–1,Hull City,Southampton,Y,CM,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,Match Report
+2016-2017,2016-11-11,Fri,WCQ — UEFA (M),First round,Away,L 1–2,no Norway,cz Czech Republic,Y,FW,60,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-11-19,Sat,Premier League,Matchweek 12,Away,L 0–3,Hull City,Sunderland,Y,AM,90,0,0,0,0,0,0,0,0,1,1,0,4,1,1,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Home,D 1–1,Hull City,West Brom,Y,AM,87,0,0,0,0,0,0,0,0,2,2,0,3,1,0,0,0,0,Match Report
+2016-2017,2016-11-29,Tue,EFL Cup,Quarter-finals,Home,D 1 (3)–1 (1),Hull City,Newcastle Utd,N,,42,0,0,0,0,2,1,0,0,1,0,0,2,0,1,0,0,0,Match Report
+2016-2017,2016-12-05,Mon,Premier League,Matchweek 14,Away,L 0–1,Hull City,Middlesbrough,Y,AM,80,0,0,0,0,0,0,0,0,2,1,1,0,2,0,0,0,0,Match Report
+2016-2017,2016-12-10,Sat,Premier League,Matchweek 15,Home,D 3–3,Hull City,Crystal Palace,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,L 0–3,Hull City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-17,Sat,Premier League,Matchweek 17,Away,L 0–1,Hull City,West Ham,N,,22,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Home,L 0–3,Hull City,Manchester City,N,,17,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,Match Report
+2016-2017,2016-12-30,Fri,Premier League,Matchweek 19,Home,D 2–2,Hull City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-02,Mon,Premier League,Matchweek 20,Away,L 1–3,Hull City,West Brom,N,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-07,Sat,FA Cup,Third round,Home,W 2–0,Hull City,Swansea City,Y,,62,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-10,Tue,EFL Cup,Semi-finals,Away,L 0–2,Hull City,Manchester Utd,Y,AM,18,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,Match Report
+2016-2017,2017-04-01,Sat,Premier League,Matchweek 30,Home,W 2–1,Hull City,West Ham,N,,11,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-04-05,Wed,Premier League,Matchweek 31,Home,W 4–2,Hull City,Middlesbrough,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Premier League,Matchweek 32,Away,L 1–3,Hull City,Manchester City,N,,33,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,Match Report
+2016-2017,2017-04-15,Sat,Premier League,Matchweek 33,Away,L 1–3,Hull City,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-22,Sat,Premier League,Matchweek 34,Home,W 2–0,Hull City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-29,Sat,Premier League,Matchweek 35,Away,D 0–0,Hull City,Southampton,N,,19,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2017-05-06,Sat,Premier League,Matchweek 36,Home,L 0–2,Hull City,Sunderland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,W 2–0,Watford,Brighton,Y,FW,73,0,0,0,0,2,1,0,0,20,18,0,0,0,0.1,0.1,0.1,2,0,9,12,75.0,1,17,2,0,0,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Away,W 3–1,Watford,Burnley,Y,FW,67,1,0,0,0,3,1,0,0,15,16,0,0,0,0.5,0.5,0.0,4,1,6,7,85.7,0,8,1,0,1,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,W 2–1,Watford,Crystal Palace,Y,FW,72,0,0,0,0,1,0,0,0,16,12,0,0,0,0.0,0.0,0.1,1,0,8,12,66.7,0,11,1,0,0,Match Report
+2018-2019,2018-08-29,Wed,EFL Cup,Second round,Away,W 2–0,Watford,Reading,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Home,W 2–1,Watford,Tottenham,Y,FW,69,0,0,0,0,1,0,0,0,24,8,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,0,17,0,0,1,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,L 1–2,Watford,Manchester Utd,Y,FW,90,1,0,0,0,2,1,0,0,35,16,0,2,1,0.2,0.2,0.1,3,0,17,20,85.0,1,24,0,1,2,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 1–1,Watford,Fulham,Y,FW,79,1,0,0,0,4,3,0,0,21,17,0,0,0,1.1,1.1,0.0,3,1,6,13,46.2,0,15,2,0,0,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Away,L 2 (2)–2 (4),Watford,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Watford,Arsenal,Y,FW,71,0,0,0,0,1,1,0,0,17,7,1,1,1,0.2,0.2,0.0,1,0,4,8,50.0,1,10,1,0,3,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,L 0–4,Watford,Bournemouth,Y,FW,54,0,0,0,0,2,0,0,0,16,8,0,0,0,0.2,0.2,0.0,1,0,8,11,72.7,0,14,3,1,3,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 2–0,Watford,Wolves,N,FW,22,0,0,0,0,0,0,0,0,13,1,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,11,2,0,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,W 3–0,Watford,Huddersfield,N,FW,8,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,0,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,L 0–1,Watford,Newcastle Utd,N,FW,25,0,0,0,0,0,0,1,0,7,1,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,D 1–1,Watford,Southampton,N,"FW,LW",23,0,0,0,0,2,0,0,0,9,6,0,0,0,0.3,0.3,0.0,2,0,7,7,100.0,0,5,0,0,0,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,L 0–3,Watford,Liverpool,N,"FW,RW",16,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,4,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,L 0–2,Watford,Leicester City,N,FW,36,0,0,0,0,2,0,0,0,15,2,0,0,0,0.2,0.2,0.0,0,0,8,11,72.7,1,12,0,1,1,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Home,L 1–2,Watford,Manchester City,N,RM,16,0,0,0,0,0,0,0,0,7,9,0,0,1,0.0,0.0,0.1,1,0,4,4,100.0,0,5,1,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,D 0–0,Watford,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Away,W 2–0,Watford,Newcastle Utd,Y,FW,67,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,D 0–0,Watford,Brighton,N,FW,21,0,0,0,0,0,0,0,0,9,5,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,9,1,0,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,W 1–0,Watford,Everton,N,FW,45,1,0,0,0,1,1,0,0,15,6,0,0,0,0.8,0.8,0.0,2,0,8,10,80.0,0,13,0,1,1,Match Report
+2018-2019,2019-02-15,Fri,FA Cup,Fifth round,Away,W 1–0,Watford,QPR,Y,FW,73,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Away,W 5–1,Watford,Cardiff City,N,FW,5,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,1,1,2,5,40.0,1,4,0,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–5,Watford,Liverpool,N,FW,18,0,0,0,0,2,2,0,0,4,2,0,0,0,0.4,0.4,0.0,0,0,1,1,100.0,0,2,1,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,W 2–1,Watford,Leicester City,N,FW,22,1,0,0,0,1,1,1,0,4,3,0,0,1,0.3,0.3,0.0,0,0,1,2,50.0,0,2,1,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 1–3,Watford,Manchester City,Y,"FW,LM",90,0,0,0,0,0,0,0,0,22,13,0,0,0,0.0,0.0,0.0,0,0,9,16,56.3,0,17,2,2,2,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Home,W 2–1,Watford,Crystal Palace,N,,14,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,L 1–2,Watford,Manchester Utd,N,FW,18,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Home,W 4–1,Watford,Fulham,N,FW,45,0,2,0,0,3,1,0,0,19,14,0,0,0,0.2,0.2,0.9,4,3,11,14,78.6,0,17,4,2,2,Match Report
+2018-2019,2019-04-07,Sun,FA Cup,Semi-finals,Home,W 3–2,Watford,Wolves,Y,FW,120,0,1,0,0,4,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-15,Mon,Premier League,Matchweek 34,Home,L 0–1,Watford,Arsenal,Y,FW,90,0,0,0,0,2,0,0,0,26,9,0,0,0,0.2,0.2,0.0,2,0,5,13,38.5,0,23,1,1,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,W 2–1,Watford,Huddersfield,Y,FW,71,0,0,0,0,1,0,0,0,18,3,1,0,0,0.1,0.1,0.0,1,0,6,9,66.7,2,12,0,0,0,Match Report
+2018-2019,2019-04-23,Tue,Premier League,Matchweek 31,Home,D 1–1,Watford,Southampton,Y,FW,90,1,0,0,0,4,2,0,0,23,3,0,0,1,0.6,0.6,0.1,2,0,7,12,58.3,1,11,1,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,L 1–2,Watford,Wolves,Y,FW,90,1,0,0,0,2,1,0,0,28,5,0,0,0,0.5,0.5,0.0,0,0,12,18,66.7,0,23,2,2,2,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Away,L 0–3,Watford,Chelsea,N,FW,8,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.1,2,0,3,3,100.0,1,3,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 1–4,Watford,West Ham,N,FW,32,0,0,0,0,1,0,0,0,9,4,1,0,0,0.1,0.1,0.0,1,0,1,4,25.0,0,8,0,0,0,Match Report
+2018-2019,2019-05-18,Sat,FA Cup,Final,Away,L 0–6,Watford,Manchester City,N,,25,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

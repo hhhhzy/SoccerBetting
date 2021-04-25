@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y,LB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,L 2 (4)–2 (5),West Brom,Brentford,Y,LB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,D 3–3,West Brom,Chelsea,Y,WB,90,0,0,0,0,0,0,0,0,39,14,0,2,2,0.0,0.0,0.0,0,0,21,33,63.6,5,20,3,1,1,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,63,12,3,1,1,0.0,0.0,0.0,0,0,36,51,70.6,4,36,2,2,3,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Home,D 0–0,West Brom,Burnley,Y,LB,90,0,0,0,0,1,1,0,0,74,13,2,0,1,0.0,0.0,0.1,2,0,53,66,80.3,7,42,2,0,0,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Away,D 1–1,West Brom,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,95,8,3,0,0,0.0,0.0,0.1,3,0,70,84,83.3,6,59,2,0,2,Match Report
+2020-2021,2020-11-02,Mon,Premier League,Matchweek 7,Away,L 0–2,West Brom,Fulham,Y,LB,90,0,0,0,0,1,0,0,0,92,12,1,0,2,0.0,0.0,0.0,0,0,68,79,86.1,11,60,7,0,1,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Home,L 0–1,West Brom,Tottenham,Y,WB,90,0,0,0,0,0,0,0,0,56,9,1,0,2,0.0,0.0,0.0,2,0,29,47,61.7,7,32,1,2,2,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,Y,WB,90,0,0,0,0,1,1,0,0,67,11,2,4,4,0.3,0.3,0.0,0,0,43,53,81.1,7,43,6,1,1,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,Y,WB,74,0,0,0,0,0,0,0,0,44,9,2,0,1,0.0,0.0,0.0,1,0,28,37,75.7,4,17,1,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 0–5,West Brom,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,D 2–2,West Brom,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,Sheffield Utd,Y,LB,90,0,0,0,0,0,0,0,0,49,4,2,3,0,0.0,0.0,0.0,1,0,26,35,74.3,6,25,2,0,2,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,L 0–2,West Brom,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,65,11,3,3,1,0.0,0.0,0.2,2,0,41,54,75.9,6,31,3,0,0,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,D 1–1,West Brom,Manchester Utd,Y,LB,90,0,0,0,0,0,0,0,0,41,12,3,3,0,0.0,0.0,0.1,2,0,21,29,72.4,2,13,0,0,0,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,D 0–0,West Brom,Burnley,Y,LB,90,0,0,0,0,1,0,0,0,57,2,1,1,2,0.0,0.0,0.0,0,0,31,45,68.9,2,25,1,1,2,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 1–0,West Brom,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,46,8,0,2,1,0.0,0.0,0.0,0,0,27,40,67.5,4,21,1,1,1,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,West Brom,Everton,Y,LB,90,0,0,0,0,0,0,0,0,67,7,1,4,4,0.0,0.0,0.0,1,0,49,59,83.1,5,47,10,0,2,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,D 0–0,West Brom,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,78,20,4,4,2,0.0,0.0,0.5,5,0,44,62,71.0,8,35,4,1,1,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,L 0–1,West Brom,Crystal Palace,Y,LB,90,0,0,0,0,2,0,0,0,73,20,2,0,1,0.1,0.1,0.1,3,0,48,61,78.7,4,29,6,0,0,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 5–2,West Brom,Chelsea,Y,"LB,WB",90,0,0,0,0,1,0,0,0,52,8,1,2,1,0.1,0.1,0.0,2,2,31,46,67.4,1,29,2,0,2,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Home,W 3–0,West Brom,Southampton,Y,LB,90,0,0,0,0,1,1,0,0,56,16,4,2,2,0.1,0.1,0.1,2,0,30,38,78.9,7,19,2,1,1,Match Report
+2020-2021,2021-04-22,Thu,Premier League,Matchweek 32,Away,L 0–3,West Brom,Leicester City,Y,"LB,WB",90,0,0,0,0,0,0,0,0,34,6,1,0,3,0.0,0.0,0.0,0,0,21,28,75.0,1,15,0,0,0,Match Report

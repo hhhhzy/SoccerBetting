@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,L 0–2,Fulham,Crystal Palace,Y*,"CM,LW,AM",90,0,0,0,0,1,0,0,0,101,10,0,0,3,0.0,0.0,0.0,3,0,86,90,95.6,7,85,8,1,1,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–3,Fulham,Tottenham,Y*,CM,72,0,0,0,0,2,1,0,0,56,10,1,0,0,0.1,0.1,0.1,3,0,42,47,89.4,3,47,3,1,2,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,W 4–2,Fulham,Burnley,Y*,CM,77,0,1,0,0,0,0,0,0,66,4,0,0,3,0.0,0.0,0.5,5,2,57,60,95.0,10,59,4,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–3,Fulham,Everton,N,AM,27,0,0,0,0,0,0,0,0,28,4,1,0,0,0.0,0.0,0.0,1,0,21,24,87.5,0,22,3,1,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,L 0–3,Fulham,Bournemouth,N,"DM,CM",31,0,0,0,0,0,0,0,0,30,3,0,0,0,0.0,0.0,0.0,1,0,27,29,93.1,2,28,5,0,0,Match Report
+2018-2019,2018-11-01,Thu,EFL Cup,Fourth round,Away,L 0–2,Fulham,Manchester City,Y*,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-05,Mon,Premier League,Matchweek 11,Away,L 0–1,Fulham,Huddersfield,Y*,DM,90,0,0,0,0,0,0,0,0,68,9,1,0,2,0.0,0.0,0.1,4,0,53,61,86.9,2,64,3,4,4,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,L 0–2,Fulham,Liverpool,Y*,AM,62,0,0,0,0,0,0,0,0,30,9,0,0,0,0.0,0.0,0.2,4,0,20,23,87.0,3,22,1,1,2,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,W 3–2,Fulham,Southampton,Y*,AM,90,0,0,0,0,0,0,0,0,45,37,2,0,0,0.0,0.0,0.1,5,1,30,38,78.9,2,31,4,0,0,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Away,L 0–2,Fulham,Chelsea,Y*,AM,75,0,0,0,0,0,0,0,0,39,5,1,2,0,0.0,0.0,0.2,3,0,32,35,91.4,0,34,4,2,2,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 1–1,Fulham,Leicester City,N,AM,45,0,0,0,0,2,1,0,0,35,12,0,2,0,0.1,0.1,0.4,3,0,24,29,82.8,2,30,4,1,1,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 1–4,Fulham,Manchester Utd,Y*,AM,45,0,0,0,0,0,0,0,0,40,8,1,0,1,0.0,0.0,0.1,2,0,25,31,80.6,2,26,2,0,1,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,L 0–2,Fulham,West Ham,Y*,RW,90,0,0,0,0,3,0,0,0,81,6,1,1,1,0.0,0.0,0.0,3,0,64,73,87.7,4,76,11,3,4,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,D 0–0,Fulham,Newcastle Utd,Y*,RW,81,0,0,0,0,0,0,0,0,55,5,0,1,1,0.0,0.0,0.0,0,0,38,43,88.4,4,48,7,4,5,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,D 1–1,Fulham,Wolves,N,RW,18,0,0,0,0,0,0,0,0,10,5,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,1,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,W 1–0,Fulham,Huddersfield,Y*,"FW,CM",90,0,0,0,0,1,0,0,0,63,17,1,0,0,0.1,0.1,0.0,1,1,50,59,84.7,3,49,4,0,0,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Away,L 1–4,Fulham,Arsenal,Y*,CM,90,0,0,0,0,0,0,0,0,60,28,0,0,1,0.0,0.0,0.1,3,0,46,52,88.5,5,50,7,1,3,Match Report
+2018-2019,2019-01-06,Sun,FA Cup,Third round,Home,L 1–2,Fulham,Oldham Athletic,Y*,CM,83,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,L 1–2,Fulham,Burnley,N,AM,30,0,0,0,0,0,0,0,0,26,4,0,0,0,0.0,0.0,0.0,1,0,25,26,96.2,4,23,6,0,0,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Home,L 1–2,Fulham,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 4–2,Fulham,Brighton,N,"CM,CB",64,0,0,0,0,3,0,0,0,60,6,0,0,1,0.2,0.2,0.0,4,2,54,55,98.2,3,54,12,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–2,Fulham,Crystal Palace,Y*,"RW,AM",90,0,0,0,0,1,0,0,0,68,19,2,1,1,0.0,0.0,0.0,1,0,55,59,93.2,4,66,8,4,5,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 0–3,Fulham,Manchester Utd,N,AM,14,0,0,0,0,1,0,0,0,18,4,1,0,2,0.0,0.0,0.0,0,0,10,12,83.3,0,13,2,0,0,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Away,L 1–3,Fulham,West Ham,Y*,RW,90,0,0,0,0,2,1,0,0,68,15,1,1,4,0.1,0.1,0.1,3,0,44,52,84.6,8,61,8,2,4,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Fulham,Southampton,Y*,AM,68,0,0,0,0,0,0,0,0,55,12,2,0,0,0.0,0.0,0.0,2,0,42,47,89.4,1,46,2,3,4,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,L 1–2,Fulham,Chelsea,Y*,AM,79,0,0,0,0,3,1,0,0,57,20,2,1,1,0.1,0.1,0.1,3,0,38,43,88.4,4,46,3,3,4,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 1–3,Fulham,Leicester City,Y*,"CM,DM",90,0,0,0,0,1,0,0,0,68,14,2,0,0,0.0,0.0,0.0,2,0,54,57,94.7,2,56,2,2,2,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Home,L 1–2,Fulham,Liverpool,Y*,CM,81,0,0,0,0,1,0,0,0,47,26,0,0,0,0.0,0.0,0.0,1,0,32,40,80.0,1,33,1,1,2,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–2,Fulham,Manchester City,Y*,DM,69,0,0,0,0,0,0,0,0,42,10,0,1,2,0.0,0.0,0.0,1,0,29,36,80.6,0,35,0,1,1,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–4,Fulham,Watford,Y*,CM,86,0,0,0,0,0,0,0,0,74,16,6,0,2,0.0,0.0,0.1,5,0,60,63,95.2,9,63,2,3,4,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–0,Fulham,Everton,Y*,AM,90,1,0,0,0,1,1,0,0,44,29,3,2,2,0.1,0.1,0.3,3,0,24,29,82.8,4,35,3,1,2,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,W 1–0,Fulham,Cardiff City,Y*,AM,90,0,0,0,0,0,0,0,0,79,11,3,1,0,0.0,0.0,0.3,2,0,55,65,84.6,10,56,10,0,1,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–1,Fulham,Wolves,Y*,CM,90,0,0,0,0,1,0,0,0,59,28,3,1,0,0.1,0.1,0.0,0,0,47,50,94.0,3,48,8,3,3,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–4,Fulham,Newcastle Utd,Y*,"AM,DM",90,0,0,0,0,1,0,0,0,85,21,3,1,0,0.1,0.1,0.1,3,0,70,79,88.6,12,65,15,2,3,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 2–1,sco Scotland,cy Cyprus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

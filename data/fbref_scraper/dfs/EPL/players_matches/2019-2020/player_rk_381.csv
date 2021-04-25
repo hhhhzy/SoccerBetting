@@ -1,0 +1,53 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,Chelsea,Y,LW,85,2,0,1,1,2,1,0,0,42,23,2,0,1,1.2,0.4,0.0,1,1,14,23,60.9,3,37,6,3,6,Match Report
+2019-2020,2019-08-19,Mon,Premier League,Matchweek 2,Away,D 1–1,Manchester Utd,Wolves,Y,LW,88,0,1,0,0,2,0,0,0,47,26,1,0,1,0.1,0.1,0.3,4,1,32,40,80.0,5,32,5,1,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–2,Manchester Utd,Crystal Palace,Y,"LW,FW",90,0,0,0,1,3,1,0,0,52,7,0,0,1,0.9,0.2,0.1,5,1,24,39,61.5,5,44,5,2,4,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 1–1,Manchester Utd,Southampton,Y,FW,90,0,0,0,0,5,2,0,0,40,18,0,0,0,0.8,0.8,0.1,3,0,14,20,70.0,1,30,0,3,8,Match Report
+2019-2020,2019-09-07,Sat,Euro Qualifying,Group stage,Home,W 4–0,eng England,bg Bulgaria,Y,FW,90,0,0,0,0,5,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Euro Qualifying,Group stage,Home,W 5–3,eng England,xk Kosovo,N,,6,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 1–0,Manchester Utd,Leicester City,Y,FW,90,1,0,1,1,1,0,0,0,31,17,0,0,0,0.8,0.0,0.0,2,1,11,17,64.7,1,27,2,4,5,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Home,W 1–0,eng Manchester Utd,kz Astana FK,Y,FW,90,0,0,0,0,6,3,0,0,46,13,2,0,1,1.2,1.2,0.1,3,0,23,29,79.3,4,33,5,2,4,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 0–2,Manchester Utd,West Ham,Y,FW,60,0,0,0,0,0,0,0,0,22,14,0,0,0,0.0,0.0,0.0,1,0,13,19,68.4,0,16,1,3,4,Match Report
+2019-2020,2019-09-30,Mon,Premier League,Matchweek 7,Home,D 1–1,Manchester Utd,Arsenal,Y,FW,90,0,1,0,0,3,1,1,0,35,16,1,0,1,0.3,0.3,0.1,2,1,16,23,69.6,1,20,2,0,1,Match Report
+2019-2020,2019-10-03,Thu,Europa Lg,Group stage,Away,D 0–0,eng Manchester Utd,nl AZ Alkmaar,N,FW,28,0,0,0,0,1,0,0,0,6,6,0,0,0,0.1,0.1,0.0,1,0,3,3,100.0,0,3,1,0,2,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Away,L 0–1,Manchester Utd,Newcastle Utd,Y,FW,90,0,0,0,0,0,0,0,0,24,7,0,0,1,0.0,0.0,0.0,3,0,14,20,70.0,1,18,4,0,1,Match Report
+2019-2020,2019-10-11,Fri,Euro Qualifying,Group stage,Away,L 1–2,eng England,cz Czech Republic,N,,18,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-14,Mon,Euro Qualifying,Group stage,Away,W 6–0,eng England,bg Bulgaria,Y,FW,75,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-20,Sun,Premier League,Matchweek 9,Home,D 1–1,Manchester Utd,Liverpool,Y,FW,83,1,0,0,0,2,1,0,0,23,16,0,0,0,0.6,0.6,0.0,3,0,11,15,73.3,3,21,4,4,7,Match Report
+2019-2020,2019-10-24,Thu,Europa Lg,Group stage,Away,W 1–0,eng Manchester Utd,rs Partizan,N,LW,31,0,0,0,0,0,0,0,0,22,7,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,2,17,2,2,2,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,W 3–1,Manchester Utd,Norwich City,Y,LW,90,1,1,0,1,5,3,0,0,64,8,1,1,0,1.5,0.7,0.8,4,1,36,43,83.7,4,51,9,3,6,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Away,W 2–1,Manchester Utd,Chelsea,Y,FW,79,2,0,1,1,2,2,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 0–1,Manchester Utd,Bournemouth,Y,LW,90,0,0,0,0,1,0,0,0,31,7,0,0,2,0.0,0.0,0.1,2,0,21,26,80.8,4,26,6,4,4,Match Report
+2019-2020,2019-11-07,Thu,Europa Lg,Group stage,Home,W 3–0,eng Manchester Utd,rs Partizan,Y,LW,66,1,1,0,0,6,4,0,0,54,8,0,1,2,1.1,1.1,0.5,5,1,35,40,87.5,8,38,10,4,6,Match Report
+2019-2020,2019-11-10,Sun,Premier League,Matchweek 12,Home,W 3–1,Manchester Utd,Brighton,Y,LW,89,1,0,0,0,7,3,1,0,51,10,1,3,0,1.2,1.2,0.4,5,0,23,27,85.2,8,35,10,2,5,Match Report
+2019-2020,2019-11-14,Thu,Euro Qualifying,Group stage,Home,W 7–0,eng England,me Montenegro,Y,FW,90,1,0,0,0,4,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-17,Sun,Euro Qualifying,Group stage,Away,W 4–0,eng England,xk Kosovo,N,,32,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Premier League,Matchweek 13,Away,D 3–3,Manchester Utd,Sheffield Utd,Y,"AM,LW,FW",90,1,1,0,0,3,1,0,0,39,14,1,0,0,0.5,0.5,0.5,3,1,19,23,82.6,2,31,3,3,5,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,D 2–2,Manchester Utd,Aston Villa,Y,"LW,AM",90,0,0,0,0,2,0,0,0,54,18,2,0,0,0.4,0.4,0.1,4,1,32,40,80.0,7,40,7,2,6,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Manchester Utd,Tottenham,Y,"LW,FW",90,2,0,1,1,5,3,0,0,52,11,0,1,2,1.0,0.3,0.0,3,2,22,30,73.3,4,40,11,4,11,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,W 2–1,Manchester Utd,Manchester City,Y,LW,90,1,0,1,1,2,0,0,0,27,27,0,0,1,1.0,0.2,0.1,4,2,14,18,77.8,5,19,5,2,4,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Home,W 4–0,eng Manchester Utd,nl AZ Alkmaar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Home,D 1–1,Manchester Utd,Everton,Y,"LW,FW",90,0,0,0,0,6,3,0,0,45,11,0,0,0,0.4,0.4,0.0,2,0,17,25,68.0,5,36,5,4,9,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Home,W 3–0,Manchester Utd,Colchester Utd,Y,AM,61,1,1,0,0,7,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Away,L 0–2,Manchester Utd,Watford,Y,LW,90,0,0,0,0,2,2,0,0,46,12,0,0,0,0.3,0.3,0.1,7,0,30,39,76.9,2,31,4,3,4,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,LW,62,1,0,0,0,4,1,0,0,48,7,0,1,0,0.2,0.2,0.0,3,0,27,34,79.4,3,30,3,0,1,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,W 2–0,Manchester Utd,Burnley,Y,LW,90,1,0,0,0,5,2,0,0,43,5,0,0,1,0.8,0.8,0.0,2,1,23,30,76.7,3,31,8,4,6,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–2,Manchester Utd,Arsenal,Y,"LW,FW",90,0,0,0,0,3,2,0,0,31,20,0,0,0,0.3,0.3,0.0,1,0,15,21,71.4,1,23,6,1,2,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Away,D 0–0,Manchester Utd,Wolves,N,,21,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-07,Tue,EFL Cup,Semi-finals,Home,L 1–3,Manchester Utd,Manchester City,Y*,AM,90,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,W 4–0,Manchester Utd,Norwich City,Y,LW,58,2,0,1,1,2,2,0,0,43,5,1,0,0,1.2,0.4,0.0,1,1,24,33,72.7,5,39,3,4,6,Match Report
+2019-2020,2020-01-15,Wed,FA Cup,Third round,Home,W 1–0,Manchester Utd,Wolves,N,,16,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Away,D 1–1,Manchester Utd,Tottenham,Y,LW,90,0,0,0,0,2,1,0,0,42,9,0,0,1,0.3,0.3,0.0,2,0,21,31,67.7,3,31,3,0,1,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 3–0,Manchester Utd,Sheffield Utd,Y,LW,79,0,2,0,0,2,1,0,0,56,2,0,0,1,0.7,0.7,0.7,5,2,42,48,87.5,7,40,6,3,4,Match Report
+2019-2020,2020-06-27,Sat,FA Cup,Quarter-finals,Away,W 2–1,Manchester Utd,Norwich City,N,,58,0,0,0,0,5,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-30,Tue,Premier League,Matchweek 32,Away,W 3–0,Manchester Utd,Brighton,Y,"LW,RW",77,0,0,0,0,1,0,0,0,64,17,0,1,1,0.0,0.0,0.0,2,1,45,54,83.3,10,48,5,3,4,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 5–2,Manchester Utd,Bournemouth,Y,LW,79,1,0,1,1,2,1,0,0,42,6,1,0,0,0.8,0.1,0.4,5,1,24,34,70.6,7,33,7,2,2,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Away,W 3–0,Manchester Utd,Aston Villa,Y,LW,90,0,0,0,0,3,1,0,0,70,6,0,0,3,0.5,0.5,0.4,2,0,49,59,83.1,7,55,9,1,1,Match Report
+2019-2020,2020-07-13,Mon,Premier League,Matchweek 35,Home,D 2–2,Manchester Utd,Southampton,Y,LW,90,1,0,0,0,3,1,0,0,52,6,1,0,2,0.6,0.6,0.0,1,0,31,39,79.5,5,31,9,1,1,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,W 2–0,Manchester Utd,Crystal Palace,Y,LW,90,1,1,0,0,3,3,0,0,71,10,0,1,4,0.5,0.5,0.3,9,2,42,50,84.0,10,43,7,2,5,Match Report
+2019-2020,2020-07-19,Sun,FA Cup,Semi-finals,Neutral,L 1–3,Manchester Utd,Chelsea,Y,FW,78,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Home,D 1–1,Manchester Utd,West Ham,Y,LW,84,0,0,0,0,1,1,1,0,53,14,0,0,1,0.0,0.0,0.0,1,0,30,39,76.9,4,39,8,4,6,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 2–0,Manchester Utd,Leicester City,Y,LW,89,0,0,0,0,2,1,0,0,38,9,0,0,2,0.1,0.1,0.1,1,0,22,29,75.9,5,22,2,0,2,Match Report
+2019-2020,2020-08-05,Wed,Europa Lg,Round of 16,Home,W 2–1,eng Manchester Utd,at LASK,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-08-10,Mon,Europa Lg,Quarter-finals,Home,W 1–0,eng Manchester Utd,dk FC Copenhagen,Y,LW,112,0,0,0,0,4,1,0,0,73,15,0,0,1,0.3,0.3,0.2,5,0,47,59,79.7,6,61,8,6,7,Match Report
+2019-2020,2020-08-16,Sun,Europa Lg,Semi-finals,Away,L 1–2,eng Manchester Utd,es Sevilla,Y,LW,86,0,0,0,0,5,1,1,0,43,9,0,0,0,0.5,0.5,0.0,4,2,24,29,82.8,7,32,4,3,6,Match Report

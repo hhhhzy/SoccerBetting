@@ -1,0 +1,52 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-08-08,Sat,Premier League,Matchweek 1,Away,D 2–2,Swansea City,Chelsea,Y,AM,90,0,0,0,0,3,1,0,0,1,1,0,0,2,0,0,,,Match Report
+2015-2016,2015-08-15,Sat,Premier League,Matchweek 2,Home,W 2–0,Swansea City,Newcastle Utd,Y,AM,85,0,0,0,0,5,1,0,0,0,2,0,0,3,0,0,,,Match Report
+2015-2016,2015-08-22,Sat,Premier League,Matchweek 3,Away,D 1–1,Swansea City,Sunderland,Y,AM,90,0,0,0,0,4,2,1,0,1,0,0,3,0,1,0,,,Match Report
+2015-2016,2015-08-30,Sun,Premier League,Matchweek 4,Home,W 2–1,Swansea City,Manchester Utd,Y,AM,90,0,1,0,0,1,0,0,0,0,0,0,2,1,1,0,,,Match Report
+2015-2016,2015-09-03,Thu,Euro Qualifying,Group stage,Away,W 1–0,is Iceland,nl Netherlands,Y,CM,90,1,0,1,1,3,2,0,0,0,0,0,3,1,1,0,0,0,Match Report
+2015-2016,2015-09-06,Sun,Euro Qualifying,Group stage,Home,D 0–0,is Iceland,kz Kazakhstan,Y,CM,90,0,0,0,0,5,1,0,0,0,0,0,4,0,2,0,0,0,Match Report
+2015-2016,2015-09-12,Sat,Premier League,Matchweek 5,Away,L 0–1,Swansea City,Watford,Y,AM,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+2015-2016,2015-09-19,Sat,Premier League,Matchweek 6,Home,D 0–0,Swansea City,Everton,Y,AM,60,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,,,Match Report
+2015-2016,2015-09-22,Tue,League Cup,Third round,Away,L 0–1,Swansea City,Hull City,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-09-26,Sat,Premier League,Matchweek 7,Away,L 1–3,Swansea City,Southampton,Y,FW,90,1,0,1,1,3,1,0,0,1,3,0,0,0,0,0,,,Match Report
+2015-2016,2015-10-04,Sun,Premier League,Matchweek 8,Home,D 2–2,Swansea City,Tottenham,Y,AM,74,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,,,Match Report
+2015-2016,2015-10-10,Sat,Euro Qualifying,Group stage,Home,D 2–2,is Iceland,lv Latvia,Y,CM,90,1,1,0,0,3,2,0,0,1,3,0,7,2,2,0,0,0,Match Report
+2015-2016,2015-10-13,Tue,Euro Qualifying,Group stage,Away,L 0–1,is Iceland,tr Turkey,Y,CM,90,0,0,0,0,3,0,0,0,1,2,0,4,1,2,0,0,0,Match Report
+2015-2016,2015-10-19,Mon,Premier League,Matchweek 9,Home,L 0–1,Swansea City,Stoke City,N,,32,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+2015-2016,2015-10-24,Sat,Premier League,Matchweek 10,Away,W 2–1,Swansea City,Aston Villa,Y,AM,90,1,0,0,0,2,1,1,0,2,1,0,0,0,2,0,,,Match Report
+2015-2016,2015-10-31,Sat,Premier League,Matchweek 11,Home,L 0–3,Swansea City,Arsenal,Y,AM,90,0,0,0,0,4,1,0,0,1,0,0,0,1,0,0,,,Match Report
+2015-2016,2015-11-07,Sat,Premier League,Matchweek 12,Away,L 0–1,Swansea City,Norwich City,Y,AM,77,0,0,0,0,1,0,0,0,0,0,1,2,1,0,0,,,Match Report
+2015-2016,2015-11-13,Fri,Friendlies (M),Friendlies (M),Away,L 2–4,is Iceland,pl Poland,Y,,90,1,0,1,1,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-11-17,Tue,Friendlies (M),Friendlies (M),Away,L 1–3,is Iceland,sk Slovakia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-11-21,Sat,Premier League,Matchweek 13,Home,D 2–2,Swansea City,Bournemouth,N,,21,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+2015-2016,2015-11-29,Sun,Premier League,Matchweek 14,Away,L 0–1,Swansea City,Liverpool,Y,AM,90,0,0,0,0,0,0,0,0,0,1,0,7,1,0,0,,,Match Report
+2015-2016,2015-12-05,Sat,Premier League,Matchweek 15,Home,L 0–3,Swansea City,Leicester City,Y,AM,90,0,0,0,0,3,0,0,0,0,1,1,8,1,1,0,,,Match Report
+2015-2016,2015-12-12,Sat,Premier League,Matchweek 16,Away,L 1–2,Swansea City,Manchester City,Y,AM,90,0,0,0,0,5,4,0,0,1,0,1,9,2,0,0,,,Match Report
+2015-2016,2015-12-20,Sun,Premier League,Matchweek 17,Home,D 0–0,Swansea City,West Ham,Y,FW,90,0,0,0,0,5,0,0,0,2,0,0,11,0,0,0,,,Match Report
+2015-2016,2015-12-26,Sat,Premier League,Matchweek 18,Home,W 1–0,Swansea City,West Brom,Y,AM,90,0,0,0,0,1,1,0,0,2,1,0,0,0,2,0,,,Match Report
+2015-2016,2015-12-28,Mon,Premier League,Matchweek 19,Away,D 0–0,Swansea City,Crystal Palace,N,,35,0,0,0,0,2,2,0,0,1,0,0,5,0,0,0,,,Match Report
+2015-2016,2016-01-02,Sat,Premier League,Matchweek 20,Away,L 1–2,Swansea City,Manchester Utd,Y,FW,90,1,0,0,0,3,1,0,0,0,3,0,4,1,3,0,,,Match Report
+2015-2016,2016-01-13,Wed,Premier League,Matchweek 21,Home,L 2–4,Swansea City,Sunderland,Y,AM,90,1,0,1,1,3,2,0,0,0,0,0,12,1,1,0,,,Match Report
+2015-2016,2016-01-18,Mon,Premier League,Matchweek 22,Home,W 1–0,Swansea City,Watford,Y,FW,90,0,0,0,0,0,0,1,0,0,1,1,7,1,1,0,,,Match Report
+2015-2016,2016-01-24,Sun,Premier League,Matchweek 23,Away,W 2–1,Swansea City,Everton,Y,AM,90,1,0,1,1,2,2,1,0,1,0,0,3,2,2,0,,,Match Report
+2015-2016,2016-02-02,Tue,Premier League,Matchweek 24,Away,D 1–1,Swansea City,West Brom,Y,AM,90,1,0,0,0,5,2,0,0,1,1,0,5,0,1,0,,,Match Report
+2015-2016,2016-02-06,Sat,Premier League,Matchweek 25,Home,D 1–1,Swansea City,Crystal Palace,Y,AM,90,1,0,0,0,4,2,0,0,1,2,0,10,2,0,0,,,Match Report
+2015-2016,2016-02-13,Sat,Premier League,Matchweek 26,Home,L 0–1,Swansea City,Southampton,Y,FW,90,0,0,0,0,3,0,0,0,1,1,0,9,0,1,0,,,Match Report
+2015-2016,2016-02-28,Sun,Premier League,Matchweek 27,Away,L 1–2,Swansea City,Tottenham,Y,AM,90,0,0,0,0,3,1,0,0,1,1,0,9,1,2,0,,,Match Report
+2015-2016,2016-03-02,Wed,Premier League,Matchweek 28,Away,W 2–1,Swansea City,Arsenal,N,,45,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,,,Match Report
+2015-2016,2016-03-05,Sat,Premier League,Matchweek 29,Home,W 1–0,Swansea City,Norwich City,Y,AM,90,1,0,0,0,4,2,0,0,1,0,0,8,2,1,0,,,Match Report
+2015-2016,2016-03-12,Sat,Premier League,Matchweek 30,Away,L 2–3,Swansea City,Bournemouth,Y,LM,90,1,0,0,0,2,1,0,0,0,0,0,8,3,1,0,,,Match Report
+2015-2016,2016-03-19,Sat,Premier League,Matchweek 31,Home,W 1–0,Swansea City,Aston Villa,Y,AM,90,0,1,0,0,3,0,1,0,2,1,0,7,2,1,0,,,Match Report
+2015-2016,2016-03-24,Thu,Friendlies (M),Friendlies (M),Away,L 1–2,is Iceland,dk Denmark,Y,,80,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-03-29,Tue,Friendlies (M),Friendlies (M),Away,W 3–2,is Iceland,gr Greece,N,,45,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-04-02,Sat,Premier League,Matchweek 32,Away,D 2–2,Swansea City,Stoke City,Y,LM,90,1,0,0,0,2,1,0,0,1,1,0,7,0,3,0,,,Match Report
+2015-2016,2016-04-09,Sat,Premier League,Matchweek 33,Home,W 1–0,Swansea City,Chelsea,Y,LM,90,1,0,0,0,3,2,0,0,0,1,0,3,2,0,0,,,Match Report
+2015-2016,2016-04-16,Sat,Premier League,Matchweek 34,Away,L 0–3,Swansea City,Newcastle Utd,Y,AM,90,0,0,0,0,1,0,0,0,2,0,0,8,0,1,0,,,Match Report
+2015-2016,2016-04-24,Sun,Premier League,Matchweek 35,Away,L 0–4,Swansea City,Leicester City,Y,FW,75,0,0,0,0,2,0,0,0,1,0,0,8,0,0,0,,,Match Report
+2015-2016,2016-05-01,Sun,Premier League,Matchweek 36,Home,W 3–1,Swansea City,Liverpool,Y,AM,90,0,1,0,0,4,2,0,0,1,1,0,6,2,1,0,,,Match Report
+2015-2016,2016-06-01,Wed,Friendlies (M),Friendlies (M),Away,L 2–3,is Iceland,no Norway,Y,,90,1,0,1,1,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-06,Mon,Friendlies (M),Friendlies (M),Home,W 4–0,is Iceland,li Liechtenstein,Y,,53,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-14,Tue,UEFA Euro,Group stage,Away,D 1–1,is Iceland,pt Portugal,Y,CM,90,0,0,0,0,2,2,0,0,1,2,0,1,4,4,0,0,0,Match Report
+2015-2016,2016-06-18,Sat,UEFA Euro,Group stage,Home,D 1–1,is Iceland,hu Hungary,Y,CM,90,1,0,1,1,3,1,0,0,2,2,0,1,2,1,0,0,0,Match Report
+2015-2016,2016-06-22,Wed,UEFA Euro,Group stage,Home,W 2–1,is Iceland,at Austria,Y,CM,90,0,0,0,0,3,1,0,0,1,0,0,1,1,1,0,0,0,Match Report
+2015-2016,2016-06-27,Mon,UEFA Euro,Round of 16,Away,W 2–1,is Iceland,eng England,Y,CM,90,0,0,0,0,1,1,1,0,1,0,0,2,3,5,0,0,0,Match Report

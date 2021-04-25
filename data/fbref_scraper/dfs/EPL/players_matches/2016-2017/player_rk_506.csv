@@ -1,0 +1,49 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Away,D 1–1,Watford,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Home,L 1–2,Watford,Chelsea,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-23,Tue,EFL Cup,Second round,Home,L 1–2,Watford,Gillingham,Y,FW,65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-31,Wed,Friendlies (M),Friendlies (M),Home,W 3–0,cz Czech Republic,am Armenia,N,,38,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-04,Sun,WCQ — UEFA (M),First round,Home,D 0–0,cz Czech Republic,nir Northern Ireland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-10,Sat,Championship,Matchweek 6,Home,L 0–2,Derby County,Newcastle Utd,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-13,Tue,Championship,Matchweek 7,Home,L 0–1,Derby County,Ipswich Town,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-17,Sat,Championship,Matchweek 8,Away,D 1–1,Derby County,Bristol City,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Championship,Matchweek 9,Home,L 1–2,Derby County,Blackburn,Y,FW,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-27,Tue,Championship,Matchweek 10,Away,W 2–0,Derby County,Cardiff City,Y,FW,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Championship,Matchweek 11,Away,D 1–1,Derby County,Reading,Y,FW,85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-08,Sat,WCQ — UEFA (M),First round,Away,L 0–3,cz Czech Republic,de Germany,Y,FW,75,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-11,Tue,WCQ — UEFA (M),First round,Home,D 0–0,cz Czech Republic,az Azerbaijan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-10-15,Sat,Championship,Matchweek 12,Home,W 1–0,Derby County,Leeds United,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-18,Tue,Championship,Matchweek 13,Home,D 0–0,Derby County,Brentford,Y,FW,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-22,Sat,Championship,Matchweek 14,Away,L 0–1,Derby County,Huddersfield,Y,FW,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,Championship,Matchweek 15,Home,W 2–0,Derby County,Sheffield Weds,N,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-05,Sat,Championship,Matchweek 16,Away,W 3–2,Derby County,Wolves,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-19,Sat,Championship,Matchweek 17,Home,W 3–0,Derby County,Rotherham Utd,N,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Championship,Matchweek 18,Home,W 1–0,Derby County,Norwich City,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Championship,Matchweek 19,Away,W 1–0,Derby County,Wigan Athletic,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-11,Sun,Championship,Matchweek 20,Home,W 3–0,Derby County,Nott'ham Forest,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Championship,Matchweek 21,Away,W 1–0,Derby County,QPR,N,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,Championship,Matchweek 22,Away,D 2–2,Derby County,Fulham,Y,FW,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-27,Tue,Championship,Matchweek 23,Home,W 1–0,Derby County,Birmingham City,N,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-31,Sat,Championship,Matchweek 24,Home,D 0–0,Derby County,Wigan Athletic,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-02,Mon,Championship,Matchweek 25,Away,L 0–3,Derby County,Norwich City,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-07,Sat,FA Cup,Third round,Away,W 2–1,Derby County,West Brom,N,,5,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-13,Fri,Championship,Matchweek 26,Away,L 0–1,Derby County,Leeds United,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-21,Sat,Championship,Matchweek 27,Home,W 3–2,Derby County,Reading,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-27,Fri,FA Cup,Fourth round,Home,D 2–2,Derby County,Leicester City,N,,7,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-31,Tue,Championship,Matchweek 29,Away,W 3–0,Derby County,Ipswich Town,N,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-04,Sat,Championship,Matchweek 30,Away,L 0–1,Derby County,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-02-08,Wed,FA Cup,Fourth round,Away,L 1–3,Derby County,Leicester City,N,,68,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-02-21,Tue,Championship,Matchweek 28,Home,D 0–0,Derby County,Burton Albion,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-02-28,Tue,Championship,Matchweek 33,Away,L 0–1,Derby County,Blackburn,N,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-04,Sat,Championship,Matchweek 35,Home,W 2–1,Derby County,Barnsley,Y,AM,84,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-07,Tue,Championship,Matchweek 36,Home,D 1–1,Derby County,Preston,Y,DM,74,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-10,Fri,Championship,Matchweek 37,Away,L 0–3,Derby County,Brighton,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-18,Sat,Championship,Matchweek 38,Away,D 2–2,Derby County,Nott'ham Forest,Y,DM,73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-31,Fri,Championship,Matchweek 39,Home,W 1–0,Derby County,QPR,Y,AM,79,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-04,Tue,Championship,Matchweek 40,Home,W 4–2,Derby County,Fulham,Y,AM,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Championship,Matchweek 41,Away,W 2–1,Derby County,Birmingham City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-14,Fri,Championship,Matchweek 42,Away,L 0–4,Derby County,Brentford,N,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-17,Mon,Championship,Matchweek 43,Home,D 1–1,Derby County,Huddersfield,Y,AM,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-22,Sat,Championship,Matchweek 44,Away,L 1–2,Derby County,Sheffield Weds,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Championship,Matchweek 45,Home,W 3–1,Derby County,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-05-07,Sun,Championship,Matchweek 46,Away,D 1–1,Derby County,Rotherham Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

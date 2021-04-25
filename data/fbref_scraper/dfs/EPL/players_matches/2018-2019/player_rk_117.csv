@@ -1,0 +1,30 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-20,Mon,PL2 — Div. 1,Matchweek 2,Away,L 0–1,Leicester City,Everton,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,W 4–0,Leicester City,Fleetwood Town,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-03,Mon,PL2 — Div. 1,Matchweek 4,Away,W 2–0,Leicester City,Derby County,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-16,Sun,PL2 — Div. 1,Matchweek 5,Away,D 1–1,Leicester City,Chelsea,Y,LM,78,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,D 0 (3)–0 (1),Leicester City,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-01,Mon,PL2 — Div. 1,Matchweek 7,Home,L 1–2,Leicester City,Arsenal,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-26,Fri,PL2 — Div. 1,Matchweek 9,Home,W 3–0,Leicester City,West Ham,Y,AM,78,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 1–0,Leicester City,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-23,Fri,PL2 — Div. 1,Matchweek 11,Home,D 0–0,Leicester City,Manchester City,Y,FW,57,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-27,Tue,EFL Cup,Fourth round,Home,W 0 (6)–0 (5),Leicester City,Southampton,Y,RM,77,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 2–0,Leicester City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,D 1–1,Leicester City,Fulham,Y,LW,54,0,0,0,0,0,0,0,0,25,17,3,1,1,0.0,0.0,0.1,2,0,10,18,55.6,0,12,1,0,0,Match Report
+2018-2019,2019-01-20,Sun,Süper Lig,Matchweek 18,Away,L 0–2,Sivasspor,Alanyaspor,N,,27,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-27,Sun,Süper Lig,Matchweek 19,Home,D 1–1,Sivasspor,Trabzonspor,Y,AM,79,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-02,Sat,Süper Lig,Matchweek 20,Away,W 3–1,Sivasspor,Kasımpaşa,Y,AM,80,0,2,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-11,Mon,Süper Lig,Matchweek 21,Home,W 2–1,Sivasspor,Akhisarspor,Y,AM,78,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-17,Sun,Süper Lig,Matchweek 22,Away,L 2–4,Sivasspor,BB Erzurumspor,Y,AM,85,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Süper Lig,Matchweek 23,Home,L 1–2,Sivasspor,Antalyaspor,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Süper Lig,Matchweek 24,Away,L 2–3,Sivasspor,Bursaspor,Y,AM,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-08,Fri,Süper Lig,Matchweek 25,Home,W 2–0,Sivasspor,Yeni Mal'spor,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-15,Fri,Süper Lig,Matchweek 26,Away,L 1–2,Sivasspor,Fenerbahçe,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-06,Sat,Süper Lig,Matchweek 27,Home,L 1–3,Sivasspor,Kayserispor,Y,AM,90,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Süper Lig,Matchweek 28,Away,D 1–1,Sivasspor,Konyaspor,Y,FW,89,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-22,Mon,Süper Lig,Matchweek 29,Home,L 1–2,Sivasspor,Beşiktaş,Y,FW,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Süper Lig,Matchweek 30,Away,D 0–0,Sivasspor,Rizespor,Y,FW,90,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-03,Fri,Süper Lig,Matchweek 31,Home,D 0–0,Sivasspor,Başakşehir,Y,FW,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-11,Sat,Süper Lig,Matchweek 32,Away,D 3–3,Sivasspor,Göztepe,Y,FW,74,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-20,Mon,Süper Lig,Matchweek 33,Away,L 1–3,Sivasspor,Ankaragücü,Y,AM,89,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-24,Fri,Süper Lig,Matchweek 34,Home,W 4–3,Sivasspor,Galatasaray,Y,AM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

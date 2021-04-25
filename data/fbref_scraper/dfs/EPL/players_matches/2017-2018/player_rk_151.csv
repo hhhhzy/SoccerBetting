@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-08,Tue,Super Cup,UEFA Super Cup,Neutral,L 1–2,eng Manchester Utd,es Real Madrid,N,,35,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,West Ham,N,"CM,RM",15,0,0,0,0,0,0,0,0,12,10,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,2,0,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,W 4–0,Manchester Utd,Swansea City,N,"DM,AM",16,0,0,0,0,0,0,0,0,16,4,0,1,0,0.0,0.0,0.0,0,0,11,13,84.6,1,14,0,0,0,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,W 2–0,Manchester Utd,Leicester City,N,AM,17,1,0,0,0,1,1,0,0,19,7,2,0,1,0.4,0.4,0.1,1,0,15,15,100.0,2,10,1,0,0,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Away,W 2–1,be Belgium,gr Greece,Y,DM,88,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-12,Tue,Champions Lg,Group stage,Home,W 3–0,eng Manchester Utd,ch Basel,N,,71,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Home,W 4–0,Manchester Utd,Everton,Y,CM,90,0,0,0,0,1,0,0,0,63,18,1,1,3,0.5,0.5,0.0,1,0,39,51,76.5,1,33,6,0,0,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,W 4–1,Manchester Utd,Burton Albion,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 1–0,Manchester Utd,Southampton,Y,CM,90,0,0,0,0,0,0,0,0,59,24,1,2,3,0.0,0.0,0.0,0,0,34,44,77.3,5,26,2,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,W 4–0,Manchester Utd,Crystal Palace,Y,"CM,DM",90,2,0,0,0,2,2,0,0,65,15,3,1,1,0.8,0.8,0.0,1,0,46,50,92.0,3,38,3,0,0,Match Report
+2017-2018,2017-10-07,Sat,WCQ — UEFA (M),First round,Away,W 4–3,be Belgium,ba Bosnia and Herzegovina,Y,DM,28,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 0–1,Manchester Utd,Chelsea,N,CB,29,0,0,0,0,1,1,1,0,21,3,1,0,0,0.1,0.1,0.0,2,0,8,14,57.1,2,10,0,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 4–1,Manchester Utd,Newcastle Utd,N,CM,21,0,0,0,0,1,1,0,0,19,3,0,1,0,0.6,0.6,0.0,0,0,15,16,93.8,1,17,1,0,0,Match Report
+2017-2018,2017-11-22,Wed,Champions Lg,Group stage,Away,L 0–1,eng Manchester Utd,ch Basel,Y,CM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,W 1–0,Manchester Utd,Brighton,N,RW,11,0,0,0,0,0,0,0,0,11,2,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,5,0,0,0,Match Report
+2017-2018,2018-01-05,Fri,FA Cup,Third round,Home,W 2–0,Manchester Utd,Derby County,N,,11,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-15,Mon,Premier League,Matchweek 23,Home,W 3–0,Manchester Utd,Stoke City,N,AM,11,0,0,0,0,0,0,0,0,12,1,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,10,1,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,W 1–0,Manchester Utd,Burnley,N,CM,19,0,0,0,0,0,0,0,0,15,7,1,0,1,0.0,0.0,0.0,1,0,8,12,66.7,1,10,1,1,1,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,L 0–2,Manchester Utd,Tottenham,N,AM,7,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 2–1,Manchester Utd,Liverpool,N,CM,21,0,0,0,0,0,0,0,0,15,13,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,11,1,0,0,Match Report
+2017-2018,2018-03-13,Tue,Champions Lg,Round of 16,Home,L 1–2,eng Manchester Utd,es Sevilla,Y,DM,60,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Home,W 2–0,Manchester Utd,Brighton,N,,2,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Home,W 4–0,be Belgium,sa Saudi Arabia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-18,Wed,Premier League,Matchweek 35,Away,W 2–0,Manchester Utd,Bournemouth,Y,CM,90,0,0,0,0,0,0,0,0,68,15,0,1,3,0.0,0.0,0.0,1,0,53,58,91.4,5,48,2,1,1,Match Report
+2017-2018,2018-04-21,Sat,FA Cup,Semi-finals,Home,W 2–1,Manchester Utd,Tottenham,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,W 2–1,Manchester Utd,Arsenal,N,RW,27,1,0,0,0,3,1,0,0,15,13,1,1,0,0.4,0.4,0.0,0,0,7,9,77.8,1,7,0,0,1,Match Report
+2017-2018,2018-05-04,Fri,Premier League,Matchweek 37,Away,L 0–1,Manchester Utd,Brighton,Y,CM,67,0,0,0,0,0,0,0,0,73,6,0,0,3,0.0,0.0,0.0,1,0,59,65,90.8,4,62,6,0,0,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,D 0–0,be Belgium,pt Portugal,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-06,Wed,Friendlies (M),Friendlies (M),Home,W 3–0,be Belgium,eg Egypt,N,,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-11,Mon,Friendlies (M),Friendlies (M),Home,W 4–1,be Belgium,cr Costa Rica,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-18,Mon,FIFA World Cup,Group stage,Neutral,W 3–0,be Belgium,pa Panama,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-23,Sat,FIFA World Cup,Group stage,Neutral,W 5–2,be Belgium,tn Tunisia,N,DM,32,0,0,0,0,0,0,0,0,29,10,1,0,1,0.0,0.0,0.0,1,1,21,25,84.0,2,23,2,0,0,Match Report
+2017-2018,2018-06-28,Thu,FIFA World Cup,Group stage,Neutral,W 1–0,be Belgium,eng England,Y,"RW,LW",90,0,0,0,0,2,0,0,0,50,30,3,1,3,0.1,0.1,0.0,2,0,29,39,74.4,1,39,2,3,3,Match Report

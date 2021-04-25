@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,L 0–1,Crystal Palace,Southampton,N,RW,13,0,0,0,0,0,0,0,0,10,4,2,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Home,W 1–0,Crystal Palace,Huddersfield,Y,FW,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,L 0–5,Crystal Palace,Manchester City,N,FW,19,0,0,0,0,0,0,0,0,3,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Away,L 0–4,Crystal Palace,Manchester Utd,Y,FW,73,0,0,0,0,2,1,0,0,26,8,0,0,2,0.2,0.2,0.1,3,0,13,18,72.2,2,18,2,2,2,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 2–1,Crystal Palace,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 0–1,Crystal Palace,Newcastle Utd,N,RM,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Away,L 1–4,Crystal Palace,Bristol City,Y,FW,90,1,0,0,0,6,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,D 2–2,Crystal Palace,West Ham,N,FW,31,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,0,5,0.0,0,7,2,2,2,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 0–1,Crystal Palace,Tottenham,N,FW,15,0,0,0,0,0,0,0,0,3,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,D 2–2,Crystal Palace,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,W 2–1,Crystal Palace,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,D 0–0,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,D 0–0,Crystal Palace,West Brom,N,RM,4,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,D 2–2,Crystal Palace,Bournemouth,N,RM,13,0,0,0,0,0,0,0,0,11,2,1,0,0,0.0,0.0,0.0,0,0,4,8,50.0,2,7,3,0,0,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Home,W 2–1,Crystal Palace,Watford,N,LM,21,1,0,0,0,2,2,0,0,13,1,0,0,0,0.7,0.7,0.0,3,1,6,8,75.0,0,6,1,0,1,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,W 3–0,Crystal Palace,Leicester City,N,FW,3,1,0,0,0,1,1,0,0,8,0,0,0,0,0.2,0.2,0.0,0,0,6,6,100.0,0,6,0,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 1–1,Crystal Palace,Swansea City,N,FW,15,0,0,0,0,0,0,0,0,5,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,3,0,0,0,Match Report
+2017-2018,2017-12-28,Thu,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,Arsenal,N,LM,21,0,0,0,0,2,0,0,0,15,3,1,0,0,0.2,0.2,0.3,2,1,3,8,37.5,0,13,4,2,2,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Away,W 2–1,Crystal Palace,Southampton,N,LB,27,0,0,0,0,1,0,0,0,16,3,0,0,1,0.0,0.0,0.0,3,1,5,8,62.5,1,12,4,0,1,Match Report
+2017-2018,2018-01-08,Mon,FA Cup,Third round,Away,L 1–2,Crystal Palace,Brighton,Y,FW,90,1,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Home,W 1–0,Crystal Palace,Burnley,Y,FW,90,1,0,0,0,6,1,0,0,50,13,2,0,0,0.4,0.4,0.2,4,0,22,32,68.8,1,34,7,1,2,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,L 1–4,Crystal Palace,Arsenal,Y,"FW,LM",90,0,0,0,0,2,1,0,0,39,13,3,0,0,0.1,0.1,0.2,3,0,21,29,72.4,1,34,7,3,8,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Away,D 1–1,Crystal Palace,West Ham,Y,LM,40,0,0,0,0,0,0,0,0,17,7,0,0,1,0.0,0.0,0.0,0,0,5,12,41.7,1,14,3,0,0,Match Report

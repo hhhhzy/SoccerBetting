@@ -1,0 +1,48 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-03,Fri,Championship,Matchweek 1,Home,L 1–2,Reading,Derby County,N,,6,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-11,Sat,Championship,Matchweek 2,Away,L 0–1,Reading,Nott'ham Forest,N,,20,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-14,Tue,EFL Cup,First round,Home,W 2–0,Reading,Birmingham City,Y,CM,72,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Championship,Matchweek 3,Home,L 0–1,Reading,Bolton,N,,18,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-22,Wed,Championship,Matchweek 4,Away,D 2–2,Reading,Blackburn,Y,CM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Championship,Matchweek 5,Away,D 1–1,Reading,Aston Villa,Y,CM,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-29,Wed,EFL Cup,Second round,Home,L 0–2,Reading,Watford,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Championship,Matchweek 6,Home,L 1–2,Reading,Sheffield Weds,Y,CM,90,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Championship,Matchweek 7,Away,W 3–2,Reading,Preston,Y,DM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-19,Wed,Championship,Matchweek 8,Home,L 1–2,Reading,Norwich City,Y,DM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Championship,Matchweek 9,Home,W 3–0,Reading,Hull City,Y,CM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Championship,Matchweek 10,Away,D 2–2,Reading,Brentford,Y,DM,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-02,Tue,Championship,Matchweek 11,Home,L 0–1,Reading,QPR,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-06,Sat,Championship,Matchweek 12,Away,L 1–4,Reading,West Brom,Y,CM,80,1,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Championship,Matchweek 13,Home,W 3–1,Reading,Millwall,Y,DM,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-23,Tue,Championship,Matchweek 14,Away,L 1–2,Reading,Birmingham City,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Championship,Matchweek 15,Away,L 0–2,Reading,Swansea City,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Championship,Matchweek 16,Home,W 3–2,Reading,Bristol City,Y,CM,90,1,0,0,0,4,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-10,Sat,Championship,Matchweek 17,Home,D 2–2,Reading,Ipswich Town,Y,CM,90,0,1,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Championship,Matchweek 18,Away,D 0–0,Reading,Wigan Athletic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-27,Tue,Championship,Matchweek 19,Away,L 0–1,Reading,Leeds United,Y,CM,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Championship,Matchweek 20,Home,D 2–2,Reading,Stoke City,Y*,DM,90,0,0,0,0,2,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Championship,Matchweek 21,Home,L 0–2,Reading,Sheffield Utd,Y*,DM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-15,Sat,Championship,Matchweek 22,Away,D 1–1,Reading,Rotherham Utd,Y*,DM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Championship,Matchweek 23,Home,L 0–1,Reading,Middlesbrough,Y*,DM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-26,Wed,Championship,Matchweek 24,Away,L 0–1,Reading,Millwall,Y,DM,87,0,0,0,0,1,0,0,1,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Championship,Matchweek 27,Home,W 2–0,Reading,Nott'ham Forest,Y,DM,90,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Championship,Matchweek 28,Away,L 1–2,Reading,Derby County,Y,DM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Championship,Matchweek 29,Away,D 1–1,Reading,Bolton,Y,DM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,W 2–0,Cardiff City,Bournemouth,N,FW,5,0,0,0,0,0,0,0,0,2,6,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 2–1,Cardiff City,Southampton,N,DM,29,0,0,0,0,1,1,0,0,19,15,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,1,7,0,1,1,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Home,L 1–5,Cardiff City,Watford,Y,WB,90,0,0,0,0,2,0,0,0,40,29,2,2,1,0.1,0.1,0.0,0,0,21,32,65.6,3,19,5,0,0,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,L 0–3,Cardiff City,Everton,Y,CM,90,0,0,0,0,0,0,1,0,38,25,2,0,1,0.0,0.0,0.0,0,0,19,31,61.3,1,17,2,1,1,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–2,Cardiff City,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 2–0,Cardiff City,West Ham,N,LB,29,0,0,0,0,0,0,0,0,8,10,0,0,1,0.0,0.0,0.0,0,0,0,3,0.0,0,4,0,1,1,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Home,L 1–2,Cardiff City,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 33,Away,L 0–2,Cardiff City,Manchester City,N,DM,10,0,0,0,0,0,0,0,0,4,5,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 0–2,Cardiff City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-16,Tue,Premier League,Matchweek 31,Away,W 2–0,Cardiff City,Brighton,N,CM,36,0,0,0,0,0,0,0,0,29,4,1,2,2,0.0,0.0,0.0,0,0,12,19,63.2,0,8,1,0,0,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Home,L 0–2,Cardiff City,Liverpool,N,CM,12,0,0,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,0,0,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,L 0–1,Cardiff City,Fulham,Y,DM,90,0,0,0,0,0,0,0,0,36,35,3,1,2,0.0,0.0,0.0,2,0,22,29,75.9,5,17,4,1,1,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,L 2–3,Cardiff City,Crystal Palace,N,CM,80,0,0,0,0,0,0,0,0,35,22,1,4,2,0.0,0.0,0.0,2,1,14,20,70.0,1,20,2,0,2,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,W 2–0,Cardiff City,Manchester Utd,Y,CM,90,0,0,0,0,2,0,1,0,30,24,3,2,2,0.0,0.0,0.0,2,0,14,17,82.4,3,16,1,0,0,Match Report
+2018-2019,2019-06-17,Mon,Gold Cup,Group stage,Home,L 0–1,cw Curaçao,sv El Salvador,Y,DM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-21,Fri,Gold Cup,Group stage,Away,W 1–0,cw Curaçao,hn Honduras,Y,CM,85,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-25,Tue,Gold Cup,Group stage,Away,D 1–1,cw Curaçao,jm Jamaica,Y,CM,90,0,1,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-30,Sun,Gold Cup,Quarter-finals,Away,L 0–1,cw Curaçao,us United States,Y,CM,90,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,25 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Away,W 2–0,Wolves,Sheffield Utd,Y,"FW,AM",75,0,1,0,0,0,0,0,0,31,11,0,0,0,0.0,0.0,0.1,4,2,19,28,67.9,3,25,2,2,3,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,L 0–1,Wolves,Stoke City,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Home,L 1–3,Wolves,Manchester City,Y,"FW,LW,AM",90,0,1,0,0,2,0,0,0,34,14,3,0,0,0.4,0.4,0.2,4,2,19,24,79.2,1,24,3,1,2,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 1–0,Wolves,Fulham,Y,FW,70,0,0,0,0,0,0,0,0,27,3,0,0,0,0.0,0.0,0.0,2,0,19,26,73.1,2,21,2,1,1,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Away,D 0–0,pt Portugal,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Home,W 3–0,pt Portugal,se Sweden,N,,16,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Away,W 1–0,Wolves,Leeds United,Y,FW,64,0,0,0,0,2,2,0,0,21,4,2,0,1,0.2,0.2,0.0,1,0,11,13,84.6,3,18,4,0,1,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Home,D 1–1,Wolves,Newcastle Utd,Y,LW,67,0,0,0,0,3,1,0,0,48,3,1,0,1,0.2,0.2,0.1,4,0,28,38,73.7,2,44,6,5,6,Match Report
+2020-2021,2020-10-30,Fri,Premier League,Matchweek 7,Home,W 2–0,Wolves,Crystal Palace,Y,LW,75,1,0,0,0,3,2,0,0,47,2,1,1,1,0.5,0.5,0.0,5,0,32,42,76.2,4,37,4,1,1,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,L 0–1,Wolves,Leicester City,Y,LW,59,0,0,0,0,0,0,0,0,22,7,0,0,0,0.0,0.0,0.1,2,0,10,13,76.9,2,18,4,0,2,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Home,D 1–1,Wolves,Southampton,Y,"LW,AM",84,0,0,0,0,4,2,0,0,38,27,1,0,1,0.4,0.4,0.1,2,0,21,26,80.8,5,24,3,1,1,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Away,W 2–1,Wolves,Arsenal,Y,AM,69,1,0,0,0,2,1,0,0,38,7,0,1,0,0.5,0.5,0.0,5,1,25,32,78.1,3,38,3,7,8,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Away,L 0–4,Wolves,Liverpool,Y,FW,70,0,0,0,0,1,1,0,0,28,7,0,2,0,0.1,0.1,0.0,0,0,15,19,78.9,0,20,1,1,5,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,L 0–1,Wolves,Aston Villa,Y,AM,90,0,0,0,0,4,1,0,0,50,15,1,3,0,0.2,0.2,0.2,6,0,25,37,67.6,6,33,7,3,4,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Home,W 2–1,Wolves,Chelsea,Y,AM,89,1,0,0,0,1,1,1,0,49,16,1,3,0,0.0,0.0,0.0,3,1,29,38,76.3,4,43,4,4,6,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Away,L 1–2,Wolves,Burnley,Y,"FW,CM",90,0,0,0,0,1,0,0,0,40,16,2,1,1,0.1,0.1,0.1,3,0,23,30,76.7,4,37,7,5,7,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 1–1,Wolves,Tottenham,Y,AM,89,0,0,0,0,2,2,1,0,57,11,1,0,0,0.1,0.1,0.0,2,0,34,46,73.9,6,52,9,1,3,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,L 0–1,Wolves,Manchester Utd,N,DM,36,0,0,0,0,0,0,0,0,20,5,1,1,0,0.0,0.0,0.0,0,0,13,16,81.3,2,11,1,0,0,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Wolves,Chelsea,Y,AM,71,0,0,0,0,0,0,0,0,29,11,0,0,0,0.0,0.0,0.2,3,0,18,25,72.0,1,21,1,0,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,L 0–1,Wolves,Crystal Palace,Y,AM,67,0,0,0,0,0,0,0,0,33,12,2,0,0,0.0,0.0,0.1,1,0,17,24,70.8,4,25,3,1,4,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,W 2–1,Wolves,Arsenal,Y,AM,61,0,0,0,0,0,0,0,0,36,7,2,0,0,0.0,0.0,0.0,2,1,23,29,79.3,2,25,9,1,2,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,L 2–3,Wolves,West Ham,Y,AM,45,0,0,0,0,3,0,0,0,33,4,0,0,0,0.3,0.3,0.6,3,0,23,28,82.1,4,27,8,0,0,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Away,W 1–0,Wolves,Fulham,Y,"AM,CM",73,0,0,0,0,0,0,0,0,30,5,0,1,0,0.0,0.0,0.0,1,0,17,21,81.0,0,25,1,1,1,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Home,W 1–0,Wolves,Sheffield Utd,Y,LW,71,0,0,0,0,1,0,1,0,39,21,0,0,0,0.0,0.0,0.0,1,0,18,29,62.1,2,33,2,1,2,Match Report

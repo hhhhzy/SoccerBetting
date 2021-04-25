@@ -1,0 +1,50 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-07-26,Fri,Bundesliga,Regular Season,Away,W 2–0,RB Salzburg,Rapid Wien,Y,LM,90,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-04,Sun,Bundesliga,Regular Season,Home,W 4–1,RB Salzburg,Mattersburg,Y,RM,87,1,0,0,0,2,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,Bundesliga,Regular Season,Home,W 5–2,RB Salzburg,Wolfsberger AC,Y,RM,78,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,Bundesliga,Regular Season,Away,W 6–0,RB Salzburg,St. Pölten,Y,RM,66,1,0,0,0,5,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-25,Sun,Bundesliga,Regular Season,Home,W 5–0,RB Salzburg,Admira,Y,RW,74,0,1,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-05,Thu,Friendlies (M),Friendlies (M),Home,W 2–0,jp Japan,py Paraguay,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,WCQ — AFC (M),Second round,Away,W 2–0,jp Japan,mm Myanmar,Y,FW,76,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Bundesliga,Regular Season,Home,W 7–2,RB Salzburg,Hartberg,N,,25,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-17,Tue,Champions Lg,Group stage,Home,W 6–2,at RB Salzburg,be Genk,Y,AM,90,0,2,0,0,3,1,0,0,47,15,1,1,1,0.3,0.3,0.5,9,5,30,36,83.3,7,33,9,3,4,Match Report
+2019-2020,2019-09-22,Sun,Bundesliga,Regular Season,Away,D 2–2,RB Salzburg,LASK,N,,11,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Bundesliga,Regular Season,Home,W 4–1,RB Salzburg,Austria Wien,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-02,Wed,Champions Lg,Group stage,Away,L 3–4,at RB Salzburg,eng Liverpool,Y,"RM,AM",90,1,1,0,0,3,2,0,0,48,34,3,1,1,0.3,0.3,1.0,5,1,25,30,83.3,5,36,3,4,5,Match Report
+2019-2020,2019-10-05,Sat,Bundesliga,Regular Season,Home,W 6–0,RB Salzburg,SCR Altach,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-10,Thu,WCQ — AFC (M),Second round,Home,W 6–0,jp Japan,mn Mongolia,Y,AM,60,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,WCQ — AFC (M),Second round,Away,W 3–0,jp Japan,tj Tajikistan,Y,FW,86,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Bundesliga,Regular Season,Away,D 1–1,RB Salzburg,Sturm Graz,N,,20,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-23,Wed,Champions Lg,Group stage,Home,L 2–3,at RB Salzburg,it Napoli,Y,AM,90,0,0,0,0,2,0,0,0,64,25,1,2,1,0.1,0.1,0.2,3,0,39,50,78.0,4,55,4,2,3,Match Report
+2019-2020,2019-10-27,Sun,Bundesliga,Regular Season,Home,W 3–2,RB Salzburg,Rapid Wien,Y,CM,65,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Bundesliga,Regular Season,Away,W 3–0,RB Salzburg,Mattersburg,Y,RW,69,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-05,Tue,Champions Lg,Group stage,Away,D 1–1,at RB Salzburg,it Napoli,Y,"CM,AM",60,0,0,0,0,0,0,0,0,36,10,0,0,2,0.0,0.0,0.1,2,0,16,24,66.7,4,24,3,1,2,Match Report
+2019-2020,2019-11-10,Sun,Bundesliga,Regular Season,Away,W 3–0,RB Salzburg,Wolfsberger AC,Y,LW,82,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-14,Thu,WCQ — AFC (M),Second round,Away,W 2–0,jp Japan,kg Kyrgyzstan,Y,AM,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Bundesliga,Regular Season,Home,D 2–2,RB Salzburg,St. Pölten,Y,FW,90,1,1,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-27,Wed,Champions Lg,Group stage,Away,W 4–1,at RB Salzburg,be Genk,Y,AM,88,1,0,0,0,5,1,0,0,47,23,1,0,2,0.4,0.4,0.0,3,1,27,35,77.1,5,37,6,2,3,Match Report
+2019-2020,2019-12-01,Sun,Bundesliga,Regular Season,Away,D 1–1,RB Salzburg,Admira,Y,RW,90,0,1,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Bundesliga,Regular Season,Home,W 5–1,RB Salzburg,WSG Wattens,Y,AM,58,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Champions Lg,Group stage,Home,L 0–2,at RB Salzburg,eng Liverpool,Y,AM,90,0,0,0,0,2,1,0,0,49,18,1,0,1,0.3,0.3,0.4,4,0,26,35,74.3,2,41,9,1,3,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,W 1–0,Liverpool,Everton,Y,FW,69,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,W 1–0,Liverpool,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-19,Sun,Premier League,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-23,Thu,Premier League,Matchweek 24,Away,W 2–1,Liverpool,Wolves,N,"RM,RW,LW",58,0,0,0,0,1,0,0,0,39,21,1,0,1,0.1,0.1,0.0,1,0,28,29,96.6,1,28,2,1,1,Match Report
+2019-2020,2020-01-26,Sun,FA Cup,Fourth round,Away,D 2–2,Liverpool,Shrewsbury,Y,FW,84,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-29,Wed,Premier League,Matchweek 18,Away,W 2–0,Liverpool,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,W 4–0,Liverpool,Southampton,N,LW,10,0,0,0,0,1,0,0,0,3,3,0,0,0,0.5,0.5,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2019-2020,2020-02-18,Tue,Champions Lg,Round of 16,Away,L 0–1,eng Liverpool,es Atlético Madrid,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Home,W 3–2,Liverpool,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 0–3,Liverpool,Watford,N,AM,12,0,0,0,0,0,0,0,0,9,2,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,10,3,1,1,Match Report
+2019-2020,2020-03-03,Tue,FA Cup,Fifth round,Away,L 0–2,Liverpool,Chelsea,Y,FW,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-11,Wed,Champions Lg,Round of 16,Home,L 2–3,eng Liverpool,es Atlético Madrid,N,AM,8,0,0,0,0,0,0,0,0,8,2,1,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,RW,45,0,0,0,0,2,0,0,0,25,13,2,0,1,0.2,0.2,0.0,0,0,13,15,86.7,1,21,2,0,1,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 4–0,Liverpool,Crystal Palace,N,FW,17,0,0,0,0,0,0,0,0,13,5,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,6,2,0,0,Match Report
+2019-2020,2020-07-02,Thu,Premier League,Matchweek 32,Away,L 0–4,Liverpool,Manchester City,N,LW,6,0,0,0,0,0,0,0,0,2,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 2–0,Liverpool,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 3–1,Liverpool,Brighton,N,FW,4,0,0,0,0,0,0,0,0,5,6,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,6,0,1,1,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,D 1–1,Liverpool,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,L 1–2,Liverpool,Arsenal,N,FW,30,0,0,0,0,3,0,0,0,22,7,0,0,0,0.5,0.5,0.0,0,0,11,13,84.6,1,18,1,1,2,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Home,W 5–3,Liverpool,Chelsea,N,FW,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 3–1,Liverpool,Newcastle Utd,Y,LW,63,0,0,0,0,2,2,0,0,34,4,0,0,1,0.1,0.1,0.0,1,0,26,28,92.9,1,29,4,0,2,Match Report

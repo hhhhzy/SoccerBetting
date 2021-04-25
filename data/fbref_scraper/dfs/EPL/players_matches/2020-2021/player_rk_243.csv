@@ -1,0 +1,43 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-05,Sat,UEFA Nations League,League A,Home,L 0–1,se Sweden,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-08,Tue,UEFA Nations League,League A,Home,L 0–2,se Sweden,pt Portugal,Y,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Away,W 2–0,Newcastle Utd,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Home,W 1–0,Newcastle Utd,Blackburn,Y,CB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 0–3,Newcastle Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 7–0,Newcastle Utd,Morecambe,Y,RB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Away,D 1–1,Newcastle Utd,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 1 (5)–1 (4),Newcastle Utd,Newport County,Y,CB,71,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 3–1,Newcastle Utd,Burnley,Y,"RB,CB",90,0,0,0,0,0,0,0,0,61,7,1,1,0,0.0,0.0,0.0,3,1,40,52,76.9,3,31,4,0,1,Match Report
+2020-2021,2020-10-08,Thu,Friendlies (M),Friendlies (M),Away,W 2–1,se Sweden,ru Russia,Y,RB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Away,L 1–2,se Sweden,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Away,L 0–3,se Sweden,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,L 1–4,Newcastle Utd,Manchester Utd,Y,RB,90,0,0,0,0,0,0,1,0,55,20,5,1,1,0.0,0.0,0.0,1,0,26,40,65.0,1,15,2,0,1,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Away,D 1–1,Newcastle Utd,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,UEFA Nations League,League A,Home,W 2–1,se Sweden,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,UEFA Nations League,League A,Away,L 2–4,se Sweden,fr France,N,,24,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,L 0–2,Newcastle Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,West Brom,Y,RB,79,0,0,0,0,0,0,0,0,63,10,0,0,0,0.0,0.0,0.0,1,0,46,59,78.0,3,38,9,1,1,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,L 2–5,Newcastle Utd,Leeds United,N,"RB,RM",29,0,0,0,0,0,0,0,0,15,7,2,0,2,0.0,0.0,0.0,0,0,7,9,77.8,1,3,1,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,L 0–1,Newcastle Utd,Brentford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–2,Newcastle Utd,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-30,Wed,Premier League,Matchweek 16,Home,D 0–0,Newcastle Utd,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-03,Sun,Premier League,Matchweek 17,Home,L 1–2,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 0–2,Newcastle Utd,Arsenal,Y,RB,67,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-18,Mon,Premier League,Matchweek 19,Away,L 0–3,Newcastle Utd,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,46,6,2,1,5,0.0,0.0,0.0,0,0,25,35,71.4,0,22,1,0,0,Match Report
+2020-2021,2021-01-23,Sat,Premier League,Matchweek 11,Away,L 0–2,Newcastle Utd,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 2–0,Newcastle Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,L 1–2,Newcastle Utd,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 3–2,Newcastle Utd,Southampton,N,"RB,WB",67,0,0,0,0,0,0,1,0,30,8,2,2,4,0.0,0.0,0.0,0,0,9,18,50.0,0,8,1,0,0,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Away,L 0–2,Newcastle Utd,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,43,5,1,1,6,0.0,0.0,0.0,0,0,21,33,63.6,0,21,2,0,1,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,L 1–3,Newcastle Utd,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,37,16,4,2,0,0.0,0.0,0.1,2,0,19,32,59.4,1,20,4,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,D 1–1,Newcastle Utd,Wolves,Y,RB,71,0,0,0,0,1,1,0,0,37,20,2,2,0,0.0,0.0,0.0,0,0,23,30,76.7,4,21,2,0,1,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,D 0–0,Newcastle Utd,West Brom,Y,RB,90,0,0,0,0,2,1,0,0,67,10,2,2,1,0.0,0.0,0.0,0,0,29,48,60.4,1,30,3,0,0,Match Report
+2020-2021,2021-03-12,Fri,Premier League,Matchweek 28,Home,D 1–1,Newcastle Utd,Aston Villa,Y,RB,82,0,0,0,0,1,0,1,0,46,20,3,1,4,0.1,0.1,0.0,0,0,20,33,60.6,1,13,2,0,0,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Home,W 1–0,se Sweden,ge Georgia,N,,7,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 3–0,se Sweden,xk Kosovo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,Friendlies (M),Friendlies (M),Home,W 1–0,se Sweden,ee Estonia,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,D 2–2,Newcastle Utd,Tottenham,Y,CB,78,0,0,0,0,2,0,0,0,47,9,0,2,0,0.0,0.0,0.2,3,0,32,38,84.2,2,21,2,1,1,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Away,W 2–1,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Home,W 3–2,Newcastle Utd,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

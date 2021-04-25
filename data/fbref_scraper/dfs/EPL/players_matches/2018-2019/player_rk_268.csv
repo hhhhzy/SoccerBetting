@@ -1,0 +1,49 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-03,Tue,FIFA World Cup,Round of 16,Neutral,W 1 (4)–1 (3),eng England,co Colombia,Y,AM,120,0,0,0,0,2,0,1,0,55,21,1,0,2,0.0,0.0,0.0,4,0,39,43,90.7,5,37,6,1,2,Match Report
+2018-2019,2018-07-07,Sat,FIFA World Cup,Quarter-finals,Neutral,W 2–0,eng England,se Sweden,Y,AM,90,0,1,0,0,3,0,0,0,57,15,1,0,0,0.1,0.1,0.1,4,1,45,49,91.8,2,53,6,4,4,Match Report
+2018-2019,2018-07-11,Wed,FIFA World Cup,Semi-finals,Neutral,L 1–2,eng England,hr Croatia,Y,CM,120,0,0,0,0,3,0,0,0,57,59,1,0,2,0.2,0.2,0.1,3,1,34,38,89.5,3,31,4,0,1,Match Report
+2018-2019,2018-07-14,Sat,FIFA World Cup,Third-place match,Neutral,L 0–2,eng England,be Belgium,N,CM,45,0,0,0,0,2,0,0,0,44,19,1,1,0,0.0,0.0,0.1,2,0,34,39,87.2,2,36,9,0,0,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Away,L 2–3,Manchester Utd,Brighton,N,"RW,AM",45,0,0,0,0,0,0,0,0,29,8,0,0,1,0.0,0.0,0.0,1,0,20,22,90.9,0,22,0,1,5,Match Report
+2018-2019,2018-08-27,Mon,Premier League,Matchweek 3,Home,L 0–3,Manchester Utd,Tottenham,Y,AM,90,0,0,0,0,4,1,0,0,47,47,0,0,2,0.6,0.6,0.2,5,0,24,31,77.4,4,37,3,1,2,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Away,W 2–0,Manchester Utd,Burnley,Y,RW,75,0,0,0,0,4,0,0,0,54,17,0,0,0,0.5,0.5,0.0,6,1,39,47,83.0,2,54,12,4,4,Match Report
+2018-2019,2018-09-08,Sat,UEFA Nations League,League A,Home,L 1–2,eng England,es Spain,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,eng England,ch Switzerland,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 2–1,Manchester Utd,Watford,Y,RW,70,0,0,0,0,0,0,0,0,51,10,0,1,1,0.0,0.0,0.3,1,0,36,44,81.8,2,43,6,0,1,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 1–1,Manchester Utd,Wolves,Y,RW,74,0,0,0,0,2,1,0,0,49,22,1,0,1,0.1,0.1,0.0,2,0,36,41,87.8,1,29,2,3,3,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,L 2 (7)–2 (8),Manchester Utd,Derby County,Y,AM,62,0,1,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Home,W 2–1,Manchester Utd,Everton,N,RW,1,0,0,0,0,0,0,0,0,2,1,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 2–1,Manchester Utd,Bournemouth,N,RW,13,0,0,0,0,1,1,0,0,12,4,0,0,1,0.1,0.1,0.0,0,0,6,9,66.7,1,5,1,0,0,Match Report
+2018-2019,2018-11-07,Wed,Champions Lg,Group stage,Away,W 2–1,eng Manchester Utd,it Juventus,Y,RW,69,0,0,0,0,0,0,0,0,33,16,1,0,0,0.0,0.0,0.0,1,0,28,30,93.3,2,30,5,1,2,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,L 1–3,Manchester Utd,Manchester City,Y,RW,56,0,0,0,0,0,0,0,0,20,9,0,0,1,0.0,0.0,0.1,1,0,15,17,88.2,1,14,4,0,0,Match Report
+2018-2019,2018-11-15,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,us United States,Y,FW,57,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,UEFA Nations League,League A,Home,W 2–1,eng England,hr Croatia,N,,18,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,D 0–0,Manchester Utd,Crystal Palace,Y,CM,59,0,0,0,0,3,1,0,0,45,24,4,0,3,0.4,0.4,0.3,3,0,24,29,82.8,1,29,3,0,0,Match Report
+2018-2019,2018-11-27,Tue,Champions Lg,Group stage,Home,W 1–0,eng Manchester Utd,ch Young Boys,Y,RM,63,0,0,0,0,2,1,0,0,42,17,1,0,2,0.1,0.1,0.3,4,0,29,35,82.9,1,26,1,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,D 2–2,Manchester Utd,Southampton,N,FW,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 2–2,Manchester Utd,Arsenal,Y,RW,74,1,0,0,0,1,1,1,0,34,25,2,2,1,0.4,0.4,0.0,1,0,23,26,88.5,3,27,3,0,2,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 4–1,Manchester Utd,Fulham,Y,AM,72,0,0,0,0,0,0,0,0,37,25,1,1,0,0.0,0.0,0.0,4,1,23,28,82.1,2,26,1,1,4,Match Report
+2018-2019,2018-12-12,Wed,Champions Lg,Group stage,Away,L 1–2,eng Manchester Utd,es Valencia,N,"LW,FW",22,0,0,0,0,0,0,0,0,22,7,0,1,0,0.0,0.0,0.0,5,1,20,21,95.2,2,22,2,2,2,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Away,L 1–3,Manchester Utd,Liverpool,Y,"CM,AM",84,1,0,0,0,2,1,0,0,43,22,0,0,2,0.5,0.5,0.0,2,1,21,29,72.4,3,33,3,2,7,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 5–1,Manchester Utd,Cardiff City,Y,"RW,LW",90,2,1,1,1,2,2,0,0,66,15,0,0,0,1.5,0.7,0.3,4,4,52,60,86.7,2,63,8,3,3,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 3–1,Manchester Utd,Huddersfield,Y,LW,90,0,1,0,0,1,1,0,0,66,23,1,1,1,0.0,0.0,0.0,5,1,46,55,83.6,4,54,5,0,1,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Home,W 4–1,Manchester Utd,Bournemouth,Y,"RW,FW",90,0,0,0,0,1,0,0,0,68,29,1,0,0,0.0,0.0,0.1,2,0,53,61,86.9,2,56,11,1,1,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,W 2–0,Manchester Utd,Newcastle Utd,N,RW,4,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.3,1,0,2,2,100.0,1,2,0,0,0,Match Report
+2018-2019,2019-01-13,Sun,Premier League,Matchweek 22,Away,W 1–0,Manchester Utd,Tottenham,Y,"AM,RW",82,0,0,0,0,1,0,0,0,38,45,1,1,1,0.2,0.2,0.0,3,1,28,32,87.5,3,29,3,0,1,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Manchester Utd,Brighton,Y,RW,74,0,0,0,0,0,0,0,0,27,30,1,1,2,0.0,0.0,0.1,2,0,15,21,71.4,2,21,1,0,0,Match Report
+2018-2019,2019-01-25,Fri,FA Cup,Fourth round,Away,W 3–1,Manchester Utd,Arsenal,Y,AM,87,1,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,D 2–2,Manchester Utd,Burnley,N,RW,28,0,0,0,0,0,0,0,0,26,7,0,0,0,0.0,0.0,0.0,3,1,24,25,96.0,0,24,1,1,1,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Away,W 1–0,Manchester Utd,Leicester City,Y,"AM,RW",89,0,0,0,0,2,0,1,0,47,38,1,0,1,0.1,0.1,0.0,1,0,33,37,89.2,1,28,4,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 3–0,Manchester Utd,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-12,Tue,Champions Lg,Round of 16,Home,L 0–2,eng Manchester Utd,fr Paris S-G,Y,RW,44,0,0,0,0,0,0,0,0,21,15,1,0,2,0.0,0.0,0.0,1,0,14,17,82.4,1,15,3,0,0,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Home,D 0–0,Manchester Utd,Liverpool,N,AM,18,0,0,0,0,0,0,0,0,3,12,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,1,Match Report
+2018-2019,2019-03-16,Sat,FA Cup,Quarter-finals,Away,L 1–2,Manchester Utd,Wolves,Y,AM,85,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–1,Manchester Utd,Watford,N,"AM,FW",28,0,0,0,0,1,1,0,0,15,5,1,0,0,0.0,0.0,0.2,1,0,9,11,81.8,2,11,2,0,0,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–2,Manchester Utd,Wolves,Y,AM,90,0,0,0,0,3,1,0,0,49,35,0,0,1,0.4,0.4,0.0,4,1,35,42,83.3,1,43,6,1,1,Match Report
+2018-2019,2019-04-10,Wed,Champions Lg,Quarter-finals,Home,L 0–1,eng Manchester Utd,es Barcelona,N,FW,17,0,0,0,0,0,0,1,0,3,15,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–1,Manchester Utd,West Ham,Y,"RW,AM",90,0,0,0,0,0,0,0,0,35,30,3,1,3,0.0,0.0,0.0,0,0,18,20,90.0,1,21,4,0,0,Match Report
+2018-2019,2019-04-16,Tue,Champions Lg,Quarter-finals,Away,L 0–3,eng Manchester Utd,es Barcelona,Y,"AM,FW",79,0,0,0,0,1,0,0,0,39,21,2,0,0,0.0,0.0,0.1,4,0,29,30,96.7,4,30,6,1,3,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Away,L 0–4,Manchester Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Home,L 0–2,Manchester Utd,Manchester City,Y,"FW,AM",82,0,0,0,0,1,0,0,0,30,22,1,2,0,0.1,0.1,0.0,0,0,16,22,72.7,2,19,2,1,1,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–2,Manchester Utd,Cardiff City,Y,AM,90,0,0,0,0,2,1,1,0,80,27,2,0,0,0.1,0.1,0.1,8,0,65,71,91.5,5,68,13,0,1,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,L 1–3,eng England,nl Netherlands,N,,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Third-place match,Neutral,W 0 (6)–0 (5),eng England,ch Switzerland,Y,FW,105,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report

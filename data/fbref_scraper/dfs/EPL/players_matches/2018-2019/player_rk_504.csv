@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–3,Fulham,Tottenham,Y,DM,90,0,0,0,0,0,0,0,0,62,10,3,1,1,0.0,0.0,0.0,1,0,46,49,93.9,2,46,0,2,3,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,W 4–2,Fulham,Burnley,N,CM,13,0,0,0,0,2,2,0,0,17,5,1,0,0,0.1,0.1,0.0,1,0,13,13,100.0,1,13,2,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,W 2–0,Fulham,Exeter City,Y,CM,90,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,D 2–2,Fulham,Brighton,Y,CM,73,0,0,0,0,0,0,0,0,58,14,2,0,1,0.0,0.0,0.0,2,1,48,53,90.6,4,46,8,0,0,Match Report
+2018-2019,2018-09-08,Sat,Africa Cup of Nations qualification,Group stage,Away,D 1–1,cm Cameroon,km Comoros,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 0–3,Fulham,Manchester City,N,RM,35,0,0,0,0,0,0,0,0,25,3,0,0,0,0.0,0.0,0.1,2,0,20,24,83.3,3,22,2,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 1–1,Fulham,Watford,N,CM,27,0,0,0,0,1,0,0,0,36,4,0,1,0,0.0,0.0,0.0,2,0,22,31,71.0,1,23,4,2,3,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,W 3–1,Fulham,Millwall,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–3,Fulham,Everton,Y,DM,90,0,0,0,0,1,0,0,0,53,18,5,1,0,0.0,0.0,0.0,1,0,40,44,90.9,4,32,3,1,1,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Home,L 1–5,Fulham,Arsenal,Y,DM,61,0,0,0,0,4,0,0,0,60,17,1,4,3,0.1,0.1,0.0,2,1,37,43,86.0,5,42,3,1,3,Match Report
+2018-2019,2018-10-12,Fri,Africa Cup of Nations qualification,Group stage,Home,W 1–0,cm Cameroon,mw Malawi,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Africa Cup of Nations qualification,Group stage,Away,D 0–0,cm Cameroon,mw Malawi,N,,21,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,L 2–4,Fulham,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,L 0–3,Fulham,Bournemouth,N,DM,11,0,0,0,0,0,0,0,0,17,5,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,1,15,2,0,0,Match Report
+2018-2019,2018-11-01,Thu,EFL Cup,Fourth round,Away,L 0–2,Fulham,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-05,Mon,Premier League,Matchweek 11,Away,L 0–1,Fulham,Huddersfield,Y,CM,90,0,0,0,0,0,0,0,0,49,18,2,1,2,0.0,0.0,0.0,0,0,27,38,71.1,3,25,0,3,3,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,L 0–2,Fulham,Liverpool,Y,DM,83,0,0,0,0,0,0,0,0,39,19,2,1,7,0.0,0.0,0.0,0,0,18,24,75.0,0,21,0,0,0,Match Report
+2018-2019,2018-11-16,Fri,Africa Cup of Nations qualification,Group stage,Away,L 0–2,cm Cameroon,ma Morocco,Y,RM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,D 1–1,Fulham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 1–4,Fulham,Manchester Utd,Y,DM,67,0,0,0,0,1,0,1,1,46,23,1,1,2,0.0,0.0,0.0,0,0,26,35,74.3,4,29,4,1,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 0–3,Fulham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Away,L 1–3,Fulham,West Ham,N,CM,45,0,0,0,0,0,0,0,0,48,15,1,1,1,0.0,0.0,0.0,1,0,41,43,95.3,5,45,5,1,1,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Fulham,Southampton,Y,CM,90,0,0,0,0,3,2,0,0,67,14,2,2,1,0.3,0.3,0.0,1,0,50,55,90.9,3,52,3,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,L 1–2,Fulham,Chelsea,N,CM,29,0,0,0,0,0,0,0,0,26,9,0,1,0,0.0,0.0,0.0,1,0,20,24,83.3,3,24,0,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 1–3,Fulham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Home,L 1–2,Fulham,Liverpool,Y,DM,90,0,0,0,0,2,1,1,0,58,29,2,5,3,0.1,0.1,0.0,0,0,41,47,87.2,1,36,5,2,2,Match Report
+2018-2019,2019-03-23,Sat,Africa Cup of Nations qualification,Group stage,Home,W 3–0,cm Cameroon,km Comoros,Y,CM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–2,Fulham,Manchester City,Y,WB,90,0,0,0,0,0,0,0,0,64,31,2,1,3,0.0,0.0,0.0,1,0,46,48,95.8,1,54,2,3,4,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–4,Fulham,Watford,Y,"CM,DM",90,0,0,0,0,1,0,0,0,86,32,6,1,0,0.1,0.1,0.2,6,0,61,69,88.4,6,74,9,4,5,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–0,Fulham,Everton,Y,CM,88,0,0,0,0,0,0,0,0,59,16,2,2,0,0.0,0.0,0.0,2,0,34,45,75.6,4,45,5,3,5,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,W 1–0,Fulham,Bournemouth,Y,CM,88,0,0,0,0,1,0,0,0,80,25,2,4,1,0.0,0.0,0.0,1,0,57,61,93.4,5,58,8,0,2,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,W 1–0,Fulham,Cardiff City,Y,DM,90,0,0,0,0,0,0,0,0,114,15,4,0,1,0.0,0.0,0.1,1,0,87,99,87.9,12,82,15,3,3,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–1,Fulham,Wolves,Y,CM,87,0,0,0,0,0,0,0,0,84,24,2,2,0,0.0,0.0,0.0,0,0,61,74,82.4,1,72,6,3,3,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–4,Fulham,Newcastle Utd,Y,DM,90,0,0,0,0,4,0,0,0,139,14,5,2,0,0.2,0.2,0.0,3,0,120,127,94.5,11,114,13,1,1,Match Report
+2018-2019,2019-06-14,Fri,Friendlies (M),Friendlies (M),Home,D 1–1,cm Cameroon,ml Mali,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-25,Tue,Africa Cup of Nations,Group stage,Neutral,W 2–0,cm Cameroon,gw Guinea-Bissau,Y,CM,90,0,0,0,0,5,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-29,Sat,Africa Cup of Nations,Group stage,Neutral,D 0–0,cm Cameroon,gh Ghana,Y,CM,81,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

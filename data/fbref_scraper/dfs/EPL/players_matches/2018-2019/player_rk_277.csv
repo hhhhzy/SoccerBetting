@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-01,Sun,FIFA World Cup,Round of 16,Neutral,L 1 (2)–1 (3),dk Denmark,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,L 0–3,Huddersfield,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Away,L 1–6,Huddersfield,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 0–0,Huddersfield,Cardiff City,N,GK,78,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,19,37,51.4,0,21,0,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,L 0–2,Huddersfield,Stoke City,Y,GK,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,D 1–1,Huddersfield,Everton,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,1,0,16,29,55.2,0,19,0,0,0,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League B,Home,W 2–0,dk Denmark,wal Wales,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,L 0–1,Huddersfield,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,1,0,23,28,82.1,0,11,0,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 1–3,Huddersfield,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,1,0,17,36,47.2,0,21,0,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,L 0–2,Huddersfield,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,22,0,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,D 1–1,Huddersfield,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,1,0,32,41,78.0,0,30,0,0,0,Match Report
+2018-2019,2018-10-13,Sat,UEFA Nations League,League B,Away,D 0–0,dk Denmark,ie Republic of Ireland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Home,W 2–0,dk Denmark,at Austria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–1,Huddersfield,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,2,0,25,32,78.1,0,20,0,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,L 0–3,Huddersfield,Watford,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,19,0,0,0,Match Report
+2018-2019,2018-11-05,Mon,Premier League,Matchweek 11,Home,W 1–0,Huddersfield,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,19,37,51.4,0,20,0,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 1–1,Huddersfield,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,2,0,21,34,61.8,0,18,0,0,0,Match Report
+2018-2019,2018-11-25,Sun,Premier League,Matchweek 13,Away,W 2–0,Huddersfield,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,43,0,0,0,0,0.0,0.0,0.0,0,0,28,43,65.1,0,30,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,L 1–2,Huddersfield,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,11,35,31.4,0,16,0,0,0,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,L 1–2,Huddersfield,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,26,37,70.3,0,24,0,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–1,Huddersfield,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,21,34,61.8,0,14,0,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,L 0–1,Huddersfield,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,20,0,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,L 1–3,Huddersfield,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,55,0,0,0,0,0.0,0.0,0.0,0,0,37,54,68.5,0,36,0,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,L 1–3,Huddersfield,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,14,0,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,L 0–1,Huddersfield,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,61,0,0,0,0,0.0,0.0,0.0,0,0,47,58,81.0,0,42,0,0,0,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,L 1–2,Huddersfield,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,14,40,35.0,0,24,0,0,0,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Away,L 0–1,Huddersfield,Bristol City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,D 0–0,Huddersfield,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,17,0,1,1,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Home,L 0–3,Huddersfield,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,14,0,0,0,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,L 0–1,Huddersfield,Everton,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,25,0,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–5,Huddersfield,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,48,0,0,0,0,0.0,0.0,0.0,0,0,35,46,76.1,0,26,0,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,L 0–2,Huddersfield,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,56,0,0,0,1,0.0,0.0,0.0,0,0,30,46,65.2,0,30,0,1,1,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 1–0,Huddersfield,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,21,0,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–1,Huddersfield,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,15,0,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,L 0–2,Huddersfield,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,0,16,0,0,0,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,L 3–4,Huddersfield,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,9,0,0,0,Match Report
+2018-2019,2019-03-21,Thu,Friendlies (M),Friendlies (M),Away,D 2–2,dk Denmark,xk Kosovo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,L 1–2,Huddersfield,Watford,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,13,0,0,0,Match Report
+2018-2019,2019-04-26,Fri,Premier League,Matchweek 36,Away,L 0–5,Huddersfield,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,14,31,45.2,0,11,0,0,0,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Home,D 1–1,Huddersfield,Manchester Utd,Y,GK,90,0,1,0,0,0,0,1,0,44,0,0,0,0,0.0,0.0,0.4,1,1,20,40,50.0,0,15,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,D 1–1,Huddersfield,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

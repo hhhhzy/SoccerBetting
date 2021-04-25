@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,Y,"CB,RB",90,0,0,0,0,0,0,0,0,54,9,3,0,2,0.0,0.0,0.0,1,0,37,47,78.7,4,28,2,0,0,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y,CB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 2–5,West Brom,Everton,Y,"CB,LB",90,0,0,0,0,0,0,0,0,55,13,7,0,2,0.0,0.0,0.0,0,0,33,42,78.6,2,27,0,0,0,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Home,L 2 (4)–2 (5),West Brom,Brentford,N,,32,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,D 3–3,West Brom,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,38,18,1,2,7,0.0,0.0,0.0,0,0,14,21,66.7,1,12,0,1,1,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,Y,RB,90,0,0,0,0,1,0,0,0,61,11,5,0,0,0.0,0.0,0.0,2,0,27,49,55.1,3,25,3,1,2,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,fi Finland,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Home,D 0–0,West Brom,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Home,L 0–1,West Brom,Tottenham,Y,CB,90,0,0,0,0,1,0,0,0,52,5,0,2,2,0.1,0.1,0.0,1,0,28,44,63.6,6,27,1,0,0,Match Report
+2020-2021,2020-11-12,Thu,Friendlies (M),Friendlies (M),Away,L 0–3,ie Republic of Ireland,eng England,N,,77,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,wal Wales,Y,LB,80,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League B,Home,D 0–0,ie Republic of Ireland,bg Bulgaria,Y,RB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Home,L 1–5,West Brom,Crystal Palace,N,"WB,DM",11,0,0,0,0,0,0,0,0,15,3,0,1,0,0.0,0.0,0.0,1,0,12,14,85.7,2,10,1,0,0,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,L 1–2,West Brom,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,89,16,2,1,3,0.0,0.0,0.0,2,1,59,76,77.6,6,46,12,0,2,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Away,D 1–1,West Brom,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,32,10,1,0,5,0.0,0.0,0.0,0,0,12,16,75.0,0,8,0,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,L 0–3,West Brom,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,37,6,1,2,4,0.0,0.0,0.0,0,0,15,27,55.6,1,11,0,0,0,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 1–1,West Brom,Liverpool,Y,CB,90,0,0,0,0,0,0,1,0,25,3,1,0,1,0.0,0.0,0.0,0,0,9,16,56.3,0,7,1,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–5,West Brom,Leeds United,Y,CB,90,0,0,0,0,0,0,0,0,29,4,0,1,2,0.0,0.0,0.0,0,0,11,17,64.7,1,7,2,0,0,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,L 0–4,West Brom,Arsenal,Y,LB,90,0,0,0,0,0,0,0,0,75,16,2,2,4,0.0,0.0,0.0,1,0,40,60,66.7,3,32,3,1,1,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 2 (2)–2 (3),West Brom,Blackpool,N,,25,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 3–2,West Brom,Wolves,Y,RB,90,0,0,0,0,0,0,0,0,57,11,2,3,2,0.0,0.0,0.0,2,1,20,39,51.3,2,12,2,0,1,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Away,L 1–2,West Brom,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,73,19,9,1,4,0.0,0.0,0.0,0,0,26,47,55.3,2,23,0,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 0–5,West Brom,Manchester City,Y,CB,90,0,0,0,0,0,0,1,0,36,7,0,2,2,0.0,0.0,0.0,0,0,18,25,72.0,0,12,0,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,D 2–2,West Brom,Fulham,Y,CB,23,0,0,0,0,0,0,0,0,12,4,1,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,7,0,0,0,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,Sheffield Utd,Y,RB,90,0,0,0,0,1,0,0,0,58,12,1,1,3,0.1,0.1,0.0,1,0,24,46,52.2,4,19,0,0,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,L 0–2,West Brom,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,D 1–1,West Brom,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,D 0–0,West Brom,Burnley,N,CB,59,0,0,0,0,0,0,0,0,22,3,1,3,0,0.0,0.0,0.0,0,0,5,13,38.5,0,8,1,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 1–0,West Brom,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,34,4,0,2,1,0.0,0.0,0.0,0,0,14,25,56.0,2,12,0,0,0,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,West Brom,Everton,Y,CB,90,0,0,0,0,0,0,1,0,70,13,5,3,2,0.0,0.0,0.0,1,0,39,54,72.2,6,41,0,1,1,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,D 0–0,West Brom,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,41,6,0,0,1,0.0,0.0,0.0,1,0,17,23,73.9,1,12,2,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,L 0–1,West Brom,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,61,13,4,3,0,0.0,0.0,0.0,3,0,27,40,67.5,3,24,1,0,0,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,L 2–3,ie Republic of Ireland,rs Serbia,Y,CB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Home,L 0–1,ie Republic of Ireland,lu Luxembourg,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,ie Republic of Ireland,qa Qatar,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 5–2,West Brom,Chelsea,Y,CB,23,0,0,0,0,0,0,0,0,12,6,0,0,1,0.0,0.0,0.0,0,0,6,11,54.5,0,2,0,0,0,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Home,W 3–0,West Brom,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,32,14,2,3,1,0.0,0.0,0.0,0,0,14,21,66.7,3,10,0,0,0,Match Report
+2020-2021,2021-04-22,Thu,Premier League,Matchweek 32,Away,L 0–3,West Brom,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,41,14,2,4,2,0.0,0.0,0.0,0,0,20,28,71.4,1,18,3,0,0,Match Report

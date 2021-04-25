@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-13,Mon,PL2 — Div. 1,Matchweek 1,Away,W 3–1,West Ham,Tottenham,Y,AM,71,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-19,Sun,PL2 — Div. 1,Matchweek 2,Home,L 4–6,West Ham,Manchester City,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-24,Fri,PL2 — Div. 1,Matchweek 3,Home,L 2–3,West Ham,Arsenal,Y,AM,62,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-14,Fri,PL2 — Div. 1,Matchweek 5,Away,L 1–2,West Ham,Brighton,Y,RM,71,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,PL2 — Div. 1,Matchweek 6,Home,L 1–2,West Ham,Chelsea,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Home,W 8–0,West Ham,Macclesfield,Y,FW,90,2,0,0,0,5,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 3–1,West Ham,Manchester Utd,N,LM,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–1,West Ham,Tottenham,N,"RW,RM",51,0,0,0,0,1,0,0,0,31,22,3,0,1,0.0,0.0,0.0,1,0,18,24,75.0,2,26,3,1,1,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,D 1–1,West Ham,Leicester City,Y,RW,74,0,0,0,0,1,0,0,0,44,37,3,0,1,0.0,0.0,0.0,3,0,26,30,86.7,1,32,5,2,2,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Home,L 1–3,West Ham,Tottenham,Y,FW,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,W 4–2,West Ham,Burnley,Y,RW,85,0,1,0,0,1,0,0,0,63,12,2,0,0,0.0,0.0,0.2,7,2,29,45,64.4,3,52,11,4,9,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,D 1–1,West Ham,Huddersfield,Y,RW,45,0,0,0,0,0,0,0,0,24,5,1,0,3,0.0,0.0,0.3,2,0,14,17,82.4,4,13,1,1,1,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,L 0–4,West Ham,Manchester City,Y,RW,54,0,0,0,0,0,0,0,0,29,21,2,0,0,0.0,0.0,0.0,2,0,14,21,66.7,2,21,2,0,1,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Home,W 3–1,West Ham,Cardiff City,N,RM,15,0,0,0,0,2,2,0,0,21,4,1,0,0,0.2,0.2,0.4,3,0,11,17,64.7,0,16,1,1,1,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 3–2,West Ham,Crystal Palace,N,FW,16,0,0,0,0,1,1,0,0,6,7,1,0,0,0.1,0.1,0.0,1,0,1,3,33.3,0,3,1,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,W 2–0,West Ham,Fulham,N,FW,6,0,0,0,0,0,0,0,0,5,6,2,0,0,0.0,0.0,0.1,1,0,3,3,100.0,1,3,2,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,L 0–2,West Ham,Watford,N,CM,16,0,0,0,0,0,0,0,0,14,6,1,0,2,0.0,0.0,0.1,2,0,6,8,75.0,0,11,1,0,1,Match Report
+2018-2019,2018-12-27,Thu,Premier League,Matchweek 19,Away,W 2–1,West Ham,Southampton,Y,RW,54,0,0,0,0,1,0,0,0,38,26,2,0,0,0.1,0.1,0.0,0,0,22,25,88.0,0,33,2,3,8,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Away,L 0–2,West Ham,Burnley,N,RM,45,0,0,0,0,0,0,0,0,30,18,2,0,0,0.0,0.0,0.0,2,0,15,22,68.2,2,19,3,1,3,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,D 2–2,West Ham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,W 2–0,West Ham,Birmingham City,Y,RW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,W 1–0,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 0–2,West Ham,Bournemouth,N,"RW,DM",12,0,0,0,0,0,0,0,0,10,3,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,8,1,0,0,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Away,L 2–4,West Ham,AFC Wimbledon,Y,RM,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,L 0–3,West Ham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-04,Mon,Premier League,Matchweek 25,Home,D 1–1,West Ham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,D 1–1,West Ham,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–1,West Ham,Manchester City,N,LW,15,0,0,0,0,0,0,0,0,6,17,0,0,1,0.0,0.0,0.0,1,0,4,4,100.0,1,4,1,0,0,Match Report
+2018-2019,2019-03-04,Mon,PL2 — Div. 1,Matchweek 18,Home,L 1–3,West Ham,Blackburn,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-11,Mon,PL2 — Div. 1,Matchweek 19,Away,W 3–0,West Ham,Swansea City,Y,AM,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–2,West Ham,Everton,N,FW,24,0,0,0,0,0,0,0,0,12,9,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,7,0,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 1–2,West Ham,Manchester Utd,N,RM,29,0,0,0,0,1,0,0,0,15,6,0,0,0,0.2,0.2,0.1,1,0,9,10,90.0,0,11,1,1,3,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,D 2–2,West Ham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-29,Mon,PL2 — Div. 1,Matchweek 22,Home,W 2–1,West Ham,Everton,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,W 3–0,West Ham,Southampton,Y,RW,67,0,0,0,0,2,0,0,0,34,12,0,0,2,0.1,0.1,0.0,1,0,17,22,77.3,2,26,5,3,4,Match Report

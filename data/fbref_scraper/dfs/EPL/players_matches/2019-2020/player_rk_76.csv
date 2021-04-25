@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Home,D 0–0,Newcastle Utd,Brighton,N,WB,9,0,0,0,0,0,0,0,0,9,1,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,6,0,0,0,Match Report
+2019-2020,2019-09-29,Sun,Premier League,Matchweek 7,Away,L 0–5,Newcastle Utd,Leicester City,N,FW,28,0,0,0,0,0,0,0,0,15,3,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,0,0,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Home,W 1–0,Newcastle Utd,Manchester Utd,N,FW,35,0,0,0,0,1,0,0,0,15,7,0,0,2,0.0,0.0,0.0,0,0,4,8,50.0,1,4,0,0,0,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 0–1,Newcastle Utd,Chelsea,N,"FW,AM",21,0,0,0,0,0,0,0,0,8,0,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,W 3–2,Newcastle Utd,West Ham,N,FW,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,N,FW,8,0,0,0,0,0,0,0,0,10,2,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,0,0,0,Match Report
+2019-2020,2019-11-25,Mon,Premier League,Matchweek 13,Away,L 0–2,Newcastle Utd,Aston Villa,N,FW,28,0,0,0,0,1,1,0,0,17,4,1,0,0,0.1,0.1,0.1,2,0,7,12,58.3,0,9,0,1,1,Match Report
+2019-2020,2019-12-05,Thu,Premier League,Matchweek 15,Away,W 2–0,Newcastle Utd,Sheffield Utd,Y,FW,71,0,1,0,0,0,0,0,0,21,10,0,0,0,0.0,0.0,0.6,2,2,7,14,50.0,1,4,0,0,0,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Home,W 2–1,Newcastle Utd,Southampton,N,FW,32,0,1,0,0,0,0,0,0,22,1,1,0,0,0.0,0.0,0.1,1,1,9,16,56.3,1,10,1,0,0,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–1,Newcastle Utd,Burnley,Y*,FW,90,0,0,0,0,2,0,1,0,40,14,1,0,0,0.1,0.1,0.0,3,0,18,29,62.1,2,24,3,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,W 1–0,Newcastle Utd,Crystal Palace,Y,FW,90,0,0,0,0,2,0,0,0,40,27,2,2,4,0.0,0.0,0.3,3,1,14,23,60.9,1,22,0,1,2,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 1–4,Newcastle Utd,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Everton,Y,"FW,RW",90,0,1,0,0,4,1,0,0,43,5,0,0,0,0.2,0.2,0.4,3,1,19,29,65.5,3,20,0,2,2,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,L 0–3,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,D 1–1,Newcastle Utd,Wolves,N,FW,12,0,0,0,0,0,0,0,0,8,1,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,8,0,1,2,Match Report
+2019-2020,2020-01-14,Tue,FA Cup,Third round,Home,W 4–1,Newcastle Utd,Rochdale,N,,29,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Home,W 3–0,Newcastle Utd,Sheffield Utd,N,FW,12,0,0,0,0,0,0,0,0,9,1,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,5,2,0,0,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,D 1–1,Newcastle Utd,Aston Villa,N,FW,27,0,1,0,0,1,0,0,0,19,1,0,1,1,0.0,0.0,0.1,2,1,8,12,66.7,1,11,3,0,0,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 0–2,Newcastle Utd,Manchester City,Y,FW,63,0,0,0,0,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Away,W 4–1,Newcastle Utd,Bournemouth,N,FW,29,0,0,0,0,2,1,0,0,18,3,0,0,0,0.1,0.1,0.0,2,1,10,12,83.3,1,9,0,0,0,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,D 2–2,Newcastle Utd,West Ham,N,LW,10,0,0,0,0,0,0,0,0,9,0,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,FW,17,0,0,0,0,2,0,0,0,7,1,0,0,0,0.4,0.4,0.0,1,0,2,5,40.0,0,3,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,FW,21,0,0,0,0,0,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,1,Match Report

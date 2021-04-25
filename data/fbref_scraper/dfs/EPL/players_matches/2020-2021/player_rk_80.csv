@@ -1,0 +1,44 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Away,W 1–0,Everton,Tottenham,Y,FW,88,1,0,0,0,2,2,0,0,20,10,0,0,0,0.2,0.2,0.1,2,0,13,15,86.7,0,12,3,1,1,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,Everton,Salford City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,W 5–2,Everton,West Brom,Y,FW,70,3,0,0,0,5,3,0,0,24,7,0,0,0,2.1,2.1,0.0,0,0,4,10,40.0,0,13,1,1,3,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 5–2,Everton,Fleetwood Town,Y,FW,45,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Away,W 2–1,Everton,Crystal Palace,Y,FW,90,1,0,0,0,4,2,0,0,34,13,0,0,1,1.0,1.0,0.0,0,0,13,16,81.3,0,16,1,0,0,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,W 4–1,Everton,West Ham,Y,FW,90,3,0,0,0,5,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 4–2,Everton,Brighton,Y,FW,90,1,0,0,0,3,2,0,0,37,17,1,0,0,0.4,0.4,0.0,1,1,20,25,80.0,2,20,2,1,2,Match Report
+2020-2021,2020-10-08,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,wal Wales,Y,FW,57,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Home,W 2–1,eng England,be Belgium,Y,FW,64,0,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Home,L 0–1,eng England,dk Denmark,N,,19,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,D 2–2,Everton,Liverpool,Y,FW,90,1,0,0,0,5,3,0,0,38,5,0,0,1,0.7,0.7,0.0,1,1,17,24,70.8,0,22,3,0,1,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Away,L 0–2,Everton,Southampton,Y,FW,90,0,0,0,0,0,0,1,0,16,23,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,10,0,1,2,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,FW,90,1,0,0,0,5,2,0,0,34,8,0,0,1,0.7,0.7,0.2,6,0,16,18,88.9,0,24,2,2,3,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,L 1–3,Everton,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,34,13,0,1,1,0.1,0.1,0.1,1,1,21,24,87.5,0,16,3,1,1,Match Report
+2020-2021,2020-11-12,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,ie Republic of Ireland,Y,FW,62,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League A,Away,L 0–2,eng England,be Belgium,N,,22,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League A,Home,W 4–0,eng England,is Iceland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,W 3–2,Everton,Fulham,Y,FW,90,2,0,0,0,3,3,0,0,44,14,1,0,1,0.9,0.9,0.1,2,0,21,29,72.4,1,19,1,1,1,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,L 0–1,Everton,Leeds United,Y,FW,90,0,0,0,0,3,1,0,0,53,9,2,0,2,0.2,0.2,0.1,5,0,27,36,75.0,4,34,5,1,2,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Away,D 1–1,Everton,Burnley,Y,FW,90,1,0,0,0,4,3,0,0,26,5,0,0,1,1.0,1.0,0.0,1,0,14,18,77.8,0,14,1,0,0,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,W 1–0,Everton,Chelsea,Y,FW,90,0,0,0,0,1,0,0,0,28,11,1,1,0,0.0,0.0,0.0,1,1,11,18,61.1,2,14,0,1,1,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,W 2–0,Everton,Leicester City,Y,FW,89,0,0,0,0,3,2,0,0,29,8,1,0,2,0.6,0.6,0.0,1,1,10,16,62.5,2,13,0,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,W 2–1,Everton,Arsenal,Y,FW,89,0,0,0,0,2,1,1,0,40,9,2,1,1,0.1,0.1,0.0,3,2,17,26,65.4,2,25,6,1,1,Match Report
+2020-2021,2020-12-23,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Everton,Manchester Utd,Y,FW,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,Y,FW,90,0,0,0,0,1,0,1,0,32,5,0,1,4,0.2,0.2,0.1,1,0,15,20,75.0,1,17,2,1,3,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Home,L 0–1,Everton,West Ham,Y,FW,78,0,0,0,0,2,0,0,0,30,0,0,0,0,0.1,0.1,0.0,0,0,14,23,60.9,0,17,2,1,2,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,W 3–0,Everton,Sheffield Weds,Y,FW,66,1,0,0,0,5,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 1–1,Everton,Leicester City,Y,FW,88,0,0,0,0,2,1,0,0,30,6,0,0,2,0.2,0.2,0.0,0,0,14,20,70.0,0,12,0,0,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,L 0–2,Everton,Newcastle Utd,Y,FW,90,0,0,0,0,1,1,0,0,34,7,0,0,1,0.0,0.0,0.2,2,0,15,22,68.2,2,21,1,0,1,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–1,Everton,Leeds United,Y,FW,90,1,0,0,0,5,4,0,0,51,8,1,0,1,1.3,1.3,0.0,1,0,18,31,58.1,0,24,3,2,5,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,Y,FW,90,1,0,0,0,1,1,0,0,34,19,1,0,2,0.3,0.3,0.1,2,0,15,22,68.2,1,14,3,0,0,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Home,W 5–4,Everton,Tottenham,Y,FW,54,1,1,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,W 2–0,Everton,Liverpool,N,FW,29,0,0,0,0,1,1,0,0,11,4,0,0,0,0.2,0.2,0.0,2,2,5,5,100.0,0,7,0,0,1,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Home,W 1–0,Everton,Southampton,Y,FW,90,0,0,0,0,1,0,0,0,44,12,0,0,1,0.1,0.1,0.0,1,0,18,27,66.7,2,19,2,0,3,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Away,W 1–0,Everton,West Brom,Y,FW,90,0,0,0,0,2,1,0,0,46,4,1,0,5,0.6,0.6,0.2,2,0,23,30,76.7,6,19,2,1,2,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Away,L 0–2,Everton,Chelsea,Y,FW,90,0,0,0,0,1,0,0,0,18,11,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,1,8,1,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 1–2,Everton,Burnley,Y,FW,90,1,0,0,0,4,1,0,0,31,12,0,0,1,1.1,1.1,0.0,2,0,9,14,64.3,1,16,1,0,1,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Home,L 0–2,Everton,Manchester City,Y,FW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Home,W 5–0,eng England,sm San Marino,Y,FW,62,2,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–0,eng England,al Albania,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Home,W 2–1,eng England,pl Poland,N,,2,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,Y,FW,90,0,0,0,0,2,2,0,0,26,16,1,1,1,0.8,0.8,0.1,2,0,9,14,64.3,2,14,2,0,2,Match Report
+2020-2021,2021-04-23,Fri,Premier League,Matchweek 33,Away,W 1–0,Everton,Arsenal,Y,FW,90,0,0,0,0,1,0,0,0,20,12,0,0,1,0.2,0.2,0.0,0,0,10,14,71.4,0,11,0,0,0,Match Report

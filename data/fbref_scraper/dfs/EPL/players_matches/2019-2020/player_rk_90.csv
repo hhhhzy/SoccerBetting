@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,D 0–0,Everton,Crystal Palace,Y*,RB,90,0,0,0,0,1,1,0,0,103,14,2,2,4,0.3,0.3,0.0,2,0,64,87,73.6,5,52,6,3,4,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,W 1–0,Everton,Watford,Y*,"RB,LB",90,0,0,0,0,1,0,1,0,62,6,0,0,1,0.0,0.0,0.0,1,0,31,48,64.6,3,34,2,4,6,Match Report
+2019-2020,2019-08-23,Fri,Premier League,Matchweek 3,Away,L 0–2,Everton,Aston Villa,Y*,RB,90,0,0,0,0,0,0,1,0,83,6,1,1,0,0.0,0.0,0.3,3,0,57,71,80.3,7,42,2,2,2,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Home,W 3–2,Everton,Wolves,Y*,RB,90,0,0,0,0,1,0,0,0,73,10,2,1,2,0.1,0.1,0.0,2,0,53,60,88.3,4,49,13,2,4,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,D 1–1,ie Republic of Ireland,ch Switzerland,Y*,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,Friendlies (M),Friendlies (M),Home,W 3–1,ie Republic of Ireland,bg Bulgaria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-15,Sun,Premier League,Matchweek 5,Away,L 1–3,Everton,Bournemouth,Y*,RB,90,0,0,0,0,0,0,0,0,75,13,1,2,3,0.0,0.0,0.0,1,1,44,62,71.0,5,48,4,3,5,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Home,L 0–2,Everton,Sheffield Utd,Y*,RB,70,0,0,0,0,0,0,0,0,82,3,0,0,2,0.0,0.0,0.0,2,0,60,71,84.5,5,58,14,5,9,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,W 2–0,Everton,Sheffield Weds,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,L 1–3,Everton,Manchester City,Y*,RB,90,0,1,0,0,1,0,0,0,53,12,3,0,1,0.1,0.1,0.0,1,1,35,44,79.5,3,47,6,9,9,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 0–1,Everton,Burnley,Y*,"RB,AM",55,0,0,0,0,0,0,2,1,49,10,1,0,1,0.0,0.0,0.1,2,0,32,40,80.0,5,29,2,1,3,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Away,D 0–0,ie Republic of Ireland,ge Georgia,Y*,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Away,L 0–2,ie Republic of Ireland,ch Switzerland,Y*,RW,75,0,0,0,0,0,0,2,1,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,L 2–3,Everton,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Home,W 2–0,Everton,Watford,Y*,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Home,D 1–1,Everton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,W 2–1,Everton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 0–2,Everton,Norwich City,N,RB,25,0,0,0,0,0,0,1,0,24,2,1,0,0,0.0,0.0,0.1,3,0,17,21,81.0,3,12,0,0,0,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Away,D 1–1,Everton,Manchester Utd,Y*,RB,90,0,0,0,0,0,0,0,0,36,10,4,1,2,0.0,0.0,0.0,0,0,15,25,60.0,4,12,2,0,0,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Home,L 2 (2)–2 (4),Everton,Leicester City,Y*,RB,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,D 0–0,Everton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 1–0,Everton,Burnley,Y*,CB,90,0,0,0,0,1,0,0,0,77,3,0,0,0,0.0,0.0,0.0,0,0,57,67,85.1,4,57,4,4,5,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,W 2–1,Everton,Newcastle Utd,N,"RB,RM",21,0,0,0,0,0,0,0,0,10,1,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,1,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 1–2,Everton,Manchester City,Y*,CB,58,0,0,0,0,1,1,0,0,50,7,2,0,0,0.1,0.1,0.0,0,0,39,45,86.7,4,42,2,1,2,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Away,L 0–1,Everton,Liverpool,Y*,CB,62,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,W 1–0,Everton,Brighton,N,RB,17,0,0,0,0,0,0,0,0,7,6,2,1,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Everton,West Ham,Y*,RB,90,0,0,0,0,0,0,0,0,61,9,2,1,4,0.0,0.0,0.0,1,0,37,47,78.7,3,37,4,0,1,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,D 2–2,Everton,Newcastle Utd,N,RB,20,0,0,0,0,0,0,0,0,13,4,1,0,3,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,W 3–2,Everton,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Home,W 3–1,Everton,Crystal Palace,Y*,RB,90,0,0,0,0,0,0,0,0,55,17,8,2,1,0.0,0.0,0.0,0,0,31,40,77.5,6,30,3,1,3,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Away,L 2–3,Everton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-01,Sun,Premier League,Matchweek 28,Home,D 1–1,Everton,Manchester Utd,Y*,RB,27,0,0,0,0,0,0,0,0,18,3,0,0,3,0.0,0.0,0.0,0,0,7,14,50.0,1,6,1,0,0,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Home,D 0–0,Everton,Liverpool,Y*,RB,90,0,0,0,0,0,0,0,0,47,19,5,0,2,0.0,0.0,0.0,1,0,24,34,70.6,1,19,1,0,2,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,W 1–0,Everton,Norwich City,Y*,RB,90,0,0,0,0,0,0,0,0,59,6,2,0,1,0.0,0.0,0.0,1,0,45,54,83.3,4,33,2,0,1,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 2–1,Everton,Leicester City,Y*,"RB,WB",90,0,0,0,0,0,0,0,0,56,13,4,0,2,0.0,0.0,0.0,1,0,27,37,73.0,2,22,1,1,3,Match Report
+2019-2020,2020-07-06,Mon,Premier League,Matchweek 33,Away,L 0–1,Everton,Tottenham,Y*,RB,76,0,0,0,0,0,0,0,0,39,4,0,0,2,0.0,0.0,0.0,0,0,22,34,64.7,2,26,2,1,1,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Home,D 1–1,Everton,Southampton,Y*,"RB,CB",90,0,0,0,0,0,0,0,0,42,13,3,1,2,0.0,0.0,0.0,0,0,24,33,72.7,1,25,2,0,0,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 0–3,Everton,Wolves,N,"CB,RB",60,0,0,0,0,1,0,0,0,30,5,1,0,1,0.0,0.0,0.0,0,0,18,26,69.2,1,22,6,0,0,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,D 1–1,Everton,Aston Villa,Y*,RB,90,0,0,0,0,0,0,0,0,56,7,1,0,3,0.0,0.0,0.0,1,0,37,47,78.7,4,38,5,0,0,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Away,W 1–0,Everton,Sheffield Utd,N,"LM,RB",3,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–3,Everton,Bournemouth,Y*,RB,57,0,0,0,0,1,1,0,0,45,12,3,0,2,0.1,0.1,0.0,1,1,29,36,80.6,3,34,6,1,1,Match Report

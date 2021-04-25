@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,W 2–0,Crystal Palace,Fulham,Y,LB,89,0,1,0,0,1,1,0,0,57,7,0,0,2,0.0,0.0,0.2,2,1,38,51,74.5,6,38,5,2,2,Match Report
+2018-2019,2018-08-20,Mon,Premier League,Matchweek 2,Home,L 0–2,Crystal Palace,Liverpool,Y,LB,90,0,0,0,0,1,0,1,0,61,11,3,0,3,0.0,0.0,0.0,0,0,40,46,87.0,7,42,5,2,3,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Away,L 1–2,Crystal Palace,Watford,Y,LB,90,0,0,0,0,1,0,0,0,61,8,1,0,1,0.1,0.1,0.0,1,0,40,49,81.6,11,40,9,0,1,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,L 0–2,Crystal Palace,Southampton,Y,LB,90,0,0,0,0,3,1,0,0,61,6,0,2,2,0.1,0.1,0.0,0,0,36,52,69.2,10,42,7,0,0,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League A,Away,L 1–2,nl Netherlands,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 1–0,Crystal Palace,Huddersfield,Y,LB,90,0,0,0,0,0,0,0,0,56,6,0,1,1,0.0,0.0,0.0,0,0,39,49,79.6,6,41,0,1,1,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 0–0,Crystal Palace,Newcastle Utd,Y,LB,90,0,0,0,0,2,0,0,0,80,8,1,0,1,0.1,0.1,0.0,2,0,55,68,80.9,12,59,5,1,2,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,W 3–0,Crystal Palace,West Brom,Y,LB,78,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-01,Mon,Premier League,Matchweek 7,Away,L 1–2,Crystal Palace,Bournemouth,Y,LB,90,1,0,0,0,1,1,0,0,72,16,1,1,1,0.0,0.0,0.0,2,0,53,65,81.5,6,54,5,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,L 0–1,Crystal Palace,Wolves,Y,LB,90,0,0,0,0,2,1,1,0,113,4,1,2,1,0.0,0.0,0.0,1,0,86,106,81.1,7,79,9,1,1,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,nl Netherlands,be Belgium,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-21,Sun,Premier League,Matchweek 9,Away,L 0–2,Crystal Palace,Everton,Y,LB,90,0,0,0,0,0,0,0,0,58,14,4,0,3,0.0,0.0,0.0,0,0,37,48,77.1,3,28,2,0,1,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Home,D 2–2,Crystal Palace,Arsenal,Y,LB,90,0,0,0,0,2,0,0,0,68,3,3,2,2,0.0,0.0,0.2,1,0,50,57,87.7,6,46,4,0,1,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Away,L 1–3,Crystal Palace,Chelsea,Y,LB,90,0,0,0,0,1,0,0,0,51,8,1,1,5,0.1,0.1,0.0,1,0,36,46,78.3,3,35,4,1,1,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,L 0–1,Crystal Palace,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,66,6,1,2,1,0.0,0.0,0.0,1,0,35,54,64.8,8,32,3,1,3,Match Report
+2018-2019,2018-11-19,Mon,UEFA Nations League,League A,Away,D 2–2,nl Netherlands,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,D 0–0,Crystal Palace,Manchester Utd,Y,LB,90,0,0,0,0,3,1,0,0,44,6,1,2,1,0.6,0.6,0.0,0,0,23,31,74.2,2,25,3,2,4,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 2–0,Crystal Palace,Burnley,Y,LB,90,0,0,0,0,4,1,0,0,87,5,1,1,2,0.2,0.2,0.7,8,0,69,75,92.0,10,61,9,3,4,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,L 1–3,Crystal Palace,Brighton,Y,LB,90,0,0,0,0,1,0,0,0,100,11,2,1,1,0.0,0.0,0.1,3,0,76,92,82.6,17,75,14,1,1,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 2–3,Crystal Palace,West Ham,Y,LB,54,0,0,0,0,0,0,0,0,29,9,2,0,0,0.0,0.0,0.0,1,1,17,24,70.8,1,18,4,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 1–0,Crystal Palace,Leicester City,Y,LB,90,0,0,0,0,0,0,0,0,58,17,0,0,1,0.0,0.0,0.0,0,0,45,56,80.4,4,39,2,2,3,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 3–2,Crystal Palace,Manchester City,Y,LB,90,0,0,0,0,0,0,1,0,47,20,2,1,3,0.0,0.0,0.0,0,0,23,31,74.2,2,20,3,0,1,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,D 0–0,Crystal Palace,Cardiff City,Y,LB,90,0,0,0,0,4,2,0,0,72,20,1,0,3,0.2,0.2,0.2,6,0,51,61,83.6,9,46,9,1,2,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Home,L 0–1,Crystal Palace,Chelsea,Y,LB,90,0,0,0,0,1,0,0,0,71,24,1,1,1,0.0,0.0,0.0,0,0,49,62,79.0,5,50,4,0,0,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,W 2–0,Crystal Palace,Wolves,Y,LB,90,0,1,0,0,3,1,0,0,87,6,0,2,1,0.2,0.2,0.4,5,1,65,72,90.3,13,53,12,1,2,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,L 1–2,Crystal Palace,Watford,Y,LB,90,0,0,0,0,0,0,0,0,76,13,3,2,2,0.0,0.0,0.1,3,0,54,68,79.4,3,43,7,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 3–4,Crystal Palace,Liverpool,Y,LB,90,0,0,0,0,1,0,0,0,54,10,2,0,2,0.0,0.0,0.1,3,1,28,38,73.7,6,30,4,1,1,Match Report
+2018-2019,2019-01-27,Sun,FA Cup,Fourth round,Home,W 2–0,Crystal Palace,Tottenham,Y,LB,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Away,D 1–1,Crystal Palace,Southampton,Y,LB,90,0,0,0,0,1,0,0,0,67,16,3,0,0,0.0,0.0,0.1,2,0,54,58,93.1,4,37,3,1,1,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,W 2–0,Crystal Palace,Fulham,Y,LB,90,0,0,0,0,1,0,0,0,66,19,0,3,0,0.0,0.0,0.1,4,0,48,62,77.4,8,43,13,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,D 1–1,Crystal Palace,West Ham,Y,LB,90,0,0,0,0,2,0,0,0,81,14,1,1,1,0.1,0.1,1.3,6,1,59,76,77.6,8,55,10,0,0,Match Report
+2018-2019,2019-02-17,Sun,FA Cup,Fifth round,Away,W 2–0,Crystal Palace,Doncaster,Y,LB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,W 4–1,Crystal Palace,Leicester City,Y,LB,90,0,0,0,0,0,0,0,0,47,9,0,1,3,0.0,0.0,0.0,1,0,31,38,81.6,4,25,4,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,L 1–3,Crystal Palace,Manchester Utd,Y,LB,82,0,0,0,0,1,0,0,0,39,15,1,0,3,0.0,0.0,0.0,3,0,30,31,96.8,0,18,2,1,1,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,W 3–1,Crystal Palace,Burnley,Y,LB,90,0,0,0,0,2,0,0,0,52,27,2,0,3,0.1,0.1,0.0,3,0,32,39,82.1,5,30,5,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,L 1–2,Crystal Palace,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,86,14,1,0,1,0.0,0.0,0.0,2,0,63,78,80.8,11,60,8,2,2,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–0,Crystal Palace,Huddersfield,Y,LB,90,1,0,0,0,2,2,0,0,64,7,0,3,0,0.3,0.3,0.4,4,0,45,59,76.3,9,43,10,1,2,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 31,Away,L 0–2,Crystal Palace,Tottenham,Y,LB,90,0,0,0,0,1,0,0,0,54,15,0,1,2,0.0,0.0,0.0,1,0,38,47,80.9,5,36,5,0,0,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Away,W 1–0,Crystal Palace,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,60,7,0,0,2,0.0,0.0,0.0,1,0,47,54,87.0,5,38,5,0,0,Match Report
+2018-2019,2019-04-14,Sun,Premier League,Matchweek 34,Home,L 1–3,Crystal Palace,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,37,13,2,0,0,0.0,0.0,0.0,2,0,22,29,75.9,3,22,4,0,1,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Away,W 3–2,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,D 0–0,Crystal Palace,Everton,Y,LB,90,0,0,0,0,2,0,0,0,64,23,4,6,5,0.0,0.0,0.0,0,0,32,44,72.7,1,30,2,0,0,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,W 3–2,Crystal Palace,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,W 5–3,Crystal Palace,Bournemouth,Y,LB,90,1,0,0,0,1,1,0,0,52,4,1,0,1,0.3,0.3,0.0,2,1,41,46,89.1,4,38,8,1,1,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,W 3–1,nl Netherlands,eng England,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Final,Neutral,L 0–1,nl Netherlands,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,52 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-06,Sun,Community Shield,FA Community Shield,Neutral,W 1 (4)–1 (1),Arsenal,Chelsea,Y,CB,120,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-11,Fri,Premier League,Matchweek 1,Home,W 4–3,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,68,5,2,1,1,0.0,0.0,0.0,0,0,55,58,94.8,3,48,2,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–1,Arsenal,Stoke City,Y,CB,90,0,0,0,0,0,0,0,0,80,6,1,0,0,0.0,0.0,0.1,1,0,72,77,93.5,5,51,3,0,0,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–4,Arsenal,Liverpool,Y,"LB,CB",90,0,0,0,0,0,0,0,0,71,11,2,3,0,0.0,0.0,0.0,0,0,48,56,85.7,4,41,2,0,2,Match Report
+2017-2018,2017-09-02,Sat,WCQ — UEFA (M),First round,Home,W 3–0,es Spain,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Away,W 8–0,es Spain,li Liechtenstein,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,W 3–0,Arsenal,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,87,9,4,1,1,0.0,0.0,0.0,0,0,68,79,86.1,2,58,0,0,0,Match Report
+2017-2018,2017-09-14,Thu,Europa Lg,Group stage,Home,W 3–1,eng Arsenal,de Köln,Y,CB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Away,D 0–0,Arsenal,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,69,24,5,2,2,0.1,0.1,0.0,2,0,48,57,84.2,4,40,3,0,0,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,W 1–0,Arsenal,Doncaster,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-25,Mon,Premier League,Matchweek 6,Home,W 2–0,Arsenal,West Brom,Y,CB,90,0,0,0,0,0,0,0,0,79,13,4,3,3,0.0,0.0,0.0,0,0,57,64,89.1,5,55,9,1,3,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,W 2–0,Arsenal,Brighton,Y,CB,90,1,0,0,0,1,1,0,0,108,13,0,1,2,0.1,0.1,0.0,2,0,99,102,97.1,7,89,20,0,0,Match Report
+2017-2018,2017-10-06,Fri,WCQ — UEFA (M),First round,Home,W 3–0,es Spain,al Albania,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Away,W 1–0,es Spain,il Israel,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 1–2,Arsenal,Watford,Y,CB,90,0,0,0,0,1,0,0,0,66,15,3,0,1,0.0,0.0,0.0,1,0,47,55,85.5,5,48,3,0,0,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Away,W 5–2,Arsenal,Everton,Y,CB,90,1,0,0,0,1,1,0,0,94,17,2,1,0,0.1,0.1,0.0,0,0,71,80,88.8,3,70,6,1,1,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,W 2–1,Arsenal,Swansea City,Y,"CB,LM",90,0,0,0,0,1,0,0,0,121,11,1,1,0,0.0,0.0,0.2,4,0,104,119,87.4,5,81,15,0,0,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 1–3,Arsenal,Manchester City,Y,CB,90,0,0,0,0,0,0,1,0,57,15,2,4,1,0.0,0.0,0.0,0,0,41,47,87.2,2,38,3,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 2–0,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,1,0,47,8,1,3,0,0.0,0.0,0.0,1,0,32,38,84.2,5,22,3,0,0,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,W 1–0,Arsenal,Burnley,Y,LB,90,0,0,0,0,4,0,0,0,87,4,1,1,3,0.1,0.1,0.0,3,0,66,78,84.6,5,61,10,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 5–0,Arsenal,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,107,8,5,0,3,0.0,0.0,0.0,0,0,90,97,92.8,9,83,5,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,L 1–3,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,1,0,0,68,8,2,0,3,0.0,0.0,0.0,2,0,57,62,91.9,9,44,2,0,0,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,D 1–1,Arsenal,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,101,11,1,0,0,0.0,0.0,0.0,0,0,90,96,93.8,8,82,5,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,D 0–0,Arsenal,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,65,20,5,1,3,0.0,0.0,0.0,0,0,47,54,87.0,1,34,3,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Home,W 1–0,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0,93,3,0,3,2,0.0,0.0,0.0,1,0,76,83,91.6,5,59,8,1,1,Match Report
+2017-2018,2017-12-22,Fri,Premier League,Matchweek 19,Home,D 3–3,Arsenal,Liverpool,Y,CB,45,0,0,0,0,0,0,0,0,40,15,0,0,3,0.0,0.0,0.0,0,0,31,36,86.1,4,16,0,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,W 4–1,Arsenal,Crystal Palace,Y,LB,33,1,2,0,0,1,1,0,0,38,5,1,0,0,0.3,0.3,0.9,3,2,31,34,91.2,2,29,1,0,0,Match Report
+2017-2018,2018-01-24,Wed,EFL Cup,Semi-finals,Home,W 2–1,Arsenal,Chelsea,Y,LB,90,0,0,0,0,2,1,1,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Away,L 1–3,Arsenal,Swansea City,Y,LB,90,1,0,0,0,1,1,0,0,104,18,3,0,1,0.2,0.2,0.0,0,0,86,93,92.5,5,66,3,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 5–1,Arsenal,Everton,Y,LB,45,0,0,0,0,3,0,0,0,35,4,1,1,1,0.4,0.4,0.0,1,0,22,28,78.6,1,14,1,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,L 0–1,Arsenal,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,51,11,3,0,1,0.0,0.0,0.0,0,0,33,43,76.7,3,31,4,0,0,Match Report
+2017-2018,2018-02-15,Thu,Europa Lg,Round of 32,Neutral,W 3–0,eng Arsenal,se Östersund,Y,LB,73,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-22,Thu,Europa Lg,Round of 32,Neutral,L 1–2,eng Arsenal,se Östersund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,EFL Cup,Final,Home,L 0–3,Arsenal,Manchester City,Y,DM,25,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-15,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Arsenal,it Milan,Y,LB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-01,Sun,Premier League,Matchweek 32,Home,W 3–0,Arsenal,Stoke City,Y,LB,90,0,0,0,0,3,1,0,0,69,5,1,1,4,0.3,0.3,0.0,2,0,39,58,67.2,3,29,2,0,0,Match Report
+2017-2018,2018-04-05,Thu,Europa Lg,Quarter-finals,Home,W 4–1,eng Arsenal,ru CSKA Moscow,Y,LB,90,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Home,W 3–2,Arsenal,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-12,Thu,Europa Lg,Quarter-finals,Away,D 2–2,eng Arsenal,ru CSKA Moscow,Y,LB,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-15,Sun,Premier League,Matchweek 34,Away,L 1–2,Arsenal,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,93,7,1,1,1,0.0,0.0,0.0,1,0,73,86,84.9,5,64,6,0,1,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Home,W 4–1,Arsenal,West Ham,Y,LB,90,1,0,0,0,2,2,0,0,75,7,0,0,0,0.2,0.2,0.0,2,0,54,71,76.1,3,51,11,0,0,Match Report
+2017-2018,2018-04-26,Thu,Europa Lg,Semi-finals,Home,D 1–1,eng Arsenal,es Atlético Madrid,Y,LB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Away,L 1–2,Arsenal,Manchester Utd,N,LB,27,0,0,0,0,0,0,0,0,14,2,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,2,0,0,Match Report
+2017-2018,2018-05-03,Thu,Europa Lg,Semi-finals,Away,L 0–1,eng Arsenal,es Atlético Madrid,Y,LB,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,W 5–0,Arsenal,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 1–0,Arsenal,Huddersfield,N,LB,23,0,0,0,0,0,0,0,0,17,2,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,8,2,0,0,Match Report
+2017-2018,2018-06-03,Sun,Friendlies (M),Friendlies (M),Home,D 1–1,es Spain,ch Switzerland,N,,13,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-09,Sat,Friendlies (M),Friendlies (M),Home,W 1–0,es Spain,tn Tunisia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-15,Fri,FIFA World Cup,Group stage,Neutral,D 3–3,es Spain,pt Portugal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-20,Wed,FIFA World Cup,Group stage,Neutral,W 1–0,es Spain,ir Iran,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-25,Mon,FIFA World Cup,Group stage,Neutral,D 2–2,es Spain,ma Morocco,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

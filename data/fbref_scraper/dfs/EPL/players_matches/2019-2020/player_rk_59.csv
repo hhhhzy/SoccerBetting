@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-03,Sat,Championship,Matchweek 1,Away,L 1–2,Hull City,Swansea City,Y,DM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,Championship,Matchweek 2,Home,W 2–1,Hull City,Reading,Y,DM,90,1,1,0,0,6,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-13,Tue,EFL Cup,First round,Away,W 3–0,Hull City,Tranmere Rovers,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,Championship,Matchweek 3,Away,D 1–1,Hull City,Brentford,Y,RW,90,1,0,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-20,Tue,Championship,Matchweek 4,Home,L 0–1,Hull City,Blackburn,Y,DM,90,0,0,0,1,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Championship,Matchweek 5,Home,L 1–3,Hull City,Bristol City,Y,DM,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,L 2 (4)–2 (5),Hull City,Preston,N,,60,1,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Championship,Matchweek 6,Away,D 1–1,Hull City,Millwall,Y,DM,90,0,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Championship,Matchweek 7,Home,D 2–2,Hull City,Wigan Athletic,Y,DM,90,1,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Championship,Matchweek 8,Away,W 3–0,Hull City,Luton Town,Y,RW,90,0,0,0,0,3,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Championship,Matchweek 9,Home,D 2–2,Hull City,Cardiff City,Y,RW,90,0,1,0,0,4,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-01,Tue,Championship,Matchweek 10,Home,W 1–0,Hull City,Sheffield Weds,Y,RW,90,0,0,0,0,3,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-05,Sat,Championship,Matchweek 11,Away,L 0–3,Hull City,Huddersfield,Y,RW,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Championship,Matchweek 12,Home,L 2–3,Hull City,QPR,Y,RW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-23,Wed,Championship,Matchweek 13,Away,W 2–1,Hull City,Nott'ham Forest,Y,DM,90,1,0,0,0,6,4,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-26,Sat,Championship,Matchweek 14,Home,W 2–0,Hull City,Derby County,Y,FW,90,2,0,0,0,5,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Championship,Matchweek 15,Away,W 3–0,Hull City,Fulham,Y,FW,90,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Championship,Matchweek 16,Home,L 0–1,Hull City,West Brom,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-24,Sun,Championship,Matchweek 17,Away,D 2–2,Hull City,Middlesbrough,Y,FW,90,1,1,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-27,Wed,Championship,Matchweek 18,Home,W 4–0,Hull City,Preston,Y,AM,90,2,1,0,0,7,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-30,Sat,Championship,Matchweek 19,Away,L 1–3,Hull City,Barnsley,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Championship,Matchweek 20,Home,W 2–1,Hull City,Stoke City,Y,DM,90,2,0,0,0,8,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Championship,Matchweek 21,Away,L 0–2,Hull City,Leeds United,Y,DM,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-13,Fri,Championship,Matchweek 22,Away,D 2–2,Hull City,Charlton Ath,Y,DM,90,1,0,0,0,5,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Championship,Matchweek 23,Home,W 3–0,Hull City,Birmingham City,Y,AM,90,0,1,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Championship,Matchweek 24,Home,L 0–2,Hull City,Nott'ham Forest,Y,AM,90,0,0,0,0,4,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-29,Sun,Championship,Matchweek 25,Away,W 2–1,Hull City,QPR,Y,FW,90,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-01,Wed,Championship,Matchweek 26,Away,W 1–0,Hull City,Sheffield Weds,Y,AM,90,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Away,W 3–2,Hull City,Rotherham Utd,N,,30,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Championship,Matchweek 27,Home,L 0–1,Hull City,Fulham,Y,AM,90,0,0,0,0,2,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Championship,Matchweek 28,Away,L 0–1,Hull City,Derby County,Y,AM,90,0,0,0,0,3,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Home,L 1–2,Hull City,Chelsea,Y,FW,90,0,0,0,0,6,1,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-28,Tue,Championship,Matchweek 29,Home,L 1–2,Hull City,Huddersfield,Y,AM,90,0,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-19,Wed,Premier League,Matchweek 26,Away,L 0–2,West Ham,Manchester City,N,FW,11,0,0,0,0,0,0,0,0,6,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,1,1,Match Report
+2019-2020,2020-02-24,Mon,Premier League,Matchweek 27,Away,L 2–3,West Ham,Liverpool,N,RW,7,0,0,0,0,1,1,0,0,4,2,0,0,0,0.2,0.2,0.0,0,0,1,2,50.0,0,3,1,0,0,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–1,West Ham,Southampton,Y,RW,77,1,0,0,0,4,2,0,0,33,23,4,1,3,0.3,0.3,0.1,1,0,10,13,76.9,3,23,5,2,6,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,West Ham,Arsenal,Y,RM,89,0,0,0,0,3,2,0,0,37,30,2,6,0,0.1,0.1,0.2,5,0,18,26,69.2,4,34,6,2,2,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,West Ham,Wolves,Y,RW,90,0,0,0,0,0,0,0,0,30,21,4,0,2,0.0,0.0,0.0,1,0,7,15,46.7,0,21,3,1,3,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Away,L 0–2,West Ham,Tottenham,Y,RW,90,0,0,0,0,2,0,0,0,51,14,3,1,1,0.1,0.1,0.3,2,0,27,36,75.0,2,43,3,2,2,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 3–2,West Ham,Chelsea,Y,RW,77,0,2,0,0,0,0,0,0,31,20,1,3,1,0.0,0.0,1.0,3,2,16,19,84.2,3,23,4,3,5,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 2–2,West Ham,Newcastle Utd,Y,RW,90,0,1,0,0,3,1,0,0,43,14,2,2,3,0.5,0.5,0.1,3,1,18,26,69.2,0,28,3,0,4,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Home,L 0–1,West Ham,Burnley,Y,LW,90,0,0,0,0,4,0,0,0,52,6,1,0,2,0.1,0.1,0.1,2,0,19,38,50.0,1,40,7,2,3,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,W 4–0,West Ham,Norwich City,Y,RW,82,0,0,0,0,3,0,0,0,37,10,1,1,1,0.2,0.2,0.2,3,1,19,28,67.9,2,25,5,1,2,Match Report
+2019-2020,2020-07-17,Fri,Premier League,Matchweek 36,Home,W 3–1,West Ham,Watford,Y,RW,80,0,1,0,0,1,0,0,0,27,9,0,0,1,0.0,0.0,0.1,2,1,8,15,53.3,0,15,4,0,2,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Away,D 1–1,West Ham,Manchester Utd,Y,RW,89,0,0,0,0,3,1,0,0,49,13,1,1,0,0.2,0.2,0.1,6,0,29,38,76.3,3,38,5,2,3,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,West Ham,Aston Villa,Y,RW,45,0,0,0,0,0,0,0,0,21,6,0,1,0,0.0,0.0,0.0,0,0,13,16,81.3,0,14,1,0,0,Match Report

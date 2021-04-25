@@ -1,0 +1,29 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Home,W 1–0,Aston Villa,Sheffield Utd,Y,"RW,RM",90,0,0,0,0,2,0,0,0,48,18,4,0,1,0.1,0.1,0.2,4,0,23,31,74.2,1,33,9,1,1,Match Report
+2020-2021,2020-09-24,Thu,EFL Cup,Third round,Away,W 3–0,Aston Villa,Bristol City,N,,21,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Away,W 3–0,Aston Villa,Fulham,Y,RW,83,0,0,0,0,1,0,0,0,28,20,3,1,7,0.0,0.0,0.0,0,0,8,13,61.5,3,13,3,2,2,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 7–2,Aston Villa,Liverpool,Y,RW,86,0,1,0,0,1,1,0,0,40,33,2,1,1,0.0,0.0,1.4,4,1,22,28,78.6,4,26,5,1,3,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,W 1–0,Aston Villa,Leicester City,Y,RW,80,0,0,0,0,1,0,0,0,38,24,4,2,3,0.1,0.1,0.0,2,0,10,23,43.5,0,25,3,3,3,Match Report
+2020-2021,2020-10-23,Fri,Premier League,Matchweek 6,Home,L 0–3,Aston Villa,Leeds United,Y,RW,65,0,0,0,0,1,0,0,0,19,18,0,0,2,0.1,0.1,0.0,1,0,7,10,70.0,0,12,2,1,1,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,L 3–4,Aston Villa,Southampton,N,RW,62,0,0,0,0,4,3,0,0,29,20,1,0,1,0.3,0.3,0.0,2,0,9,17,52.9,0,20,3,2,4,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,W 3–0,Aston Villa,Arsenal,Y,RW,87,0,0,0,0,2,1,0,0,43,17,4,1,3,0.1,0.1,0.0,2,0,23,31,74.2,3,26,6,3,3,Match Report
+2020-2021,2020-11-14,Sat,Africa Cup of Nations qualification,Group stage,Home,W 1–0,eg Egypt,tg Togo,Y,AM,73,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,W 3–1,eg Egypt,tg Togo,Y,AM,68,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Aston Villa,Brighton,Y,"RW,LW",90,0,0,0,0,7,0,0,0,49,14,2,1,0,1.0,1.0,0.0,4,0,21,33,63.6,6,36,9,3,4,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Away,L 1–2,Aston Villa,West Ham,Y,RW,73,0,0,0,0,3,1,0,0,22,9,1,0,0,0.8,0.8,0.3,3,0,11,14,78.6,1,11,3,0,1,Match Report
+2020-2021,2021-01-23,Sat,Premier League,Matchweek 11,Home,W 2–0,Aston Villa,Newcastle Utd,N,RW,11,0,0,0,0,1,1,0,0,7,6,1,0,1,0.2,0.2,0.0,1,0,1,3,33.3,0,6,1,0,0,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,L 2–3,Aston Villa,Burnley,N,RW,8,0,0,0,0,0,0,0,0,2,1,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 1–0,Aston Villa,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–3,Aston Villa,West Ham,N,AM,22,0,0,0,0,0,0,0,0,13,7,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,3,11,1,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 1–0,Aston Villa,Arsenal,N,RW,25,0,0,0,0,0,0,0,0,13,12,0,1,2,0.0,0.0,0.0,0,0,6,6,100.0,0,7,0,0,1,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,D 0–0,Aston Villa,Brighton,N,RW,25,0,0,0,0,0,0,0,0,8,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,4,2,0,0,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,L 1–2,Aston Villa,Leicester City,N,LW,24,0,0,0,0,1,1,0,0,8,2,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,8,2,0,1,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,W 1–0,Aston Villa,Leeds United,N,LW,3,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,2,3,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Away,L 0–1,Aston Villa,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,D 0–0,Aston Villa,Wolves,Y,LW,77,0,0,0,0,0,0,0,0,30,17,4,3,1,0.0,0.0,0.1,1,0,15,21,71.4,2,16,2,0,0,Match Report
+2020-2021,2021-03-12,Fri,Premier League,Matchweek 28,Away,D 1–1,Aston Villa,Newcastle Utd,Y,"RW,LW",67,0,0,0,0,2,1,0,0,41,13,1,0,0,0.0,0.0,0.1,6,0,26,33,78.8,2,40,8,6,7,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 18,Home,L 0–2,Aston Villa,Tottenham,Y,"LW,RW",78,0,0,0,0,2,0,0,0,26,21,1,0,0,0.2,0.2,0.0,0,0,12,18,66.7,1,14,0,1,1,Match Report
+2020-2021,2021-03-25,Thu,Africa Cup of Nations qualification,Group stage,Away,D 1–1,eg Egypt,ke Kenya,Y,AM,61,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-29,Mon,Africa Cup of Nations qualification,Group stage,Home,W 4–0,eg Egypt,km Comoros,Y,AM,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,W 3–1,Aston Villa,Fulham,N,LW,29,2,0,0,0,4,2,0,0,17,6,0,0,0,0.5,0.5,0.0,1,1,8,9,88.9,1,11,2,1,1,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Away,L 1–2,Aston Villa,Liverpool,Y,LW,81,0,0,0,0,3,1,0,0,36,42,3,1,3,0.4,0.4,0.0,2,0,8,18,44.4,1,20,1,1,3,Match Report

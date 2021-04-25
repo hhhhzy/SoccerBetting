@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,W 2–1,Hull City,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Away,W 2–0,Hull City,Swansea City,Y,CB,90,0,0,0,0,1,1,0,0,2,0,0,0,2,2,0,0,0,Match Report
+2016-2017,2016-08-23,Tue,EFL Cup,Second round,Away,W 3–1,Hull City,Exeter City,Y,CB,90,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Home,L 0–1,Hull City,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Away,D 1–1,Hull City,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,Match Report
+2016-2017,2016-09-17,Sat,Premier League,Matchweek 5,Home,L 1–4,Hull City,Arsenal,Y,CB,39,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Match Report
+2016-2017,2016-09-24,Sat,Premier League,Matchweek 6,Away,L 1–5,Hull City,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Premier League,Matchweek 7,Home,L 0–2,Hull City,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,3,5,0,0,0,Match Report
+2016-2017,2016-10-15,Sat,Premier League,Matchweek 8,Away,L 1–6,Hull City,Bournemouth,Y,DM,90,0,1,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,Match Report
+2016-2017,2016-10-22,Sat,Premier League,Matchweek 9,Home,L 0–2,Hull City,Stoke City,Y,AM,90,0,0,0,0,1,0,0,0,3,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-10-25,Tue,EFL Cup,Fourth round,Away,W 2–1,Hull City,Bristol City,Y,RM,90,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-29,Sat,Premier League,Matchweek 10,Away,L 0–1,Hull City,Watford,Y,CM,90,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-11-06,Sun,Premier League,Matchweek 11,Home,W 2–1,Hull City,Southampton,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,Match Report
+2016-2017,2016-11-19,Sat,Premier League,Matchweek 12,Away,L 0–3,Hull City,Sunderland,Y,DM,90,0,0,0,0,1,0,0,0,0,1,0,1,2,3,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Home,D 1–1,Hull City,West Brom,Y,DM,90,0,0,0,0,2,1,0,0,0,1,0,1,1,2,0,0,0,Match Report
+2016-2017,2016-11-29,Tue,EFL Cup,Quarter-finals,Home,D 1 (3)–1 (1),Hull City,Newcastle Utd,Y,CM,78,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,Match Report
+2016-2017,2016-12-05,Mon,Premier League,Matchweek 14,Away,L 0–1,Hull City,Middlesbrough,Y,DM,61,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,Match Report
+2016-2017,2016-12-10,Sat,Premier League,Matchweek 15,Home,D 3–3,Hull City,Crystal Palace,Y,CM,90,1,0,0,0,3,2,0,0,2,3,0,1,3,0,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,L 0–3,Hull City,Tottenham,Y,CM,73,0,0,0,0,5,3,0,0,0,1,0,0,2,2,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,Premier League,Matchweek 17,Away,L 0–1,Hull City,West Ham,Y,CM,68,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Home,L 0–3,Hull City,Manchester City,Y,CM,73,0,0,0,0,3,1,0,0,1,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-12-30,Fri,Premier League,Matchweek 19,Home,D 2–2,Hull City,Everton,Y,CM,90,0,0,0,0,3,0,0,0,1,2,1,1,3,3,0,0,0,Match Report
+2016-2017,2017-01-02,Mon,Premier League,Matchweek 20,Away,L 1–3,Hull City,West Brom,Y,DM,90,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,Match Report
+2016-2017,2017-01-07,Sat,FA Cup,Third round,Home,W 2–0,Hull City,Swansea City,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-14,Sat,Premier League,Matchweek 21,Home,W 3–1,Hull City,Bournemouth,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-21,Sat,Premier League,Matchweek 22,Home,W 2–0,West Brom,Sunderland,N,,19,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-31,Tue,Premier League,Matchweek 23,Away,D 1–1,West Brom,Middlesbrough,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-02-04,Sat,Premier League,Matchweek 24,Home,W 1–0,West Brom,Stoke City,Y,DM,90,0,0,0,0,1,0,0,0,0,0,0,0,3,5,0,0,0,Match Report
+2016-2017,2017-02-11,Sat,Premier League,Matchweek 25,Away,D 2–2,West Brom,West Ham,Y,DM,90,0,0,0,0,0,0,0,0,1,1,0,0,3,3,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,Premier League,Matchweek 26,Home,W 2–1,West Brom,Bournemouth,Y,DM,90,0,0,0,0,0,0,0,0,2,0,0,0,1,3,0,0,0,Match Report
+2016-2017,2017-03-04,Sat,Premier League,Matchweek 27,Home,L 0–2,West Brom,Crystal Palace,Y,DM,90,0,0,0,0,2,0,0,0,2,1,0,1,1,0,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Premier League,Matchweek 28,Away,L 0–3,West Brom,Everton,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-03-18,Sat,Premier League,Matchweek 29,Home,W 3–1,West Brom,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,Match Report
+2016-2017,2017-03-22,Wed,Friendlies (M),Friendlies (M),Away,L 0–1,eng England,de Germany,Y,CM,81,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-03-26,Sun,WCQ — UEFA (M),First round,Home,W 2–0,eng England,lt Lithuania,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-01,Sat,Premier League,Matchweek 30,Away,D 0–0,West Brom,Manchester Utd,Y,CM,90,0,0,0,0,0,0,1,0,1,0,0,0,2,2,0,0,0,Match Report
+2016-2017,2017-04-04,Tue,Premier League,Matchweek 31,Away,L 0–2,West Brom,Watford,Y,CM,60,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Premier League,Matchweek 32,Home,L 0–1,West Brom,Southampton,Y,DM,90,0,0,0,0,2,0,0,0,0,1,0,1,4,0,0,0,0,Match Report
+2016-2017,2017-04-16,Sun,Premier League,Matchweek 33,Home,L 0–1,West Brom,Liverpool,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Premier League,Matchweek 35,Home,L 0–1,West Brom,Leicester City,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-06,Sat,Premier League,Matchweek 36,Away,D 2–2,West Brom,Burnley,Y,AM,90,0,0,0,0,2,0,0,0,0,1,0,1,1,2,0,0,0,Match Report
+2016-2017,2017-05-12,Fri,Premier League,Matchweek 37,Home,L 0–1,West Brom,Chelsea,Y,AM,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-05-16,Tue,Premier League,Matchweek 34,Away,L 1–3,West Brom,Manchester City,Y,AM,64,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-05-21,Sun,Premier League,Matchweek 38,Away,L 1–2,West Brom,Swansea City,Y,CM,78,0,0,0,0,2,0,0,0,2,0,0,0,3,0,0,0,0,Match Report
+2016-2017,2017-06-10,Sat,WCQ — UEFA (M),First round,Away,D 2–2,eng England,sco Scotland,Y,LM,89,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2017-06-13,Tue,Friendlies (M),Friendlies (M),Away,L 2–3,eng England,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report

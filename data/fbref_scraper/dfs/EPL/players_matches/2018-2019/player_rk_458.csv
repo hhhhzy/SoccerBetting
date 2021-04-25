@@ -1,0 +1,56 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-02,Mon,FIFA World Cup,Round of 16,Neutral,W 3–2,be Belgium,jp Japan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-06,Fri,FIFA World Cup,Quarter-finals,Neutral,W 2–1,be Belgium,br Brazil,N,CM,4,0,0,0,0,0,0,0,0,1,7,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2018-07-10,Tue,FIFA World Cup,Semi-finals,Neutral,L 0–1,be Belgium,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-14,Sat,FIFA World Cup,Third-place match,Neutral,W 2–0,be Belgium,eng England,Y,DM,77,0,0,0,0,2,0,0,0,53,36,4,2,0,0.1,0.1,0.1,4,0,41,46,89.1,1,48,7,1,1,Match Report
+2018-2019,2018-08-04,Sat,Trophée des Champions,Trophée des Champions,Neutral,L 0–4,Monaco,Paris S-G,Y,CM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-11,Sat,Ligue 1,Matchweek 1,Away,W 3–1,Monaco,Nantes,Y,DM,90,0,0,0,0,0,0,0,0,46,16,3,1,1,0.0,0.0,0.1,3,0,18,32,56.3,4,32,0,2,2,Match Report
+2018-2019,2018-08-18,Sat,Ligue 1,Matchweek 2,Home,D 0–0,Monaco,Lille,Y,CM,90,0,0,0,0,1,0,0,0,60,17,3,0,2,0.0,0.0,0.0,3,0,39,51,76.5,10,43,4,1,1,Match Report
+2018-2019,2018-08-26,Sun,Ligue 1,Matchweek 3,Away,L 1–2,Monaco,Bordeaux,Y,CM,90,0,0,0,0,3,1,0,0,73,25,2,2,2,0.1,0.1,0.1,2,0,51,64,79.7,12,49,6,0,0,Match Report
+2018-2019,2018-09-02,Sun,Ligue 1,Matchweek 4,Home,L 2–3,Monaco,Marseille,Y,CM,85,1,0,0,0,3,1,0,0,26,28,1,0,1,0.7,0.7,0.0,2,0,15,20,75.0,4,22,1,2,2,Match Report
+2018-2019,2018-09-07,Fri,Friendlies (M),Friendlies (M),Away,W 4–0,be Belgium,sco Scotland,Y,CM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,UEFA Nations League,League A,Away,W 3–0,be Belgium,is Iceland,Y,CM,79,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Ligue 1,Matchweek 5,Away,D 1–1,Monaco,Toulouse,Y,CM,90,1,0,0,0,5,1,0,0,51,18,2,0,2,0.2,0.2,0.1,1,0,28,36,77.8,2,39,6,0,0,Match Report
+2018-2019,2018-09-18,Tue,Champions Lg,Group stage,Home,L 1–2,fr Monaco,es Atlético Madrid,Y,FW,90,0,0,0,0,1,0,0,0,64,19,2,2,2,0.0,0.0,0.1,5,0,38,55,69.1,4,43,3,0,1,Match Report
+2018-2019,2018-09-21,Fri,Ligue 1,Matchweek 6,Home,D 1–1,Monaco,Nîmes,Y,CM,90,0,0,0,0,1,1,0,0,82,15,3,0,1,0.0,0.0,0.3,5,0,57,72,79.2,15,55,4,0,1,Match Report
+2018-2019,2018-09-25,Tue,Ligue 1,Matchweek 7,Home,L 0–1,Monaco,Angers,Y,DM,62,0,0,0,0,0,0,0,0,73,7,3,1,1,0.0,0.0,0.3,3,0,40,65,61.5,8,49,4,0,0,Match Report
+2018-2019,2018-10-03,Wed,Champions Lg,Group stage,Away,L 0–3,fr Monaco,de Dortmund,Y,CM,90,0,0,0,0,3,3,0,0,64,45,4,1,1,0.1,0.1,0.0,1,0,42,51,82.4,5,43,3,0,1,Match Report
+2018-2019,2018-10-07,Sun,Ligue 1,Matchweek 9,Home,L 1–2,Monaco,Rennes,Y,DM,90,0,0,0,0,2,0,1,0,65,23,1,0,3,0.1,0.1,0.0,1,0,39,51,76.5,5,42,4,2,2,Match Report
+2018-2019,2018-10-12,Fri,UEFA Nations League,League A,Home,W 2–1,be Belgium,ch Switzerland,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Home,D 1–1,be Belgium,nl Netherlands,Y,CM,82,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Ligue 1,Matchweek 10,Away,L 1–2,Monaco,Strasbourg,Y,"CM,LW",90,1,0,1,1,1,0,1,0,50,7,2,1,6,0.8,0.1,0.0,1,0,30,36,83.3,4,33,4,1,1,Match Report
+2018-2019,2018-10-24,Wed,Champions Lg,Group stage,Away,D 1–1,fr Monaco,be Club Brugge,Y,CM,90,0,0,0,0,1,0,1,0,59,12,2,1,0,0.0,0.0,0.0,1,0,42,50,84.0,6,46,7,0,1,Match Report
+2018-2019,2018-10-27,Sat,Ligue 1,Matchweek 11,Home,D 2–2,Monaco,Dijon,Y,RM,71,0,0,0,0,1,0,1,0,37,16,4,0,2,0.0,0.0,0.0,0,0,21,28,75.0,2,22,3,1,1,Match Report
+2018-2019,2018-11-03,Sat,Ligue 1,Matchweek 12,Away,L 0–1,Monaco,Reims,Y,DM,45,0,0,0,0,0,0,0,0,48,15,1,0,0,0.0,0.0,0.0,0,0,38,44,86.4,4,42,6,2,3,Match Report
+2018-2019,2018-11-06,Tue,Champions Lg,Group stage,Home,L 0–4,fr Monaco,be Club Brugge,Y,CM,90,0,0,0,0,2,2,0,0,124,14,0,2,1,0.1,0.1,0.3,5,0,94,116,81.0,20,94,19,1,1,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Home,W 2–0,be Belgium,is Iceland,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-18,Sun,UEFA Nations League,League A,Away,L 2–5,be Belgium,ch Switzerland,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Ligue 1,Matchweek 14,Away,W 1–0,Monaco,Caen,Y,CM,90,0,0,0,0,3,0,0,0,67,8,2,0,1,0.2,0.2,0.0,3,0,51,58,87.9,8,52,7,0,0,Match Report
+2018-2019,2018-11-28,Wed,Champions Lg,Group stage,Away,L 0–2,fr Monaco,es Atlético Madrid,Y,CM,90,0,0,0,0,4,2,1,0,60,4,1,0,1,0.1,0.1,0.0,2,0,41,49,83.7,5,50,6,1,1,Match Report
+2018-2019,2018-12-01,Sat,Ligue 1,Matchweek 15,Home,L 1–2,Monaco,Montpellier,Y,DM,90,1,0,0,0,5,1,0,0,70,3,0,0,0,0.2,0.2,0.2,4,1,46,60,76.7,6,50,10,1,3,Match Report
+2018-2019,2018-12-04,Tue,Ligue 1,Matchweek 16,Away,W 2–0,Monaco,Amiens,Y,CM,90,0,0,0,0,0,0,1,0,48,14,2,0,0,0.0,0.0,0.0,1,0,29,39,74.4,4,31,3,2,4,Match Report
+2018-2019,2018-12-11,Tue,Champions Lg,Group stage,Home,L 0–2,fr Monaco,de Dortmund,Y,CM,90,0,0,0,0,1,0,1,0,55,38,1,0,3,0.0,0.0,0.2,2,0,33,44,75.0,5,33,4,0,0,Match Report
+2018-2019,2018-12-16,Sun,Ligue 1,Matchweek 18,Away,L 0–3,Monaco,Lyon,Y,"DM,CM",90,0,0,0,0,2,1,0,0,59,20,4,2,1,0.1,0.1,0.0,3,0,35,46,76.1,2,37,5,3,3,Match Report
+2018-2019,2018-12-19,Wed,Coupe de la Ligue,Round of 16,Home,W 1–0,Monaco,Lorient,Y*,DM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Ligue 1,Matchweek 19,Home,L 0–2,Monaco,Guingamp,Y,CM,90,0,0,0,0,0,0,0,0,86,6,3,1,2,0.0,0.0,0.1,3,0,52,79,65.8,11,51,3,1,1,Match Report
+2018-2019,2019-01-09,Wed,Coupe de la Ligue,Quarter-finals,Home,W 1 (8)–1 (7),Monaco,Rennes,Y*,DM,120,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-13,Sun,Ligue 1,Matchweek 20,Away,D 1–1,Monaco,Marseille,Y*,DM,90,1,0,0,0,5,2,0,0,62,24,6,1,2,0.3,0.3,0.0,3,0,33,42,78.6,6,41,4,3,5,Match Report
+2018-2019,2019-01-16,Wed,Ligue 1,Matchweek 17,Home,D 1–1,Monaco,Nice,Y*,DM,90,0,0,0,0,2,0,0,0,83,15,1,1,0,0.2,0.2,0.0,2,0,61,76,80.3,6,62,14,1,1,Match Report
+2018-2019,2019-01-19,Sat,Ligue 1,Matchweek 21,Home,L 1–5,Monaco,Strasbourg,Y,DM,90,0,1,0,0,0,0,0,0,62,12,1,0,0,0.0,0.0,0.3,4,1,51,56,91.1,9,47,2,1,1,Match Report
+2018-2019,2019-01-22,Tue,Coupe de France,Round of 32,Home,L 1–3,Monaco,Metz,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-26,Sat,Ligue 1,Matchweek 22,Away,L 0–2,Monaco,Dijon,Y,CM,67,0,0,0,0,1,0,1,0,32,17,2,0,2,0.1,0.1,0.0,1,0,18,23,78.3,3,24,5,1,1,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Away,L 1–3,Leicester City,Tottenham,Y,CM,90,0,0,0,0,2,0,1,0,51,24,2,0,3,0.1,0.1,0.1,5,1,32,37,86.5,5,40,1,1,1,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,L 1–4,Leicester City,Crystal Palace,Y,CM,73,0,0,0,0,4,2,0,0,61,22,0,0,1,0.1,0.1,0.1,3,0,36,48,75.0,8,54,8,2,3,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–1,Leicester City,Brighton,Y,CM,68,0,1,0,0,2,0,0,0,37,18,0,0,1,0.0,0.0,0.5,2,1,25,30,83.3,4,31,5,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,L 1–2,Leicester City,Watford,Y,CM,81,0,1,0,0,2,0,0,0,70,16,1,0,1,0.0,0.0,0.5,2,1,52,62,83.9,2,51,3,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–1,Leicester City,Fulham,Y,DM,71,1,0,0,0,5,3,0,0,64,17,1,0,0,1.0,1.0,0.1,3,0,46,54,85.2,1,53,2,0,0,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,W 2–1,Leicester City,Burnley,Y,CM,90,0,0,0,0,0,0,0,0,56,15,2,0,0,0.0,0.0,0.1,2,1,34,47,72.3,3,34,4,0,1,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–0,Leicester City,Bournemouth,Y,"CM,AM",90,0,1,0,0,3,0,0,0,90,14,2,0,1,0.1,0.1,0.3,5,1,69,79,87.3,8,76,13,2,2,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Away,W 4–1,Leicester City,Huddersfield,Y,CM,90,1,0,0,0,3,2,0,0,55,21,2,0,3,0.1,0.1,0.0,3,0,38,44,86.4,3,41,2,0,0,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Home,L 0–1,Leicester City,Newcastle Utd,Y,CM,90,0,0,0,0,1,0,1,0,106,17,0,3,4,0.0,0.0,0.4,1,0,83,92,90.2,13,86,8,2,3,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,D 2–2,Leicester City,West Ham,Y,CM,89,0,1,0,0,0,0,0,0,53,11,1,1,1,0.0,0.0,0.3,2,1,39,40,97.5,7,43,5,2,5,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Home,W 3–0,Leicester City,Arsenal,Y,CM,90,1,0,0,0,4,1,0,0,58,11,1,0,1,0.2,0.2,0.1,5,0,36,47,76.6,4,43,7,1,2,Match Report
+2018-2019,2019-05-06,Mon,Premier League,Matchweek 37,Away,L 0–1,Leicester City,Manchester City,Y,CM,74,0,0,0,0,1,1,0,0,38,15,1,0,3,0.0,0.0,0.0,0,0,24,30,80.0,3,24,4,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 0–0,Leicester City,Chelsea,Y,CM,90,0,0,0,0,3,1,0,0,42,15,1,0,0,0.1,0.1,0.0,1,0,28,35,80.0,2,35,2,2,2,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 3–0,be Belgium,kz Kazakhstan,N,,24,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-11,Tue,Euro Qualifying,Group stage,Home,W 3–0,be Belgium,sco Scotland,Y,CM,77,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

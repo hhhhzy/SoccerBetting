@@ -1,0 +1,68 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-01,Sun,FIFA World Cup,Round of 16,Neutral,W 1 (3)–1 (2),hr Croatia,dk Denmark,N,"DM,RM",50,0,0,0,0,1,0,0,0,33,19,1,0,1,0.0,0.0,0.0,1,0,23,26,88.5,1,28,5,2,2,Match Report
+2018-2019,2018-07-07,Sat,FIFA World Cup,Quarter-finals,Neutral,W 2 (4)–2 (3),hr Croatia,ru Russia,N,"RW,AM",33,0,0,0,1,0,0,0,0,19,10,1,0,1,0.8,0.0,0.0,0,0,8,10,80.0,1,14,1,0,0,Match Report
+2018-2019,2018-07-11,Wed,FIFA World Cup,Semi-finals,Neutral,W 2–1,hr Croatia,eng England,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-15,Sun,FIFA World Cup,Final,Neutral,L 2–4,hr Croatia,fr France,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 3–2,Chelsea,Arsenal,N,CM,31,0,0,0,0,0,0,0,0,50,11,2,0,0,0.0,0.0,0.0,3,0,43,43,100.0,4,46,7,1,1,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Away,W 2–1,Chelsea,Newcastle Utd,Y,LM,78,0,0,0,0,0,0,1,0,111,10,2,0,0,0.0,0.0,0.1,3,0,96,104,92.3,5,99,11,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,W 2–0,Chelsea,Bournemouth,Y,CM,78,0,0,0,0,6,0,0,0,69,21,3,0,1,0.2,0.2,0.0,7,0,47,50,94.0,6,52,3,0,1,Match Report
+2018-2019,2018-09-06,Thu,Friendlies (M),Friendlies (M),Away,D 1–1,hr Croatia,pt Portugal,Y,DM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,UEFA Nations League,League A,Away,L 0–6,hr Croatia,es Spain,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,W 4–1,Chelsea,Cardiff City,Y,CM,49,0,0,0,0,2,2,0,0,41,1,0,0,0,0.3,0.3,0.0,0,0,36,38,94.7,2,32,1,0,0,Match Report
+2018-2019,2018-09-23,Sun,Premier League,Matchweek 6,Away,D 0–0,Chelsea,West Ham,Y,LM,78,0,0,0,0,1,0,0,0,72,20,0,0,1,0.2,0.2,0.0,3,0,59,64,92.2,6,70,9,2,2,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Away,W 2–1,Chelsea,Liverpool,Y,CM,63,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,D 1–1,Chelsea,Liverpool,Y,CM,80,0,1,0,0,2,1,0,0,49,29,3,0,2,0.1,0.1,0.2,1,1,38,40,95.0,2,36,2,0,0,Match Report
+2018-2019,2018-10-04,Thu,Europa Lg,Group stage,Home,W 1–0,eng Chelsea,hu Vidi,Y,CM,90,0,0,0,0,3,0,0,0,91,14,2,2,1,0.1,0.1,0.0,1,0,67,76,88.2,7,81,10,2,4,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Away,W 3–0,Chelsea,Southampton,N,CM,10,0,0,0,0,1,0,0,0,15,2,0,0,0,0.0,0.0,0.1,3,0,12,12,100.0,0,15,2,1,1,Match Report
+2018-2019,2018-10-12,Fri,UEFA Nations League,League A,Home,D 0–0,hr Croatia,eng England,Y,DM,72,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,D 2–2,Chelsea,Manchester Utd,Y,CM,68,0,0,0,0,2,0,0,0,85,16,0,0,0,0.1,0.1,0.0,1,0,71,76,93.4,4,69,13,2,2,Match Report
+2018-2019,2018-10-25,Thu,Europa Lg,Group stage,Home,W 3–1,eng Chelsea,by BATE Borisov,Y,CM,76,0,0,0,0,1,0,0,0,111,17,4,0,3,0.0,0.0,0.0,2,0,91,94,96.8,15,99,16,6,8,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Away,W 4–0,Chelsea,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Home,W 3–2,Chelsea,Derby County,Y,CM,90,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Home,W 3–1,Chelsea,Crystal Palace,N,LM,27,0,0,0,0,1,0,0,0,59,1,1,0,1,0.1,0.1,0.0,2,1,50,56,89.3,1,54,4,1,1,Match Report
+2018-2019,2018-11-08,Thu,Europa Lg,Group stage,Away,W 1–0,eng Chelsea,by BATE Borisov,N,CM,27,0,0,0,0,0,0,0,0,39,1,1,1,0,0.0,0.0,0.0,1,0,33,35,94.3,1,33,4,0,0,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Home,D 0–0,Chelsea,Everton,Y,CM,81,0,0,0,0,1,0,0,0,96,28,2,1,0,0.0,0.0,0.2,2,0,77,91,84.6,8,87,7,2,2,Match Report
+2018-2019,2018-11-15,Thu,UEFA Nations League,League A,Home,W 3–2,hr Croatia,es Spain,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 1–3,Chelsea,Tottenham,Y,CM,57,0,0,0,0,1,0,0,0,57,15,1,2,0,0.0,0.0,0.0,1,0,43,47,91.5,2,49,2,1,1,Match Report
+2018-2019,2018-11-29,Thu,Europa Lg,Group stage,Home,W 4–0,eng Chelsea,gr PAOK,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Home,W 2–0,Chelsea,Fulham,Y,CM,66,0,0,0,0,0,0,0,0,83,19,1,1,0,0.0,0.0,0.1,2,0,74,78,94.9,8,70,5,1,2,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,L 1–2,Chelsea,Wolves,N,CM,14,0,0,0,0,0,0,0,0,22,7,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,1,22,2,1,1,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 2–0,Chelsea,Manchester City,Y,CM,64,0,0,0,0,0,0,0,0,25,17,4,0,0,0.0,0.0,0.0,1,0,16,18,88.9,0,19,1,1,1,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Away,W 2–1,Chelsea,Brighton,Y,CM,74,0,0,0,0,0,0,0,0,53,17,0,0,0,0.0,0.0,0.0,3,0,39,47,83.0,1,41,1,0,0,Match Report
+2018-2019,2018-12-19,Wed,EFL Cup,Quarter-finals,Home,W 1–0,Chelsea,Bournemouth,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,L 0–1,Chelsea,Leicester City,Y,CM,60,0,0,0,0,2,0,0,0,59,16,3,1,2,0.1,0.1,0.2,3,0,45,50,90.0,8,47,6,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,W 2–1,Chelsea,Watford,Y,CM,79,0,1,0,0,0,0,0,0,78,33,2,0,0,0.0,0.0,1.1,2,1,66,71,93.0,5,71,10,1,2,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Away,W 1–0,Chelsea,Crystal Palace,N,CM,3,0,0,0,0,0,0,0,0,8,5,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,1,1,1,Match Report
+2018-2019,2019-01-08,Tue,EFL Cup,Semi-finals,Away,L 0–1,Chelsea,Tottenham,N,,16,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,W 2–1,Chelsea,Newcastle Utd,Y,CM,62,0,0,0,0,0,0,0,0,46,21,1,0,0,0.0,0.0,0.0,0,0,29,34,85.3,2,40,3,1,2,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 0–2,Chelsea,Arsenal,Y,CM,62,0,0,0,0,0,0,0,0,46,23,1,0,1,0.0,0.0,0.1,3,0,39,40,97.5,4,41,6,1,1,Match Report
+2018-2019,2019-01-24,Thu,EFL Cup,Semi-finals,Home,W 2 (4)–1 (2),Chelsea,Tottenham,N,,40,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-27,Sun,FA Cup,Fourth round,Home,W 3–0,Chelsea,Sheffield Weds,Y,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Away,L 0–4,Chelsea,Bournemouth,Y,CM,76,0,0,0,0,2,0,0,0,67,21,3,1,0,0.2,0.2,0.0,1,0,57,59,96.6,1,59,2,3,3,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,W 5–0,Chelsea,Huddersfield,N,DM,21,0,0,0,0,1,0,0,0,39,3,1,0,0,0.1,0.1,0.0,0,0,32,37,86.5,2,35,0,1,1,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Away,L 0–6,Chelsea,Manchester City,N,CM,39,0,0,0,0,0,0,0,0,18,26,1,0,1,0.0,0.0,0.0,0,0,15,15,100.0,0,13,0,0,0,Match Report
+2018-2019,2019-02-14,Thu,Europa Lg,Round of 32,Away,W 2–1,eng Chelsea,se Malmö,Y,"CM,DM",90,0,0,0,0,0,0,0,0,127,17,1,1,1,0.0,0.0,0.0,4,0,112,116,96.6,6,117,11,1,2,Match Report
+2018-2019,2019-02-18,Mon,FA Cup,Fifth round,Home,L 0–2,Chelsea,Manchester Utd,Y,CM,70,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-21,Thu,Europa Lg,Round of 32,Home,W 3–0,eng Chelsea,se Malmö,Y,"DM,CM",90,0,0,0,0,0,0,0,0,105,19,3,0,3,0.0,0.0,0.0,1,1,92,94,97.9,5,93,8,4,5,Match Report
+2018-2019,2019-02-24,Sun,EFL Cup,Final,Home,D 0 (3)–0 (4),Chelsea,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 2–0,Chelsea,Tottenham,Y,CM,76,0,0,0,0,2,0,0,0,73,40,2,1,2,0.1,0.1,0.1,4,0,50,59,84.7,2,58,9,2,2,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,W 2–1,Chelsea,Fulham,N,DM,23,0,0,0,0,0,0,0,0,22,4,0,1,3,0.0,0.0,0.0,0,0,16,17,94.1,0,13,0,0,0,Match Report
+2018-2019,2019-03-07,Thu,Europa Lg,Round of 16,Home,W 3–0,eng Chelsea,ua Dynamo Kyiv,Y,"CM,DM",90,0,0,0,0,0,0,0,0,96,40,2,2,5,0.0,0.0,0.1,1,0,66,77,85.7,7,86,4,5,6,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Home,D 1–1,Chelsea,Wolves,Y,CM,55,0,0,0,0,1,0,0,0,57,13,0,1,0,0.0,0.0,0.0,0,0,44,47,93.6,1,54,4,2,5,Match Report
+2018-2019,2019-03-14,Thu,Europa Lg,Round of 16,Away,W 5–0,eng Chelsea,ua Dynamo Kyiv,Y,"DM,CM",90,0,0,0,0,0,0,0,0,78,19,4,0,5,0.0,0.0,0.0,2,0,58,67,86.6,4,62,7,0,0,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Away,L 0–2,Chelsea,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Away,W 2–1,Chelsea,Cardiff City,Y,"CM,DM",90,0,0,0,0,1,0,0,0,70,19,3,0,0,0.0,0.0,0.0,1,0,52,59,88.1,4,61,5,1,1,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 27,Home,W 3–0,Chelsea,Brighton,N,CM,9,0,0,0,0,0,0,0,0,28,4,0,0,0,0.0,0.0,0.0,1,0,25,27,92.6,6,26,4,1,1,Match Report
+2018-2019,2019-04-08,Mon,Premier League,Matchweek 33,Home,W 2–0,Chelsea,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-11,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Chelsea,cz Slavia Prague,Y,CM,67,0,0,0,0,0,0,0,0,35,31,3,0,1,0.0,0.0,0.0,0,0,24,27,88.9,1,28,0,0,0,Match Report
+2018-2019,2019-04-14,Sun,Premier League,Matchweek 34,Away,L 0–2,Chelsea,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-18,Thu,Europa Lg,Quarter-finals,Home,W 4–3,eng Chelsea,cz Slavia Prague,Y,"DM,CM",90,0,0,0,0,0,0,0,0,69,39,6,0,1,0.0,0.0,0.0,2,0,50,54,92.6,0,52,5,2,2,Match Report
+2018-2019,2019-04-22,Mon,Premier League,Matchweek 35,Home,D 2–2,Chelsea,Burnley,N,CM,45,0,0,0,0,2,0,1,0,56,10,5,1,0,0.1,0.1,0.3,2,0,40,49,81.6,4,47,12,2,2,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Away,D 1–1,Chelsea,Manchester Utd,Y,CM,75,0,0,0,0,0,0,1,0,49,24,2,0,2,0.0,0.0,0.0,4,0,38,42,90.5,2,42,11,4,4,Match Report
+2018-2019,2019-05-02,Thu,Europa Lg,Semi-finals,Away,D 1–1,eng Chelsea,de Eint Frankfurt,N,CM,8,0,0,0,0,0,0,0,0,14,4,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,10,1,1,1,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Home,W 3–0,Chelsea,Watford,Y,CM,90,0,0,0,0,1,0,0,0,77,31,3,0,2,0.1,0.1,0.0,1,0,59,66,89.4,5,57,3,1,1,Match Report
+2018-2019,2019-05-09,Thu,Europa Lg,Semi-finals,Home,W 1 (4)–1 (3),eng Chelsea,de Eint Frankfurt,Y,CM,120,0,0,0,0,0,0,1,0,86,20,3,1,8,0.0,0.0,0.0,1,0,53,62,85.5,7,62,7,4,5,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,D 0–0,Chelsea,Leicester City,N,CM,15,0,0,0,0,0,0,0,0,26,3,3,0,0,0.0,0.0,0.0,0,0,20,21,95.2,2,23,3,0,0,Match Report
+2018-2019,2019-05-29,Wed,Europa Lg,Final,Home,W 4–1,eng Chelsea,eng Arsenal,Y,CM,75,0,0,0,0,0,0,0,0,65,13,2,0,1,0.0,0.0,0.0,3,2,50,55,90.9,4,54,6,1,3,Match Report
+2018-2019,2019-06-08,Sat,Euro Qualifying,Group stage,Home,W 2–1,hr Croatia,wal Wales,Y,AM,75,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-11,Tue,Friendlies (M),Friendlies (M),Home,L 1–2,hr Croatia,tn Tunisia,Y,CM,54,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

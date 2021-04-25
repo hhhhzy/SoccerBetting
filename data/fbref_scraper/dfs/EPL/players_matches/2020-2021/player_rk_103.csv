@@ -1,0 +1,50 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-08-23,Sun,First League,Matchweek 1,Away,W 6–0,Slavia Prague,České Budĕjov.,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-08-29,Sat,First League,Matchweek 2,Home,W 3–0,Slavia Prague,Příbram,Y,,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-04,Fri,UEFA Nations League,League B,Away,W 3–1,cz Czech Republic,sk Slovakia,Y,RB,90,1,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-12,Sat,First League,Matchweek 3,Away,D 1–1,Slavia Prague,FK Pardubice,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-18,Fri,First League,Matchweek 4,Home,W 5–1,Slavia Prague,Teplice,Y,,90,0,2,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-22,Tue,Champions Lg,Play-off Round,Home,D 0–0,cz Slavia Prague,dk Midtjylland,Y,RB,90,0,0,0,0,3,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,First League,Matchweek 5,Home,W 3–0,Slavia Prague,Slovácko,N,,7,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,Champions Lg,Play-off Round,Away,L 1–4,cz Slavia Prague,dk Midtjylland,Y,RB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,W 3–0,West Ham,Leicester City,Y,WB,90,0,0,0,0,0,0,1,0,50,18,4,1,3,0.0,0.0,0.1,3,0,18,34,52.9,2,21,3,0,0,Match Report
+2020-2021,2020-10-07,Wed,Friendlies (M),Friendlies (M),Away,W 2–1,cz Czech Republic,cy Cyprus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League B,Away,W 2–1,cz Czech Republic,il Israel,Y,RB,90,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Away,L 0–1,cz Czech Republic,sco Scotland,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 3–3,West Ham,Tottenham,Y,WB,90,0,0,0,0,1,0,0,0,52,5,3,0,1,0.1,0.1,0.0,1,1,30,44,68.2,0,28,5,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 1–1,West Ham,Manchester City,Y,WB,90,0,1,0,0,0,0,1,0,52,13,7,1,4,0.0,0.0,0.1,2,1,21,37,56.8,4,20,4,0,0,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,L 1–2,West Ham,Liverpool,Y,WB,90,0,0,0,0,0,0,0,0,38,9,0,0,1,0.0,0.0,0.0,0,0,19,29,65.5,2,18,3,1,1,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 1–0,West Ham,Fulham,Y,WB,90,0,0,0,0,0,0,0,0,81,22,2,0,7,0.0,0.0,0.1,2,0,50,65,76.9,7,47,8,2,3,Match Report
+2020-2021,2020-11-11,Wed,Friendlies (M),Friendlies (M),Away,L 0–1,cz Czech Republic,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League B,Home,W 1–0,cz Czech Republic,il Israel,Y,RB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League B,Home,W 2–0,cz Czech Republic,sk Slovakia,Y,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Away,W 1–0,West Ham,Sheffield Utd,Y,WB,90,0,0,0,0,1,1,0,0,77,8,2,1,5,0.1,0.1,0.3,4,0,58,67,86.6,6,42,3,0,0,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Home,W 2–1,West Ham,Aston Villa,Y,"WB,RB",90,0,0,0,0,1,0,0,0,36,14,2,1,2,0.0,0.0,0.0,0,0,16,25,64.0,4,16,1,0,0,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,L 1–3,West Ham,Manchester Utd,Y,WB,84,0,0,0,0,0,0,0,0,37,15,3,1,0,0.0,0.0,0.6,4,0,18,33,54.5,4,21,3,0,0,Match Report
+2020-2021,2020-12-11,Fri,Premier League,Matchweek 12,Away,W 2–1,West Ham,Leeds United,Y,RB,90,0,0,0,0,0,0,0,0,41,8,2,1,2,0.0,0.0,0.1,3,0,22,30,73.3,2,12,2,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 1–1,West Ham,Crystal Palace,Y,RB,90,0,1,0,0,0,0,0,0,82,11,6,1,1,0.0,0.0,0.2,4,1,56,74,75.7,4,44,3,1,1,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Away,L 0–3,West Ham,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,82,8,6,0,2,0.0,0.0,0.1,2,0,50,67,74.6,8,41,5,3,3,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 2–2,West Ham,Brighton,Y,WB,90,0,0,0,0,1,0,0,0,68,18,4,2,3,0.0,0.0,0.0,3,0,35,57,61.4,4,29,1,0,1,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,D 0–0,West Ham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Away,W 1–0,West Ham,Everton,Y,RB,90,0,0,0,0,0,0,0,0,57,12,2,1,4,0.0,0.0,0.0,1,0,37,45,82.2,1,23,2,0,1,Match Report
+2020-2021,2021-01-11,Mon,FA Cup,Third round,Away,W 1–0,West Ham,Stockport,Y,RB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,W 1–0,West Ham,Burnley,Y,RB,90,0,0,0,0,0,0,0,0,52,12,0,1,1,0.0,0.0,0.1,2,0,31,47,66.0,5,12,2,0,0,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Home,W 2–1,West Ham,West Brom,Y,RB,90,0,1,0,0,1,0,0,0,73,10,2,0,0,0.1,0.1,0.4,3,1,52,68,76.5,5,43,2,3,3,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 4–0,West Ham,Doncaster,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 3–2,West Ham,Crystal Palace,Y,RB,90,0,0,0,0,1,0,0,0,78,17,1,0,2,0.0,0.0,0.0,2,0,52,64,81.3,6,33,1,0,0,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,L 1–3,West Ham,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,62,10,1,2,3,0.0,0.0,0.0,0,0,39,51,76.5,3,35,4,1,2,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 3–1,West Ham,Aston Villa,Y,RB,90,0,0,0,0,1,1,0,0,63,17,3,0,2,0.1,0.1,0.2,3,0,29,46,63.0,5,30,3,1,1,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 0–0,West Ham,Fulham,Y,RB,90,0,0,0,0,1,0,0,0,63,15,2,0,3,0.1,0.1,0.0,1,0,34,47,72.3,5,29,3,0,0,Match Report
+2020-2021,2021-02-09,Tue,FA Cup,Fifth round,Away,L 0–1,West Ham,Manchester Utd,Y,RB,120,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Home,W 3–0,West Ham,Sheffield Utd,Y,WB,90,0,0,0,0,1,1,0,0,61,21,3,2,2,0.5,0.5,0.0,1,0,33,48,68.8,2,33,7,0,1,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,W 2–1,West Ham,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,34,4,1,4,1,0.0,0.0,0.0,0,0,17,28,60.7,2,15,1,1,1,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,L 1–2,West Ham,Manchester City,Y,"WB,RB",90,0,0,0,0,0,0,0,0,43,22,6,2,1,0.0,0.0,0.5,2,0,26,34,76.5,2,22,4,0,0,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Home,W 2–0,West Ham,Leeds United,Y,RB,90,0,0,0,0,0,0,0,0,33,8,0,1,0,0.0,0.0,0.0,0,0,15,28,53.6,1,14,0,0,0,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 0–1,West Ham,Manchester Utd,Y,"WB,RB",90,0,0,0,0,0,0,0,0,62,17,1,1,1,0.0,0.0,0.0,0,0,32,51,62.7,1,37,1,0,0,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 29,Home,D 3–3,West Ham,Arsenal,Y,RB,90,0,0,0,0,1,0,1,0,67,9,1,3,4,0.1,0.1,0.1,3,0,35,50,70.0,5,26,0,0,0,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,W 6–2,cz Czech Republic,ee Estonia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Home,D 1–1,cz Czech Republic,be Belgium,Y,RB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,WCQ — UEFA (M),First round,Away,L 0–1,cz Czech Republic,wal Wales,Y,RB,86,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Away,W 3–2,West Ham,Wolves,Y,RB,90,0,1,0,0,0,0,0,0,54,20,2,1,3,0.0,0.0,0.6,4,1,33,45,73.3,4,25,4,0,0,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Home,W 3–2,West Ham,Leicester City,Y,RB,90,0,1,0,0,0,0,0,0,71,12,1,2,3,0.0,0.0,0.1,2,1,34,59,57.6,2,33,2,0,0,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Away,L 2–3,West Ham,Newcastle Utd,Y,WB,90,0,0,0,0,1,1,0,0,83,13,2,3,3,0.0,0.0,0.2,3,0,45,65,69.2,4,44,3,2,3,Match Report

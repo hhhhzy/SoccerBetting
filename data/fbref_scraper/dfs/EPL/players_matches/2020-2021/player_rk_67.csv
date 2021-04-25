@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-03,Thu,UEFA Nations League,League B,Away,D 1–1,ie Republic of Ireland,bg Bulgaria,N,,21,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-06,Sun,UEFA Nations League,League B,Home,L 0–1,ie Republic of Ireland,fi Finland,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,W 1 (5)–1 (4),Burnley,Sheffield Utd,Y,LM,90,0,0,0,0,2,1,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,L 2–4,Burnley,Leicester City,Y,RM,39,0,0,0,0,1,1,0,0,19,17,3,1,3,0.1,0.1,0.0,0,0,9,11,81.8,1,9,0,0,0,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 1–3,Burnley,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-08,Thu,Euro Qualifying,Semi-finals,Away,L 0 (2)–0 (4),ie Republic of Ireland,sk Slovakia,N,,61,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League B,Home,D 0–0,ie Republic of Ireland,wal Wales,Y,FW,73,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,fi Finland,N,,38,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Away,D 0–0,Burnley,West Brom,N,RM,22,0,0,0,0,0,0,0,0,15,3,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,0,9,1,0,0,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Home,L 0–1,Burnley,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Home,L 0–3,Burnley,Chelsea,N,FW,18,0,0,0,0,0,0,0,0,15,2,0,0,2,0.0,0.0,0.0,0,0,8,9,88.9,0,10,0,0,0,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Away,D 0–0,Burnley,Brighton,Y,RM,90,0,0,0,0,1,0,0,0,44,25,3,0,2,0.1,0.1,0.0,1,0,20,30,66.7,2,29,6,2,3,Match Report
+2020-2021,2020-11-12,Thu,Friendlies (M),Friendlies (M),Away,L 0–3,ie Republic of Ireland,eng England,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League B,Away,L 0–1,ie Republic of Ireland,wal Wales,Y,CM,81,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League B,Home,D 0–0,ie Republic of Ireland,bg Bulgaria,Y,CM,78,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Home,W 1–0,Burnley,Crystal Palace,N,RM,17,0,0,0,0,0,0,0,0,6,3,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,D 1–1,Burnley,Everton,Y,RM,85,1,0,0,0,2,1,0,0,55,10,2,0,2,0.1,0.1,0.0,1,0,35,46,76.1,4,36,5,2,3,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,W 1–0,Burnley,Arsenal,Y,RM,90,0,0,0,0,0,0,1,0,43,15,2,2,3,0.0,0.0,0.3,2,0,21,29,72.4,1,25,5,2,2,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Away,D 0–0,Burnley,Aston Villa,Y,RM,89,0,0,0,0,2,2,1,0,28,15,1,2,3,0.1,0.1,0.0,0,0,8,17,47.1,2,16,4,1,1,Match Report
+2020-2021,2020-12-21,Mon,Premier League,Matchweek 14,Home,W 2–1,Burnley,Wolves,Y,RM,68,0,0,0,0,0,0,0,0,27,16,2,0,1,0.0,0.0,0.1,2,0,19,22,86.4,1,22,3,2,2,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,W 1–0,Burnley,Sheffield Utd,Y,"LM,RM",90,0,1,0,0,1,0,0,0,35,11,0,0,0,0.1,0.1,0.4,3,1,20,30,66.7,1,17,1,0,1,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 1 (4)–1 (3),Burnley,MK Dons,Y,LM,98,0,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 1,Home,L 0–1,Burnley,Manchester Utd,Y,LM,64,0,0,0,0,2,0,0,0,35,10,0,3,1,0.1,0.1,0.0,0,0,15,24,62.5,1,19,3,2,5,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,L 0–1,Burnley,West Ham,Y,"LM,RM",90,0,0,0,0,2,0,0,0,60,14,3,1,1,0.1,0.1,0.0,4,0,33,51,64.7,7,36,9,1,1,Match Report
+2020-2021,2021-01-21,Thu,Premier League,Matchweek 18,Away,W 1–0,Burnley,Liverpool,Y,RM,64,0,0,0,0,1,1,0,0,30,3,0,0,0,0.0,0.0,0.1,1,0,13,23,56.5,4,22,5,0,0,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,W 3–2,Burnley,Aston Villa,Y,RM,59,0,0,0,0,2,0,0,0,31,4,1,0,1,0.1,0.1,0.0,2,0,12,25,48.0,1,17,2,1,1,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,L 0–2,Burnley,Chelsea,Y,"RM,LM",75,0,0,0,0,0,0,0,0,31,11,1,0,2,0.0,0.0,0.0,0,0,17,23,73.9,3,11,1,1,1,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,W 3–0,Burnley,Crystal Palace,N,RM,19,0,0,0,0,0,0,0,0,13,2,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,2,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 17,Home,D 1–1,Burnley,Fulham,N,RM,25,0,0,0,0,1,0,1,0,18,3,0,0,0,0.1,0.1,0.0,0,0,9,11,81.8,2,12,0,1,1,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,D 1–1,Burnley,Arsenal,N,RM,23,0,0,0,0,0,0,0,0,9,11,1,0,1,0.0,0.0,0.0,0,0,5,7,71.4,1,6,1,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,W 2–1,Burnley,Everton,N,"LM,RM",25,0,0,0,0,1,0,0,0,11,5,1,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,3,0,0,0,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,L 2–3,ie Republic of Ireland,rs Serbia,N,,12,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Home,L 0–1,ie Republic of Ireland,lu Luxembourg,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,ie Republic of Ireland,qa Qatar,Y,CM,21,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

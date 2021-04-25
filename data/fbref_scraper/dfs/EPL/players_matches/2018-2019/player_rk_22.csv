@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,W 2–1,Tottenham,Newcastle Utd,Y,RB,90,0,1,0,0,1,0,0,0,68,20,4,2,2,0.0,0.0,0.2,2,1,39,54,72.2,2,47,3,2,2,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 3–1,Tottenham,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-27,Mon,Premier League,Matchweek 3,Away,W 3–0,Tottenham,Manchester Utd,N,RB,15,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,1,1,Match Report
+2018-2019,2018-09-09,Sun,Africa Cup of Nations qualification,Group stage,Away,W 2–1,ci Côte d'Ivoire,rw Rwanda,Y*,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Home,L 1–2,Tottenham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-18,Tue,Champions Lg,Group stage,Away,L 1–2,eng Tottenham,it Inter,Y,RB,90,0,0,0,0,1,0,0,0,70,11,2,3,1,0.0,0.0,0.1,3,0,43,64,67.2,7,51,6,4,4,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,W 2–1,Tottenham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Home,W 2 (4)–2 (2),Tottenham,Watford,Y,RB,120,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-12,Fri,Africa Cup of Nations qualification,Group stage,Home,W 4–0,ci Côte d'Ivoire,cf Central African Republic,Y*,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Africa Cup of Nations qualification,Group stage,Away,D 0–0,ci Côte d'Ivoire,cf Central African Republic,Y*,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 1–0,Tottenham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-24,Wed,Champions Lg,Group stage,Away,D 2–2,eng Tottenham,nl PSV Eindhoven,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-29,Mon,Premier League,Matchweek 10,Home,L 0–1,Tottenham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Away,W 3–1,Tottenham,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 3–2,Tottenham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-06,Tue,Champions Lg,Group stage,Home,W 2–1,eng Tottenham,nl PSV Eindhoven,Y,RB,74,0,0,0,0,0,0,0,0,66,4,0,0,2,0.0,0.0,0.0,0,0,39,55,70.9,4,51,11,5,6,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,W 1–0,Tottenham,Crystal Palace,N,RB,67,0,0,0,0,0,0,0,0,57,20,3,0,2,0.0,0.0,0.1,1,0,34,48,70.8,4,29,7,0,1,Match Report
+2018-2019,2018-11-18,Sun,Africa Cup of Nations qualification,Group stage,Away,D 1–1,ci Côte d'Ivoire,gn Guinea,Y*,RB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,W 3–1,Tottenham,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,70,24,5,1,3,0.0,0.0,0.1,1,0,44,55,80.0,6,37,2,0,1,Match Report
+2018-2019,2018-11-28,Wed,Champions Lg,Group stage,Home,W 1–0,eng Tottenham,it Inter,Y,RB,90,0,0,0,0,1,0,0,0,74,16,2,2,4,0.0,0.0,0.0,0,0,50,59,84.7,6,46,5,1,1,Match Report
+2018-2019,2018-12-02,Sun,Premier League,Matchweek 14,Away,L 2–4,Tottenham,Arsenal,Y,RB,90,0,0,0,0,0,0,1,0,49,26,5,1,1,0.0,0.0,0.0,0,0,23,34,67.6,2,24,2,2,4,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,W 3–1,Tottenham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,W 2–0,Tottenham,Leicester City,Y,RB,77,0,1,0,0,1,0,0,0,62,7,0,2,0,0.0,0.0,0.0,1,1,43,55,78.2,3,40,1,0,0,Match Report
+2018-2019,2019-01-04,Fri,FA Cup,Third round,Away,W 7–0,Tottenham,Tranmere Rovers,Y,RM,90,2,0,0,0,4,2,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-24,Thu,EFL Cup,Semi-finals,Away,L 1 (2)–2 (4),Tottenham,Chelsea,Y,RB,120,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-27,Sun,FA Cup,Fourth round,Away,L 0–2,Tottenham,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,W 2–1,Tottenham,Watford,Y,RM,45,0,0,0,0,0,0,0,0,39,13,2,0,1,0.0,0.0,0.0,0,0,21,29,72.4,1,26,3,1,1,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Home,W 3–1,Tottenham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-13,Wed,Champions Lg,Round of 16,Home,W 3–0,eng Tottenham,de Dortmund,Y,WB,90,0,1,0,0,0,0,1,0,75,25,2,1,2,0.0,0.0,0.3,3,1,52,65,80.0,4,46,1,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Away,L 1–2,Tottenham,Burnley,Y,"RM,RB",90,0,0,0,0,2,1,0,0,80,17,3,1,5,0.1,0.1,0.1,4,0,46,62,74.2,7,56,7,2,5,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Tottenham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,D 1–1,Tottenham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-05,Tue,Champions Lg,Round of 16,Away,W 1–0,eng Tottenham,de Dortmund,Y,WB,90,0,0,0,0,0,0,0,0,71,34,2,6,2,0.0,0.0,0.0,0,0,42,54,77.8,2,41,3,0,2,Match Report
+2018-2019,2019-03-23,Sat,Africa Cup of Nations qualification,Group stage,Home,W 3–0,ci Côte d'Ivoire,rw Rwanda,Y*,RB,29,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 2–2,Tottenham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-01,Sat,Champions Lg,Final,Home,L 0–2,eng Tottenham,eng Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-07,Fri,Friendlies (M),Friendlies (M),Home,W 3–1,ci Côte d'Ivoire,km Comoros,Y*,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-15,Sat,Friendlies (M),Friendlies (M),Home,L 0–1,ci Côte d'Ivoire,ug Uganda,Y*,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-19,Wed,Friendlies (M),Friendlies (M),Home,W 4–1,ci Côte d'Ivoire,zm Zambia,Y*,,63,0,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-24,Mon,Africa Cup of Nations,Group stage,Neutral,W 1–0,ci Côte d'Ivoire,za South Africa,Y*,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-28,Fri,Africa Cup of Nations,Group stage,Neutral,L 0–1,ci Côte d'Ivoire,ma Morocco,Y*,RB,68,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report

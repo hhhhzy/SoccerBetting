@@ -1,0 +1,26 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,W 3–0,Huddersfield,Crystal Palace,Y,AM,71,0,0,0,0,1,1,1,0,23,18,1,0,0,0.0,0.0,0.0,0,0,12,17,70.6,1,15,1,0,0,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Home,W 1–0,Huddersfield,Newcastle Utd,N,RW,19,0,0,0,0,0,0,1,0,6,7,0,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Home,W 2–1,Huddersfield,Rotherham Utd,Y,AM,73,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,D 0–0,Huddersfield,Southampton,N,LW,35,0,0,0,0,1,0,0,0,25,9,0,0,2,0.0,0.0,0.0,3,0,17,21,81.0,2,19,2,1,1,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 0–2,Huddersfield,Everton,N,"AM,CM,RW,FW",45,0,0,0,0,0,0,0,0,28,21,5,0,3,0.0,0.0,0.0,1,0,13,19,68.4,2,12,2,0,0,Match Report
+2017-2018,2018-01-29,Mon,PL2 — Div. 1,Regular Season,Away,L 1–2,Chelsea,Everton,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Championship,Matchweek 30,Home,W 3–0,Derby County,Brentford,N,,,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Championship,Matchweek 31,Home,D 1–1,Derby County,Norwich City,N,,17,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-13,Tue,Championship,Matchweek 32,Away,L 0–2,Derby County,Sheffield Weds,N,,7,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-21,Wed,Championship,Matchweek 33,Home,D 2–2,Derby County,Leeds United,N,,15,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Championship,Matchweek 34,Away,D 3–3,Derby County,Reading,Y,AM,78,1,0,0,0,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Championship,Matchweek 35,Home,L 1–2,Derby County,Fulham,N,,34,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-06,Tue,Championship,Matchweek 36,Away,D 1–1,Derby County,QPR,Y,AM,83,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-11,Sun,Championship,Matchweek 37,Away,D 0–0,Derby County,Nott'ham Forest,N,,24,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-30,Fri,Championship,Matchweek 39,Home,L 1–4,Derby County,Sunderland,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-02,Mon,Championship,Matchweek 40,Away,W 1–0,Derby County,Preston,N,,16,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Championship,Matchweek 41,Home,W 3–0,Derby County,Bolton,N,,21,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-11,Wed,Championship,Matchweek 42,Away,L 0–2,Derby County,Wolves,N,,17,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-14,Sat,Championship,Matchweek 43,Away,L 1–3,Derby County,Burton Albion,N,,33,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-21,Sat,Championship,Matchweek 44,Home,L 1–2,Derby County,Middlesbrough,N,,27,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-24,Tue,Championship,Matchweek 38,Home,W 3–1,Derby County,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-28,Sat,Championship,Matchweek 45,Away,D 1–1,Derby County,Aston Villa,N,,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-06,Sun,Championship,Matchweek 46,Home,W 4–1,Derby County,Barnsley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-11,Fri,Championship,Semi-finals,Home,W 1–0,Derby County,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-14,Mon,Championship,Semi-finals,Away,L 0–2,Derby County,Fulham,N,,23,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report

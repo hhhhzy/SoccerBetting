@@ -1,0 +1,48 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-25,Sun,Premier League,Matchweek 3,Home,L 0–1,Tottenham,Newcastle Utd,Y,LW,90,0,0,0,0,6,2,0,0,74,11,0,0,1,0.2,0.2,0.0,6,0,53,59,89.8,2,62,9,5,9,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Away,D 2–2,Tottenham,Arsenal,Y,"LW,RW",78,0,0,0,0,2,2,0,0,45,23,1,1,0,0.2,0.2,0.2,5,1,21,28,75.0,4,34,9,2,4,Match Report
+2019-2020,2019-09-05,Thu,Friendlies (M),Friendlies (M),Neutral,D 2–2,kr Korea Republic,ge Georgia,Y*,FW,60,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-10,Tue,WCQ — AFC (M),Second round,Away,W 2–0,kr Korea Republic,tm Turkmenistan,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 4–0,Tottenham,Crystal Palace,Y,FW,90,2,0,0,0,6,3,0,0,42,22,3,0,0,0.5,0.5,0.0,4,2,25,30,83.3,3,28,6,0,0,Match Report
+2019-2020,2019-09-18,Wed,Champions Lg,Group stage,Away,D 2–2,eng Tottenham,gr Olympiacos,N,LW,18,0,0,0,0,0,0,0,0,8,5,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,2,1,1,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Away,L 1–2,Tottenham,Leicester City,Y,FW,90,0,1,0,0,3,1,0,0,45,17,0,0,1,0.3,0.3,0.7,5,1,28,31,90.3,5,37,5,3,7,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,L 0 (3)–0 (4),Tottenham,Colchester Utd,N,,55,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Southampton,Y,FW,63,0,1,0,0,1,1,0,0,34,16,3,0,1,0.0,0.0,0.3,6,2,14,20,70.0,1,36,8,6,14,Match Report
+2019-2020,2019-10-01,Tue,Champions Lg,Group stage,Home,L 2–7,eng Tottenham,de Bayern Munich,Y,"FW,RW,LM",90,1,0,0,0,5,3,0,0,35,32,1,0,0,0.7,0.7,0.1,4,0,18,25,72.0,1,25,4,3,5,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 0–3,Tottenham,Brighton,Y,"LW,AM,RW",72,0,0,0,0,0,0,0,0,29,27,2,1,0,0.0,0.0,0.0,1,0,15,20,75.0,1,26,4,2,5,Match Report
+2019-2020,2019-10-10,Thu,WCQ — AFC (M),Second round,Home,W 8–0,kr Korea Republic,lk Sri Lanka,Y*,FW,61,2,1,1,1,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,WCQ — AFC (M),Second round,Away,D 0–0,kr Korea Republic,kp Korea DPR,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,D 1–1,Tottenham,Watford,N,RW,45,0,0,0,0,1,1,0,0,34,7,0,0,0,0.1,0.1,0.0,1,0,22,25,88.0,3,29,7,1,3,Match Report
+2019-2020,2019-10-22,Tue,Champions Lg,Group stage,Home,W 5–0,eng Tottenham,rs Red Star,Y,LW,67,2,0,0,0,4,3,0,0,51,20,3,0,1,0.5,0.5,0.6,6,0,32,39,82.1,4,42,12,6,7,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,L 1–2,Tottenham,Liverpool,Y,LW,90,0,0,0,0,5,1,0,0,40,28,4,1,0,0.5,0.5,0.0,3,1,17,21,81.0,3,30,2,2,4,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Away,D 1–1,Tottenham,Everton,Y,"RW,FW",78,0,1,0,0,1,0,0,1,20,14,0,0,1,0.0,0.0,0.2,1,1,12,13,92.3,1,18,3,2,5,Match Report
+2019-2020,2019-11-06,Wed,Champions Lg,Group stage,Away,W 4–0,eng Tottenham,rs Red Star,Y,LW,74,2,1,0,0,6,2,0,0,47,17,0,2,1,1.9,1.9,0.0,2,1,29,34,85.3,1,42,8,5,7,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,D 1–1,Tottenham,Sheffield Utd,Y,"LW,AM",90,1,0,0,0,7,3,0,0,48,18,1,0,1,0.5,0.5,0.2,8,0,27,30,90.0,2,43,7,6,9,Match Report
+2019-2020,2019-11-14,Thu,WCQ — AFC (M),Second round,Away,D 0–0,kr Korea Republic,lb Lebanon,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–3,kr Korea Republic,br Brazil,Y*,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 3–2,Tottenham,West Ham,Y,LW,90,1,1,0,0,3,2,0,0,38,14,2,0,0,0.2,0.2,0.8,5,2,22,27,81.5,2,30,7,2,3,Match Report
+2019-2020,2019-11-26,Tue,Champions Lg,Group stage,Home,W 4–2,eng Tottenham,gr Olympiacos,Y,LW,90,0,1,0,0,2,1,0,0,41,35,2,1,3,0.0,0.0,0.1,2,1,22,26,84.6,0,29,5,1,7,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Home,W 3–2,Tottenham,Bournemouth,Y,LW,87,0,2,0,0,2,0,0,0,39,31,5,0,2,0.2,0.2,1.7,4,2,25,27,92.6,6,29,4,0,0,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 1–2,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,1,0,0,0,52,19,0,0,3,0.1,0.1,0.0,2,0,36,44,81.8,3,41,7,7,8,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Home,W 5–0,Tottenham,Burnley,Y,LW,90,1,1,0,0,3,2,0,0,46,14,0,1,0,0.7,0.7,0.5,8,4,24,31,77.4,3,34,8,5,7,Match Report
+2019-2020,2019-12-11,Wed,Champions Lg,Group stage,Away,L 1–3,eng Tottenham,de Bayern Munich,N,FW,26,0,0,0,0,1,1,0,0,9,7,0,0,0,0.4,0.4,0.0,0,0,3,5,60.0,0,9,1,2,2,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Away,W 2–1,Tottenham,Wolves,Y,LW,89,0,0,0,0,1,1,0,0,35,19,1,0,0,0.2,0.2,0.0,1,0,21,25,84.0,2,30,4,3,3,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Home,L 0–2,Tottenham,Chelsea,Y,"LW,AM",61,0,0,0,0,1,0,0,1,22,20,0,0,1,0.1,0.1,0.0,0,0,13,19,68.4,0,14,3,0,0,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Away,D 1–1,Tottenham,Middlesbrough,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Liverpool,Y,LM,90,0,0,0,0,4,1,0,0,26,19,2,1,0,0.4,0.4,0.0,4,0,15,16,93.8,2,20,7,1,3,Match Report
+2019-2020,2020-01-14,Tue,FA Cup,Third round,Home,W 2–1,Tottenham,Middlesbrough,N,,30,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 0–0,Tottenham,Watford,Y,LW,90,0,0,0,0,4,2,0,0,43,26,0,0,0,0.2,0.2,0.3,5,0,30,33,90.9,2,41,10,5,7,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Home,W 2–1,Tottenham,Norwich City,Y,"LW,FW",90,1,0,0,0,5,1,0,0,48,32,0,1,0,1.0,1.0,0.0,1,1,24,31,77.4,2,33,5,0,2,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,D 1–1,Tottenham,Southampton,Y,FW,90,1,0,0,0,3,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,Premier League,Matchweek 25,Home,W 2–0,Tottenham,Manchester City,Y,"RW,LW",90,1,0,0,0,2,2,0,0,38,16,1,2,0,0.2,0.2,0.0,0,0,15,24,62.5,4,26,7,0,1,Match Report
+2019-2020,2020-02-05,Wed,FA Cup,Fourth round,Home,W 3–2,Tottenham,Southampton,Y,FW,90,1,0,1,1,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-16,Sun,Premier League,Matchweek 26,Away,W 3–2,Tottenham,Aston Villa,Y,FW,90,2,0,0,1,6,5,0,0,45,24,0,0,3,1.8,1.0,0.3,4,1,14,23,60.9,0,24,5,2,4,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Home,D 1–1,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,4,2,0,0,57,23,2,2,5,0.1,0.1,0.1,1,0,26,36,72.2,4,33,1,1,2,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Home,W 2–0,Tottenham,West Ham,Y,LW,85,0,1,0,0,0,0,0,0,55,10,0,0,3,0.0,0.0,0.6,4,1,40,45,88.9,5,39,7,1,1,Match Report
+2019-2020,2020-07-02,Thu,Premier League,Matchweek 32,Away,L 1–3,Tottenham,Sheffield Utd,Y,"LW,WB",90,0,1,0,0,0,0,0,0,45,14,0,1,1,0.0,0.0,0.7,3,1,31,41,75.6,1,31,5,1,1,Match Report
+2019-2020,2020-07-06,Mon,Premier League,Matchweek 33,Home,W 1–0,Tottenham,Everton,Y,LW,77,0,0,0,0,4,2,0,0,41,14,0,0,0,0.2,0.2,0.1,5,0,25,34,73.5,1,23,7,2,2,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Away,D 0–0,Tottenham,Bournemouth,N,LW,45,0,0,0,0,1,0,0,0,39,4,1,0,1,0.2,0.2,0.0,1,0,23,33,69.7,3,23,3,0,0,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 2–1,Tottenham,Arsenal,Y,AM,89,1,1,0,0,3,2,0,0,38,27,1,0,1,0.6,0.6,0.2,4,1,19,29,65.5,1,27,4,2,3,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,W 3–1,Tottenham,Newcastle Utd,Y,"LW,AM",90,1,0,0,0,2,2,0,0,45,15,1,0,0,0.1,0.1,0.0,0,0,32,39,82.1,2,33,4,1,1,Match Report
+2019-2020,2020-07-19,Sun,Premier League,Matchweek 37,Home,W 3–0,Tottenham,Leicester City,Y,LW,88,0,0,0,0,2,1,0,0,28,7,0,1,1,0.2,0.2,0.0,2,1,12,15,80.0,0,21,2,2,2,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,D 1–1,Tottenham,Crystal Palace,Y,LW,79,0,0,0,0,1,0,0,0,50,13,3,1,2,0.0,0.0,0.0,2,0,24,33,72.7,1,41,2,3,6,Match Report

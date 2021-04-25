@@ -1,0 +1,33 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-09-25,Fri,Championship,Matchweek 9,Away,L 0–4,QPR,Fulham,N,,45,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-10-03,Sat,Championship,Matchweek 10,Home,W 4–3,QPR,Bolton,Y,AM,76,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-10-17,Sat,Championship,Matchweek 11,Away,L 1–2,QPR,Birmingham City,Y,AM,71,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-10-20,Tue,Championship,Matchweek 12,Home,D 0–0,QPR,Sheffield Weds,N,,21,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-10-24,Sat,Championship,Matchweek 13,Home,W 3–0,QPR,MK Dons,N,,33,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-11-03,Tue,Championship,Matchweek 15,Away,L 0–1,QPR,Derby County,N,,14,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2015-2016,2015-11-07,Sat,Championship,Matchweek 16,Home,D 0–0,QPR,Preston,Y,AM,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-11-20,Fri,Championship,Matchweek 17,Away,L 0–1,QPR,Middlesbrough,Y,AM,89,0,0,0,0,,,0,1,,,,,,,0,,,Match Report
+2015-2016,2015-12-03,Thu,Championship,Matchweek 19,Away,W 1–0,QPR,Reading,Y,LM,90,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-12,Sat,Championship,Matchweek 20,Home,D 0–0,QPR,Burnley,Y,FW,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-15,Tue,Championship,Matchweek 21,Home,D 2–2,QPR,Brighton,Y,AM,82,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-19,Sat,Championship,Matchweek 22,Away,D 1–1,QPR,Bristol City,Y,AM,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-26,Sat,Championship,Matchweek 23,Away,L 1–2,QPR,Ipswich Town,Y,AM,71,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-28,Mon,Championship,Matchweek 24,Home,D 1–1,QPR,Huddersfield,Y,AM,69,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-01,Fri,Championship,Matchweek 25,Home,L 1–2,QPR,Hull City,N,,19,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-12,Tue,Championship,Matchweek 26,Away,D 1–1,QPR,Blackburn,Y,LM,90,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-16,Sat,Championship,Matchweek 27,Away,W 3–0,QPR,Rotherham Utd,Y,AM,90,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-23,Sat,Championship,Matchweek 28,Home,D 1–1,QPR,Wolves,Y,RM,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-01-26,Tue,Championship,Matchweek 29,Away,D 0–0,QPR,Nott'ham Forest,Y,AM,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-02-06,Sat,Premier League,Matchweek 25,Home,D 1–1,Swansea City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-13,Sat,Premier League,Matchweek 26,Home,L 0–1,Swansea City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-02-28,Sun,Premier League,Matchweek 27,Away,L 1–2,Swansea City,Tottenham,N,,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+2015-2016,2016-03-02,Wed,Premier League,Matchweek 28,Away,W 2–1,Swansea City,Arsenal,Y,CM,70,0,0,0,0,1,0,0,0,1,0,0,0,3,1,0,,,Match Report
+2015-2016,2016-03-05,Sat,Premier League,Matchweek 29,Home,W 1–0,Swansea City,Norwich City,N,,36,0,1,0,0,0,0,0,0,1,1,0,0,2,1,0,,,Match Report
+2015-2016,2016-03-12,Sat,Premier League,Matchweek 30,Away,L 2–3,Swansea City,Bournemouth,Y,CM,83,0,1,0,0,1,0,0,0,1,4,0,0,4,0,0,,,Match Report
+2015-2016,2016-03-19,Sat,Premier League,Matchweek 31,Home,W 1–0,Swansea City,Aston Villa,Y,AM,90,0,0,0,0,0,0,0,0,3,1,0,0,1,1,0,,,Match Report
+2015-2016,2016-04-02,Sat,Premier League,Matchweek 32,Away,D 2–2,Swansea City,Stoke City,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0,0,2,1,0,,,Match Report
+2015-2016,2016-04-09,Sat,Premier League,Matchweek 33,Home,W 1–0,Swansea City,Chelsea,Y,CM,90,0,0,0,0,1,1,1,0,3,3,0,0,1,6,0,,,Match Report
+2015-2016,2016-04-16,Sat,Premier League,Matchweek 34,Away,L 0–3,Swansea City,Newcastle Utd,Y,DM,56,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,,,Match Report
+2015-2016,2016-04-24,Sun,Premier League,Matchweek 35,Away,L 0–4,Swansea City,Leicester City,Y,CM,45,0,0,0,0,0,0,0,0,1,1,0,0,3,2,0,,,Match Report
+2015-2016,2016-05-07,Sat,Premier League,Matchweek 37,Away,W 4–1,Swansea City,West Ham,Y,CM,90,0,0,0,0,1,0,0,0,2,1,0,0,0,2,0,,,Match Report
+2015-2016,2016-05-15,Sun,Premier League,Matchweek 38,Home,D 1–1,Swansea City,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,,,Match Report

@@ -1,0 +1,54 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,L 1–3,Manchester Utd,Crystal Palace,Y,"LW,LM",90,0,0,0,0,1,0,0,0,62,8,0,0,0,0.0,0.0,0.1,5,0,45,52,86.5,2,47,4,3,4,Match Report
+2020-2021,2020-09-22,Tue,EFL Cup,Third round,Away,W 3–0,Manchester Utd,Luton Town,N,,12,1,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Away,W 3–2,Manchester Utd,Brighton,Y,"LW,FW",90,1,0,0,0,2,1,0,0,34,8,0,0,0,0.2,0.2,0.0,2,0,24,28,85.7,5,22,3,0,0,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 3–0,Manchester Utd,Brighton,N,,22,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,L 1–6,Manchester Utd,Tottenham,Y,LW,90,0,0,0,0,0,0,0,0,35,11,0,1,0,0.0,0.0,0.0,1,0,23,29,79.3,2,21,4,2,3,Match Report
+2020-2021,2020-10-08,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,wal Wales,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Home,W 2–1,eng England,be Belgium,Y,AM,90,1,0,1,1,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Home,L 0–1,eng England,dk Denmark,Y,FW,71,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Away,W 4–1,Manchester Utd,Newcastle Utd,Y,FW,90,1,2,0,0,7,3,0,0,48,6,0,0,1,0.7,0.7,0.5,7,2,25,29,86.2,2,31,9,2,4,Match Report
+2020-2021,2020-10-20,Tue,Champions Lg,Group stage,Away,W 2–1,eng Manchester Utd,fr Paris S-G,Y,FW,90,1,0,0,0,4,3,0,0,40,18,1,0,0,0.4,0.4,0.1,4,0,20,24,83.3,4,24,5,3,7,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 0–0,Manchester Utd,Chelsea,Y,"FW,LW",90,0,0,0,0,3,2,1,0,47,8,0,1,0,0.2,0.2,0.1,2,0,24,32,75.0,3,26,4,1,3,Match Report
+2020-2021,2020-10-28,Wed,Champions Lg,Group stage,Home,W 5–0,eng Manchester Utd,de RB Leipzig,N,FW,28,3,0,0,0,4,3,0,0,16,2,0,1,0,1.1,1.1,0.0,4,2,7,7,100.0,2,13,2,3,3,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,L 0–1,Manchester Utd,Arsenal,Y,FW,90,0,0,0,0,1,0,0,0,41,7,0,0,0,0.0,0.0,0.1,1,0,24,30,80.0,1,31,4,0,1,Match Report
+2020-2021,2020-11-04,Wed,Champions Lg,Group stage,Away,L 1–2,eng Manchester Utd,tr Başakşehir,Y,"LW,RW",75,0,0,0,0,1,0,0,0,62,11,0,1,3,0.0,0.0,0.0,2,0,43,53,81.1,2,32,5,1,1,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Away,W 3–1,Manchester Utd,Everton,Y,"LW,RW",90,0,1,0,0,3,1,0,0,53,10,2,0,1,0.4,0.4,0.2,5,1,26,37,70.3,2,43,12,4,6,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,W 1–0,Manchester Utd,West Brom,Y,"LW,RW",78,0,0,0,0,2,2,0,0,49,7,0,0,1,0.3,0.3,0.0,1,0,27,34,79.4,3,37,11,2,4,Match Report
+2020-2021,2020-11-24,Tue,Champions Lg,Group stage,Home,W 4–1,eng Manchester Utd,tr Başakşehir,Y,RW,58,1,0,1,1,2,1,0,0,34,9,0,0,1,1.1,0.4,0.2,4,1,16,24,66.7,2,22,2,2,2,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Away,W 3–2,Manchester Utd,Southampton,Y,FW,90,0,1,0,0,1,1,0,0,41,15,0,0,0,0.3,0.3,0.3,3,1,20,28,71.4,2,25,3,2,4,Match Report
+2020-2021,2020-12-02,Wed,Champions Lg,Group stage,Home,L 1–3,eng Manchester Utd,fr Paris S-G,Y,RW,73,1,0,0,0,2,2,0,0,35,7,1,0,0,0.1,0.1,0.4,2,0,19,23,82.6,1,28,4,3,6,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,N,"FW,LW",45,1,0,0,0,4,1,0,0,24,3,0,1,0,1.0,1.0,0.1,2,0,16,18,88.9,2,23,7,3,4,Match Report
+2020-2021,2020-12-08,Tue,Champions Lg,Group stage,Away,L 2–3,eng Manchester Utd,de RB Leipzig,Y,FW,90,0,0,0,0,5,2,0,0,33,10,0,0,1,0.4,0.4,0.0,3,0,14,18,77.8,2,24,1,4,7,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,D 0–0,Manchester Utd,Manchester City,Y,"FW,RW",90,0,0,0,0,1,0,0,0,22,13,1,1,0,0.1,0.1,0.1,2,0,14,16,87.5,1,20,3,1,2,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,Y,LW,90,2,0,0,0,5,3,0,0,49,13,0,0,3,0.9,0.9,0.1,4,0,27,31,87.1,1,34,9,3,5,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,W 6–2,Manchester Utd,Leeds United,Y,LW,70,0,0,0,0,3,1,0,0,42,4,1,1,1,0.1,0.1,0.0,7,2,25,32,78.1,2,45,6,7,7,Match Report
+2020-2021,2020-12-23,Wed,EFL Cup,Quarter-finals,Away,W 2–0,Manchester Utd,Everton,N,,24,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,D 2–2,Manchester Utd,Leicester City,Y,"LW,RW",90,1,0,0,0,3,2,0,0,34,12,0,0,1,1.3,1.3,0.0,2,0,14,20,70.0,3,29,7,2,5,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,W 1–0,Manchester Utd,Wolves,Y,"LW,RW",90,1,0,0,0,3,1,1,0,69,12,0,0,0,0.3,0.3,0.0,1,0,46,55,83.6,1,59,4,4,11,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Home,W 2–1,Manchester Utd,Aston Villa,Y,FW,90,0,0,0,0,4,2,0,0,43,8,0,1,1,0.3,0.3,0.0,3,1,21,27,77.8,6,37,11,4,7,Match Report
+2020-2021,2021-01-06,Wed,EFL Cup,Semi-finals,Home,L 0–2,Manchester Utd,Manchester City,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 1–0,Manchester Utd,Watford,N,,23,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 1,Away,W 1–0,Manchester Utd,Burnley,Y,RW,79,0,1,0,0,0,0,0,0,63,7,0,1,1,0.0,0.0,0.0,2,1,43,52,82.7,1,52,8,2,4,Match Report
+2020-2021,2021-01-17,Sun,Premier League,Matchweek 19,Away,D 0–0,Manchester Utd,Liverpool,Y,FW,90,0,0,0,0,1,0,1,0,27,16,1,0,0,0.0,0.0,0.0,1,0,13,23,56.5,1,20,3,0,0,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 18,Away,W 2–1,Manchester Utd,Fulham,N,RW,6,0,0,0,0,0,0,0,0,6,3,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,7,1,1,1,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,W 3–2,Manchester Utd,Liverpool,Y,AM,85,1,1,0,0,2,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,L 1–2,Manchester Utd,Sheffield Utd,Y,"LW,RW",90,0,0,0,0,2,1,0,0,57,5,0,0,1,0.1,0.1,0.0,1,0,40,52,76.9,4,43,5,3,3,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,D 0–0,Manchester Utd,Arsenal,Y,RW,79,0,0,0,0,2,0,0,0,46,10,0,1,0,0.0,0.0,0.0,2,0,26,37,70.3,3,40,9,4,5,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,W 9–0,Manchester Utd,Southampton,Y,"LW,RW",59,1,0,0,0,2,2,0,0,65,9,1,0,0,0.1,0.1,0.0,3,1,45,55,81.8,6,44,7,0,2,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,D 3–3,Manchester Utd,Everton,Y,LW,90,0,1,0,0,2,1,0,0,62,14,1,1,1,0.5,0.5,0.3,6,1,38,46,82.6,3,54,5,7,11,Match Report
+2020-2021,2021-02-09,Tue,FA Cup,Fifth round,Home,W 1–0,Manchester Utd,West Ham,Y,AM,120,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,D 1–1,Manchester Utd,West Brom,Y,"RW,LW",90,0,0,0,0,1,0,0,0,58,2,0,0,2,0.0,0.0,0.1,2,0,38,47,80.9,3,42,8,3,5,Match Report
+2020-2021,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,W 4–0,eng Manchester Utd,es Real Sociedad,Y,LW,67,1,1,0,0,3,3,0,0,30,7,0,0,2,1.2,1.2,0.0,3,1,12,16,75.0,2,23,6,3,4,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,Y,LW,88,1,0,0,0,2,2,0,0,72,5,0,1,1,0.1,0.1,0.1,6,2,47,58,81.0,3,66,11,7,9,Match Report
+2020-2021,2021-02-25,Thu,Europa Lg,Round of 32,Neutral,D 0–0,eng Manchester Utd,es Real Sociedad,N,AM,45,0,0,0,0,1,0,0,0,36,7,1,0,1,0.0,0.0,0.0,2,0,21,27,77.8,2,24,1,4,5,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,D 0–0,Manchester Utd,Chelsea,Y,LW,90,0,0,0,0,2,2,0,0,40,14,1,0,1,0.1,0.1,0.1,3,0,25,30,83.3,2,26,2,1,3,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Away,D 0–0,Manchester Utd,Crystal Palace,Y,LW,90,0,0,0,0,1,0,0,0,51,12,1,0,2,0.1,0.1,0.0,1,0,31,36,86.1,3,35,0,3,4,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,W 2–0,Manchester Utd,Manchester City,Y,LW,72,0,1,0,0,1,1,0,0,43,10,0,0,2,0.0,0.0,0.0,1,1,24,30,80.0,1,33,6,2,7,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Home,W 1–0,Manchester Utd,West Ham,Y,LW,90,0,0,0,0,4,1,1,0,65,6,0,0,0,0.4,0.4,0.3,4,0,49,56,87.5,7,56,9,0,1,Match Report
+2020-2021,2021-03-18,Thu,Europa Lg,Round of 16,Away,W 1–0,eng Manchester Utd,it Milan,Y,LW,45,0,0,0,0,1,0,0,0,14,1,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,0,10,1,3,4,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,W 2–1,Manchester Utd,Brighton,Y,LW,71,1,0,0,0,2,2,0,0,58,6,0,0,1,0.2,0.2,0.0,1,0,40,44,90.9,3,36,5,1,8,Match Report
+2020-2021,2021-04-08,Thu,Europa Lg,Quarter-finals,Away,W 2–0,eng Manchester Utd,es Granada,Y,"LW,FW",65,1,0,0,0,4,1,0,0,38,10,1,0,1,0.7,0.7,0.0,2,0,18,23,78.3,2,24,3,0,4,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Away,W 3–1,Manchester Utd,Tottenham,Y,RW,71,0,0,0,0,1,0,0,0,26,13,0,0,0,0.1,0.1,0.0,1,0,16,21,76.2,0,23,5,4,6,Match Report
+2020-2021,2021-04-15,Thu,Europa Lg,Quarter-finals,Home,W 2–0,eng Manchester Utd,es Granada,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-18,Sun,Premier League,Matchweek 32,Home,W 3–1,Manchester Utd,Burnley,Y,"FW,LW",83,0,1,0,0,2,1,0,0,42,5,1,0,0,0.2,0.2,0.4,7,2,26,32,81.3,6,36,11,4,8,Match Report

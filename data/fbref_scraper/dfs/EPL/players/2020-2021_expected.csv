@@ -1,0 +1,535 @@
+League,Season,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,1,Patrick van Aanholt,nl NED,DF,Crystal Palace,30-238,1990,20,19,"1,684",18.7,1.2,1.2,0.8,2.0
+EPL,2020-2021,2,Tammy Abraham,eng ENG,FW,Chelsea,23-204,1997,20,12,"1,021",11.3,5.6,5.6,0.9,6.5
+EPL,2020-2021,3,Che Adams,sco SCO,FW,Southampton,24-285,1996,31,25,"2,275",25.3,7.3,7.3,4.6,11.9
+EPL,2020-2021,4,Tosin Adarabioyo,eng ENG,DF,Fulham,23-212,1997,28,28,"2,520",28.0,1.0,1.0,0.3,1.3
+EPL,2020-2021,5,Adrián,es ESP,GK,Liverpool,34-111,1987,3,3,270,3.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,6,Sergio Agüero,ar ARG,FW,Manchester City,32-326,1988,9,5,374,4.2,1.7,0.9,0.6,1.5
+EPL,2020-2021,7,Ola Aina,ng NGA,DF,Fulham,24-198,1996,29,29,"2,513",27.9,0.9,0.9,1.4,2.2
+EPL,2020-2021,8,Rayan Aït Nouri,fr FRA,DF,Wolves,19-322,2001,16,11,971,10.8,0.4,0.4,0.7,1.1
+EPL,2020-2021,9,Semi Ajayi,ng NGA,DF,West Brom,27-166,1993,27,25,"2,240",24.9,0.7,0.7,0.1,0.7
+EPL,2020-2021,10,Nathan Aké,nl NED,DF,Manchester City,26-065,1995,7,6,527,5.9,0.1,0.1,0.0,0.1
+EPL,2020-2021,11,Marc Albrighton,eng ENG,"FW,DF",Leicester City,31-157,1989,25,13,"1,378",15.3,1.1,1.1,3.5,4.6
+EPL,2020-2021,12,Thiago Alcántara,es ESP,MF,Liverpool,30-013,1991,18,14,"1,328",14.8,0.5,0.5,1.4,2.0
+EPL,2020-2021,13,Toby Alderweireld,be BEL,DF,Tottenham,32-053,1989,20,20,"1,790",19.9,0.7,0.7,0.2,0.9
+EPL,2020-2021,14,Rúnar Alex Rúnarsson,is ISL,GK,Arsenal,26-065,1995,1,0,16,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,15,Trent Alexander-Arnold,eng ENG,DF,Liverpool,22-199,1998,30,28,"2,491",27.7,2.0,2.0,5.6,7.6
+EPL,2020-2021,16,Ezgjan Alioski,mk MKD,DF,Leeds United,29-071,1992,30,23,"1,966",21.8,1.3,1.3,2.2,3.5
+EPL,2020-2021,17,Alisson,br BRA,GK,Liverpool,28-204,1992,27,27,"2,430",27.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,18,Allan,br BRA,MF,Everton,30-106,1991,18,17,"1,511",16.8,0.1,0.1,0.3,0.4
+EPL,2020-2021,19,Dele Alli,eng ENG,MF,Tottenham,25-013,1996,10,2,239,2.7,0.5,0.5,0.2,0.7
+EPL,2020-2021,20,Miguel Almirón,py PAR,"MF,FW",Newcastle Utd,27-073,1994,28,22,"1,927",21.4,3.1,3.1,2.3,5.4
+EPL,2020-2021,21,Marcos Alonso,es ESP,DF,Chelsea,30-117,1990,11,10,860,9.6,1.1,1.1,1.1,2.2
+EPL,2020-2021,22,Steven Alzate,co COL,"MF,DF",Brighton,22-228,1998,12,8,741,8.2,0.6,0.6,0.4,1.0
+EPL,2020-2021,23,Daniel Amartey,gh GHA,DF,Leicester City,26-124,1994,12,8,722,8.0,0.4,0.4,0.0,0.4
+EPL,2020-2021,24,Ethan Ampadu,wal WAL,"DF,MF",Sheffield Utd,20-222,2000,25,23,"2,089",23.2,0.3,0.3,0.9,1.3
+EPL,2020-2021,25,Joachim Andersen,dk DEN,DF,Fulham,24-328,1996,27,27,"2,401",26.7,0.8,0.8,0.5,1.2
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,26,Elliot Anderson,sco SCO,MF,Newcastle Utd,18-169,2002,1,0,4,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,27,Felipe Anderson,br BRA,"FW,MF",West Ham,28-009,1993,2,0,3,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,28,Michail Antonio,eng ENG,FW,West Ham,31-027,1990,21,19,"1,546",17.2,9.5,9.5,2.0,11.4
+EPL,2020-2021,29,Alphonse Areola,fr FRA,GK,Fulham,28-056,1993,32,32,"2,880",32.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,30,Stuart Armstrong,sco SCO,MF,Southampton,29-025,1992,27,26,"2,237",24.9,2.6,2.6,2.2,4.8
+EPL,2020-2021,31,Kepa Arrizabalaga,es ESP,GK,Chelsea,26-203,1994,5,5,450,5.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,32,Pierre-Emerick Aubameyang,ga GAB,FW,Arsenal,31-310,1989,25,22,"2,009",22.3,9.0,7.4,1.9,9.4
+EPL,2020-2021,33,Serge Aurier,ci CIV,DF,Tottenham,28-121,1992,17,17,"1,425",15.8,1.3,1.3,1.5,2.9
+EPL,2020-2021,34,Charlie Austin,eng ENG,FW,West Brom,31-293,1989,5,0,138,1.5,0.2,0.2,0.0,0.2
+EPL,2020-2021,35,Jordan Ayew,gh GHA,"FW,MF",Crystal Palace,29-225,1991,27,20,"1,821",20.2,1.8,1.8,0.6,2.4
+EPL,2020-2021,36,Luke Ayling,eng ENG,DF,Leeds United,29-242,1991,32,32,"2,859",31.8,1.0,1.0,2.5,3.5
+EPL,2020-2021,37,César Azpilicueta,es ESP,DF,Chelsea,31-239,1989,21,19,"1,761",19.6,0.8,0.8,1.8,2.5
+EPL,2020-2021,38,Eric Bailly,ci CIV,DF,Manchester Utd,27-012,1994,8,7,638,7.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,39,Fabián Balbuena,py PAR,DF,West Ham,29-244,1991,13,12,"1,118",12.4,0.6,0.6,0.0,0.6
+EPL,2020-2021,40,George Baldock,eng ENG,DF,Sheffield Utd,28-046,1993,27,27,"2,337",26.0,1.1,1.1,1.3,2.3
+EPL,2020-2021,41,Gareth Bale,wal WAL,FW,Tottenham,31-282,1989,15,7,650,7.2,3.2,3.2,1.2,4.4
+EPL,2020-2021,42,Patrick Bamford,eng ENG,FW,Leeds United,27-231,1993,32,32,"2,632",29.2,15.1,14.3,3.5,17.8
+EPL,2020-2021,43,Phil Bardsley,sco SCO,DF,Burnley,35-300,1985,4,3,274,3.0,0.1,0.1,0.0,0.1
+EPL,2020-2021,44,Ross Barkley,eng ENG,MF,Chelsea,27-140,1993,2,0,42,0.5,0.0,0.0,0.1,0.1
+EPL,2020-2021,45,Ross Barkley,eng ENG,MF,Aston Villa,27-140,1993,20,14,"1,220",13.6,3.0,3.0,3.2,6.2
+EPL,2020-2021,46,Ashley Barnes,eng ENG,FW,Burnley,31-176,1989,18,15,"1,293",14.4,4.9,4.2,0.7,4.8
+EPL,2020-2021,47,Harvey Barnes,eng ENG,"FW,MF",Leicester City,23-136,1997,25,22,"1,945",21.6,6.2,6.2,1.5,7.7
+EPL,2020-2021,48,Kyle Bartley,eng ENG,DF,West Brom,29-337,1991,24,22,"2,044",22.7,1.8,1.8,0.2,2.0
+EPL,2020-2021,49,Chris Basham,eng ENG,"DF,MF",Sheffield Utd,32-278,1988,26,26,"2,126",23.6,0.6,0.6,0.7,1.3
+EPL,2020-2021,50,Michy Batshuayi,be BEL,FW,Crystal Palace,27-204,1993,17,7,709,7.9,1.4,1.4,1.4,2.8
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,51,Jan Bednarek,pl POL,DF,Southampton,25-012,1996,32,32,"2,785",30.9,0.9,0.9,0.3,1.3
+EPL,2020-2021,52,Donny van de Beek,nl NED,"MF,FW",Manchester Utd,24-006,1997,15,2,338,3.8,0.3,0.3,1.0,1.3
+EPL,2020-2021,53,Héctor Bellerín,es ESP,DF,Arsenal,26-036,1995,23,23,"1,977",22.0,0.7,0.7,2.3,3.0
+EPL,2020-2021,54,Saïd Benrahma,dz ALG,"MF,FW",West Ham,25-257,1995,24,11,"1,100",12.2,1.8,1.8,2.8,4.5
+EPL,2020-2021,55,Josh Benson,eng ENG,MF,Burnley,21-140,1999,6,2,264,2.9,0.2,0.2,0.0,0.2
+EPL,2020-2021,56,Christian Benteke,be BEL,FW,Crystal Palace,30-142,1990,24,15,"1,325",14.7,5.1,5.1,0.9,6.0
+EPL,2020-2021,57,Jóhann Berg Guðmundsson,is ISL,MF,Burnley,30-179,1990,18,14,"1,148",12.8,1.5,1.5,0.4,1.8
+EPL,2020-2021,58,Sander Berge,no NOR,MF,Sheffield Utd,23-069,1998,13,12,"1,016",11.3,1.2,0.5,1.2,1.7
+EPL,2020-2021,59,Steven Bergwijn,nl NED,"FW,MF",Tottenham,23-198,1997,18,11,"1,054",11.7,1.7,1.7,1.1,2.8
+EPL,2020-2021,60,Bernard,br BRA,"FW,MF",Everton,28-228,1992,9,3,395,4.4,0.2,0.2,0.6,0.8
+EPL,2020-2021,61,Bernardo,br BRA,"DF,MF",Brighton,25-345,1995,3,2,206,2.3,0.3,0.3,0.2,0.5
+EPL,2020-2021,62,Ryan Bertrand,eng ENG,DF,Southampton,31-262,1989,29,29,"2,598",28.9,0.6,0.6,1.2,1.8
+EPL,2020-2021,63,Yves Bissouma,ml MLI,MF,Brighton,24-237,1996,30,29,"2,572",28.6,0.9,0.9,0.6,1.5
+EPL,2020-2021,64,Jayden Bogle,eng ENG,DF,Sheffield Utd,20-271,2000,13,9,886,9.8,1.5,1.5,0.2,1.6
+EPL,2020-2021,65,Willy Boly,ci CIV,DF,Wolves,30-080,1991,18,18,"1,620",18.0,1.1,1.1,0.4,1.5
+EPL,2020-2021,66,Jarrod Bowen,eng ENG,"FW,MF",West Ham,24-125,1996,32,27,"2,246",25.0,5.5,5.5,3.4,8.8
+EPL,2020-2021,67,Robbie Brady,ie IRL,MF,Burnley,29-100,1992,19,12,"1,052",11.7,0.8,0.8,0.9,1.7
+EPL,2020-2021,68,Rhian Brewster,eng ENG,FW,Sheffield Utd,21-023,2000,23,10,983,10.9,1.4,1.4,1.6,3.0
+EPL,2020-2021,69,Nathan Broadhead,wal WAL,MF,Everton,23-019,1998,1,0,3,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,70,Josh Brownhill,eng ENG,MF,Burnley,25-126,1995,27,26,"2,318",25.8,1.3,1.3,0.8,2.2
+EPL,2020-2021,71,Joe Bryan,eng ENG,"DF,FW",Fulham,27-219,1993,13,5,475,5.3,0.1,0.1,0.2,0.3
+EPL,2020-2021,72,Kean Bryan,eng ENG,DF,Sheffield Utd,24-174,1996,11,10,835,9.3,0.4,0.4,0.4,0.8
+EPL,2020-2021,73,Oliver Burke,sco SCO,FW,Sheffield Utd,24-017,1997,22,13,"1,134",12.6,2.3,2.3,1.7,4.1
+EPL,2020-2021,74,Dan Burn,eng ENG,DF,Brighton,28-350,1992,22,18,"1,611",17.9,0.9,0.9,0.8,1.7
+EPL,2020-2021,75,David Button,eng ENG,GK,West Brom,32-056,1989,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,76,Oskar Buur,dk DEN,DF,Wolves,23-024,1998,1,0,22,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,77,Willy Caballero,ar ARG,GK,Chelsea,39-208,1981,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,78,Gary Cahill,eng ENG,DF,Crystal Palace,35-126,1985,16,16,"1,440",16.0,0.3,0.3,0.4,0.6
+EPL,2020-2021,79,Tom Cairney,sco SCO,MF,Fulham,30-094,1991,10,9,759,8.4,0.7,0.7,1.4,2.1
+EPL,2020-2021,80,Dominic Calvert-Lewin,eng ENG,FW,Everton,24-039,1997,27,26,"2,331",25.9,13.0,13.0,1.2,14.1
+EPL,2020-2021,81,João Cancelo,pt POR,DF,Manchester City,26-332,1994,24,23,"2,037",22.6,1.7,1.7,4.6,6.3
+EPL,2020-2021,82,Ian Carlo Poveda,eng ENG,"MF,DF",Leeds United,21-074,2000,11,0,277,3.1,0.4,0.4,0.8,1.1
+EPL,2020-2021,83,Andy Carroll,eng ENG,FW,Newcastle Utd,32-108,1989,17,4,386,4.3,1.2,1.2,0.1,1.2
+EPL,2020-2021,84,Matty Cash,eng ENG,DF,Aston Villa,23-260,1997,25,25,"2,148",23.9,0.3,0.3,1.9,2.2
+EPL,2020-2021,85,Kiko Casilla,es ESP,GK,Leeds United,34-204,1986,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,86,Timothy Castagne,be BEL,DF,Leicester City,25-140,1995,21,21,"1,805",20.1,0.9,0.9,2.0,2.9
+EPL,2020-2021,87,Jonny Castro,es ESP,DF,Wolves,27-052,1994,7,7,495,5.5,0.1,0.1,0.1,0.2
+EPL,2020-2021,88,Ivan Cavaleiro,pt POR,"FW,MF",Fulham,27-188,1993,31,22,"2,035",22.6,4.9,4.2,2.6,6.7
+EPL,2020-2021,89,Edinson Cavani,uy URU,FW,Manchester Utd,34-069,1987,21,11,"1,143",12.7,6.6,6.6,1.8,8.4
+EPL,2020-2021,90,Dani Ceballos,es ESP,MF,Arsenal,24-260,1996,23,15,"1,450",16.1,0.3,0.3,2.8,3.1
+EPL,2020-2021,91,Calum Chambers,eng ENG,DF,Arsenal,26-094,1995,5,5,442,4.9,0.3,0.3,0.5,0.8
+EPL,2020-2021,92,Ben Chilwell,eng ENG,DF,Chelsea,24-124,1996,22,22,"1,846",20.5,1.7,1.7,1.5,3.3
+EPL,2020-2021,93,Hamza Choudhury,eng ENG,MF,Leicester City,23-205,1997,9,4,305,3.4,0.4,0.4,0.0,0.4
+EPL,2020-2021,94,Andreas Christensen,dk DEN,DF,Chelsea,25-014,1996,14,12,"1,147",12.7,0.1,0.1,0.3,0.4
+EPL,2020-2021,95,Ciaran Clark,ie IRL,DF,Newcastle Utd,31-210,1989,20,19,"1,745",19.4,0.3,0.3,0.1,0.4
+EPL,2020-2021,96,Nathaniel Clyne,eng ENG,DF,Crystal Palace,30-019,1991,13,13,"1,145",12.7,0.1,0.1,0.4,0.5
+EPL,2020-2021,97,Conor Coady,eng ENG,DF,Wolves,28-058,1993,31,31,"2,763",30.7,1.3,1.3,0.1,1.4
+EPL,2020-2021,98,Séamus Coleman,ie IRL,DF,Everton,32-195,1988,20,13,"1,188",13.2,0.6,0.6,1.5,2.0
+EPL,2020-2021,99,Aaron Connolly,ie IRL,FW,Brighton,21-086,2000,15,9,722,8.0,3.3,3.3,0.2,3.5
+EPL,2020-2021,100,Liam Cooper,sco SCO,DF,Leeds United,29-237,1991,23,23,"2,005",22.3,1.3,1.3,0.0,1.3
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,101,Jack Cork,eng ENG,MF,Burnley,31-303,1989,10,9,825,9.2,0.3,0.3,0.2,0.5
+EPL,2020-2021,102,Hélder Costa,pt POR,"MF,FW",Leeds United,27-102,1994,21,12,"1,085",12.1,2.0,2.0,0.9,2.9
+EPL,2020-2021,103,Vladimír Coufal,cz CZE,DF,West Ham,28-245,1992,28,28,"2,514",27.9,1.0,1.0,3.9,5.0
+EPL,2020-2021,104,Aaron Cresswell,eng ENG,DF,West Ham,31-130,1989,31,31,"2,752",30.6,0.8,0.8,4.4,5.2
+EPL,2020-2021,105,Patrick Cutrone,it ITA,"FW,MF",Wolves,23-111,1998,2,0,25,0.3,0.2,0.2,0.0,0.2
+EPL,2020-2021,106,Stuart Dallas,nir NIR,"DF,MF",Leeds United,30-005,1991,32,32,"2,869",31.9,3.5,3.5,1.6,5.1
+EPL,2020-2021,107,Scott Dann,eng ENG,DF,Crystal Palace,34-069,1987,12,12,"1,080",12.0,0.3,0.3,0.0,0.4
+EPL,2020-2021,108,Karl Darlow,eng ENG,GK,Newcastle Utd,30-198,1990,25,25,"2,250",25.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,109,Ben Davies,wal WAL,DF,Tottenham,28-000,1993,20,14,"1,346",15.0,0.2,0.2,0.6,0.9
+EPL,2020-2021,110,Tom Davies,eng ENG,MF,Everton,22-298,1998,22,15,"1,234",13.7,0.2,0.2,1.0,1.1
+EPL,2020-2021,111,Keinan Davis,eng ENG,"FW,MF",Aston Villa,23-070,1998,10,0,157,1.7,0.5,0.5,0.3,0.8
+EPL,2020-2021,112,Leif Davis,eng ENG,DF,Leeds United,21-102,2000,2,0,33,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,113,Craig Dawson,eng ENG,DF,West Ham,30-353,1990,17,17,"1,475",16.4,1.5,1.5,0.0,1.5
+EPL,2020-2021,114,Kevin De Bruyne,be BEL,MF,Manchester City,29-300,1991,24,22,"1,907",21.2,9.6,7.3,9.1,16.5
+EPL,2020-2021,115,Liam Delap,eng ENG,FW,Manchester City,18-075,2003,1,0,40,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,116,Fabian Delph,eng ENG,"MF,DF",Everton,31-154,1989,6,2,239,2.7,0.0,0.0,0.0,0.0
+EPL,2020-2021,117,Leander Dendoncker,be BEL,"MF,DF",Wolves,26-009,1995,27,24,"2,149",23.9,3.3,3.3,0.7,4.0
+EPL,2020-2021,118,Mbaye Diagne,sn SEN,FW,West Brom,29-178,1991,12,11,952,10.6,4.1,4.1,1.6,5.7
+EPL,2020-2021,119,Ibrahima Diallo,fr FRA,MF,Southampton,22-047,1999,17,9,864,9.6,0.3,0.3,0.2,0.5
+EPL,2020-2021,120,Grady Diangana,eng ENG,"MF,FW",West Brom,23-005,1998,16,14,"1,088",12.1,1.0,1.0,0.1,1.1
+EPL,2020-2021,121,Raphael Dias Belloli,br BRA,MF,Leeds United,24-131,1996,26,23,"2,067",23.0,5.3,5.3,7.1,12.3
+EPL,2020-2021,122,Rúben Dias,pt POR,DF,Manchester City,23-345,1997,29,29,"2,573",28.6,2.2,2.2,0.1,2.3
+EPL,2020-2021,123,Eric Dier,eng ENG,DF,Tottenham,27-099,1994,24,24,"2,160",24.0,0.6,0.6,0.1,0.7
+EPL,2020-2021,124,Lucas Digne,fr FRA,"DF,MF",Everton,27-278,1993,24,24,"2,141",23.8,0.5,0.5,4.3,4.8
+EPL,2020-2021,125,Virgil van Dijk,nl NED,DF,Liverpool,29-290,1991,5,5,370,4.1,0.3,0.3,0.0,0.3
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,126,Issa Diop,fr FRA,DF,West Ham,24-105,1997,13,12,"1,108",12.3,0.3,0.3,0.0,0.3
+EPL,2020-2021,127,Moussa Djenepo,ml MLI,MF,Southampton,22-313,1998,25,14,"1,138",12.6,0.9,0.9,0.5,1.4
+EPL,2020-2021,128,Matt Doherty,ie IRL,DF,Tottenham,29-098,1992,15,12,"1,142",12.7,0.3,0.3,0.7,1.0
+EPL,2020-2021,129,Gabriel Dos Santos,br BRA,DF,Arsenal,23-126,1997,18,17,"1,546",17.2,0.8,0.8,0.0,0.9
+EPL,2020-2021,130,Abdoulaye Doucouré,fr FRA,MF,Everton,28-113,1993,25,25,"2,131",23.7,2.0,2.0,2.2,4.2
+EPL,2020-2021,131,Martin Dúbravka,sk SVK,GK,Newcastle Utd,32-099,1989,7,7,630,7.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,132,Paul Dummett,wal WAL,DF,Newcastle Utd,29-210,1991,9,8,715,7.9,0.0,0.0,0.4,0.4
+EPL,2020-2021,133,Lewis Dunk,eng ENG,DF,Brighton,29-154,1991,29,29,"2,609",29.0,2.4,2.4,0.6,3.0
+EPL,2020-2021,134,Jimmy Dunne,ie IRL,DF,Burnley,23-187,1997,2,2,180,2.0,0.3,0.3,0.1,0.4
+EPL,2020-2021,135,Ederson,br BRA,GK,Manchester City,27-250,1993,32,32,"2,880",32.0,0.0,0.0,0.4,0.4
+EPL,2020-2021,136,Kyle Edwards,eng ENG,"MF,FW",West Brom,23-066,1998,5,1,118,1.3,0.1,0.1,0.0,0.1
+EPL,2020-2021,137,John Egan,ie IRL,DF,Sheffield Utd,28-186,1992,25,24,"2,089",23.2,0.5,0.5,0.2,0.7
+EPL,2020-2021,138,Ahmed Elmohamady,eg EGY,DF,Aston Villa,33-227,1987,11,6,613,6.8,0.3,0.3,0.5,0.8
+EPL,2020-2021,139,Mohamed Elneny,eg EGY,MF,Arsenal,28-287,1992,19,13,"1,184",13.2,0.4,0.4,0.2,0.5
+EPL,2020-2021,140,Jonny Evans,nir NIR,DF,Leicester City,33-111,1988,26,26,"2,293",25.5,1.5,1.5,0.1,1.7
+EPL,2020-2021,141,Eberechi Eze,eng ENG,MF,Crystal Palace,22-299,1998,29,24,"2,109",23.4,1.6,1.6,1.7,3.3
+EPL,2020-2021,142,Łukasz Fabiański,pl POL,GK,West Ham,36-006,1985,30,30,"2,700",30.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,143,Fabinho,br BRA,"DF,MF",Liverpool,27-183,1993,24,22,"2,027",22.5,0.3,0.3,0.4,0.7
+EPL,2020-2021,144,Bruno Fernandes,pt POR,MF,Manchester Utd,26-228,1994,32,31,"2,731",30.3,13.4,6.5,10.2,16.8
+EPL,2020-2021,145,Federico Fernández,ar ARG,DF,Newcastle Utd,32-062,1989,18,18,"1,561",17.3,0.1,0.1,0.3,0.4
+EPL,2020-2021,146,Fernandinho,br BRA,MF,Manchester City,35-355,1985,18,10,997,11.1,0.7,0.7,0.6,1.3
+EPL,2020-2021,147,Sam Field,eng ENG,MF,West Brom,22-351,1998,3,0,62,0.7,0.0,0.0,0.0,0.0
+EPL,2020-2021,148,Roberto Firmino,br BRA,FW,Liverpool,29-204,1991,30,28,"2,387",26.5,11.1,11.1,4.5,15.5
+EPL,2020-2021,149,John Fleck,sco SCO,MF,Sheffield Utd,29-243,1991,25,23,"2,035",22.6,0.8,0.8,2.2,2.9
+EPL,2020-2021,150,Phil Foden,eng ENG,"FW,MF",Manchester City,20-331,2000,25,15,"1,450",16.1,4.6,4.6,4.0,8.7
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,151,Wesley Fofana,fr FRA,DF,Leicester City,20-128,2000,22,21,"1,837",20.4,0.9,0.9,0.3,1.1
+EPL,2020-2021,152,Pablo Fornals,es ESP,"FW,MF",West Ham,25-061,1996,27,25,"2,056",22.8,4.2,4.2,2.0,6.2
+EPL,2020-2021,153,Fraser Forster,eng ENG,GK,Southampton,33-038,1988,6,6,540,6.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,154,Timothy Fosu-Mensah,nl NED,DF,Manchester Utd,23-112,1998,1,1,80,0.9,0.0,0.0,0.3,0.3
+EPL,2020-2021,155,Ryan Fraser,sco SCO,"FW,MF",Newcastle Utd,27-059,1994,18,9,928,10.3,0.9,0.9,2.1,3.0
+EPL,2020-2021,156,Fred,br BRA,MF,Manchester Utd,28-050,1993,26,23,"2,060",22.9,1.9,1.9,2.4,4.3
+EPL,2020-2021,157,Ryan Fredericks,eng ENG,"DF,FW",West Ham,28-196,1992,12,5,455,5.1,0.2,0.2,1.2,1.4
+EPL,2020-2021,158,Christian Fuchs,at AUT,DF,Leicester City,35-017,1986,9,8,702,7.8,0.1,0.1,0.0,0.1
+EPL,2020-2021,159,Darnell Furlong,eng ENG,DF,West Brom,25-175,1995,29,26,"2,392",26.6,1.3,1.3,1.9,3.3
+EPL,2020-2021,160,Conor Gallagher,eng ENG,MF,West Brom,21-077,2000,24,22,"1,991",22.1,1.3,1.3,0.9,2.2
+EPL,2020-2021,161,Eric García,es ESP,DF,Manchester City,20-105,2001,4,2,217,2.4,0.0,0.0,0.1,0.1
+EPL,2020-2021,162,Dwight Gayle,eng ENG,"FW,MF",Newcastle Utd,30-189,1990,13,4,427,4.7,1.9,1.9,0.2,2.1
+EPL,2020-2021,163,Jean-Philippe Gbamin,ci CIV,MF,Everton,25-211,1995,1,0,12,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,164,David de Gea,es ESP,GK,Manchester Utd,30-168,1990,24,24,"2,115",23.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,165,Anwar El Ghazi,nl NED,FW,Aston Villa,25-356,1995,21,10,"1,013",11.3,4.9,3.4,1.7,5.1
+EPL,2020-2021,166,Kieran Gibbs,eng ENG,DF,West Brom,31-210,1989,10,9,809,9.0,0.0,0.0,0.3,0.3
+EPL,2020-2021,167,Morgan Gibbs-White,eng ENG,"FW,MF",Wolves,21-087,2000,5,1,121,1.3,0.0,0.0,0.1,0.1
+EPL,2020-2021,168,Billy Gilmour,sco SCO,MF,Chelsea,19-317,2001,2,0,36,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,169,Olivier Giroud,fr FRA,FW,Chelsea,34-206,1986,15,8,721,8.0,4.2,4.2,0.7,5.0
+EPL,2020-2021,170,Ben Godfrey,eng ENG,DF,Everton,23-099,1998,25,23,"2,145",23.8,0.7,0.7,0.0,0.7
+EPL,2020-2021,171,André Gomes,pt POR,MF,Everton,27-268,1993,24,16,"1,459",16.2,0.3,0.3,0.9,1.1
+EPL,2020-2021,172,Joe Gomez,eng ENG,DF,Liverpool,23-336,1997,7,6,590,6.6,0.0,0.0,0.0,0.0
+EPL,2020-2021,173,Anthony Gordon,eng ENG,"FW,MF",Everton,20-059,2001,3,1,88,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,174,Karlan Grant,eng ENG,"FW,MF",West Brom,23-218,1997,18,14,"1,104",12.3,2.1,2.1,0.0,2.1
+EPL,2020-2021,175,Demarai Gray,eng ENG,FW,Leicester City,24-300,1996,1,0,19,0.2,0.1,0.1,0.0,0.1
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,176,Jack Grealish,eng ENG,"FW,MF",Aston Villa,25-226,1995,22,22,"1,977",22.0,4.2,4.2,8.1,12.2
+EPL,2020-2021,177,Mason Greenwood,eng ENG,FW,Manchester Utd,19-205,2001,26,17,"1,493",16.6,5.6,5.6,1.8,7.4
+EPL,2020-2021,178,Pascal Groß,de GER,"MF,DF",Brighton,29-313,1991,28,21,"1,968",21.9,4.5,2.2,4.9,7.1
+EPL,2020-2021,179,Kamil Grosicki,pl POL,"FW,MF",West Brom,32-320,1988,3,2,148,1.6,0.1,0.1,0.1,0.2
+EPL,2020-2021,180,Vicente Guaita,es ESP,GK,Crystal Palace,34-104,1987,31,31,"2,790",31.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,181,İlkay Gündoğan,de GER,MF,Manchester City,30-182,1990,25,21,"1,864",20.7,8.5,6.9,3.9,10.9
+EPL,2020-2021,182,Antwoine Hackford,eng ENG,"DF,FW",Sheffield Utd,17-035,2004,1,0,11,0.1,0.1,0.1,0.0,0.1
+EPL,2020-2021,183,Sébastien Haller,ci CIV,FW,West Ham,26-306,1994,16,10,937,10.4,2.9,2.9,1.2,4.1
+EPL,2020-2021,184,Rekeem Harper,eng ENG,MF,West Brom,21-047,2000,2,0,32,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,185,Jack Harrison,eng ENG,MF,Leeds United,24-155,1996,30,28,"2,330",25.9,6.1,6.1,5.3,11.4
+EPL,2020-2021,186,Kortney Hause,eng ENG,DF,Aston Villa,25-282,1995,4,4,360,4.0,1.1,1.1,0.0,1.1
+EPL,2020-2021,187,Kai Havertz,de GER,"MF,FW",Chelsea,21-317,1999,24,16,"1,341",14.9,4.2,4.2,1.4,5.6
+EPL,2020-2021,188,Isaac Hayden,eng ENG,"MF,DF",Newcastle Utd,26-033,1995,24,22,"1,942",21.6,0.5,0.5,0.4,0.9
+EPL,2020-2021,189,Michael Hector,jm JAM,DF,Fulham,28-279,1992,4,3,263,2.9,0.1,0.1,0.0,0.1
+EPL,2020-2021,190,Ahmed Hegazi,eg EGY,DF,West Brom,30-089,1991,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,191,Dean Henderson,eng ENG,GK,Manchester Utd,24-043,1997,9,8,765,8.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,192,Jordan Henderson,eng ENG,"MF,DF",Liverpool,30-311,1990,21,20,"1,704",18.9,1.7,1.7,1.4,3.0
+EPL,2020-2021,193,Jeff Hendrick,ie IRL,MF,Newcastle Utd,29-083,1992,20,17,"1,408",15.6,1.1,1.1,0.7,1.8
+EPL,2020-2021,194,Pablo Hernández,es ESP,MF,Leeds United,36-013,1985,14,2,346,3.8,0.9,0.9,0.6,1.6
+EPL,2020-2021,195,Son Heung-min,kr KOR,FW,Tottenham,28-290,1992,32,31,"2,665",29.6,9.5,8.7,7.9,16.6
+EPL,2020-2021,196,Ki-Jana Hoever,nl NED,DF,Wolves,19-096,2002,10,3,397,4.4,0.1,0.1,0.1,0.2
+EPL,2020-2021,197,Rob Holding,eng ENG,DF,Arsenal,25-216,1995,26,24,"2,198",24.4,1.1,1.1,0.2,1.4
+EPL,2020-2021,198,Mason Holgate,eng ENG,DF,Everton,24-184,1996,22,22,"1,942",21.6,0.7,0.7,0.6,1.4
+EPL,2020-2021,199,Conor Hourihane,ie IRL,MF,Aston Villa,30-081,1991,4,3,225,2.5,0.5,0.5,0.8,1.3
+EPL,2020-2021,200,Callum Hudson-Odoi,eng ENG,"FW,DF",Chelsea,20-168,2000,21,10,999,11.1,1.3,1.3,2.8,4.1
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,201,Niall Huggins,wal WAL,DF,Leeds United,20-127,2000,1,0,38,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,202,Pierre Højbjerg,dk DEN,MF,Tottenham,25-262,1995,33,33,"2,970",33.0,0.6,0.6,1.6,2.2
+EPL,2020-2021,203,Odion Ighalo,ng NGA,FW,Manchester Utd,31-312,1989,1,0,10,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,204,Kelechi Iheanacho,ng NGA,FW,Leicester City,24-203,1996,19,11,978,10.9,6.2,5.4,1.9,7.3
+EPL,2020-2021,205,Danny Ings,eng ENG,FW,Southampton,28-275,1992,25,23,"1,913",21.3,7.3,5.7,2.5,8.2
+EPL,2020-2021,206,Branislav Ivanović,rs SRB,DF,West Brom,37-061,1984,13,8,767,8.5,0.6,0.6,0.1,0.6
+EPL,2020-2021,207,Alex Iwobi,ng NGA,"FW,DF",Everton,24-356,1996,27,16,"1,417",15.7,1.0,1.0,1.8,2.8
+EPL,2020-2021,208,Phil Jagielka,eng ENG,DF,Sheffield Utd,38-250,1982,9,6,518,5.8,0.0,0.0,0.0,0.0
+EPL,2020-2021,209,Alireza Jahanbakhsh,ir IRN,"FW,MF",Brighton,27-256,1993,15,2,272,3.0,1.2,1.2,1.8,3.0
+EPL,2020-2021,210,Daniel James,wal WAL,FW,Manchester Utd,23-165,1997,13,9,746,8.3,1.9,1.9,0.9,2.7
+EPL,2020-2021,211,Reece James,eng ENG,DF,Chelsea,21-137,1999,26,20,"1,918",21.3,1.4,1.4,2.7,4.1
+EPL,2020-2021,212,Alexandre Jankewitz,ch SUI,MF,Southampton,19-120,2001,2,1,3,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,213,Gabriel Jesus,br BRA,FW,Manchester City,24-021,1997,24,18,"1,706",19.0,7.5,7.5,2.9,10.4
+EPL,2020-2021,214,Raúl Jiménez,mx MEX,FW,Wolves,29-354,1991,10,10,823,9.1,2.4,2.4,0.8,3.1
+EPL,2020-2021,215,Joelinton,br BRA,"FW,MF",Newcastle Utd,24-253,1996,26,20,"1,771",19.7,4.6,4.6,2.1,6.7
+EPL,2020-2021,216,Ben Johnson,eng ENG,DF,West Ham,21-090,2000,13,5,515,5.7,0.4,0.4,0.2,0.6
+EPL,2020-2021,217,Sam Johnstone,eng ENG,GK,West Brom,28-030,1993,31,31,"2,790",31.0,0.0,0.0,0.4,0.4
+EPL,2020-2021,218,Curtis Jones,eng ENG,MF,Liverpool,20-084,2001,20,12,"1,089",12.1,1.4,1.4,1.1,2.5
+EPL,2020-2021,219,Jorginho,it ITA,MF,Chelsea,29-125,1991,23,19,"1,658",18.4,6.2,0.1,1.6,1.8
+EPL,2020-2021,220,Willian José,br BRA,FW,Wolves,29-152,1991,12,11,883,9.8,1.7,1.7,0.5,2.2
+EPL,2020-2021,221,Diogo Jota,pt POR,FW,Liverpool,24-141,1996,15,9,903,10.0,4.6,4.6,1.5,6.2
+EPL,2020-2021,222,James Justin,eng ENG,DF,Leicester City,23-060,1998,23,23,"2,070",23.0,1.6,1.6,1.6,3.2
+EPL,2020-2021,223,Ozan Kabak,tr TUR,DF,Liverpool,21-030,2000,8,8,711,7.9,0.1,0.1,0.2,0.3
+EPL,2020-2021,224,Aboubakar Kamara,mr MTN,"FW,DF",Fulham,26-048,1995,11,2,315,3.5,0.4,0.4,0.4,0.8
+EPL,2020-2021,225,Harry Kane,eng ENG,FW,Tottenham,27-270,1993,30,30,"2,632",29.2,17.3,14.3,6.5,20.8
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,226,N'Golo Kanté,fr FRA,MF,Chelsea,30-026,1991,26,21,"1,933",21.5,0.8,0.8,1.0,1.9
+EPL,2020-2021,227,Moise Kean,it ITA,FW,Everton,21-055,2000,2,0,15,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,228,Michael Keane,eng ENG,DF,Everton,28-103,1993,30,28,"2,541",28.2,1.2,1.2,0.9,2.1
+EPL,2020-2021,229,Neeskens Kebano,cd COD,"FW,MF",Fulham,29-045,1992,5,1,119,1.3,0.3,0.3,0.0,0.3
+EPL,2020-2021,230,Naby Keïta,gn GUI,MF,Liverpool,26-073,1995,10,7,520,5.8,0.5,0.5,0.8,1.3
+EPL,2020-2021,231,Caoimhín Kelleher,ie IRL,GK,Liverpool,22-152,1998,2,2,180,2.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,232,Jonjoe Kenny,eng ENG,DF,Everton,24-040,1997,4,1,79,0.9,0.0,0.0,0.0,0.0
+EPL,2020-2021,233,Reda Khadra,de GER,FW,Brighton,19-294,2001,1,0,5,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,234,Max Kilman,eng ENG,DF,Wolves,23-336,1997,15,12,"1,121",12.5,0.4,0.4,0.5,0.9
+EPL,2020-2021,235,Joshua King,no NOR,"MF,FW",Everton,29-099,1992,9,0,132,1.5,0.4,0.4,0.0,0.4
+EPL,2020-2021,236,Mateusz Klich,pl POL,MF,Leeds United,30-315,1990,31,25,"2,120",23.6,2.9,1.4,3.6,5.0
+EPL,2020-2021,237,Robin Koch,de GER,DF,Leeds United,24-281,1996,14,11,938,10.4,0.7,0.7,0.2,0.9
+EPL,2020-2021,238,Sead Kolašinac,ba BIH,DF,Arsenal,27-308,1993,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,239,Terence Kongolo,nl NED,DF,Fulham,27-069,1994,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,240,Ezri Konsa,eng ENG,DF,Aston Villa,23-183,1997,29,28,"2,566",28.5,1.7,1.7,0.0,1.7
+EPL,2020-2021,241,Cheikhou Kouyaté,sn SEN,DF,Crystal Palace,31-124,1989,29,28,"2,493",27.7,0.8,0.8,0.2,0.9
+EPL,2020-2021,242,Mateo Kovačić,hr CRO,MF,Chelsea,26-353,1994,25,20,"1,691",18.8,0.9,0.9,1.8,2.7
+EPL,2020-2021,243,Emil Krafth,se SWE,DF,Newcastle Utd,26-265,1994,12,10,946,10.5,0.1,0.1,0.4,0.5
+EPL,2020-2021,244,Filip Krovinović,hr CRO,MF,West Brom,25-238,1995,11,5,546,6.1,0.2,0.2,0.3,0.5
+EPL,2020-2021,245,Alexandre Lacazette,fr FRA,FW,Arsenal,29-331,1991,28,22,"1,868",20.8,9.7,7.4,2.7,10.1
+EPL,2020-2021,246,Adam Lallana,eng ENG,"MF,FW",Brighton,32-349,1988,26,15,"1,395",15.5,2.3,2.3,2.8,5.1
+EPL,2020-2021,247,Érik Lamela,ar ARG,"FW,MF",Tottenham,29-051,1992,21,5,680,7.6,1.2,1.2,0.9,2.1
+EPL,2020-2021,248,Tariq Lamptey,eng ENG,DF,Brighton,20-206,2000,11,11,886,9.8,0.6,0.6,1.1,1.7
+EPL,2020-2021,249,Manuel Lanzini,ar ARG,"MF,FW",West Ham,28-068,1993,14,3,412,4.6,1.1,1.1,0.8,2.0
+EPL,2020-2021,250,Aymeric Laporte,fr FRA,DF,Manchester City,26-332,1994,14,12,"1,164",12.9,0.3,0.3,0.2,0.6
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,251,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,27-164,1993,19,19,"1,625",18.1,1.0,1.0,0.0,1.0
+EPL,2020-2021,252,Maxime Le Marchand,fr FRA,DF,Fulham,31-195,1989,2,1,123,1.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,253,Mario Lemina,ga GAB,MF,Fulham,27-235,1993,25,16,"1,446",16.1,0.9,0.9,0.8,1.7
+EPL,2020-2021,254,Bernd Leno,de GER,GK,Arsenal,29-051,1992,31,31,"2,771",30.8,0.0,0.0,0.0,0.0
+EPL,2020-2021,255,Khanya Leshabela,za RSA,MF,Leicester City,21-218,1999,1,0,10,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,256,Jamal Lewis,nir NIR,DF,Newcastle Utd,23-089,1998,23,20,"1,830",20.3,0.2,0.2,1.6,1.8
+EPL,2020-2021,257,Victor Lindelöf,se SWE,DF,Manchester Utd,26-281,1994,25,25,"2,225",24.7,0.7,0.7,0.5,1.2
+EPL,2020-2021,258,Jesse Lingard,eng ENG,"MF,FW",West Ham,28-130,1992,10,10,881,9.8,4.6,2.9,0.5,3.4
+EPL,2020-2021,259,Jake Livermore,eng ENG,MF,West Brom,31-161,1989,17,15,"1,226",13.6,0.2,0.2,0.2,0.5
+EPL,2020-2021,260,Diego Llorente,es ESP,DF,Leeds United,27-251,1993,10,9,811,9.0,0.7,0.7,0.6,1.2
+EPL,2020-2021,261,Hugo Lloris,fr FRA,GK,Tottenham,34-119,1986,33,33,"2,970",33.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,262,Giovani Lo Celso,ar ARG,MF,Tottenham,25-015,1996,15,8,729,8.1,1.0,1.0,1.1,2.0
+EPL,2020-2021,263,Ruben Loftus-Cheek,eng ENG,"MF,FW",Fulham,25-091,1996,27,21,"1,819",20.2,3.1,3.1,1.4,4.4
+EPL,2020-2021,264,Ruben Loftus-Cheek,eng ENG,FW,Chelsea,25-091,1996,1,1,60,0.7,0.0,0.0,0.0,0.0
+EPL,2020-2021,265,Kevin Long,ie IRL,DF,Burnley,30-249,1990,8,7,637,7.1,0.3,0.3,0.0,0.3
+EPL,2020-2021,266,Shane Long,ie IRL,"FW,MF",Southampton,34-092,1987,11,1,210,2.3,0.0,0.0,0.0,0.0
+EPL,2020-2021,267,Matthew Longstaff,eng ENG,MF,Newcastle Utd,21-034,2000,5,4,377,4.2,0.0,0.0,0.1,0.1
+EPL,2020-2021,268,Sean Longstaff,eng ENG,MF,Newcastle Utd,23-176,1997,16,12,"1,101",12.2,1.1,1.1,0.8,1.9
+EPL,2020-2021,269,Ademola Lookman,eng ENG,"FW,MF",Fulham,23-186,1997,29,27,"2,388",26.5,5.1,4.3,4.5,8.8
+EPL,2020-2021,270,Max Lowe,eng ENG,DF,Sheffield Utd,23-348,1997,8,7,550,6.1,0.1,0.1,0.2,0.3
+EPL,2020-2021,271,Matthew Lowton,eng ENG,DF,Burnley,31-319,1989,28,28,"2,520",28.0,0.5,0.5,1.6,2.1
+EPL,2020-2021,272,David Luiz,br BRA,DF,Arsenal,34-002,1987,19,16,"1,344",14.9,0.8,0.8,0.4,1.3
+EPL,2020-2021,273,Douglas Luiz,br BRA,MF,Aston Villa,22-350,1998,27,27,"2,352",26.1,1.4,1.4,1.3,2.7
+EPL,2020-2021,274,John Lundstram,eng ENG,MF,Sheffield Utd,27-065,1994,26,23,"2,011",22.3,2.0,1.3,1.2,2.5
+EPL,2020-2021,275,Alexis Mac Allister,ar ARG,"MF,FW",Brighton,22-121,1998,17,11,926,10.3,1.0,1.0,1.9,2.8
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,276,James Maddison,eng ENG,"MF,FW",Leicester City,24-152,1996,25,19,"1,718",19.1,3.7,3.7,4.3,8.0
+EPL,2020-2021,277,Harry Maguire,eng ENG,DF,Manchester Utd,28-050,1993,32,32,"2,880",32.0,1.8,1.8,0.3,2.1
+EPL,2020-2021,278,Riyad Mahrez,dz ALG,FW,Manchester City,30-062,1991,25,21,"1,795",19.9,5.4,5.4,5.5,10.9
+EPL,2020-2021,279,Ainsley Maitland-Niles,eng ENG,DF,Arsenal,23-238,1997,11,5,490,5.4,0.1,0.1,0.2,0.3
+EPL,2020-2021,280,Ainsley Maitland-Niles,eng ENG,MF,West Brom,23-238,1997,10,10,900,10.0,0.4,0.4,0.4,0.8
+EPL,2020-2021,281,Josh Maja,ng NGA,FW,Fulham,22-118,1998,11,8,651,7.2,4.7,3.9,0.9,4.9
+EPL,2020-2021,282,Sadio Mané,sn SEN,FW,Liverpool,29-014,1992,29,26,"2,345",26.1,12.8,12.8,4.0,16.8
+EPL,2020-2021,283,Javier Manquillo,es ESP,DF,Newcastle Utd,26-354,1994,13,10,825,9.2,0.0,0.0,0.2,0.3
+EPL,2020-2021,284,Fernando Marçal,br BRA,DF,Wolves,32-064,1989,12,7,615,6.8,0.1,0.1,0.1,0.2
+EPL,2020-2021,285,Solly March,eng ENG,DF,Brighton,26-278,1994,21,19,"1,672",18.6,1.7,1.7,1.7,3.4
+EPL,2020-2021,286,Pablo Marí,es ESP,DF,Arsenal,27-236,1993,9,9,810,9.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,287,Anthony Martial,fr FRA,FW,Manchester Utd,25-140,1995,22,17,"1,480",16.4,6.5,6.5,2.0,8.5
+EPL,2020-2021,288,Martinelli,br BRA,FW,Arsenal,19-310,2001,10,5,422,4.7,2.5,2.5,0.9,3.4
+EPL,2020-2021,289,Emiliano Martínez,ar ARG,GK,Aston Villa,28-234,1992,31,31,"2,790",31.0,0.0,0.0,0.2,0.2
+EPL,2020-2021,290,Arthur Masuaku,cd COD,"DF,FW",West Ham,27-168,1993,12,12,"1,006",11.2,0.3,0.3,1.9,2.2
+EPL,2020-2021,291,Juan Mata,es ESP,FW,Manchester Utd,32-361,1988,7,4,338,3.8,0.3,0.3,0.8,1.2
+EPL,2020-2021,292,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,23-300,1997,5,2,184,2.0,0.2,0.2,0.0,0.2
+EPL,2020-2021,293,Nemanja Matić,rs SRB,MF,Manchester Utd,32-266,1988,16,10,916,10.2,0.3,0.3,0.3,0.6
+EPL,2020-2021,294,Joël Matip,cm CMR,DF,Liverpool,29-259,1991,10,9,691,7.7,0.6,0.6,1.0,1.7
+EPL,2020-2021,295,Neal Maupay,fr FRA,"FW,MF",Brighton,24-253,1996,30,26,"2,243",24.9,11.1,8.1,3.4,11.5
+EPL,2020-2021,296,James McArthur,sco SCO,MF,Crystal Palace,33-199,1987,18,17,"1,466",16.3,0.2,0.2,0.9,1.1
+EPL,2020-2021,297,Oliver McBurnie,sco SCO,FW,Sheffield Utd,24-324,1996,23,12,"1,324",14.7,3.1,3.1,1.1,4.1
+EPL,2020-2021,298,Alex McCarthy,eng ENG,GK,Southampton,31-142,1989,26,26,"2,340",26.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,299,James McCarthy,ie IRL,MF,Crystal Palace,30-163,1990,12,7,573,6.4,0.0,0.0,0.1,0.1
+EPL,2020-2021,300,John McGinn,sco SCO,MF,Aston Villa,26-188,1994,30,30,"2,700",30.0,1.9,1.9,2.4,4.4
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,301,David McGoldrick,ie IRL,"FW,MF",Sheffield Utd,33-146,1987,29,22,"1,865",20.7,5.3,5.3,1.2,6.5
+EPL,2020-2021,302,Dwight McNeil,eng ENG,MF,Burnley,21-153,1999,30,28,"2,587",28.7,1.0,1.0,4.6,5.5
+EPL,2020-2021,303,Scott McTominay,sco SCO,MF,Manchester Utd,24-137,1996,28,20,"1,798",20.0,1.8,1.8,0.9,2.7
+EPL,2020-2021,304,Ben Mee,eng ENG,DF,Burnley,31-213,1989,25,25,"2,243",24.9,1.5,1.5,0.1,1.6
+EPL,2020-2021,305,Benjamin Mendy,fr FRA,DF,Manchester City,26-281,1994,10,9,767,8.5,0.4,0.4,0.0,0.4
+EPL,2020-2021,306,Edouard Mendy,sn SEN,GK,Chelsea,29-054,1992,26,26,"2,340",26.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,307,Nampalys Mendy,sn SEN,MF,Leicester City,28-305,1992,21,15,"1,375",15.3,0.1,0.1,0.3,0.4
+EPL,2020-2021,308,Illan Meslier,fr FRA,GK,Leeds United,21-053,2000,31,31,"2,790",31.0,0.0,0.0,0.1,0.1
+EPL,2020-2021,309,Luka Milivojević,rs SRB,MF,Crystal Palace,30-017,1991,27,23,"2,033",22.6,1.4,0.6,1.2,1.8
+EPL,2020-2021,310,James Milner,eng ENG,"MF,DF",Liverpool,35-110,1986,23,11,"1,020",11.3,0.4,0.4,1.2,1.6
+EPL,2020-2021,311,Yerry Mina,co COL,DF,Everton,26-213,1994,22,21,"1,786",19.8,1.1,1.1,0.0,1.1
+EPL,2020-2021,312,Takumi Minamino,jp JPN,"MF,FW",Liverpool,26-098,1995,9,2,293,3.3,0.7,0.7,0.0,0.7
+EPL,2020-2021,313,Takumi Minamino,jp JPN,"MF,FW",Southampton,26-098,1995,6,5,410,4.6,0.7,0.7,0.2,0.9
+EPL,2020-2021,314,Tyrone Mings,eng ENG,DF,Aston Villa,28-042,1993,30,30,"2,654",29.5,1.7,1.7,0.6,2.3
+EPL,2020-2021,315,Tyrick Mitchell,eng ENG,DF,Crystal Palace,21-235,1999,13,13,"1,170",13.0,0.1,0.1,0.3,0.4
+EPL,2020-2021,316,Aleksandar Mitrović,rs SRB,FW,Fulham,26-220,1994,25,12,"1,302",14.5,6.4,4.9,2.5,7.4
+EPL,2020-2021,317,Jakub Moder,pl POL,DF,Brighton,22-017,1999,6,3,277,3.1,0.6,0.6,0.1,0.7
+EPL,2020-2021,318,Jayson Molumby,ie IRL,MF,Brighton,21-261,1999,1,0,1,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,319,Wes Morgan,jm JAM,DF,Leicester City,37-093,1984,3,0,18,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,320,Mason Mount,eng ENG,"MF,FW",Chelsea,22-104,1999,31,27,"2,455",27.3,5.6,4.8,5.9,10.7
+EPL,2020-2021,321,Lucas Moura,br BRA,"FW,MF",Tottenham,28-254,1992,28,14,"1,364",15.2,2.2,2.2,2.2,4.4
+EPL,2020-2021,322,Lys Mousset,fr FRA,"FW,MF",Sheffield Utd,25-075,1996,10,2,288,3.2,0.7,0.7,0.3,1.1
+EPL,2020-2021,323,João Moutinho,pt POR,MF,Wolves,34-228,1986,29,24,"2,179",24.2,0.5,0.5,2.3,2.8
+EPL,2020-2021,324,Joel Mumbongo,se SWE,FW,Burnley,22-105,1999,4,0,40,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,325,Jacob Murphy,eng ENG,"DF,MF",Newcastle Utd,26-059,1995,20,11,"1,086",12.1,1.1,1.1,1.8,2.9
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,326,Shkodran Mustafi,de GER,DF,Arsenal,29-007,1992,3,0,47,0.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,327,Marvelous Nakamba,zw ZIM,MF,Aston Villa,27-095,1994,11,7,571,6.3,0.0,0.0,0.0,0.1
+EPL,2020-2021,328,Iliman Ndiaye,fr FRA,MF,Sheffield Utd,21-276,1999,1,0,12,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,329,Wilfred Ndidi,ng NGA,"MF,DF",Leicester City,24-129,1996,20,19,"1,664",18.5,0.6,0.6,1.0,1.5
+EPL,2020-2021,330,Tanguy Ndombele,fr FRA,MF,Tottenham,24-117,1996,30,28,"2,054",22.8,1.4,1.4,2.4,3.8
+EPL,2020-2021,331,Reiss Nelson,eng ENG,FW,Arsenal,21-135,1999,2,0,71,0.8,0.0,0.0,0.0,0.0
+EPL,2020-2021,332,Pedro Neto,pt POR,"FW,MF",Wolves,21-046,2000,31,30,"2,550",28.3,4.8,4.8,6.1,11.0
+EPL,2020-2021,333,Rúben Neves,pt POR,MF,Wolves,24-042,1997,30,26,"2,259",25.1,4.8,2.5,1.8,4.3
+EPL,2020-2021,334,Eddie Nketiah,eng ENG,FW,Arsenal,21-329,1999,17,4,423,4.7,2.3,2.3,0.8,3.1
+EPL,2020-2021,335,Niels Nkounkou,fr FRA,DF,Everton,20-174,2000,1,1,68,0.8,0.0,0.0,0.0,0.0
+EPL,2020-2021,336,Dan Nlundulu,eng ENG,FW,Southampton,22-078,1999,12,0,110,1.2,0.1,0.1,0.0,0.1
+EPL,2020-2021,337,Mark Noble,eng ENG,MF,West Ham,33-351,1987,19,7,637,7.1,0.0,0.0,0.1,0.2
+EPL,2020-2021,338,Oliver Norwood,nir NIR,MF,Sheffield Utd,30-012,1991,26,20,"1,680",18.7,0.3,0.3,1.3,1.5
+EPL,2020-2021,339,Jack O'Connell,eng ENG,DF,Sheffield Utd,27-026,1994,2,2,180,2.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,340,Dara O'Shea,ie IRL,DF,West Brom,22-051,1999,25,23,"2,006",22.3,0.2,0.2,0.1,0.3
+EPL,2020-2021,341,Michael Obafemi,ie IRL,FW,Southampton,20-292,2000,1,0,14,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,342,Denis Odoi,be BEL,DF,Fulham,32-332,1988,3,3,270,3.0,0.1,0.1,0.1,0.1
+EPL,2020-2021,343,Angelo Ogbonna,it ITA,DF,West Ham,32-336,1988,24,24,"2,132",23.7,1.1,1.1,1.0,2.1
+EPL,2020-2021,344,Robin Olsen,se SWE,GK,Everton,31-106,1990,7,7,630,7.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,345,Josh Onomah,eng ENG,MF,Fulham,23-362,1997,7,2,171,1.9,0.5,0.5,0.0,0.5
+EPL,2020-2021,346,Divock Origi,be BEL,FW,Liverpool,26-006,1995,9,2,186,2.1,0.9,0.9,0.2,1.1
+EPL,2020-2021,347,Ben Osborn,eng ENG,"MF,DF",Sheffield Utd,26-262,1994,18,12,"1,165",12.9,1.0,1.0,1.5,2.5
+EPL,2020-2021,348,Owen Otasowie,us USA,MF,Wolves,20-004,2001,5,1,117,1.3,0.4,0.4,0.1,0.6
+EPL,2020-2021,349,Alex Oxlade-Chamberlain,eng ENG,"MF,FW",Liverpool,27-252,1993,10,2,238,2.6,0.3,0.3,0.2,0.5
+EPL,2020-2021,350,Emerson Palmieri,it ITA,DF,Chelsea,26-264,1994,2,0,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,351,Thomas Partey,gh GHA,MF,Arsenal,27-315,1993,19,15,"1,256",14.0,0.8,0.8,0.9,1.7
+EPL,2020-2021,352,Rui Patrício,pt POR,GK,Wolves,33-068,1988,32,32,"2,879",32.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,353,Bailey Peacock-Farrell,nir NIR,GK,Burnley,24-177,1996,3,3,270,3.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,354,Lee Peltier,eng ENG,DF,West Brom,34-134,1986,4,3,229,2.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,355,Nicolas Pépé,ci CIV,FW,Arsenal,25-330,1995,25,13,"1,333",14.8,6.0,5.2,0.8,6.0
+EPL,2020-2021,356,Matheus Pereira,br BRA,"MF,FW",West Brom,24-354,1996,28,25,"2,127",23.6,5.5,3.2,4.1,7.3
+EPL,2020-2021,357,Ricardo Pereira,pt POR,DF,Leicester City,27-200,1993,12,9,838,9.3,0.4,0.4,0.3,0.8
+EPL,2020-2021,358,Ayoze Pérez,es ESP,"FW,MF",Leicester City,27-275,1993,19,13,"1,072",11.9,2.4,2.4,1.1,3.5
+EPL,2020-2021,359,Kalvin Phillips,eng ENG,MF,Leeds United,25-143,1995,24,24,"2,112",23.5,0.3,0.3,3.5,3.8
+EPL,2020-2021,360,Matt Phillips,sco SCO,"MF,DF",West Brom,30-042,1991,27,16,"1,386",15.4,2.4,2.4,2.1,4.5
+EPL,2020-2021,361,Nathaniel Phillips,eng ENG,DF,Liverpool,24-034,1997,12,10,"1,006",11.2,0.2,0.2,0.3,0.4
+EPL,2020-2021,362,Jordan Pickford,eng ENG,GK,Everton,27-048,1994,25,25,"2,202",24.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,363,Erik Pieters,nl NED,"DF,MF",Burnley,32-260,1988,20,13,"1,266",14.1,0.2,0.2,0.5,0.7
+EPL,2020-2021,364,Daniel Podence,pt POR,"FW,MF",Wolves,25-185,1995,21,20,"1,505",16.7,2.9,2.9,1.8,4.7
+EPL,2020-2021,365,Paul Pogba,fr FRA,"MF,FW",Manchester Utd,28-040,1993,22,18,"1,612",17.9,1.8,1.8,1.5,3.4
+EPL,2020-2021,366,Nick Pope,eng ENG,GK,Burnley,29-005,1992,29,29,"2,610",29.0,0.0,0.0,0.4,0.4
+EPL,2020-2021,367,Dennis Praet,be BEL,"MF,FW",Leicester City,26-345,1994,15,10,718,8.0,0.5,0.5,0.8,1.3
+EPL,2020-2021,368,Davy Pröpper,nl NED,MF,Brighton,29-234,1991,7,2,213,2.4,0.1,0.1,0.0,0.1
+EPL,2020-2021,369,Christian Pulisic,us USA,"FW,MF",Chelsea,22-218,1998,22,13,"1,305",14.5,4.2,4.2,2.3,6.4
+EPL,2020-2021,370,Aaron Ramsdale,eng ENG,GK,Sheffield Utd,22-345,1998,32,32,"2,880",32.0,0.0,0.0,0.1,0.1
+EPL,2020-2021,371,Jacob Ramsey,eng ENG,MF,Aston Villa,19-331,2001,16,5,462,5.1,0.3,0.3,0.2,0.5
+EPL,2020-2021,372,Kayne Ramsey,eng ENG,DF,Southampton,20-196,2000,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,373,Darren Randolph,ie IRL,GK,West Ham,33-347,1987,2,2,180,2.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,374,Marcus Rashford,eng ENG,FW,Manchester Utd,23-175,1997,32,30,"2,601",28.9,8.4,8.4,3.0,11.4
+EPL,2020-2021,375,Tim Ream,us USA,DF,Fulham,33-201,1987,5,5,450,5.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,376,Nathan Redmond,eng ENG,"MF,FW",Southampton,27-049,1994,23,12,"1,267",14.1,2.4,2.4,2.2,4.6
+EPL,2020-2021,377,Harrison Reed,eng ENG,MF,Fulham,26-087,1995,29,24,"2,126",23.6,0.3,0.3,1.4,1.7
+EPL,2020-2021,378,Sergio Reguilón,es ESP,DF,Tottenham,24-129,1996,22,21,"1,794",19.9,1.2,1.2,1.5,2.8
+EPL,2020-2021,379,Bobby Reid,jm JAM,"FW,MF",Fulham,28-081,1993,28,23,"1,947",21.6,4.5,4.5,0.9,5.4
+EPL,2020-2021,380,Declan Rice,eng ENG,MF,West Ham,22-100,1999,29,29,"2,610",29.0,2.0,1.3,2.0,3.3
+EPL,2020-2021,381,Lewis Richardson,eng ENG,"FW,MF",Burnley,18-076,2003,2,0,4,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,382,Richarlison,br BRA,FW,Everton,23-349,1997,28,27,"2,341",26.0,9.6,8.9,2.6,11.4
+EPL,2020-2021,383,Jaïro Riedewald,nl NED,MF,Crystal Palace,24-227,1996,27,15,"1,469",16.3,0.6,0.6,0.9,1.5
+EPL,2020-2021,384,Matt Ritchie,sco SCO,"DF,MF",Newcastle Utd,31-226,1989,12,9,817,9.1,0.3,0.3,0.9,1.1
+EPL,2020-2021,385,Tyler Roberts,wal WAL,"MF,FW",Leeds United,22-102,1999,21,11,"1,068",11.9,1.6,1.6,1.5,3.1
+EPL,2020-2021,386,Andrew Robertson,sco SCO,DF,Liverpool,27-044,1994,32,32,"2,844",31.6,1.3,1.3,5.5,6.8
+EPL,2020-2021,387,Antonee Robinson,us USA,DF,Fulham,23-259,1997,26,22,"1,982",22.0,0.5,0.5,1.4,2.0
+EPL,2020-2021,388,Callum Robinson,ie IRL,"FW,MF",West Brom,26-081,1995,24,17,"1,354",15.0,2.5,2.5,0.8,3.3
+EPL,2020-2021,389,Jack Robinson,eng ENG,DF,Sheffield Utd,27-235,1993,8,6,607,6.7,0.3,0.3,0.0,0.3
+EPL,2020-2021,390,Hal Robson-Kanu,wal WAL,"FW,MF",West Brom,31-338,1989,15,0,326,3.6,0.1,0.1,0.2,0.3
+EPL,2020-2021,391,Marek Rodák,sk SVK,GK,Fulham,24-132,1996,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,392,Joe Rodon,wal WAL,DF,Tottenham,23-184,1997,11,8,732,8.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,393,Rodri,es ESP,MF,Manchester City,24-306,1996,29,27,"2,353",26.1,2.2,1.5,1.5,3.0
+EPL,2020-2021,394,Rodrigo,es ESP,"MF,FW",Leeds United,30-049,1991,21,12,"1,089",12.1,3.8,3.8,1.8,5.7
+EPL,2020-2021,395,James Rodríguez,co COL,"FW,MF",Everton,29-286,1991,22,20,"1,687",18.7,3.2,3.2,5.2,8.4
+EPL,2020-2021,396,Jay Rodriguez,eng ENG,"FW,MF",Burnley,31-269,1989,26,12,"1,146",12.7,1.5,1.5,1.7,3.3
+EPL,2020-2021,397,Oriol Romeu,es ESP,MF,Southampton,29-212,1991,20,20,"1,732",19.2,0.4,0.4,1.1,1.5
+EPL,2020-2021,398,John Ruddy,eng ENG,GK,Wolves,34-182,1986,1,0,1,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,399,Antonio Rüdiger,de GER,DF,Chelsea,28-052,1993,15,15,"1,350",15.0,0.4,0.4,0.3,0.7
+EPL,2020-2021,400,Mathew Ryan,au AUS,GK,Brighton,29-016,1992,11,11,990,11.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,401,Mathew Ryan,au AUS,GK,Arsenal,29-016,1992,2,2,180,2.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,402,Allan Saint-Maximin,fr FRA,"FW,MF",Newcastle Utd,24-043,1997,19,13,"1,073",11.9,1.8,1.8,2.7,4.5
+EPL,2020-2021,403,Romain Saïss,ma MAR,DF,Wolves,31-029,1990,23,23,"2,047",22.7,3.0,3.0,0.2,3.2
+EPL,2020-2021,404,Bukayo Saka,eng ENG,"FW,DF",Arsenal,19-231,2001,28,27,"2,317",25.7,6.6,6.6,4.3,10.9
+EPL,2020-2021,405,Mamadou Sakho,fr FRA,DF,Crystal Palace,31-070,1990,4,3,276,3.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,406,Mohamed Salah,eg EGY,FW,Liverpool,28-313,1992,31,28,"2,543",28.3,16.7,12.2,4.3,16.4
+EPL,2020-2021,407,Mohammed Salisu,gh GHA,DF,Southampton,22-007,1999,7,5,453,5.0,0.3,0.3,0.0,0.4
+EPL,2020-2021,408,Davinson Sánchez,co COL,DF,Tottenham,24-316,1996,17,16,"1,396",15.5,1.1,1.1,0.0,1.1
+EPL,2020-2021,409,Robert Sánchez,es ESP,GK,Brighton,23-157,1997,21,21,"1,890",21.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,410,Morgan Sanson,fr FRA,MF,Aston Villa,26-249,1994,9,3,294,3.3,0.0,0.0,0.1,0.2
+EPL,2020-2021,411,Romaine Sawyers,kn SKN,MF,West Brom,29-173,1991,19,17,"1,487",16.5,0.1,0.1,0.4,0.5
+EPL,2020-2021,412,Dane Scarlett,eng ENG,FW,Tottenham,17-031,2004,1,0,1,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,413,Fabian Schär,ch SUI,DF,Newcastle Utd,29-125,1991,16,13,"1,210",13.4,0.4,0.4,0.0,0.4
+EPL,2020-2021,414,Jeffrey Schlupp,gh GHA,MF,Crystal Palace,28-122,1992,20,12,"1,081",12.0,1.4,1.4,1.4,2.7
+EPL,2020-2021,415,Kasper Schmeichel,dk DEN,GK,Leicester City,34-170,1986,32,32,"2,880",32.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,416,Nélson Semedo,pt POR,DF,Wolves,27-159,1993,29,29,"2,566",28.5,1.4,1.4,1.0,2.4
+EPL,2020-2021,417,Jamie Shackleton,eng ENG,"MF,DF",Leeds United,21-198,1999,13,3,461,5.1,0.0,0.0,0.3,0.3
+EPL,2020-2021,418,Xherdan Shaqiri,ch SUI,"MF,FW",Liverpool,29-196,1991,13,5,524,5.8,0.4,0.4,2.9,3.3
+EPL,2020-2021,419,Billy Sharp,eng ENG,FW,Sheffield Utd,35-078,1986,16,7,735,8.2,2.7,1.2,0.6,1.8
+EPL,2020-2021,420,Luke Shaw,eng ENG,DF,Manchester Utd,25-286,1995,28,26,"2,294",25.5,0.5,0.5,4.5,5.0
+EPL,2020-2021,421,Jonjo Shelvey,eng ENG,MF,Newcastle Utd,29-056,1992,24,23,"2,077",23.1,1.8,1.8,2.0,3.8
+EPL,2020-2021,422,Shola Shoretire,eng ENG,FW,Manchester Utd,17-081,2004,1,0,2,0.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,423,Gylfi Sigurðsson,is ISL,MF,Everton,31-228,1989,30,19,"1,834",20.4,5.1,2.8,4.1,6.9
+EPL,2020-2021,424,Bernardo Silva,pt POR,"MF,FW",Manchester City,26-257,1994,24,22,"1,899",21.1,2.8,2.8,3.6,6.4
+EPL,2020-2021,425,Fábio Silva,pt POR,FW,Wolves,18-279,2002,26,6,895,9.9,4.4,3.7,0.4,4.1
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,426,Thiago Silva,br BRA,DF,Chelsea,36-214,1984,18,18,"1,485",16.5,0.8,0.8,0.3,1.1
+EPL,2020-2021,427,Moussa Sissoko,fr FRA,MF,Tottenham,31-251,1989,24,15,"1,583",17.6,0.4,0.4,0.5,0.9
+EPL,2020-2021,428,Islam Slimani,dz ALG,FW,Leicester City,32-310,1988,1,0,20,0.2,0.0,0.0,0.0,0.1
+EPL,2020-2021,429,William Smallbone,ie IRL,MF,Southampton,21-062,2000,3,2,172,1.9,0.1,0.1,0.0,0.1
+EPL,2020-2021,430,Emile Smith-Rowe,eng ENG,"MF,FW",Arsenal,20-270,2000,16,14,"1,125",12.5,1.1,1.1,2.8,3.9
+EPL,2020-2021,431,Robert Snodgrass,sco SCO,"MF,FW",West Brom,33-229,1987,8,6,526,5.8,0.2,0.2,0.3,0.5
+EPL,2020-2021,432,Robert Snodgrass,sco SCO,"FW,DF",West Ham,33-229,1987,3,0,5,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,433,Cédric Soares,pt POR,DF,Arsenal,29-236,1991,10,8,746,8.3,0.2,0.2,0.9,1.1
+EPL,2020-2021,434,Tomáš Souček,cz CZE,MF,West Ham,26-056,1995,32,32,"2,879",32.0,7.2,7.2,1.5,8.7
+EPL,2020-2021,435,Çağlar Söyüncü,tr TUR,DF,Leicester City,24-336,1996,17,13,"1,279",14.2,0.2,0.2,0.1,0.4
+EPL,2020-2021,436,Zack Steffen,us USA,GK,Manchester City,26-022,1995,1,1,90,1.0,0.0,0.0,0.0,0.0
+EPL,2020-2021,437,Dale Stephens,eng ENG,MF,Burnley,31-316,1989,7,3,261,2.9,0.2,0.2,0.0,0.2
+EPL,2020-2021,438,Jack Stephens,eng ENG,DF,Southampton,27-087,1994,13,12,"1,087",12.1,0.3,0.3,0.4,0.7
+EPL,2020-2021,439,Raheem Sterling,eng ENG,FW,Manchester City,26-137,1994,27,24,"2,176",24.2,10.3,9.5,4.0,13.5
+EPL,2020-2021,440,Enda Stevens,ie IRL,DF,Sheffield Utd,30-289,1990,24,24,"2,160",24.0,1.0,1.0,0.9,1.9
+EPL,2020-2021,441,John Stones,eng ENG,DF,Manchester City,26-331,1994,20,20,"1,753",19.5,2.2,2.2,0.1,2.3
+EPL,2020-2021,442,Pascal Struijk,nl NED,"DF,MF",Leeds United,21-256,1999,21,18,"1,648",18.3,1.8,1.8,0.1,1.9
+EPL,2020-2021,443,Japhet Tanganga,eng ENG,DF,Tottenham,22-024,1999,4,4,315,3.5,0.1,0.1,0.0,0.1
+EPL,2020-2021,444,Matt Targett,eng ENG,DF,Aston Villa,25-218,1995,31,31,"2,774",30.8,0.2,0.2,2.1,2.3
+EPL,2020-2021,445,James Tarkowski,eng ENG,DF,Burnley,28-156,1992,30,30,"2,700",30.0,1.8,1.8,0.7,2.5
+EPL,2020-2021,446,Percy Tau,za RSA,"FW,MF",Brighton,26-346,1994,2,1,85,0.9,0.0,0.0,0.0,0.0
+EPL,2020-2021,447,Sidnei Tavares,pt POR,MF,Leicester City,19-207,2001,2,1,85,0.9,0.1,0.1,0.0,0.1
+EPL,2020-2021,448,Charlie Taylor,eng ENG,DF,Burnley,27-218,1993,23,22,"1,886",21.0,0.1,0.1,1.1,1.1
+EPL,2020-2021,449,Neil Taylor,wal WAL,DF,Aston Villa,32-076,1989,1,0,16,0.2,0.0,0.0,0.0,0.0
+EPL,2020-2021,450,Allan Tchaptchet,fr FRA,DF,Southampton,19-124,2001,1,0,13,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,451,Nathan Tella,eng ENG,"FW,MF",Southampton,21-293,1999,13,4,535,5.9,0.5,0.5,0.2,0.8
+EPL,2020-2021,452,Alex Telles,br BRA,DF,Manchester Utd,28-130,1992,7,6,510,5.7,0.1,0.1,0.8,1.0
+EPL,2020-2021,453,Kenny Tete,nl NED,DF,Fulham,25-197,1995,18,15,"1,246",13.8,0.1,0.1,1.5,1.6
+EPL,2020-2021,454,Luke Thomas,eng ENG,DF,Leicester City,19-318,2001,8,7,540,6.0,0.1,0.1,0.2,0.3
+EPL,2020-2021,455,Youri Tielemans,be BEL,MF,Leicester City,23-352,1997,32,31,"2,817",31.3,3.8,2.3,2.3,4.6
+EPL,2020-2021,456,Kieran Tierney,sco SCO,DF,Arsenal,23-323,1997,23,23,"2,014",22.4,0.4,0.4,3.7,4.1
+EPL,2020-2021,457,James Tomkins,eng ENG,DF,Crystal Palace,32-026,1989,5,4,388,4.3,0.1,0.1,0.0,0.1
+EPL,2020-2021,458,Fikayo Tomori,eng ENG,DF,Chelsea,23-126,1997,1,0,45,0.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,459,Ferrán Torres,es ESP,FW,Manchester City,21-054,2000,19,11,"1,025",11.4,4.2,4.2,1.5,5.7
+EPL,2020-2021,460,Cenk Tosun,tr TUR,FW,Everton,29-321,1991,5,0,48,0.5,0.0,0.0,0.1,0.1
+EPL,2020-2021,461,Andros Townsend,eng ENG,"MF,FW",Crystal Palace,29-282,1991,28,20,"1,820",20.2,1.6,1.6,2.5,4.1
+EPL,2020-2021,462,Conor Townsend,eng ENG,DF,West Brom,28-051,1993,19,19,"1,694",18.8,0.6,0.6,1.3,1.9
+EPL,2020-2021,463,Adama Traoré,es ESP,FW,Wolves,25-089,1996,31,23,"2,233",24.8,1.6,1.6,4.6,6.2
+EPL,2020-2021,464,Bertrand Traoré,bf BFA,FW,Aston Villa,25-230,1995,29,22,"1,756",19.5,4.9,4.9,2.4,7.3
+EPL,2020-2021,465,Trézéguet,eg EGY,FW,Aston Villa,26-205,1994,21,12,"1,166",13.0,3.8,3.8,2.0,5.8
+EPL,2020-2021,466,Leandro Trossard,be BEL,"FW,MF",Brighton,26-141,1994,29,25,"2,200",24.4,4.3,4.3,3.8,8.2
+EPL,2020-2021,467,Kostas Tsimikas,gr GRE,DF,Liverpool,24-347,1996,1,0,6,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,468,Axel Tuanzebe,eng ENG,DF,Manchester Utd,23-161,1997,6,1,134,1.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,469,Cengiz Ünder,tr TUR,"MF,FW",Leicester City,23-284,1997,9,1,281,3.1,0.3,0.3,1.8,2.0
+EPL,2020-2021,470,Yan Valery,fr FRA,"DF,MF",Southampton,22-061,1999,3,1,103,1.1,0.3,0.3,0.0,0.3
+EPL,2020-2021,471,Jamie Vardy,eng ENG,FW,Leicester City,34-103,1987,28,25,"2,311",25.7,16.5,11.2,4.7,16.0
+EPL,2020-2021,472,Joël Veltman,nl NED,DF,Brighton,29-099,1992,26,23,"2,101",23.3,1.1,1.1,1.0,2.2
+EPL,2020-2021,473,Jannik Vestergaard,dk DEN,DF,Southampton,28-264,1992,24,23,"2,115",23.5,1.9,1.9,0.6,2.4
+EPL,2020-2021,474,Rúben Vinagre,pt POR,DF,Wolves,22-015,1999,2,1,173,1.9,0.0,0.0,0.0,0.0
+EPL,2020-2021,475,Carlos Vinícius,br BRA,FW,Tottenham,26-030,1995,9,3,308,3.4,1.4,1.4,0.1,1.5
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,476,João Virgínia,pt POR,GK,Everton,21-196,1999,1,0,48,0.5,0.0,0.0,0.0,0.0
+EPL,2020-2021,477,Vitinha,pt POR,"MF,FW",Wolves,21-070,2000,14,2,270,3.0,0.4,0.4,0.3,0.7
+EPL,2020-2021,478,Jake Vokins,eng ENG,DF,Southampton,21-038,2000,1,1,66,0.7,0.0,0.0,0.2,0.2
+EPL,2020-2021,479,Matěj Vydra,cz CZE,FW,Burnley,28-358,1992,22,11,"1,049",11.7,4.5,4.5,1.2,5.7
+EPL,2020-2021,480,Theo Walcott,eng ENG,"MF,FW",Southampton,32-039,1989,18,18,"1,461",16.2,2.9,2.9,1.1,4.1
+EPL,2020-2021,481,Theo Walcott,eng ENG,FW,Everton,32-039,1989,1,0,13,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,482,Kyle Walker,eng ENG,DF,Manchester City,30-331,1990,22,20,"1,766",19.6,0.2,0.2,0.5,0.8
+EPL,2020-2021,483,Kyle Walker-Peters,eng ENG,DF,Southampton,24-011,1997,24,24,"2,136",23.7,0.6,0.6,0.7,1.3
+EPL,2020-2021,484,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,23-149,1997,30,30,"2,700",30.0,0.9,0.9,1.8,2.7
+EPL,2020-2021,485,Joel Ward,eng ENG,DF,Crystal Palace,31-177,1989,19,18,"1,626",18.1,0.0,0.0,0.4,0.4
+EPL,2020-2021,486,James Ward-Prowse,eng ENG,MF,Southampton,26-174,1994,32,32,"2,880",32.0,4.1,1.8,3.2,5.0
+EPL,2020-2021,487,Ollie Watkins,eng ENG,FW,Aston Villa,25-115,1995,31,31,"2,790",31.0,13.0,11.5,3.4,14.9
+EPL,2020-2021,488,Caleb Watts,au AUS,"MF,FW",Southampton,19-098,2002,3,0,39,0.4,0.0,0.0,0.0,0.0
+EPL,2020-2021,489,Adam Webster,eng ENG,DF,Brighton,26-110,1995,23,23,"2,054",22.8,1.0,1.0,0.2,1.2
+EPL,2020-2021,490,Danny Welbeck,eng ENG,FW,Brighton,30-149,1990,19,12,"1,171",13.0,5.6,4.9,1.4,6.2
+EPL,2020-2021,491,Timo Werner,de GER,FW,Chelsea,25-049,1996,30,24,"2,157",24.0,9.7,9.7,4.3,14.0
+EPL,2020-2021,492,Ashley Westwood,eng ENG,MF,Burnley,31-023,1990,32,32,"2,870",31.9,0.5,0.5,4.3,4.8
+EPL,2020-2021,493,Ben White,eng ENG,"DF,MF",Brighton,23-198,1997,31,31,"2,741",30.5,0.5,0.5,0.7,1.2
+EPL,2020-2021,494,Georginio Wijnaldum,nl NED,MF,Liverpool,30-164,1990,32,29,"2,518",28.0,2.9,2.9,1.4,4.4
+EPL,2020-2021,495,Brandon Williams,eng ENG,DF,Manchester Utd,20-233,2000,2,0,8,0.1,0.0,0.0,0.0,0.0
+EPL,2020-2021,496,Neco Williams,wal WAL,DF,Liverpool,20-011,2001,5,3,248,2.8,0.1,0.1,0.3,0.4
+EPL,2020-2021,497,Rhys Williams,eng ENG,DF,Liverpool,20-080,2001,4,2,218,2.4,0.0,0.0,0.2,0.2
+EPL,2020-2021,498,Willian,br BRA,"FW,MF",Arsenal,32-258,1988,23,14,"1,226",13.6,2.0,2.0,2.0,4.0
+EPL,2020-2021,499,Joe Willock,eng ENG,MF,Newcastle Utd,21-247,1999,9,7,611,6.8,1.5,1.5,0.7,2.2
+EPL,2020-2021,500,Joe Willock,eng ENG,MF,Arsenal,21-247,1999,7,2,238,2.6,0.4,0.4,0.0,0.5
+EPL,2020-2021,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,xG,npxG,xA,npxG+xA
+EPL,2020-2021,501,Callum Wilson,eng ENG,FW,Newcastle Utd,29-056,1992,23,21,"1,873",20.8,9.6,6.6,1.6,8.2
+EPL,2020-2021,502,Harry Winks,eng ENG,MF,Tottenham,25-081,1996,11,7,655,7.3,0.0,0.0,0.3,0.3
+EPL,2020-2021,503,Chris Wood,nz NZL,FW,Burnley,29-138,1991,27,26,"2,237",24.9,9.7,9.0,1.8,10.8
+EPL,2020-2021,504,Granit Xhaka,ch SUI,"MF,DF",Arsenal,28-209,1992,28,27,"2,329",25.9,0.7,0.7,1.3,2.0
+EPL,2020-2021,505,Andriy Yarmolenko,ua UKR,"FW,MF",West Ham,31-183,1989,14,1,357,4.0,0.4,0.4,1.0,1.4
+EPL,2020-2021,506,DeAndre Yedlin,us USA,DF,Newcastle Utd,27-289,1993,6,5,436,4.8,0.1,0.1,0.1,0.2
+EPL,2020-2021,507,Okay Yokuşlu,tr TUR,MF,West Brom,27-046,1994,10,9,799,8.9,0.7,0.7,0.6,1.3
+EPL,2020-2021,508,Wilfried Zaha,ci CIV,FW,Crystal Palace,28-165,1992,23,22,"1,982",22.0,6.2,4.7,2.4,7.1
+EPL,2020-2021,509,Andre-Frank Zambo Anguissa,cm CMR,MF,Fulham,25-159,1995,31,24,"2,210",24.6,1.5,1.5,2.0,3.5
+EPL,2020-2021,510,Andi Zeqiri,ch SUI,"DF,FW",Brighton,21-306,1999,6,0,124,1.4,0.3,0.3,0.0,0.3
+EPL,2020-2021,511,Oleksandr Zinchenko,ua UKR,DF,Manchester City,24-130,1996,16,13,"1,263",14.0,0.7,0.7,1.3,1.9
+EPL,2020-2021,512,Hakim Ziyech,ma MAR,"FW,MF",Chelsea,28-036,1993,18,13,971,10.8,1.3,1.3,3.2,4.5
+EPL,2020-2021,513,Kurt Zouma,fr FRA,DF,Chelsea,26-179,1994,20,20,"1,800",20.0,1.7,1.7,0.0,1.8
+EPL,2020-2021,514,Martin Ødegaard,no NOR,MF,Arsenal,22-128,1998,10,6,581,6.5,0.8,0.8,0.8,1.6

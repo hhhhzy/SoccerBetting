@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Away,L 0–4,West Ham,Manchester Utd,Y,RB,90,0,0,0,0,0,0,1,0,51,3,1,2,5,0.0,0.0,0.0,0,0,27,36,75.0,6,24,3,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 2–3,West Ham,Southampton,Y,RB,90,0,0,0,0,0,0,1,0,47,21,3,1,2,0.0,0.0,0.1,1,0,26,34,76.5,3,14,0,0,0,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,L 0–3,West Ham,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,80,15,4,0,1,0.0,0.0,0.0,2,0,52,73,71.2,6,42,3,0,0,Match Report
+2017-2018,2017-09-11,Mon,Premier League,Matchweek 4,Home,W 2–0,West Ham,Huddersfield,Y,WB,90,0,0,0,0,0,0,1,0,67,11,3,1,6,0.0,0.0,0.1,6,0,36,53,67.9,3,30,3,0,0,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,D 0–0,West Ham,West Brom,Y,"WB,CB",90,0,0,0,0,0,0,1,0,57,12,2,2,0,0.0,0.0,0.0,0,0,41,51,80.4,3,42,5,0,0,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,L 2–3,West Ham,Tottenham,Y,"RM,RB",90,0,0,0,0,0,0,0,0,49,19,3,0,1,0.0,0.0,0.0,1,0,21,42,50.0,4,22,2,0,0,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,W 1–0,West Ham,Swansea City,Y,RB,90,0,0,0,0,0,0,0,0,70,23,5,2,4,0.0,0.0,0.0,1,0,40,53,75.5,5,36,8,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,D 1–1,West Ham,Burnley,Y,RB,90,0,0,0,0,0,0,0,0,42,19,1,1,8,0.0,0.0,0.0,0,0,22,30,73.3,0,16,0,0,0,Match Report
+2017-2018,2017-10-20,Fri,Premier League,Matchweek 9,Home,L 0–3,West Ham,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,73,4,6,2,2,0.0,0.0,0.3,5,0,49,61,80.3,3,46,6,2,2,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,D 2–2,West Ham,Crystal Palace,Y,RM,61,0,0,0,0,0,0,1,0,40,10,3,2,1,0.0,0.0,0.0,0,0,16,28,57.1,1,17,4,0,0,Match Report
+2017-2018,2017-11-19,Sun,Premier League,Matchweek 12,Away,L 0–2,West Ham,Watford,Y,RB,90,0,0,0,0,0,0,0,0,82,26,1,3,1,0.0,0.0,0.1,3,0,59,74,79.7,7,51,3,0,0,Match Report
+2017-2018,2017-11-24,Fri,Premier League,Matchweek 13,Home,D 1–1,West Ham,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,53,17,3,0,2,0.0,0.0,0.0,0,0,31,48,64.6,5,27,4,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–4,West Ham,Everton,Y,RB,90,0,0,0,0,0,0,1,0,68,2,0,0,2,0.0,0.0,0.1,1,0,49,62,79.0,8,45,4,0,0,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Away,L 1–2,West Ham,Manchester City,Y*,"RB,RM",90,0,0,0,0,0,0,0,0,34,13,2,6,5,0.0,0.0,0.0,1,0,15,25,60.0,1,14,1,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,West Ham,Chelsea,Y,WB,90,0,0,0,0,0,0,0,0,36,10,3,2,3,0.0,0.0,0.0,0,0,12,24,50.0,0,13,0,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,D 0–0,West Ham,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,44,14,2,1,3,0.0,0.0,0.0,0,0,22,34,64.7,1,17,4,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,W 3–0,West Ham,Stoke City,Y,RM,90,0,0,0,0,0,0,0,0,50,11,3,1,5,0.0,0.0,0.0,0,0,26,39,66.7,2,24,1,0,1,Match Report
+2017-2018,2017-12-19,Tue,EFL Cup,Quarter-finals,Away,L 0–1,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,L 2–3,West Ham,Newcastle Utd,Y,RM,90,0,0,0,0,0,0,0,0,65,16,6,0,5,0.0,0.0,0.0,2,0,40,54,74.1,6,35,2,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 3–3,West Ham,Bournemouth,Y,WB,78,0,0,0,0,0,0,1,0,53,16,2,0,2,0.0,0.0,0.0,0,0,29,48,60.4,3,24,3,0,1,Match Report
+2017-2018,2018-01-02,Tue,Premier League,Matchweek 22,Home,W 2–1,West Ham,West Brom,Y,"RM,RB",90,0,0,0,0,0,0,0,0,56,6,0,0,5,0.0,0.0,0.0,2,0,36,49,73.5,5,39,2,0,0,Match Report
+2017-2018,2018-01-04,Thu,Premier League,Matchweek 21,Away,D 1–1,West Ham,Tottenham,Y,RM,90,0,0,0,0,0,0,0,0,54,26,3,3,4,0.0,0.0,0.0,0,0,28,42,66.7,2,23,0,0,0,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,W 4–1,West Ham,Huddersfield,Y,WB,90,0,0,0,0,0,0,0,0,54,21,4,2,7,0.0,0.0,0.0,0,0,24,33,72.7,2,15,0,0,0,Match Report
+2017-2018,2018-01-16,Tue,FA Cup,Third round,Home,W 1–0,West Ham,Shrewsbury,N,,31,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,D 1–1,West Ham,Bournemouth,Y,WB,90,0,0,0,0,1,1,0,0,66,30,3,2,4,0.1,0.1,0.2,1,0,39,55,70.9,2,31,1,0,0,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,L 0–2,West Ham,Wigan Athletic,Y,RB,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Home,D 1–1,West Ham,Crystal Palace,Y,DM,90,0,0,0,0,0,0,0,0,26,33,3,1,0,0.0,0.0,0.0,0,0,11,20,55.0,3,14,1,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–3,West Ham,Brighton,Y,"CM,RB",90,0,0,0,0,0,0,0,0,48,31,1,4,5,0.0,0.0,0.0,1,0,25,34,73.5,3,27,1,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 2–0,West Ham,Watford,Y,"RM,RB",90,0,0,0,0,0,0,1,0,47,11,2,2,3,0.0,0.0,0.0,0,0,27,41,65.9,5,17,2,1,1,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 1–4,West Ham,Liverpool,Y,"WB,RB",90,0,0,0,0,1,0,0,0,49,12,2,1,4,0.0,0.0,0.0,0,0,27,36,75.0,3,26,3,1,1,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 1–4,West Ham,Swansea City,Y,"CB,WB",90,0,0,0,0,0,0,0,0,67,8,3,1,1,0.0,0.0,0.0,0,0,51,62,82.3,7,44,1,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,L 0–3,West Ham,Burnley,Y,RM,90,0,0,0,0,1,0,0,0,42,7,3,0,4,0.0,0.0,0.0,0,0,21,33,63.6,4,15,1,0,0,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 3–0,West Ham,Southampton,Y,RM,90,0,0,0,0,1,0,0,0,48,9,1,4,2,0.1,0.1,0.0,1,0,26,37,70.3,4,18,1,0,0,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Away,D 1–1,West Ham,Chelsea,Y,WB,90,0,0,0,0,0,0,0,0,50,11,1,2,1,0.0,0.0,0.0,1,0,31,40,77.5,2,29,3,1,1,Match Report
+2017-2018,2018-04-16,Mon,Premier League,Matchweek 34,Home,D 1–1,West Ham,Stoke City,Y,RM,90,0,0,0,0,0,0,0,0,52,12,0,0,3,0.0,0.0,0.1,1,0,29,45,64.4,3,28,3,0,3,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 1–4,West Ham,Arsenal,Y,RM,90,0,0,0,0,0,0,1,0,38,25,0,3,5,0.0,0.0,0.1,1,0,20,29,69.0,2,19,3,0,1,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,L 1–4,West Ham,Manchester City,Y,"RM,RB",90,0,0,0,0,0,0,0,0,40,20,5,0,0,0.0,0.0,0.0,1,0,22,30,73.3,4,17,3,0,0,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,W 2–0,West Ham,Leicester City,Y,WB,90,0,0,0,0,1,0,0,0,45,6,2,0,4,0.0,0.0,0.1,1,0,27,38,71.1,2,18,0,0,0,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Home,D 0–0,West Ham,Manchester Utd,Y,RM,90,0,0,0,0,1,0,0,0,42,14,2,0,3,0.0,0.0,0.0,2,0,27,31,87.1,1,22,2,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 3–1,West Ham,Everton,Y,RM,90,0,1,0,0,1,0,0,0,44,4,0,1,0,0.2,0.2,0.0,1,1,30,38,78.9,5,23,1,0,1,Match Report

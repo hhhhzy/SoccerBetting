@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Home,L 1–3,Brighton,Chelsea,Y,"WB,LB",90,0,0,0,0,1,0,0,0,74,11,3,0,3,0.1,0.1,0.2,3,0,48,64,75.0,6,55,9,3,4,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 3–0,Brighton,Newcastle Utd,Y,WB,77,0,0,0,0,0,0,0,0,54,10,2,0,4,0.0,0.0,0.0,1,0,36,47,76.6,3,27,4,0,1,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,Y,WB,90,1,0,0,0,5,1,0,0,82,22,5,0,2,0.6,0.6,0.0,3,0,45,67,67.2,3,56,9,1,1,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 2–4,Brighton,Everton,Y,"WB,RW",90,0,1,0,0,0,0,0,0,67,16,4,0,0,0.0,0.0,0.0,3,1,45,59,76.3,7,51,17,4,4,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Brighton,Crystal Palace,Y,WB,90,0,0,0,0,0,0,0,0,66,8,3,0,2,0.0,0.0,0.2,4,0,42,54,77.8,4,46,7,1,3,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Home,D 1–1,Brighton,West Brom,Y,WB,69,0,0,0,0,0,0,0,0,42,7,0,0,4,0.0,0.0,0.1,3,0,26,34,76.5,3,26,6,1,1,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Brighton,Tottenham,Y,WB,64,0,0,0,0,0,0,0,0,52,10,1,0,1,0.0,0.0,0.0,2,1,33,47,70.2,0,31,7,2,2,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,Y,WB,90,1,0,0,0,1,1,0,0,62,15,6,0,6,0.1,0.1,0.0,2,0,27,46,58.7,4,35,9,0,0,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,D 1–1,Brighton,Liverpool,Y,WB,90,0,0,0,0,2,1,0,0,56,11,6,3,2,0.1,0.1,0.0,1,0,25,42,59.5,9,31,7,1,1,Match Report
+2020-2021,2020-12-07,Mon,Premier League,Matchweek 11,Home,L 1–2,Brighton,Southampton,Y,WB,90,0,0,0,0,1,0,0,0,69,17,2,2,3,0.1,0.1,0.2,4,1,38,57,66.7,7,37,13,2,3,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,L 0–3,Brighton,Leicester City,Y,"LW,LB",90,0,0,0,0,2,0,0,0,56,10,3,4,4,0.0,0.0,0.2,3,0,31,40,77.5,3,33,5,1,2,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 0–0,Brighton,Fulham,Y,WB,90,0,0,0,0,0,0,0,0,86,16,0,1,2,0.0,0.0,0.1,2,0,47,76,61.8,4,53,7,4,6,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,Y,"WB,RB",90,0,0,0,0,1,0,0,0,71,9,2,1,0,0.0,0.0,0.2,8,0,50,65,76.9,5,59,8,5,6,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 2–2,Brighton,West Ham,Y,WB,90,0,0,0,0,3,1,0,0,74,5,0,2,4,0.2,0.2,0.0,1,0,45,62,72.6,5,46,7,2,3,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–1,Brighton,Arsenal,N,RM,23,0,0,0,0,0,0,0,0,12,5,3,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,11,2,3,4,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,D 3–3,Brighton,Wolves,Y,"WB,RW,LM",90,0,0,0,0,1,0,0,0,50,6,2,1,2,0.0,0.0,0.1,3,0,30,39,76.9,5,34,4,1,4,Match Report
+2020-2021,2021-01-10,Sun,FA Cup,Third round,Away,W 1 (4)–1 (3),Brighton,Newport County,Y,LM,89,1,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 18,Away,L 0–1,Brighton,Manchester City,N,CM,23,0,0,0,0,0,0,0,0,17,10,2,0,2,0.0,0.0,0.0,0,0,6,10,60.0,0,9,2,0,1,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 1–0,Brighton,Leeds United,Y,WB,90,0,0,0,0,0,0,0,0,38,17,1,1,0,0.0,0.0,0.1,2,0,17,31,54.8,2,21,0,1,1,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 2–1,Brighton,Blackpool,N,,30,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 0–0,Brighton,Fulham,Y,WB,90,0,0,0,0,2,0,0,0,68,9,5,1,4,0.4,0.4,0.1,2,0,27,50,54.0,4,34,8,2,4,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,W 1–0,Brighton,Tottenham,Y,WB,90,0,0,0,0,2,0,0,0,62,22,4,2,3,0.1,0.1,0.1,3,0,39,47,83.0,3,34,4,0,2,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 1–0,Brighton,Liverpool,Y,WB,66,0,0,0,0,1,0,0,0,39,4,2,1,2,0.0,0.0,0.1,2,0,20,30,66.7,0,25,5,1,1,Match Report

@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,W 2–0,Crystal Palace,Fulham,N,FW,8,0,0,0,0,0,0,0,0,7,3,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,4,1,0,0,Match Report
+2018-2019,2018-08-20,Mon,Premier League,Matchweek 2,Home,L 0–2,Crystal Palace,Liverpool,N,FW,21,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,0,0,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Away,L 1–2,Crystal Palace,Watford,N,FW,6,0,0,0,0,1,0,0,0,5,1,0,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,2,0,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 1–0,Crystal Palace,Swansea City,Y,FW,90,1,0,0,0,6,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,L 0–2,Crystal Palace,Southampton,N,FW,15,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.4,1,0,2,2,100.0,0,1,0,0,0,Match Report
+2018-2019,2018-09-06,Thu,UEFA Nations League,League C,Home,W 2–0,no Norway,cy Cyprus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League C,Away,L 0–1,no Norway,bg Bulgaria,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 1–0,Crystal Palace,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 0–0,Crystal Palace,Newcastle Utd,N,FW,20,0,0,0,0,0,0,0,0,6,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,1,0,0,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Away,W 3–0,Crystal Palace,West Brom,Y,FW,90,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-01,Mon,Premier League,Matchweek 7,Away,L 1–2,Crystal Palace,Bournemouth,N,FW,9,0,0,0,0,1,0,0,0,5,2,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,L 0–1,Crystal Palace,Wolves,N,"FW,LM",9,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Match Report
+2018-2019,2018-10-13,Sat,UEFA Nations League,League C,Home,W 1–0,no Norway,si Slovenia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,UEFA Nations League,League C,Home,W 1–0,no Norway,bg Bulgaria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Home,D 2–2,Crystal Palace,Arsenal,N,FW,27,0,0,0,0,0,0,0,0,11,2,0,0,1,0.0,0.0,0.0,2,1,2,7,28.6,0,5,2,1,1,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Away,L 0–1,Crystal Palace,Middlesbrough,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Away,L 1–3,Crystal Palace,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,L 0–1,Crystal Palace,Tottenham,N,"FW,RM",21,0,0,0,0,1,1,0,0,14,3,0,0,0,0.1,0.1,0.0,0,0,6,8,75.0,1,9,2,0,0,Match Report
+2018-2019,2018-11-16,Fri,UEFA Nations League,League C,Away,D 1–1,no Norway,si Slovenia,N,,16,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-19,Mon,UEFA Nations League,League C,Away,W 2–0,no Norway,cy Cyprus,N,,20,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,D 0–0,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 2–0,Crystal Palace,Burnley,N,FW,3,0,0,0,0,0,0,0,0,9,3,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,0,1,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,L 1–3,Crystal Palace,Brighton,N,CM,33,0,0,0,0,1,1,0,0,10,3,1,0,0,0.0,0.0,0.2,1,0,7,8,87.5,1,7,1,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 2–3,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Home,W 1–0,Crystal Palace,Leicester City,N,FW,13,0,0,0,0,0,0,0,0,11,6,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,6,0,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 3–2,Crystal Palace,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,W 1–0,Crystal Palace,Grimsby Town,Y,FW,60,0,0,0,0,5,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-20,Sun,First Division A,Regular Season,Home,W 1–0,Gent,Anderlecht,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-27,Sun,First Division A,Regular Season,Away,W 2–1,Gent,Kortrijk,N,,32,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-03,Sun,First Division A,Regular Season,Away,D 1–1,Gent,Club Brugge,Y,AM,90,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-10,Sun,First Division A,Regular Season,Home,L 1–2,Gent,Excel Mouscron,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-16,Sat,First Division A,Regular Season,Away,L 1–2,Gent,Waasland-Bev,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-22,Fri,First Division A,Regular Season,Home,W 2–1,Gent,Standard Liège,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-03,Sun,First Division A,Regular Season,Away,W 3–1,Gent,Zulte Waregem,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-10,Sun,First Division A,Regular Season,Home,W 2–1,Gent,Oostende,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-17,Sun,First Division A,Regular Season,Away,W 2–0,Gent,Sint-Truiden,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-31,Sun,First Division A,Championship play-off,Away,L 0–3,Gent,Club Brugge,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-03,Wed,First Division A,Championship play-off,Home,L 1–2,Gent,Standard Liège,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-06,Sat,First Division A,Championship play-off,Away,L 1–2,Gent,Genk,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,First Division A,Championship play-off,Home,L 1–2,Gent,Antwerp,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-21,Sun,First Division A,Championship play-off,Away,D 0–0,Gent,Anderlecht,Y,AM,61,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,First Division A,Championship play-off,Home,L 0–1,Gent,Genk,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-05,Sun,First Division A,Championship play-off,Home,L 0–1,Gent,Club Brugge,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-10,Fri,First Division A,Championship play-off,Away,W 3–2,Gent,Standard Liège,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-16,Thu,First Division A,Championship play-off,Away,W 2–1,Gent,Antwerp,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-19,Sun,First Division A,Championship play-off,Home,W 2–1,Gent,Anderlecht,Y,FW,28,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

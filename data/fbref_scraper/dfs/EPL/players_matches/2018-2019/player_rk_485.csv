@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-03,Tue,FIFA World Cup,Round of 16,Neutral,W 1 (4)–1 (3),eng England,co Colombia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-07,Sat,FIFA World Cup,Quarter-finals,Neutral,W 2–0,eng England,se Sweden,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-11,Wed,FIFA World Cup,Semi-finals,Neutral,L 1–2,eng England,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-07-14,Sat,FIFA World Cup,Third-place match,Neutral,L 0–2,eng England,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 2–3,Arsenal,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,W 3–1,Arsenal,West Ham,N,AM,16,1,0,0,0,2,2,0,0,9,10,0,0,1,0.4,0.4,0.0,0,0,2,4,50.0,0,5,1,0,0,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Away,W 3–2,Arsenal,Cardiff City,N,RW,7,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,1,0,0,Match Report
+2018-2019,2018-09-08,Sat,UEFA Nations League,League A,Home,L 1–2,eng England,es Spain,N,,1,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,eng England,ch Switzerland,Y,FW,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 2–1,Arsenal,Newcastle Utd,N,AM,11,0,0,0,0,1,0,0,0,6,4,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,5,2,0,0,Match Report
+2018-2019,2018-09-20,Thu,Europa Lg,Group stage,Home,W 4–2,eng Arsenal,ua Vorskla Poltava,Y,"RW,FW",90,1,0,0,0,2,1,0,0,34,16,1,0,3,0.8,0.8,0.0,0,0,19,24,79.2,0,33,4,3,3,Match Report
+2018-2019,2018-09-23,Sun,Premier League,Matchweek 6,Home,W 2–0,Arsenal,Everton,N,"FW,AM,RW",11,0,0,0,0,1,0,0,0,9,3,0,0,0,0.1,0.1,0.0,1,0,7,7,100.0,3,7,2,0,0,Match Report
+2018-2019,2018-09-26,Wed,EFL Cup,Third round,Home,W 3–1,Arsenal,Brentford,Y,FW,90,2,0,0,0,2,2,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 2–0,Arsenal,Watford,N,LW,14,0,0,0,0,0,0,0,0,8,2,0,1,0,0.0,0.0,0.0,1,0,4,6,66.7,2,7,1,0,1,Match Report
+2018-2019,2018-10-04,Thu,Europa Lg,Group stage,Away,W 3–0,eng Arsenal,az Qarabağ Ağdam,Y,"FW,LW",90,0,0,0,0,3,1,0,0,26,18,0,0,2,0.6,0.6,0.0,1,0,14,18,77.8,0,17,0,0,0,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Away,W 5–1,Arsenal,Fulham,Y,FW,61,0,1,0,0,0,0,0,0,28,17,3,0,2,0.0,0.0,0.6,4,1,17,23,73.9,4,17,2,0,0,Match Report
+2018-2019,2018-10-22,Mon,Premier League,Matchweek 9,Home,W 3–1,Arsenal,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-25,Thu,Europa Lg,Group stage,Away,W 1–0,eng Arsenal,pt Sporting CP,Y,LW,80,1,0,0,0,3,1,0,0,27,9,1,0,1,0.6,0.6,0.1,3,0,13,15,86.7,1,17,4,1,1,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Away,D 2–2,Arsenal,Crystal Palace,N,FW,23,0,0,0,0,0,0,0,0,8,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,9,1,3,5,Match Report
+2018-2019,2018-10-31,Wed,EFL Cup,Fourth round,Home,W 2–1,Arsenal,Blackpool,Y,FW,75,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,D 1–1,Arsenal,Liverpool,N,LW,10,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,5,2,0,1,Match Report
+2018-2019,2018-11-08,Thu,Europa Lg,Group stage,Home,D 0–0,eng Arsenal,pt Sporting CP,Y,FW,29,0,0,0,0,3,2,0,0,10,3,0,0,1,0.4,0.4,0.0,0,0,4,5,80.0,0,6,0,0,0,Match Report
+2018-2019,2019-05-29,Wed,Europa Lg,Final,Away,L 1–4,eng Arsenal,eng Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

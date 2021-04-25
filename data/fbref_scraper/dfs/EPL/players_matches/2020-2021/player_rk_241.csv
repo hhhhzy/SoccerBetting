@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,W 1–0,Crystal Palace,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,26,9,3,0,2,0.2,0.2,0.0,0,0,9,14,64.3,1,3,1,0,0,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,31,4,2,0,4,0.0,0.0,0.0,0,0,8,16,50.0,0,11,1,0,0,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CB,90,1,0,0,0,2,1,0,0,48,10,2,3,0,0.3,0.3,0.0,0,0,24,36,66.7,2,18,1,0,0,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,36,5,1,0,2,0.0,0.0,0.0,0,0,18,26,69.2,1,17,0,1,2,Match Report
+2020-2021,2020-10-09,Fri,Friendlies (M),Friendlies (M),Away,L 1–3,sn Senegal,ma Morocco,Y,DM,79,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Home,D 1–1,Crystal Palace,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,32,11,1,0,1,0.0,0.0,0.0,0,0,15,22,68.2,0,11,0,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Away,W 2–1,Crystal Palace,Fulham,Y,"CB,DM",90,0,0,0,0,0,0,0,0,41,11,2,0,2,0.0,0.0,0.0,0,0,28,32,87.5,3,18,1,0,0,Match Report
+2020-2021,2020-10-30,Fri,Premier League,Matchweek 7,Away,L 0–2,Crystal Palace,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,72,5,0,0,1,0.0,0.0,0.0,1,0,58,63,92.1,1,45,4,1,1,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,Y,CB,90,0,0,0,0,0,0,0,0,35,2,0,0,2,0.0,0.0,0.0,2,1,18,29,62.1,1,18,0,1,1,Match Report
+2020-2021,2020-11-11,Wed,Africa Cup of Nations qualification,Group stage,Home,W 2–0,sn Senegal,gw Guinea-Bissau,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,Africa Cup of Nations qualification,Group stage,Away,W 1–0,sn Senegal,gw Guinea-Bissau,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Away,L 0–1,Crystal Palace,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,67,12,3,1,0,0.1,0.1,0.1,2,0,40,57,70.2,0,31,0,0,0,Match Report
+2020-2021,2020-11-27,Fri,Premier League,Matchweek 10,Home,L 0–2,Crystal Palace,Newcastle Utd,Y,DM,90,0,0,0,0,3,0,0,0,69,14,4,0,0,0.2,0.2,0.0,2,0,50,57,87.7,3,36,3,0,0,Match Report
+2020-2021,2020-12-06,Sun,Premier League,Matchweek 11,Away,W 5–1,Crystal Palace,West Brom,Y,CB,90,0,0,0,0,0,0,0,0,67,15,3,0,4,0.0,0.0,0.0,0,0,52,58,89.7,1,44,1,0,0,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,D 1–1,Crystal Palace,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,49,10,0,6,3,0.0,0.0,0.0,0,0,36,41,87.8,1,31,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 1–1,Crystal Palace,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,52,12,3,1,0,0.0,0.0,0.0,0,0,33,47,70.2,0,29,1,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,Y,CB,62,0,0,0,0,0,0,0,0,36,9,0,0,1,0.0,0.0,0.0,0,0,23,33,69.7,0,23,1,0,0,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,48,9,3,1,1,0.0,0.0,0.0,0,0,35,41,85.4,2,23,1,0,0,Match Report
+2020-2021,2020-12-28,Mon,Premier League,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,45,2,0,2,1,0.0,0.0,0.0,0,0,25,32,78.1,0,18,0,1,1,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,46,7,3,1,3,0.0,0.0,0.0,0,0,23,30,76.7,0,17,0,0,0,Match Report
+2020-2021,2021-01-08,Fri,FA Cup,Third round,Away,L 0–1,Crystal Palace,Wolves,N,,45,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Premier League,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,33,5,0,1,1,0.0,0.0,0.0,0,0,19,24,79.2,0,16,2,0,0,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,56,12,5,1,1,0.0,0.0,0.0,0,0,38,49,77.6,2,31,8,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,50,9,2,2,0,0.0,0.0,0.0,0,0,38,41,92.7,1,39,2,0,1,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,W 2–1,Crystal Palace,Newcastle Utd,N,DM,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2020-2021,2021-02-08,Mon,Premier League,Matchweek 23,Away,L 0–2,Crystal Palace,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,L 0–3,Crystal Palace,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,47,9,1,0,3,0.0,0.0,0.0,1,0,26,33,78.8,3,16,0,0,0,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,49,17,5,2,2,0.0,0.0,0.0,1,1,23,29,79.3,1,14,0,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,52,7,1,0,1,0.0,0.0,0.0,0,0,38,45,84.4,1,33,0,0,0,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,42,7,2,1,3,0.0,0.0,0.0,0,0,25,33,75.8,0,25,0,0,0,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,L 1–4,Crystal Palace,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,55,10,2,2,2,0.0,0.0,0.0,0,0,39,46,84.8,1,26,0,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,W 1–0,Crystal Palace,West Brom,Y,CB,90,0,0,0,0,0,0,0,0,38,14,3,1,3,0.0,0.0,0.0,0,0,19,26,73.1,0,15,0,0,0,Match Report
+2020-2021,2021-03-26,Fri,Africa Cup of Nations qualification,Group stage,Away,D 0–0,sn Senegal,cg Congo,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Africa Cup of Nations qualification,Group stage,Home,D 1–1,sn Senegal,sz Eswatini,Y*,CB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Away,D 1–1,Crystal Palace,Everton,Y,CB,90,0,0,0,0,0,0,0,0,61,10,1,0,2,0.0,0.0,0.0,1,0,46,54,85.2,1,45,0,0,0,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,45,15,1,4,1,0.0,0.0,0.0,0,0,31,34,91.2,0,23,0,0,0,Match Report

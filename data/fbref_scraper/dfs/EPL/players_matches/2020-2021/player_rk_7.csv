@@ -1,0 +1,39 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-10-01,Thu,EFL Cup,Fourth round,Away,L 0–3,Fulham,Brentford,Y,RB,68,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–1,Fulham,Wolves,Y,RB,90,0,0,0,0,0,0,0,0,96,10,2,1,0,0.0,0.0,0.0,2,0,67,88,76.1,7,64,11,0,0,Match Report
+2020-2021,2020-10-09,Fri,Friendlies (M),Friendlies (M),Home,L 0–1,ng Nigeria,dz Algeria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-13,Tue,Friendlies (M),Friendlies (M),Home,D 1–1,ng Nigeria,tn Tunisia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Fulham,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,0,0,93,9,1,3,0,0.0,0.0,0.0,0,0,69,81,85.2,1,54,4,0,0,Match Report
+2020-2021,2020-10-24,Sat,Premier League,Matchweek 6,Home,L 1–2,Fulham,Crystal Palace,Y,RB,90,0,0,0,0,0,0,0,0,97,10,2,2,2,0.0,0.0,0.1,1,0,77,88,87.5,8,56,13,1,1,Match Report
+2020-2021,2020-11-02,Mon,Premier League,Matchweek 7,Home,W 2–0,Fulham,West Brom,Y,RB,90,1,0,0,0,1,1,0,0,51,7,0,1,2,0.1,0.1,0.0,0,0,28,43,65.1,3,29,3,2,3,Match Report
+2020-2021,2020-11-07,Sat,Premier League,Matchweek 8,Away,L 0–1,Fulham,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,55,12,3,0,2,0.0,0.0,0.0,1,0,30,41,73.2,1,31,0,0,2,Match Report
+2020-2021,2020-11-13,Fri,Africa Cup of Nations qualification,Group stage,Home,D 4–4,ng Nigeria,sl Sierra Leone,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,D 0–0,ng Nigeria,sl Sierra Leone,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-22,Sun,Premier League,Matchweek 9,Home,L 2–3,Fulham,Everton,Y,RB,90,0,0,0,0,1,0,0,0,82,9,3,2,2,0.0,0.0,0.1,2,0,54,71,76.1,6,49,7,1,1,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Away,W 2–1,Fulham,Leicester City,Y,CB,90,0,0,0,0,1,0,0,0,49,7,2,1,2,0.2,0.2,0.0,2,1,27,41,65.9,1,15,1,0,0,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Away,L 0–2,Fulham,Manchester City,Y,CB,90,0,0,0,0,1,0,0,0,41,7,2,0,1,0.0,0.0,0.0,0,0,25,37,67.6,4,16,1,0,0,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,D 1–1,Fulham,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,45,6,1,3,1,0.0,0.0,0.0,2,0,23,32,71.9,0,14,2,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 0–0,Fulham,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,75,7,2,4,0,0.0,0.0,0.0,1,0,55,68,80.9,5,44,2,0,0,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Away,D 1–1,Fulham,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,61,5,1,2,2,0.0,0.0,0.1,1,0,43,52,82.7,6,38,4,0,0,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,D 0–0,Fulham,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,67,9,2,2,3,0.0,0.0,0.0,0,0,38,55,69.1,5,27,1,0,0,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,W 2–0,Fulham,QPR,Y,CB,120,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Away,D 1–1,Fulham,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,53,6,2,0,1,0.0,0.0,0.0,0,0,40,48,83.3,2,38,1,1,1,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Fulham,Chelsea,Y,CB,82,0,0,0,0,2,0,0,0,48,4,1,0,4,0.1,0.1,0.0,0,0,23,33,69.7,4,16,1,1,1,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 18,Home,L 1–2,Fulham,Manchester Utd,Y,CB,82,0,0,0,0,0,0,1,0,48,7,1,2,2,0.0,0.0,0.0,1,1,30,39,76.9,2,23,0,0,0,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Fulham,Brighton,Y,CB,90,0,0,0,0,1,0,0,0,75,11,4,0,3,0.0,0.0,0.0,0,0,40,54,74.1,4,39,4,0,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,D 2–2,Fulham,West Brom,Y,CB,80,0,0,0,0,0,0,0,0,74,7,0,2,2,0.0,0.0,0.0,1,1,57,66,86.4,3,47,6,0,1,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–2,Fulham,Leicester City,Y,"RB,CB",90,0,0,0,0,0,0,1,0,91,12,3,2,0,0.0,0.0,0.0,0,0,56,76,73.7,7,53,7,0,1,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,D 0–0,Fulham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,W 2–0,Fulham,Everton,Y,LB,90,0,1,0,0,2,0,0,0,90,6,1,1,1,0.3,0.3,0.9,3,1,70,78,89.7,4,57,7,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 17,Away,D 1–1,Fulham,Burnley,Y,"LB,RB",90,1,0,0,0,1,1,0,0,70,3,1,2,1,0.1,0.1,0.0,0,0,45,61,73.8,1,34,1,0,2,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,W 1–0,Fulham,Sheffield Utd,Y,RB,90,0,0,0,0,1,1,0,0,110,1,0,3,2,0.0,0.0,0.1,3,0,78,96,81.3,4,70,11,2,2,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,D 0–0,Fulham,Crystal Palace,Y,LB,45,0,0,0,0,0,0,0,0,52,7,1,0,1,0.0,0.0,0.0,0,0,42,51,82.4,5,46,4,1,1,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 33,Home,L 0–1,Fulham,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,68,12,2,2,1,0.0,0.0,0.0,3,0,45,60,75.0,2,44,1,5,5,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,W 1–0,Fulham,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,81,14,2,5,5,0.0,0.0,0.0,0,0,50,64,78.1,3,45,1,1,3,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 0–3,Fulham,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,62,10,0,4,1,0.0,0.0,0.0,1,0,43,56,76.8,2,38,3,2,5,Match Report
+2020-2021,2021-03-19,Fri,Premier League,Matchweek 29,Home,L 1–2,Fulham,Leeds United,Y,RB,71,0,0,0,0,0,0,0,0,44,9,3,3,0,0.0,0.0,0.0,0,0,16,21,76.2,1,16,2,1,1,Match Report
+2020-2021,2021-03-27,Sat,Africa Cup of Nations qualification,Group stage,Away,W 1–0,ng Nigeria,bj Benin,Y,RB,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,Africa Cup of Nations qualification,Group stage,Home,W 3–0,ng Nigeria,ls Lesotho,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 1–3,Fulham,Aston Villa,Y,LB,90,0,0,0,0,0,0,0,0,59,16,1,0,0,0.0,0.0,0.0,0,0,34,51,66.7,2,30,1,0,0,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Home,L 0–1,Fulham,Wolves,Y,CB,83,0,0,0,0,0,0,0,0,52,5,0,1,2,0.0,0.0,0.0,0,0,35,43,81.4,4,32,4,0,0,Match Report
+2020-2021,2021-04-18,Sun,Premier League,Matchweek 32,Away,D 1–1,Fulham,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,40,7,2,1,1,0.0,0.0,0.0,0,0,18,32,56.3,0,23,0,0,0,Match Report

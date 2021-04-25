@@ -1,0 +1,565 @@
+League,Season,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,1,Patrick van Aanholt,nl NED,"DF,MF",Sunderland,25,1990,21,20,"1,784",19.8,3,1,3,0,0,2,0
+EPL,2016-2017,2,Patrick van Aanholt,nl NED,"DF,MF",Crystal Palace,25,1990,11,8,714,7.9,2,0,2,0,0,1,0
+EPL,2016-2017,3,Charlie Adam,sco SCO,MF,Stoke City,30,1985,24,17,"1,517",16.9,1,3,0,1,1,7,0
+EPL,2016-2017,4,Albert Adomah,gh GHA,MF,Middlesbrough,28,1987,2,1,122,1.4,0,0,0,0,0,0,0
+EPL,2016-2017,5,Adrián,es ESP,GK,West Ham,29,1987,16,16,"1,440",16.0,0,0,0,0,0,1,0
+EPL,2016-2017,6,Ibrahim Afellay,nl NED,MF,Stoke City,30,1986,12,3,384,4.3,0,0,0,0,0,0,0
+EPL,2016-2017,7,Benik Afobe,cd COD,FW,Bournemouth,23,1993,31,14,"1,461",16.2,6,3,6,0,1,1,0
+EPL,2016-2017,8,Sergio Agüero,ar ARG,FW,Manchester City,28,1988,31,25,"2,403",26.7,20,4,16,4,5,4,1
+EPL,2016-2017,9,Dan Agyei,eng ENG,FW,Burnley,19,1997,3,0,25,0.3,0,0,0,0,0,0,0
+EPL,2016-2017,10,Ola Aina,ng NGA,"DF,MF",Chelsea,19,1996,3,0,26,0.3,0,0,0,0,0,0,0
+EPL,2016-2017,11,Nathan Aké,nl NED,DF,Bournemouth,21,1995,10,8,735,8.2,3,0,3,0,0,0,0
+EPL,2016-2017,12,Nathan Aké,nl NED,DF,Chelsea,21,1995,2,1,99,1.1,0,0,0,0,0,1,0
+EPL,2016-2017,13,Marc Albrighton,eng ENG,MF,Leicester City,26,1989,33,29,"2,411",26.8,2,6,2,0,0,5,0
+EPL,2016-2017,14,Toby Alderweireld,be BEL,DF,Tottenham,27,1989,30,30,"2,601",28.9,1,0,1,0,0,1,0
+EPL,2016-2017,15,Trent Alexander-Arnold,eng ENG,"MF,DF",Liverpool,17,1998,7,2,167,1.9,0,0,0,0,0,0,0
+EPL,2016-2017,16,Joe Allen,wal WAL,MF,Stoke City,26,1990,36,34,"2,930",32.6,6,2,6,0,0,9,0
+EPL,2016-2017,17,Dele Alli,eng ENG,MF,Tottenham,20,1996,37,35,"3,034",33.7,18,7,17,1,1,4,0
+EPL,2016-2017,18,Ryan Allsop,eng ENG,GK,Bournemouth,24,1992,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,19,Marcos Alonso,es ESP,MF,Chelsea,25,1990,31,30,"2,693",29.9,6,3,6,0,0,2,0
+EPL,2016-2017,20,Daniel Amartey,gh GHA,MF,Leicester City,21,1994,24,17,"1,673",18.6,1,1,1,0,0,3,0
+EPL,2016-2017,21,Jordi Amat,es ESP,DF,Swansea City,24,1992,17,15,"1,409",15.7,0,0,0,0,0,5,0
+EPL,2016-2017,22,Nordin Amrabat,ma MAR,"MF,FW",Watford,29,1987,29,25,"2,091",23.2,0,3,0,0,0,4,0
+EPL,2016-2017,23,Victor Anichebe,ng NGA,"FW,MF",Sunderland,28,1988,18,14,"1,219",13.5,3,0,3,0,0,2,0
+EPL,2016-2017,24,Michail Antonio,eng ENG,"MF,FW",West Ham,26,1990,29,29,"2,434",27.0,9,3,9,0,0,5,2
+EPL,2016-2017,25,Ikechi Anya,sco SCO,"FW,MF",Watford,28,1988,1,0,10,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,26,Álvaro Arbeloa,es ESP,DF,West Ham,33,1983,3,1,258,2.9,0,0,0,0,0,3,0
+EPL,2016-2017,27,Scott Arfield,ca CAN,MF,Burnley,27,1988,31,23,"2,102",23.4,1,1,1,0,0,3,0
+EPL,2016-2017,28,Marko Arnautović,at AUT,"MF,FW",Stoke City,27,1989,32,32,"2,714",30.2,6,5,6,0,1,9,1
+EPL,2016-2017,29,Harry Arter,ie IRL,MF,Bournemouth,26,1989,35,33,"2,957",32.9,1,3,1,0,1,12,2
+EPL,2016-2017,30,Joel Asoro,se SWE,FW,Sunderland,17,1999,1,0,10,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,31,Charlie Austin,eng ENG,FW,Southampton,27,1989,15,11,934,10.4,6,1,4,2,2,1,0
+EPL,2016-2017,32,Daniel Ayala,es ESP,DF,Middlesbrough,25,1990,14,11,918,10.2,1,0,1,0,0,3,0
+EPL,2016-2017,33,André Ayew,gh GHA,"MF,FW",West Ham,26,1989,25,16,"1,438",16.0,6,3,6,0,0,1,0
+EPL,2016-2017,34,Jordan Ayew,gh GHA,"FW,MF",Swansea City,24,1991,14,9,866,9.6,1,2,1,0,0,1,0
+EPL,2016-2017,35,César Azpilicueta,es ESP,DF,Chelsea,26,1989,38,38,"3,420",38.0,1,4,1,0,0,4,0
+EPL,2016-2017,36,Eric Bailly,ci CIV,DF,Manchester Utd,22,1994,25,24,"2,058",22.9,0,0,0,0,0,4,0
+EPL,2016-2017,37,Leighton Baines,eng ENG,"DF,MF",Everton,31,1984,32,32,"2,819",31.3,2,3,0,2,3,4,0
+EPL,2016-2017,38,Patrick Bamford,eng ENG,"FW,MF",Burnley,22,1993,6,0,39,0.4,0,0,0,0,0,0,0
+EPL,2016-2017,39,Patrick Bamford,eng ENG,FW,Middlesbrough,22,1993,8,2,287,3.2,1,0,1,0,0,1,0
+EPL,2016-2017,40,Phil Bardsley,sco SCO,DF,Stoke City,31,1985,15,14,"1,168",13.0,0,0,0,0,0,5,2
+EPL,2016-2017,41,Ross Barkley,eng ENG,"MF,FW",Everton,22,1993,36,32,"2,899",32.2,5,8,5,0,0,5,0
+EPL,2016-2017,42,Ashley Barnes,eng ENG,FW,Burnley,26,1989,28,20,"1,773",19.7,6,2,4,2,2,7,2
+EPL,2016-2017,43,Antonio Barragán,es ESP,DF,Middlesbrough,29,1987,26,26,"2,193",24.4,0,0,0,0,0,5,0
+EPL,2016-2017,44,Modou Barrow,gm GAM,"MF,FW",Swansea City,23,1992,18,12,"1,145",12.7,0,2,0,0,0,1,0
+EPL,2016-2017,45,Gareth Barry,eng ENG,MF,Everton,35,1981,33,23,"2,108",23.4,2,1,2,0,0,10,0
+EPL,2016-2017,46,Joey Barton,eng ENG,MF,Burnley,33,1982,14,12,"1,105",12.3,1,0,1,0,0,4,0
+EPL,2016-2017,47,Borja Bastón,es ESP,FW,Swansea City,23,1992,18,4,561,6.2,1,0,1,0,0,0,0
+EPL,2016-2017,48,Michy Batshuayi,be BEL,FW,Chelsea,22,1993,20,1,254,2.8,5,1,5,0,0,0,0
+EPL,2016-2017,49,Asmir Begović,ba BIH,GK,Chelsea,29,1987,2,2,180,2.0,0,0,0,0,0,0,0
+EPL,2016-2017,50,Valon Behrami,ch SUI,MF,Watford,31,1985,27,26,"2,030",22.6,0,2,0,0,0,7,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,51,Héctor Bellerín,es ESP,"DF,MF",Arsenal,21,1995,33,27,"2,503",27.8,1,4,1,0,0,4,0
+EPL,2016-2017,52,Yohan Benalouane,tn TUN,DF,Leicester City,29,1987,11,11,917,10.2,0,0,0,0,0,4,0
+EPL,2016-2017,53,Christian Benteke,be BEL,FW,Crystal Palace,25,1990,36,36,"3,131",34.8,15,2,13,2,4,10,0
+EPL,2016-2017,54,Jonathan Benteke,be BEL,FW,Crystal Palace,21,1995,1,0,7,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,55,Saido Berahino,bi BDI,FW,Stoke City,22,1993,13,8,720,8.0,0,0,0,0,0,0,0
+EPL,2016-2017,56,Saido Berahino,bi BDI,FW,West Brom,22,1993,4,3,243,2.7,0,0,0,0,0,1,0
+EPL,2016-2017,57,Jóhann Berg Guðmundsson,is ISL,MF,Burnley,25,1990,20,10,998,11.1,1,2,1,0,0,1,0
+EPL,2016-2017,58,Ryan Bertrand,eng ENG,DF,Southampton,26,1989,28,28,"2,507",27.9,2,3,2,0,0,3,0
+EPL,2016-2017,59,Mame Biram Diouf,sn SEN,"MF,FW",Stoke City,28,1987,27,15,"1,385",15.4,1,2,1,0,0,3,0
+EPL,2016-2017,60,Daley Blind,nl NED,DF,Manchester Utd,26,1990,23,20,"1,830",20.3,1,2,1,0,0,2,0
+EPL,2016-2017,61,Yannick Bolasie,cd COD,"FW,MF",Crystal Palace,27,1989,1,0,25,0.3,0,0,0,0,0,1,0
+EPL,2016-2017,62,Yannick Bolasie,cd COD,"MF,FW",Everton,27,1989,13,12,"1,023",11.4,1,4,1,0,0,2,0
+EPL,2016-2017,63,Wilfried Bony,ci CIV,FW,Stoke City,27,1988,10,9,684,7.6,2,0,2,0,0,1,0
+EPL,2016-2017,64,Fabio Borini,it ITA,"FW,MF",Sunderland,25,1991,24,19,"1,741",19.3,2,0,2,0,0,5,0
+EPL,2016-2017,65,Artur Boruc,pl POL,GK,Bournemouth,36,1980,35,35,"3,150",35.0,0,0,0,0,0,2,0
+EPL,2016-2017,66,Sofiane Boufal,ma MAR,"FW,MF",Southampton,22,1993,24,12,"1,104",12.3,1,1,1,0,0,5,0
+EPL,2016-2017,67,Jarrod Bowen,eng ENG,MF,Hull City,19,1996,7,1,181,2.0,0,0,0,0,0,0,0
+EPL,2016-2017,68,George Boyd,sco SCO,MF,Burnley,30,1985,36,33,"2,836",31.5,2,1,2,0,0,3,0
+EPL,2016-2017,69,Robbie Brady,ie IRL,MF,Burnley,24,1992,14,7,719,8.0,1,2,1,0,0,1,0
+EPL,2016-2017,70,Claudio Bravo,cl CHI,GK,Manchester City,33,1983,22,22,"1,968",21.9,0,0,0,0,0,0,0
+EPL,2016-2017,71,Miguel Britos,uy URU,DF,Watford,31,1985,27,27,"2,282",25.4,1,2,1,0,0,8,4
+EPL,2016-2017,72,Leon Britton,eng ENG,MF,Swansea City,33,1982,16,16,"1,163",12.9,0,0,0,0,0,3,0
+EPL,2016-2017,73,Chris Brunt,nir NIR,"MF,DF",West Brom,31,1984,31,27,"2,477",27.5,3,4,3,0,0,5,0
+EPL,2016-2017,74,Jack Butland,eng ENG,GK,Stoke City,23,1993,5,5,450,5.0,0,0,0,0,0,0,0
+EPL,2016-2017,75,Sam Byram,eng ENG,"DF,MF",West Ham,22,1993,18,13,"1,249",13.9,0,1,0,0,0,6,2
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,76,Willy Caballero,ar ARG,GK,Manchester City,34,1981,17,16,"1,452",16.1,0,0,0,0,0,0,0
+EPL,2016-2017,77,Yohan Cabaye,fr FRA,MF,Crystal Palace,30,1986,32,25,"2,125",23.6,4,2,4,0,1,7,0
+EPL,2016-2017,78,Martín Cáceres,uy URU,DF,Southampton,29,1987,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,79,Gary Cahill,eng ENG,DF,Chelsea,30,1985,37,36,"3,296",36.6,6,0,6,0,0,5,0
+EPL,2016-2017,80,Jonathan Calleri,ar ARG,FW,West Ham,22,1993,16,4,540,6.0,1,0,1,0,0,0,0
+EPL,2016-2017,81,Dominic Calvert-Lewin,eng ENG,"MF,FW",Everton,19,1997,11,5,347,3.9,1,0,1,0,0,1,0
+EPL,2016-2017,82,Geoff Cameron,us USA,"MF,DF",Stoke City,31,1985,19,18,"1,629",18.1,0,2,0,0,0,1,0
+EPL,2016-2017,83,Fraizer Campbell,eng ENG,FW,Crystal Palace,28,1987,12,0,165,1.8,1,0,1,0,0,0,0
+EPL,2016-2017,84,Emre Can,de GER,MF,Liverpool,22,1994,32,26,"2,371",26.3,5,2,5,0,0,6,0
+EPL,2016-2017,85,Étienne Capoue,fr FRA,MF,Watford,28,1988,37,37,"3,203",35.6,7,1,7,0,0,5,0
+EPL,2016-2017,86,Baily Cargill,eng ENG,DF,Bournemouth,21,1995,1,0,13,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,87,Michael Carrick,eng ENG,MF,Manchester Utd,35,1981,23,18,"1,600",17.8,0,0,0,0,0,2,0
+EPL,2016-2017,88,Andy Carroll,eng ENG,FW,West Ham,27,1989,18,15,"1,311",14.6,7,1,7,0,0,3,0
+EPL,2016-2017,89,Tom Carroll,eng ENG,MF,Tottenham,24,1992,1,0,1,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,90,Tom Carroll,eng ENG,MF,Swansea City,24,1992,17,16,"1,387",15.4,1,2,1,0,0,1,0
+EPL,2016-2017,91,Joel Castro Pereira,pt POR,GK,Manchester Utd,20,1996,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,92,Craig Cathcart,nir NIR,DF,Watford,27,1989,15,13,"1,162",12.9,0,1,0,0,0,3,0
+EPL,2016-2017,93,Lee Cattermole,eng ENG,MF,Sunderland,28,1988,8,8,633,7.0,0,0,0,0,0,4,0
+EPL,2016-2017,94,Santi Cazorla,es ESP,MF,Arsenal,31,1984,8,7,618,6.9,2,1,0,2,2,2,0
+EPL,2016-2017,95,Petr Čech,cz CZE,GK,Arsenal,34,1982,35,35,"3,097",34.4,0,0,0,0,0,2,0
+EPL,2016-2017,96,Nacer Chadli,be BEL,"MF,FW",West Brom,26,1989,31,27,"2,134",23.7,5,4,4,1,1,2,0
+EPL,2016-2017,97,Nathaniel Chalobah,eng ENG,MF,Chelsea,21,1994,10,1,167,1.9,0,0,0,0,0,2,0
+EPL,2016-2017,98,Calum Chambers,eng ENG,DF,Middlesbrough,21,1995,24,24,"2,160",24.0,1,1,1,0,0,4,0
+EPL,2016-2017,99,Calum Chambers,eng ENG,DF,Arsenal,21,1995,1,1,90,1.0,1,0,1,0,0,0,0
+EPL,2016-2017,100,Ben Chilwell,eng ENG,"DF,MF",Leicester City,19,1996,12,7,699,7.8,1,0,1,0,0,2,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,101,Lee Chung-yong,kr KOR,MF,Crystal Palace,28,1988,15,4,471,5.2,0,0,0,0,0,0,0
+EPL,2016-2017,102,Jordy Clasie,nl NED,MF,Southampton,25,1991,16,12,"1,021",11.3,1,1,1,0,0,3,0
+EPL,2016-2017,103,Adam Clayton,eng ENG,MF,Middlesbrough,27,1989,34,32,"2,804",31.2,0,2,0,0,0,10,0
+EPL,2016-2017,104,Tom Cleverley,eng ENG,MF,Everton,26,1989,10,4,406,4.5,0,0,0,0,0,1,0
+EPL,2016-2017,105,Tom Cleverley,eng ENG,MF,Watford,26,1989,17,16,"1,441",16.0,0,2,0,0,0,3,0
+EPL,2016-2017,106,Gaël Clichy,fr FRA,DF,Manchester City,31,1985,25,24,"2,123",23.6,1,0,1,0,0,2,0
+EPL,2016-2017,107,Sam Clucas,eng ENG,MF,Hull City,25,1990,37,36,"3,185",35.4,3,1,3,0,0,9,1
+EPL,2016-2017,108,Nathaniel Clyne,eng ENG,DF,Liverpool,25,1991,37,37,"3,323",36.9,0,2,0,0,0,0,0
+EPL,2016-2017,109,Séamus Coleman,ie IRL,"DF,MF",Everton,27,1988,26,26,"2,316",25.7,4,3,4,0,0,3,0
+EPL,2016-2017,110,James Collins,wal WAL,DF,West Ham,32,1983,22,19,"1,655",18.4,2,0,2,0,0,3,0
+EPL,2016-2017,111,Lewis Cook,eng ENG,MF,Bournemouth,19,1997,6,4,432,4.8,0,1,0,0,0,1,0
+EPL,2016-2017,112,Steve Cook,eng ENG,DF,Bournemouth,25,1991,38,38,"3,420",38.0,2,0,2,0,0,5,0
+EPL,2016-2017,113,Francis Coquelin,fr FRA,MF,Arsenal,25,1991,29,22,"1,779",19.8,0,0,0,0,0,5,0
+EPL,2016-2017,114,Jack Cork,eng ENG,MF,Swansea City,27,1989,30,25,"2,232",24.8,0,0,0,0,0,7,0
+EPL,2016-2017,115,Diego Costa,es ESP,FW,Chelsea,27,1988,35,35,"3,082",34.2,20,7,20,0,1,10,0
+EPL,2016-2017,116,Thibaut Courtois,be BEL,GK,Chelsea,24,1992,36,36,"3,240",36.0,0,0,0,0,0,1,0
+EPL,2016-2017,117,Philippe Coutinho,br BRA,"FW,MF",Liverpool,24,1992,31,28,"2,227",24.7,13,8,13,0,0,2,0
+EPL,2016-2017,118,Aaron Cresswell,eng ENG,"DF,MF",West Ham,26,1989,26,24,"2,116",23.5,0,2,0,0,0,3,2
+EPL,2016-2017,119,Peter Crouch,eng ENG,FW,Stoke City,35,1981,27,13,"1,343",14.9,7,2,7,0,0,3,0
+EPL,2016-2017,120,Charlie Daniels,eng ENG,DF,Bournemouth,29,1986,34,34,"3,060",34.0,4,3,4,0,0,1,0
+EPL,2016-2017,121,Scott Dann,eng ENG,DF,Crystal Palace,29,1987,23,19,"1,797",20.0,3,1,3,0,0,2,0
+EPL,2016-2017,122,Matteo Darmian,it ITA,DF,Manchester Utd,26,1989,18,15,"1,333",14.8,0,0,0,0,0,3,0
+EPL,2016-2017,123,Ben Davies,wal WAL,"DF,MF",Tottenham,23,1993,23,18,"1,739",19.3,1,3,1,0,0,1,0
+EPL,2016-2017,124,Curtis Davies,eng ENG,DF,Hull City,31,1985,26,25,"2,135",23.7,0,2,0,0,0,4,0
+EPL,2016-2017,125,Tom Davies,eng ENG,MF,Everton,18,1998,24,18,"1,544",17.2,2,3,2,0,0,4,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,126,Steven Davis,nir NIR,MF,Southampton,31,1985,32,29,"2,643",29.4,0,3,0,0,0,3,0
+EPL,2016-2017,127,Craig Dawson,eng ENG,DF,West Brom,26,1990,37,37,"3,276",36.4,4,0,4,0,0,10,0
+EPL,2016-2017,128,Michael Dawson,eng ENG,DF,Hull City,32,1983,22,19,"1,722",19.1,3,0,3,0,0,4,0
+EPL,2016-2017,129,Kevin De Bruyne,be BEL,MF,Manchester City,25,1991,36,33,"2,877",32.0,6,17,6,0,1,4,0
+EPL,2016-2017,130,Mathieu Debuchy,fr FRA,DF,Arsenal,31,1985,1,1,15,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,131,Troy Deeney,eng ENG,FW,Watford,28,1988,37,31,"2,944",32.7,10,4,7,3,3,7,0
+EPL,2016-2017,132,Jermain Defoe,eng ENG,FW,Sunderland,33,1982,37,37,"3,321",36.9,15,2,10,5,5,1,0
+EPL,2016-2017,133,Steven Defour,be BEL,MF,Burnley,28,1988,21,16,"1,068",11.9,1,3,1,0,0,1,0
+EPL,2016-2017,134,Damien Delaney,ie IRL,DF,Crystal Palace,35,1981,30,21,"2,014",22.4,0,2,0,0,0,8,0
+EPL,2016-2017,135,Fabian Delph,eng ENG,MF,Manchester City,26,1989,7,2,224,2.5,1,0,1,0,0,1,0
+EPL,2016-2017,136,Mousa Dembélé,be BEL,MF,Tottenham,29,1987,30,24,"2,056",22.8,1,1,1,0,0,5,0
+EPL,2016-2017,137,Jason Denayer,be BEL,"MF,DF",Sunderland,21,1995,24,22,"1,877",20.9,0,0,0,0,0,2,0
+EPL,2016-2017,138,Memphis Depay,nl NED,"FW,MF",Manchester Utd,22,1994,4,0,24,0.3,0,0,0,0,0,1,0
+EPL,2016-2017,139,Mike van der Hoorn,nl NED,DF,Swansea City,23,1992,8,7,662,7.4,1,0,1,0,0,1,0
+EPL,2016-2017,140,Gerard Deulofeu,es ESP,"FW,MF",Everton,22,1994,11,4,460,5.1,0,0,0,0,0,1,0
+EPL,2016-2017,141,Eric Dier,eng ENG,"DF,MF",Tottenham,22,1994,36,34,"3,043",33.8,2,1,2,0,0,6,0
+EPL,2016-2017,142,Virgil van Dijk,nl NED,DF,Southampton,25,1991,21,21,"1,853",20.6,1,0,1,0,0,4,2
+EPL,2016-2017,143,Adama Diomande,no NOR,"FW,MF",Hull City,26,1990,22,13,"1,171",13.0,2,0,2,0,0,1,0
+EPL,2016-2017,144,Papy Djilobodji,sn SEN,DF,Sunderland,27,1988,18,17,"1,578",17.5,0,0,0,0,0,5,2
+EPL,2016-2017,145,Abdoulaye Doucouré,fr FRA,MF,Watford,23,1993,20,14,"1,361",15.1,1,0,1,0,0,4,0
+EPL,2016-2017,146,Stewart Downing,eng ENG,"MF,FW",Middlesbrough,32,1984,30,24,"2,214",24.6,1,3,1,0,0,1,0
+EPL,2016-2017,147,Danny Drinkwater,eng ENG,MF,Leicester City,26,1990,29,27,"2,466",27.4,1,2,1,0,0,6,0
+EPL,2016-2017,148,Nathan Dyer,eng ENG,"MF,FW",Swansea City,28,1987,8,3,214,2.4,0,1,0,0,0,0,0
+EPL,2016-2017,149,Ovie Ejaria,eng ENG,MF,Liverpool,18,1997,2,0,8,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,150,Omar Elabdellaoui,no NOR,"DF,MF",Hull City,24,1991,8,7,615,6.8,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,151,Andrew Eleftheriou,eng ENG,DF,Watford,18,1997,1,0,52,0.6,0,0,0,0,0,0,0
+EPL,2016-2017,152,Ahmed Elmohamady,eg EGY,"DF,MF",Hull City,28,1987,33,28,"2,524",28.0,0,2,0,0,0,3,1
+EPL,2016-2017,153,Mohamed Elneny,eg EGY,MF,Arsenal,24,1992,14,8,694,7.7,0,1,0,0,0,1,0
+EPL,2016-2017,154,Christian Eriksen,dk DEN,MF,Tottenham,24,1992,36,36,"3,157",35.1,8,15,8,0,0,0,0
+EPL,2016-2017,155,Bernardo Espinosa,co COL,DF,Middlesbrough,27,1989,11,10,975,10.8,0,0,0,0,0,2,0
+EPL,2016-2017,156,Jonny Evans,nir NIR,DF,West Brom,28,1988,31,30,"2,637",29.3,2,2,2,0,0,8,0
+EPL,2016-2017,157,Łukasz Fabiański,pl POL,GK,Swansea City,31,1985,37,37,"3,330",37.0,0,0,0,0,0,1,0
+EPL,2016-2017,158,Fábio,br BRA,DF,Middlesbrough,26,1990,24,21,"1,847",20.5,0,0,0,0,0,8,0
+EPL,2016-2017,159,Cesc Fàbregas,es ESP,MF,Chelsea,29,1987,29,13,"1,339",14.9,5,12,5,0,0,8,0
+EPL,2016-2017,160,Adam Federici,au AUS,GK,Bournemouth,31,1985,2,2,180,2.0,0,0,0,0,0,1,0
+EPL,2016-2017,161,Sofiane Feghouli,dz ALG,"MF,FW",West Ham,26,1989,21,11,"1,041",11.6,3,2,3,0,0,1,1
+EPL,2016-2017,162,Marouane Fellaini,be BEL,MF,Manchester Utd,28,1987,28,18,"1,605",17.8,1,0,1,0,0,9,1
+EPL,2016-2017,163,Leroy Fer,nl NED,MF,Swansea City,26,1990,34,27,"2,404",26.7,6,2,6,0,0,9,0
+EPL,2016-2017,164,Edimilson Fernandes,ch SUI,MF,West Ham,20,1996,28,8,"1,001",11.1,0,1,0,0,0,4,0
+EPL,2016-2017,165,Federico Fernández,ar ARG,DF,Swansea City,27,1989,27,27,"2,430",27.0,0,2,0,0,0,7,0
+EPL,2016-2017,166,Fernandinho,br BRA,"MF,DF",Manchester City,31,1985,32,31,"2,756",30.6,2,1,2,0,0,4,2
+EPL,2016-2017,167,Fernando,br BRA,"MF,DF",Manchester City,29,1987,15,5,568,6.3,0,0,0,0,0,3,0
+EPL,2016-2017,168,Sam Field,eng ENG,MF,West Brom,18,1998,8,4,275,3.1,0,0,0,0,0,2,0
+EPL,2016-2017,169,Roberto Firmino,br BRA,FW,Liverpool,24,1991,35,34,"3,062",34.0,11,7,11,0,0,5,0
+EPL,2016-2017,170,Viktor Fischer,dk DEN,"FW,MF",Middlesbrough,22,1994,13,6,438,4.9,0,3,0,0,0,0,0
+EPL,2016-2017,171,Mathieu Flamini,fr FRA,MF,Crystal Palace,32,1984,10,3,274,3.0,0,0,0,0,0,0,0
+EPL,2016-2017,172,Jon Flanagan,eng ENG,DF,Burnley,23,1993,6,3,360,4.0,0,0,0,0,0,2,0
+EPL,2016-2017,173,Ashley Fletcher,eng ENG,FW,West Ham,20,1995,16,2,367,4.1,0,0,0,0,0,2,0
+EPL,2016-2017,174,Darren Fletcher,sco SCO,MF,West Brom,32,1984,38,37,"3,231",35.9,2,3,2,0,0,0,0
+EPL,2016-2017,175,Michael Folivi,eng ENG,FW,Watford,18,1998,1,0,10,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,176,José Fonte,pt POR,DF,West Ham,32,1983,16,16,"1,404",15.6,0,0,0,0,0,2,0
+EPL,2016-2017,177,José Fonte,pt POR,DF,Southampton,32,1983,17,17,"1,530",17.0,0,0,0,0,0,2,0
+EPL,2016-2017,178,Adam Forshaw,eng ENG,MF,Middlesbrough,24,1991,34,30,"2,695",29.9,0,1,0,0,0,4,0
+EPL,2016-2017,179,Fraser Forster,eng ENG,GK,Southampton,28,1988,38,38,"3,420",38.0,0,0,0,0,0,3,0
+EPL,2016-2017,180,Ben Foster,eng ENG,GK,West Brom,33,1983,38,38,"3,420",38.0,0,0,0,0,0,2,0
+EPL,2016-2017,181,Timothy Fosu-Mensah,nl NED,DF,Manchester Utd,18,1998,4,1,97,1.1,0,0,0,0,0,0,0
+EPL,2016-2017,182,Simon Francis,eng ENG,DF,Bournemouth,31,1985,34,34,"2,939",32.7,0,1,0,0,0,4,1
+EPL,2016-2017,183,Ryan Fraser,sco SCO,MF,Bournemouth,22,1994,28,19,"1,764",19.6,3,5,3,0,0,3,0
+EPL,2016-2017,184,George Friend,eng ENG,DF,Middlesbrough,28,1987,24,20,"1,964",21.8,0,2,0,0,0,4,0
+EPL,2016-2017,185,Zeki Fryers,eng ENG,DF,Crystal Palace,23,1992,8,0,188,2.1,0,0,0,0,0,0,0
+EPL,2016-2017,186,Christian Fuchs,at AUT,DF,Leicester City,30,1986,36,35,"3,103",34.5,2,3,2,0,0,10,0
+EPL,2016-2017,187,Jay Fulton,sco SCO,MF,Swansea City,22,1994,11,9,690,7.7,0,0,0,0,0,2,0
+EPL,2016-2017,188,Ramiro Funes Mori,ar ARG,DF,Everton,25,1991,23,16,"1,543",17.1,0,1,0,0,0,0,0
+EPL,2016-2017,189,Manolo Gabbiadini,it ITA,FW,Southampton,24,1991,11,10,724,8.0,4,0,4,0,1,1,0
+EPL,2016-2017,190,Brendan Galloway,eng ENG,DF,West Brom,20,1996,3,3,247,2.7,0,0,0,0,0,0,0
+EPL,2016-2017,191,Idrissa Gana Gueye,sn SEN,MF,Everton,26,1989,33,32,"2,681",29.8,1,1,1,0,0,11,0
+EPL,2016-2017,192,Aleix García,es ESP,MF,Manchester City,19,1997,4,1,77,0.9,0,0,0,0,0,0,0
+EPL,2016-2017,193,Craig Gardner,eng ENG,MF,West Brom,29,1986,9,2,218,2.4,0,1,0,0,0,1,0
+EPL,2016-2017,194,David de Gea,es ESP,GK,Manchester Utd,25,1990,35,35,"3,150",35.0,0,0,0,0,0,2,0
+EPL,2016-2017,195,Rudy Gestede,bj BEN,FW,Middlesbrough,27,1988,16,4,533,5.9,1,0,1,0,0,3,0
+EPL,2016-2017,196,Kieran Gibbs,eng ENG,"MF,DF",Arsenal,26,1989,11,8,702,7.8,0,1,0,0,0,3,0
+EPL,2016-2017,197,Ben Gibson,eng ENG,DF,Middlesbrough,23,1993,38,38,"3,420",38.0,1,1,1,0,0,4,0
+EPL,2016-2017,198,Darron Gibson,ie IRL,MF,Sunderland,28,1987,12,7,640,7.1,0,0,0,0,0,4,0
+EPL,2016-2017,199,Olivier Giroud,fr FRA,FW,Arsenal,29,1986,29,11,"1,206",13.4,12,3,12,0,0,2,0
+EPL,2016-2017,200,Shay Given,ie IRL,GK,Stoke City,40,1976,5,5,450,5.0,0,0,0,0,0,1,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,201,Evandro Goebel,br BRA,MF,Hull City,29,1986,11,7,576,6.4,0,0,0,0,0,1,0
+EPL,2016-2017,202,Angel Gomes,eng ENG,MF,Manchester Utd,15,2000,1,0,3,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,203,Heurelho Gomes,br BRA,GK,Watford,35,1981,38,38,"3,337",37.1,0,0,0,0,0,1,0
+EPL,2016-2017,204,Lynden Gooch,us USA,MF,Sunderland,20,1995,11,4,366,4.1,0,0,0,0,0,3,0
+EPL,2016-2017,205,Dan Gosling,eng ENG,MF,Bournemouth,26,1990,27,14,"1,366",15.2,2,0,2,0,0,6,0
+EPL,2016-2017,206,Lewis Grabban,eng ENG,"FW,MF",Bournemouth,28,1988,3,0,60,0.7,0,0,0,0,0,0,0
+EPL,2016-2017,207,Max Gradel,ci CIV,"FW,MF",Bournemouth,28,1987,11,0,134,1.5,0,0,0,0,0,3,0
+EPL,2016-2017,208,Lee Grant,eng ENG,GK,Stoke City,33,1983,28,28,"2,520",28.0,0,0,0,0,0,1,0
+EPL,2016-2017,209,Andre Gray,jm JAM,FW,Burnley,25,1991,32,26,"2,259",25.1,9,3,7,2,2,2,0
+EPL,2016-2017,210,Demarai Gray,eng ENG,"MF,FW",Leicester City,20,1996,30,9,"1,049",11.7,1,3,1,0,0,2,0
+EPL,2016-2017,211,Kamil Grosicki,pl POL,MF,Hull City,28,1988,15,12,"1,143",12.7,0,3,0,0,0,1,0
+EPL,2016-2017,212,Marko Grujić,rs SRB,MF,Liverpool,20,1996,5,0,43,0.5,0,0,0,0,0,1,0
+EPL,2016-2017,213,Adlène Guedioura,dz ALG,MF,Watford,30,1985,12,9,721,8.0,0,0,0,0,0,2,0
+EPL,2016-2017,214,Adlène Guedioura,dz ALG,MF,Middlesbrough,30,1985,5,0,140,1.6,0,0,0,0,0,0,0
+EPL,2016-2017,215,İlkay Gündoğan,de GER,MF,Manchester City,25,1990,10,9,704,7.8,3,1,3,0,0,0,0
+EPL,2016-2017,216,Brad Guzan,us USA,GK,Middlesbrough,31,1984,10,10,900,10.0,0,0,0,0,0,0,0
+EPL,2016-2017,217,Josh Harrop,eng ENG,FW,Manchester Utd,20,1995,1,1,90,1.0,1,0,1,0,0,0,0
+EPL,2016-2017,218,Eden Hazard,be BEL,"FW,MF",Chelsea,25,1991,36,36,"2,982",33.1,16,5,14,2,3,3,0
+EPL,2016-2017,219,Tom Heaton,eng ENG,GK,Burnley,30,1986,35,35,"3,150",35.0,0,0,0,0,0,1,0
+EPL,2016-2017,220,Jordan Henderson,eng ENG,MF,Liverpool,26,1990,24,24,"2,116",23.5,1,4,1,0,0,8,0
+EPL,2016-2017,221,Jeff Hendrick,ie IRL,MF,Burnley,24,1992,32,31,"2,692",29.9,2,1,2,0,0,6,1
+EPL,2016-2017,222,Wayne Hennessey,wal WAL,GK,Crystal Palace,29,1987,29,29,"2,610",29.0,0,0,0,0,0,1,0
+EPL,2016-2017,223,Markus Henriksen,no NOR,MF,Hull City,24,1992,15,6,638,7.1,0,0,0,0,0,1,0
+EPL,2016-2017,224,Abel Hernández,uy URU,FW,Hull City,25,1990,24,16,"1,425",15.8,4,3,4,0,0,0,0
+EPL,2016-2017,225,Luis Hernández,es ESP,DF,Leicester City,27,1989,4,3,327,3.6,0,0,0,0,0,1,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,226,Ander Herrera,es ESP,MF,Manchester Utd,26,1989,31,27,"2,464",27.4,1,5,1,0,0,6,2
+EPL,2016-2017,227,Son Heung-min,kr KOR,"MF,FW",Tottenham,24,1992,34,23,"2,062",22.9,14,6,14,0,0,2,0
+EPL,2016-2017,228,Rob Holding,eng ENG,DF,Arsenal,20,1995,9,9,810,9.0,0,0,0,0,0,3,0
+EPL,2016-2017,229,José Holebas,gr GRE,"DF,MF",Watford,32,1984,33,33,"2,905",32.3,2,4,2,0,0,14,0
+EPL,2016-2017,230,Mason Holgate,eng ENG,DF,Everton,19,1996,18,16,"1,372",15.2,0,1,0,0,0,2,0
+EPL,2016-2017,231,George Honeyman,eng ENG,MF,Sunderland,21,1994,5,2,235,2.6,0,0,0,0,0,1,0
+EPL,2016-2017,232,Tom Huddlestone,eng ENG,MF,Hull City,29,1986,31,23,"2,026",22.5,1,0,0,1,1,5,1
+EPL,2016-2017,233,James Husband,eng ENG,DF,Middlesbrough,22,1994,1,1,58,0.6,0,0,0,0,0,0,0
+EPL,2016-2017,234,Robert Huth,de GER,DF,Leicester City,31,1984,33,33,"2,926",32.5,2,1,2,0,0,9,0
+EPL,2016-2017,235,Pierre Højbjerg,dk DEN,MF,Southampton,20,1995,22,14,"1,301",14.5,0,0,0,0,0,2,0
+EPL,2016-2017,236,Jordon Ibe,eng ENG,"MF,FW",Bournemouth,20,1995,25,13,"1,055",11.7,0,0,0,0,0,0,0
+EPL,2016-2017,237,Didier Ibrahim Ndong,ga GAB,MF,Sunderland,22,1994,31,27,"2,520",28.0,1,0,1,0,0,5,0
+EPL,2016-2017,238,Zlatan Ibrahimović,se SWE,FW,Manchester Utd,34,1981,28,27,"2,438",27.1,17,5,15,2,3,7,0
+EPL,2016-2017,239,Odion Ighalo,ng NGA,FW,Watford,27,1989,18,14,"1,291",14.3,1,0,1,0,0,1,0
+EPL,2016-2017,240,Kelechi Iheanacho,ng NGA,FW,Manchester City,19,1996,20,5,537,6.0,4,3,4,0,0,0,0
+EPL,2016-2017,241,Giannelli Imbula,cd COD,MF,Stoke City,23,1992,12,9,796,8.8,0,0,0,0,0,1,0
+EPL,2016-2017,242,Branislav Ivanović,rs SRB,DF,Chelsea,32,1984,13,6,589,6.5,0,0,0,0,0,2,0
+EPL,2016-2017,243,Alex Iwobi,ng NGA,MF,Arsenal,20,1996,26,18,"1,456",16.2,3,4,3,0,0,1,0
+EPL,2016-2017,244,Phil Jagielka,eng ENG,DF,Everton,33,1982,27,25,"2,250",25.0,3,2,3,0,0,5,2
+EPL,2016-2017,245,Eldin Jakupović,ch SUI,GK,Hull City,31,1984,22,22,"1,980",22.0,0,0,0,0,0,0,0
+EPL,2016-2017,246,Matty James,eng ENG,MF,Leicester City,25,1991,1,0,1,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,247,Daryl Janmaat,nl NED,"MF,DF",Watford,27,1989,27,18,"1,617",18.0,2,1,2,0,0,2,0
+EPL,2016-2017,248,Vincent Janssen,nl NED,FW,Tottenham,22,1994,27,7,845,9.4,2,2,1,1,1,0,0
+EPL,2016-2017,249,Adnan Januzaj,be BEL,"MF,FW",Sunderland,21,1995,25,18,"1,629",18.1,0,2,0,0,0,4,2
+EPL,2016-2017,250,Mile Jedinak,au AUS,MF,Crystal Palace,31,1984,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,251,Carl Jenkinson,eng ENG,DF,Arsenal,24,1992,1,1,82,0.9,0,0,0,0,0,0,0
+EPL,2016-2017,252,Gabriel Jesus,br BRA,"FW,MF",Manchester City,19,1997,10,8,650,7.2,7,4,6,1,1,2,0
+EPL,2016-2017,253,Glen Johnson,eng ENG,DF,Stoke City,31,1984,23,21,"1,957",21.7,0,0,0,0,0,1,0
+EPL,2016-2017,254,Billy Jones,eng ENG,"DF,MF",Sunderland,29,1987,27,25,"2,270",25.2,1,0,1,0,0,8,0
+EPL,2016-2017,255,David Jones,eng ENG,MF,Burnley,31,1984,1,1,86,1.0,0,0,0,0,0,1,0
+EPL,2016-2017,256,Phil Jones,eng ENG,DF,Manchester Utd,24,1992,18,18,"1,584",17.6,0,0,0,0,0,2,0
+EPL,2016-2017,257,Lukas Jutkiewicz,eng ENG,FW,Burnley,27,1989,2,0,13,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,258,Christian Kabasele,be BEL,"DF,MF",Watford,25,1991,16,7,771,8.6,2,0,2,0,0,1,0
+EPL,2016-2017,259,Younès Kaboul,fr FRA,DF,Sunderland,30,1986,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,260,Younès Kaboul,fr FRA,DF,Watford,30,1986,22,22,"1,820",20.2,2,0,2,0,0,2,0
+EPL,2016-2017,261,Sullay Kaikai,eng ENG,"FW,MF",Crystal Palace,20,1995,1,0,24,0.3,0,0,0,0,0,0,0
+EPL,2016-2017,262,Harry Kane,eng ENG,FW,Tottenham,23,1993,30,29,"2,521",28.0,29,5,24,5,6,3,0
+EPL,2016-2017,263,N'Golo Kanté,fr FRA,MF,Chelsea,25,1991,35,35,"3,138",34.9,1,1,1,0,0,9,0
+EPL,2016-2017,264,Loris Karius,de GER,GK,Liverpool,23,1993,10,10,900,10.0,0,0,0,0,0,0,0
+EPL,2016-2017,265,Michael Keane,eng ENG,DF,Burnley,23,1993,35,35,"3,150",35.0,2,1,2,0,0,4,0
+EPL,2016-2017,266,Will Keane,eng ENG,FW,Hull City,23,1993,5,4,280,3.1,0,0,0,0,0,0,0
+EPL,2016-2017,267,Martin Kelly,eng ENG,DF,Crystal Palace,26,1990,29,25,"2,123",23.6,0,2,0,0,0,4,0
+EPL,2016-2017,268,Kenedy,br BRA,"FW,MF",Watford,20,1996,1,0,16,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,269,Kenedy,br BRA,MF,Chelsea,20,1996,1,1,74,0.8,0,0,0,0,0,0,0
+EPL,2016-2017,270,Jonjoe Kenny,eng ENG,"DF,FW",Everton,19,1997,1,0,13,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,271,Wahbi Khazri,tn TUN,"MF,FW",Sunderland,25,1991,21,7,849,9.4,1,0,1,0,0,6,0
+EPL,2016-2017,272,Michael Kightly,eng ENG,MF,Burnley,30,1986,5,1,104,1.2,0,0,0,0,0,0,0
+EPL,2016-2017,273,Andy King,wal WAL,MF,Leicester City,27,1988,23,15,"1,446",16.1,1,0,1,0,0,4,0
+EPL,2016-2017,274,Joshua King,no NOR,"MF,FW",Bournemouth,24,1992,36,31,"2,713",30.1,16,2,14,2,3,1,0
+EPL,2016-2017,275,Stephen Kingsley,sco SCO,DF,Swansea City,22,1994,13,12,"1,036",11.5,0,1,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,276,Jan Kirchhoff,de GER,MF,Sunderland,25,1990,7,5,433,4.8,0,0,0,0,0,1,0
+EPL,2016-2017,277,Ragnar Klavan,ee EST,DF,Liverpool,30,1985,20,15,"1,410",15.7,0,0,0,0,0,3,0
+EPL,2016-2017,278,Aleksandar Kolarov,rs SRB,DF,Manchester City,30,1985,29,27,"2,535",28.2,1,2,1,0,0,6,0
+EPL,2016-2017,279,Vincent Kompany,be BEL,DF,Manchester City,30,1986,11,10,820,9.1,3,0,3,0,0,5,0
+EPL,2016-2017,280,Arouna Koné,ci CIV,FW,Everton,32,1983,5,0,70,0.8,0,0,0,0,0,0,0
+EPL,2016-2017,281,Lamine Koné,ci CIV,DF,Sunderland,27,1989,30,29,"2,545",28.3,1,0,1,0,0,4,0
+EPL,2016-2017,282,Laurent Koscielny,fr FRA,DF,Arsenal,30,1985,33,33,"2,822",31.4,2,0,2,0,0,4,1
+EPL,2016-2017,283,Cheikhou Kouyaté,sn SEN,"MF,DF",West Ham,26,1989,31,31,"2,722",30.2,1,0,1,0,0,3,0
+EPL,2016-2017,284,Bojan Krkić,es ESP,"MF,FW",Stoke City,25,1990,9,5,475,5.3,3,0,1,2,3,1,0
+EPL,2016-2017,285,Adam Lallana,eng ENG,"MF,FW",Liverpool,28,1988,31,27,"2,348",26.1,8,6,8,0,0,3,0
+EPL,2016-2017,286,Rickie Lambert,eng ENG,FW,West Brom,34,1982,1,0,13,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,287,Érik Lamela,ar ARG,MF,Tottenham,24,1992,9,6,594,6.6,1,3,1,0,1,1,0
+EPL,2016-2017,288,Manuel Lanzini,ar ARG,MF,West Ham,23,1993,35,31,"2,706",30.1,8,2,6,2,2,9,0
+EPL,2016-2017,289,Seb Larsson,se SWE,MF,Sunderland,31,1985,21,17,"1,469",16.3,0,1,0,0,0,4,1
+EPL,2016-2017,290,Grant Leadbitter,eng ENG,MF,Middlesbrough,30,1986,13,7,710,7.9,1,0,1,0,0,1,0
+EPL,2016-2017,291,Joe Ledley,wal WAL,MF,Crystal Palace,29,1987,18,13,"1,160",12.9,1,1,1,0,0,1,0
+EPL,2016-2017,292,Lucas Leiva,br BRA,"MF,DF",Liverpool,29,1987,24,12,"1,112",12.4,0,2,0,0,0,4,0
+EPL,2016-2017,293,Jonathan Leko,eng ENG,"FW,MF",West Brom,17,1999,9,0,181,2.0,0,1,0,0,0,0,0
+EPL,2016-2017,294,Aaron Lennon,eng ENG,"MF,FW",Everton,29,1987,11,6,509,5.7,0,1,0,0,0,0,0
+EPL,2016-2017,295,Jeremain Lens,nl NED,"FW,MF",Sunderland,28,1987,2,0,69,0.8,0,0,0,0,0,0,0
+EPL,2016-2017,296,Joleon Lescott,eng ENG,DF,Sunderland,33,1982,2,1,124,1.4,0,0,0,0,0,0,0
+EPL,2016-2017,297,Filip Lesniak,sk SVK,MF,Tottenham,20,1996,1,0,5,0.1,0,0,0,0,0,0,0
+EPL,2016-2017,298,Jesse Lingard,eng ENG,"MF,FW",Manchester Utd,23,1992,25,18,"1,360",15.1,1,1,1,0,0,3,0
+EPL,2016-2017,299,Jake Livermore,eng ENG,MF,West Brom,26,1989,16,15,"1,301",14.5,0,0,0,0,0,2,0
+EPL,2016-2017,300,Jake Livermore,eng ENG,"MF,DF",Hull City,26,1989,21,20,"1,670",18.6,1,0,1,0,0,3,1
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,301,Fernando Llorente,es ESP,FW,Swansea City,31,1985,33,28,"2,442",27.1,15,1,15,0,0,2,0
+EPL,2016-2017,302,Hugo Lloris,fr FRA,GK,Tottenham,29,1986,34,34,"3,004",33.4,0,0,0,0,0,0,0
+EPL,2016-2017,303,Ruben Loftus-Cheek,eng ENG,MF,Chelsea,20,1996,6,0,35,0.4,0,0,0,0,0,0,0
+EPL,2016-2017,304,Kevin Long,ie IRL,DF,Burnley,25,1990,3,3,270,3.0,0,0,0,0,0,0,0
+EPL,2016-2017,305,Shane Long,ie IRL,FW,Southampton,29,1987,32,10,"1,321",14.7,3,2,3,0,1,2,0
+EPL,2016-2017,306,Ademola Lookman,eng ENG,FW,Everton,18,1997,8,3,289,3.2,1,0,1,0,0,0,0
+EPL,2016-2017,307,Donald Love,sco SCO,DF,Sunderland,21,1994,12,6,611,6.8,0,1,0,0,0,1,0
+EPL,2016-2017,308,Dejan Lovren,hr CRO,DF,Liverpool,27,1989,29,29,"2,553",28.4,2,1,2,0,0,6,0
+EPL,2016-2017,309,Matthew Lowton,eng ENG,DF,Burnley,27,1989,36,36,"3,240",36.0,0,2,0,0,0,9,0
+EPL,2016-2017,310,David Luiz,br BRA,DF,Chelsea,29,1987,33,33,"2,954",32.8,1,0,1,0,0,6,0
+EPL,2016-2017,311,Romelu Lukaku,be BEL,FW,Everton,23,1993,37,36,"3,266",36.3,25,6,24,1,1,3,0
+EPL,2016-2017,312,Harry Maguire,eng ENG,DF,Hull City,23,1993,29,25,"2,307",25.6,2,1,2,0,0,5,0
+EPL,2016-2017,313,Riyad Mahrez,dz ALG,MF,Leicester City,25,1991,36,33,"2,825",31.4,6,4,3,3,5,4,0
+EPL,2016-2017,314,Ainsley Maitland-Niles,eng ENG,"DF,FW",Arsenal,18,1997,1,0,2,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,315,Shaun Maloney,sco SCO,MF,Hull City,33,1983,9,2,283,3.1,1,2,1,0,0,0,0
+EPL,2016-2017,316,Steve Mandanda,fr FRA,GK,Crystal Palace,31,1985,9,9,810,9.0,0,0,0,0,0,0,0
+EPL,2016-2017,317,Sadio Mané,sn SEN,FW,Liverpool,24,1992,27,26,"2,235",24.8,13,5,13,0,0,4,0
+EPL,2016-2017,318,Vito Mannone,it ITA,GK,Sunderland,28,1988,9,9,810,9.0,0,0,0,0,0,0,0
+EPL,2016-2017,319,Javier Manquillo,es ESP,"DF,MF",Sunderland,22,1994,20,15,"1,430",15.9,1,0,1,0,0,2,0
+EPL,2016-2017,320,Adrian Mariappa,jm JAM,DF,Watford,29,1986,7,6,562,6.2,0,0,0,0,0,0,0
+EPL,2016-2017,321,Lazar Marković,rs SRB,MF,Hull City,22,1994,12,12,"1,005",11.2,2,0,2,0,0,4,0
+EPL,2016-2017,322,Dean Marney,eng ENG,MF,Burnley,32,1984,21,21,"1,764",19.6,1,2,1,0,0,7,0
+EPL,2016-2017,323,David Marshall,sco SCO,GK,Hull City,31,1985,16,16,"1,440",16.0,0,0,0,0,0,0,0
+EPL,2016-2017,324,Anthony Martial,fr FRA,"MF,FW",Manchester Utd,20,1995,25,18,"1,554",17.3,4,5,4,0,0,2,0
+EPL,2016-2017,325,Cuco Martina,cw CUW,DF,Southampton,26,1989,9,6,592,6.6,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,326,Emiliano Martínez,ar ARG,GK,Arsenal,23,1992,2,2,180,2.0,0,0,0,0,0,0,0
+EPL,2016-2017,327,Bruno Martins Indi,nl NED,DF,Stoke City,24,1992,35,35,"3,146",35.0,1,0,1,0,0,4,0
+EPL,2016-2017,328,Brandon Mason,eng ENG,DF,Watford,18,1997,2,1,113,1.3,0,0,0,0,0,0,0
+EPL,2016-2017,329,Ryan Mason,eng ENG,MF,Hull City,25,1991,16,11,927,10.3,1,1,1,0,0,4,0
+EPL,2016-2017,330,Arthur Masuaku,cd COD,"DF,MF",West Ham,22,1993,13,11,972,10.8,0,1,0,0,0,1,0
+EPL,2016-2017,331,Juan Mata,es ESP,"MF,FW",Manchester Utd,28,1988,25,19,"1,614",17.9,6,3,6,0,0,3,0
+EPL,2016-2017,332,Nemanja Matić,rs SRB,MF,Chelsea,27,1988,35,30,"2,694",29.9,1,7,1,0,0,4,0
+EPL,2016-2017,333,Joël Matip,cm CMR,DF,Liverpool,24,1991,29,27,"2,457",27.3,1,0,1,0,0,3,0
+EPL,2016-2017,334,Alfie Mawson,eng ENG,DF,Swansea City,22,1994,27,27,"2,430",27.0,4,0,4,0,0,1,0
+EPL,2016-2017,335,Dieumerci Mbokani,cd COD,FW,Hull City,30,1985,12,8,764,8.5,0,1,0,0,0,0,0
+EPL,2016-2017,336,James McArthur,sco SCO,MF,Crystal Palace,28,1987,29,24,"1,999",22.2,5,3,5,0,0,5,0
+EPL,2016-2017,337,Gareth McAuley,nir NIR,DF,West Brom,36,1979,36,36,"3,140",34.9,6,1,6,0,0,5,0
+EPL,2016-2017,338,Oliver McBurnie,sco SCO,FW,Swansea City,20,1996,5,0,82,0.9,0,0,0,0,0,0,0
+EPL,2016-2017,339,James McCarthy,ie IRL,MF,Everton,25,1990,12,7,613,6.8,1,1,1,0,0,2,0
+EPL,2016-2017,340,James McClean,ie IRL,"MF,FW",West Brom,27,1989,34,13,"1,477",16.4,1,2,1,0,0,9,0
+EPL,2016-2017,341,Paddy McNair,nir NIR,MF,Sunderland,21,1995,9,5,353,3.9,0,0,0,0,0,0,0
+EPL,2016-2017,342,Sam McQueen,eng ENG,DF,Southampton,21,1995,13,5,616,6.8,0,0,0,0,0,0,0
+EPL,2016-2017,343,Scott McTominay,sco SCO,MF,Manchester Utd,19,1996,2,1,97,1.1,0,0,0,0,0,1,0
+EPL,2016-2017,344,Ben Mee,eng ENG,DF,Burnley,26,1989,34,34,"3,015",33.5,1,0,1,0,0,5,0
+EPL,2016-2017,345,Nampalys Mendy,sn SEN,MF,Leicester City,24,1992,4,4,269,3.0,0,0,0,0,0,1,0
+EPL,2016-2017,346,Per Mertesacker,de GER,DF,Arsenal,31,1984,1,0,38,0.4,0,0,0,0,0,0,0
+EPL,2016-2017,347,David Meyler,ie IRL,"MF,DF",Hull City,27,1989,20,9,962,10.7,1,1,1,0,0,2,0
+EPL,2016-2017,348,Simon Mignolet,be BEL,GK,Liverpool,28,1988,28,28,"2,520",28.0,0,0,0,0,0,0,0
+EPL,2016-2017,349,Luka Milivojević,rs SRB,MF,Crystal Palace,25,1991,14,14,"1,224",13.6,2,1,0,2,2,4,0
+EPL,2016-2017,350,James Milner,eng ENG,DF,Liverpool,30,1986,36,36,"3,154",35.0,7,3,0,7,8,5,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,351,Tyrone Mings,eng ENG,DF,Bournemouth,23,1993,7,5,506,5.6,0,0,0,0,0,0,0
+EPL,2016-2017,352,Kevin Mirallas,be BEL,"FW,MF",Everton,28,1987,35,23,"2,074",23.0,4,7,4,0,0,2,0
+EPL,2016-2017,353,Demetri Mitchell,eng ENG,DF,Manchester Utd,19,1997,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,354,Henrikh Mkhitaryan,am ARM,"FW,MF",Manchester Utd,27,1989,24,15,"1,348",15.0,4,1,4,0,0,1,0
+EPL,2016-2017,355,Nacho Monreal,es ESP,DF,Arsenal,30,1986,36,35,"3,153",35.0,0,2,0,0,0,5,0
+EPL,2016-2017,356,Jefferson Montero,ec ECU,"MF,FW",Swansea City,26,1989,13,2,489,5.4,0,1,0,0,0,0,0
+EPL,2016-2017,357,Alberto Moreno,es ESP,DF,Liverpool,24,1992,12,2,305,3.4,0,0,0,0,0,1,0
+EPL,2016-2017,358,Wes Morgan,jm JAM,DF,Leicester City,32,1984,27,27,"2,430",27.0,1,0,1,0,0,3,0
+EPL,2016-2017,359,James Morrison,sco SCO,MF,West Brom,30,1986,31,17,"1,740",19.3,5,2,5,0,0,3,0
+EPL,2016-2017,360,Victor Moses,ng NGA,MF,Chelsea,25,1990,34,29,"2,483",27.6,3,2,3,0,0,4,0
+EPL,2016-2017,361,Lys Mousset,fr FRA,FW,Bournemouth,20,1996,11,3,270,3.0,0,0,0,0,0,0,0
+EPL,2016-2017,362,Marc Muniesa,es ESP,DF,Stoke City,24,1992,10,7,650,7.2,1,0,1,0,0,2,0
+EPL,2016-2017,363,Ahmed Musa,ng NGA,"MF,FW",Leicester City,23,1992,21,7,761,8.5,2,1,2,0,0,1,0
+EPL,2016-2017,364,Shkodran Mustafi,de GER,DF,Arsenal,24,1992,26,26,"2,274",25.3,2,2,2,0,0,11,0
+EPL,2016-2017,365,Jordon Mutch,eng ENG,MF,Crystal Palace,24,1991,4,0,53,0.6,0,0,0,0,0,0,0
+EPL,2016-2017,366,Alfred N'Diaye,sn SEN,MF,Hull City,26,1990,15,15,"1,273",14.1,1,0,1,0,0,7,0
+EPL,2016-2017,367,Georges-Kévin N'Koudou,fr FRA,MF,Tottenham,21,1995,8,0,54,0.6,0,0,0,0,0,0,0
+EPL,2016-2017,368,Luciano Narsingh,nl NED,FW,Swansea City,25,1990,13,3,416,4.6,0,2,0,0,0,0,0
+EPL,2016-2017,369,Samir Nasri,fr FRA,"FW,MF",Manchester City,29,1987,1,0,16,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,370,Kyle Naughton,eng ENG,DF,Swansea City,27,1988,31,31,"2,714",30.2,1,0,1,0,0,5,0
+EPL,2016-2017,371,Jesús Navas,es ESP,"MF,DF",Manchester City,30,1985,24,12,"1,064",11.8,0,1,0,0,0,2,0
+EPL,2016-2017,372,Wilfred Ndidi,ng NGA,MF,Leicester City,19,1996,17,17,"1,521",16.9,2,1,2,0,0,0,0
+EPL,2016-2017,373,Álvaro Negredo,es ESP,FW,Middlesbrough,30,1985,36,33,"2,870",31.9,9,5,7,2,2,5,0
+EPL,2016-2017,374,Julien Ngoy,be BEL,"FW,MF",Stoke City,18,1997,5,0,49,0.5,0,0,0,0,0,0,0
+EPL,2016-2017,375,M'Baye Niang,sn SEN,"MF,FW",Watford,21,1994,16,15,"1,246",13.8,2,2,2,0,0,2,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,376,Oumar Niasse,sn SEN,FW,Hull City,26,1990,17,12,"1,097",12.2,4,1,4,0,0,3,1
+EPL,2016-2017,377,Mark Noble,eng ENG,MF,West Ham,29,1987,30,29,"2,389",26.5,3,0,2,1,2,10,0
+EPL,2016-2017,378,Nolito,es ESP,"MF,FW",Manchester City,29,1986,19,9,778,8.6,4,2,4,0,0,3,1
+EPL,2016-2017,379,Kristoffer Nordfeldt,se SWE,GK,Swansea City,27,1989,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,380,Håvard Nordtveit,no NOR,"DF,MF",West Ham,26,1990,16,11,957,10.6,0,1,0,0,0,2,0
+EPL,2016-2017,381,Emilio Nsue,gq EQG,"DF,MF",Middlesbrough,26,1989,4,4,320,3.6,0,0,0,0,0,0,0
+EPL,2016-2017,382,David Nugent,eng ENG,FW,Middlesbrough,31,1985,4,0,43,0.5,0,0,0,0,0,0,0
+EPL,2016-2017,383,Allan Nyom,cm CMR,DF,West Brom,28,1988,32,29,"2,638",29.3,0,1,0,0,0,8,0
+EPL,2016-2017,384,Aiden O'Neill,au AUS,MF,Burnley,18,1998,3,0,85,0.9,0,0,0,0,0,0,0
+EPL,2016-2017,385,John O'Shea,ie IRL,DF,Sunderland,35,1981,28,26,"2,158",24.0,0,1,0,0,0,5,0
+EPL,2016-2017,386,Pedro Obiang,gq EQG,MF,West Ham,24,1992,22,21,"1,763",19.6,1,1,1,0,0,7,0
+EPL,2016-2017,387,Angelo Ogbonna,it ITA,DF,West Ham,28,1988,20,20,"1,755",19.5,0,0,0,0,0,2,0
+EPL,2016-2017,388,Stefano Okaka,it ITA,FW,Watford,26,1989,19,10,958,10.6,4,1,4,0,0,5,0
+EPL,2016-2017,389,Shinji Okazaki,jp JPN,"FW,MF",Leicester City,30,1986,30,21,"1,565",17.4,3,1,3,0,0,1,0
+EPL,2016-2017,390,Jonas Olsson,se SWE,DF,West Brom,33,1983,7,7,590,6.6,0,0,0,0,0,3,0
+EPL,2016-2017,391,Martin Olsson,se SWE,DF,Swansea City,28,1988,15,14,"1,252",13.9,2,0,2,0,0,2,0
+EPL,2016-2017,392,Josh Onomah,eng ENG,"FW,MF",Tottenham,19,1997,5,0,22,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,393,Divock Origi,be BEL,FW,Liverpool,21,1995,34,14,"1,468",16.3,7,3,7,0,0,0,0
+EPL,2016-2017,394,Oscar,br BRA,MF,Chelsea,24,1991,9,5,455,5.1,0,1,0,0,0,1,0
+EPL,2016-2017,395,David Ospina,co COL,GK,Arsenal,27,1988,2,1,143,1.6,0,0,0,0,0,0,0
+EPL,2016-2017,396,Nicolás Otamendi,ar ARG,DF,Manchester City,28,1988,30,29,"2,592",28.8,1,0,1,0,0,9,0
+EPL,2016-2017,397,Bryan Oviedo,cr CRC,DF,Everton,26,1990,6,6,475,5.3,0,0,0,0,0,3,0
+EPL,2016-2017,398,Bryan Oviedo,cr CRC,"DF,MF",Sunderland,26,1990,10,10,848,9.4,0,0,0,0,0,1,0
+EPL,2016-2017,399,Alex Oxlade-Chamberlain,eng ENG,MF,Arsenal,22,1993,29,16,"1,628",18.1,2,7,2,0,0,1,0
+EPL,2016-2017,400,Mesut Özil,de GER,MF,Arsenal,27,1988,33,32,"2,841",31.6,8,10,8,0,0,2,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,401,Costel Pantilimon,ro ROU,GK,Watford,29,1987,2,0,83,0.9,0,0,0,0,0,0,0
+EPL,2016-2017,402,Gabriel Paulista,br BRA,DF,Arsenal,25,1990,19,15,"1,517",16.9,0,0,0,0,0,6,0
+EPL,2016-2017,403,Dimitri Payet,fr FRA,"MF,FW",West Ham,29,1987,18,17,"1,511",16.8,2,6,2,0,0,2,0
+EPL,2016-2017,404,Pedro,es ESP,"FW,MF",Chelsea,29,1987,35,26,"2,140",23.8,9,9,9,0,0,6,0
+EPL,2016-2017,405,Matthew Pennington,eng ENG,DF,Everton,21,1994,3,2,180,2.0,1,0,1,0,0,0,0
+EPL,2016-2017,406,Dion Pereira,eng ENG,MF,Watford,17,1999,2,0,25,0.3,0,0,0,0,0,0,0
+EPL,2016-2017,407,Roberto Pereyra,ar ARG,"MF,FW",Watford,25,1991,13,12,"1,037",11.5,2,2,2,0,0,2,1
+EPL,2016-2017,408,Lucas Pérez,es ESP,"MF,FW",Arsenal,27,1988,11,2,272,3.0,1,0,1,0,0,0,0
+EPL,2016-2017,409,Matt Phillips,sco SCO,MF,West Brom,25,1991,27,26,"2,181",24.2,4,8,4,0,0,2,0
+EPL,2016-2017,410,Jordan Pickford,eng ENG,GK,Sunderland,22,1994,29,29,"2,610",29.0,0,0,0,0,0,0,0
+EPL,2016-2017,411,Jérémy Pied,fr FRA,DF,Southampton,27,1989,4,1,129,1.4,0,0,0,0,0,0,0
+EPL,2016-2017,412,Steven Pienaar,za RSA,"MF,FW",Sunderland,34,1982,15,10,803,8.9,0,0,0,0,0,6,2
+EPL,2016-2017,413,Erik Pieters,nl NED,"DF,MF",Stoke City,27,1988,36,35,"3,151",35.0,0,1,0,0,0,5,0
+EPL,2016-2017,414,Paul Pogba,fr FRA,MF,Manchester Utd,23,1993,30,29,"2,608",29.0,5,4,5,0,0,7,0
+EPL,2016-2017,415,Sebastian Prödl,at AUT,DF,Watford,29,1987,33,32,"2,769",30.8,1,1,1,0,0,11,2
+EPL,2016-2017,416,Marc Pugh,eng ENG,MF,Bournemouth,29,1987,21,16,"1,328",14.8,2,2,2,0,0,1,0
+EPL,2016-2017,417,Jason Puncheon,eng ENG,MF,Crystal Palace,30,1986,36,35,"3,091",34.3,0,5,0,0,0,9,0
+EPL,2016-2017,418,Gastón Ramírez,uy URU,"MF,FW",Middlesbrough,25,1990,24,20,"1,540",17.1,2,3,2,0,0,9,2
+EPL,2016-2017,419,Aaron Ramsey,wal WAL,MF,Arsenal,25,1990,23,13,"1,236",13.7,1,4,1,0,0,3,0
+EPL,2016-2017,420,Darren Randolph,ie IRL,GK,West Ham,29,1987,22,22,"1,980",22.0,0,0,0,0,0,1,0
+EPL,2016-2017,421,Àngel Rangel,es ESP,DF,Swansea City,33,1982,18,8,831,9.2,1,0,1,0,0,1,0
+EPL,2016-2017,422,Andrea Ranocchia,it ITA,DF,Hull City,28,1988,16,15,"1,330",14.8,2,2,2,0,0,2,0
+EPL,2016-2017,423,Marcus Rashford,eng ENG,"FW,MF",Manchester Utd,18,1997,32,16,"1,710",19.0,5,1,5,0,0,3,0
+EPL,2016-2017,424,Nathan Redmond,eng ENG,"FW,MF",Southampton,22,1994,37,32,"2,899",32.2,7,1,7,0,0,2,1
+EPL,2016-2017,425,Harrison Reed,eng ENG,MF,Southampton,21,1995,3,1,64,0.7,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,426,Winston Reid,nz NZL,DF,West Ham,28,1988,30,30,"2,587",28.7,2,1,2,0,0,9,2
+EPL,2016-2017,427,Loïc Rémy,fr FRA,FW,Crystal Palace,29,1987,5,1,134,1.5,0,0,0,0,0,0,0
+EPL,2016-2017,428,Jordan Rhodes,sco SCO,FW,Middlesbrough,26,1990,6,2,211,2.3,0,0,0,0,0,0,0
+EPL,2016-2017,429,Declan Rice,eng ENG,"DF,MF",West Ham,17,1999,1,0,1,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,430,Andrew Robertson,sco SCO,"DF,MF",Hull City,22,1994,33,31,"2,736",30.4,1,2,1,0,0,5,0
+EPL,2016-2017,431,Paul Robinson,eng ENG,GK,Burnley,36,1979,3,3,270,3.0,0,0,0,0,0,0,0
+EPL,2016-2017,432,Joel Robles,es ESP,GK,Everton,26,1990,20,19,"1,737",19.3,0,0,0,0,0,2,0
+EPL,2016-2017,433,Hal Robson-Kanu,wal WAL,FW,West Brom,27,1989,29,5,701,7.8,3,2,3,0,0,3,0
+EPL,2016-2017,434,Jay Rodriguez,eng ENG,FW,Southampton,27,1989,24,9,892,9.9,5,2,5,0,0,0,0
+EPL,2016-2017,435,Jack Rodwell,eng ENG,MF,Sunderland,25,1991,20,17,"1,492",16.6,0,1,0,0,0,4,0
+EPL,2016-2017,436,Marcos Rojo,ar ARG,DF,Manchester Utd,26,1990,21,18,"1,663",18.5,1,0,1,0,0,5,0
+EPL,2016-2017,437,Sergio Romero,ar ARG,GK,Manchester Utd,29,1987,2,2,180,2.0,0,0,0,0,0,0,0
+EPL,2016-2017,438,Oriol Romeu,es ESP,MF,Southampton,24,1991,35,35,"3,071",34.1,1,0,1,0,0,11,0
+EPL,2016-2017,439,Salomón Rondón,ve VEN,FW,West Brom,26,1989,38,32,"2,891",32.1,8,2,8,0,0,2,0
+EPL,2016-2017,440,Marten de Roon,nl NED,MF,Middlesbrough,25,1991,33,32,"2,773",30.8,4,0,4,0,0,8,0
+EPL,2016-2017,441,Wayne Rooney,eng ENG,"MF,FW",Manchester Utd,30,1985,25,15,"1,539",17.1,5,5,4,1,1,8,0
+EPL,2016-2017,442,Danny Rose,eng ENG,"DF,MF",Tottenham,26,1990,18,18,"1,530",17.0,2,2,2,0,0,8,0
+EPL,2016-2017,443,Wayne Routledge,eng ENG,"FW,MF",Swansea City,31,1985,27,24,"1,922",21.4,3,1,3,0,0,1,0
+EPL,2016-2017,444,Bacary Sagna,fr FRA,DF,Manchester City,33,1983,17,14,"1,346",15.0,0,1,0,0,0,2,0
+EPL,2016-2017,445,Diafra Sakho,sn SEN,FW,West Ham,26,1989,4,2,181,2.0,1,0,1,0,0,0,0
+EPL,2016-2017,446,Mamadou Sakho,fr FRA,DF,Crystal Palace,26,1990,8,8,686,7.6,0,0,0,0,0,0,0
+EPL,2016-2017,447,Bakary Sako,ml MLI,MF,Crystal Palace,28,1988,7,0,142,1.6,0,0,0,0,0,0,0
+EPL,2016-2017,448,Alexis Sánchez,cl CHI,"FW,MF",Arsenal,27,1988,38,36,"3,217",35.7,24,10,22,2,3,6,0
+EPL,2016-2017,449,Leroy Sané,de GER,"MF,FW",Manchester City,20,1996,26,20,"1,781",19.8,5,2,5,0,0,4,0
+EPL,2016-2017,450,Jeffrey Schlupp,gh GHA,MF,Leicester City,23,1992,4,1,141,1.6,0,0,0,0,0,0,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,451,Jeffrey Schlupp,gh GHA,DF,Crystal Palace,23,1992,15,11,998,11.1,0,0,0,0,0,0,0
+EPL,2016-2017,452,Kasper Schmeichel,dk DEN,GK,Leicester City,29,1986,30,30,"2,666",29.6,0,0,0,0,0,1,0
+EPL,2016-2017,453,Morgan Schneiderlin,fr FRA,MF,Manchester Utd,26,1989,3,0,14,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,454,Morgan Schneiderlin,fr FRA,MF,Everton,26,1989,14,12,"1,059",11.8,1,0,1,0,0,2,0
+EPL,2016-2017,455,Xherdan Shaqiri,ch SUI,MF,Stoke City,24,1991,21,21,"1,698",18.9,4,2,4,0,0,2,0
+EPL,2016-2017,456,Luke Shaw,eng ENG,DF,Manchester Utd,21,1995,11,9,688,7.6,0,1,0,0,0,1,0
+EPL,2016-2017,457,Ryan Shawcross,eng ENG,DF,Stoke City,28,1987,35,35,"3,150",35.0,1,1,1,0,0,6,0
+EPL,2016-2017,458,Gylfi Sigurðsson,is ISL,"FW,MF",Swansea City,26,1989,38,37,"3,327",37.0,9,13,6,3,3,2,0
+EPL,2016-2017,459,David Silva,es ESP,MF,Manchester City,30,1986,34,31,"2,759",30.7,4,7,4,0,0,6,0
+EPL,2016-2017,460,Danny Simpson,eng ENG,DF,Leicester City,29,1987,35,34,"2,988",33.2,0,1,0,0,0,12,0
+EPL,2016-2017,461,Josh Sims,eng ENG,FW,Southampton,19,1997,7,1,211,2.3,0,1,0,0,0,0,0
+EPL,2016-2017,462,Jerome Sinclair,eng ENG,FW,Watford,19,1996,5,1,116,1.3,0,0,0,0,0,0,0
+EPL,2016-2017,463,Moussa Sissoko,fr FRA,"MF,FW",Tottenham,26,1989,25,8,911,10.1,0,2,0,0,0,3,0
+EPL,2016-2017,464,Islam Slimani,dz ALG,FW,Leicester City,28,1988,23,13,"1,281",14.2,7,4,6,1,1,1,0
+EPL,2016-2017,465,Chris Smalling,eng ENG,DF,Manchester Utd,26,1989,18,13,"1,217",13.5,1,0,1,0,0,0,0
+EPL,2016-2017,466,Adam Smith,eng ENG,"DF,MF",Bournemouth,25,1991,36,34,"3,079",34.2,1,5,1,0,0,6,0
+EPL,2016-2017,467,Brad Smith,au AUS,"DF,MF",Bournemouth,22,1994,5,3,291,3.2,0,0,0,0,0,1,0
+EPL,2016-2017,468,Robert Snodgrass,sco SCO,"FW,MF",Hull City,28,1987,20,19,"1,710",19.0,7,2,5,2,2,2,0
+EPL,2016-2017,469,Robert Snodgrass,sco SCO,"MF,FW",West Ham,28,1987,15,8,838,9.3,0,2,0,0,0,0,0
+EPL,2016-2017,470,Cédric Soares,pt POR,DF,Southampton,24,1991,30,30,"2,515",27.9,0,3,0,0,0,7,0
+EPL,2016-2017,471,Ramadan Sobhi,eg EGY,MF,Stoke City,19,1997,17,8,854,9.5,0,1,0,0,0,2,0
+EPL,2016-2017,472,Pape Souaré,sn SEN,DF,Crystal Palace,26,1990,3,3,269,3.0,0,0,0,0,0,0,0
+EPL,2016-2017,473,Junior Stanislas,eng ENG,MF,Bournemouth,26,1989,21,18,"1,467",16.3,7,5,5,2,2,1,0
+EPL,2016-2017,474,Maarten Stekelenburg,nl NED,GK,Everton,33,1982,19,19,"1,683",18.7,0,0,0,0,0,2,0
+EPL,2016-2017,475,Jack Stephens,eng ENG,DF,Southampton,22,1994,17,15,"1,471",16.3,0,0,0,0,0,1,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,476,Raheem Sterling,eng ENG,"MF,FW",Manchester City,21,1994,33,29,"2,508",27.9,7,8,7,0,0,7,0
+EPL,2016-2017,477,Kevin Stewart,eng ENG,"DF,MF",Liverpool,22,1993,4,0,20,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,478,John Stones,eng ENG,DF,Manchester City,22,1994,27,23,"2,014",22.4,0,0,0,0,0,1,0
+EPL,2016-2017,479,Cristhian Stuani,uy URU,"FW,MF",Middlesbrough,29,1986,23,16,"1,354",15.0,4,0,4,0,0,4,0
+EPL,2016-2017,480,Daniel Sturridge,eng ENG,FW,Liverpool,26,1989,20,7,775,8.6,3,1,3,0,0,1,0
+EPL,2016-2017,481,Isaac Success,ng NGA,MF,Watford,20,1996,19,2,519,5.8,1,1,1,0,0,2,0
+EPL,2016-2017,482,Ki Sung-yueng,kr KOR,MF,Swansea City,27,1989,23,13,"1,291",14.3,0,1,0,0,0,3,0
+EPL,2016-2017,483,Andrew Surman,eng ENG,MF,Bournemouth,29,1986,22,21,"1,801",20.0,0,1,0,0,0,2,2
+EPL,2016-2017,484,Dušan Tadić,rs SRB,"FW,MF",Southampton,27,1988,33,30,"2,411",26.8,3,5,2,1,2,4,0
+EPL,2016-2017,485,Matt Targett,eng ENG,DF,Southampton,20,1995,5,5,373,4.1,0,0,0,0,0,0,0
+EPL,2016-2017,486,James Tarkowski,eng ENG,DF,Burnley,23,1992,19,4,568,6.3,0,0,0,0,0,1,0
+EPL,2016-2017,487,Neil Taylor,wal WAL,DF,Swansea City,27,1989,11,11,920,10.2,0,0,0,0,0,1,0
+EPL,2016-2017,488,John Terry,eng ENG,DF,Chelsea,35,1980,9,6,496,5.5,1,0,1,0,0,1,0
+EPL,2016-2017,489,James Tomkins,eng ENG,DF,Crystal Palace,27,1989,24,23,"1,974",21.9,3,0,3,0,0,4,0
+EPL,2016-2017,490,Gökhan Töre,tr TUR,"MF,FW",West Ham,24,1992,5,3,240,2.7,0,1,0,0,0,0,0
+EPL,2016-2017,491,Yaya Touré,ci CIV,MF,Manchester City,33,1983,25,22,"1,941",21.6,5,0,3,2,2,4,0
+EPL,2016-2017,492,Andros Townsend,eng ENG,MF,Crystal Palace,25,1991,36,30,"2,519",28.0,3,4,3,0,0,4,0
+EPL,2016-2017,493,Adama Traoré,es ESP,"MF,FW",Middlesbrough,20,1996,27,16,"1,541",17.1,0,1,0,0,0,1,0
+EPL,2016-2017,494,Kieran Trippier,eng ENG,"DF,MF",Tottenham,25,1990,12,6,568,6.3,0,5,0,0,0,1,0
+EPL,2016-2017,495,Axel Tuanzebe,eng ENG,"MF,DF",Manchester Utd,18,1997,4,4,303,3.4,0,0,0,0,0,0,0
+EPL,2016-2017,496,Josh Tymon,eng ENG,"MF,DF",Hull City,17,1999,5,4,322,3.6,0,0,0,0,0,1,0
+EPL,2016-2017,497,Leonardo Ulloa,ar ARG,FW,Leicester City,30,1986,16,3,447,5.0,1,0,1,0,0,0,0
+EPL,2016-2017,498,Víctor Valdés,es ESP,GK,Middlesbrough,34,1982,28,28,"2,520",28.0,0,0,0,0,0,1,0
+EPL,2016-2017,499,Antonio Valencia,ec ECU,DF,Manchester Utd,30,1985,28,27,"2,483",27.6,1,3,1,0,0,5,0
+EPL,2016-2017,500,Enner Valencia,ec ECU,"FW,MF",Everton,26,1989,21,5,716,8.0,3,1,3,0,0,1,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,501,Enner Valencia,ec ECU,FW,West Ham,26,1989,3,3,211,2.3,0,0,0,0,0,0,0
+EPL,2016-2017,502,Jamie Vardy,eng ENG,FW,Leicester City,29,1987,35,33,"2,802",31.1,13,4,13,0,0,2,1
+EPL,2016-2017,503,Jan Vertonghen,be BEL,DF,Tottenham,29,1987,33,33,"2,894",32.2,0,0,0,0,0,5,0
+EPL,2016-2017,504,Sam Vokes,wal WAL,FW,Burnley,26,1989,37,21,"2,064",22.9,10,3,8,2,2,0,0
+EPL,2016-2017,505,Michel Vorm,nl NED,GK,Tottenham,32,1983,5,4,416,4.6,0,0,0,0,0,0,0
+EPL,2016-2017,506,Matěj Vydra,cz CZE,"FW,MF",Watford,24,1992,1,0,3,0.0,0,0,0,0,0,0,0
+EPL,2016-2017,507,Theo Walcott,eng ENG,MF,Arsenal,27,1989,28,23,"1,916",21.3,10,2,10,0,1,1,0
+EPL,2016-2017,508,Kyle Walker,eng ENG,"DF,MF",Tottenham,26,1990,33,31,"2,701",30.0,0,5,0,0,0,8,0
+EPL,2016-2017,509,Jonathan Walters,ie IRL,"FW,MF",Stoke City,32,1983,23,13,"1,304",14.5,4,2,3,1,1,1,0
+EPL,2016-2017,510,Victor Wanyama,ke KEN,MF,Tottenham,25,1991,36,35,"3,012",33.5,4,1,4,0,0,10,0
+EPL,2016-2017,511,Joel Ward,eng ENG,DF,Crystal Palace,26,1989,38,38,"3,417",38.0,0,1,0,0,0,7,0
+EPL,2016-2017,512,Stephen Ward,ie IRL,DF,Burnley,30,1985,37,37,"3,230",35.9,1,1,1,0,0,5,0
+EPL,2016-2017,513,James Ward-Prowse,eng ENG,MF,Southampton,21,1994,30,22,"1,883",20.9,4,4,4,0,0,4,0
+EPL,2016-2017,514,Marcin Wasilewski,pl POL,DF,Leicester City,36,1980,1,1,90,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,515,Duncan Watmore,eng ENG,"MF,FW",Sunderland,22,1994,14,11,"1,024",11.4,0,2,0,0,0,1,0
+EPL,2016-2017,516,Ben Watson,eng ENG,MF,Watford,31,1985,4,0,54,0.6,0,0,0,0,0,0,1
+EPL,2016-2017,517,Danny Welbeck,eng ENG,"FW,MF",Arsenal,25,1990,16,8,748,8.3,2,2,2,0,0,0,0
+EPL,2016-2017,518,Ashley Westwood,eng ENG,MF,Burnley,26,1990,9,6,551,6.1,0,0,0,0,0,3,0
+EPL,2016-2017,519,Glenn Whelan,ie IRL,MF,Stoke City,32,1984,30,26,"2,275",25.3,0,1,0,0,0,5,0
+EPL,2016-2017,520,Connor Wickham,eng ENG,"FW,MF",Crystal Palace,23,1993,8,4,412,4.6,2,0,2,0,0,1,0
+EPL,2016-2017,521,Georginio Wijnaldum,nl NED,MF,Liverpool,25,1990,36,33,"2,972",33.0,6,8,6,0,0,2,0
+EPL,2016-2017,522,Ashley Williams,wal WAL,DF,Everton,31,1984,36,35,"3,160",35.1,1,2,1,0,0,7,1
+EPL,2016-2017,523,Willian,br BRA,"FW,MF",Chelsea,27,1988,34,15,"1,534",17.0,8,2,8,0,0,3,0
+EPL,2016-2017,524,Jack Wilshere,eng ENG,MF,Arsenal,24,1992,2,0,39,0.4,0,0,0,0,0,1,0
+EPL,2016-2017,525,Jack Wilshere,eng ENG,MF,Bournemouth,24,1992,27,22,"1,910",21.2,0,2,0,0,0,3,0
+EPL,2016-2017,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR
+EPL,2016-2017,526,Callum Wilson,eng ENG,FW,Bournemouth,24,1992,20,16,"1,423",15.8,6,0,3,3,3,0,0
+EPL,2016-2017,527,Marc Wilson,ie IRL,DF,West Brom,28,1987,4,3,254,2.8,0,0,0,0,0,3,0
+EPL,2016-2017,528,Kevin Wimmer,at AUT,DF,Tottenham,23,1992,5,4,357,4.0,0,0,0,0,0,3,0
+EPL,2016-2017,529,Harry Winks,eng ENG,MF,Tottenham,20,1996,21,3,493,5.5,1,1,1,0,0,1,0
+EPL,2016-2017,530,Philipp Wollscheid,de GER,DF,Stoke City,27,1989,2,2,180,2.0,0,0,0,0,0,1,0
+EPL,2016-2017,531,Ben Woodburn,wal WAL,FW,Liverpool,16,1999,5,1,86,1.0,0,0,0,0,0,0,0
+EPL,2016-2017,532,Matt Worthington,eng ENG,"DF,MF",Bournemouth,18,1997,1,0,17,0.2,0,0,0,0,0,0,0
+EPL,2016-2017,533,Granit Xhaka,ch SUI,MF,Arsenal,23,1992,32,28,"2,485",27.6,2,2,2,0,0,5,2
+EPL,2016-2017,534,Claudio Yacob,ar ARG,MF,West Brom,29,1987,33,27,"2,418",26.9,0,0,0,0,0,9,0
+EPL,2016-2017,535,Maya Yoshida,jp JPN,DF,Southampton,27,1988,23,23,"2,070",23.0,1,0,1,0,0,2,0
+EPL,2016-2017,536,Ashley Young,eng ENG,"DF,MF",Manchester Utd,31,1985,12,8,758,8.4,0,1,0,0,0,2,0
+EPL,2016-2017,537,Pablo Zabaleta,ar ARG,"DF,MF",Manchester City,31,1985,19,11,"1,036",11.5,1,1,1,0,0,2,0
+EPL,2016-2017,538,Wilfried Zaha,ci CIV,"MF,FW",Crystal Palace,23,1992,35,34,"3,019",33.5,7,8,7,0,0,8,0
+EPL,2016-2017,539,Mauro Zárate,ar ARG,"FW,MF",Watford,29,1987,3,3,203,2.3,0,0,0,0,0,0,0
+EPL,2016-2017,540,Simone Zaza,it ITA,FW,West Ham,25,1991,8,5,459,5.1,0,0,0,0,0,2,0
+EPL,2016-2017,541,Ron-Robert Zieler,de GER,GK,Leicester City,27,1989,9,8,754,8.4,0,0,0,0,0,0,0
+EPL,2016-2017,542,Kurt Zouma,fr FRA,DF,Chelsea,21,1994,9,3,250,2.8,0,0,0,0,0,0,0
+EPL,2016-2017,543,Juan Zúñiga,co COL,"DF,MF",Watford,30,1985,21,6,825,9.2,1,0,1,0,0,1,0

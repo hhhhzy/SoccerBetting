@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-31,Sat,Serie A,Matchweek 2,Home,W 1–0,Milan,Brescia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-21,Sat,Serie A,Matchweek 4,Home,L 0–2,Milan,Inter,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-26,Thu,Serie A,Matchweek 5,Away,L 1–2,Milan,Torino,N,,,0,0,0,0,0,0,0,1,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-05,Sat,Serie A,Matchweek 7,Away,W 2–1,Milan,Genoa,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,0,0,27,37,73.0,0,18,0,0,0,Match Report
+2019-2020,2019-10-20,Sun,Serie A,Matchweek 8,Home,D 2–2,Milan,Lecce,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-27,Sun,Serie A,Matchweek 9,Away,L 1–2,Milan,Roma,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-31,Thu,Serie A,Matchweek 10,Home,W 1–0,Milan,SPAL,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Serie A,Matchweek 11,Home,L 1–2,Milan,Lazio,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-10,Sun,Serie A,Matchweek 12,Away,L 0–1,Milan,Juventus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Serie A,Matchweek 13,Home,D 1–1,Milan,Napoli,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-01,Sun,Serie A,Matchweek 14,Away,W 1–0,Milan,Parma,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-08,Sun,Serie A,Matchweek 15,Away,W 3–2,Milan,Bologna,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-15,Sun,Serie A,Matchweek 16,Home,D 0–0,Milan,Sassuolo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-22,Sun,Serie A,Matchweek 17,Away,L 0–5,Milan,Atalanta,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-06,Mon,Serie A,Matchweek 18,Home,D 0–0,Milan,Sampdoria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Serie A,Matchweek 19,Away,W 2–0,Milan,Cagliari,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Aston Villa,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,11,0,0,0,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,W 2–1,Aston Villa,Watford,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,16,0,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,12,0,0,0,Match Report
+2019-2020,2020-02-16,Sun,Premier League,Matchweek 26,Home,L 2–3,Aston Villa,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,1,1,28,35,80.0,0,16,0,0,0,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Away,L 0–2,Aston Villa,Southampton,Y,GK,90,0,0,0,0,0,0,1,0,51,3,0,0,0,0.0,0.0,0.0,1,0,29,46,63.0,0,21,0,0,0,Match Report
+2019-2020,2020-03-01,Sun,EFL Cup,Final,Neutral,L 1–2,Aston Villa,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-09,Mon,Premier League,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,30,1,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,12,0,0,0,Match Report
+2019-2020,2020-06-17,Wed,Premier League,Matchweek 28,Home,D 0–0,Aston Villa,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Home,L 1–2,Aston Villa,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,D 1–1,Aston Villa,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-27,Sat,Premier League,Matchweek 32,Home,L 0–1,Aston Villa,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,L 0–2,Aston Villa,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,13,32,40.6,0,14,0,0,0,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Home,L 0–3,Aston Villa,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,11,0,0,0,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 2–0,Aston Villa,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,15,0,0,0,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,D 1–1,Aston Villa,Everton,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,34,42,81.0,0,18,0,0,0,Match Report
+2019-2020,2020-07-21,Tue,Premier League,Matchweek 37,Home,W 1–0,Aston Villa,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,17,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,D 1–1,Aston Villa,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,12,0,0,0,Match Report

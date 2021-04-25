@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-12,Mon,PL2 — Div. 1,Matchweek 1,Home,D 0–0,Everton,Leicester City,Y,LM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-23,Fri,PL2 — Div. 1,Matchweek 3,Away,D 2–2,Everton,Arsenal,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-30,Fri,PL2 — Div. 1,Matchweek 4,Home,W 8–2,Everton,Southampton,Y,FW,90,2,1,1,2,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-16,Mon,PL2 — Div. 1,Matchweek 5,Home,W 2–1,Everton,Blackburn,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-20,Fri,PL2 — Div. 1,Matchweek 6,Away,W 2–1,Everton,Brighton,Y,LM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-27,Fri,PL2 — Div. 1,Matchweek 7,Home,D 2–2,Everton,Manchester City,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-18,Fri,PL2 — Div. 1,Matchweek 8,Away,L 1–4,Everton,Derby County,Y,FW,41,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,PL2 — Div. 1,Matchweek 10,Away,L 1–2,Everton,Liverpool,Y,LM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,W 2–1,Everton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Away,L 1–2,Everton,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-09,Mon,PL2 — Div. 1,Matchweek 12,Away,L 1–2,Everton,Leicester City,Y,LM,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Away,D 1–1,Everton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Home,L 2 (2)–2 (4),Everton,Leicester City,N,,37,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 1–2,Everton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Everton,West Ham,N,LM,45,0,0,0,0,2,0,0,0,17,15,1,0,1,0.1,0.1,0.0,1,0,8,10,80.0,1,13,6,1,2,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,D 2–2,Everton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-08,Sun,Premier League,Matchweek 29,Away,L 0–4,Everton,Chelsea,N,FW,15,0,0,0,0,0,0,0,0,6,15,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Home,D 0–0,Everton,Liverpool,Y,LM,59,0,0,0,0,0,0,0,0,15,13,0,0,0,0.0,0.0,0.1,2,0,6,9,66.7,0,10,1,1,3,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,W 1–0,Everton,Norwich City,N,RM,1,0,0,0,0,0,0,0,0,3,1,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 2–1,Everton,Leicester City,Y,"LM,FW",78,0,1,0,0,0,0,0,0,33,22,3,0,1,0.0,0.0,0.2,3,1,15,20,75.0,2,27,2,2,5,Match Report
+2019-2020,2020-07-06,Mon,Premier League,Matchweek 33,Away,L 0–1,Everton,Tottenham,N,"RM,DM",45,0,0,0,0,2,1,0,0,23,15,1,0,2,0.0,0.0,0.1,2,0,11,12,91.7,0,16,3,1,2,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Home,D 1–1,Everton,Southampton,Y,"LM,AM",73,0,0,0,0,0,0,0,0,32,20,1,1,3,0.0,0.0,0.0,1,0,11,18,61.1,1,18,3,1,2,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 0–3,Everton,Wolves,Y,CM,55,0,0,0,0,1,0,0,0,24,7,0,0,1,0.0,0.0,0.0,0,0,18,19,94.7,0,17,1,2,2,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,D 1–1,Everton,Aston Villa,N,LM,29,0,0,0,0,0,0,0,0,15,2,0,0,2,0.0,0.0,0.0,0,0,7,9,77.8,1,10,2,0,1,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Away,W 1–0,Everton,Sheffield Utd,N,"RM,LM",7,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,1,1,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–3,Everton,Bournemouth,N,RW,33,0,0,0,0,1,0,0,0,27,8,1,0,1,0.1,0.1,0.0,0,0,14,19,73.7,1,22,2,0,2,Match Report

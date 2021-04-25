@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,D 0–0,Crystal Palace,Everton,Y,LM,90,0,0,0,0,3,1,1,0,42,15,3,1,3,0.3,0.3,0.0,0,0,15,26,57.7,3,27,5,0,2,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Sheffield Utd,Y,LM,64,0,0,0,0,0,0,0,0,23,10,0,1,2,0.0,0.0,0.0,0,0,12,16,75.0,0,15,2,0,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Home,L 0 (4)–0 (5),Crystal Palace,Colchester Utd,Y,AM,72,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 1–0,Crystal Palace,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–4,Crystal Palace,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Home,D 1–1,Crystal Palace,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–0,Crystal Palace,Norwich City,N,AM,1,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Away,W 2–1,Crystal Palace,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,L 0–2,Crystal Palace,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,D 2–2,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-03,Sun,Premier League,Matchweek 11,Home,L 0–2,Crystal Palace,Leicester City,N,CM,17,0,0,0,0,0,0,0,0,6,5,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,1,5,0,0,2,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 1–2,Crystal Palace,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-16,Mon,Premier League,Matchweek 17,Home,D 1–1,Crystal Palace,Brighton,N,CM,24,0,0,0,0,1,0,0,0,12,8,2,0,1,0.0,0.0,0.0,1,0,8,10,80.0,0,10,1,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,L 0–1,Crystal Palace,Newcastle Utd,N,CM,5,0,0,0,0,1,0,0,0,5,3,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,3,0,0,1,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 2–1,Crystal Palace,West Ham,Y,RW,74,0,0,0,0,1,0,0,0,42,19,4,1,1,0.0,0.0,0.6,2,0,20,31,64.5,3,32,5,0,1,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,D 1–1,Crystal Palace,Southampton,Y,RM,83,0,0,0,0,0,0,0,0,17,28,2,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,10,0,1,1,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Crystal Palace,Norwich City,Y,RM,59,0,0,0,0,1,1,0,0,30,11,0,0,2,0.1,0.1,0.0,2,0,18,22,81.8,1,28,2,1,1,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,L 0–1,Crystal Palace,Derby County,Y,CM,38,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,D 1–1,Crystal Palace,Arsenal,Y,RM,67,0,0,0,0,1,0,0,0,20,13,2,0,0,0.0,0.0,0.0,1,1,9,11,81.8,1,15,1,1,2,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,L 0–2,Crystal Palace,Southampton,N,RM,29,0,0,0,0,0,0,0,0,15,4,1,0,1,0.0,0.0,0.0,0,0,6,11,54.5,1,11,3,0,0,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,L 0–1,Crystal Palace,Sheffield Utd,N,CM,11,0,0,0,0,0,0,0,0,8,2,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,2,0,0,Match Report
+2019-2020,2020-02-08,Sat,Premier League,Matchweek 26,Away,L 1–3,Crystal Palace,Everton,N,CM,23,0,0,0,0,0,0,0,0,13,9,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,7,0,0,0,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 1–0,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,W 1–0,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Crystal Palace,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,W 2–0,Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–4,Crystal Palace,Liverpool,N,LM,76,0,0,0,0,1,0,0,0,34,11,3,0,2,0.1,0.1,0.0,0,0,17,25,68.0,0,22,3,1,1,Match Report
+2019-2020,2020-06-29,Mon,Premier League,Matchweek 32,Home,L 0–1,Crystal Palace,Burnley,N,LM,14,0,0,0,0,0,0,0,0,13,1,0,0,0,0.0,0.0,0.1,3,0,10,12,83.3,0,12,3,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,L 0–3,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Home,L 2–3,Crystal Palace,Chelsea,N,CM,2,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,2,2,0,0,0,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 0–2,Crystal Palace,Aston Villa,N,DM,16,0,0,0,0,0,0,0,0,14,1,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,12,0,0,0,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,L 0–2,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Away,L 0–2,Crystal Palace,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,Crystal Palace,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,29 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,L 0–2,Brighton,Manchester City,N,CM,67,0,0,0,0,0,0,0,0,15,24,1,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,9,1,0,1,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–2,Brighton,Leicester City,Y,LM,90,0,0,0,0,1,0,0,0,43,5,0,0,0,0.1,0.1,0.0,1,0,30,36,83.3,0,35,13,3,3,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,D 0–0,Brighton,Watford,N,AM,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,1,0,1,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Home,W 3–1,Brighton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-15,Fri,Premier League,Matchweek 5,Away,L 1–2,Brighton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Away,L 0–1,Brighton,Bournemouth,Y,FW,120,0,0,0,0,3,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-24,Sun,Premier League,Matchweek 6,Home,W 1–0,Brighton,Newcastle Utd,N,RM,10,0,0,0,0,0,0,0,0,3,11,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+2017-2018,2017-12-08,Fri,PL2 — Div. 2,Regular Season,Away,D 1–1,Brighton,Fulham,Y,AM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-24,Wed,Premiership,Regular Season,Home,W 2–0,Rangers,Aberdeen,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-28,Sun,Premiership,Regular Season,Away,W 2–1,Rangers,Ross County,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premiership,Regular Season,Home,L 1–2,Rangers,Hibernian,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-06,Tue,Premiership,Regular Season,Away,W 2–0,Rangers,Partick Thistle,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-18,Sun,Premiership,Regular Season,Away,W 5–3,Rangers,Hamilton,Y,DM,90,1,3,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premiership,Regular Season,Home,W 2–0,Rangers,Hearts,Y,AM,90,1,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-27,Tue,Premiership,Regular Season,Away,W 4–1,Rangers,St Johnstone,Y,AM,77,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-11,Sun,Premiership,Regular Season,Home,L 2–3,Rangers,Celtic,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,Premiership,Regular Season,Home,L 0–1,Rangers,Kilmarnock,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Home,L 0–1,sco Scotland,cr Costa Rica,N,,4,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,W 1–0,sco Scotland,hu Hungary,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premiership,Regular Season,Away,D 2–2,Rangers,Motherwell,Y,DM,90,1,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premiership,Regular Season,Home,W 4–0,Rangers,Dundee,Y,AM,90,1,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-22,Sun,Premiership,Championship round,Home,W 2–1,Rangers,Hearts,Y,AM,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premiership,Championship round,Away,L 0–5,Rangers,Celtic,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-05,Sat,Premiership,Championship round,Home,W 1–0,Rangers,Kilmarnock,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-08,Tue,Premiership,Championship round,Away,D 1–1,Rangers,Aberdeen,Y,LW,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premiership,Championship round,Away,D 5–5,Rangers,Hibernian,Y,AM,90,0,2,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-29,Tue,Friendlies (M),Friendlies (M),Away,L 0–2,sco Scotland,pe Peru,Y,LW,62,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Away,L 0–1,sco Scotland,mx Mexico,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

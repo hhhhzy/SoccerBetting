@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Bournemouth,West Brom,Y,AM,90,0,0,0,0,2,0,0,0,34,19,0,0,0,0.2,0.2,0.0,1,0,20,26,76.9,0,31,2,6,6,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,L 0–2,Bournemouth,Watford,Y,FW,90,0,0,0,0,1,0,0,0,29,12,0,0,2,0.3,0.3,0.0,2,0,13,18,72.2,2,19,4,1,1,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Bournemouth,Manchester City,Y,FW,90,0,0,0,0,3,1,0,0,32,28,1,0,1,0.2,0.2,0.0,3,0,9,14,64.3,2,22,4,5,5,Match Report
+2017-2018,2017-09-01,Fri,WCQ — UEFA (M),First round,Home,W 2–0,no Norway,az Azerbaijan,Y,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-04,Mon,WCQ — UEFA (M),First round,Away,L 0–6,no Norway,de Germany,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,L 0–3,Bournemouth,Arsenal,Y,"AM,FW",90,0,0,0,0,2,1,0,0,40,28,0,1,0,0.3,0.3,0.0,1,0,16,22,72.7,1,26,1,2,3,Match Report
+2017-2018,2017-09-15,Fri,Premier League,Matchweek 5,Home,W 2–1,Bournemouth,Brighton,Y,FW,89,0,0,0,0,2,0,0,0,43,22,2,2,1,0.1,0.1,0.0,2,0,23,30,76.7,3,35,7,1,2,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Home,W 1–0,Bournemouth,Brighton,N,,42,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,L 1–2,Bournemouth,Everton,Y,FW,78,1,0,0,0,1,1,0,0,38,19,0,0,1,0.1,0.1,0.5,4,1,18,21,85.7,1,32,7,5,8,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,D 0–0,Bournemouth,Leicester City,Y,AM,90,0,0,0,0,3,0,0,0,55,11,1,0,2,0.3,0.3,0.4,6,0,22,34,64.7,3,43,8,3,7,Match Report
+2017-2018,2017-10-05,Thu,WCQ — UEFA (M),First round,Away,W 8–0,no Norway,sm San Marino,Y,FW,61,2,1,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Away,L 0–1,Bournemouth,Tottenham,Y,FW,90,0,0,0,0,1,0,0,0,37,20,1,1,0,0.0,0.0,0.0,0,0,11,21,52.4,3,20,2,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,W 1–0,Bournemouth,Newcastle Utd,Y,FW,90,0,0,0,0,3,1,0,0,46,15,1,0,1,0.2,0.2,0.5,7,0,25,30,83.3,8,39,9,1,2,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 4–0,Bournemouth,Huddersfield,Y,FW,85,0,1,0,0,1,0,0,0,25,14,0,0,1,0.0,0.0,0.1,1,1,11,16,68.8,0,18,6,1,2,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Away,D 0–0,Bournemouth,Swansea City,Y,FW,90,0,0,0,0,1,1,1,0,38,18,2,1,3,0.1,0.1,0.2,3,0,18,22,81.8,0,27,4,2,3,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,L 1–2,Bournemouth,Burnley,Y,"FW,LW,RW",90,1,0,0,0,2,1,0,0,55,21,0,0,1,0.5,0.5,0.0,2,0,28,37,75.7,7,45,9,4,9,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Home,D 1–1,Bournemouth,Southampton,Y,AM,90,0,0,0,0,2,1,0,0,42,18,1,0,0,0.2,0.2,0.0,3,1,14,20,70.0,2,34,2,1,8,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Away,D 2–2,Bournemouth,Crystal Palace,Y,FW,90,0,0,0,0,0,0,0,0,53,19,5,0,0,0.0,0.0,0.1,4,0,26,37,70.3,2,43,7,5,9,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,L 0–1,Bournemouth,Manchester Utd,Y,"FW,LW",90,0,0,0,0,1,0,0,0,47,25,1,1,1,0.1,0.1,0.0,1,0,21,28,75.0,1,42,8,3,8,Match Report
+2017-2018,2017-12-17,Sun,Premier League,Matchweek 18,Home,L 0–4,Bournemouth,Liverpool,Y,AM,30,0,0,0,0,0,0,0,0,16,5,0,0,0,0.0,0.0,0.0,1,0,9,13,69.2,0,10,2,1,1,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Home,D 3–3,Bournemouth,West Ham,Y,AM,64,0,1,0,0,4,1,0,0,39,24,2,0,1,1.1,1.1,0.2,3,1,18,23,78.3,1,20,1,1,1,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,W 2–1,Bournemouth,Everton,Y,AM,38,0,1,0,0,0,0,0,0,17,7,1,0,0,0.0,0.0,0.2,4,1,7,9,77.8,0,12,1,0,4,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Away,D 1–1,Bournemouth,West Ham,N,LW,6,0,0,0,0,1,1,0,0,12,3,0,0,0,0.1,0.1,0.0,0,0,7,10,70.0,2,12,1,1,1,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,W 3–0,Bournemouth,Chelsea,N,"LW,RW",20,0,0,0,0,0,0,0,0,5,7,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,W 2–1,Bournemouth,Stoke City,N,CB,78,1,0,0,0,2,2,1,0,59,16,1,0,3,0.3,0.3,0.3,3,0,23,34,67.6,1,50,5,4,8,Match Report
+2017-2018,2018-02-11,Sun,Premier League,Matchweek 27,Away,L 1–4,Bournemouth,Huddersfield,N,"FW,RW",33,0,0,0,0,0,0,0,0,20,6,0,1,0,0.0,0.0,0.0,0,0,10,14,71.4,0,15,1,1,1,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,D 2–2,Bournemouth,Newcastle Utd,Y,"FW,LM",90,0,0,0,0,0,0,0,0,47,16,1,0,1,0.0,0.0,0.1,4,2,24,35,68.6,5,41,6,3,4,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,D 1–1,Bournemouth,Leicester City,Y,"AM,FW",89,1,0,1,1,2,1,0,0,44,10,2,0,1,1.1,0.3,0.1,4,1,18,28,64.3,0,31,4,1,5,Match Report
+2017-2018,2018-03-11,Sun,Premier League,Matchweek 30,Home,L 1–4,Bournemouth,Tottenham,N,"LM,FW",24,0,0,0,0,0,0,0,0,6,3,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Home,W 2–1,Bournemouth,West Brom,Y,FW,90,0,0,0,0,0,0,0,0,38,2,4,0,1,0.0,0.0,0.1,4,2,11,19,57.9,4,25,4,1,3,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,D 2–2,Bournemouth,Watford,Y,"FW,RM",90,1,0,1,1,1,0,0,0,41,24,2,0,1,1.0,0.2,0.1,2,0,14,21,66.7,0,31,4,3,5,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 2–2,Bournemouth,Crystal Palace,N,FW,29,1,0,0,0,2,2,0,0,19,3,0,0,0,0.6,0.6,0.0,0,0,8,11,72.7,0,15,5,0,1,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,L 0–3,Bournemouth,Liverpool,Y,LM,90,0,0,0,0,3,0,0,0,52,55,2,0,0,0.1,0.1,0.2,3,0,24,34,70.6,4,45,9,3,7,Match Report
+2017-2018,2018-04-18,Wed,Premier League,Matchweek 35,Home,L 0–2,Bournemouth,Manchester Utd,Y,AM,81,0,0,0,0,1,1,0,0,34,21,0,1,0,0.0,0.0,0.4,3,0,18,23,78.3,1,22,7,0,3,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,L 1–2,Bournemouth,Southampton,Y,LW,90,1,0,0,0,2,1,0,0,44,13,0,1,0,0.6,0.6,0.0,3,0,14,25,56.0,2,39,5,2,4,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,W 1–0,Bournemouth,Swansea City,Y,RW,89,0,0,0,0,0,0,1,0,47,21,0,0,3,0.0,0.0,0.9,5,0,15,23,65.2,5,41,6,3,5,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,W 2–1,Bournemouth,Burnley,Y,"FW,LW",90,1,0,0,0,4,1,0,0,31,19,0,0,1,0.2,0.2,0.2,4,0,15,18,83.3,3,23,3,1,3,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Away,W 3–2,no Norway,is Iceland,N,,20,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-06,Wed,Friendlies (M),Friendlies (M),Home,W 1–0,no Norway,pa Panama,Y,FW,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

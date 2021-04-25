@@ -1,0 +1,20 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Home,L 0–2,Newcastle Utd,Tottenham,N,CB,57,0,0,0,0,0,0,0,0,20,6,1,0,3,0.0,0.0,0.0,0,0,13,15,86.7,0,9,1,0,0,Match Report
+2017-2018,2017-08-20,Sun,Premier League,Matchweek 2,Away,L 0–1,Newcastle Utd,Huddersfield,Y,LB,90,0,0,0,0,0,0,0,0,58,15,3,2,1,0.0,0.0,0.0,1,0,31,43,72.1,4,29,3,5,5,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Home,L 2–3,Newcastle Utd,Nott'ham Forest,Y,CB,120,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,W 3–0,Newcastle Utd,West Ham,Y,LB,90,0,0,0,0,0,0,0,0,48,10,5,2,1,0.0,0.0,0.0,3,0,19,34,55.9,4,15,2,2,2,Match Report
+2017-2018,2017-09-01,Fri,WCQ — CAF (M),Third round,Away,L 1–2,cd Congo DR,tn Tunisia,Y,,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — CAF (M),Third round,Home,D 2–2,cd Congo DR,tn Tunisia,Y,,58,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,W 2–1,Newcastle Utd,Stoke City,Y,LB,90,0,0,0,0,0,0,0,0,42,5,0,2,2,0.0,0.0,0.2,2,0,18,33,54.5,3,21,1,2,2,Match Report
+2017-2018,2017-09-24,Sun,Premier League,Matchweek 6,Away,L 0–1,Newcastle Utd,Brighton,Y,LB,82,0,0,0,0,0,0,0,0,40,15,1,1,0,0.0,0.0,0.1,2,0,25,32,78.1,2,26,1,3,3,Match Report
+2017-2018,2017-10-07,Sat,WCQ — CAF (M),Third round,Away,W 2–1,cd Congo DR,ly Libya,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-11,Sat,WCQ — CAF (M),Third round,Home,W 3–1,cd Congo DR,gn Guinea,Y*,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 1–4,Newcastle Utd,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,L 0–3,Newcastle Utd,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,D 2–2,Newcastle Utd,West Brom,Y,LB,90,0,0,0,0,0,0,0,0,74,5,6,1,1,0.0,0.0,0.1,1,0,49,65,75.4,8,39,3,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 1–3,Newcastle Utd,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,50,3,0,1,1,0.0,0.0,0.0,0,0,36,41,87.8,4,32,6,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,W 3–2,Newcastle Utd,West Ham,N,CM,7,0,0,0,0,0,0,0,0,2,0,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2017-2018,2017-12-27,Wed,Premier League,Matchweek 20,Home,L 0–1,Newcastle Utd,Manchester City,Y,CB,76,0,0,0,0,0,0,0,0,22,13,1,2,0,0.0,0.0,0.0,0,0,3,13,23.1,1,6,0,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Home,D 0–0,Newcastle Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-28,Sun,FA Cup,Fourth round,Away,L 0–3,Newcastle Utd,Chelsea,Y,CB,90,0,0,0,0,1,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,L 0–2,cd Congo DR,tz Tanzania,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

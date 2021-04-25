@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-26,Thu,Europa Lg,Second qualifying round,Away,W 2–0,tr Beşiktaş,fo B36 Tórshavn,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-02,Thu,Europa Lg,Second qualifying round,Home,W 6–0,tr Beşiktaş,fo B36 Tórshavn,Y,FW,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-09,Thu,Europa Lg,Third qualifying round,Home,W 1–0,tr Beşiktaş,at LASK,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-12,Sun,Süper Lig,Matchweek 1,Home,W 2–1,Beşiktaş,Akhisarspor,Y,AM,90,1,0,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-16,Thu,Europa Lg,Third qualifying round,Away,L 1–2,tr Beşiktaş,at LASK,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-19,Sun,Süper Lig,Matchweek 2,Away,W 3–1,Beşiktaş,BB Erzurumspor,Y,AM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-26,Sun,Süper Lig,Matchweek 3,Home,L 2–3,Beşiktaş,Antalyaspor,Y,FW,90,0,0,0,0,5,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-30,Thu,Europa Lg,Play-off Round,Home,W 3–0,tr Beşiktaş,rs Partizan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-02,Sun,Süper Lig,Matchweek 4,Away,D 1–1,Beşiktaş,Bursaspor,Y,AM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-06,Thu,Friendlies (M),Friendlies (M),Home,W 2–1,nl Netherlands,pe Peru,Y,FW,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League A,Away,L 1–2,nl Netherlands,fr France,Y,LM,87,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Süper Lig,Matchweek 5,Home,W 2–1,Beşiktaş,Yeni Mal'spor,N,,45,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-20,Thu,Europa Lg,Group stage,Home,W 3–1,tr Beşiktaş,no Sarpsborg 08,N,LW,45,1,0,0,0,1,1,0,0,31,3,1,0,1,0.1,0.1,0.0,1,1,14,23,60.9,2,20,6,0,0,Match Report
+2018-2019,2018-09-24,Mon,Süper Lig,Matchweek 6,Away,D 1–1,Beşiktaş,Fenerbahçe,Y,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Süper Lig,Matchweek 7,Home,W 2–0,Beşiktaş,Kayserispor,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-04,Thu,Europa Lg,Group stage,Away,L 0–2,tr Beşiktaş,se Malmö,N,"FW,LW",32,0,0,0,0,0,0,0,0,8,2,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,6,0,0,0,Match Report
+2018-2019,2018-10-07,Sun,Süper Lig,Matchweek 8,Away,D 2–2,Beşiktaş,Konyaspor,Y,AM,90,0,1,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-13,Sat,UEFA Nations League,League A,Home,W 3–0,nl Netherlands,de Germany,Y,FW,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,nl Netherlands,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-21,Sun,Süper Lig,Matchweek 9,Away,L 0–2,Beşiktaş,Göztepe,Y,AM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Süper Lig,Matchweek 11,Away,L 0–1,Beşiktaş,Başakşehir,Y,LM,90,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-08,Thu,Europa Lg,Group stage,Away,D 1–1,tr Beşiktaş,be Genk,Y,FW,90,0,0,0,0,2,0,0,0,55,7,0,1,2,0.4,0.4,0.0,0,0,39,46,84.8,3,48,8,2,3,Match Report
+2018-2019,2018-11-11,Sun,Süper Lig,Matchweek 12,Home,L 1–2,Beşiktaş,Sivasspor,Y,AM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-16,Fri,UEFA Nations League,League A,Home,W 2–0,nl Netherlands,fr France,Y,FW,89,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-19,Mon,UEFA Nations League,League A,Away,D 2–2,nl Netherlands,de Germany,Y,FW,44,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-22,Sat,Süper Lig,Matchweek 17,Away,L 1–4,Beşiktaş,Kasımpaşa,N,,86,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-20,Sun,Premier League,Matchweek 23,Home,L 1–2,Fulham,Tottenham,Y,LW,54,0,0,0,0,3,1,0,0,25,14,0,1,2,0.5,0.5,0.1,2,0,11,13,84.6,2,21,4,2,3,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 4–2,Fulham,Brighton,Y,"RW,LW",90,0,1,0,0,2,1,1,0,56,8,0,0,1,0.1,0.1,0.8,7,2,42,49,85.7,2,48,5,1,1,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–2,Fulham,Crystal Palace,Y,"LW,RW",87,0,0,0,0,0,0,1,0,45,9,0,0,2,0.0,0.0,0.0,0,0,27,40,67.5,1,41,2,3,3,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 0–3,Fulham,Manchester Utd,Y,"LW,AM",76,0,0,0,0,2,0,0,0,46,14,1,0,1,0.5,0.5,0.0,2,0,24,34,70.6,3,43,6,4,4,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Away,L 1–3,Fulham,West Ham,Y,FW,90,1,0,0,0,3,3,0,0,46,12,0,2,1,1.1,1.1,0.0,1,0,28,35,80.0,1,38,4,1,1,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,L 0–2,Fulham,Southampton,Y,FW,90,0,0,0,0,4,0,0,0,38,10,0,0,1,0.2,0.2,0.1,3,0,23,25,92.0,0,36,4,2,4,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Home,L 1–2,Fulham,Chelsea,Y,RW,70,0,1,0,0,0,0,0,0,33,10,3,3,0,0.0,0.0,0.3,3,1,21,26,80.8,0,26,1,3,3,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,L 1–3,Fulham,Leicester City,Y,"RW,LW",66,0,0,0,0,1,0,1,0,34,30,2,2,1,0.0,0.0,0.0,0,0,14,23,60.9,2,31,4,5,5,Match Report
+2018-2019,2019-03-17,Sun,Premier League,Matchweek 31,Home,L 1–2,Fulham,Liverpool,Y,LW,90,1,0,0,0,2,1,0,0,41,26,0,0,3,0.9,0.9,0.1,5,0,28,34,82.4,1,35,5,2,2,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–2,Fulham,Manchester City,Y,FW,87,0,0,0,0,1,0,0,0,31,16,0,0,0,0.1,0.1,0.0,1,0,15,20,75.0,2,22,3,1,2,Match Report
+2018-2019,2019-04-02,Tue,Premier League,Matchweek 33,Away,L 1–4,Fulham,Watford,Y,LW,80,1,0,0,0,1,1,0,0,47,16,0,0,2,0.7,0.7,0.1,2,1,36,42,85.7,2,41,3,4,4,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 2–0,Fulham,Everton,Y,LW,82,1,1,0,0,1,1,0,0,36,22,3,1,1,0.2,0.2,0.5,4,1,17,21,81.0,4,31,7,2,4,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,W 1–0,Fulham,Bournemouth,Y,LW,85,0,0,0,0,2,0,0,0,49,9,1,2,1,0.3,0.3,0.2,6,0,32,38,84.2,2,35,7,0,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,W 1–0,Fulham,Cardiff City,Y,LW,88,1,0,0,0,3,1,0,0,60,2,0,0,1,0.1,0.1,0.2,5,0,38,52,73.1,5,47,9,2,2,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–1,Fulham,Wolves,Y,"FW,LW",90,0,0,0,0,0,0,0,0,60,18,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,48,6,0,1,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 0–4,Fulham,Newcastle Utd,N,"LW,RB",26,0,0,0,0,0,0,0,0,23,3,0,0,1,0.0,0.0,0.0,0,0,15,18,83.3,2,21,4,4,5,Match Report
+2018-2019,2019-06-06,Thu,UEFA Nations League,Semi-finals,Neutral,W 3–1,nl Netherlands,eng England,Y,FW,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-09,Sun,UEFA Nations League,Final,Neutral,L 0–1,nl Netherlands,pt Portugal,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

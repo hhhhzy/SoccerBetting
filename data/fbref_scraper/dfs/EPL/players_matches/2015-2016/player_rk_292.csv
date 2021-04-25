@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2015-2016,2015-08-08,Sat,Premier League,Matchweek 1,Home,W 4–2,Leicester City,Sunderland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-08-15,Sat,Premier League,Matchweek 2,Away,W 2–1,Leicester City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-08-22,Sat,Premier League,Matchweek 3,Home,D 1–1,Leicester City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-08-25,Tue,League Cup,Second round,Away,W 4–1,Leicester City,Bury,Y,,64,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-09-03,Thu,Euro Qualifying,Group stage,Away,D 0–0,hr Croatia,az Azerbaijan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-09-06,Sun,Euro Qualifying,Group stage,Away,L 0–2,hr Croatia,no Norway,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-09-13,Sun,Premier League,Matchweek 5,Home,W 3–2,Leicester City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-09-19,Sat,Premier League,Matchweek 6,Away,D 2–2,Leicester City,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-09-22,Tue,League Cup,Third round,Home,W 2–1,Leicester City,West Ham,Y,,81,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-09-26,Sat,Premier League,Matchweek 7,Home,L 2–5,Leicester City,Arsenal,N,,13,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,,,Match Report
+2015-2016,2015-10-10,Sat,Euro Qualifying,Group stage,Home,W 3–0,hr Croatia,bg Bulgaria,N,,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2015-10-13,Tue,Euro Qualifying,Group stage,Away,W 1–0,hr Croatia,mt Malta,N,,31,0,0,0,0,1,0,0,0,1,0,1,2,0,0,0,0,0,Match Report
+2015-2016,2015-10-24,Sat,Premier League,Matchweek 10,Home,W 1–0,Leicester City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-10-27,Tue,League Cup,Fourth round,Away,L 1 (4)–1 (5),Leicester City,Hull City,Y,FW,64,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-11-17,Tue,Friendlies (M),Friendlies (M),Away,W 3–1,hr Croatia,ru Russia,N,,4,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2015-12-19,Sat,Premier League,Matchweek 17,Away,W 3–2,Leicester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2015-12-26,Sat,Premier League,Matchweek 18,Away,L 0–1,Leicester City,Liverpool,N,,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+2015-2016,2016-01-23,Sat,Bundesliga,Matchweek 18,Home,D 1–1,Hoffenheim,Leverkusen,N,,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-01-31,Sun,Bundesliga,Matchweek 19,Away,L 0–2,Hoffenheim,Bayern Munich,Y,AM,68,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-02-07,Sun,Bundesliga,Matchweek 20,Home,L 0–2,Hoffenheim,Darmstadt 98,Y,FW,90,0,0,0,0,2,0,0,0,0,1,2,0,0,1,0,0,0,Match Report
+2015-2016,2016-02-13,Sat,Bundesliga,Matchweek 21,Away,D 1–1,Hoffenheim,Werder Bremen,Y,FW,76,1,0,0,0,2,2,2,1,2,0,1,0,0,0,0,0,0,Match Report
+2015-2016,2016-02-28,Sun,Bundesliga,Matchweek 23,Away,L 1–3,Hoffenheim,Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-03-02,Wed,Bundesliga,Matchweek 24,Home,W 2–1,Hoffenheim,Augsburg,N,,19,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Match Report
+2015-2016,2016-03-05,Sat,Bundesliga,Matchweek 25,Away,L 1–5,Hoffenheim,Stuttgart,N,,55,1,0,0,0,4,1,0,0,0,0,0,1,2,0,0,0,0,Match Report
+2015-2016,2016-03-12,Sat,Bundesliga,Matchweek 26,Home,W 1–0,Hoffenheim,Wolfsburg,Y,FW,77,1,0,0,0,2,1,0,0,1,2,0,1,1,0,0,1,0,Match Report
+2015-2016,2016-03-19,Sat,Bundesliga,Matchweek 27,Away,W 3–1,Hoffenheim,Hamburger SV,Y,FW,62,1,0,1,1,3,3,0,0,0,0,0,1,0,0,0,0,0,Match Report
+2015-2016,2016-04-03,Sun,Bundesliga,Matchweek 28,Home,D 1–1,Hoffenheim,Köln,Y,FW,90,0,0,0,0,4,2,0,0,1,1,0,2,0,2,0,0,0,Match Report
+2015-2016,2016-04-09,Sat,Bundesliga,Matchweek 29,Away,W 2–0,Hoffenheim,Eint Frankfurt,Y,FW,90,0,0,0,0,5,4,0,0,0,2,0,1,0,0,0,0,0,Match Report
+2015-2016,2016-04-16,Sat,Bundesliga,Matchweek 30,Home,W 2–1,Hoffenheim,Hertha BSC,Y,FW,90,0,0,0,0,3,1,0,0,0,1,0,1,0,1,0,0,0,Match Report
+2015-2016,2016-04-24,Sun,Bundesliga,Matchweek 31,Away,L 1–3,Hoffenheim,M'Gladbach,Y,FW,90,1,0,0,0,4,3,0,0,0,4,0,1,0,1,0,0,0,Match Report
+2015-2016,2016-04-30,Sat,Bundesliga,Matchweek 32,Home,W 2–1,Hoffenheim,Ingolstadt 04,Y,FW,90,0,1,0,1,2,2,0,0,3,0,0,1,0,0,0,0,0,Match Report
+2015-2016,2016-05-07,Sat,Bundesliga,Matchweek 33,Away,L 0–1,Hoffenheim,Hannover 96,Y,FW,90,0,0,0,0,5,1,0,0,0,1,0,3,1,1,0,0,0,Match Report
+2015-2016,2016-05-14,Sat,Bundesliga,Matchweek 34,Home,L 1–4,Hoffenheim,Schalke 04,Y,FW,90,0,0,0,0,3,2,0,0,1,1,0,2,0,2,0,0,0,Match Report
+2015-2016,2016-05-27,Fri,Friendlies (M),Friendlies (M),Home,W 1–0,hr Croatia,md Moldova,Y,FW,45,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-04,Sat,Friendlies (M),Friendlies (M),Home,W 10–0,hr Croatia,sm San Marino,N,,35,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2015-2016,2016-06-12,Sun,UEFA Euro,Group stage,Away,W 1–0,hr Croatia,tr Turkey,N,,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-06-17,Fri,UEFA Euro,Group stage,Away,D 2–2,hr Croatia,cz Czech Republic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2015-2016,2016-06-21,Tue,UEFA Euro,Group stage,Home,W 2–1,hr Croatia,es Spain,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2015-2016,2016-06-25,Sat,UEFA Euro,Round of 16,Home,L 0–1,hr Croatia,pt Portugal,N,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Match Report

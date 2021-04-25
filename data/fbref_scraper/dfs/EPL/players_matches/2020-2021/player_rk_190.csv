@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Home,D 0–0,West Brom,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,68,10,0,0,2,0.0,0.0,0.0,1,0,37,52,71.2,2,32,0,0,0,Match Report
+2020-2021,2020-11-06,Fri,Pro League,Matchweek 4,Home,D 1–1,Al-Ittihad,Al-Taawoun,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-14,Sat,Africa Cup of Nations qualification,Group stage,Home,W 1–0,eg Egypt,tg Togo,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,W 3–1,eg Egypt,tg Togo,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-23,Mon,Pro League,Matchweek 5,Away,D 1–1,Al-Ittihad,Al-Faisaly,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-27,Fri,Pro League,Matchweek 6,Home,W 1–0,Al-Ittihad,Al-Qadsiah,Y,CB,90,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-06,Sun,Pro League,Matchweek 7,Away,W 2–1,Al-Ittihad,Al-Wehda,Y,CB,90,0,0,0,0,2,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-11,Fri,Pro League,Matchweek 8,Away,D 1–1,Al-Ittihad,Al-Shabab,Y,CB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-21,Mon,Pro League,Matchweek 9,Home,D 0–0,Al-Ittihad,Al-Raed,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Pro League,Matchweek 10,Away,D 1–1,Al-Ittihad,Al-Hilal,Y,CB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-31,Thu,Pro League,Matchweek 11,Away,W 2–1,Al-Ittihad,Al-Batin,Y,CB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,Pro League,Matchweek 12,Home,W 1–0,Al-Ittihad,Damac,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-14,Thu,Pro League,Matchweek 13,Home,L 0–1,Al-Ittihad,Abha,Y,CB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-19,Tue,Pro League,Matchweek 14,Away,W 2–1,Al-Ittihad,Al-Ain,Y,CB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,Pro League,Matchweek 15,Home,D 1–1,Al-Ittihad,Al-Nassr,Y,CB,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Pro League,Matchweek 16,Away,L 0–2,Al-Ittihad,Al-Ettifaq,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-04,Thu,Pro League,Matchweek 17,Home,W 4–1,Al-Ittihad,Al-Fateh,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-11,Thu,Pro League,Matchweek 18,Away,D 1–1,Al-Ittihad,Al-Ahli,Y,CB,90,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-18,Thu,Pro League,Matchweek 19,Away,W 2–1,Al-Ittihad,Al-Taawoun,Y,CB,90,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-23,Tue,Pro League,Matchweek 20,Home,L 1–3,Al-Ittihad,Al-Faisaly,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-05,Fri,Pro League,Matchweek 22,Home,W 4–2,Al-Ittihad,Al-Wehda,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-10,Wed,Pro League,Matchweek 23,Home,W 2–1,Al-Ittihad,Al-Shabab,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,Pro League,Matchweek 24,Away,D 1–1,Al-Ittihad,Al-Raed,Y,CB,36,0,0,0,0,1,1,0,1,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-25,Thu,Africa Cup of Nations qualification,Group stage,Away,D 1–1,eg Egypt,ke Kenya,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-16,Fri,Pro League,Matchweek 26,Home,D 0–0,Al-Ittihad,Al-Batin,Y,CB,90,0,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report

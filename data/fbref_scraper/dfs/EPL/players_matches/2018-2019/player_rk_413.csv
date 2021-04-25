@@ -1,0 +1,47 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-01,Sun,FIFA World Cup,Round of 16,Neutral,L 1 (2)–1 (3),dk Denmark,hr Croatia,Y,GK,120,0,0,0,0,0,0,0,0,55,0,0,0,0,0.0,0.0,0.0,1,0,29,46,63.0,0,25,0,0,0,Match Report
+2018-2019,2018-08-10,Fri,Premier League,Matchweek 1,Away,L 1–2,Leicester City,Manchester Utd,Y,GK,90,0,0,0,0,1,0,0,0,27,0,0,0,0,0.1,0.1,0.0,0,0,14,18,77.8,0,14,0,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,W 2–0,Leicester City,Wolves,Y*,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,16,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,W 2–1,Leicester City,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,11,20,55.0,0,10,0,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,L 1–2,Leicester City,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,15,0,0,0,Match Report
+2018-2019,2018-09-09,Sun,UEFA Nations League,League B,Home,W 2–0,dk Denmark,wal Wales,Y,GK,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 2–4,Leicester City,Bournemouth,Y,GK,90,0,0,0,0,0,0,1,0,30,0,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,18,1,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,W 3–1,Leicester City,Huddersfield,Y*,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,17,0,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,W 2–0,Leicester City,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,25,0,1,1,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,L 1–2,Leicester City,Everton,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,15,0,0,0,Match Report
+2018-2019,2018-10-13,Sat,UEFA Nations League,League B,Away,D 0–0,dk Denmark,ie Republic of Ireland,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Home,W 2–0,dk Denmark,at Austria,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-22,Mon,Premier League,Matchweek 9,Away,L 1–3,Leicester City,Arsenal,Y*,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,10,0,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,D 1–1,Leicester City,West Ham,Y*,GK,90,0,0,0,0,0,0,0,0,23,0,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,1,12,0,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 1–0,Leicester City,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0,0.0,0.0,0.0,0,0,31,40,77.5,0,14,0,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 0–0,Leicester City,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,23,0,0,0,Match Report
+2018-2019,2018-11-16,Fri,UEFA Nations League,League B,Away,W 2–1,dk Denmark,wal Wales,Y,GK,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,D 1–1,Leicester City,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,18,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,W 2–0,Leicester City,Watford,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,14,0,0,0,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,D 1–1,Leicester City,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,54,0,0,0,0,0.0,0.0,0.0,0,0,35,51,68.6,0,28,0,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,L 0–2,Leicester City,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,27,0,0,0,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,L 0–1,Leicester City,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,12,0,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 1–0,Leicester City,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,23,37,62.2,0,15,0,1,1,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,W 2–1,Leicester City,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,13,0,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Home,L 0–1,Leicester City,Cardiff City,Y*,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,15,0,0,0,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Away,W 1–0,Leicester City,Everton,Y*,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,12,0,0,0,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,1,16,0,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 3–4,Leicester City,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,23,0,0,0,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Away,D 1–1,Leicester City,Liverpool,Y*,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,6,26,23.1,0,6,0,0,0,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Home,L 0–1,Leicester City,Manchester Utd,Y*,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,13,22,59.1,0,8,0,0,0,Match Report
+2018-2019,2019-02-10,Sun,Premier League,Matchweek 26,Away,L 1–3,Leicester City,Tottenham,Y*,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,12,0,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,L 1–4,Leicester City,Crystal Palace,Y*,GK,90,0,0,0,0,0,0,1,0,8,0,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–1,Leicester City,Brighton,Y*,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,11,0,0,0,Match Report
+2018-2019,2019-03-03,Sun,Premier League,Matchweek 29,Away,L 1–2,Leicester City,Watford,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,13,0,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–1,Leicester City,Fulham,Y*,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,16,0,0,0,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,W 2–1,Leicester City,Burnley,Y*,GK,90,0,0,0,0,0,0,0,0,53,0,0,0,0,0.0,0.0,0.0,0,0,16,48,33.3,0,16,0,0,0,Match Report
+2018-2019,2019-03-21,Thu,Friendlies (M),Friendlies (M),Away,D 2–2,dk Denmark,xk Kosovo,Y*,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,W 2–0,Leicester City,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,51,0,0,0,0,0.0,0.0,0.0,0,0,37,50,74.0,0,35,0,0,0,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Away,W 4–1,Leicester City,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,0,0,34,44,77.3,0,31,0,0,0,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Home,L 0–1,Leicester City,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,1,0,30,0,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,19,0,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,D 2–2,Leicester City,West Ham,Y*,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,17,0,0,0,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Home,W 3–0,Leicester City,Arsenal,Y*,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.4,2,0,30,33,90.9,0,15,0,0,0,Match Report
+2018-2019,2019-05-06,Mon,Premier League,Matchweek 37,Away,L 0–1,Leicester City,Manchester City,Y*,GK,90,0,0,0,0,0,0,0,0,53,0,0,0,0,0.0,0.0,0.0,0,0,34,50,68.0,0,24,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 0–0,Leicester City,Chelsea,Y*,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,32,44,72.7,0,30,0,0,0,Match Report
+2018-2019,2019-06-07,Fri,Euro Qualifying,Group stage,Home,D 1–1,dk Denmark,ie Republic of Ireland,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-10,Mon,Euro Qualifying,Group stage,Home,W 5–1,dk Denmark,ge Georgia,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

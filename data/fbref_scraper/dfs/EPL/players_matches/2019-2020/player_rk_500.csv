@@ -1,0 +1,29 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,D 0–0,Crystal Palace,Everton,N,FW,8,0,0,0,0,0,0,0,0,5,3,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Match Report
+2019-2020,2019-08-18,Sun,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Sheffield Utd,N,"FW,CM",9,0,0,0,0,0,0,0,0,6,1,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Home,L 0 (4)–0 (5),Crystal Palace,Colchester Utd,Y,FW,62,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-03,Tue,Premier League,Matchweek 15,Home,W 1–0,Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,D 0–0,Crystal Palace,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-16,Mon,Premier League,Matchweek 17,Home,D 1–1,Crystal Palace,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,L 0–1,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 2–1,Crystal Palace,West Ham,N,"FW,RW",16,0,1,0,0,1,1,0,0,12,4,1,0,0,0.3,0.3,0.4,0,0,3,5,60.0,0,7,1,0,1,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,D 1–1,Crystal Palace,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Crystal Palace,Norwich City,N,RM,31,1,0,0,0,1,1,0,0,17,10,0,0,1,0.9,0.9,0.0,1,0,10,13,76.9,1,8,1,1,1,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,L 0–1,Crystal Palace,Derby County,Y,FW,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,D 1–1,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 2–2,Crystal Palace,Manchester City,N,FW,10,0,0,0,0,0,0,0,0,7,6,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,1,0,0,0,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,L 0–2,Crystal Palace,Southampton,N,FW,22,0,0,0,0,2,0,0,0,15,4,0,0,1,0.1,0.1,0.1,1,0,7,10,70.0,0,9,1,1,1,Match Report
+2019-2020,2020-02-08,Sat,Championship,Matchweek 31,Away,D 1–1,Sheffield Weds,Barnsley,Y,FW,79,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-12,Wed,Championship,Matchweek 32,Away,L 0–1,Sheffield Weds,Luton Town,Y,FW,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-15,Sat,Championship,Matchweek 33,Home,L 0–3,Sheffield Weds,Reading,N,,23,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,Championship,Matchweek 34,Away,D 3–3,Sheffield Weds,Birmingham City,N,,45,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-26,Wed,Championship,Matchweek 35,Home,W 1–0,Sheffield Weds,Charlton Ath,Y,FW,74,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Championship,Matchweek 36,Home,L 1–3,Sheffield Weds,Derby County,N,,52,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Championship,Matchweek 37,Away,L 0–5,Sheffield Weds,Brentford,N,,45,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Championship,Matchweek 38,Home,D 1–1,Sheffield Weds,Nott'ham Forest,Y,FW,90,1,0,0,0,5,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-28,Sun,Championship,Matchweek 39,Away,W 2–1,Sheffield Weds,Bristol City,Y,FW,81,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Championship,Matchweek 40,Home,L 0–3,Sheffield Weds,West Brom,Y,FW,90,0,0,0,0,5,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-05,Sun,Championship,Matchweek 41,Away,L 1–2,Sheffield Weds,Swansea City,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-18,Sat,Championship,Matchweek 45,Away,L 3–5,Sheffield Weds,Fulham,N,,45,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Championship,Matchweek 46,Home,L 1–2,Sheffield Weds,Middlesbrough,Y,FW,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

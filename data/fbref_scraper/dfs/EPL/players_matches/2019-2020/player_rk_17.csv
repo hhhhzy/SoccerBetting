@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,L 0–1,Norwich City,Crawley Town,Y,DM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 0–2,Norwich City,West Ham,N,CB,55,0,0,0,0,0,0,0,0,21,6,0,1,2,0.0,0.0,0.0,0,0,15,16,93.8,0,12,1,0,0,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 3–2,Norwich City,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,36,11,0,2,1,0.0,0.0,0.0,0,0,16,22,72.7,0,15,0,0,0,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,CB,90,0,0,0,0,0,0,1,0,73,14,5,0,1,0.0,0.0,0.0,0,0,47,59,79.7,2,39,2,1,2,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,68,11,3,2,1,0.0,0.0,0.0,0,0,53,58,91.4,1,43,1,0,0,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,CB,90,0,0,0,0,1,0,0,0,40,8,4,1,0,0.7,0.7,0.0,0,0,25,29,86.2,2,22,0,0,0,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,CB,90,0,0,0,0,1,0,0,0,67,7,1,1,0,0.1,0.1,0.0,0,0,45,47,95.7,1,34,0,0,0,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,"CB,CM",90,0,0,0,0,0,0,0,0,47,12,1,0,0,0.0,0.0,0.0,0,0,37,40,92.5,0,31,0,0,0,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 0–2,Norwich City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-08,Fri,Premier League,Matchweek 12,Home,L 0–2,Norwich City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–0,Norwich City,Everton,N,AM,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,DM,90,0,0,0,0,3,0,0,0,55,26,4,1,3,0.1,0.1,0.0,1,0,37,39,94.9,1,24,1,0,0,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,CM,45,0,0,0,0,0,0,0,0,42,8,2,2,0,0.0,0.0,0.0,0,0,20,35,57.1,2,22,0,1,1,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 1–2,Norwich City,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 0–1,Norwich City,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,D 2–2,Norwich City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,D 1–1,Norwich City,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Away,W 4–2,Norwich City,Preston,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,N,CM,26,0,0,0,0,1,1,0,0,18,4,1,1,0,0.0,0.0,0.0,0,0,13,14,92.9,2,9,0,0,0,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-08,Sat,La Liga,Matchweek 23,Away,L 0–2,Leganés,Levante,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,La Liga,Matchweek 25,Away,L 0–1,Leganés,Celta Vigo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,La Liga,Matchweek 26,Home,D 1–1,Leganés,Alavés,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-08,Sun,La Liga,Matchweek 27,Away,W 2–1,Leganés,Villarreal,Y,CM,90,0,0,0,0,0,0,0,0,39,21,2,0,0,0.0,0.0,0.0,0,0,27,34,79.4,0,25,2,0,0,Match Report
+2019-2020,2020-06-13,Sat,La Liga,Matchweek 28,Home,L 1–2,Leganés,Valladolid,Y,DM,90,0,0,0,0,0,0,0,0,74,10,2,0,0,0.0,0.0,0.0,0,0,60,68,88.2,6,49,6,0,0,Match Report
+2019-2020,2020-06-16,Tue,La Liga,Matchweek 29,Away,L 0–2,Leganés,Barcelona,N,DM,28,0,0,0,0,0,0,0,0,19,7,0,3,0,0.0,0.0,0.0,0,0,11,15,73.3,0,13,0,0,0,Match Report
+2019-2020,2020-06-19,Fri,La Liga,Matchweek 30,Away,D 1–1,Leganés,Mallorca,Y,DM,61,0,0,0,0,1,0,1,0,26,11,2,0,0,0.0,0.0,0.0,1,0,16,20,80.0,1,14,1,0,0,Match Report
+2019-2020,2020-06-22,Mon,La Liga,Matchweek 31,Home,D 0–0,Leganés,Granada,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-27,Sat,La Liga,Matchweek 32,Away,L 1–2,Leganés,Osasuna,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-30,Tue,La Liga,Matchweek 33,Home,L 0–3,Leganés,Sevilla,Y,DM,90,0,0,0,0,0,0,1,0,43,12,0,1,0,0.0,0.0,0.0,0,0,35,40,87.5,1,31,5,2,3,Match Report
+2019-2020,2020-07-05,Sun,La Liga,Matchweek 34,Away,W 1–0,Leganés,Espanyol,Y,CM,80,0,0,0,0,0,0,0,0,30,19,5,0,2,0.0,0.0,0.0,0,0,17,24,70.8,1,18,3,0,0,Match Report
+2019-2020,2020-07-09,Thu,La Liga,Matchweek 35,Away,D 0–0,Leganés,Eibar,Y,AM,90,0,0,0,0,1,0,0,0,29,11,1,0,1,0.0,0.0,0.0,1,0,13,24,54.2,1,8,0,0,0,Match Report
+2019-2020,2020-07-12,Sun,La Liga,Matchweek 36,Home,W 1–0,Leganés,Valencia,Y,CM,90,0,0,0,0,1,0,0,0,19,23,1,0,0,0.2,0.2,0.0,0,0,13,15,86.7,0,14,2,1,1,Match Report
+2019-2020,2020-07-16,Thu,La Liga,Matchweek 37,Away,W 2–0,Leganés,Athletic Club,Y,DM,74,0,0,0,0,0,0,0,0,37,25,3,0,3,0.0,0.0,0.0,0,0,20,27,74.1,1,14,2,0,0,Match Report
+2019-2020,2020-07-19,Sun,La Liga,Matchweek 38,Home,D 2–2,Leganés,Real Madrid,Y,DM,77,0,0,0,0,1,0,0,0,27,22,0,1,1,0.1,0.1,0.0,0,0,19,25,76.0,3,21,1,0,0,Match Report

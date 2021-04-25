@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-10-07,Sat,Friendlies (M),Friendlies (M),Away,L 2–4,kr Korea Republic,ru Russia,N,,28,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-10,Tue,Friendlies (M),Friendlies (M),Home,L 1–3,kr Korea Republic,ma Morocco,Y*,CM,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,W 2–0,Swansea City,Huddersfield,N,CM,18,0,0,0,0,1,0,0,0,11,1,0,1,0,0.0,0.0,0.0,0,0,8,10,80.0,0,10,2,0,0,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Swansea City,Leicester City,N,CM,45,0,0,0,0,2,0,0,0,28,3,1,1,1,0.0,0.0,0.1,3,0,19,20,95.0,2,15,2,0,0,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Home,L 0–2,Swansea City,Manchester Utd,Y,DM,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,L 1–2,Swansea City,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,38,13,3,1,0,0.0,0.0,0.0,0,0,33,36,91.7,0,32,1,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 0–1,Swansea City,Brighton,Y,DM,90,0,0,0,0,0,0,0,0,56,7,0,0,1,0.0,0.0,0.0,0,0,44,55,80.0,1,38,4,0,0,Match Report
+2017-2018,2017-11-10,Fri,Friendlies (M),Friendlies (M),Home,W 2–1,kr Korea Republic,co Colombia,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Home,D 1–1,kr Korea Republic,rs Serbia,Y*,CM,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,L 0–2,Swansea City,Burnley,N,"CM,DM",21,0,0,0,0,0,0,0,0,14,5,0,0,1,0.0,0.0,0.0,1,0,12,13,92.3,0,10,1,0,0,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,D 0–0,Swansea City,Bournemouth,Y,RM,90,0,0,0,0,0,0,1,0,44,20,0,2,4,0.0,0.0,0.0,0,0,35,39,89.7,2,31,3,1,2,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–1,Swansea City,Chelsea,Y,RM,90,0,0,0,0,0,0,0,0,50,16,0,1,2,0.0,0.0,0.0,0,0,37,44,84.1,1,33,5,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 1–2,Swansea City,Stoke City,Y,DM,90,0,0,0,0,1,1,0,0,73,12,1,1,0,0.0,0.0,0.0,2,1,58,68,85.3,5,48,6,0,1,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,Swansea City,West Brom,Y,CM,90,0,0,0,0,0,0,0,0,45,39,2,2,0,0.0,0.0,0.4,5,0,32,41,78.0,0,25,5,0,0,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Home,L 0–4,Swansea City,Manchester City,Y,DM,90,0,0,0,0,1,0,0,0,24,46,0,2,1,0.3,0.3,0.0,1,0,16,19,84.2,1,11,0,0,0,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,D 1–1,Swansea City,Newcastle Utd,Y,CM,90,0,0,0,0,1,0,0,0,61,10,0,0,1,0.1,0.1,0.1,2,0,53,58,91.4,5,50,6,1,2,Match Report
+2017-2018,2018-01-17,Wed,FA Cup,Third round,Home,W 2–1,Swansea City,Wolves,N,,18,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-22,Mon,Premier League,Matchweek 24,Home,W 1–0,Swansea City,Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,39,10,3,2,1,0.0,0.0,0.0,0,0,29,31,93.5,1,23,1,0,0,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,D 1–1,Swansea City,Notts County,N,,59,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-30,Tue,Premier League,Matchweek 25,Home,W 3–1,Swansea City,Arsenal,Y,DM,90,0,0,0,0,1,0,0,0,43,29,0,1,1,0.0,0.0,0.0,0,0,34,39,87.2,0,32,4,1,1,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,D 1–1,Swansea City,Leicester City,Y,CM,90,0,1,0,0,0,0,0,0,43,15,0,3,0,0.0,0.0,0.2,2,1,29,38,76.3,0,30,3,0,0,Match Report
+2017-2018,2018-02-06,Tue,FA Cup,Fourth round,Home,W 8–1,Swansea City,Notts County,N,,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 1–0,Swansea City,Burnley,Y,DM,90,1,0,0,0,4,2,0,0,55,24,0,0,0,0.1,0.1,0.2,5,0,38,45,84.4,5,42,11,0,2,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Away,D 0–0,Swansea City,Sheffield Weds,Y,CM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 1–4,Swansea City,Brighton,Y,CM,90,0,0,0,0,2,1,0,0,66,13,0,2,2,0.1,0.1,0.0,1,0,44,58,75.9,5,44,5,1,1,Match Report
+2017-2018,2018-02-27,Tue,FA Cup,Fifth round,Home,W 2–0,Swansea City,Sheffield Weds,Y,CM,45,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,W 4–1,Swansea City,West Ham,Y,CM,90,1,1,0,0,2,1,0,0,55,16,1,0,0,0.1,0.1,0.1,1,1,45,53,84.9,4,40,9,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Away,D 0–0,Swansea City,Huddersfield,Y,CM,88,0,0,0,0,0,0,0,0,28,35,4,2,4,0.0,0.0,0.0,0,0,9,14,64.3,0,5,0,0,0,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Home,L 0–3,Swansea City,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-24,Sat,Friendlies (M),Friendlies (M),Away,L 1–2,kr Korea Republic,nir Northern Ireland,Y*,CM,66,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,L 2–3,kr Korea Republic,pl Poland,Y*,CM,79,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,L 0–2,Swansea City,Manchester Utd,Y,DM,45,0,0,0,0,0,0,0,0,8,6,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,4,0,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,D 1–1,Swansea City,West Brom,N,RM,6,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,5,0,2,2,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,D 1–1,Swansea City,Everton,Y,RM,64,0,0,0,0,3,1,0,0,43,17,1,0,2,0.1,0.1,0.0,1,0,30,33,90.9,1,26,3,0,0,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 0–5,Swansea City,Manchester City,Y,DM,64,0,0,0,0,0,0,0,0,16,6,1,2,1,0.0,0.0,0.3,1,0,8,11,72.7,1,7,0,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,L 0–1,Swansea City,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,72,30,3,1,2,0.0,0.0,0.0,0,0,50,62,80.6,0,47,7,0,1,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,L 0–1,Swansea City,Bournemouth,Y,DM,77,0,0,0,0,1,0,0,0,50,15,0,0,1,0.0,0.0,0.0,1,0,39,47,83.0,5,27,1,0,0,Match Report
+2017-2018,2018-05-08,Tue,Premier League,Matchweek 31,Home,L 0–1,Swansea City,Southampton,Y,CM,90,0,0,0,0,1,0,1,0,62,16,1,1,4,0.0,0.0,0.1,4,0,37,53,69.8,5,28,6,0,0,Match Report
+2017-2018,2018-06-01,Fri,Friendlies (M),Friendlies (M),Home,L 1–3,kr Korea Republic,ba Bosnia and Herzegovina,Y*,CB,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-07,Thu,Friendlies (M),Friendlies (M),Home,D 0–0,kr Korea Republic,bo Bolivia,Y*,CM,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-11,Mon,Friendlies (M),Friendlies (M),Home,L 0–2,kr Korea Republic,sn Senegal,Y*,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-18,Mon,FIFA World Cup,Group stage,Neutral,L 0–1,kr Korea Republic,se Sweden,Y*,"DM,CM",90,0,0,0,0,0,0,0,0,61,16,3,1,2,0.0,0.0,0.0,1,0,43,48,89.6,3,37,6,1,2,Match Report
+2017-2018,2018-06-23,Sat,FIFA World Cup,Group stage,Neutral,L 1–2,kr Korea Republic,mx Mexico,Y,"DM,CM",90,0,0,0,0,3,2,0,0,46,29,1,0,3,0.1,0.1,0.0,3,0,33,37,89.2,5,27,5,0,0,Match Report
+2017-2018,2018-06-27,Wed,FIFA World Cup,Group stage,Neutral,W 2–0,kr Korea Republic,de Germany,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

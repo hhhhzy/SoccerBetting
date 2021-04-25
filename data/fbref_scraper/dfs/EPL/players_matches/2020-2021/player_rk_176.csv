@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-05,Sat,UEFA Nations League,League A,Away,W 1–0,eng England,is Iceland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-08,Tue,UEFA Nations League,League A,Away,D 0–0,eng England,dk Denmark,N,,15,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Away,W 3–1,Aston Villa,Burton Albion,Y*,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Home,W 1–0,Aston Villa,Sheffield Utd,Y*,"LW,LM",90,0,0,0,0,3,0,0,0,75,6,0,0,0,0.3,0.3,0.1,7,0,56,65,86.2,10,67,20,1,1,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Away,W 3–0,Aston Villa,Fulham,Y*,LW,90,1,0,0,0,3,1,0,0,56,15,3,0,1,0.3,0.3,0.2,5,2,26,36,72.2,8,43,7,3,4,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 7–2,Aston Villa,Liverpool,Y*,LW,90,2,3,0,0,3,2,0,0,49,23,3,0,0,0.6,0.6,1.6,7,3,28,37,75.7,9,36,13,0,4,Match Report
+2020-2021,2020-10-08,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,wal Wales,Y,AM,75,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League A,Home,W 2–1,eng England,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League A,Home,L 0–1,eng England,dk Denmark,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,W 1–0,Aston Villa,Leicester City,Y*,LW,90,0,0,0,0,0,0,0,0,46,11,0,0,0,0.0,0.0,0.3,5,0,28,36,77.8,8,47,9,12,13,Match Report
+2020-2021,2020-10-23,Fri,Premier League,Matchweek 6,Home,L 0–3,Aston Villa,Leeds United,Y*,LW,90,0,0,0,0,2,1,1,0,44,10,0,0,2,0.5,0.5,0.1,1,0,17,28,60.7,3,40,13,3,4,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,L 3–4,Aston Villa,Southampton,Y*,LW,90,1,1,0,0,6,2,0,0,54,20,0,1,0,0.3,0.3,0.2,6,2,25,38,65.8,3,40,17,2,4,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,W 3–0,Aston Villa,Arsenal,Y*,LW,90,0,1,0,0,5,1,0,0,46,12,1,0,2,0.4,0.4,0.3,6,2,28,34,82.4,7,35,10,2,3,Match Report
+2020-2021,2020-11-12,Thu,Friendlies (M),Friendlies (M),Home,W 3–0,eng England,ie Republic of Ireland,Y,FW,61,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-15,Sun,UEFA Nations League,League A,Away,L 0–2,eng England,be Belgium,Y,AM,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-18,Wed,UEFA Nations League,League A,Home,W 4–0,eng England,is Iceland,Y,FW,75,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,L 1–2,Aston Villa,Brighton,Y*,"LW,AM",90,0,0,0,0,1,0,1,0,74,12,3,1,0,0.0,0.0,0.2,5,0,44,57,77.2,6,60,18,1,3,Match Report
+2020-2021,2020-11-30,Mon,Premier League,Matchweek 10,Away,L 1–2,Aston Villa,West Ham,Y*,"LW,CM",90,1,0,0,0,3,2,0,0,61,7,1,0,1,0.2,0.2,0.4,12,0,41,49,83.7,9,50,16,8,9,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,W 1–0,Aston Villa,Wolves,Y*,LW,90,0,0,0,0,3,0,1,0,60,19,1,1,3,0.1,0.1,0.1,6,0,28,41,68.3,4,34,6,0,3,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Home,D 0–0,Aston Villa,Burnley,Y*,AM,90,0,0,0,0,6,0,0,0,65,12,0,1,0,0.3,0.3,0.4,12,0,45,52,86.5,9,51,17,3,4,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Away,W 3–0,Aston Villa,West Brom,Y*,AM,90,0,1,0,0,1,1,0,0,90,14,1,1,1,0.0,0.0,0.5,12,3,72,83,86.7,13,75,25,3,4,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 3–0,Aston Villa,Crystal Palace,Y*,"LW,AM",90,0,0,0,0,2,1,1,0,45,13,1,0,3,0.4,0.4,0.9,9,1,27,36,75.0,7,32,9,1,1,Match Report
+2020-2021,2020-12-28,Mon,Premier League,Matchweek 16,Away,D 1–1,Aston Villa,Chelsea,Y*,AM,90,0,0,0,0,1,1,0,0,46,13,1,1,1,0.0,0.0,0.1,5,1,23,35,65.7,5,34,6,5,6,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Away,L 1–2,Aston Villa,Manchester Utd,Y*,AM,90,0,1,0,0,0,0,0,0,74,18,2,0,0,0.0,0.0,1.0,7,1,50,62,80.6,9,52,10,0,1,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 1,Away,L 0–2,Aston Villa,Manchester City,Y*,"LW,RW",90,0,0,0,0,0,0,0,0,52,16,2,2,2,0.0,0.0,0.3,3,0,32,41,78.0,7,41,7,4,4,Match Report
+2020-2021,2021-01-23,Sat,Premier League,Matchweek 11,Home,W 2–0,Aston Villa,Newcastle Utd,Y*,"LW,AM",87,0,1,0,0,1,0,0,0,75,9,0,0,1,0.1,0.1,0.2,5,1,54,63,85.7,6,49,14,1,1,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,L 2–3,Aston Villa,Burnley,Y*,LW,90,1,0,0,0,3,3,0,0,61,3,0,1,0,0.5,0.5,0.3,8,2,41,51,80.4,8,47,21,1,3,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 1–0,Aston Villa,Southampton,Y*,LW,90,0,1,0,0,0,0,0,0,59,13,3,0,2,0.0,0.0,0.2,4,1,29,40,72.5,4,38,9,1,5,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–3,Aston Villa,West Ham,Y*,LW,90,0,1,0,0,1,0,0,0,59,7,0,0,1,0.1,0.1,0.4,5,1,38,51,74.5,11,51,12,2,2,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 1–0,Aston Villa,Arsenal,Y*,LW,90,0,0,0,0,1,1,1,0,47,13,0,2,3,0.1,0.1,0.2,4,0,25,31,80.6,3,37,8,3,7,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,D 0–0,Aston Villa,Brighton,Y*,LW,90,0,0,0,0,1,0,1,0,50,17,1,0,2,0.1,0.1,0.0,0,0,26,36,72.2,1,36,8,1,2,Match Report

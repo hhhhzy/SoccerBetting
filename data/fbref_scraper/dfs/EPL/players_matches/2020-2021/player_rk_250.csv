@@ -1,0 +1,39 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Home,L 2–5,Manchester City,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 3–0,Manchester City,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,D 1–1,Manchester City,Leeds United,Y,CB,90,0,0,0,0,1,0,0,0,43,5,1,1,1,0.1,0.1,0.0,1,0,28,34,82.4,0,26,2,0,0,Match Report
+2020-2021,2020-10-27,Tue,Champions Lg,Group stage,Away,W 3–0,eng Manchester City,fr Marseille,Y,CB,76,0,0,0,0,0,0,1,0,101,4,0,0,0,0.0,0.0,0.0,0,0,92,99,92.9,3,86,19,0,0,Match Report
+2020-2021,2020-10-31,Sat,Premier League,Matchweek 7,Away,W 1–0,Manchester City,Sheffield Utd,Y,CB,90,0,0,0,0,1,0,0,0,97,5,1,0,2,0.1,0.1,0.2,2,0,80,87,92.0,8,67,9,1,1,Match Report
+2020-2021,2020-11-03,Tue,Champions Lg,Group stage,Home,W 3–0,eng Manchester City,gr Olympiacos,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Home,D 1–1,Manchester City,Liverpool,Y,CB,90,0,0,0,0,0,0,1,0,90,1,0,0,0,0.0,0.0,0.0,0,0,76,86,88.4,5,69,5,0,0,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–2,Manchester City,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,73,7,1,1,0,0.0,0.0,0.0,1,0,66,71,93.0,5,53,10,0,0,Match Report
+2020-2021,2020-11-25,Wed,Champions Lg,Group stage,Away,W 1–0,eng Manchester City,gr Olympiacos,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-01,Tue,Champions Lg,Group stage,Away,D 0–0,eng Manchester City,pt Porto,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-05,Sat,Premier League,Matchweek 11,Home,W 2–0,Manchester City,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-09,Wed,Champions Lg,Group stage,Home,W 3–0,eng Manchester City,fr Marseille,Y,CB,90,0,0,0,0,1,0,0,0,82,7,2,1,0,0.1,0.1,0.0,0,0,70,74,94.6,5,64,8,0,0,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Away,D 0–0,Manchester City,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-15,Tue,Premier League,Matchweek 13,Home,D 1–1,Manchester City,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,W 4–1,Manchester City,Arsenal,Y,CB,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 2–0,Manchester City,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Away,W 3–1,Manchester City,Cheltenham,Y,CB,90,0,0,0,0,1,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 5–0,Manchester City,West Brom,N,CB,39,0,0,0,0,1,0,0,0,52,2,1,0,0,0.1,0.1,0.0,0,0,40,45,88.9,2,29,2,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Manchester City,Sheffield Utd,Y,CB,90,0,0,0,0,2,1,0,0,136,4,1,0,1,0.1,0.1,0.0,0,0,119,130,91.5,4,102,24,0,0,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–0,Manchester City,Burnley,Y,"LB,CB",90,0,0,0,0,0,0,0,0,100,6,2,0,0,0.0,0.0,0.0,0,0,84,92,91.3,6,76,9,1,1,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,W 4–1,Manchester City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Away,W 3–1,Manchester City,Swansea City,Y,CB,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,W 3–0,Manchester City,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,74,4,1,0,1,0.0,0.0,0.0,0,0,63,70,90.0,1,58,4,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 16,Away,W 3–1,Manchester City,Everton,Y,CB,90,0,0,0,0,0,0,0,0,102,9,0,2,1,0.0,0.0,0.0,0,0,84,94,89.4,5,73,7,0,0,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,W 1–0,Manchester City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-24,Wed,Champions Lg,Round of 16,Away,W 2–0,eng Manchester City,de M'Gladbach,Y,CB,90,0,0,0,0,0,0,0,0,117,2,0,1,1,0.0,0.0,0.0,0,0,108,114,94.7,5,86,9,1,1,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 2–1,Manchester City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-02,Tue,Premier League,Matchweek 29,Home,W 4–1,Manchester City,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,114,13,1,1,1,0.0,0.0,0.0,0,0,100,105,95.2,3,93,21,0,0,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Home,L 0–2,Manchester City,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-10,Wed,Premier League,Matchweek 33,Home,W 5–2,Manchester City,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,88,3,0,1,4,0.0,0.0,0.0,0,0,75,80,93.8,3,64,2,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Away,W 3–0,Manchester City,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,74,3,0,0,4,0.0,0.0,0.0,0,0,61,65,93.8,3,53,5,0,0,Match Report
+2020-2021,2021-03-16,Tue,Champions Lg,Round of 16,Home,W 2–0,eng Manchester City,de M'Gladbach,N,CB,21,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,1,24,1,0,0,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Away,W 2–0,Manchester City,Everton,Y,CB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 2–0,Manchester City,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,84,4,2,2,0,0.0,0.0,0.0,0,0,71,77,92.2,5,67,15,0,0,Match Report
+2020-2021,2021-04-06,Tue,Champions Lg,Quarter-finals,Home,W 2–1,eng Manchester City,de Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-14,Wed,Champions Lg,Quarter-finals,Away,W 2–1,eng Manchester City,de Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-17,Sat,FA Cup,Semi-finals,Away,L 0–1,Manchester City,Chelsea,Y,CB,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 32,Away,W 2–1,Manchester City,Aston Villa,N,CB,45,0,0,0,0,0,0,0,0,38,2,0,0,1,0.0,0.0,0.0,0,0,34,36,94.4,0,28,4,0,0,Match Report

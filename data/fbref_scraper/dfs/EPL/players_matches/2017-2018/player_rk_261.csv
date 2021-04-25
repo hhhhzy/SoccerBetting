@@ -1,0 +1,27 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Stoke City,Everton,Y,AM,71,0,0,0,0,1,0,0,0,33,4,0,0,2,0.0,0.0,0.0,1,0,21,25,84.0,2,30,2,3,3,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,W 1–0,Stoke City,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Home,W 4–0,Stoke City,Rochdale,Y,AM,90,0,1,0,0,3,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,D 1–1,Stoke City,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-10,Sun,La Liga,Matchweek 3,Away,L 0–1,Alavés,Celta Vigo,Y,FW,79,0,0,0,0,2,2,0,0,30,37,1,0,0,0.4,0.4,0.0,0,0,12,18,66.7,0,18,1,0,1,Match Report
+2017-2018,2017-09-17,Sun,La Liga,Matchweek 4,Home,L 0–3,Alavés,Villarreal,Y,FW,63,0,0,0,0,0,0,0,0,25,9,0,0,3,0.0,0.0,0.1,2,0,11,12,91.7,0,19,4,1,1,Match Report
+2017-2018,2017-10-14,Sat,La Liga,Matchweek 8,Home,L 0–2,Alavés,Real Sociedad,N,FW,9,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Match Report
+2017-2018,2017-10-21,Sat,La Liga,Matchweek 9,Away,L 0–2,Alavés,Betis,N,FW,10,0,0,0,0,1,1,0,0,7,1,0,0,1,0.4,0.4,0.0,1,0,3,3,100.0,0,7,0,1,1,Match Report
+2017-2018,2017-10-24,Tue,Copa del Rey,Round of 32,Away,W 1–0,Alavés,Getafe,Y,,55,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,La Liga,Matchweek 10,Home,L 1–2,Alavés,Valencia,N,FW,17,0,0,0,0,0,0,0,0,10,0,0,0,1,0.0,0.0,0.0,1,0,6,7,85.7,1,10,2,1,1,Match Report
+2017-2018,2017-11-04,Sat,La Liga,Matchweek 11,Home,W 1–0,Alavés,Espanyol,N,FW,8,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,1,0,0,Match Report
+2017-2018,2017-11-18,Sat,La Liga,Matchweek 12,Away,L 1–4,Alavés,Getafe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,La Liga,Matchweek 13,Home,L 1–2,Alavés,Eibar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-30,Thu,Copa del Rey,Round of 32,Home,W 3–0,Alavés,Getafe,Y,,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-04,Mon,La Liga,Matchweek 14,Away,W 3–2,Alavés,Girona,Y,FW,63,0,0,0,0,0,0,0,0,20,15,1,1,0,0.0,0.0,0.0,0,0,13,18,72.2,0,16,4,0,0,Match Report
+2017-2018,2017-12-08,Fri,La Liga,Matchweek 15,Home,W 2–0,Alavés,Las Palmas,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-16,Sat,La Liga,Matchweek 16,Away,L 0–1,Alavés,Atlético Madrid,N,"FW,RW",13,0,0,0,0,0,0,0,0,7,5,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,6,2,1,1,Match Report
+2017-2018,2017-12-21,Thu,La Liga,Matchweek 17,Home,W 1–0,Alavés,Málaga,N,AM,14,0,0,0,0,0,0,0,0,8,3,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,1,8,0,1,1,Match Report
+2017-2018,2018-01-03,Wed,Copa del Rey,Round of 16,Away,W 3–1,Alavés,SD Formentera,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-07,Sun,La Liga,Matchweek 18,Away,L 0–2,Alavés,Athletic Club,N,"AM,RW",69,0,0,0,0,1,1,0,0,27,16,0,1,1,0.0,0.0,0.0,1,0,17,18,94.4,1,23,2,0,1,Match Report
+2017-2018,2018-02-03,Sat,La Liga,Matchweek 22,Home,W 2–1,Alavés,Celta Vigo,N,FW,16,0,0,0,0,0,0,0,0,8,8,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,7,1,1,1,Match Report
+2017-2018,2018-02-10,Sat,La Liga,Matchweek 23,Away,W 2–1,Alavés,Villarreal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-17,Sat,La Liga,Matchweek 24,Home,W 1–0,Alavés,La Coruña,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-12,Mon,La Liga,Matchweek 28,Home,L 1–3,Alavés,Betis,N,"RM,CM",14,0,0,0,0,1,0,0,0,16,6,0,0,1,0.1,0.1,0.0,0,0,11,14,78.6,0,13,1,0,0,Match Report
+2017-2018,2018-04-29,Sun,La Liga,Matchweek 35,Home,L 0–1,Alavés,Atlético Madrid,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-19,Sat,La Liga,Matchweek 38,Away,L 0–1,Alavés,Sevilla,Y,FW,61,0,0,0,0,0,0,0,0,28,17,0,1,0,0.0,0.0,0.0,1,0,18,21,85.7,1,27,2,3,3,Match Report

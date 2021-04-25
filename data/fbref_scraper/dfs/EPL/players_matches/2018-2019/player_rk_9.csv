@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-07-04,Wed,MLS,Regular Season,Away,L 2–3,Atlanta,FC Dallas,Y,AM,90,0,1,0,0,7,2,0,0,53,10,1,0,1,0.3,0.3,0.6,3,1,34,40,85.0,3,40,7,1,2,Match Report
+2018-2019,2018-07-07,Sat,MLS,Regular Season,Away,W 2–0,Atlanta,Philadelphia,Y,AM,90,0,1,0,0,4,2,0,0,51,7,1,1,1,0.2,0.2,1.1,7,2,25,40,62.5,4,39,12,2,3,Match Report
+2018-2019,2018-07-15,Sun,MLS,Regular Season,Home,D 1–1,Atlanta,Seattle,Y,AM,90,0,0,0,0,3,1,0,0,61,6,2,0,0,0.2,0.2,0.0,2,0,35,50,70.0,2,46,7,1,2,Match Report
+2018-2019,2018-07-21,Sat,MLS,Regular Season,Home,W 3–1,Atlanta,D.C. United,Y,"AM,LW",90,0,0,0,0,4,1,0,0,66,9,2,1,0,0.2,0.2,0.0,8,2,34,50,68.0,8,55,13,1,3,Match Report
+2018-2019,2018-07-28,Sat,MLS,Regular Season,Away,W 2–1,Atlanta,Montreal,Y,AM,90,0,0,0,0,1,1,0,0,50,9,2,0,0,0.3,0.3,0.1,3,1,33,40,82.5,5,44,6,3,4,Match Report
+2018-2019,2018-08-04,Sat,MLS,Regular Season,Home,D 2–2,Atlanta,Toronto FC,Y,AM,90,0,0,0,0,6,2,0,0,68,5,0,0,0,0.9,0.9,0.2,8,0,39,47,83.0,4,54,11,2,5,Match Report
+2018-2019,2018-08-19,Sun,MLS,Regular Season,Home,W 3–1,Atlanta,Columbus,Y,"LW,CM",89,1,0,0,0,6,3,1,0,66,13,0,0,2,0.4,0.4,0.4,10,0,36,46,78.3,7,48,8,1,5,Match Report
+2018-2019,2018-08-24,Fri,MLS,Regular Season,Away,W 2–1,Atlanta,Orlando City,Y,"AM,LW",90,0,0,0,0,3,1,0,0,67,17,2,0,0,0.1,0.1,0.2,7,0,49,57,86.0,7,59,10,2,3,Match Report
+2018-2019,2018-09-02,Sun,MLS,Regular Season,Away,L 1–3,Atlanta,D.C. United,Y,AM,90,0,0,0,0,4,1,0,0,60,12,2,0,0,0.3,0.3,0.5,8,0,41,45,91.1,7,46,13,0,2,Match Report
+2018-2019,2018-09-15,Sat,MLS,Regular Season,Away,W 3–0,Atlanta,Colorado,Y,AM,85,2,0,0,0,3,3,0,0,49,10,1,0,1,0.9,0.9,0.0,3,1,32,39,82.1,5,38,8,0,0,Match Report
+2018-2019,2018-09-19,Wed,MLS,Regular Season,Away,W 4–3,Atlanta,San Jose,Y,CM,90,1,1,0,0,4,2,0,0,80,28,3,1,1,0.4,0.4,0.4,9,1,50,66,75.8,14,59,13,0,0,Match Report
+2018-2019,2018-09-22,Sat,MLS,Regular Season,Home,W 2–0,Atlanta,Real Salt Lake,Y,LW,90,0,1,0,0,5,4,0,0,53,15,0,1,0,0.8,0.8,0.3,7,1,31,37,83.8,10,43,13,1,5,Match Report
+2018-2019,2018-09-30,Sun,MLS,Regular Season,Away,L 0–2,Atlanta,NY Red Bulls,Y,LW,90,0,0,0,0,2,1,0,0,43,9,0,0,0,0.5,0.5,0.0,2,0,14,27,51.9,3,33,5,1,3,Match Report
+2018-2019,2018-10-06,Sat,MLS,Regular Season,Home,W 2–1,Atlanta,New England,Y,AM,29,0,0,0,0,0,0,0,0,15,4,1,0,0,0.0,0.0,0.0,2,1,9,13,69.2,0,15,3,1,1,Match Report
+2018-2019,2018-11-04,Sun,MLS,Conference Semifinals,Away,W 1–0,Atlanta,NYCFC,Y,FW,45,0,0,0,0,0,0,0,0,25,6,1,0,0,0.0,0.0,0.1,2,0,13,17,76.5,1,23,1,4,5,Match Report
+2018-2019,2018-11-11,Sun,MLS,Conference Semifinals,Home,W 3–1,Atlanta,NYCFC,Y,FW,83,1,0,0,0,3,2,0,0,38,16,2,1,0,0.6,0.6,0.0,4,2,15,25,60.0,2,33,5,4,4,Match Report
+2018-2019,2018-11-20,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,py Paraguay,za South Africa,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-25,Sun,MLS,Conference Finals,Home,W 3–0,Atlanta,NY Red Bulls,Y,FW,85,0,0,0,0,3,1,0,0,47,9,3,0,0,0.2,0.2,0.2,2,0,14,30,46.7,1,37,5,2,3,Match Report
+2018-2019,2018-11-29,Thu,MLS,Conference Finals,Away,L 0–1,Atlanta,NY Red Bulls,Y,LW,89,0,0,0,0,0,0,0,0,47,22,6,2,0,0.0,0.0,0.0,1,0,15,27,55.6,4,28,7,1,5,Match Report
+2018-2019,2018-12-08,Sat,MLS,MLS Cup 2018,Home,W 2–0,Atlanta,Portland,Y,FW,89,0,0,0,0,1,1,0,0,53,10,0,0,1,0.0,0.0,0.1,2,0,31,42,73.8,4,44,5,0,0,Match Report
+2018-2019,2019-02-11,Mon,Premier League,Matchweek 26,Away,D 1–1,Newcastle Utd,Wolves,N,"CM,AM",19,0,0,0,0,0,0,0,0,13,7,1,1,0,0.0,0.0,0.3,1,0,9,9,100.0,0,10,1,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,W 2–0,Newcastle Utd,Huddersfield,Y,LM,80,0,0,0,0,4,3,0,0,42,31,1,1,0,0.8,0.8,0.4,8,0,25,32,78.1,4,35,11,1,1,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–0,Newcastle Utd,Burnley,Y,LW,79,0,0,0,0,3,1,0,0,38,27,0,0,1,0.4,0.4,0.1,5,0,21,25,84.0,3,31,5,0,1,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–2,Newcastle Utd,West Ham,Y,"AM,LM,CM",90,0,0,0,0,1,0,0,0,40,35,4,0,2,0.0,0.0,0.0,2,0,25,28,89.3,1,30,7,1,2,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–2,Newcastle Utd,Everton,Y,LW,90,0,0,0,0,3,1,0,0,57,18,4,0,5,0.1,0.0,0.0,1,1,20,32,62.5,0,33,11,1,3,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,D 2–2,Newcastle Utd,Bournemouth,Y,LW,81,0,0,0,0,0,0,0,0,42,26,1,0,0,0.0,0.0,0.1,4,1,22,34,64.7,0,36,7,0,0,Match Report
+2018-2019,2019-03-22,Fri,Friendlies (M),Friendlies (M),Neutral,L 0–1,py Paraguay,pe Peru,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-26,Tue,Friendlies (M),Friendlies (M),Neutral,L 2–4,py Paraguay,mx Mexico,N,,8,0,0,0,0,,,0,1,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-01,Mon,Premier League,Matchweek 32,Away,L 0–2,Newcastle Utd,Arsenal,Y,LW,90,0,0,0,0,0,0,0,0,28,30,2,1,0,0.0,0.0,0.0,0,0,12,21,57.1,4,26,8,1,2,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Home,L 0–1,Newcastle Utd,Crystal Palace,Y,LW,90,0,0,0,0,2,0,0,0,54,19,0,1,2,0.2,0.2,0.0,5,0,35,44,79.5,4,43,4,0,1,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Away,W 1–0,Newcastle Utd,Leicester City,Y,AM,77,0,0,0,0,4,2,0,0,37,24,1,0,3,0.2,0.2,0.0,0,0,14,22,63.6,3,26,6,0,2,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,W 3–1,Newcastle Utd,Southampton,Y,LW,63,0,0,0,0,2,1,0,0,33,14,3,0,3,0.1,0.1,0.0,2,0,5,13,38.5,0,24,5,3,4,Match Report
+2018-2019,2019-06-09,Sun,Friendlies (M),Friendlies (M),Home,W 2–0,py Paraguay,gt Guatemala,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-16,Sun,Copa América,Group stage,Neutral,D 2–2,py Paraguay,qa Qatar,Y,AM,90,0,1,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-19,Wed,Copa América,Group stage,Neutral,D 1–1,py Paraguay,ar Argentina,Y,AM,86,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-23,Sun,Copa América,Group stage,Neutral,L 0–1,py Paraguay,co Colombia,Y,AM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-27,Thu,Copa América,Quarter-finals,Neutral,L 0 (3)–0 (4),py Paraguay,br Brazil,Y,AM,120,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report

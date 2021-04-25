@@ -1,0 +1,30 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,D 2–2,Wolves,Everton,N,FW,20,0,0,0,0,0,0,0,0,11,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,10,0,0,0,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 0–2,Wolves,Leicester City,N,"LW,FW,RW",45,0,0,0,0,2,0,0,0,22,7,0,0,0,0.2,0.2,0.0,1,0,10,17,58.8,1,17,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,D 1–1,Wolves,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 2–0,Wolves,Sheffield Weds,Y,FW,79,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 1–0,Wolves,West Ham,N,RW,19,0,1,0,0,1,1,0,0,11,3,1,0,0,0.3,0.3,0.2,2,1,7,9,77.8,1,8,3,0,0,Match Report
+2018-2019,2018-09-16,Sun,Premier League,Matchweek 5,Home,W 1–0,Wolves,Burnley,N,FW,15,0,0,0,0,5,0,0,0,14,2,0,0,0,0.9,0.9,0.0,1,0,5,7,71.4,0,11,1,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 1–1,Wolves,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,D 0 (1)–0 (3),Wolves,Leicester City,Y,FW,82,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,W 2–0,Wolves,Southampton,N,FW,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,W 1–0,Wolves,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–2,Wolves,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,L 0–1,Wolves,Brighton,N,WB,6,0,0,0,0,1,0,0,0,3,0,0,0,0,0.1,0.1,0.1,1,0,2,2,100.0,0,2,1,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 2–3,Wolves,Tottenham,N,LW,29,0,0,0,0,0,0,0,0,17,7,1,0,0,0.0,0.0,0.0,3,2,11,13,84.6,2,13,1,0,1,Match Report
+2018-2019,2018-11-25,Sun,Premier League,Matchweek 13,Home,L 0–2,Wolves,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-30,Fri,Premier League,Matchweek 14,Away,L 1–2,Wolves,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Home,W 2–1,Wolves,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-09,Sun,Premier League,Matchweek 16,Away,W 2–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-21,Fri,Premier League,Matchweek 18,Home,L 0–2,Wolves,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 1–1,Wolves,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,W 3–1,Wolves,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,L 0–2,Wolves,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-02,Sat,Championship,Matchweek 30,Away,L 0–2,Nott'ham Forest,Birmingham City,N,,31,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-09,Sat,Championship,Matchweek 31,Home,W 2–1,Nott'ham Forest,Brentford,Y,AM,45,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-12,Tue,Championship,Matchweek 32,Away,D 2–2,Nott'ham Forest,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-16,Sat,Championship,Matchweek 33,Away,D 0–0,Nott'ham Forest,Preston,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-25,Mon,Championship,Matchweek 34,Home,W 1–0,Nott'ham Forest,Derby County,N,,6,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Championship,Matchweek 35,Away,L 0–2,Nott'ham Forest,Stoke City,N,,20,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-09,Sat,Championship,Matchweek 36,Home,W 3–0,Nott'ham Forest,Hull City,Y,FW,58,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-13,Wed,Championship,Matchweek 37,Home,L 1–3,Nott'ham Forest,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

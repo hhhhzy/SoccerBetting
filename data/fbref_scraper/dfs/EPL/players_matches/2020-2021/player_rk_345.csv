@@ -1,0 +1,26 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Fulham,Arsenal,Y,AM,74,0,0,0,0,0,0,0,0,31,23,1,0,1,0.0,0.0,0.0,0,0,18,23,78.3,1,20,3,0,0,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 3–4,Fulham,Leeds United,Y,AM,57,0,0,0,0,0,0,0,0,27,9,1,0,0,0.0,0.0,0.0,1,0,20,23,87.0,2,21,0,0,0,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Home,W 2–0,Fulham,Sheffield Weds,Y,DM,61,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-01,Thu,EFL Cup,Fourth round,Away,L 0–3,Fulham,Brentford,Y,AM,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-11,Fri,PL2 — Div. 2,Matchweek 11,Home,W 3–1,Fulham,Middlesbrough,Y,CM,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Away,L 1–7,Fulham,Leeds Utd U23,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,W 2–0,Fulham,QPR,Y,AM,120,0,1,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 16,Away,D 1–1,Fulham,Tottenham,N,FW,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Fulham,Chelsea,N,FW,12,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,5,1,0,0,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 18,Home,L 1–2,Fulham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Home,L 0–3,Fulham,Burnley,Y,DM,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 0–0,Fulham,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,D 2–2,Fulham,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–2,Fulham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,D 0–0,Fulham,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,W 2–0,Fulham,Everton,N,DM,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 17,Away,D 1–1,Fulham,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,W 1–0,Fulham,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Away,D 0–0,Fulham,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 33,Home,L 0–1,Fulham,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 0–3,Fulham,Manchester City,N,CM,18,0,0,0,0,1,0,0,0,20,8,2,0,1,0.2,0.2,0.0,0,0,12,13,92.3,0,14,1,1,1,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 1–3,Fulham,Aston Villa,N,DM,8,0,0,0,0,2,1,0,0,7,11,0,0,1,0.3,0.3,0.0,0,0,2,2,100.0,0,4,1,0,0,Match Report
+2020-2021,2021-04-09,Fri,Premier League,Matchweek 31,Home,L 0–1,Fulham,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-18,Sun,Premier League,Matchweek 32,Away,D 1–1,Fulham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

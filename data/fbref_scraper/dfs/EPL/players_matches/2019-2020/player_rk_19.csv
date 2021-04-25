@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Away,W 3–0,Brighton,Watford,N,AM,27,1,0,0,0,1,1,0,0,10,5,1,0,1,0.1,0.1,0.0,0,0,3,4,75.0,0,5,1,1,2,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,D 1–1,Brighton,West Ham,N,FW,17,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,0,0,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,"RM,FW,AM",29,0,0,0,0,0,0,0,1,12,1,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,8,1,1,1,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,L 1–2,ro Romania,es Spain,N,,35,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-08,Sun,Euro Qualifying,Group stage,Home,W 1–0,ro Romania,mt Malta,Y,FW,90,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-18,Wed,Champions Lg,Group stage,Away,D 0–0,tr Galatasaray,be Club Brugge,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-22,Sun,Süper Lig,Matchweek 5,Away,D 1–1,Galatasaray,Yeni Mal'spor,Y,FW,83,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-01,Tue,Champions Lg,Group stage,Home,L 0–1,tr Galatasaray,fr Paris S-G,N,FW,27,0,0,0,0,0,0,0,0,9,10,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,1,4,0,0,0,Match Report
+2019-2020,2019-10-05,Sat,Süper Lig,Matchweek 7,Away,D 0–0,Galatasaray,Gençlerbirliği,Y,FW,85,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Away,W 3–0,ro Romania,fo Faroe Islands,Y,FW,64,0,0,0,0,5,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Home,D 1–1,ro Romania,no Norway,N,,28,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-18,Fri,Süper Lig,Matchweek 8,Home,W 3–2,Galatasaray,Sivasspor,Y,FW,90,2,0,1,1,6,3,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-22,Tue,Champions Lg,Group stage,Home,L 0–1,tr Galatasaray,es Real Madrid,Y,FW,90,0,0,0,0,7,2,0,0,33,24,0,0,1,0.5,0.5,0.0,1,0,12,18,66.7,0,20,2,1,2,Match Report
+2019-2020,2019-10-27,Sun,Süper Lig,Matchweek 9,Away,L 0–1,Galatasaray,Beşiktaş,Y,FW,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-01,Fri,Süper Lig,Matchweek 10,Home,W 2–0,Galatasaray,Rizespor,Y,FW,90,0,0,0,0,5,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-06,Wed,Champions Lg,Group stage,Away,L 0–6,tr Galatasaray,es Real Madrid,Y,FW,45,0,0,0,0,1,0,0,0,16,23,1,0,1,0.0,0.0,0.0,1,0,6,9,66.7,0,4,0,0,0,Match Report
+2019-2020,2019-11-09,Sat,Süper Lig,Matchweek 11,Away,W 2–0,Galatasaray,Gaziantep FK,Y,FW,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-09,Sun,Süper Lig,Matchweek 21,Away,W 3–0,Galatasaray,Kasımpaşa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-16,Sun,Süper Lig,Matchweek 22,Home,W 1–0,Galatasaray,Yeni Mal'spor,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-23,Sun,Süper Lig,Matchweek 23,Away,W 3–1,Galatasaray,Fenerbahçe,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-01,Sun,Süper Lig,Matchweek 24,Home,W 3–0,Galatasaray,Gençlerbirliği,N,,12,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-15,Sun,Süper Lig,Matchweek 26,Home,D 0–0,Galatasaray,Beşiktaş,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-14,Sun,Süper Lig,Matchweek 27,Away,L 0–2,Galatasaray,Rizespor,N,,26,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

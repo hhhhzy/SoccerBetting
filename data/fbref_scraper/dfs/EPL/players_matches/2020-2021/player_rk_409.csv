@@ -1,0 +1,33 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-17,Thu,EFL Cup,Second round,Home,W 4–0,Brighton,Portsmouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 2–0,Brighton,Preston,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Home,L 0–3,Brighton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,PL2 — Div. 1,Matchweek 4,Away,W 3–2,Brighton,West Ham,Y,GK,90,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-17,Sat,PL2 — Div. 1,Matchweek 5,Home,W 1–0,Brighton,Liverpool,Y*,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Brighton,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,15,0,0,0,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Away,W 1–0,Brighton,Southampton,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 0–0,Brighton,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0,0.0,0.0,0.0,0,0,23,41,56.1,0,32,0,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,0,0,32,40,80.0,0,25,0,0,0,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 2–2,Brighton,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,49,0,0,0,0,0.0,0.0,0.0,0,0,30,47,63.8,0,30,0,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Home,L 0–1,Brighton,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,20,0,0,0,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Home,D 3–3,Brighton,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,35,36,97.2,0,18,0,0,0,Match Report
+2020-2021,2021-01-10,Sun,FA Cup,Third round,Away,W 1 (4)–1 (3),Brighton,Newport County,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-13,Wed,Premier League,Matchweek 18,Away,L 0–1,Brighton,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,0,0,26,40,65.0,0,17,0,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 1–0,Brighton,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,19,36,52.8,0,12,0,0,0,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 2–1,Brighton,Blackpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 0–0,Brighton,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,16,30,53.3,0,16,0,0,0,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,W 1–0,Brighton,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,16,0,0,0,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 1–0,Brighton,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,25,0,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 1–1,Brighton,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,59,0,0,0,0,0.0,0.0,0.0,0,0,26,53,49.1,0,28,0,0,0,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,D 0–0,Brighton,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,43,0,0,0,0,0.0,0.0,0.0,0,0,40,43,93.0,0,29,0,0,0,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Home,L 1–2,Brighton,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,17,0,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,13,0,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,L 0–1,Brighton,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,0,0,37,44,84.1,0,33,0,0,0,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,L 1–2,Brighton,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,38,1,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,21,0,0,0,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,W 2–1,Brighton,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,0,16,0,0,0,Match Report
+2020-2021,2021-03-20,Sat,Premier League,Matchweek 29,Home,W 3–0,Brighton,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,62,0,0,0,0,0.0,0.0,0.0,0,0,49,62,79.0,0,49,0,0,0,Match Report
+2020-2021,2021-03-25,Thu,WCQ — UEFA (M),First round,Home,D 1–1,es Spain,gr Greece,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–1,es Spain,ge Georgia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-31,Wed,WCQ — UEFA (M),First round,Home,W 3–1,es Spain,xk Kosovo,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 1–2,Brighton,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,48,0,0,0,0,0.0,0.0,0.0,0,0,28,46,60.9,0,24,0,0,0,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Home,D 0–0,Brighton,Everton,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,21,0,0,0,Match Report
+2020-2021,2021-04-20,Tue,Premier League,Matchweek 32,Away,D 0–0,Brighton,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,43,0,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,23,0,0,0,Match Report

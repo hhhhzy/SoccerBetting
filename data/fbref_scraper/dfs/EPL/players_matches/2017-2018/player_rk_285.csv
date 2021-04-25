@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-07-27,Thu,Europa Lg,Third qualifying round,Home,W 1–0,eng Everton,sk Ružomberok,N,,8,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-03,Thu,Europa Lg,Third qualifying round,Away,W 1–0,eng Everton,sk Ružomberok,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,W 1–0,Everton,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-17,Thu,Europa Lg,Play-off Round,Home,W 2–0,eng Everton,hr Hajduk Split,Y,AM,90,0,0,0,0,2,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-21,Mon,Premier League,Matchweek 2,Away,D 1–1,Everton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-24,Thu,Europa Lg,Play-off Round,Away,D 1–1,eng Everton,hr Hajduk Split,Y,AM,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,L 0–2,Everton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-10,Sun,PL2 — Div. 1,Regular Season,Home,W 4–1,Everton,Tottenham,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-20,Wed,EFL Cup,Third round,Home,W 3–0,Everton,Sunderland,N,,18,0,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,W 2–1,Everton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-28,Thu,Europa Lg,Group stage,Home,D 2–2,eng Everton,cy Apollon Limassol,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Home,L 0–1,Everton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-19,Thu,Europa Lg,Group stage,Home,L 1–2,eng Everton,fr Lyon,N,,45,0,0,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-22,Sun,Premier League,Matchweek 9,Home,L 2–5,Everton,Arsenal,N,AM,17,0,0,0,0,0,0,0,0,10,5,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,7,1,1,1,Match Report
+2017-2018,2017-10-25,Wed,EFL Cup,Fourth round,Away,L 1–2,Everton,Chelsea,N,,18,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-29,Sun,Premier League,Matchweek 10,Away,L 0–2,Everton,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-02,Thu,Europa Lg,Group stage,Away,L 0–3,eng Everton,fr Lyon,Y,FW,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Home,W 3–2,Everton,Watford,N,CM,36,0,0,0,0,0,0,0,0,17,13,0,1,2,0.0,0.0,0.7,1,1,4,10,40.0,1,13,4,2,3,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Away,D 2–2,Everton,Crystal Palace,Y,LW,45,0,0,0,0,2,0,0,0,15,16,2,1,1,0.1,0.1,0.0,0,0,4,4,100.0,2,8,2,1,1,Match Report
+2017-2018,2017-11-23,Thu,Europa Lg,Group stage,Home,L 1–5,eng Everton,it Atalanta,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Away,L 1–4,Everton,Southampton,N,"AM,FW",27,0,0,0,0,0,0,0,0,10,3,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,9,1,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Home,W 4–0,Everton,West Ham,N,RM,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Home,W 2–0,Everton,Huddersfield,N,"RM,AM",20,0,0,0,0,0,0,0,0,16,6,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,0,12,0,0,2,Match Report
+2017-2018,2017-12-07,Thu,Europa Lg,Group stage,Away,W 3–0,eng Everton,cy Apollon Limassol,Y,AM,90,2,0,0,0,4,4,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-10,Sun,Premier League,Matchweek 16,Away,D 1–1,Everton,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-13,Wed,Premier League,Matchweek 17,Away,W 1–0,Everton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-18,Mon,Premier League,Matchweek 18,Home,W 3–1,Everton,Swansea City,N,RW,12,0,0,0,0,1,0,0,0,10,5,0,1,0,0.0,0.0,0.0,1,0,4,6,66.7,0,9,3,0,2,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 0–0,Everton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-05,Fri,FA Cup,Third round,Away,L 1–2,Everton,Liverpool,N,,39,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,L 0–4,Everton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Bundesliga,Matchweek 21,Away,W 1–0,RB Leipzig,M'Gladbach,N,LW,12,1,0,0,0,1,1,0,0,8,1,0,0,0,0.1,0.1,0.0,0,0,2,4,50.0,0,7,2,0,0,Match Report
+2017-2018,2018-02-09,Fri,Bundesliga,Matchweek 22,Home,W 2–0,RB Leipzig,Augsburg,N,AM,11,0,0,0,0,0,0,0,0,5,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,2,0,0,Match Report
+2017-2018,2018-02-19,Mon,Bundesliga,Matchweek 23,Away,L 1–2,RB Leipzig,Eint Frankfurt,Y,LW,76,0,0,0,0,2,0,0,0,38,10,0,0,1,0.1,0.1,0.2,3,0,22,29,75.9,3,30,7,2,3,Match Report
+2017-2018,2018-02-25,Sun,Bundesliga,Matchweek 24,Home,L 1–2,RB Leipzig,Köln,Y,RW,59,0,0,0,0,2,0,0,0,32,7,0,0,0,0.4,0.4,0.0,3,1,22,28,78.6,2,31,5,2,3,Match Report
+2017-2018,2018-03-03,Sat,Bundesliga,Matchweek 25,Home,D 1–1,RB Leipzig,Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-11,Sun,Bundesliga,Matchweek 26,Away,D 0–0,RB Leipzig,Stuttgart,Y,LM,45,0,0,0,0,0,0,0,0,22,6,1,2,1,0.0,0.0,0.0,0,0,12,18,66.7,2,15,4,2,2,Match Report
+2017-2018,2018-03-18,Sun,Bundesliga,Matchweek 27,Home,W 2–1,RB Leipzig,Bayern Munich,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Bundesliga,Matchweek 28,Away,W 3–2,RB Leipzig,Hannover 96,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-09,Mon,Bundesliga,Matchweek 29,Home,L 1–4,RB Leipzig,Leverkusen,N,RM,21,0,0,0,0,0,0,0,0,19,5,0,1,0,0.0,0.0,0.1,2,0,12,15,80.0,2,13,3,1,2,Match Report
+2017-2018,2018-04-15,Sun,Bundesliga,Matchweek 30,Away,D 1–1,RB Leipzig,Werder Bremen,N,"LW,RW,WB",45,1,0,0,0,1,1,0,0,21,8,1,0,1,0.3,0.3,0.4,4,1,6,11,54.5,2,25,4,6,9,Match Report
+2017-2018,2018-04-21,Sat,Bundesliga,Matchweek 31,Home,L 2–5,RB Leipzig,Hoffenheim,Y,RW,90,0,1,0,0,2,1,0,0,48,15,0,0,0,0.5,0.5,1.0,7,2,36,39,92.3,4,44,10,3,3,Match Report
+2017-2018,2018-04-29,Sun,Bundesliga,Matchweek 32,Away,L 0–3,RB Leipzig,Mainz 05,Y,AM,64,0,0,0,0,0,0,0,0,34,5,0,0,1,0.0,0.0,1.0,3,0,17,24,70.8,3,27,4,0,1,Match Report
+2017-2018,2018-05-05,Sat,Bundesliga,Matchweek 33,Home,W 4–1,RB Leipzig,Wolfsburg,Y,LM,90,2,0,0,0,4,2,0,0,53,12,1,0,1,0.9,0.9,0.2,4,0,24,39,61.5,1,46,11,2,7,Match Report
+2017-2018,2018-05-12,Sat,Bundesliga,Matchweek 34,Away,W 6–2,RB Leipzig,Hertha BSC,Y,CM,62,1,2,0,0,1,1,1,0,32,14,1,0,0,0.0,0.0,0.5,6,2,20,24,83.3,5,28,5,1,1,Match Report

@@ -1,0 +1,42 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-05,Sat,Championship,Matchweek 1,Home,W 1–0,Preston,Sheffield Weds,N,,23,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-08,Tue,EFL Cup,First round,Away,L 2–3,Preston,Acc'ton Stanley,Y,FW,90,2,0,0,0,5,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-12,Sat,Championship,Matchweek 2,Away,D 0–0,Preston,Leeds United,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-15,Tue,Championship,Matchweek 3,Away,L 0–1,Preston,Derby County,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-19,Sat,Championship,Matchweek 4,Home,W 1–0,Preston,Reading,Y,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Championship,Matchweek 5,Away,D 0–0,Preston,Middlesbrough,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Championship,Matchweek 6,Home,D 1–1,Preston,Barnsley,Y,FW,90,0,0,0,0,2,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-12,Tue,Championship,Matchweek 7,Home,W 3–0,Preston,Cardiff City,Y,FW,90,0,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Championship,Matchweek 8,Away,W 3–1,Preston,Birmingham City,Y,FW,90,1,0,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Championship,Matchweek 9,Home,D 0–0,Preston,Millwall,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-26,Tue,Championship,Matchweek 10,Away,W 2–1,Preston,Hull City,Y,FW,67,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Championship,Matchweek 11,Home,D 2–2,Preston,Sunderland,Y,FW,77,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,Championship,Matchweek 12,Away,D 2–2,Preston,Fulham,Y,FW,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Championship,Matchweek 13,Away,L 2–3,Preston,Wolves,Y,FW,90,1,0,0,0,2,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Championship,Matchweek 14,Home,L 2–3,Preston,Brentford,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-01,Wed,Championship,Matchweek 15,Home,L 0–2,Preston,Aston Villa,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,Championship,Matchweek 16,Away,L 0–3,Preston,Ipswich Town,Y,FW,90,0,0,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-21,Tue,Championship,Matchweek 18,Away,W 2–1,Preston,Bristol City,Y,FW,90,0,1,0,0,5,2,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Championship,Matchweek 19,Away,D 1–1,Preston,Norwich City,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Championship,Matchweek 20,Home,W 1–0,Preston,QPR,Y,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-09,Sat,Championship,Matchweek 21,Away,W 2–1,Preston,Burton Albion,Y,FW,62,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-16,Sat,Championship,Matchweek 22,Home,W 1–0,Preston,Sheffield Utd,Y,FW,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Championship,Matchweek 23,Home,D 1–1,Preston,Nott'ham Forest,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-26,Tue,Championship,Matchweek 24,Away,D 0–0,Preston,Barnsley,Y,FW,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-29,Fri,Championship,Matchweek 25,Away,W 1–0,Preston,Cardiff City,Y,FW,90,0,0,0,0,2,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-01,Mon,Championship,Matchweek 26,Home,L 2–3,Preston,Middlesbrough,Y,FW,90,1,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Championship,Matchweek 27,Away,D 1–1,Preston,Millwall,Y,FW,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-20,Sat,Championship,Matchweek 28,Home,D 1–1,Preston,Birmingham City,Y,FW,57,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-27,Sat,FA Cup,Fourth round,Away,L 0–1,Preston,Sheffield Utd,N,,23,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–3,West Ham,Brighton,N,FW,11,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 2–0,West Ham,Watford,N,FW,3,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 1–4,West Ham,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 1–4,West Ham,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,L 0–3,West Ham,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 3–0,West Ham,Southampton,N,FW,11,0,0,0,0,0,0,0,0,6,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,0,0,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Away,D 1–1,West Ham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-16,Mon,Premier League,Matchweek 34,Home,D 1–1,West Ham,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 1–4,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,L 1–4,West Ham,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,W 2–0,West Ham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Home,D 0–0,West Ham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

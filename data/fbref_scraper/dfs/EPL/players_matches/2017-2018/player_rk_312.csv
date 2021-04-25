@@ -1,0 +1,24 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-19,Sat,Super League,Matchweek 1,Away,W 2–1,PAS Giannina,Asteras Tripoli,Y,CB,90,1,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Super League,Matchweek 2,Home,D 0–0,PAS Giannina,AEK Athens,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Super League,Matchweek 3,Away,D 0–0,PAS Giannina,Atromitos,Y,DM,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-18,Mon,Super League,Matchweek 4,Home,D 1–1,PAS Giannina,Panionios,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-24,Sun,Super League,Matchweek 5,Away,L 0–1,PAS Giannina,PAOK,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Super League,Matchweek 6,Away,L 0–2,PAS Giannina,Panathinaikos,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-21,Sat,Super League,Matchweek 8,Away,D 1–1,PAS Giannina,Levadiakos,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Super League,Matchweek 9,Home,W 2–1,PAS Giannina,Kerkyra,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Super League,Matchweek 10,Away,L 3–4,PAS Giannina,Apollon Smyrni,Y,CB,90,1,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-19,Sun,Super League,Matchweek 11,Home,D 1–1,PAS Giannina,Panetolikos,Y*,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Super League,Matchweek 12,Home,D 1–1,PAS Giannina,Xanthi,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-03,Sun,Super League,Matchweek 13,Away,D 1–1,PAS Giannina,Larissa,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-10,Sun,Super League,Matchweek 14,Home,D 1–1,PAS Giannina,PAS Lamia,Y,CB,90,1,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-17,Sun,Super League,Matchweek 15,Away,L 0–1,PAS Giannina,Olympiacos,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-10,Wed,EFL Cup,Semi-finals,Away,D 0–0,Arsenal,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-15,Mon,PL2 — Div. 1,Regular Season,Home,W 4–0,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-28,Sun,PL2 — Div. 1,Regular Season,Away,W 3–1,Arsenal,Sunderland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-05,Mon,PL2 — Div. 1,Regular Season,Home,W 4–0,Arsenal,Everton,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-19,Mon,PL2 — Div. 1,Regular Season,Away,L 1–3,Arsenal,Leicester City,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,PL2 — Div. 1,Regular Season,Home,W 3–1,Arsenal,Chelsea,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Away,L 1–2,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,46,2,1,2,3,0.0,0.0,0.0,0,0,31,35,88.6,1,29,4,0,0,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Home,W 5–0,Arsenal,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,64,2,1,2,1,0.0,0.0,0.0,0,0,45,52,86.5,1,37,7,0,0,Match Report
+2017-2018,2018-05-09,Wed,Premier League,Matchweek 31,Away,L 1–3,Arsenal,Leicester City,Y,"DM,CB",14,0,0,0,0,0,0,0,1,10,0,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,0,0,0,Match Report

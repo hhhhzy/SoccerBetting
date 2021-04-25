@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Away,L 3–4,Leeds United,Liverpool,N,CM,10,0,0,0,0,0,0,0,0,6,2,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,1,1,Match Report
+2020-2021,2020-09-16,Wed,EFL Cup,Second round,Home,L 1 (8)–1 (9),Leeds United,Hull City,Y,RB,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-19,Sat,Premier League,Matchweek 2,Home,W 4–3,Leeds United,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Away,W 1–0,Leeds United,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,PL2 — Div. 2,Matchweek 3,Away,W 3–1,Leeds Utd U23,Sunderland,Y,CM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,D 1–1,Leeds United,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-19,Mon,Premier League,Matchweek 5,Home,L 0–1,Leeds United,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-23,Fri,Premier League,Matchweek 6,Away,W 3–0,Leeds United,Aston Villa,N,CM,70,0,0,0,0,0,0,0,0,33,9,1,1,2,0.0,0.0,0.1,3,0,19,25,76.0,1,15,2,0,2,Match Report
+2020-2021,2020-11-02,Mon,Premier League,Matchweek 7,Home,L 1–4,Leeds United,Leicester City,Y,CM,45,0,0,0,0,0,0,0,0,19,5,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,15,1,0,0,Match Report
+2020-2021,2020-12-11,Fri,Premier League,Matchweek 12,Home,L 1–2,Leeds United,West Ham,N,"RB,LB",45,0,0,0,0,0,0,0,0,33,10,0,1,2,0.0,0.0,0.1,1,0,26,29,89.7,1,25,5,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Home,W 5–2,Leeds United,Newcastle Utd,N,CM,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Away,L 2–6,Leeds United,Manchester Utd,N,RB,45,0,0,0,0,0,0,0,0,22,10,0,1,1,0.0,0.0,0.0,0,0,18,18,100.0,1,10,1,0,0,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Home,W 1–0,Leeds United,Burnley,N,DM,25,0,0,0,0,0,0,0,0,12,2,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,2,6,1,0,0,Match Report
+2020-2021,2020-12-29,Tue,Premier League,Matchweek 16,Away,W 5–0,Leeds United,West Brom,N,CM,33,0,0,0,0,0,0,0,0,18,3,1,1,0,0.0,0.0,0.0,1,1,14,16,87.5,0,12,1,0,0,Match Report
+2020-2021,2021-01-02,Sat,Premier League,Matchweek 17,Away,L 0–3,Leeds United,Tottenham,N,RB,27,0,0,0,0,0,0,0,0,18,4,2,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,12,1,0,0,Match Report
+2020-2021,2021-01-10,Sun,FA Cup,Third round,Away,L 0–3,Leeds United,Crawley Town,Y,RM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Leeds United,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 2–1,Leeds United,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Away,W 3–1,Leeds United,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-01,Mon,PL2 — Div. 2,Matchweek 16,Home,W 2–0,Leeds Utd U23,Sunderland,N,,45,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–2,Leeds United,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-08,Mon,Premier League,Matchweek 23,Home,W 2–0,Leeds United,Crystal Palace,N,DM,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Away,L 2–4,Leeds United,Arsenal,Y,"RB,CM",90,0,0,0,0,0,0,0,0,45,17,1,1,0,0.0,0.0,0.0,1,0,37,41,90.2,2,28,2,0,0,Match Report
+2020-2021,2021-02-19,Fri,Premier League,Matchweek 25,Away,L 0–1,Leeds United,Wolves,Y,CM,65,0,0,0,0,0,0,0,0,32,10,1,0,2,0.0,0.0,0.0,0,0,28,29,96.6,0,15,2,0,0,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,D 0–0,Leeds United,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-15,Mon,PL2 — Div. 2,Matchweek 21,Home,W 2–1,Leeds Utd U23,Newcastle Utd,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-19,Fri,Premier League,Matchweek 29,Away,W 2–1,Leeds United,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-22,Mon,PL2 — Div. 2,Matchweek 22,Away,W 5–0,Leeds Utd U23,West Brom,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Home,W 2–1,Leeds United,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Away,W 2–1,Leeds United,Manchester City,N,RW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-04-19,Mon,Premier League,Matchweek 32,Home,D 1–1,Leeds United,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

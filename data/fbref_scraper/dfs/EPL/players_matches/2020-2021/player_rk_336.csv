@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-11,Fri,PL2 — Div. 1,Matchweek 1,Away,W 2–1,Southampton,Arsenal,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-18,Fri,PL2 — Div. 1,Matchweek 2,Home,L 1–4,Southampton,Chelsea,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-26,Sat,PL2 — Div. 1,Matchweek 3,Home,D 2–2,Southampton,West Ham,Y,FW,88,2,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,PL2 — Div. 1,Matchweek 5,Home,L 0–1,Southampton,Blackburn,N,,36,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Home,W 2–0,Southampton,Everton,N,FW,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,W 4–3,Southampton,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Home,W 2–0,Southampton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-07,Sat,PL2 — Div. 1,Matchweek 8,Home,W 5–2,Southampton,Manchester City,Y,FW,90,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-23,Mon,Premier League,Matchweek 9,Away,D 1–1,Southampton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-29,Sun,Premier League,Matchweek 10,Home,L 2–3,Southampton,Manchester Utd,N,RB,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Home,L 0–1,Southampton,Brighton,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-04,Fri,PL2 — Div. 1,Matchweek 7,Away,L 1–3,Southampton,Manchester Utd,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Home,W 3–0,Southampton,Sheffield Utd,N,FW,7,0,0,0,0,0,0,0,0,4,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 1–1,Southampton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,L 0–1,Southampton,Manchester City,N,FW,9,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,1,1,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,D 0–0,Southampton,Fulham,N,FW,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-01-04,Mon,Premier League,Matchweek 17,Home,W 1–0,Southampton,Liverpool,N,FW,14,0,0,0,0,0,0,0,0,7,2,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,2,4,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,L 0–2,Southampton,Leicester City,N,"FW,LM",30,0,0,0,0,1,0,0,0,13,10,0,0,1,0.1,0.1,0.0,1,0,7,10,70.0,1,6,1,1,1,Match Report
+2020-2021,2021-01-19,Tue,FA Cup,Third round,Home,W 2–0,Southampton,Shrewsbury,Y,FW,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 1–0,Southampton,Arsenal,N,,13,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–3,Southampton,Arsenal,N,"FW,RM",17,0,0,0,0,0,0,0,0,10,3,0,0,2,0.0,0.0,0.0,0,0,4,5,80.0,0,7,0,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Home,L 0–1,Southampton,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 0–9,Southampton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,L 2–3,Southampton,Newcastle Utd,N,"FW,CB",10,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2020-2021,2021-02-11,Thu,FA Cup,Fifth round,Away,W 2–0,Southampton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,L 1–2,Southampton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Home,D 1–1,Southampton,Chelsea,N,FW,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2020-2021,2021-02-23,Tue,Premier League,Matchweek 18,Away,L 0–3,Southampton,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Away,L 0–1,Southampton,Everton,N,FW,14,0,0,0,0,0,0,0,0,4,2,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,W 2–0,Southampton,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-10,Wed,Premier League,Matchweek 33,Away,L 2–5,Southampton,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Home,L 1–2,Southampton,Brighton,N,"FW,CM",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2020-2021,2021-03-15,Mon,PL2 — Div. 1,Matchweek 21,Away,L 1–7,Southampton,Manchester City,Y,FW,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,FA Cup,Quarter-finals,Away,W 3–0,Southampton,Bournemouth,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-12,Mon,PL2 — Div. 1,Matchweek 15,Away,L 1–3,Southampton,Chelsea,Y,FW,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-18,Sun,FA Cup,Semi-finals,Away,L 0–1,Southampton,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 29,Away,L 1–2,Southampton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

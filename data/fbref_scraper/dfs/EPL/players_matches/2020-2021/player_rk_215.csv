@@ -1,0 +1,38 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-12,Sat,Premier League,Matchweek 1,Away,W 2–0,Newcastle Utd,West Ham,N,"LM,FW",16,0,0,0,0,1,0,0,0,13,4,1,0,0,0.0,0.0,0.0,2,0,8,9,88.9,0,11,1,2,2,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Home,W 1–0,Newcastle Utd,Blackburn,Y,FW,72,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 0–3,Newcastle Utd,Brighton,N,CM,19,0,0,0,0,0,0,0,0,9,6,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Match Report
+2020-2021,2020-09-23,Wed,EFL Cup,Third round,Away,W 7–0,Newcastle Utd,Morecambe,Y,FW,90,2,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Premier League,Matchweek 3,Away,D 1–1,Newcastle Utd,Tottenham,Y,LW,90,0,0,0,0,0,0,1,0,40,20,1,0,5,0.0,0.0,0.0,2,1,24,30,80.0,0,24,4,2,3,Match Report
+2020-2021,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 1 (5)–1 (4),Newcastle Utd,Newport County,N,,29,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 3–1,Newcastle Utd,Burnley,Y,FW,89,0,0,0,0,1,1,1,0,55,12,1,0,1,0.0,0.0,0.0,1,0,35,45,77.8,4,41,7,1,1,Match Report
+2020-2021,2020-10-17,Sat,Premier League,Matchweek 5,Home,L 1–4,Newcastle Utd,Manchester Utd,Y,RM,71,0,0,0,0,0,0,0,0,34,15,2,1,2,0.0,0.0,0.0,2,0,12,21,57.1,0,21,1,1,3,Match Report
+2020-2021,2020-10-25,Sun,Premier League,Matchweek 6,Away,D 1–1,Newcastle Utd,Wolves,N,"CM,FW,LW",13,0,0,0,0,0,0,0,0,8,0,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,6,0,0,0,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,W 2–1,Newcastle Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Away,L 0–2,Newcastle Utd,Southampton,N,WB,12,0,0,0,0,1,1,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Home,L 0–2,Newcastle Utd,Chelsea,Y,FW,90,0,0,0,0,2,0,0,0,36,9,0,0,2,0.1,0.1,0.1,2,0,19,25,76.0,1,28,8,2,3,Match Report
+2020-2021,2020-11-27,Fri,Premier League,Matchweek 10,Away,W 2–0,Newcastle Utd,Crystal Palace,Y,FW,89,1,1,0,0,7,3,0,0,58,14,3,2,0,0.8,0.8,0.3,4,2,24,36,66.7,2,33,6,2,5,Match Report
+2020-2021,2020-12-12,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,West Brom,Y,"FW,LM",90,0,1,0,0,2,1,0,0,42,16,2,0,2,0.1,0.1,0.6,3,1,22,27,81.5,1,26,1,1,2,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,L 2–5,Newcastle Utd,Leeds United,Y,FW,73,0,0,0,0,1,0,0,0,39,15,3,0,0,0.0,0.0,0.0,0,0,20,26,76.9,1,27,2,4,5,Match Report
+2020-2021,2020-12-19,Sat,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,Y,FW,74,0,0,0,0,2,1,0,0,28,19,3,0,0,0.3,0.3,0.0,1,0,11,20,55.0,1,24,3,2,2,Match Report
+2020-2021,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,L 0–1,Newcastle Utd,Brentford,N,,26,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–2,Newcastle Utd,Manchester City,Y,FW,70,0,0,0,0,2,0,0,0,29,27,1,0,1,0.1,0.1,0.0,1,0,13,19,68.4,0,15,2,0,0,Match Report
+2020-2021,2020-12-30,Wed,Premier League,Matchweek 16,Home,D 0–0,Newcastle Utd,Liverpool,Y,AM,90,0,0,0,0,2,0,0,0,43,13,1,0,1,0.1,0.1,0.0,3,0,23,29,79.3,1,29,4,0,1,Match Report
+2020-2021,2021-01-03,Sun,Premier League,Matchweek 17,Home,L 1–2,Newcastle Utd,Leicester City,Y,LW,64,0,0,0,0,1,1,0,0,38,15,2,2,1,0.0,0.0,0.0,1,0,19,23,82.6,0,24,2,1,2,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Away,L 0–2,Newcastle Utd,Arsenal,Y,LM,80,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Premier League,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-18,Mon,Premier League,Matchweek 19,Away,L 0–3,Newcastle Utd,Arsenal,Y,"LM,FW",90,0,0,0,0,0,0,0,0,33,17,2,1,3,0.0,0.0,0.0,0,0,15,25,60.0,0,20,0,1,3,Match Report
+2020-2021,2021-01-23,Sat,Premier League,Matchweek 11,Away,L 0–2,Newcastle Utd,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 2–0,Newcastle Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-02,Tue,Premier League,Matchweek 22,Home,L 1–2,Newcastle Utd,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 3–2,Newcastle Utd,Southampton,N,"FW,CM",55,0,0,0,0,0,0,0,0,30,15,0,3,6,0.0,0.0,0.0,2,0,7,14,50.0,2,15,1,2,3,Match Report
+2020-2021,2021-02-15,Mon,Premier League,Matchweek 24,Away,L 0–2,Newcastle Utd,Chelsea,N,RW,27,0,0,0,0,0,0,0,0,18,6,3,0,1,0.0,0.0,0.1,1,0,8,9,88.9,1,13,1,1,2,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,L 1–3,Newcastle Utd,Manchester Utd,Y,FW,54,0,0,0,0,2,1,1,0,26,14,2,2,1,0.1,0.1,0.0,3,0,15,15,100.0,2,15,3,1,2,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Home,D 1–1,Newcastle Utd,Wolves,Y,"RW,FW",90,0,0,0,0,3,2,0,0,40,21,4,0,1,0.4,0.4,0.1,2,0,21,28,75.0,0,28,3,1,2,Match Report
+2020-2021,2021-03-07,Sun,Premier League,Matchweek 27,Away,D 0–0,Newcastle Utd,West Brom,Y,FW,90,0,0,0,0,4,2,0,0,35,12,0,1,0,0.2,0.2,0.0,1,0,13,19,68.4,1,33,4,4,4,Match Report
+2020-2021,2021-03-12,Fri,Premier League,Matchweek 28,Home,D 1–1,Newcastle Utd,Aston Villa,Y,RW,90,0,0,0,0,2,0,0,0,54,25,2,1,4,0.4,0.4,0.1,3,0,17,26,65.4,2,40,7,4,9,Match Report
+2020-2021,2021-03-20,Sat,Premier League,Matchweek 29,Away,L 0–3,Newcastle Utd,Brighton,Y,RW,90,0,0,0,0,0,0,0,0,32,5,0,0,0,0.0,0.0,0.0,1,0,16,20,80.0,1,24,2,1,1,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,D 2–2,Newcastle Utd,Tottenham,Y,FW,90,1,0,0,0,3,2,0,0,45,27,4,3,1,0.7,0.7,0.5,3,0,18,24,75.0,0,26,4,1,2,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Away,W 2–1,Newcastle Utd,Burnley,Y,FW,56,0,0,0,0,2,1,0,0,18,10,1,0,1,0.2,0.2,0.0,1,0,8,10,80.0,0,12,2,1,2,Match Report
+2020-2021,2021-04-17,Sat,Premier League,Matchweek 32,Home,W 3–2,Newcastle Utd,West Ham,Y,FW,89,1,0,0,0,2,2,0,0,35,17,1,1,1,0.9,0.9,0.2,4,1,14,18,77.8,1,25,5,1,3,Match Report

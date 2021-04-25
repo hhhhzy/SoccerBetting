@@ -1,0 +1,33 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-11-26,Mon,PL2 — Div. 1,Matchweek 11,Away,L 0–5,Arsenal,Derby County,Y,CB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 1–0,Arsenal,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-13,Thu,Europa Lg,Group stage,Home,W 1–0,eng Arsenal,az Qarabağ Ağdam,Y*,CB,71,0,0,0,0,0,0,0,0,64,3,2,0,0,0.0,0.0,0.0,0,0,60,61,98.4,0,51,3,0,0,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Away,L 2–3,Arsenal,Southampton,Y*,CB,90,0,0,0,0,1,0,1,0,103,10,2,3,3,0.1,0.1,0.0,0,0,86,94,91.5,3,72,0,0,0,Match Report
+2018-2019,2018-12-19,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Arsenal,Tottenham,N,,45,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 1–1,Arsenal,Brighton,Y*,CB,69,0,0,0,0,0,0,0,0,83,7,1,2,3,0.0,0.0,0.0,2,0,70,74,94.6,1,64,3,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,L 1–5,Arsenal,Liverpool,N,CB,45,0,0,0,0,0,0,0,0,41,9,0,0,2,0.0,0.0,0.0,0,0,36,38,94.7,1,36,3,0,0,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Home,W 4–1,Arsenal,Fulham,Y*,CB,90,0,0,0,0,0,0,0,0,75,5,1,0,3,0.0,0.0,0.0,0,0,58,68,85.3,2,49,0,0,0,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,L 0–1,Arsenal,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,96,7,2,1,0,0.0,0.0,0.0,0,0,88,90,97.8,6,77,7,0,0,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–0,Arsenal,Chelsea,Y*,CB,90,1,0,0,0,2,2,0,0,52,10,1,0,2,0.6,0.6,0.0,1,0,29,33,87.9,1,23,0,0,0,Match Report
+2018-2019,2019-01-25,Fri,FA Cup,Fourth round,Home,L 1–3,Arsenal,Manchester Utd,Y*,CB,63,0,0,0,0,0,0,1,0,,,,4,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Away,L 1–3,Arsenal,Manchester City,Y*,CB,90,1,0,0,0,1,1,0,0,49,7,1,1,3,0.6,0.6,0.0,0,0,32,37,86.5,2,27,0,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 2–1,Arsenal,Huddersfield,Y*,CB,90,0,0,0,0,0,0,0,0,61,5,2,0,3,0.0,0.0,0.0,1,0,36,40,90.0,2,27,1,0,0,Match Report
+2018-2019,2019-02-14,Thu,Europa Lg,Round of 32,Away,L 0–1,eng Arsenal,by BATE Borisov,Y*,CB,90,0,0,0,0,0,0,0,0,74,9,1,0,0,0.0,0.0,0.0,0,0,66,67,98.5,0,47,3,0,0,Match Report
+2018-2019,2019-02-21,Thu,Europa Lg,Round of 32,Home,W 3–0,eng Arsenal,by BATE Borisov,Y*,CB,55,0,0,0,0,0,0,0,0,40,9,1,1,2,0.0,0.0,0.0,0,0,27,33,81.8,2,17,0,0,0,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Home,W 2–0,Arsenal,Southampton,N,CB,35,0,0,0,0,0,0,0,0,20,2,0,1,0,0.0,0.0,0.0,0,0,15,17,88.2,0,14,0,0,0,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 5–1,Arsenal,Bournemouth,Y*,CB,90,1,0,0,0,1,1,0,0,81,9,2,3,1,0.4,0.4,0.0,0,0,67,70,95.7,1,59,3,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,D 1–1,Arsenal,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,33,8,1,1,0,0.0,0.0,0.0,0,0,13,18,72.2,0,9,0,0,0,Match Report
+2018-2019,2019-03-07,Thu,Europa Lg,Round of 16,Away,L 1–3,eng Arsenal,fr Rennes,Y*,CB,90,0,0,0,0,0,0,0,0,46,4,1,1,0,0.0,0.0,0.0,0,0,41,41,100.0,1,32,0,0,0,Match Report
+2018-2019,2019-03-10,Sun,Premier League,Matchweek 30,Home,W 2–0,Arsenal,Manchester Utd,Y*,CB,90,0,0,0,0,0,0,0,0,43,10,2,0,1,0.0,0.0,0.1,1,0,30,34,88.2,1,29,1,0,0,Match Report
+2018-2019,2019-03-14,Thu,Europa Lg,Round of 16,Home,W 3–0,eng Arsenal,fr Rennes,Y*,CB,90,0,0,0,0,0,0,0,0,43,2,0,1,1,0.0,0.0,0.0,0,0,30,36,83.3,0,24,0,0,0,Match Report
+2018-2019,2019-04-11,Thu,Europa Lg,Quarter-finals,Home,W 2–0,eng Arsenal,it Napoli,Y*,CB,90,0,0,0,0,1,0,0,0,49,10,0,1,1,0.1,0.1,0.0,1,1,32,41,78.0,0,31,0,0,0,Match Report
+2018-2019,2019-04-15,Mon,Premier League,Matchweek 34,Away,W 1–0,Arsenal,Watford,Y*,CB,90,0,0,0,0,0,0,0,0,68,7,1,4,3,0.0,0.0,0.0,0,0,52,53,98.1,1,45,3,0,0,Match Report
+2018-2019,2019-04-18,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Arsenal,it Napoli,Y*,CB,90,0,0,0,0,0,0,0,0,25,7,1,0,2,0.0,0.0,0.0,0,0,7,12,58.3,0,10,0,0,0,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Home,L 2–3,Arsenal,Crystal Palace,Y*,CB,90,0,0,0,0,0,0,0,0,84,8,2,2,1,0.0,0.0,0.0,0,0,71,74,95.9,2,64,10,1,2,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Away,L 1–3,Arsenal,Wolves,Y*,CB,90,0,0,0,0,0,0,0,0,82,3,0,1,2,0.0,0.0,0.0,0,0,76,80,95.0,2,68,4,0,0,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Away,L 0–3,Arsenal,Leicester City,N,CB,45,0,0,0,0,0,0,0,0,23,2,1,2,0,0.0,0.0,0.0,1,0,16,20,80.0,0,12,0,0,0,Match Report
+2018-2019,2019-05-02,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Arsenal,es Valencia,Y*,CB,81,0,0,0,0,0,0,0,0,54,8,1,1,2,0.0,0.0,0.0,0,0,38,45,84.4,3,37,9,0,0,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Home,D 1–1,Arsenal,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-05-09,Thu,Europa Lg,Semi-finals,Away,W 4–2,eng Arsenal,es Valencia,Y*,CB,90,0,0,0,0,0,0,0,0,38,3,1,0,0,0.0,0.0,0.0,0,0,25,31,80.6,2,21,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,W 3–1,Arsenal,Burnley,N,CB,57,0,0,0,0,0,0,0,0,40,2,0,0,0,0.0,0.0,0.0,0,0,30,31,96.8,0,24,0,0,0,Match Report
+2018-2019,2019-05-29,Wed,Europa Lg,Final,Away,L 1–4,eng Arsenal,eng Chelsea,Y*,CB,90,0,0,0,0,0,0,0,0,51,15,1,2,1,0.0,0.0,0.0,0,0,40,42,95.2,3,30,1,0,0,Match Report

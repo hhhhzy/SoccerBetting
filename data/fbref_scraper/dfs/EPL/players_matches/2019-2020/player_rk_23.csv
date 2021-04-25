@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Home,L 1–2,Southampton,Liverpool,N,FW,23,0,0,0,0,0,0,0,0,12,7,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,0,0,0,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–0,Southampton,Brighton,N,CM,7,0,0,0,0,1,1,0,0,1,4,0,0,0,0.3,0.3,0.0,0,0,0,0,,0,1,0,0,0,Match Report
+2019-2020,2019-08-27,Tue,EFL Cup,Second round,Away,W 1–0,Southampton,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,D 1–1,Southampton,Manchester Utd,N,LM,20,0,0,0,0,0,0,1,0,11,3,3,0,2,0.0,0.0,0.0,0,0,3,3,100.0,1,5,1,0,1,Match Report
+2019-2020,2019-09-06,Fri,Euro Qualifying,Group stage,Home,L 1–2,sco Scotland,ru Russia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-09,Mon,Euro Qualifying,Group stage,Home,L 0–4,sco Scotland,be Belgium,N,,23,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,W 1–0,Southampton,Sheffield Utd,N,AM,6,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+2019-2020,2019-09-20,Fri,Premier League,Matchweek 6,Home,L 1–3,Southampton,Bournemouth,N,RW,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,1,0,0,Match Report
+2019-2020,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Southampton,Portsmouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 1–2,Southampton,Tottenham,N,"DM,CB",12,0,0,0,0,1,0,0,0,9,1,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,4,0,0,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Home,L 1–4,Southampton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-10,Thu,Euro Qualifying,Group stage,Away,L 0–4,sco Scotland,ru Russia,N,,9,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-13,Sun,Euro Qualifying,Group stage,Home,W 6–0,sco Scotland,sm San Marino,N,,21,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 1–1,Southampton,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-25,Fri,Premier League,Matchweek 10,Home,L 0–9,Southampton,Leicester City,N,RM,21,0,0,0,0,0,0,0,0,12,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,12,2,2,2,Match Report
+2019-2020,2019-10-29,Tue,EFL Cup,Fourth round,Away,L 1–3,Southampton,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 1–2,Southampton,Manchester City,Y,CM,90,0,0,0,0,1,1,0,0,33,17,2,1,5,0.1,0.1,0.0,1,1,15,18,83.3,1,13,1,0,0,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,L 1–2,Southampton,Everton,Y,WB,89,0,0,0,0,0,0,0,0,49,19,3,1,2,0.0,0.0,0.0,0,0,25,35,71.4,2,27,2,2,3,Match Report
+2019-2020,2019-11-16,Sat,Euro Qualifying,Group stage,Away,W 2–1,sco Scotland,cy Cyprus,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-19,Tue,Euro Qualifying,Group stage,Home,W 3–1,sco Scotland,kz Kazakhstan,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,RM,85,0,0,0,0,2,0,0,0,37,24,2,0,1,0.0,0.0,0.0,2,0,19,25,76.0,1,27,3,1,3,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,L 0–1,Southampton,West Ham,N,FW,7,0,0,0,0,0,0,0,0,9,0,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,1,8,0,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,Y,RM,75,0,0,0,0,0,0,0,0,36,26,2,3,2,0.0,0.0,0.0,1,0,16,23,69.6,2,22,5,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,W 2–0,Southampton,Chelsea,Y,RM,85,0,0,0,0,1,0,0,0,52,31,7,0,4,0.0,0.0,0.2,1,0,21,31,67.7,3,28,5,3,4,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,D 1–1,Southampton,Crystal Palace,N,"RM,LM",23,0,0,0,0,0,0,0,0,9,4,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 1–0,Southampton,Tottenham,Y,RM,89,0,0,0,0,3,1,0,0,42,25,1,0,0,0.1,0.1,0.3,2,0,19,26,73.1,2,28,3,1,3,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,W 2–0,Southampton,Huddersfield,N,,21,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,RM,77,1,0,0,0,3,2,1,0,28,18,5,0,0,0.1,0.1,0.2,2,0,14,17,82.4,1,13,2,1,1,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,L 2–3,Southampton,Wolves,Y,RM,70,0,0,0,0,1,1,0,0,34,18,1,0,1,0.0,0.0,0.0,2,1,16,23,69.6,2,24,3,4,8,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,Y,RM,90,1,0,0,0,6,3,0,0,57,25,3,0,1,0.2,0.2,0.0,4,0,30,42,71.4,5,41,5,1,3,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Home,D 1–1,Southampton,Tottenham,Y,RM,42,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-05,Wed,FA Cup,Fourth round,Away,L 2–3,Southampton,Tottenham,N,,24,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Home,L 1–2,Southampton,Burnley,Y,"AM,WB",90,0,0,0,0,3,0,0,0,59,21,3,1,1,0.1,0.1,0.0,0,0,29,40,72.5,4,39,10,0,2,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,Y,RM,90,1,0,0,0,7,2,1,0,40,27,3,0,1,0.6,0.6,0.1,8,0,25,29,86.2,6,28,8,1,2,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 1–3,Southampton,West Ham,Y,"RM,AM",90,0,0,0,0,2,0,0,0,53,7,1,0,0,0.0,0.0,0.0,1,1,31,44,70.5,3,48,8,3,4,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Away,W 3–0,Southampton,Norwich City,Y,RM,81,1,1,0,0,3,3,0,0,43,15,1,1,0,0.2,0.2,0.0,3,2,19,26,73.1,0,30,5,2,3,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Home,L 0–2,Southampton,Arsenal,Y,RM,90,0,0,0,0,4,1,0,0,32,21,3,0,0,0.2,0.2,0.0,1,0,22,25,88.0,1,20,2,2,2,Match Report
+2019-2020,2020-06-28,Sun,Premier League,Matchweek 32,Away,W 3–1,Southampton,Watford,N,RM,26,0,0,0,0,0,0,0,0,23,6,3,2,0,0.0,0.0,0.0,2,0,10,12,83.3,4,11,3,1,1,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 1–0,Southampton,Manchester City,Y,RM,89,0,1,0,0,2,2,0,0,37,23,2,0,1,0.2,0.2,0.1,3,2,17,26,65.4,1,22,3,1,2,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Away,D 1–1,Southampton,Everton,Y,RM,87,0,1,0,0,2,0,1,0,55,14,2,0,1,0.2,0.2,0.0,8,1,35,44,79.5,8,45,3,4,6,Match Report
+2019-2020,2020-07-13,Mon,Premier League,Matchweek 35,Away,D 2–2,Southampton,Manchester Utd,Y,RM,68,1,0,0,0,2,2,0,0,29,27,0,0,0,0.5,0.5,0.2,3,0,19,21,90.5,3,21,3,1,1,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Home,D 1–1,Southampton,Brighton,N,RM,13,0,0,0,0,0,0,0,0,8,0,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,2,0,0,Match Report
+2019-2020,2020-07-19,Sun,Premier League,Matchweek 37,Away,W 2–0,Southampton,Bournemouth,Y,RM,90,0,0,0,0,2,0,0,0,44,12,2,0,1,0.1,0.1,0.1,4,1,24,34,70.6,5,34,3,1,2,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 3–1,Southampton,Sheffield Utd,Y,RM,29,0,0,0,0,0,0,0,0,18,2,0,0,1,0.0,0.0,0.0,0,0,14,15,93.3,1,14,3,0,0,Match Report

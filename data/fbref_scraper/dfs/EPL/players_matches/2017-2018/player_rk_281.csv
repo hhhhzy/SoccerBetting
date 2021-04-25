@@ -1,0 +1,33 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Crystal Palace,Huddersfield,Y,"RW,CM",90,0,0,0,0,1,0,0,0,53,17,1,3,1,0.0,0.0,0.0,3,0,33,36,91.7,6,46,5,5,10,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 0–1,Crystal Palace,Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,35,52,3,3,1,0.0,0.0,0.3,3,0,17,22,77.3,4,25,3,3,4,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Home,L 0–1,Crystal Palace,Southampton,Y,AM,77,0,0,0,0,3,0,0,0,35,25,1,0,0,0.1,0.1,0.1,6,0,16,22,72.7,0,29,5,4,5,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,L 0–5,Crystal Palace,Manchester City,Y,AM,90,0,0,0,0,2,0,0,0,39,10,0,0,0,0.3,0.3,0.0,1,0,19,25,76.0,1,28,5,4,5,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 0–1,Crystal Palace,Newcastle Utd,N,FW,14,0,0,0,0,0,0,0,0,13,4,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,13,2,2,2,Match Report
+2017-2018,2017-10-24,Tue,EFL Cup,Fourth round,Away,L 1–4,Crystal Palace,Bristol City,Y,AM,90,0,1,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,D 2–2,Crystal Palace,West Ham,Y,RM,90,0,1,0,0,2,0,0,0,45,16,0,1,1,0.2,0.2,0.3,7,1,27,30,90.0,5,40,7,4,6,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 0–1,Crystal Palace,Tottenham,Y,RM,90,0,0,0,0,0,0,0,0,27,19,1,0,3,0.0,0.0,0.0,1,0,8,12,66.7,1,14,1,1,1,Match Report
+2017-2018,2017-11-10,Fri,Friendlies (M),Friendlies (M),Home,D 0–0,eng England,de Germany,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-14,Tue,Friendlies (M),Friendlies (M),Home,D 0–0,eng England,br Brazil,Y,CM,34,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,D 2–2,Crystal Palace,Everton,Y,"LW,RW,CM",90,0,0,0,0,1,1,0,0,66,8,0,1,0,0.1,0.1,0.1,4,1,43,51,84.3,4,53,7,3,4,Match Report
+2017-2018,2017-11-25,Sat,Premier League,Matchweek 13,Home,W 2–1,Crystal Palace,Stoke City,Y,"RM,RW",90,1,0,0,0,2,1,0,0,58,21,0,1,2,0.5,0.5,0.2,1,0,27,43,62.8,3,49,6,0,2,Match Report
+2017-2018,2017-11-28,Tue,Premier League,Matchweek 14,Away,D 0–0,Crystal Palace,Brighton,Y,RM,90,0,0,0,0,2,1,0,0,39,12,0,0,1,0.1,0.1,0.0,1,0,28,33,84.8,2,33,9,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,D 0–0,Crystal Palace,West Brom,Y,LM,90,0,0,0,0,0,0,0,0,44,14,1,0,2,0.0,0.0,0.1,3,0,32,35,91.4,6,42,10,3,7,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,D 2–2,Crystal Palace,Bournemouth,Y,LM,90,0,0,0,0,2,1,0,0,38,24,0,1,1,0.1,0.1,0.6,4,0,21,30,70.0,2,30,12,1,2,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Home,W 2–1,Crystal Palace,Watford,Y,"LM,RM",90,0,0,0,0,2,0,0,0,46,9,1,1,2,0.2,0.2,0.0,3,0,23,29,79.3,3,32,9,0,1,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,W 3–0,Crystal Palace,Leicester City,Y,LW,90,0,1,0,0,3,1,0,0,54,17,1,0,1,0.3,0.3,0.3,4,1,39,42,92.9,6,49,7,1,2,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Away,D 1–1,Crystal Palace,Swansea City,Y,"LM,RM",90,0,0,0,0,3,0,0,0,55,12,0,0,2,0.1,0.1,0.0,3,1,34,39,87.2,4,45,12,3,4,Match Report
+2017-2018,2017-12-28,Thu,Premier League,Matchweek 20,Home,L 2–3,Crystal Palace,Arsenal,Y,LM,69,0,0,0,0,3,0,0,0,37,10,0,0,1,0.2,0.2,0.1,3,0,23,28,82.1,1,31,11,1,1,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Away,W 2–0,Crystal Palace,Huddersfield,N,LW,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,L 1–2,Crystal Palace,Liverpool,N,CM,18,0,0,0,0,0,0,0,0,14,3,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,13,2,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,D 2–2,Crystal Palace,Bournemouth,Y,LM,90,0,0,0,0,1,0,0,0,50,18,0,0,3,0.0,0.0,0.1,5,1,32,35,91.4,6,41,10,1,2,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,W 3–2,Crystal Palace,Brighton,Y,LM,79,0,0,0,0,0,0,0,0,44,12,1,1,3,0.0,0.0,0.1,2,0,21,26,80.8,4,33,8,2,4,Match Report
+2017-2018,2018-04-21,Sat,Premier League,Matchweek 35,Away,D 0–0,Crystal Palace,Watford,Y,"LM,CM",90,0,0,0,0,1,0,1,0,56,6,1,1,2,0.1,0.1,0.0,2,0,28,39,71.8,0,40,4,4,8,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,W 5–0,Crystal Palace,Leicester City,Y,LM,85,1,0,0,0,1,1,0,0,54,21,1,0,3,0.7,0.7,0.0,2,1,31,36,86.1,5,42,7,5,8,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,W 2–1,Crystal Palace,Stoke City,Y,"LW,LM",90,0,1,0,0,2,0,0,0,60,33,2,4,3,0.1,0.1,0.3,3,1,29,39,74.4,7,49,5,6,8,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 2–0,Crystal Palace,West Brom,Y,"LW,CM",90,0,0,0,0,1,1,0,0,52,12,1,1,0,0.1,0.1,0.0,2,1,37,38,97.4,6,46,7,2,3,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,W 2–1,eng England,ng Nigeria,N,,24,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-07,Thu,Friendlies (M),Friendlies (M),Home,W 2–0,eng England,cr Costa Rica,Y,AM,78,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-18,Mon,FIFA World Cup,Group stage,Neutral,W 2–1,eng England,tn Tunisia,N,CM,11,0,0,0,0,0,0,0,0,10,3,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,10,0,2,2,Match Report
+2017-2018,2018-06-24,Sun,FIFA World Cup,Group stage,Neutral,W 6–1,eng England,pa Panama,Y,CM,90,0,1,0,0,1,0,1,0,39,25,1,3,0,0.0,0.0,0.0,2,1,29,32,90.6,1,40,8,3,4,Match Report
+2017-2018,2018-06-28,Thu,FIFA World Cup,Group stage,Neutral,L 0–1,eng England,be Belgium,Y,AM,90,0,0,0,0,1,0,0,0,51,13,0,0,0,0.1,0.1,0.0,4,0,32,41,78.0,3,45,10,4,5,Match Report

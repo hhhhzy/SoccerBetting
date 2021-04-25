@@ -1,0 +1,23 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,Chelsea,Y,"CM,DM",90,0,2,0,0,1,0,0,0,79,19,3,0,1,0.1,0.1,0.6,5,2,49,64,76.6,5,60,3,0,2,Match Report
+2019-2020,2019-08-19,Mon,Premier League,Matchweek 2,Away,D 1–1,Manchester Utd,Wolves,Y,DM,90,0,0,0,1,1,0,0,0,102,16,0,2,1,0.8,0.0,0.0,2,0,77,92,83.7,5,69,2,0,1,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–2,Manchester Utd,Crystal Palace,Y,"CM,DM",90,0,0,0,0,4,0,0,0,94,17,3,0,2,0.3,0.3,0.1,5,0,65,80,81.3,11,75,8,2,3,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 1–1,Manchester Utd,Southampton,Y,"CM,AM",90,0,0,0,0,0,0,0,0,72,14,2,1,0,0.0,0.0,0.3,8,0,52,62,83.9,9,62,8,3,4,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Home,W 1 (5)–1 (3),Manchester Utd,Rochdale,Y,DM,120,0,0,0,0,5,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-30,Mon,Premier League,Matchweek 7,Home,D 1–1,Manchester Utd,Arsenal,Y,"CM,AM",90,0,0,0,0,2,0,0,0,73,15,4,0,0,0.1,0.1,0.2,5,0,48,61,78.7,5,51,4,1,1,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Away,L 0–2,Manchester Utd,Watford,N,"CM,AM",27,0,0,0,0,2,2,0,0,33,0,0,0,0,0.1,0.1,0.3,4,0,26,29,89.7,5,19,4,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 4–1,Manchester Utd,Newcastle Utd,N,DM,45,0,0,0,0,3,2,0,0,79,11,2,0,0,0.4,0.4,0.1,3,0,64,70,91.4,6,61,4,1,2,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Away,D 1–1,Manchester Utd,Tottenham,N,CM,28,0,0,0,0,1,0,0,0,25,5,2,0,2,0.0,0.0,0.0,3,2,18,19,94.7,2,18,2,2,2,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 3–0,Manchester Utd,Sheffield Utd,Y,DM,79,0,0,0,0,0,0,0,0,84,5,2,0,0,0.0,0.0,0.2,5,1,63,76,82.9,9,70,7,4,4,Match Report
+2019-2020,2020-06-27,Sat,FA Cup,Quarter-finals,Away,W 2–1,Manchester Utd,Norwich City,N,,43,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-30,Tue,Premier League,Matchweek 32,Away,W 3–0,Manchester Utd,Brighton,Y,DM,63,0,1,0,0,1,0,0,0,62,10,1,0,1,0.0,0.0,0.1,3,1,50,59,84.7,7,44,3,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 5–2,Manchester Utd,Bournemouth,Y,DM,90,0,0,0,0,2,1,0,0,84,6,0,1,0,0.1,0.1,0.2,5,0,67,76,88.2,8,67,6,2,3,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Away,W 3–0,Manchester Utd,Aston Villa,Y,DM,90,1,0,0,0,1,1,0,0,92,5,1,0,3,0.0,0.0,0.5,4,0,73,82,89.0,10,76,5,2,3,Match Report
+2019-2020,2020-07-13,Mon,Premier League,Matchweek 35,Home,D 2–2,Manchester Utd,Southampton,Y,DM,62,0,0,0,0,1,1,0,0,45,10,0,0,0,0.0,0.0,0.1,2,1,27,33,81.8,2,32,1,0,4,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,W 2–0,Manchester Utd,Crystal Palace,Y,DM,90,0,0,0,0,1,0,0,0,93,13,2,0,1,0.0,0.0,0.0,0,0,77,84,91.7,7,72,3,2,3,Match Report
+2019-2020,2020-07-19,Sun,FA Cup,Semi-finals,Neutral,L 1–3,Manchester Utd,Chelsea,N,,36,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-22,Wed,Premier League,Matchweek 37,Home,D 1–1,Manchester Utd,West Ham,Y,CM,90,0,0,0,0,1,0,0,0,93,12,0,0,6,0.0,0.0,0.0,2,0,78,82,95.1,14,68,11,2,2,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 2–0,Manchester Utd,Leicester City,Y,"DM,AM",90,0,0,0,0,0,0,1,0,68,7,3,0,3,0.0,0.0,0.1,2,0,46,57,80.7,4,52,2,1,1,Match Report
+2019-2020,2020-08-05,Wed,Europa Lg,Round of 16,Home,W 2–1,eng Manchester Utd,at LASK,N,"DM,AM",28,0,0,0,0,0,0,0,0,31,6,4,0,1,0.0,0.0,0.0,0,0,20,25,80.0,3,18,2,0,0,Match Report
+2019-2020,2020-08-10,Mon,Europa Lg,Quarter-finals,Home,W 1–0,eng Manchester Utd,dk FC Copenhagen,Y,DM,120,0,0,0,0,3,1,0,0,112,40,2,0,3,0.1,0.1,0.1,5,0,82,98,83.7,17,79,8,5,5,Match Report
+2019-2020,2020-08-16,Sun,Europa Lg,Semi-finals,Away,L 1–2,eng Manchester Utd,es Sevilla,Y,DM,90,0,0,0,0,1,0,0,0,71,7,4,0,0,0.0,0.0,0.4,7,0,56,62,90.3,8,55,7,4,5,Match Report

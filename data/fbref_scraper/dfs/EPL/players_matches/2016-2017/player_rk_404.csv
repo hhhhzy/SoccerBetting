@@ -1,0 +1,51 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-15,Mon,Premier League,Matchweek 1,Home,W 2–1,Chelsea,West Ham,N,,11,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Away,W 2–1,Chelsea,Watford,Y,RW,70,0,0,0,0,0,0,0,0,0,1,0,3,4,2,0,0,0,Match Report
+2016-2017,2016-08-23,Tue,EFL Cup,Second round,Home,W 3–2,Chelsea,Bristol Rovers,Y,FW,74,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,1,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Home,W 3–0,Chelsea,Burnley,N,,10,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Match Report
+2016-2017,2016-09-11,Sun,Premier League,Matchweek 4,Away,D 2–2,Chelsea,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-16,Fri,Premier League,Matchweek 5,Home,L 1–2,Chelsea,Liverpool,N,,7,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,Match Report
+2016-2017,2016-09-20,Tue,EFL Cup,Third round,Away,W 4–2,Chelsea,Leicester City,Y,AM,88,0,0,0,0,2,0,0,0,5,1,1,5,0,0,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Premier League,Matchweek 6,Away,L 0–3,Chelsea,Arsenal,N,,21,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Premier League,Matchweek 7,Away,W 2–0,Chelsea,Hull City,N,,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-15,Sat,Premier League,Matchweek 8,Home,W 3–0,Chelsea,Leicester City,Y,FW,67,0,1,0,0,1,0,0,0,0,1,0,5,1,1,0,0,0,Match Report
+2016-2017,2016-10-23,Sun,Premier League,Matchweek 9,Home,W 4–0,Chelsea,Manchester Utd,Y,FW,70,1,1,0,0,2,1,1,0,0,2,0,1,2,2,0,0,0,Match Report
+2016-2017,2016-10-26,Wed,EFL Cup,Fourth round,Away,L 1–2,Chelsea,West Ham,N,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-30,Sun,Premier League,Matchweek 10,Away,W 2–0,Chelsea,Southampton,Y,FW,77,0,0,0,0,0,0,0,0,3,1,0,1,2,1,0,0,0,Match Report
+2016-2017,2016-11-05,Sat,Premier League,Matchweek 11,Home,W 5–0,Chelsea,Everton,Y,FW,70,1,2,0,0,4,1,0,0,0,2,0,2,3,0,0,0,0,Match Report
+2016-2017,2016-11-20,Sun,Premier League,Matchweek 12,Away,W 1–0,Chelsea,Middlesbrough,Y,FW,79,0,0,0,0,3,1,0,0,1,0,1,0,0,1,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Home,W 2–1,Chelsea,Tottenham,Y,FW,82,1,0,0,0,1,1,0,0,3,3,0,1,1,0,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Premier League,Matchweek 14,Away,W 3–1,Chelsea,Manchester City,Y,FW,49,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-11,Sun,Premier League,Matchweek 15,Home,W 1–0,Chelsea,West Brom,Y,FW,62,0,0,0,0,1,0,0,0,0,3,0,1,0,1,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,W 1–0,Chelsea,Sunderland,Y,FW,75,0,0,0,0,2,0,1,0,2,1,2,3,1,0,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,Premier League,Matchweek 17,Away,W 1–0,Chelsea,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Home,W 3–0,Chelsea,Bournemouth,Y,FW,90,2,0,0,0,5,1,1,0,2,0,0,0,0,2,0,0,0,Match Report
+2016-2017,2017-01-04,Wed,Premier League,Matchweek 20,Away,L 0–2,Chelsea,Tottenham,Y,FW,90,0,0,0,0,1,1,1,0,1,1,1,4,3,1,0,0,0,Match Report
+2016-2017,2017-01-08,Sun,FA Cup,Third round,Home,W 4–1,Chelsea,P'borough Utd,Y,,90,2,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-14,Sat,Premier League,Matchweek 21,Away,W 3–0,Chelsea,Leicester City,Y,FW,83,1,0,0,0,2,1,0,0,0,3,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-01-22,Sun,Premier League,Matchweek 22,Home,W 2–0,Chelsea,Hull City,Y,FW,70,0,0,0,0,0,0,0,0,1,2,0,9,0,1,0,0,0,Match Report
+2016-2017,2017-01-28,Sat,FA Cup,Fourth round,Home,W 4–0,Chelsea,Brentford,Y,,75,1,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-31,Tue,Premier League,Matchweek 23,Away,D 1–1,Chelsea,Liverpool,N,,19,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-04,Sat,Premier League,Matchweek 24,Home,W 3–1,Chelsea,Arsenal,Y,FW,83,0,0,0,0,1,1,0,0,0,1,0,11,2,1,0,0,0,Match Report
+2016-2017,2017-02-12,Sun,Premier League,Matchweek 25,Away,D 1–1,Chelsea,Burnley,Y,FW,86,1,0,0,0,2,1,0,0,2,2,0,2,0,0,0,0,0,Match Report
+2016-2017,2017-02-18,Sat,FA Cup,Fifth round,Away,W 2–0,Chelsea,Wolves,Y,,72,1,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2017-02-25,Sat,Premier League,Matchweek 26,Home,W 3–1,Chelsea,Swansea City,Y,FW,75,1,1,0,0,3,1,0,0,1,1,0,1,0,1,0,0,0,Match Report
+2016-2017,2017-03-06,Mon,Premier League,Matchweek 27,Away,W 2–1,Chelsea,West Ham,Y,FW,64,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2017-03-13,Mon,FA Cup,Quarter-finals,Home,W 1–0,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-03-18,Sat,Premier League,Matchweek 29,Away,W 2–1,Chelsea,Stoke City,Y,FW,90,0,0,0,0,5,1,0,0,1,2,0,0,4,0,0,0,0,Match Report
+2016-2017,2017-03-24,Fri,WCQ — UEFA (M),First round,Home,W 4–1,es Spain,il Israel,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-03-28,Tue,Friendlies (M),Friendlies (M),Away,W 2–0,es Spain,fr France,Y,FW,66,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-04-01,Sat,Premier League,Matchweek 30,Home,L 1–2,Chelsea,Crystal Palace,Y,DM,90,0,0,0,0,2,1,0,0,0,1,2,12,4,1,0,0,0,Match Report
+2016-2017,2017-04-05,Wed,Premier League,Matchweek 31,Home,W 2–1,Chelsea,Manchester City,Y,AM,90,0,0,0,0,1,1,0,0,0,4,0,1,1,2,0,1,0,Match Report
+2016-2017,2017-04-08,Sat,Premier League,Matchweek 32,Away,W 3–1,Chelsea,Bournemouth,Y,AM,87,0,0,0,0,2,1,1,0,1,0,1,0,0,1,0,0,0,Match Report
+2016-2017,2017-04-16,Sun,Premier League,Matchweek 33,Away,L 0–2,Chelsea,Manchester Utd,Y,AM,90,0,0,0,0,4,0,0,0,3,0,0,3,1,1,0,0,0,Match Report
+2016-2017,2017-04-22,Sat,FA Cup,Semi-finals,Home,W 4–2,Chelsea,Tottenham,Y,,73,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-04-25,Tue,Premier League,Matchweek 34,Home,W 4–2,Chelsea,Southampton,N,,14,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-04-30,Sun,Premier League,Matchweek 35,Away,W 3–0,Chelsea,Everton,Y,AM,81,1,0,0,0,1,1,0,0,2,1,0,3,2,0,0,0,0,Match Report
+2016-2017,2017-05-08,Mon,Premier League,Matchweek 36,Home,W 3–0,Chelsea,Middlesbrough,Y,AM,80,0,0,0,0,2,0,0,0,2,1,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-05-12,Fri,Premier League,Matchweek 37,Away,W 1–0,Chelsea,West Brom,Y,AM,75,0,0,0,0,4,0,0,0,0,1,0,2,1,0,0,0,0,Match Report
+2016-2017,2017-05-15,Mon,Premier League,Matchweek 28,Home,W 4–3,Chelsea,Watford,N,,7,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,0,0,Match Report
+2016-2017,2017-05-21,Sun,Premier League,Matchweek 38,Home,W 5–1,Chelsea,Sunderland,N,,20,1,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-27,Sat,FA Cup,Final,Away,L 1–2,Chelsea,Arsenal,Y,,71,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-06-07,Wed,Friendlies (M),Friendlies (M),Home,D 2–2,es Spain,co Colombia,Y,FW,76,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-06-11,Sun,WCQ — UEFA (M),First round,Away,W 2–1,es Spain,mk North Macedonia,N,,22,0,0,0,0,,,0,0,,,,,,,0,,,Match Report

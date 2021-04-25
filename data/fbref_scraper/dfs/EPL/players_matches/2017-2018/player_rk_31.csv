@@ -1,0 +1,31 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,West Ham,Y,CB,90,0,0,0,0,2,0,1,0,60,6,1,0,3,0.1,0.1,0.0,0,0,44,50,88.0,3,36,4,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,W 4–0,Manchester Utd,Swansea City,Y,CB,90,1,0,0,0,1,1,0,0,61,9,1,8,0,0.7,0.7,0.0,0,0,45,48,93.8,3,37,4,0,0,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Home,W 2–0,Manchester Utd,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,57,11,2,0,0,0.0,0.0,0.0,0,0,42,47,89.4,0,38,4,0,0,Match Report
+2017-2018,2017-09-02,Sat,WCQ — CAF (M),Third round,Away,W 3–0,ci Côte d'Ivoire,ga Gabon,Y,,90,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — CAF (M),Third round,Home,L 1–2,ci Côte d'Ivoire,ga Gabon,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Premier League,Matchweek 4,Away,D 2–2,Manchester Utd,Stoke City,Y,CB,90,0,0,0,0,0,0,0,0,88,6,3,1,1,0.0,0.0,0.1,2,0,75,81,92.6,4,68,4,2,2,Match Report
+2017-2018,2017-09-17,Sun,Premier League,Matchweek 5,Home,W 4–0,Manchester Utd,Everton,Y,CB,90,0,0,0,0,0,0,1,0,40,11,1,0,2,0.0,0.0,0.0,0,0,32,34,94.1,0,24,1,0,1,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Away,W 1–0,Manchester Utd,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,35,7,1,2,3,0.0,0.0,0.0,0,0,18,22,81.8,1,14,0,0,0,Match Report
+2017-2018,2017-09-28,Thu,Champions Lg,Group stage,Away,W 4–1,eng Manchester Utd,ru CSKA Moscow,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Premier League,Matchweek 7,Home,W 4–0,Manchester Utd,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-06,Fri,WCQ — CAF (M),Third round,Away,D 0–0,ci Côte d'Ivoire,ml Mali,Y,,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Home,W 1–0,Manchester Utd,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,45,5,1,0,5,0.0,0.0,0.0,0,0,24,36,66.7,3,25,1,0,0,Match Report
+2017-2018,2017-10-31,Tue,Champions Lg,Group stage,Home,W 2–0,eng Manchester Utd,pt Benfica,Y,CB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Premier League,Matchweek 11,Away,L 0–1,Manchester Utd,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,49,10,1,7,0,0.0,0.0,0.1,1,0,28,35,80.0,1,28,2,1,1,Match Report
+2017-2018,2018-02-17,Sat,FA Cup,Fifth round,Away,W 2–0,Manchester Utd,Huddersfield,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-21,Wed,Champions Lg,Round of 16,Away,D 0–0,eng Manchester Utd,es Sevilla,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-25,Sun,Premier League,Matchweek 28,Home,W 2–1,Manchester Utd,Chelsea,N,AM,10,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2018-03-05,Mon,Premier League,Matchweek 29,Away,W 3–2,Manchester Utd,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 2–1,Manchester Utd,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,33,6,1,5,2,0.0,0.0,0.0,0,0,17,19,89.5,0,16,0,1,1,Match Report
+2017-2018,2018-03-13,Tue,Champions Lg,Round of 16,Home,L 1–2,eng Manchester Utd,es Sevilla,Y,CB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-17,Sat,FA Cup,Quarter-finals,Home,W 2–0,Manchester Utd,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-24,Sat,Friendlies (M),Friendlies (M),Home,D 2–2,ci Côte d'Ivoire,tg Togo,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Home,W 2–1,ci Côte d'Ivoire,md Moldova,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 2–0,Manchester Utd,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,W 3–2,Manchester Utd,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,28,7,1,2,3,0.0,0.0,0.0,0,0,18,21,85.7,0,14,0,0,0,Match Report
+2017-2018,2018-04-18,Wed,Premier League,Matchweek 35,Away,W 2–0,Manchester Utd,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-04,Fri,Premier League,Matchweek 37,Away,L 0–1,Manchester Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Away,D 0–0,Manchester Utd,West Ham,N,RB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 1–0,Manchester Utd,Watford,Y,CB,90,0,0,0,0,0,0,0,0,42,10,1,1,2,0.0,0.0,0.0,0,0,32,36,88.9,2,31,1,1,1,Match Report
+2017-2018,2018-05-19,Sat,FA Cup,Final,Away,L 0–1,Manchester Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

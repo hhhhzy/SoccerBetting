@@ -1,0 +1,28 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Premier League,Matchweek 1,Away,L 0–4,West Ham,Manchester Utd,Y,AM,59,0,0,0,0,2,1,0,0,26,2,0,0,1,0.2,0.2,0.0,1,0,14,18,77.8,1,19,0,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,L 2–3,West Ham,Southampton,N,AM,23,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,4,1,0,0,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Away,W 2–0,West Ham,Cheltenham,Y,FW,87,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Premier League,Matchweek 3,Away,L 0–3,West Ham,Newcastle Utd,Y,LW,90,0,0,0,0,0,0,1,0,46,13,0,2,1,0.0,0.0,0.0,0,0,34,43,79.1,4,36,3,2,2,Match Report
+2017-2018,2017-08-31,Thu,WCQ — UEFA (M),First round,Home,W 3–0,ch Switzerland,ad Andorra,N,,17,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Away,W 3–0,ch Switzerland,lv Latvia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-15,Sun,PL2 — Div. 1,Regular Season,Home,W 4–2,West Ham,Manchester Utd,Y,FW,83,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-20,Fri,Premier League,Matchweek 9,Home,L 0–3,West Ham,Brighton,N,LW,17,0,0,0,0,0,0,0,0,23,3,0,0,0,0.0,0.0,0.0,1,0,21,22,95.5,2,22,3,0,0,Match Report
+2017-2018,2017-10-25,Wed,EFL Cup,Fourth round,Away,W 3–2,West Ham,Tottenham,Y,DM,76,0,0,0,0,2,1,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Premier League,Matchweek 10,Away,D 2–2,West Ham,Crystal Palace,Y,CM,90,0,0,0,0,0,0,0,0,33,18,1,0,0,0.0,0.0,0.0,0,0,16,25,64.0,2,17,3,1,2,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Home,L 1–4,West Ham,Liverpool,Y,RM,45,0,0,0,0,0,0,0,0,29,2,0,2,0,0.0,0.0,0.0,2,0,20,24,83.3,3,18,3,1,1,Match Report
+2017-2018,2017-11-09,Thu,WCQ — UEFA (M),Second round,Away,W 1–0,ch Switzerland,nir Northern Ireland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-12,Sun,WCQ — UEFA (M),Second round,Home,D 0–0,ch Switzerland,nir Northern Ireland,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-19,Sun,Premier League,Matchweek 12,Away,L 0–2,West Ham,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-24,Fri,Premier League,Matchweek 13,Home,D 1–1,West Ham,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,L 0–4,West Ham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-03,Sun,Premier League,Matchweek 15,Away,L 1–2,West Ham,Manchester City,Y,DM,90,0,0,0,0,0,0,0,0,30,30,1,5,3,0.0,0.0,0.1,1,0,15,20,75.0,1,20,0,1,1,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,West Ham,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 3–0,West Ham,Southampton,N,RW,82,0,0,0,0,1,0,0,0,30,29,4,3,4,0.0,0.0,0.0,1,0,11,15,73.3,1,19,3,3,3,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Away,D 1–1,West Ham,Chelsea,Y,RW,69,0,0,0,0,0,0,0,0,23,11,0,1,0,0.0,0.0,0.0,1,0,11,17,64.7,0,15,3,0,0,Match Report
+2017-2018,2018-04-16,Mon,Premier League,Matchweek 34,Home,D 1–1,West Ham,Stoke City,Y,AM,75,0,0,0,0,1,0,0,0,36,14,0,1,1,0.1,0.1,0.0,0,0,24,28,85.7,2,18,3,0,0,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 1–4,West Ham,Arsenal,Y,RW,59,0,0,0,0,1,0,0,0,20,18,2,3,2,0.0,0.0,0.0,0,0,7,11,63.6,1,12,1,1,1,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,L 1–4,West Ham,Manchester City,Y,CM,64,0,0,0,0,0,0,0,0,17,20,3,1,1,0.0,0.0,0.3,2,1,5,11,45.5,0,8,1,1,1,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,W 2–0,West Ham,Leicester City,N,FW,12,0,0,0,0,0,0,0,0,7,3,0,0,1,0.0,0.0,0.0,1,0,5,5,100.0,1,4,1,0,0,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Home,D 0–0,West Ham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 3–1,West Ham,Everton,N,LM,70,0,1,0,0,1,0,0,0,39,12,3,0,3,0.0,0.0,0.0,2,1,25,28,89.3,3,27,2,1,2,Match Report
+2017-2018,2018-06-03,Sun,Friendlies (M),Friendlies (M),Away,D 1–1,ch Switzerland,es Spain,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

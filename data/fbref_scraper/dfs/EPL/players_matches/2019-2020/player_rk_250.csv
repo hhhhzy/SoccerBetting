@@ -1,0 +1,26 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-12,Mon,PL2 — Div. 1,Matchweek 1,Away,W 1–0,Chelsea,Derby County,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-19,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Chelsea,Liverpool,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-23,Fri,PL2 — Div. 1,Matchweek 3,Away,D 2–2,Chelsea,Manchester City,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-30,Fri,PL2 — Div. 1,Matchweek 4,Home,D 2–2,Chelsea,Tottenham,Y,RB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-13,Fri,PL2 — Div. 1,Matchweek 5,Home,W 2–1,Chelsea,Brighton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,PL2 — Div. 1,Matchweek 7,Away,D 2–2,Chelsea,Leicester City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-18,Fri,PL2 — Div. 1,Matchweek 8,Home,W 3–1,Chelsea,Arsenal,Y,RB,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Home,L 1–2,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,PL2 — Div. 1,Matchweek 10,Home,W 2–1,Chelsea,Blackburn,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,PL2 — Div. 1,Matchweek 11,Away,D 1–1,Chelsea,Wolves,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-14,Sat,PL2 — Div. 1,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,Y,RB,78,0,0,0,0,,,2,1,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,N,RB,32,0,0,0,0,0,0,0,0,18,3,2,0,0,0.0,0.0,0.1,1,0,12,14,85.7,1,8,1,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Chelsea,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-05,Sun,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,N,,15,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,PL2 — Div. 1,Matchweek 15,Home,W 2–1,Chelsea,Manchester City,Y,RB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–1,Chelsea,Hull City,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,W 2–1,Brighton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-23,Tue,Premier League,Matchweek 31,Away,D 0–0,Brighton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,49,13,3,1,3,0.0,0.0,0.0,0,0,26,36,72.2,2,31,4,7,8,Match Report
+2019-2020,2020-06-30,Tue,Premier League,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,RM,45,0,0,0,0,0,0,0,0,19,15,0,0,3,0.0,0.0,0.0,0,0,6,10,60.0,0,14,4,1,2,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,W 1–0,Brighton,Norwich City,Y,"RB,WB",89,0,0,0,0,0,0,1,0,61,9,2,1,2,0.0,0.0,0.0,0,0,36,46,78.3,2,37,4,5,6,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Home,L 1–3,Brighton,Liverpool,Y,RB,90,0,1,0,0,1,0,1,0,52,12,0,3,0,0.0,0.0,0.2,1,1,31,42,73.8,1,36,8,3,4,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,L 0–5,Brighton,Manchester City,N,RB,32,0,0,0,0,0,0,0,0,13,6,1,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,11,1,3,5,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,D 1–1,Brighton,Southampton,Y,WB,67,0,0,0,0,0,0,0,0,31,18,2,1,1,0.0,0.0,0.0,1,1,16,24,66.7,4,12,0,1,1,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,Y,RB,85,0,0,0,0,0,0,0,0,51,11,0,1,3,0.0,0.0,0.0,2,0,31,39,79.5,2,31,3,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 2–1,Brighton,Burnley,Y,WB,90,0,0,0,0,1,0,0,0,50,7,1,2,0,0.1,0.1,0.4,6,0,23,31,74.2,2,39,9,3,4,Match Report

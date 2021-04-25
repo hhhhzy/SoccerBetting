@@ -1,0 +1,34 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,L 1–2,Newcastle Utd,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,D 0–0,Newcastle Utd,Cardiff City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,L 1–2,Newcastle Utd,Chelsea,Y,CM,90,0,0,0,0,1,0,0,0,27,50,1,1,2,0.0,0.0,0.0,0,0,19,23,82.6,0,15,0,0,0,Match Report
+2018-2019,2018-08-29,Wed,EFL Cup,Second round,Away,L 1–3,Newcastle Utd,Nott'ham Forest,Y,DM,90,0,0,0,0,3,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,L 1–2,Newcastle Utd,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,33,25,0,3,1,0.0,0.0,0.0,1,0,17,26,65.4,1,10,1,0,0,Match Report
+2018-2019,2018-09-07,Fri,Friendlies (M),Friendlies (M),Home,W 2–0,kr Korea Republic,cr Costa Rica,Y,DM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-11,Tue,Friendlies (M),Friendlies (M),Home,D 0–0,kr Korea Republic,cl Chile,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 0–0,Newcastle Utd,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-12,Fri,Friendlies (M),Friendlies (M),Home,W 2–1,kr Korea Republic,uy Uruguay,Y,DM,84,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Home,D 2–2,kr Korea Republic,pa Panama,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,D 0–0,Newcastle Utd,Southampton,N,CM,15,0,0,0,0,0,0,0,0,9,4,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,5,2,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,W 1–0,Newcastle Utd,Watford,N,CM,40,0,1,0,0,1,0,0,0,28,4,0,0,1,0.0,0.0,0.0,4,1,21,24,87.5,1,15,2,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,Y,CM,90,0,0,0,0,0,0,0,0,53,12,1,1,2,0.0,0.0,0.1,4,1,28,42,66.7,6,27,2,0,1,Match Report
+2018-2019,2018-11-26,Mon,Premier League,Matchweek 13,Away,W 2–1,Newcastle Utd,Burnley,Y,CM,90,0,0,0,0,0,0,0,0,67,17,0,1,0,0.0,0.0,0.0,5,1,57,63,90.5,7,52,6,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,L 0–3,Newcastle Utd,West Ham,Y,CM,90,0,0,0,0,0,0,0,0,79,12,1,2,0,0.0,0.0,0.0,2,0,64,73,87.7,13,58,8,1,1,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,D 1–1,Newcastle Utd,Everton,Y,CM,90,0,0,0,0,0,0,0,0,35,29,0,1,2,0.0,0.0,0.1,4,0,22,27,81.5,2,17,0,1,1,Match Report
+2018-2019,2018-12-09,Sun,Premier League,Matchweek 16,Home,L 1–2,Newcastle Utd,Wolves,Y,CM,90,0,0,0,0,0,0,1,0,75,18,1,0,1,0.0,0.0,0.1,5,0,57,67,85.1,5,46,5,0,2,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,W 1–0,Newcastle Utd,Huddersfield,Y,CM,71,0,0,0,0,0,0,0,0,28,22,2,2,0,0.0,0.0,0.2,1,0,15,21,71.4,1,13,2,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,D 0–0,Newcastle Utd,Fulham,Y,CM,90,0,0,0,0,1,0,0,0,74,26,2,1,1,0.0,0.0,0.0,1,0,59,71,83.1,5,52,5,0,0,Match Report
+2018-2019,2018-12-31,Mon,Friendlies (M),Friendlies (M),Neutral,D 0–0,kr Korea Republic,sa Saudi Arabia,Y,CM,90,0,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-07,Mon,Asian Cup,Group stage,Neutral,W 1–0,kr Korea Republic,ph Philippines,Y,DM,57,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-11,Fri,Asian Cup,Group stage,Neutral,W 1–0,kr Korea Republic,kg Kyrgyzstan,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-16,Wed,Asian Cup,Group stage,Neutral,W 2–0,kr Korea Republic,cn China PR,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,W 2–0,Newcastle Utd,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–0,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–2,Newcastle Utd,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 3–2,Newcastle Utd,Everton,Y,CM,78,0,0,0,0,0,0,0,0,43,13,1,0,1,0.0,0.0,0.0,1,0,25,36,69.4,1,26,1,0,0,Match Report
+2018-2019,2019-04-01,Mon,Premier League,Matchweek 32,Away,L 0–2,Newcastle Utd,Arsenal,N,CM,24,0,0,0,0,1,0,0,0,16,17,1,1,2,0.0,0.0,0.0,1,0,9,11,81.8,0,9,1,0,0,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Home,L 0–1,Newcastle Utd,Crystal Palace,Y,CM,75,0,0,0,0,2,1,0,0,49,19,1,1,1,0.0,0.0,0.0,1,0,36,40,90.0,7,38,4,0,1,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Away,W 1–0,Newcastle Utd,Leicester City,Y,CM,81,0,0,0,0,0,0,1,0,34,13,1,2,1,0.0,0.0,0.0,2,0,21,29,72.4,1,19,1,1,1,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,W 3–1,Newcastle Utd,Southampton,Y,CM,90,0,0,0,0,2,0,0,0,45,26,1,0,2,0.1,0.1,0.2,1,0,29,36,80.6,1,29,3,1,1,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,D 1–1,Newcastle Utd,Brighton,N,CM,18,0,0,0,0,0,0,0,0,13,4,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,2,10,1,0,1,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,L 2–3,Newcastle Utd,Liverpool,Y,CM,90,0,0,0,0,1,1,0,0,40,18,2,0,1,0.0,0.0,0.0,0,0,25,35,71.4,2,26,2,0,0,Match Report

@@ -1,0 +1,53 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Away,D 0–0,Wolves,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-15,Thu,Europa Lg,Third qualifying round,Home,W 4–0,eng Wolves,am Pyunik,Y,FW,71,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-19,Mon,Premier League,Matchweek 2,Home,D 1–1,Wolves,Manchester Utd,N,FW,5,0,0,0,0,0,0,0,0,8,4,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,8,0,0,1,Match Report
+2019-2020,2019-08-22,Thu,Europa Lg,Play-off Round,Away,W 3–2,eng Wolves,it Torino,N,,22,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-25,Sun,Premier League,Matchweek 3,Home,D 1–1,Wolves,Burnley,N,RW,24,0,0,0,0,0,0,0,0,20,2,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,2,17,5,1,1,Match Report
+2019-2020,2019-08-29,Thu,Europa Lg,Play-off Round,Home,W 2–1,eng Wolves,it Torino,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-01,Sun,Premier League,Matchweek 4,Away,L 2–3,Wolves,Everton,N,DM,7,0,0,0,0,0,0,1,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,L 2–5,Wolves,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Home,L 0–1,eng Wolves,pt Braga,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,D 1–1,Wolves,Crystal Palace,N,"RW,DM",26,0,0,0,0,0,0,0,0,16,17,1,1,0,0.0,0.0,0.0,1,1,6,12,50.0,0,11,1,0,1,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Home,W 1 (4)–1 (2),Wolves,Reading,Y,FW,82,0,0,0,0,1,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–0,Wolves,Watford,Y,LW,56,0,1,0,0,1,1,0,0,27,22,0,0,0,0.1,0.1,1.1,2,1,16,23,69.6,1,19,8,1,1,Match Report
+2019-2020,2019-10-03,Thu,Europa Lg,Group stage,Away,W 1–0,eng Wolves,tr Beşiktaş,Y,LW,45,0,0,0,0,0,0,0,0,25,24,1,0,2,0.0,0.0,0.0,0,0,13,17,76.5,0,20,3,0,2,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,D 1–1,Wolves,Newcastle Utd,N,AM,21,0,0,0,0,1,0,0,0,16,4,0,0,1,0.0,0.0,0.0,1,0,9,11,81.8,0,10,2,0,0,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Away,L 1–2,Wolves,Aston Villa,Y,FW,76,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,D 1–1,Wolves,Arsenal,N,LW,1,0,0,0,0,1,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Match Report
+2019-2020,2019-11-07,Thu,Europa Lg,Group stage,Home,W 1–0,eng Wolves,sk Slovan Bratislava,Y,LW,68,0,0,0,0,2,0,0,0,32,20,0,1,0,0.2,0.2,0.0,2,0,21,27,77.8,0,24,6,0,0,Match Report
+2019-2020,2019-11-10,Sun,Premier League,Matchweek 12,Home,W 2–1,Wolves,Aston Villa,N,AM,8,0,0,0,0,1,0,0,0,4,4,1,0,0,0.2,0.2,0.0,2,0,1,2,50.0,0,5,2,1,1,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–1,Wolves,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-28,Thu,Europa Lg,Group stage,Away,D 3–3,eng Wolves,pt Braga,N,"RW,LW",21,0,0,0,0,0,0,0,0,12,7,0,0,1,0.0,0.0,0.1,2,0,6,9,66.7,0,10,1,1,1,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,D 1–1,Wolves,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–0,Wolves,West Ham,N,"LW,FW",19,0,1,0,0,0,0,0,0,11,7,0,1,0,0.0,0.0,0.1,1,1,5,8,62.5,0,12,1,2,3,Match Report
+2019-2020,2019-12-08,Sun,Premier League,Matchweek 16,Away,D 2–2,Wolves,Brighton,N,AM,14,0,0,0,0,0,0,0,0,6,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,1,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Home,W 4–0,eng Wolves,tr Beşiktaş,Y,"FW,RW",90,0,1,0,0,1,0,0,0,46,27,0,1,0,0.0,0.0,0.1,4,2,28,37,75.7,2,44,9,2,4,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Home,L 1–2,Wolves,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 2–1,Wolves,Norwich City,N,LW,14,0,0,0,0,1,0,0,0,10,0,0,0,0,0.1,0.1,0.3,2,0,7,8,87.5,1,9,4,1,2,Match Report
+2019-2020,2019-12-27,Fri,Premier League,Matchweek 19,Home,W 3–2,Wolves,Manchester City,N,LW,12,0,0,0,0,0,0,0,0,12,2,1,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,12,2,1,2,Match Report
+2019-2020,2019-12-29,Sun,Premier League,Matchweek 20,Away,L 0–1,Wolves,Liverpool,Y,FW,90,0,0,0,0,1,0,0,0,39,29,0,1,0,0.0,0.0,0.1,2,0,25,31,80.6,1,34,3,4,4,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 1–2,Wolves,Watford,Y,LW,65,1,0,0,0,2,1,1,0,44,22,2,0,0,0.1,0.1,0.0,1,0,21,31,67.7,3,32,9,1,3,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,D 0–0,Wolves,Manchester Utd,Y,FW,90,0,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-11,Sat,Premier League,Matchweek 22,Home,D 1–1,Wolves,Newcastle Utd,Y,LW,84,0,0,0,0,1,1,0,0,47,19,0,1,2,0.2,0.2,0.0,2,1,25,31,80.6,2,31,4,2,5,Match Report
+2019-2020,2020-01-15,Wed,FA Cup,Third round,Away,L 0–1,Wolves,Manchester Utd,Y,FW,70,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,W 3–2,Wolves,Southampton,Y,RW,85,1,0,0,0,2,1,0,0,31,18,0,0,0,0.3,0.3,0.2,4,2,14,22,63.6,2,22,7,2,6,Match Report
+2019-2020,2020-01-23,Thu,Premier League,Matchweek 24,Home,L 1–2,Wolves,Liverpool,Y,AM,76,0,0,0,0,1,0,0,0,41,18,0,0,0,0.1,0.1,0.0,0,0,25,32,78.1,1,36,4,3,3,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 0–0,Wolves,Manchester Utd,N,LW,21,0,0,0,0,0,0,0,0,14,7,0,0,1,0.0,0.0,0.1,2,0,7,7,100.0,1,10,3,0,1,Match Report
+2019-2020,2020-02-14,Fri,Premier League,Matchweek 26,Home,D 0–0,Wolves,Leicester City,Y,AM,63,0,0,0,0,1,0,0,0,27,11,0,1,0,0.1,0.1,0.1,4,0,12,19,63.2,1,23,2,5,7,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Home,W 4–0,eng Wolves,es Espanyol,N,FW,16,0,0,0,0,1,0,0,0,9,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,7,2,1,4,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Home,W 3–0,Wolves,Norwich City,N,FW,27,0,0,0,0,0,0,0,0,18,11,1,0,0,0.0,0.0,0.0,1,0,12,13,92.3,2,17,3,0,3,Match Report
+2019-2020,2020-02-27,Thu,Europa Lg,Round of 32,Away,L 2–3,eng Wolves,es Espanyol,N,FW,27,0,0,0,0,2,1,0,0,8,8,0,0,0,0.4,0.4,0.0,1,0,5,6,83.3,0,7,2,2,2,Match Report
+2019-2020,2020-03-01,Sun,Premier League,Matchweek 28,Away,W 3–2,Wolves,Tottenham,N,RW,17,0,0,0,0,0,0,0,0,13,5,0,0,0,0.0,0.0,0.1,1,0,6,9,66.7,1,14,2,3,3,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,D 0–0,Wolves,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-12,Thu,Europa Lg,Round of 16,Away,D 1–1,eng Wolves,gr Olympiacos,N,"RW,WB",45,1,0,0,0,2,2,1,0,34,10,0,0,0,0.1,0.1,0.2,1,0,24,30,80.0,2,23,4,0,0,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Away,W 2–0,Wolves,West Ham,N,FW,27,1,0,0,0,1,1,0,0,18,5,1,0,0,0.1,0.1,0.0,0,0,12,14,85.7,1,11,1,0,0,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 1–0,Wolves,Bournemouth,N,LW,29,0,0,0,0,2,0,0,0,19,2,0,0,0,0.6,0.6,0.0,2,0,12,14,85.7,1,17,3,2,2,Match Report
+2019-2020,2020-06-27,Sat,Premier League,Matchweek 32,Away,W 1–0,Wolves,Aston Villa,N,FW,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,L 0–2,Wolves,Arsenal,N,RW,19,0,0,0,0,0,0,0,0,11,3,1,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,6,1,1,2,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 3–0,Wolves,Everton,Y,RW,55,0,1,0,0,0,0,0,0,39,4,0,0,0,0.0,0.0,0.1,4,2,34,37,91.9,2,27,8,2,2,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,D 1–1,Wolves,Burnley,N,LW,13,0,0,0,0,1,1,0,0,3,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,2,0,0,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Home,W 2–0,Wolves,Crystal Palace,N,AM,10,0,0,0,0,0,0,0,0,9,4,1,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,8,2,0,3,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 0–2,Wolves,Chelsea,Y,RW,45,0,0,0,0,0,0,1,0,23,8,2,0,0,0.0,0.0,0.0,1,0,11,15,73.3,0,14,1,0,1,Match Report
+2019-2020,2020-08-06,Thu,Europa Lg,Round of 16,Home,W 1–0,eng Wolves,gr Olympiacos,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-08-11,Tue,Europa Lg,Quarter-finals,Home,L 0–1,eng Wolves,es Sevilla,N,"RW,CM",20,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Match Report

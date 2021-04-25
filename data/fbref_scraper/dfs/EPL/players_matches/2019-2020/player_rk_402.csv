@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,DFB-Pokal,First round,Away,W 3 (5)–3 (4),Hoffenheim,W'burg Kickers,N,,30,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-18,Sun,Bundesliga,Matchweek 1,Away,L 0–1,Hoffenheim,Eint Frankfurt,Y,LW,63,0,0,0,0,1,0,0,0,35,8,1,0,3,0.0,0.0,0.0,0,0,21,24,87.5,4,27,2,1,1,Match Report
+2019-2020,2019-08-24,Sat,Bundesliga,Matchweek 2,Home,W 3–2,Hoffenheim,Werder Bremen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Bundesliga,Matchweek 3,Away,D 0–0,Hoffenheim,Leverkusen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-15,Sun,Bundesliga,Matchweek 4,Home,L 0–3,Hoffenheim,Freiburg,N,"AM,CM",45,0,0,0,0,3,0,0,0,38,7,3,0,2,0.2,0.2,0.1,2,0,20,25,80.0,0,20,4,0,1,Match Report
+2019-2020,2019-09-23,Mon,Bundesliga,Matchweek 5,Away,D 1–1,Hoffenheim,Wolfsburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Bundesliga,Matchweek 6,Home,L 0–3,Hoffenheim,M'Gladbach,N,CM,12,0,0,0,0,1,0,0,0,7,2,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,4,0,0,0,Match Report
+2019-2020,2019-10-05,Sat,Bundesliga,Matchweek 7,Away,W 2–1,Hoffenheim,Bayern Munich,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-20,Sun,Bundesliga,Matchweek 8,Home,W 2–0,Hoffenheim,Schalke 04,N,FW,29,0,0,0,0,0,0,0,0,17,10,1,4,1,0.0,0.0,0.0,0,0,9,9,100.0,2,12,0,1,1,Match Report
+2019-2020,2019-10-26,Sat,Bundesliga,Matchweek 9,Away,W 3–2,Hoffenheim,Hertha BSC,Y,CM,71,0,0,0,0,0,0,0,0,44,20,4,0,1,0.0,0.0,0.0,2,0,26,30,86.7,4,25,1,0,1,Match Report
+2019-2020,2019-10-29,Tue,DFB-Pokal,Second round,Away,W 2–0,Hoffenheim,MSV Duisburg,N,,29,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-01,Fri,Bundesliga,Matchweek 10,Home,W 3–0,Hoffenheim,Paderborn 07,Y,CM,75,0,0,0,0,0,0,0,0,50,17,1,1,1,0.0,0.0,0.0,1,1,36,40,90.0,2,42,4,2,7,Match Report
+2019-2020,2019-11-08,Fri,Bundesliga,Matchweek 11,Away,W 2–1,Hoffenheim,Köln,Y,CM,45,0,0,0,0,0,0,0,0,31,10,1,0,0,0.0,0.0,0.0,0,0,19,23,82.6,1,21,2,0,1,Match Report
+2019-2020,2019-11-24,Sun,Bundesliga,Matchweek 12,Home,L 1–5,Hoffenheim,Mainz 05,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-30,Sat,Bundesliga,Matchweek 13,Home,D 1–1,Hoffenheim,Düsseldorf,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,Bundesliga,Matchweek 14,Away,L 1–3,Hoffenheim,RB Leipzig,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-13,Fri,Bundesliga,Matchweek 15,Home,L 2–4,Hoffenheim,Augsburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,N,RW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,Y,RW,85,0,0,0,0,2,0,0,0,51,31,0,0,3,0.1,0.1,0.1,2,0,31,42,73.8,1,33,0,0,1,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–1,Norwich City,Burnley,Y,AM,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,D 0–0,Norwich City,Newcastle Utd,Y,RW,88,0,0,0,0,1,1,0,0,46,20,2,1,2,0.1,0.1,0.3,2,0,29,36,80.6,2,34,3,1,1,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,Y,RW,82,0,0,0,0,0,0,0,0,30,18,0,5,0,0.0,0.0,0.0,1,0,15,21,71.4,2,19,0,1,2,Match Report
+2019-2020,2020-02-23,Sun,Premier League,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,RW,58,0,0,0,0,0,0,0,0,28,24,0,0,1,0.0,0.0,0.0,1,0,17,24,70.8,0,25,3,4,6,Match Report
+2019-2020,2020-02-28,Fri,Premier League,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,N,LW,23,0,0,0,0,0,0,0,0,11,5,1,3,0,0.0,0.0,0.1,1,0,4,6,66.7,1,6,0,1,1,Match Report
+2019-2020,2020-03-04,Wed,FA Cup,Fifth round,Away,W 1 (3)–1 (2),Norwich City,Tottenham,Y,AM,71,0,0,0,0,3,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-19,Fri,Premier League,Matchweek 30,Home,L 0–3,Norwich City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Home,L 0–1,Norwich City,Everton,Y,RW,70,0,0,0,0,1,1,0,0,39,18,4,0,3,0.1,0.1,0.1,2,0,17,26,65.4,1,28,1,1,1,Match Report
+2019-2020,2020-06-27,Sat,FA Cup,Quarter-finals,Home,L 1–2,Norwich City,Manchester Utd,Y,AM,61,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Away,L 0–4,Norwich City,Arsenal,Y,"CM,DM",74,0,0,0,0,0,0,1,0,39,20,1,0,2,0.0,0.0,0.0,1,0,23,32,71.9,0,29,2,0,0,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Home,L 0–1,Norwich City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-07,Tue,Premier League,Matchweek 34,Away,L 1–2,Norwich City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,L 0–4,Norwich City,West Ham,N,RW,21,0,0,0,0,0,0,0,0,12,4,1,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,6,1,0,0,Match Report
+2019-2020,2020-07-14,Tue,Premier League,Matchweek 36,Away,L 0–1,Norwich City,Chelsea,Y,CM,88,0,0,0,0,0,0,0,0,39,33,2,0,3,0.0,0.0,0.0,1,0,20,28,71.4,2,21,1,0,1,Match Report
+2019-2020,2020-07-18,Sat,Premier League,Matchweek 37,Home,L 0–2,Norwich City,Burnley,N,RM,15,0,0,0,0,0,0,0,0,8,3,1,0,1,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 0–5,Norwich City,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,39,16,1,0,2,0.0,0.0,0.3,2,0,25,29,86.2,2,25,1,1,2,Match Report

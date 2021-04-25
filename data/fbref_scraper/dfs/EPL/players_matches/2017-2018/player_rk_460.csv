@@ -1,0 +1,23 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-31,Thu,WCQ — UEFA (M),First round,Home,D 0–0,gr Greece,ee Estonia,N,,25,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-03,Sun,WCQ — UEFA (M),First round,Home,L 1–2,gr Greece,be Belgium,Y,DM,68,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Bundesliga,Matchweek 3,Home,W 3–0,Augsburg,Köln,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-16,Sat,Bundesliga,Matchweek 4,Away,W 2–1,Augsburg,Eint Frankfurt,N,LB,10,0,0,0,0,1,0,0,0,10,7,1,0,2,0.0,0.0,0.0,0,0,1,4,25.0,1,4,0,0,0,Match Report
+2017-2018,2017-09-19,Tue,Bundesliga,Matchweek 5,Home,W 1–0,Augsburg,RB Leipzig,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Bundesliga,Matchweek 6,Away,D 0–0,Augsburg,Stuttgart,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-30,Sat,Bundesliga,Matchweek 7,Home,L 1–2,Augsburg,Dortmund,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-07,Sat,WCQ — UEFA (M),First round,Away,W 2–1,gr Greece,cy Cyprus,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-10,Tue,WCQ — UEFA (M),First round,Home,W 4–0,gr Greece,gi Gibraltar,Y,LB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,Bundesliga,Matchweek 11,Home,D 1–1,Augsburg,Leverkusen,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-09,Thu,WCQ — UEFA (M),Second round,Away,L 1–4,gr Greece,hr Croatia,Y,LM,71,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-12,Sun,WCQ — UEFA (M),Second round,Home,D 0–0,gr Greece,hr Croatia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,Bundesliga,Matchweek 12,Away,L 0–3,Augsburg,Bayern Munich,N,"LB,LW",21,0,0,0,0,0,0,0,0,6,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Match Report
+2017-2018,2017-12-16,Sat,Bundesliga,Matchweek 17,Home,D 3–3,Augsburg,Freiburg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,D 0–0,Stoke City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–2,Stoke City,Bournemouth,N,CM,20,0,0,0,0,0,0,0,0,13,1,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,8,0,0,0,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,D 1–1,Stoke City,Leicester City,Y,LB,90,0,0,0,0,1,0,0,0,50,10,5,2,5,0.0,0.0,0.0,0,0,20,32,62.5,1,14,3,0,0,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,D 0–0,Stoke City,Southampton,Y,"LB,LM",45,0,0,0,0,2,0,0,0,23,7,1,0,2,0.1,0.1,0.0,2,0,10,15,66.7,0,8,1,1,1,Match Report
+2017-2018,2018-03-12,Mon,Premier League,Matchweek 30,Home,L 0–2,Stoke City,Manchester City,Y,LB,90,0,0,0,0,1,0,0,0,48,22,0,1,5,0.0,0.0,0.0,0,0,26,37,70.3,1,23,2,0,0,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Home,L 1–2,Stoke City,Everton,Y,LB,90,0,0,0,0,0,0,0,0,50,10,2,0,4,0.0,0.0,0.0,1,0,30,40,75.0,4,28,1,1,2,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Home,L 0–1,gr Greece,ch Switzerland,N,,12,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,W 1–0,gr Greece,eg Egypt,Y,LB,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,41 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,L 0–2,Cardiff City,Bournemouth,Y,FW,87,0,0,0,0,3,0,0,0,34,35,1,0,1,0.2,0.2,0.1,4,0,17,23,73.9,1,23,1,3,4,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Home,D 0–0,Cardiff City,Newcastle Utd,N,"LW,AM,CM",15,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,3,0,0,1,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,D 0–0,Cardiff City,Huddersfield,N,"CM,AM",16,0,0,0,0,2,0,0,0,11,4,1,0,0,0.3,0.3,0.0,1,0,3,5,60.0,0,8,1,0,0,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Home,L 1–3,Cardiff City,Norwich City,Y,FW,90,0,1,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Home,L 2–3,Cardiff City,Arsenal,Y,FW,90,0,0,0,0,2,1,0,0,24,54,0,0,1,0.3,0.3,0.1,2,0,14,15,93.3,0,21,1,2,4,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,L 1–4,Cardiff City,Chelsea,Y,FW,70,0,0,0,0,1,0,0,0,20,26,0,0,1,0.1,0.1,0.0,0,0,6,9,66.7,1,13,1,1,1,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,L 0–5,Cardiff City,Manchester City,Y,"FW,RW",90,0,0,0,0,0,0,0,0,27,27,1,0,0,0.0,0.0,0.0,1,0,11,18,61.1,0,22,2,1,2,Match Report
+2018-2019,2018-09-30,Sun,Premier League,Matchweek 7,Home,L 1–2,Cardiff City,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,L 0–1,Cardiff City,Tottenham,N,FW,6,0,0,0,0,0,0,0,0,3,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,W 4–2,Cardiff City,Fulham,Y,AM,90,1,1,0,0,1,1,0,0,46,26,1,2,0,0.3,0.3,0.2,3,0,19,29,65.5,0,38,3,4,6,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,L 1–4,Cardiff City,Liverpool,Y,AM,82,0,0,0,0,0,0,0,0,24,13,0,0,0,0.0,0.0,0.0,1,1,12,16,75.0,0,15,1,1,1,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,L 0–1,Cardiff City,Leicester City,Y,FW,64,0,0,0,0,2,1,0,0,21,6,0,1,1,0.2,0.2,0.0,0,0,9,16,56.3,1,14,0,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,W 2–1,Cardiff City,Brighton,N,CM,15,0,0,0,0,0,0,0,0,8,2,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,0,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 0–1,Cardiff City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-30,Fri,Premier League,Matchweek 14,Home,W 2–1,Cardiff City,Wolves,N,FW,25,0,0,0,0,1,0,0,0,6,2,0,0,0,0.1,0.1,0.0,1,1,1,3,33.3,0,4,0,1,1,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Away,L 1–3,Cardiff City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Home,W 1–0,Cardiff City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,L 2–3,Cardiff City,Watford,N,DM,13,1,0,0,0,2,1,0,0,7,3,0,1,0,0.2,0.2,0.0,1,1,1,2,50.0,0,5,0,1,1,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,L 1–5,Cardiff City,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Away,D 0–0,Cardiff City,Crystal Palace,Y,FW,90,0,0,0,0,2,0,0,0,35,47,0,1,0,0.3,0.3,0.1,4,0,21,26,80.8,1,18,3,1,1,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,W 1–0,Cardiff City,Leicester City,N,"FW,RW",8,0,1,0,0,0,0,0,0,4,6,0,0,1,0.0,0.0,0.0,1,1,2,3,66.7,0,2,0,0,0,Match Report
+2018-2019,2019-01-01,Tue,Premier League,Matchweek 21,Home,L 0–3,Cardiff City,Tottenham,Y,FW,71,0,0,0,0,0,0,0,0,12,50,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,9,1,1,1,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Away,L 0–1,Cardiff City,Gillingham,Y,FW,73,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Home,D 0–0,Cardiff City,Huddersfield,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Away,L 0–3,Cardiff City,Newcastle Utd,N,FW,27,0,0,0,0,0,0,0,0,14,6,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,1,11,3,0,0,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,L 1–2,Cardiff City,Arsenal,Y,FW,69,0,0,0,0,2,0,0,0,15,15,2,1,0,0.2,0.2,0.0,1,0,6,6,100.0,0,11,0,0,1,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,W 2–0,Cardiff City,Bournemouth,Y,FW,85,2,0,1,1,1,1,0,0,24,28,0,0,0,1.5,0.8,0.0,3,1,14,19,73.7,2,17,2,2,2,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 2–1,Cardiff City,Southampton,Y,FW,61,0,0,0,0,0,0,0,0,15,27,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,12,0,1,1,Match Report
+2018-2019,2019-02-22,Fri,Premier League,Matchweek 27,Home,L 1–5,Cardiff City,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,L 0–3,Cardiff City,Everton,Y,AM,90,0,0,0,0,0,0,0,0,32,28,2,0,1,0.0,0.0,0.0,0,0,14,22,63.6,0,19,1,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–2,Cardiff City,Wolves,Y,AM,58,0,0,0,0,1,0,0,0,35,12,1,0,0,0.0,0.0,0.0,1,0,22,28,78.6,2,27,2,1,1,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 2–0,Cardiff City,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-31,Sun,Premier League,Matchweek 32,Home,L 1–2,Cardiff City,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 33,Away,L 0–2,Cardiff City,Manchester City,N,AM,8,0,0,0,0,0,0,0,0,4,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,4,1,0,0,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Away,L 0–2,Cardiff City,Burnley,N,CM,10,0,0,0,0,0,0,0,0,5,4,1,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,5,1,0,0,Match Report
+2018-2019,2019-04-16,Tue,Premier League,Matchweek 31,Away,W 2–0,Cardiff City,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Home,L 0–2,Cardiff City,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,L 0–1,Cardiff City,Fulham,N,DM,4,0,0,0,0,1,0,0,0,2,0,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,1,1,0,0,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,L 2–3,Cardiff City,Crystal Palace,Y,AM,90,1,0,0,0,2,2,0,0,32,39,1,0,1,0.4,0.4,0.4,9,1,15,22,68.2,4,28,9,3,3,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,W 2–0,Cardiff City,Manchester Utd,Y,AM,90,0,0,0,0,2,0,0,0,35,25,1,1,0,0.1,0.1,0.1,3,0,13,20,65.0,3,22,1,0,0,Match Report

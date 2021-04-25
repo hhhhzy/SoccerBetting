@@ -1,0 +1,32 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Home,W 1–0,West Brom,Bournemouth,N,CM,21,0,0,0,0,0,0,0,0,7,5,0,0,1,0.0,0.0,0.0,2,0,4,5,80.0,0,5,1,0,0,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Away,W 1–0,West Brom,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-22,Tue,EFL Cup,Second round,Away,W 3–1,West Brom,Acc'ton Stanley,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,League One,Matchweek 6,Away,W 3–0,Blackburn,Rochdale,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-12,Tue,League One,Matchweek 7,Away,W 1–0,Blackburn,Scunthorpe Utd,Y,DM,45,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-14,Sat,League One,Matchweek 13,Away,L 0–1,Blackburn,Oldham Athletic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-17,Tue,League One,Matchweek 14,Home,D 1–1,Blackburn,Plymouth Argyle,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-20,Fri,PL2 — Div. 2,Regular Season,Away,W 2–0,Blackburn,Newcastle Utd,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,League One,Matchweek 16,Away,D 0–0,Blackburn,Wigan Athletic,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-31,Tue,League One,Matchweek 5,Home,D 2–2,Blackburn,Fleetwood Town,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-04,Sat,FA Cup,First round,Home,W 3–1,Blackburn,Barnet,Y,CM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-18,Sat,League One,Matchweek 18,Away,W 3–0,Blackburn,Bury,N,,13,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-21,Tue,League One,Matchweek 19,Away,W 4–2,Blackburn,Oxford United,N,,38,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,League One,Matchweek 20,Home,W 2–1,Blackburn,Bristol Rovers,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-28,Tue,League One,Matchweek 12,Away,W 4–2,Blackburn,Blackpool,N,,11,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-03,Sun,FA Cup,Second round,Home,D 3–3,Blackburn,Crewe Alexandra,Y,CM,32,0,0,0,0,0,0,0,1,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-13,Wed,FA Cup,Second round,Away,W 1–0,Blackburn,Crewe Alexandra,Y,CM,45,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-16,Sat,League One,Matchweek 22,Home,W 2–0,Blackburn,Charlton Ath,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,League One,Matchweek 23,Away,D 1–1,Blackburn,Northampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-29,Mon,PL2 — Div. 2,Regular Season,Home,W 2–1,West Brom,Fulham,Y,CM,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,L 0–3,West Brom,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,L 2–3,West Brom,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-05,Mon,PL2 — Div. 2,Regular Season,Away,L 2–3,West Brom,Southampton,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-19,Mon,PL2 — Div. 2,Regular Season,Home,L 0–2,West Brom,Norwich City,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-05,Mon,PL2 — Div. 2,Regular Season,Away,L 0–2,West Brom,Reading,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-12,Mon,PL2 — Div. 2,Regular Season,Home,D 1–1,West Brom,Stoke City,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-30,Fri,PL2 — Div. 2,Regular Season,Home,L 1–2,West Brom,Wolves,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 1–1,West Brom,Swansea City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-09,Mon,PL2 — Div. 2,Regular Season,Away,L 1–5,West Brom,Brighton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-15,Sun,PL2 — Div. 2,Regular Season,Away,L 1–2,West Brom,Middlesbrough,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-23,Mon,PL2 — Div. 2,Regular Season,Home,L 1–4,West Brom,Blackburn,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report

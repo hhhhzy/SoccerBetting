@@ -1,0 +1,52 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-07-26,Fri,First Division A,Regular Season,Home,W 2–1,Genk,Kortrijk,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-03,Sat,First Division A,Regular Season,Away,L 1–3,Genk,Mechelen,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-10,Sat,First Division A,Regular Season,Home,L 0–2,Genk,Zulte Waregem,Y,CM,87,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-17,Sat,First Division A,Regular Season,Away,W 4–0,Genk,Waasland-Bev,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-23,Fri,First Division A,Regular Season,Home,W 1–0,Genk,Anderlecht,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-01,Sun,First Division A,Regular Season,Away,D 1–1,Genk,Club Brugge,Y,DM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-05,Thu,Euro Qualifying,Group stage,Home,W 2–0,no Norway,mt Malta,Y,CM,90,1,0,0,0,1,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-08,Sun,Euro Qualifying,Group stage,Away,D 1–1,no Norway,se Sweden,Y,CM,90,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-13,Fri,First Division A,Regular Season,Away,L 1–2,Genk,Charleroi,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-17,Tue,Champions Lg,Group stage,Away,L 2–6,be Genk,at RB Salzburg,Y,CM,90,0,0,0,0,0,0,0,0,55,12,1,1,2,0.0,0.0,0.1,2,0,38,45,84.4,8,30,3,4,4,Match Report
+2019-2020,2019-09-21,Sat,First Division A,Regular Season,Home,W 3–1,Genk,Oostende,Y,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,First Division A,Regular Season,Away,D 3–3,Genk,Sint-Truiden,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-02,Wed,Champions Lg,Group stage,Home,D 0–0,be Genk,it Napoli,Y,DM,90,0,0,0,0,1,1,0,0,56,22,1,1,4,0.1,0.1,0.0,3,0,35,41,85.4,1,36,4,2,4,Match Report
+2019-2020,2019-10-06,Sun,First Division A,Regular Season,Home,W 2–1,Genk,Excel Mouscron,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-12,Sat,Euro Qualifying,Group stage,Home,D 1–1,no Norway,es Spain,Y,DM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-15,Tue,Euro Qualifying,Group stage,Away,D 1–1,no Norway,ro Romania,Y,CM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,First Division A,Regular Season,Away,L 0–1,Genk,Standard Liège,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-23,Wed,Champions Lg,Group stage,Home,L 1–4,be Genk,eng Liverpool,Y,DM,90,0,0,0,0,1,0,0,0,37,17,0,2,0,0.0,0.0,0.0,1,0,23,30,76.7,5,19,2,1,1,Match Report
+2019-2020,2019-10-26,Sat,First Division A,Regular Season,Home,W 1–0,Genk,Cercle Brugge,N,,38,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-30,Wed,First Division A,Regular Season,Home,D 2–2,Genk,Antwerp,Y,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,First Division A,Regular Season,Away,L 0–2,Genk,Eupen,Y*,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-05,Tue,Champions Lg,Group stage,Away,L 1–2,be Genk,eng Liverpool,Y,DM,90,0,0,0,0,0,0,0,0,53,36,2,0,3,0.0,0.0,0.0,0,0,35,41,85.4,3,33,2,1,2,Match Report
+2019-2020,2019-11-10,Sun,First Division A,Regular Season,Home,L 0–2,Genk,Gent,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-15,Fri,Euro Qualifying,Group stage,Home,W 4–0,no Norway,fo Faroe Islands,Y,CM,83,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-18,Mon,Euro Qualifying,Group stage,Away,W 2–1,no Norway,mt Malta,Y,CM,90,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-23,Sat,First Division A,Regular Season,Away,D 2–2,Genk,Excel Mouscron,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-27,Wed,Champions Lg,Group stage,Home,L 1–4,be Genk,at RB Salzburg,Y,"CM,DM",90,0,0,0,0,1,0,0,0,58,20,5,2,4,0.0,0.0,0.0,2,0,32,38,84.2,3,23,0,1,1,Match Report
+2019-2020,2019-11-30,Sat,First Division A,Regular Season,Home,L 1–2,Genk,Sint-Truiden,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-07,Sat,First Division A,Regular Season,Away,W 2–1,Genk,Cercle Brugge,Y,CM,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-10,Tue,Champions Lg,Group stage,Away,L 0–4,be Genk,it Napoli,Y,DM,90,0,0,0,0,1,1,0,0,77,18,3,1,0,0.0,0.0,0.0,1,0,61,68,89.7,3,61,4,0,0,Match Report
+2019-2020,2019-12-14,Sat,First Division A,Regular Season,Home,W 4–1,Genk,Waasland-Bev,Y,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-22,Sun,First Division A,Regular Season,Away,L 0–2,Genk,Anderlecht,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,First Division A,Regular Season,Home,W 2–1,Genk,Eupen,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-19,Sun,First Division A,Regular Season,Away,W 3–0,Genk,Zulte Waregem,Y,DM,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-25,Sat,First Division A,Regular Season,Away,L 1–4,Genk,Gent,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Away,W 1–0,Sheffield Utd,Crystal Palace,Y,CM,67,0,0,0,0,0,0,0,0,29,35,5,0,2,0.0,0.0,0.0,1,0,14,20,70.0,1,11,0,0,0,Match Report
+2019-2020,2020-02-09,Sun,Premier League,Matchweek 26,Home,W 2–1,Sheffield Utd,Bournemouth,Y,CM,60,0,0,0,0,1,0,0,0,32,18,0,1,3,0.0,0.0,0.0,0,0,15,25,60.0,3,22,3,3,3,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,D 1–1,Sheffield Utd,Brighton,Y,CM,80,0,0,0,0,0,0,0,0,45,20,2,0,3,0.0,0.0,0.0,1,0,27,35,77.1,1,34,3,1,2,Match Report
+2019-2020,2020-03-03,Tue,FA Cup,Fifth round,Away,W 2–1,Sheffield Utd,Reading,Y,CM,98,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Sheffield Utd,Norwich City,N,DM,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,1,Match Report
+2019-2020,2020-06-17,Wed,Premier League,Matchweek 28,Away,D 0–0,Sheffield Utd,Aston Villa,Y,CM,68,0,0,0,0,0,0,0,0,30,17,0,0,1,0.0,0.0,0.0,0,0,17,23,73.9,0,15,1,0,0,Match Report
+2019-2020,2020-06-21,Sun,Premier League,Matchweek 30,Away,L 0–3,Sheffield Utd,Newcastle Utd,Y,CM,65,0,0,0,0,0,0,0,0,53,10,0,1,2,0.0,0.0,0.0,1,0,39,46,84.8,3,40,5,0,0,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–3,Sheffield Utd,Manchester Utd,N,DM,45,0,0,0,0,0,0,0,0,20,15,0,0,3,0.0,0.0,0.0,0,0,13,15,86.7,1,12,0,0,0,Match Report
+2019-2020,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 1–2,Sheffield Utd,Arsenal,N,,56,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-02,Thu,Premier League,Matchweek 32,Home,W 3–1,Sheffield Utd,Tottenham,Y,CM,90,1,1,0,0,1,1,0,0,36,21,5,0,3,0.1,0.1,0.3,2,2,17,23,73.9,3,23,1,2,2,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 1–1,Sheffield Utd,Burnley,Y,CM,90,0,0,0,0,3,1,0,0,54,11,2,0,1,0.3,0.3,0.0,0,0,31,44,70.5,4,32,3,1,1,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Home,W 1–0,Sheffield Utd,Wolves,Y,CM,90,0,0,0,0,0,0,0,0,52,18,2,0,3,0.0,0.0,0.0,0,0,36,45,80.0,7,38,10,4,4,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Home,W 3–0,Sheffield Utd,Chelsea,Y,CM,62,0,0,0,0,0,0,0,0,21,20,3,1,0,0.0,0.0,0.0,0,0,12,16,75.0,1,12,2,0,1,Match Report
+2019-2020,2020-07-16,Thu,Premier League,Matchweek 36,Away,L 0–2,Sheffield Utd,Leicester City,Y,CM,45,0,0,0,0,0,0,0,0,15,13,0,0,3,0.0,0.0,0.0,0,0,6,8,75.0,0,6,1,1,1,Match Report
+2019-2020,2020-07-20,Mon,Premier League,Matchweek 37,Home,L 0–1,Sheffield Utd,Everton,Y,CM,90,0,0,0,0,0,0,0,0,62,28,2,0,3,0.0,0.0,0.1,2,0,45,52,86.5,3,42,2,1,1,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,L 1–3,Sheffield Utd,Southampton,Y,DM,90,0,0,0,0,0,0,0,0,46,23,5,0,1,0.0,0.0,0.0,0,0,25,33,75.8,2,22,3,1,1,Match Report

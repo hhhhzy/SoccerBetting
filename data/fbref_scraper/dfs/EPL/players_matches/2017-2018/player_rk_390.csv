@@ -1,0 +1,49 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-12,Sat,Premier League,Matchweek 1,Away,W 3–2,Burnley,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-19,Sat,Premier League,Matchweek 2,Home,L 0–1,Burnley,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-23,Wed,EFL Cup,Second round,Away,W 2–0,Burnley,Blackburn,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Premier League,Matchweek 3,Away,D 1–1,Burnley,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-10,Sun,Premier League,Matchweek 4,Home,W 1–0,Burnley,Crystal Palace,N,GK,55,0,0,0,0,0,0,0,0,18,0,0,0,0,0.0,0.0,0.0,0,0,6,15,40.0,0,5,0,0,0,Match Report
+2017-2018,2017-09-16,Sat,Premier League,Matchweek 5,Away,D 1–1,Burnley,Liverpool,Y,GK,90,0,0,0,0,0,0,1,0,42,0,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,12,0,0,0,Match Report
+2017-2018,2017-09-19,Tue,EFL Cup,Third round,Home,D 2 (3)–2 (5),Burnley,Leeds United,Y,GK,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Premier League,Matchweek 6,Home,D 0–0,Burnley,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,19,0,0,0,Match Report
+2017-2018,2017-10-01,Sun,Premier League,Matchweek 7,Away,W 1–0,Burnley,Everton,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,1,0,14,35,40.0,0,10,0,0,0,Match Report
+2017-2018,2017-10-14,Sat,Premier League,Matchweek 8,Home,D 1–1,Burnley,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,0,11,0,0,0,Match Report
+2017-2018,2017-10-21,Sat,Premier League,Matchweek 9,Away,L 0–3,Burnley,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,4,21,19.0,0,10,0,0,0,Match Report
+2017-2018,2017-10-30,Mon,Premier League,Matchweek 10,Home,W 1–0,Burnley,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,1,0,12,24,50.0,0,14,0,0,0,Match Report
+2017-2018,2017-11-04,Sat,Premier League,Matchweek 11,Away,W 1–0,Burnley,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,6,17,35.3,0,9,0,0,0,Match Report
+2017-2018,2017-11-18,Sat,Premier League,Matchweek 12,Home,W 2–0,Burnley,Swansea City,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.4,1,0,14,37,37.8,0,17,0,0,0,Match Report
+2017-2018,2017-11-26,Sun,Premier League,Matchweek 13,Home,L 0–1,Burnley,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,19,25,76.0,0,12,0,0,0,Match Report
+2017-2018,2017-11-29,Wed,Premier League,Matchweek 14,Away,W 2–1,Burnley,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,20,0,0,0,Match Report
+2017-2018,2017-12-02,Sat,Premier League,Matchweek 15,Away,L 0–1,Burnley,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,2,0,18,30,60.0,0,18,0,0,0,Match Report
+2017-2018,2017-12-09,Sat,Premier League,Matchweek 16,Home,W 1–0,Burnley,Watford,Y,GK,90,0,0,0,0,0,0,0,0,34,1,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,13,0,0,0,Match Report
+2017-2018,2017-12-12,Tue,Premier League,Matchweek 17,Home,W 1–0,Burnley,Stoke City,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,1,0,13,34,38.2,0,18,0,0,0,Match Report
+2017-2018,2017-12-16,Sat,Premier League,Matchweek 18,Away,D 0–0,Burnley,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0,0.0,0.0,0.0,0,0,12,40,30.0,0,23,0,0,0,Match Report
+2017-2018,2017-12-23,Sat,Premier League,Matchweek 19,Home,L 0–3,Burnley,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0,0.0,0.0,0.0,0,0,6,40,15.0,0,12,0,0,0,Match Report
+2017-2018,2017-12-26,Tue,Premier League,Matchweek 20,Away,D 2–2,Burnley,Manchester Utd,Y,GK,90,0,0,0,0,0,0,1,0,45,0,0,0,0,0.0,0.0,0.0,0,0,12,38,31.6,0,16,0,0,0,Match Report
+2017-2018,2017-12-30,Sat,Premier League,Matchweek 21,Away,D 0–0,Burnley,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,15,35,42.9,0,16,0,0,0,Match Report
+2017-2018,2018-01-01,Mon,Premier League,Matchweek 22,Home,L 1–2,Burnley,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,14,35,40.0,0,14,0,0,0,Match Report
+2017-2018,2018-01-06,Sat,FA Cup,Third round,Away,L 1–4,Burnley,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,L 0–1,Burnley,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,18,0,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,L 0–1,Burnley,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,10,31,32.3,0,12,0,0,0,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Away,D 1–1,Burnley,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,1,0,11,35,31.4,0,16,0,0,0,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Home,D 1–1,Burnley,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,11,23,47.8,0,9,0,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Away,L 0–1,Burnley,Swansea City,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,4,22,18.2,0,9,0,0,0,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Home,D 1–1,Burnley,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,1,0,13,26,50.0,0,7,0,0,0,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Home,W 2–1,Burnley,Everton,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,20,0,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Away,W 3–0,Burnley,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,9,27,33.3,0,10,0,0,0,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Away,W 1–0,eng England,nl Netherlands,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Home,D 1–1,eng England,it Italy,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Away,W 2–1,Burnley,West Brom,Y,GK,90,0,0,0,0,0,0,1,0,33,0,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,12,0,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Away,W 2–1,Burnley,Watford,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,15,0,0,0,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Home,W 2–1,Burnley,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,11,27,40.7,0,11,0,0,0,Match Report
+2017-2018,2018-04-19,Thu,Premier League,Matchweek 31,Home,L 1–2,Burnley,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,1,0,12,28,42.9,0,14,0,0,0,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,D 1–1,Burnley,Stoke City,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,12,31,38.7,0,20,0,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Home,D 0–0,Burnley,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,13,37,35.1,0,25,0,0,0,Match Report
+2017-2018,2018-05-06,Sun,Premier League,Matchweek 37,Away,L 0–5,Burnley,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,13,0,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,L 1–2,Burnley,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,12,29,41.4,0,16,0,0,0,Match Report
+2017-2018,2018-06-02,Sat,Friendlies (M),Friendlies (M),Home,W 2–1,eng England,ng Nigeria,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-07,Thu,Friendlies (M),Friendlies (M),Home,W 2–0,eng England,cr Costa Rica,N,,26,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-18,Mon,FIFA World Cup,Group stage,Neutral,W 2–1,eng England,tn Tunisia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-24,Sun,FIFA World Cup,Group stage,Neutral,W 6–1,eng England,pa Panama,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-28,Thu,FIFA World Cup,Group stage,Neutral,L 0–1,eng England,be Belgium,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Away,L 0–2,Brighton,Watford,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,18,36,50.0,0,25,0,0,0,Match Report
+2018-2019,2018-08-19,Sun,Premier League,Matchweek 2,Home,W 3–2,Brighton,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,7,24,29.2,0,10,0,0,0,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Away,L 0–1,Brighton,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,5,20,25.0,0,6,0,0,0,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Home,D 2–2,Brighton,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,29,1,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,14,0,0,0,Match Report
+2018-2019,2018-09-17,Mon,Premier League,Matchweek 5,Away,D 2–2,Brighton,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0,0.0,0.0,0.0,0,0,22,42,52.4,0,23,0,0,0,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,L 1–2,Brighton,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,18,0,0,0,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Brighton,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0,0.0,0.0,0.0,0,0,14,34,41.2,0,11,0,0,0,Match Report
+2018-2019,2018-10-05,Fri,Premier League,Matchweek 8,Home,W 1–0,Brighton,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,7,0,0,0,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,W 1–0,Brighton,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,12,0,0,0,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,W 1–0,Brighton,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,18,33,54.5,0,13,0,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,L 1–3,Brighton,Everton,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,1,0,14,37,37.8,0,19,0,0,0,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Away,L 1–2,Brighton,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,25,0,0,0,Match Report
+2018-2019,2018-11-17,Sat,Friendlies (M),Friendlies (M),Home,D 1–1,au Australia,kr Korea Republic,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,Friendlies (M),Friendlies (M),Home,W 3–0,au Australia,lb Lebanon,Y,GK,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,D 1–1,Brighton,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,21,41,51.2,0,24,0,0,0,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Away,W 2–1,Brighton,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,16,0,0,0,Match Report
+2018-2019,2018-12-04,Tue,Premier League,Matchweek 15,Home,W 3–1,Brighton,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,12,26,46.2,0,5,0,0,0,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–1,Brighton,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,50,0,0,0,0,0.0,0.0,0.0,0,0,26,46,56.5,0,28,0,0,0,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,L 1–2,Brighton,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,14,0,0,0,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,L 0–2,Brighton,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,20,0,0,0,Match Report
+2018-2019,2018-12-26,Wed,Premier League,Matchweek 19,Home,D 1–1,Brighton,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,21,0,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,6,0,0,0,Match Report
+2018-2019,2018-12-30,Sun,Friendlies (M),Friendlies (M),Neutral,W 5–0,au Australia,om Oman,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-06,Sun,Asian Cup,Group stage,Neutral,L 0–1,au Australia,jo Jordan,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-11,Fri,Asian Cup,Group stage,Neutral,W 3–0,au Australia,ps Palestine,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-15,Tue,Asian Cup,Group stage,Neutral,W 3–2,au Australia,sy Syria,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-21,Mon,Asian Cup,Round of 16,Neutral,W 0 (4)–0 (2),au Australia,uz Uzbekistan,Y,GK,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-25,Fri,Asian Cup,Quarter-finals,Neutral,L 0–1,au Australia,ae United Arab Emirates,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Away,L 2–4,Brighton,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,7,0,0,0,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Home,D 0–0,Brighton,Watford,Y,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,15,0,0,0,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 1–3,Brighton,Burnley,Y,GK,90,0,0,0,0,0,0,1,0,32,0,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,18,0,0,0,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Away,L 1–2,Brighton,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,10,0,0,0,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 1–0,Brighton,Huddersfield,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,16,0,0,0,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Away,W 2–1,Brighton,Crystal Palace,Y,GK,90,0,0,0,0,0,0,1,0,23,0,0,0,0,0.0,0.0,0.0,0,0,10,22,45.5,0,8,0,0,0,Match Report
+2018-2019,2019-03-17,Sun,FA Cup,Quarter-finals,Away,W 2 (5)–2 (4),Brighton,Millwall,Y,GK,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Home,L 0–1,Brighton,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,20,0,0,0,Match Report
+2018-2019,2019-04-03,Wed,Premier League,Matchweek 27,Away,L 0–3,Brighton,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,12,0,0,0,Match Report
+2018-2019,2019-04-06,Sat,FA Cup,Semi-finals,Away,L 0–1,Brighton,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,L 0–5,Brighton,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,17,0,0,0,Match Report
+2018-2019,2019-04-16,Tue,Premier League,Matchweek 31,Home,L 0–2,Brighton,Cardiff City,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,17,0,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,D 0–0,Brighton,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0,0.0,0.0,0.0,0,0,14,36,38.9,0,14,0,0,0,Match Report
+2018-2019,2019-04-23,Tue,Premier League,Matchweek 33,Away,L 0–1,Brighton,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,43,0,0,0,0,0.0,0.0,0.0,0,0,14,40,35.0,0,9,0,0,0,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,D 1–1,Brighton,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,13,0,0,0,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Away,D 1–1,Brighton,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,9,0,0,0,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,L 1–4,Brighton,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0,0.0,0.0,0.0,0,0,14,23,60.9,0,8,0,0,0,Match Report

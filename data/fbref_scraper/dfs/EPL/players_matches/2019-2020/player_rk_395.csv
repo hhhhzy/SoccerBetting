@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-10,Sat,Premier League,Matchweek 1,Home,W 3–0,Burnley,Southampton,N,FW,7,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Match Report
+2019-2020,2019-08-17,Sat,Premier League,Matchweek 2,Away,L 1–2,Burnley,Arsenal,N,FW,30,0,0,0,0,1,0,0,0,6,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+2019-2020,2019-08-25,Sun,Premier League,Matchweek 3,Away,D 1–1,Burnley,Wolves,N,FW,13,0,0,0,0,0,0,0,0,6,8,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,1,3,0,0,2,Match Report
+2019-2020,2019-08-28,Wed,EFL Cup,Second round,Home,L 1–3,Burnley,Sunderland,Y,FW,90,1,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Home,L 0–3,Burnley,Liverpool,N,FW,18,0,0,0,0,1,1,0,0,5,6,0,0,0,0.1,0.1,0.0,2,0,3,3,100.0,0,6,1,2,2,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Away,D 1–1,Burnley,Brighton,N,FW,25,0,0,0,0,0,0,0,0,3,8,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,0,1,1,Match Report
+2019-2020,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 2–0,Burnley,Norwich City,N,FW,12,0,0,0,0,0,0,0,0,7,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,8,2,1,3,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Away,D 2–2,Burnley,Aston Villa,N,RM,45,1,0,0,0,1,1,1,0,12,26,2,0,1,0.2,0.2,0.1,1,0,3,6,50.0,0,4,0,0,1,Match Report
+2019-2020,2019-10-05,Sat,Premier League,Matchweek 8,Home,W 1–0,Burnley,Everton,N,FW,18,0,0,0,0,1,1,0,0,8,9,2,0,0,0.2,0.2,0.0,1,0,3,4,75.0,0,5,2,0,0,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 1–2,Burnley,Leicester City,Y,FW,82,0,0,0,0,1,0,0,0,29,21,2,0,1,0.0,0.0,0.0,1,0,14,21,66.7,0,15,0,1,2,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Home,L 2–4,Burnley,Chelsea,Y,FW,90,1,0,0,0,3,2,0,0,36,44,1,0,3,0.4,0.4,0.2,3,1,16,20,80.0,3,19,4,0,1,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 0–3,Burnley,Sheffield Utd,Y,FW,77,0,0,0,0,1,0,0,0,25,12,0,0,1,0.1,0.1,0.0,0,0,11,16,68.8,0,17,2,1,1,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 3–0,Burnley,West Ham,N,FW,10,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 3–0,Burnley,Watford,N,FW,16,0,0,0,0,1,0,0,0,7,5,0,0,1,0.3,0.3,0.0,0,0,3,4,75.0,0,4,0,0,1,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Home,L 0–2,Burnley,Crystal Palace,N,FW,29,0,0,0,0,1,0,0,0,13,7,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,7,1,2,2,Match Report
+2019-2020,2019-12-03,Tue,Premier League,Matchweek 15,Home,L 1–4,Burnley,Manchester City,N,FW,32,0,0,0,0,0,0,0,0,8,19,0,0,2,0.0,0.0,0.0,0,0,4,5,80.0,0,4,2,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,L 0–5,Burnley,Tottenham,Y,FW,90,0,0,0,0,4,1,0,0,41,28,2,0,0,0.2,0.2,0.0,0,0,13,24,54.2,1,22,1,0,1,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Home,W 1–0,Burnley,Newcastle Utd,N,FW,6,0,0,0,0,0,0,0,0,8,4,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 1–0,Burnley,Bournemouth,N,FW,16,1,0,0,0,1,1,0,0,5,10,1,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,2,0,0,0,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 0–1,Burnley,Everton,Y,FW,90,0,0,0,0,2,0,0,0,17,42,1,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,6,0,0,0,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 0–2,Burnley,Manchester Utd,N,"LM,RM",32,0,0,0,0,0,0,0,0,16,15,2,0,3,0.0,0.0,0.0,0,0,5,10,50.0,1,8,2,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Home,L 1–2,Burnley,Aston Villa,N,FW,45,0,0,0,0,5,0,0,0,28,8,0,1,1,0.9,0.9,0.0,1,0,14,17,82.4,1,19,1,0,0,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Home,W 4–2,Burnley,P'borough Utd,Y,FW,90,2,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-19,Sun,Premier League,Matchweek 23,Home,W 2–1,Burnley,Leicester City,Y,FW,90,0,0,0,0,1,1,0,0,39,22,4,0,0,0.0,0.0,0.0,0,0,16,25,64.0,2,24,3,1,3,Match Report
+2019-2020,2020-01-22,Wed,Premier League,Matchweek 24,Away,W 2–0,Burnley,Manchester Utd,Y,FW,90,1,0,0,0,1,1,0,0,37,51,2,3,2,0.0,0.0,0.0,1,1,16,23,69.6,1,19,1,0,0,Match Report
+2019-2020,2020-01-25,Sat,FA Cup,Fourth round,Home,L 1–2,Burnley,Norwich City,Y,FW,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,Premier League,Matchweek 25,Home,D 0–0,Burnley,Arsenal,Y,FW,90,0,0,0,0,4,2,0,0,41,29,1,0,5,0.7,0.7,0.0,0,0,23,29,79.3,3,23,3,0,1,Match Report
+2019-2020,2020-02-15,Sat,Premier League,Matchweek 26,Away,W 2–1,Burnley,Southampton,Y,FW,90,0,0,0,0,2,2,0,0,38,33,1,0,4,0.1,0.1,0.0,0,0,14,23,60.9,1,21,2,1,4,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 3–0,Burnley,Bournemouth,Y,FW,90,1,0,1,1,4,2,0,0,46,14,0,0,1,1.3,0.5,0.0,2,1,25,34,73.5,2,33,4,1,3,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Away,D 0–0,Burnley,Newcastle Utd,Y,FW,90,0,0,0,0,3,0,0,0,35,22,1,0,4,0.5,0.5,0.0,0,0,15,20,75.0,3,17,4,1,2,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Home,D 1–1,Burnley,Tottenham,Y,FW,67,0,0,0,0,4,1,0,0,37,12,3,0,0,0.2,0.2,0.0,6,1,18,22,81.8,0,18,1,0,0,Match Report
+2019-2020,2020-06-22,Mon,Premier League,Matchweek 30,Away,L 0–5,Burnley,Manchester City,Y,FW,59,0,0,0,0,0,0,0,0,18,5,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,1,10,1,2,2,Match Report
+2019-2020,2020-06-25,Thu,Premier League,Matchweek 31,Home,W 1–0,Burnley,Watford,Y,FW,80,1,0,0,0,4,3,0,0,34,11,1,0,1,0.4,0.4,0.0,3,0,14,22,63.6,0,15,2,0,1,Match Report
+2019-2020,2020-07-05,Sun,Premier League,Matchweek 33,Home,D 1–1,Burnley,Sheffield Utd,Y,FW,90,0,1,0,0,2,1,0,0,39,10,2,0,3,0.1,0.1,0.5,3,1,19,24,79.2,1,22,1,1,2,Match Report
+2019-2020,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 1–0,Burnley,West Ham,Y,FW,90,1,0,0,0,1,1,0,0,47,21,2,0,1,0.1,0.1,0.0,2,0,23,30,76.7,3,24,1,1,3,Match Report
+2019-2020,2020-07-11,Sat,Premier League,Matchweek 35,Away,D 1–1,Burnley,Liverpool,Y,FW,90,1,0,0,0,3,2,0,0,26,13,0,0,0,0.3,0.3,0.0,1,0,15,20,75.0,1,19,2,1,1,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Home,D 1–1,Burnley,Wolves,Y,FW,50,0,0,0,0,2,0,0,0,16,14,0,0,2,0.1,0.1,0.0,1,0,7,9,77.8,1,12,2,0,1,Match Report
+2019-2020,2020-07-18,Sat,Premier League,Matchweek 37,Away,W 2–0,Burnley,Norwich City,Y,FW,90,0,0,0,0,7,3,0,0,38,22,1,0,1,0.7,0.7,0.0,2,0,16,22,72.7,1,18,3,1,1,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–2,Burnley,Brighton,Y,FW,77,0,0,0,0,5,0,0,0,26,8,0,0,2,0.8,0.8,0.0,0,0,3,11,27.3,0,16,2,1,1,Match Report

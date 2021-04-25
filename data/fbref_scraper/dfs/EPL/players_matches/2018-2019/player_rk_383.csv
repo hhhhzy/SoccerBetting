@@ -1,0 +1,44 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-12,Sun,Premier League,Matchweek 1,Home,D 0–0,Southampton,Burnley,Y,FW,90,0,0,0,0,3,0,0,0,50,16,0,0,1,0.1,0.1,0.1,6,0,28,39,71.8,2,45,19,0,2,Match Report
+2018-2019,2018-08-18,Sat,Premier League,Matchweek 2,Away,L 1–2,Southampton,Everton,Y,LM,90,0,0,0,0,1,0,0,0,34,8,0,0,1,0.0,0.0,0.0,4,0,17,24,70.8,1,28,4,1,1,Match Report
+2018-2019,2018-08-25,Sat,Premier League,Matchweek 3,Home,L 1–2,Southampton,Leicester City,Y,LM,90,0,0,0,0,2,0,0,0,59,20,1,0,1,0.1,0.1,0.2,3,0,35,50,70.0,2,49,9,3,3,Match Report
+2018-2019,2018-08-28,Tue,EFL Cup,Second round,Away,W 1–0,Southampton,Brighton,N,,10,0,1,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,W 2–0,Southampton,Crystal Palace,Y,"LM,RM",90,0,0,0,0,3,1,0,0,42,24,1,0,0,0.1,0.1,0.0,3,0,24,35,68.6,2,33,8,1,2,Match Report
+2018-2019,2018-09-17,Mon,Premier League,Matchweek 5,Home,D 2–2,Southampton,Brighton,Y,AM,90,0,0,0,0,1,0,0,0,32,16,0,1,1,0.0,0.0,0.2,6,0,20,27,74.1,2,35,10,5,5,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,L 0–3,Southampton,Liverpool,Y,"RM,RW",90,0,0,0,0,0,0,0,0,51,52,1,1,2,0.0,0.0,0.0,1,0,31,40,77.5,2,37,4,1,2,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Away,L 0–2,Southampton,Wolves,Y,"LM,RM",90,0,0,0,0,3,0,0,0,53,12,2,0,2,0.1,0.1,0.3,8,0,25,36,69.4,4,53,6,7,11,Match Report
+2018-2019,2018-10-02,Tue,EFL Cup,Third round,Away,L 1 (4)–1 (3),Southampton,Everton,Y,AM,120,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-07,Sun,Premier League,Matchweek 8,Home,L 0–3,Southampton,Chelsea,Y,AM,90,0,0,0,0,2,1,0,0,50,29,2,0,4,0.0,0.0,0.1,5,0,29,38,76.3,5,30,5,0,2,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,D 0–0,Southampton,Bournemouth,Y,"RM,LM",90,0,0,0,0,1,0,0,0,59,38,1,0,5,0.0,0.0,0.3,3,0,27,44,61.4,5,37,4,2,6,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Home,D 0–0,Southampton,Newcastle Utd,Y,"RW,LW",90,0,0,0,0,3,1,0,0,48,18,0,0,0,0.3,0.3,0.1,5,0,31,42,73.8,2,40,6,3,3,Match Report
+2018-2019,2018-11-04,Sun,Premier League,Matchweek 11,Away,L 1–6,Southampton,Manchester City,Y,AM,72,0,0,0,0,0,0,0,0,32,6,1,0,1,0.0,0.0,0.0,2,0,18,27,66.7,1,25,6,1,1,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,D 1–1,Southampton,Watford,Y,LW,89,0,0,0,0,0,0,0,0,41,28,0,0,3,0.0,0.0,0.1,4,0,22,29,75.9,0,39,5,8,10,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Away,L 2–3,Southampton,Fulham,Y,LW,90,0,0,0,0,1,0,0,0,65,16,4,1,0,0.0,0.0,0.1,5,0,40,54,74.1,5,61,18,4,8,Match Report
+2018-2019,2018-11-27,Tue,EFL Cup,Fourth round,Away,L 0 (5)–0 (6),Southampton,Leicester City,Y,FW,120,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,D 2–2,Southampton,Manchester Utd,Y,RW,90,0,0,0,0,4,2,0,0,54,36,3,0,0,0.1,0.1,0.1,7,1,21,39,53.8,3,52,13,9,11,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,L 1–3,Southampton,Tottenham,Y,LW,90,0,0,0,0,1,0,0,0,58,18,0,1,0,0.0,0.0,0.2,3,0,35,47,74.5,1,45,12,2,5,Match Report
+2018-2019,2018-12-08,Sat,Premier League,Matchweek 16,Away,L 0–1,Southampton,Cardiff City,Y,AM,90,0,0,0,0,0,0,0,0,46,6,1,0,0,0.0,0.0,0.0,3,0,26,35,74.3,1,34,2,2,5,Match Report
+2018-2019,2018-12-16,Sun,Premier League,Matchweek 17,Home,W 3–2,Southampton,Arsenal,Y,RW,62,0,1,0,0,2,0,0,0,38,24,1,2,2,0.0,0.0,0.2,7,1,23,27,85.2,3,40,7,6,8,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Away,W 3–1,Southampton,Huddersfield,Y,AM,90,1,1,0,0,4,1,0,0,56,23,3,0,0,0.5,0.5,0.4,7,3,32,41,78.0,3,50,7,2,6,Match Report
+2018-2019,2018-12-27,Thu,Premier League,Matchweek 19,Home,L 1–2,Southampton,West Ham,Y,"AM,RW",90,1,0,0,0,3,3,0,0,52,28,1,0,2,1.0,1.0,0.1,3,0,28,40,70.0,4,44,4,2,6,Match Report
+2018-2019,2018-12-30,Sun,Premier League,Matchweek 20,Home,L 1–3,Southampton,Manchester City,N,"RM,LM",45,0,0,0,0,0,0,0,0,13,37,0,0,2,0.0,0.0,0.0,1,0,5,8,62.5,1,10,1,0,2,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,D 0–0,Southampton,Chelsea,Y,RW,89,0,0,0,0,0,0,0,0,41,61,1,1,4,0.0,0.0,0.0,0,0,22,28,78.6,2,31,3,1,3,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Away,D 2–2,Southampton,Derby County,Y,LM,90,2,0,0,0,4,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,"AM,FW",89,0,0,0,0,0,0,0,0,23,50,2,1,1,0.0,0.0,0.1,1,0,7,13,53.8,1,16,4,1,1,Match Report
+2018-2019,2019-01-16,Wed,FA Cup,Third round,Home,D 2 (3)–2 (5),Southampton,Derby County,N,,75,1,0,0,0,4,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Southampton,Everton,Y,FW,85,0,0,0,0,2,0,1,0,28,23,1,0,1,0.4,0.4,0.0,2,0,13,20,65.0,2,25,7,1,1,Match Report
+2018-2019,2019-01-30,Wed,Premier League,Matchweek 24,Home,D 1–1,Southampton,Crystal Palace,Y,FW,90,0,0,0,0,1,0,0,0,32,24,0,0,1,0.0,0.0,0.1,2,0,14,25,56.0,0,29,4,2,4,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,D 1–1,Southampton,Burnley,Y,FW,86,1,0,0,0,1,1,0,0,47,50,1,0,5,0.1,0.1,0.3,6,1,23,28,82.1,2,38,8,2,3,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Home,L 1–2,Southampton,Cardiff City,Y,"FW,RW",90,0,0,0,0,2,0,1,0,54,19,2,1,0,0.2,0.2,0.0,0,0,26,39,66.7,3,52,9,8,9,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Away,L 0–2,Southampton,Arsenal,Y,"FW,RW,LW",90,0,0,0,0,1,1,0,0,27,68,0,1,4,0.2,0.2,0.4,2,0,11,17,64.7,1,21,6,1,5,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Home,W 2–0,Southampton,Fulham,Y,FW,90,0,0,0,0,5,1,0,0,49,22,1,0,2,0.2,0.2,0.1,3,1,24,30,80.0,0,39,6,1,3,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 2–3,Southampton,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,51,31,3,1,1,0.0,0.0,0.2,4,1,24,36,66.7,5,38,10,1,3,Match Report
+2018-2019,2019-03-09,Sat,Premier League,Matchweek 30,Home,W 2–1,Southampton,Tottenham,Y,"LW,FW",90,0,0,0,0,4,1,1,0,40,26,2,1,1,0.4,0.4,0.0,6,0,18,25,72.0,3,37,6,6,8,Match Report
+2018-2019,2019-03-30,Sat,Premier League,Matchweek 32,Away,W 1–0,Southampton,Brighton,Y,FW,88,0,1,0,0,2,1,0,0,29,14,0,1,0,0.1,0.1,0.3,2,1,15,21,71.4,1,24,7,1,2,Match Report
+2018-2019,2019-04-05,Fri,Premier League,Matchweek 33,Home,L 1–3,Southampton,Liverpool,Y,"AM,FW",90,0,0,0,0,1,0,0,0,43,26,2,0,0,0.0,0.0,0.0,2,0,21,32,65.6,3,37,5,4,4,Match Report
+2018-2019,2019-04-13,Sat,Premier League,Matchweek 34,Home,W 3–1,Southampton,Wolves,Y,"LW,FW,RW",90,2,0,0,0,4,3,0,0,42,36,0,3,4,0.9,0.9,0.0,0,0,19,24,79.2,2,32,5,4,7,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Away,L 1–3,Southampton,Newcastle Utd,Y,"AM,RW",90,0,0,0,0,2,0,0,0,45,28,1,0,3,0.0,0.0,0.3,6,1,24,28,85.7,4,37,5,3,8,Match Report
+2018-2019,2019-04-23,Tue,Premier League,Matchweek 31,Away,D 1–1,Southampton,Watford,Y,RW,90,0,0,0,0,3,2,0,0,52,19,2,2,1,0.3,0.3,0.4,2,0,28,34,82.4,1,46,3,2,3,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Home,D 3–3,Southampton,Bournemouth,Y,"LW,AM",90,0,1,0,0,6,1,0,0,42,32,1,3,1,0.7,0.7,0.2,1,1,24,29,82.8,2,30,9,2,3,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Away,L 0–3,Southampton,West Ham,N,FW,45,0,0,0,0,4,1,0,0,26,15,0,0,0,0.2,0.2,0.0,1,0,12,19,63.2,1,20,3,0,1,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Home,D 1–1,Southampton,Huddersfield,Y,"LM,AM",90,1,0,0,0,1,1,0,0,62,19,2,0,1,0.1,0.1,0.4,7,0,35,45,77.8,5,52,12,8,10,Match Report

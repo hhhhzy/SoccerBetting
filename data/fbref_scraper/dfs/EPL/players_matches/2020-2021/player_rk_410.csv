@@ -1,0 +1,31 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-08-30,Sun,Ligue 1,Matchweek 2,Away,W 3–2,Marseille,Brest,Y,CM,78,0,1,0,0,0,0,0,0,44,25,0,3,3,0.0,0.0,0.0,2,2,26,32,81.3,2,23,2,0,1,Match Report
+2020-2021,2020-09-17,Thu,Ligue 1,Matchweek 1,Home,L 0–2,Marseille,Saint-Étienne,Y,CM,70,0,0,0,0,2,0,1,0,44,13,3,2,2,0.5,0.5,0.2,3,0,14,24,58.3,1,27,4,1,1,Match Report
+2020-2021,2020-09-20,Sun,Ligue 1,Matchweek 4,Home,D 1–1,Marseille,Lille,Y,AM,90,0,1,0,0,1,0,0,0,44,22,2,1,0,0.0,0.0,0.4,2,1,27,35,77.1,3,30,7,1,2,Match Report
+2020-2021,2020-09-26,Sat,Ligue 1,Matchweek 5,Home,D 1–1,Marseille,Metz,Y,"AM,DM",90,1,0,0,0,2,1,0,0,60,26,5,0,1,0.3,0.3,0.2,1,0,39,49,79.6,3,51,8,3,3,Match Report
+2020-2021,2020-10-04,Sun,Ligue 1,Matchweek 6,Away,D 1–1,Marseille,Lyon,Y,CM,90,0,0,0,0,0,0,0,0,27,32,1,1,3,0.0,0.0,0.0,0,0,8,18,44.4,1,12,2,0,0,Match Report
+2020-2021,2020-10-17,Sat,Ligue 1,Matchweek 7,Home,W 3–1,Marseille,Bordeaux,Y,CM,90,0,0,0,0,0,0,1,0,48,26,6,2,3,0.0,0.0,0.0,0,0,29,36,80.6,6,27,2,0,0,Match Report
+2020-2021,2020-10-21,Wed,Champions Lg,Group stage,Away,L 0–1,fr Marseille,gr Olympiacos,Y,CM,76,0,0,0,0,1,0,0,0,44,19,1,1,2,0.0,0.0,0.0,2,0,26,37,70.3,4,27,5,1,1,Match Report
+2020-2021,2020-10-24,Sat,Ligue 1,Matchweek 8,Away,W 1–0,Marseille,Lorient,N,CM,20,0,0,0,0,1,0,0,0,16,17,3,0,3,0.1,0.1,0.0,0,0,8,10,80.0,1,9,0,0,1,Match Report
+2020-2021,2020-10-27,Tue,Champions Lg,Group stage,Home,L 0–3,fr Marseille,eng Manchester City,N,CM,27,0,0,0,0,0,0,0,0,14,8,1,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,9,0,0,0,Match Report
+2020-2021,2020-11-03,Tue,Champions Lg,Group stage,Away,L 0–3,fr Marseille,pt Porto,Y,CM,64,0,0,0,0,0,0,0,0,34,38,3,0,4,0.0,0.0,0.0,0,0,15,22,68.2,0,23,8,1,2,Match Report
+2020-2021,2020-11-06,Fri,Ligue 1,Matchweek 10,Away,W 1–0,Marseille,Strasbourg,N,CM,31,1,0,0,0,1,1,0,0,18,24,2,0,0,0.1,0.1,0.0,0,0,5,9,55.6,0,8,1,0,2,Match Report
+2020-2021,2020-11-25,Wed,Champions Lg,Group stage,Home,L 0–2,fr Marseille,pt Porto,Y,AM,77,0,0,0,0,2,1,1,0,35,24,2,1,0,0.1,0.1,0.0,0,0,22,26,84.6,2,19,5,0,0,Match Report
+2020-2021,2020-12-01,Tue,Champions Lg,Group stage,Home,W 2–1,fr Marseille,gr Olympiacos,N,AM,36,0,0,0,0,1,1,0,0,15,3,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,1,11,2,0,1,Match Report
+2020-2021,2020-12-04,Fri,Ligue 1,Matchweek 13,Away,W 2–0,Marseille,Nîmes,Y,CM,90,0,1,0,0,2,0,0,0,62,10,2,1,0,0.2,0.2,1.3,6,1,47,52,90.4,2,41,8,2,2,Match Report
+2020-2021,2020-12-09,Wed,Champions Lg,Group stage,Away,L 0–3,fr Marseille,eng Manchester City,Y,CM,90,0,0,0,0,1,0,0,0,50,29,6,0,0,0.1,0.1,0.0,2,0,32,40,80.0,2,42,2,0,0,Match Report
+2020-2021,2020-12-12,Sat,Ligue 1,Matchweek 14,Home,W 2–1,Marseille,Monaco,Y,CM,23,0,0,0,0,0,0,0,0,11,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,8,1,0,1,Match Report
+2020-2021,2021-01-13,Wed,Trophée des Champions,Trophée des Champions,Away,L 1–2,Marseille,Paris S-G,N,,35,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Ligue 1,Matchweek 20,Home,L 1–2,Marseille,Nîmes,Y,AM,64,0,0,0,0,1,1,0,0,33,12,2,1,0,0.1,0.1,0.0,1,0,19,26,73.1,1,26,2,0,1,Match Report
+2020-2021,2021-01-20,Wed,Ligue 1,Matchweek 9,Home,L 0–1,Marseille,Lens,Y,"AM,CM",90,0,0,0,0,1,0,0,0,45,37,1,1,2,0.0,0.0,0.0,2,0,24,32,75.0,1,27,6,1,1,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 1–0,Aston Villa,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–3,Aston Villa,West Ham,N,DM,11,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 1–0,Aston Villa,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,D 0–0,Aston Villa,Brighton,N,AM,15,0,0,0,0,0,0,1,0,7,11,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,1,0,0,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,L 1–2,Aston Villa,Leicester City,N,DM,10,0,0,0,0,1,0,0,0,7,0,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,W 1–0,Aston Villa,Leeds United,N,CM,12,0,0,0,0,0,0,0,0,6,7,0,2,0,0.0,0.0,0.0,0,0,4,4,100.0,0,6,0,2,2,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Away,L 0–1,Aston Villa,Sheffield Utd,N,CM,23,0,0,0,0,0,0,0,0,19,5,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,3,13,1,0,0,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,D 0–0,Aston Villa,Wolves,Y,CM,60,0,0,0,0,0,0,1,0,43,17,2,0,2,0.0,0.0,0.0,1,0,23,36,63.9,0,29,6,1,1,Match Report
+2020-2021,2021-03-12,Fri,Premier League,Matchweek 28,Away,D 1–1,Aston Villa,Newcastle Utd,N,CM,32,0,0,0,0,0,0,1,0,16,12,1,0,1,0.0,0.0,0.0,1,0,9,11,81.8,1,12,2,1,1,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 18,Home,L 0–2,Aston Villa,Tottenham,Y,CM,65,0,0,0,0,0,0,0,0,46,29,2,0,1,0.0,0.0,0.1,1,0,27,33,81.8,2,26,6,0,0,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,W 3–1,Aston Villa,Fulham,Y,CM,66,0,0,0,0,1,0,0,0,54,18,2,5,0,0.0,0.0,0.0,1,0,32,42,76.2,3,35,8,0,1,Match Report

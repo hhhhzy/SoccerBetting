@@ -1,0 +1,36 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-04,Fri,UEFA Nations League,League B,Home,L 1–2,no Norway,at Austria,Y,FW,63,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-07,Mon,UEFA Nations League,League B,Away,W 5–1,no Norway,nir Northern Ireland,N,,20,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-27,Sun,Championship,Matchweek 3,Home,W 1–0,Bournemouth,Norwich City,N,,25,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-08,Thu,Euro Qualifying,Semi-finals,Home,L 1–2,no Norway,rs Serbia,N,,55,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-11,Sun,UEFA Nations League,League B,Home,W 4–0,no Norway,ro Romania,N,,12,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-14,Wed,UEFA Nations League,League B,Home,W 1–0,no Norway,nir Northern Ireland,Y,FW,64,0,0,0,0,1,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-24,Sat,Championship,Matchweek 7,Away,D 1–1,Bournemouth,Watford,Y,FW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-28,Wed,Championship,Matchweek 8,Home,W 1–0,Bournemouth,Bristol City,Y,FW,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-31,Sat,Championship,Matchweek 9,Home,D 1–1,Bournemouth,Derby County,N,,45,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-03,Tue,Championship,Matchweek 10,Away,L 0–1,Bournemouth,Sheffield Weds,Y,FW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-07,Sat,Championship,Matchweek 11,Away,W 3–1,Bournemouth,Birmingham City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-15,Tue,Championship,Matchweek 19,Home,W 1–0,Bournemouth,Wycombe,N,,10,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-30,Wed,Championship,Matchweek 22,Away,L 1–2,Bournemouth,Brentford,N,,22,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-02,Sat,Championship,Matchweek 23,Away,W 1–0,Bournemouth,Stoke City,N,,5,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-09,Sat,FA Cup,Third round,Home,W 4–1,Bournemouth,Oldham Athletic,Y,FW,90,2,1,0,0,3,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-12,Tue,Championship,Matchweek 21,Home,D 1–1,Bournemouth,Millwall,N,,8,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-16,Sat,Championship,Matchweek 24,Home,L 0–1,Bournemouth,Luton Town,Y,FW,69,0,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-19,Tue,Championship,Matchweek 25,Away,L 0–1,Bournemouth,Derby County,N,,45,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-26,Tue,FA Cup,Fourth round,Home,W 2–1,Bournemouth,Crawley Town,Y,FW,82,1,1,0,0,5,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-29,Fri,Championship,Matchweek 27,Away,L 1–3,Bournemouth,Reading,Y,FW,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–1,Everton,Leeds United,N,FW,4,0,0,0,0,0,0,0,0,7,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,N,"LM,DM",10,0,0,0,0,0,0,0,0,10,3,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,11,4,2,2,Match Report
+2020-2021,2021-02-14,Sun,Premier League,Matchweek 24,Home,L 0–2,Everton,Fulham,N,"FW,LW",35,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,0,1,Match Report
+2020-2021,2021-02-17,Wed,Premier League,Matchweek 16,Home,L 1–3,Everton,Manchester City,N,LM,22,0,0,0,0,0,0,0,0,7,7,1,0,1,0.0,0.0,0.0,0,0,1,4,25.0,0,2,1,0,0,Match Report
+2020-2021,2021-02-20,Sat,Premier League,Matchweek 25,Away,W 2–0,Everton,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-01,Mon,Premier League,Matchweek 26,Home,W 1–0,Everton,Southampton,N,FW,1,0,0,0,0,0,0,0,0,3,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+2020-2021,2021-03-04,Thu,Premier League,Matchweek 29,Away,W 1–0,Everton,West Brom,N,AM,7,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,2,1,1,Match Report
+2020-2021,2021-03-08,Mon,Premier League,Matchweek 27,Away,L 0–2,Everton,Chelsea,N,RW,21,0,0,0,0,0,0,0,0,8,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,9,1,1,1,Match Report
+2020-2021,2021-03-13,Sat,Premier League,Matchweek 28,Home,L 1–2,Everton,Burnley,N,"LM,CM",25,0,0,0,0,0,0,0,0,17,3,0,1,1,0.0,0.0,0.0,1,0,10,12,83.3,3,13,2,0,0,Match Report
+2020-2021,2021-03-24,Wed,WCQ — UEFA (M),First round,Away,W 3–0,no Norway,gi Gibraltar,N,,29,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-27,Sat,WCQ — UEFA (M),First round,Home,L 0–3,no Norway,tr Turkey,N,,24,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-30,Tue,WCQ — UEFA (M),First round,Away,W 1–0,no Norway,me Montenegro,N,,11,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-05,Mon,Premier League,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-16,Fri,Premier League,Matchweek 32,Home,D 2–2,Everton,Tottenham,N,"CM,DM",7,0,0,0,0,1,1,0,0,5,2,0,0,0,0.4,0.4,0.0,1,0,2,4,50.0,0,3,2,0,0,Match Report
+2020-2021,2021-04-23,Fri,Premier League,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

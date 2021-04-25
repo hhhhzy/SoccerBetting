@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,L 0–1,Crystal Palace,West Brom,Y,DM,90,0,0,0,0,0,0,0,0,4,2,0,1,2,1,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Championship,Matchweek 5,Away,L 1–3,Aston Villa,Bristol City,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-01,Thu,WCQ — AFC (M),Third round,Home,W 2–0,au Australia,iq Iraq,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-06,Tue,WCQ — AFC (M),Third round,Away,W 1–0,au Australia,ae United Arab Emirates,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-11,Sun,Championship,Matchweek 6,Home,D 2–2,Aston Villa,Nott'ham Forest,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-14,Wed,Championship,Matchweek 7,Home,D 1–1,Aston Villa,Brentford,Y,CM,90,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-17,Sat,Championship,Matchweek 8,Away,D 0–0,Aston Villa,Ipswich Town,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Championship,Matchweek 9,Home,D 1–1,Aston Villa,Newcastle Utd,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-09-27,Tue,Championship,Matchweek 10,Away,D 1–1,Aston Villa,Barnsley,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Championship,Matchweek 11,Away,L 0–2,Aston Villa,Preston,Y,DM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-06,Thu,WCQ — AFC (M),Third round,Away,D 2–2,au Australia,sa Saudi Arabia,Y,,90,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-11,Tue,WCQ — AFC (M),Third round,Home,D 1–1,au Australia,jp Japan,Y,,90,1,0,1,1,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-15,Sat,Championship,Matchweek 12,Home,D 1–1,Aston Villa,Wolves,Y,CM,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-18,Tue,Championship,Matchweek 13,Away,W 2–1,Aston Villa,Reading,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-22,Sat,Championship,Matchweek 14,Home,W 1–0,Aston Villa,Fulham,Y,CM,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-30,Sun,Championship,Matchweek 15,Away,D 1–1,Aston Villa,Birmingham City,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-05,Sat,Championship,Matchweek 16,Home,W 2–1,Aston Villa,Blackburn,Y,CM,90,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-15,Tue,WCQ — AFC (M),Third round,Away,D 2–2,au Australia,th Thailand,Y,,90,2,0,2,2,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-11-18,Fri,Championship,Matchweek 17,Away,D 1–1,Aston Villa,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Championship,Matchweek 18,Home,W 3–1,Aston Villa,Cardiff City,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Championship,Matchweek 19,Away,L 0–2,Aston Villa,Leeds United,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-10,Sat,Championship,Matchweek 20,Home,W 1–0,Aston Villa,Wigan Athletic,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-13,Tue,Championship,Matchweek 21,Away,L 0–1,Aston Villa,Norwich City,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-18,Sun,Championship,Matchweek 22,Away,W 1–0,Aston Villa,QPR,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-26,Mon,Championship,Matchweek 23,Home,W 2–1,Aston Villa,Burton Albion,Y,LM,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-29,Thu,Championship,Matchweek 24,Home,D 1–1,Aston Villa,Leeds United,Y,AM,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-01-08,Sun,FA Cup,Third round,Away,L 0–2,Aston Villa,Tottenham,Y,,76,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-14,Sat,Championship,Matchweek 26,Away,L 0–1,Aston Villa,Wolves,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-20,Mon,Championship,Matchweek 33,Away,L 0–2,Aston Villa,Newcastle Utd,Y,RM,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,Championship,Matchweek 34,Home,W 1–0,Aston Villa,Derby County,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-28,Tue,Championship,Matchweek 28,Home,W 2–0,Aston Villa,Bristol City,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-04,Sat,Championship,Matchweek 35,Away,W 2–0,Aston Villa,Rotherham Utd,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-07,Tue,Championship,Matchweek 36,Away,L 0–1,Aston Villa,Huddersfield,Y,DM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Championship,Matchweek 37,Home,W 2–0,Aston Villa,Sheffield Weds,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-18,Sat,Championship,Matchweek 38,Away,W 2–0,Aston Villa,Wigan Athletic,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-23,Thu,WCQ — AFC (M),Third round,Away,D 1–1,au Australia,iq Iraq,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-03-28,Tue,WCQ — AFC (M),Third round,Home,W 2–0,au Australia,ae United Arab Emirates,Y,,88,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-04-01,Sat,Championship,Matchweek 39,Home,W 2–0,Aston Villa,Norwich City,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-04,Tue,Championship,Matchweek 40,Home,W 1–0,Aston Villa,QPR,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Championship,Matchweek 41,Away,D 1–1,Aston Villa,Burton Albion,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-15,Sat,Championship,Matchweek 42,Home,L 1–3,Aston Villa,Reading,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-17,Mon,Championship,Matchweek 43,Away,L 1–3,Aston Villa,Fulham,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-23,Sun,Championship,Matchweek 44,Home,W 1–0,Aston Villa,Birmingham City,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-06-08,Thu,WCQ — AFC (M),Third round,Home,W 3–2,au Australia,sa Saudi Arabia,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report

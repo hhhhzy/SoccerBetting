@@ -1,0 +1,37 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-09-15,Sun,Premier League,Matchweek 5,Home,W 3–1,Bournemouth,Everton,Y,DM,76,0,0,0,0,0,0,0,0,42,15,0,1,0,0.0,0.0,0.0,4,0,27,37,73.0,3,34,1,5,7,Match Report
+2019-2020,2019-09-20,Fri,Premier League,Matchweek 6,Away,W 3–1,Bournemouth,Southampton,N,FW,14,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,6,0,1,2,Match Report
+2019-2020,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–2,Bournemouth,Burton Albion,Y,DM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-09-28,Sat,Premier League,Matchweek 7,Home,D 2–2,Bournemouth,West Ham,N,"CM,RB",2,0,0,0,0,0,0,0,0,3,0,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Away,L 0–1,Bournemouth,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-10-19,Sat,Premier League,Matchweek 9,Home,D 0–0,Bournemouth,Norwich City,Y,DM,90,0,0,0,0,0,0,0,0,56,20,1,3,3,0.0,0.0,0.0,0,0,40,48,83.3,4,44,3,1,1,Match Report
+2019-2020,2019-10-26,Sat,Premier League,Matchweek 10,Away,D 0–0,Bournemouth,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 1–0,Bournemouth,Manchester Utd,N,RM,5,0,0,0,0,0,0,0,0,3,4,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+2019-2020,2019-11-09,Sat,Premier League,Matchweek 12,Away,L 1–2,Bournemouth,Newcastle Utd,Y,CM,90,0,0,0,0,1,0,0,0,105,16,1,2,1,0.0,0.0,0.2,4,0,82,94,87.2,12,88,4,3,3,Match Report
+2019-2020,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 1–2,Bournemouth,Wolves,Y,"CM,DM",75,0,0,0,0,1,0,0,0,61,20,1,2,1,0.0,0.0,0.0,1,1,44,52,84.6,1,38,3,1,1,Match Report
+2019-2020,2019-11-30,Sat,Premier League,Matchweek 14,Away,L 2–3,Bournemouth,Tottenham,Y,DM,73,0,0,0,0,1,1,0,0,48,6,2,0,0,0.1,0.1,0.3,6,2,36,43,83.7,3,38,0,0,1,Match Report
+2019-2020,2019-12-03,Tue,Premier League,Matchweek 15,Away,L 0–1,Bournemouth,Crystal Palace,N,DM,9,0,0,0,0,0,0,0,0,13,2,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,11,1,0,0,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,N,DM,33,0,0,0,0,0,0,0,0,20,8,0,0,0,0.0,0.0,0.0,1,0,16,18,88.9,2,13,2,0,0,Match Report
+2019-2020,2019-12-14,Sat,Premier League,Matchweek 17,Away,W 1–0,Bournemouth,Chelsea,Y,RM,90,0,0,0,0,1,0,1,0,35,17,0,0,0,0.0,0.0,0.0,0,0,13,21,61.9,1,24,3,1,1,Match Report
+2019-2020,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 0–1,Bournemouth,Burnley,Y,RM,45,0,0,0,0,0,0,0,0,30,7,0,0,0,0.0,0.0,0.0,1,0,15,24,62.5,3,15,0,1,2,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,D 1–1,Bournemouth,Arsenal,Y,CM,90,0,0,0,0,0,0,1,0,56,42,1,1,1,0.0,0.0,0.1,4,1,34,45,75.6,4,44,2,1,1,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–2,Bournemouth,Brighton,N,"RW,RM",18,0,0,0,0,1,0,0,0,16,4,0,0,1,0.0,0.0,0.0,1,0,7,11,63.6,2,13,3,1,1,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–4,Bournemouth,West Ham,Y,"CM,LM",90,0,0,0,0,0,0,1,0,59,22,5,1,2,0.0,0.0,0.0,0,0,38,48,79.2,6,53,7,6,6,Match Report
+2019-2020,2020-01-12,Sun,Premier League,Matchweek 22,Home,L 0–3,Bournemouth,Watford,N,DM,32,0,0,0,0,1,0,0,0,22,7,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,5,13,4,0,0,Match Report
+2019-2020,2020-01-18,Sat,Premier League,Matchweek 23,Away,L 0–1,Bournemouth,Norwich City,N,CM,5,0,0,0,0,0,0,0,0,7,6,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,7,1,1,2,Match Report
+2019-2020,2020-01-21,Tue,Premier League,Matchweek 24,Home,W 3–1,Bournemouth,Brighton,N,RM,2,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2019-2020,2020-01-27,Mon,FA Cup,Fourth round,Home,L 1–2,Bournemouth,Arsenal,Y,DM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-01,Sat,Premier League,Matchweek 25,Home,W 2–1,Bournemouth,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-09,Sun,Premier League,Matchweek 26,Away,L 1–2,Bournemouth,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-22,Sat,Premier League,Matchweek 27,Away,L 0–3,Bournemouth,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-29,Sat,Premier League,Matchweek 28,Home,D 2–2,Bournemouth,Chelsea,Y,CM,80,0,0,0,0,0,0,0,0,36,41,1,0,4,0.0,0.0,0.1,1,0,19,28,67.9,1,30,2,3,3,Match Report
+2019-2020,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 1–2,Bournemouth,Liverpool,Y,CM,90,0,0,0,0,0,0,0,0,44,28,4,1,2,0.0,0.0,0.0,0,0,17,34,50.0,1,24,3,1,1,Match Report
+2019-2020,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,Bournemouth,Crystal Palace,Y,"CM,DM",90,0,0,0,0,1,0,1,0,69,33,5,1,2,0.0,0.0,0.0,4,0,47,58,81.0,5,47,6,5,5,Match Report
+2019-2020,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–1,Bournemouth,Wolves,Y,"CM,DM",90,0,0,0,0,0,0,0,0,40,27,2,0,3,0.0,0.0,0.0,0,0,23,31,74.2,2,24,1,1,3,Match Report
+2019-2020,2020-07-01,Wed,Premier League,Matchweek 32,Home,L 1–4,Bournemouth,Newcastle Utd,N,CM,45,0,0,0,0,1,0,0,0,39,5,0,1,0,0.0,0.0,0.0,1,0,29,36,80.6,2,33,2,1,1,Match Report
+2019-2020,2020-07-04,Sat,Premier League,Matchweek 33,Away,L 2–5,Bournemouth,Manchester Utd,Y,DM,65,0,0,0,0,1,1,0,0,24,17,1,0,0,0.1,0.1,0.1,2,0,14,22,63.6,1,12,0,0,0,Match Report
+2019-2020,2020-07-09,Thu,Premier League,Matchweek 34,Home,D 0–0,Bournemouth,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 4–1,Bournemouth,Leicester City,N,AM,10,0,0,0,0,0,0,0,0,10,7,0,0,0,0.0,0.0,0.1,1,0,9,10,90.0,1,8,0,0,0,Match Report
+2019-2020,2020-07-15,Wed,Premier League,Matchweek 36,Away,L 1–2,Bournemouth,Manchester City,N,"CM,DM",21,0,0,0,0,0,0,0,0,5,7,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,3,0,0,0,Match Report
+2019-2020,2020-07-19,Sun,Premier League,Matchweek 37,Home,L 0–2,Bournemouth,Southampton,N,"LM,CM,FW",22,0,0,0,0,0,0,1,0,13,7,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,2,9,0,2,2,Match Report
+2019-2020,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 3–1,Bournemouth,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,21 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-11-23,Mon,PL2 — Div. 1,Matchweek 9,Home,W 2–1,Leicester City,West Ham,Y,RB,58,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-03,Thu,Europa Lg,Group stage,Away,L 0–1,eng Leicester City,ua Zorya Luhansk,Y,RB,45,0,0,0,0,0,0,1,0,35,10,1,1,2,0.0,0.0,0.0,2,0,24,28,85.7,3,18,1,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Home,W 2–0,Leicester City,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-19,Tue,Premier League,Matchweek 18,Home,W 2–0,Leicester City,Chelsea,N,RM,14,0,0,0,0,0,0,0,0,11,4,1,0,3,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Match Report
+2020-2021,2021-01-24,Sun,FA Cup,Fourth round,Away,W 3–1,Leicester City,Brentford,Y,RB,69,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,D 1–1,Leicester City,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,L 1–3,Leicester City,Leeds United,N,"WB,RB",54,0,0,0,0,1,1,0,0,20,10,2,0,1,0.0,0.0,0.0,2,0,7,10,70.0,1,10,1,1,3,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 2–0,Leicester City,Fulham,Y,"RB,WB",90,0,0,0,0,0,0,0,0,77,17,4,1,1,0.0,0.0,0.1,1,0,39,57,68.4,1,43,5,1,5,Match Report
+2020-2021,2021-02-07,Sun,Premier League,Matchweek 23,Away,D 0–0,Leicester City,Wolves,Y,RB,90,0,0,0,0,0,0,0,0,68,21,5,1,3,0.0,0.0,0.0,1,0,42,53,79.2,5,39,8,1,2,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,W 3–1,Leicester City,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,71,26,7,4,6,0.0,0.0,0.0,2,1,33,47,70.2,3,29,2,3,4,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Away,W 2–1,Leicester City,Aston Villa,Y,RW,75,0,0,0,0,3,2,0,0,52,9,2,1,0,0.1,0.1,0.1,3,0,33,41,80.5,2,30,4,1,3,Match Report
+2020-2021,2021-02-25,Thu,Europa Lg,Round of 32,Neutral,L 0–2,eng Leicester City,cz Slavia Prague,N,"CM,RB",30,0,0,0,0,0,0,0,0,25,4,1,0,1,0.0,0.0,0.1,2,0,12,16,75.0,1,21,2,0,0,Match Report
+2020-2021,2021-02-28,Sun,Premier League,Matchweek 26,Home,L 1–3,Leicester City,Arsenal,Y,"RM,LB",90,0,0,0,0,0,0,0,0,40,8,2,3,1,0.0,0.0,0.0,0,0,22,30,73.3,2,24,1,2,4,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Away,D 1–1,Leicester City,Burnley,Y,WB,90,0,0,0,0,1,0,1,0,61,17,1,1,2,0.1,0.1,0.0,1,0,37,50,74.0,7,48,9,1,2,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Away,W 2–1,Leicester City,Brighton,Y,WB,90,0,0,0,0,1,1,0,0,66,19,4,1,3,0.1,0.1,0.0,0,0,33,46,71.7,7,48,6,6,9,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Home,W 5–0,Leicester City,Sheffield Utd,Y,WB,45,0,0,0,0,1,0,0,0,32,6,0,0,1,0.1,0.1,0.0,2,0,26,28,92.9,1,21,4,0,0,Match Report
+2020-2021,2021-04-03,Sat,Premier League,Matchweek 30,Home,L 0–2,Leicester City,Manchester City,N,WB,20,0,0,0,0,0,0,0,0,9,6,0,1,0,0.0,0.0,0.1,1,0,6,6,100.0,1,6,0,1,2,Match Report
+2020-2021,2021-04-11,Sun,Premier League,Matchweek 31,Away,L 2–3,Leicester City,West Ham,Y,WB,90,0,1,0,0,0,0,1,0,80,23,2,3,1,0.0,0.0,0.1,4,1,55,64,85.9,7,64,6,2,3,Match Report
+2020-2021,2021-04-18,Sun,FA Cup,Semi-finals,Home,W 1–0,Leicester City,Southampton,Y,DM,59,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-22,Thu,Premier League,Matchweek 32,Home,W 3–0,Leicester City,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

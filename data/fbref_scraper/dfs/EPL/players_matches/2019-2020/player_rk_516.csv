@@ -1,0 +1,53 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2019-2020,2019-08-11,Sun,Premier League,Matchweek 1,Home,W 4–0,Manchester Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-19,Mon,Premier League,Matchweek 2,Away,D 1–1,Manchester Utd,Wolves,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–2,Manchester Utd,Crystal Palace,N,LB,57,0,0,0,0,2,0,0,0,61,4,0,0,2,0.1,0.1,0.4,5,0,52,55,94.5,9,45,9,3,3,Match Report
+2019-2020,2019-08-31,Sat,Premier League,Matchweek 4,Away,D 1–1,Manchester Utd,Southampton,Y*,LB,90,0,0,0,0,1,0,1,0,99,6,0,0,1,0.0,0.0,0.0,2,0,71,92,77.2,7,62,6,0,1,Match Report
+2019-2020,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 1–0,Manchester Utd,Leicester City,Y*,LB,90,0,0,0,0,0,0,0,0,82,14,1,3,4,0.0,0.0,0.0,3,0,49,62,79.0,6,39,5,1,3,Match Report
+2019-2020,2019-09-19,Thu,Europa Lg,Group stage,Home,W 1–0,eng Manchester Utd,kz Astana FK,N,LB,13,0,0,0,0,0,0,0,0,16,1,1,0,0,0.0,0.0,0.0,1,0,15,15,100.0,1,14,1,1,1,Match Report
+2019-2020,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 0–2,Manchester Utd,West Ham,Y*,LB,90,0,0,0,0,0,0,1,0,73,10,1,1,4,0.0,0.0,0.0,0,0,48,65,73.8,8,36,2,1,1,Match Report
+2019-2020,2019-09-30,Mon,Premier League,Matchweek 7,Home,D 1–1,Manchester Utd,Arsenal,Y*,RB,90,0,0,0,0,0,0,1,0,76,17,2,1,0,0.0,0.0,0.3,2,0,48,71,67.6,5,38,1,0,1,Match Report
+2019-2020,2019-10-06,Sun,Premier League,Matchweek 8,Away,L 0–1,Manchester Utd,Newcastle Utd,Y*,LB,85,0,0,0,0,0,0,0,0,103,7,0,2,2,0.0,0.0,0.4,8,0,76,93,81.7,11,71,6,0,1,Match Report
+2019-2020,2019-10-20,Sun,Premier League,Matchweek 9,Home,D 1–1,Manchester Utd,Liverpool,Y*,WB,90,0,0,0,0,0,0,0,0,62,16,1,2,3,0.0,0.0,0.0,1,0,28,47,59.6,2,29,1,1,3,Match Report
+2019-2020,2019-10-27,Sun,Premier League,Matchweek 10,Away,W 3–1,Manchester Utd,Norwich City,Y*,LB,90,0,0,0,0,0,0,1,0,74,14,0,1,0,0.0,0.0,0.0,1,0,63,69,91.3,5,63,9,1,2,Match Report
+2019-2020,2019-10-30,Wed,EFL Cup,Fourth round,Away,W 2–1,Manchester Utd,Chelsea,N,,11,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 0–1,Manchester Utd,Bournemouth,Y*,"LB,RB",90,0,0,0,0,0,0,1,0,60,5,1,2,1,0.0,0.0,0.0,3,0,37,55,67.3,4,38,3,1,1,Match Report
+2019-2020,2019-11-07,Thu,Europa Lg,Group stage,Home,W 3–0,eng Manchester Utd,rs Partizan,Y*,LB,90,0,1,0,0,2,0,1,0,84,9,1,3,1,0.1,0.1,0.1,3,1,59,75,78.7,3,65,4,2,3,Match Report
+2019-2020,2019-11-24,Sun,Premier League,Matchweek 13,Away,D 3–3,Manchester Utd,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-01,Sun,Premier League,Matchweek 14,Home,D 2–2,Manchester Utd,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Manchester Utd,Tottenham,Y*,"LB,CB",90,0,0,0,0,0,0,0,0,73,21,3,1,3,0.0,0.0,0.1,1,0,43,59,72.9,4,38,4,0,1,Match Report
+2019-2020,2019-12-07,Sat,Premier League,Matchweek 16,Away,W 2–1,Manchester Utd,Manchester City,N,LB,3,0,0,0,0,0,0,0,0,3,1,1,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Match Report
+2019-2020,2019-12-12,Thu,Europa Lg,Group stage,Home,W 4–0,eng Manchester Utd,nl AZ Alkmaar,Y*,RB,67,1,0,0,0,1,1,0,0,56,11,1,1,3,0.1,0.1,0.2,2,0,35,43,81.4,1,33,3,2,2,Match Report
+2019-2020,2019-12-15,Sun,Premier League,Matchweek 17,Home,D 1–1,Manchester Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-18,Wed,EFL Cup,Quarter-finals,Home,W 3–0,Manchester Utd,Colchester Utd,Y*,RB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-22,Sun,Premier League,Matchweek 18,Away,L 0–2,Manchester Utd,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-26,Thu,Premier League,Matchweek 19,Home,W 4–1,Manchester Utd,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2019-12-28,Sat,Premier League,Matchweek 20,Away,W 2–0,Manchester Utd,Burnley,Y*,RB,90,0,0,0,0,0,0,0,0,70,4,0,0,4,0.0,0.0,0.0,0,0,50,66,75.8,2,42,0,0,0,Match Report
+2019-2020,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–2,Manchester Utd,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-04,Sat,FA Cup,Third round,Away,D 0–0,Manchester Utd,Wolves,Y*,RB,90,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-01-26,Sun,Serie A,Matchweek 21,Home,D 1–1,Inter,Cagliari,Y,WB,90,0,1,0,0,0,0,0,0,55,23,2,0,0,0.0,0.0,0.3,4,1,31,43,72.1,4,29,2,1,2,Match Report
+2019-2020,2020-01-29,Wed,Coppa Italia,Quarter-finals,Home,W 2–1,Inter,Fiorentina,Y,DM,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-02,Sun,Serie A,Matchweek 22,Away,W 2–0,Inter,Udinese,Y,WB,90,0,0,0,0,2,1,0,0,52,4,1,0,2,0.2,0.2,0.1,2,0,37,47,78.7,1,30,6,1,1,Match Report
+2019-2020,2020-02-09,Sun,Serie A,Matchweek 23,Home,W 4–2,Inter,Milan,Y,WB,89,0,0,0,0,0,0,0,0,54,16,2,0,5,0.0,0.0,0.0,2,0,34,42,81.0,2,26,2,2,3,Match Report
+2019-2020,2020-02-12,Wed,Coppa Italia,Semi-finals,Home,L 0–1,Inter,Napoli,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-02-16,Sun,Serie A,Matchweek 24,Away,L 1–2,Inter,Lazio,Y,WB,90,1,0,0,0,1,1,0,0,44,8,4,0,0,0.3,0.3,0.1,3,0,27,38,71.1,3,31,4,1,2,Match Report
+2019-2020,2020-02-20,Thu,Europa Lg,Round of 32,Away,W 2–0,it Inter,bg Ludogorets,N,LB,10,0,0,0,0,0,0,0,0,13,0,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,2,8,2,0,0,Match Report
+2019-2020,2020-03-08,Sun,Serie A,Matchweek 26,Away,L 0–2,Inter,Juventus,Y,WB,90,0,0,0,0,0,0,0,0,71,1,0,0,2,0.0,0.0,0.0,0,0,54,65,83.1,6,52,2,0,1,Match Report
+2019-2020,2020-06-13,Sat,Coppa Italia,Semi-finals,Away,D 1–1,Inter,Napoli,Y,DM,71,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+2019-2020,2020-06-21,Sun,Serie A,Matchweek 25,Home,W 2–1,Inter,Sampdoria,Y,WB,72,0,0,0,0,0,0,0,0,62,4,1,0,1,0.0,0.0,0.1,5,0,47,52,90.4,7,44,8,0,0,Match Report
+2019-2020,2020-06-24,Wed,Serie A,Matchweek 27,Home,D 3–3,Inter,Sassuolo,N,WB,16,0,0,0,0,0,0,0,0,9,3,0,0,2,0.0,0.0,0.0,3,1,5,6,83.3,1,7,3,1,1,Match Report
+2019-2020,2020-06-28,Sun,Serie A,Matchweek 28,Away,W 2–1,Inter,Parma,N,WB,22,0,0,0,0,1,1,0,0,17,2,0,0,0,0.1,0.1,0.0,2,0,10,15,66.7,0,13,3,0,0,Match Report
+2019-2020,2020-07-01,Wed,Serie A,Matchweek 29,Home,W 6–0,Inter,Brescia,Y,WB,90,1,1,0,0,1,1,0,0,70,13,1,1,3,0.1,0.1,0.2,2,1,54,61,88.5,10,41,6,0,0,Match Report
+2019-2020,2020-07-05,Sun,Serie A,Matchweek 30,Home,L 1–2,Inter,Bologna,Y,WB,84,0,0,0,0,2,1,0,0,56,10,1,0,4,0.2,0.2,0.2,4,0,37,44,84.1,6,40,9,1,1,Match Report
+2019-2020,2020-07-09,Thu,Serie A,Matchweek 31,Away,D 2–2,Inter,Hellas Verona,Y,WB,90,0,0,0,0,0,0,1,0,60,3,1,0,3,0.0,0.0,0.1,5,0,42,54,77.8,8,39,6,0,0,Match Report
+2019-2020,2020-07-13,Mon,Serie A,Matchweek 32,Home,W 3–1,Inter,Torino,Y,WB,70,1,0,0,0,3,2,0,0,43,6,0,0,3,0.1,0.1,0.0,3,1,23,32,71.9,6,33,0,2,3,Match Report
+2019-2020,2020-07-16,Thu,Serie A,Matchweek 33,Away,W 4–0,Inter,SPAL,N,WB,28,0,1,0,0,0,0,0,0,13,1,0,0,0,0.0,0.0,0.8,1,1,13,13,100.0,0,8,1,0,0,Match Report
+2019-2020,2020-07-19,Sun,Serie A,Matchweek 34,Away,D 2–2,Inter,Roma,Y,WB,66,0,0,0,0,0,0,0,0,37,11,1,0,4,0.0,0.0,0.3,1,0,23,30,76.7,1,20,0,1,1,Match Report
+2019-2020,2020-07-22,Wed,Serie A,Matchweek 35,Home,D 0–0,Inter,Fiorentina,Y,WB,90,0,0,0,0,2,0,0,0,55,11,3,1,2,0.0,0.0,0.4,3,0,31,42,73.8,1,29,2,0,1,Match Report
+2019-2020,2020-07-25,Sat,Serie A,Matchweek 36,Away,W 3–0,Inter,Genoa,N,WB,7,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0,Match Report
+2019-2020,2020-07-28,Tue,Serie A,Matchweek 37,Home,W 2–0,Inter,Napoli,N,WB,12,0,0,0,0,0,0,0,0,8,1,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,4,1,0,0,Match Report
+2019-2020,2020-08-01,Sat,Serie A,Matchweek 38,Away,W 2–0,Inter,Atalanta,Y,WB,89,1,1,0,0,3,2,0,0,49,8,0,1,1,0.2,0.2,0.4,2,1,30,41,73.2,5,35,4,2,2,Match Report
+2019-2020,2020-08-05,Wed,Europa Lg,Round of 16,Neutral,W 2–0,it Inter,es Getafe,Y,WB,90,0,0,0,0,0,0,0,0,37,7,0,2,4,0.0,0.0,0.0,1,0,25,29,86.2,1,14,1,0,1,Match Report
+2019-2020,2020-08-10,Mon,Europa Lg,Quarter-finals,Home,W 2–1,it Inter,de Leverkusen,Y,WB,90,0,1,0,0,0,0,0,0,39,4,0,0,2,0.0,0.0,0.3,2,1,23,32,71.9,4,15,5,0,0,Match Report
+2019-2020,2020-08-17,Mon,Europa Lg,Semi-finals,Home,W 5–0,it Inter,ua Shakhtar,Y,WB,65,0,0,0,0,0,0,0,0,23,4,2,0,1,0.0,0.0,0.0,2,0,14,19,73.7,2,14,6,0,1,Match Report
+2019-2020,2020-08-21,Fri,Europa Lg,Final,Away,L 2–3,it Inter,es Sevilla,Y,WB,90,0,0,0,0,1,0,0,0,42,6,1,0,1,0.0,0.0,0.1,2,0,34,35,97.1,3,21,4,0,0,Match Report

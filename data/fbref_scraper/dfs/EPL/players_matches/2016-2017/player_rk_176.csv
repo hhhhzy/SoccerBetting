@@ -1,0 +1,58 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-07-06,Wed,UEFA Euro,Semi-finals,Home,W 2–0,pt Portugal,wal Wales,Y,CB,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-07-10,Sun,UEFA Euro,Final,Home,W 1–0,pt Portugal,fr France,Y,CB,120,0,0,0,0,1,0,1,0,1,0,0,0,1,2,0,0,0,Match Report
+2016-2017,2016-08-13,Sat,Premier League,Matchweek 1,Home,D 1–1,Southampton,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-08-19,Fri,Premier League,Matchweek 2,Away,L 0–2,Southampton,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Home,D 1–1,Southampton,Sunderland,Y*,CB,90,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,1,Match Report
+2016-2017,2016-09-01,Thu,Friendlies (M),Friendlies (M),Home,W 5–0,pt Portugal,gi Gibraltar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-06,Tue,WCQ — UEFA (M),First round,Away,L 0–2,pt Portugal,ch Switzerland,Y,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-10,Sat,Premier League,Matchweek 4,Away,L 1–2,Southampton,Arsenal,Y*,CB,90,0,0,0,0,0,0,1,0,2,0,0,1,3,3,0,0,1,Match Report
+2016-2017,2016-09-15,Thu,Europa Lg,Group stage,Home,W 3–0,eng Southampton,cz Sparta Prague,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-09-18,Sun,Premier League,Matchweek 5,Home,W 1–0,Southampton,Swansea City,Y*,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,Match Report
+2016-2017,2016-09-21,Wed,EFL Cup,Third round,Home,W 2–0,Southampton,Crystal Palace,Y*,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2016-09-25,Sun,Premier League,Matchweek 6,Away,W 3–0,Southampton,West Ham,Y*,CB,90,0,0,0,0,1,1,0,0,1,1,0,1,2,1,0,0,0,Match Report
+2016-2017,2016-10-02,Sun,Premier League,Matchweek 7,Away,D 0–0,Southampton,Leicester City,Y*,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,Match Report
+2016-2017,2016-10-07,Fri,WCQ — UEFA (M),First round,Home,W 6–0,pt Portugal,ad Andorra,Y,CB,90,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-10,Mon,WCQ — UEFA (M),First round,Away,W 6–0,pt Portugal,fo Faroe Islands,Y,CB,90,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-16,Sun,Premier League,Matchweek 8,Home,W 3–1,Southampton,Burnley,Y*,CB,90,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,Match Report
+2016-2017,2016-10-20,Thu,Europa Lg,Group stage,Away,L 0–1,eng Southampton,it Inter,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-10-23,Sun,Premier League,Matchweek 9,Away,D 1–1,Southampton,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,0,0,Match Report
+2016-2017,2016-10-26,Wed,EFL Cup,Fourth round,Home,W 1–0,Southampton,Sunderland,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-10-30,Sun,Premier League,Matchweek 10,Home,L 0–2,Southampton,Chelsea,Y*,CB,90,0,0,0,0,1,0,0,0,2,1,0,0,0,3,0,0,0,Match Report
+2016-2017,2016-11-03,Thu,Europa Lg,Group stage,Home,W 2–1,eng Southampton,it Inter,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-06,Sun,Premier League,Matchweek 11,Away,L 1–2,Southampton,Hull City,Y*,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-11-13,Sun,WCQ — UEFA (M),First round,Home,W 4–1,pt Portugal,lv Latvia,Y,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-11-19,Sat,Premier League,Matchweek 12,Home,D 0–0,Southampton,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,Match Report
+2016-2017,2016-11-27,Sun,Premier League,Matchweek 13,Home,W 1–0,Southampton,Everton,Y*,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,3,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Premier League,Matchweek 14,Away,L 0–3,Southampton,Crystal Palace,Y*,CB,90,0,0,0,0,2,0,0,0,0,2,0,0,3,1,0,0,0,Match Report
+2016-2017,2016-12-08,Thu,Europa Lg,Group stage,Home,D 1–1,eng Southampton,il Be'er Sheva,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-11,Sun,Premier League,Matchweek 15,Home,W 1–0,Southampton,Middlesbrough,Y*,CB,90,0,0,0,0,1,0,1,0,3,1,0,0,0,5,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,D 0–0,Southampton,Stoke City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,Match Report
+2016-2017,2016-12-18,Sun,Premier League,Matchweek 17,Away,W 3–1,Southampton,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-28,Wed,Premier League,Matchweek 18,Home,L 1–4,Southampton,Tottenham,Y*,CB,90,0,0,0,0,2,0,0,0,1,1,0,0,0,1,0,0,0,Match Report
+2016-2017,2016-12-31,Sat,Premier League,Matchweek 19,Home,L 1–2,Southampton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-02,Mon,Premier League,Matchweek 20,Away,L 0–3,Southampton,Everton,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,Match Report
+2016-2017,2017-02-01,Wed,Premier League,Matchweek 23,Home,L 0–4,West Ham,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,0,1,Match Report
+2016-2017,2017-02-04,Sat,Premier League,Matchweek 24,Away,W 3–1,West Ham,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-02-11,Sat,Premier League,Matchweek 25,Home,D 2–2,West Ham,West Brom,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,1,2,0,0,0,Match Report
+2016-2017,2017-02-25,Sat,Premier League,Matchweek 26,Away,D 1–1,West Ham,Watford,Y,CB,90,0,0,0,0,1,1,0,0,2,1,0,0,1,1,0,0,0,Match Report
+2016-2017,2017-03-06,Mon,Premier League,Matchweek 27,Home,L 1–2,West Ham,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-03-11,Sat,Premier League,Matchweek 28,Away,L 2–3,West Ham,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,1,Match Report
+2016-2017,2017-03-18,Sat,Premier League,Matchweek 29,Home,L 2–3,West Ham,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Match Report
+2016-2017,2017-03-25,Sat,WCQ — UEFA (M),First round,Home,W 3–0,pt Portugal,hu Hungary,Y,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-03-28,Tue,Friendlies (M),Friendlies (M),Home,L 2–3,pt Portugal,se Sweden,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-04-01,Sat,Premier League,Matchweek 30,Away,L 1–2,West Ham,Hull City,Y,CB,90,0,0,0,0,0,0,1,0,1,1,0,0,2,2,0,0,0,Match Report
+2016-2017,2017-04-05,Wed,Premier League,Matchweek 31,Away,L 0–3,West Ham,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,4,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Premier League,Matchweek 32,Home,W 1–0,West Ham,Swansea City,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,Match Report
+2016-2017,2017-04-15,Sat,Premier League,Matchweek 33,Away,D 2–2,West Ham,Sunderland,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-04-22,Sat,Premier League,Matchweek 34,Home,D 0–0,West Ham,Everton,Y,CB,90,0,0,0,0,1,1,1,0,2,0,0,1,1,4,0,0,0,Match Report
+2016-2017,2017-04-29,Sat,Premier League,Matchweek 35,Away,D 0–0,West Ham,Stoke City,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,1,1,6,0,0,0,Match Report
+2016-2017,2017-05-05,Fri,Premier League,Matchweek 36,Home,W 1–0,West Ham,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,Match Report
+2016-2017,2017-05-14,Sun,Premier League,Matchweek 37,Home,L 0–4,West Ham,Liverpool,Y,CB,54,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Match Report
+2016-2017,2017-05-21,Sun,Premier League,Matchweek 38,Away,W 2–1,West Ham,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,2,1,2,0,0,0,Match Report
+2016-2017,2017-06-03,Sat,Friendlies (M),Friendlies (M),Home,W 4–0,pt Portugal,cy Cyprus,Y,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-06-09,Fri,WCQ — UEFA (M),First round,Away,W 3–0,pt Portugal,lv Latvia,Y,CB,90,0,1,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-06-18,Sun,FIFA Confederations Cup,Group stage,Neutral,D 2–2,pt Portugal,mx Mexico,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,Match Report
+2016-2017,2017-06-21,Wed,FIFA Confederations Cup,Group stage,Neutral,W 1–0,pt Portugal,ru Russia,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-06-24,Sat,FIFA Confederations Cup,Group stage,Neutral,W 4–0,pt Portugal,nz New Zealand,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-06-28,Wed,FIFA Confederations Cup,Semi-finals,Neutral,L 0 (0)–0 (3),pt Portugal,cl Chile,Y,CB,120,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,Match Report

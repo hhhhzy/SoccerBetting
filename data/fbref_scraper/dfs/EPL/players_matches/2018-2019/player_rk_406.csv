@@ -1,0 +1,40 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-10,Fri,Premier League,Matchweek 1,Home,W 2–1,Manchester Utd,Leicester City,Y,FW,90,0,0,0,0,1,0,0,0,57,20,2,2,1,0.0,0.0,0.7,5,1,25,44,56.8,1,47,7,0,0,Match Report
+2018-2019,2018-08-27,Mon,Premier League,Matchweek 3,Home,L 0–3,Manchester Utd,Tottenham,N,FW,36,0,0,0,0,3,1,0,0,20,10,2,0,1,0.1,0.1,0.0,1,0,8,13,61.5,2,15,5,1,1,Match Report
+2018-2019,2018-09-02,Sun,Premier League,Matchweek 4,Away,W 2–0,Manchester Utd,Burnley,Y,LW,60,0,1,0,0,3,1,1,0,50,13,1,0,0,0.1,0.1,0.6,4,1,31,42,73.8,7,48,11,2,4,Match Report
+2018-2019,2018-09-15,Sat,Premier League,Matchweek 5,Away,W 2–1,Manchester Utd,Watford,Y,LW,83,0,0,0,0,1,1,0,0,44,10,0,1,1,0.1,0.1,0.0,3,0,26,34,76.5,3,37,4,1,3,Match Report
+2018-2019,2018-09-19,Wed,Champions Lg,Group stage,Away,W 3–0,eng Manchester Utd,ch Young Boys,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Home,D 1–1,Manchester Utd,Wolves,Y,LW,62,0,0,0,0,2,1,0,0,45,12,1,1,0,0.1,0.1,0.0,4,0,22,35,62.9,3,41,8,3,3,Match Report
+2018-2019,2018-09-25,Tue,EFL Cup,Third round,Home,L 2 (7)–2 (8),Manchester Utd,Derby County,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-02,Tue,Champions Lg,Group stage,Home,D 0–0,eng Manchester Utd,es Valencia,Y,RW,75,0,0,0,0,2,0,0,0,58,26,2,0,3,0.1,0.1,0.1,5,0,28,46,60.9,8,46,7,1,3,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Home,W 3–2,Manchester Utd,Newcastle Utd,N,RW,24,1,0,0,0,2,2,0,0,22,4,0,0,0,0.2,0.2,0.2,1,0,16,20,80.0,2,18,2,0,0,Match Report
+2018-2019,2018-10-16,Tue,Friendlies (M),Friendlies (M),Away,W 1–0,cl Chile,mx Mexico,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Away,D 2–2,Manchester Utd,Chelsea,N,RW,6,0,0,0,0,0,0,1,0,8,4,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,2,7,2,0,0,Match Report
+2018-2019,2018-10-28,Sun,Premier League,Matchweek 10,Home,W 2–1,Manchester Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Away,W 2–1,Manchester Utd,Bournemouth,Y,FW,77,0,1,0,0,2,1,0,0,33,4,0,0,0,0.3,0.3,0.3,3,1,18,25,72.0,4,28,3,1,2,Match Report
+2018-2019,2018-11-07,Wed,Champions Lg,Group stage,Away,W 2–1,eng Manchester Utd,it Juventus,Y,FW,78,0,0,0,0,1,0,0,0,39,25,1,0,0,0.1,0.1,0.0,1,0,22,32,68.8,2,26,2,2,3,Match Report
+2018-2019,2018-11-11,Sun,Premier League,Matchweek 12,Away,L 1–3,Manchester Utd,Manchester City,N,RW,18,0,0,0,0,0,0,0,0,5,4,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Match Report
+2018-2019,2018-11-16,Fri,Friendlies (M),Friendlies (M),Home,L 2–3,cl Chile,cr Costa Rica,Y,FW,90,1,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-20,Tue,Friendlies (M),Friendlies (M),Home,W 4–1,cl Chile,hn Honduras,Y,FW,90,1,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-24,Sat,Premier League,Matchweek 13,Home,D 0–0,Manchester Utd,Crystal Palace,N,"AM,CM",23,0,0,0,0,0,0,0,0,23,8,0,0,0,0.0,0.0,0.4,3,0,14,21,66.7,5,24,5,2,2,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Away,W 2–0,Manchester Utd,Newcastle Utd,N,LW,28,0,1,0,0,1,0,0,0,18,9,1,0,1,0.0,0.0,0.5,3,1,8,10,80.0,2,16,4,2,2,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,W 2–0,Manchester Utd,Reading,Y,FW,63,0,1,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 2–1,Manchester Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-25,Fri,FA Cup,Fourth round,Away,W 3–1,Manchester Utd,Arsenal,Y,FW,71,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,D 2–2,Manchester Utd,Burnley,N,LW,24,0,0,0,0,1,1,0,0,22,6,0,0,1,0.1,0.1,0.1,3,1,10,18,55.6,0,19,3,0,0,Match Report
+2018-2019,2019-02-03,Sun,Premier League,Matchweek 25,Away,W 1–0,Manchester Utd,Leicester City,Y,FW,66,0,0,0,0,0,0,0,0,37,23,0,1,0,0.0,0.0,0.0,1,0,25,32,78.1,1,25,3,1,1,Match Report
+2018-2019,2019-02-09,Sat,Premier League,Matchweek 26,Away,W 3–0,Manchester Utd,Fulham,N,LW,21,0,0,0,0,1,1,0,0,11,5,0,1,0,0.3,0.3,0.1,1,0,4,9,44.4,0,10,4,0,0,Match Report
+2018-2019,2019-02-12,Tue,Champions Lg,Round of 16,Home,L 0–2,eng Manchester Utd,fr Paris S-G,N,LW,46,0,0,0,0,0,0,0,0,23,26,1,1,0,0.0,0.0,0.0,1,0,14,18,77.8,1,15,1,0,1,Match Report
+2018-2019,2019-02-18,Mon,FA Cup,Fifth round,Away,W 2–0,Manchester Utd,Chelsea,N,,18,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-02-24,Sun,Premier League,Matchweek 27,Home,D 0–0,Manchester Utd,Liverpool,N,AM,48,0,0,0,0,0,0,0,0,20,22,1,0,1,0.0,0.0,0.1,1,0,9,14,64.3,1,19,1,3,3,Match Report
+2018-2019,2019-02-27,Wed,Premier League,Matchweek 28,Away,W 3–1,Manchester Utd,Crystal Palace,Y,LW,76,0,0,0,0,1,0,1,0,39,25,0,2,1,0.0,0.0,0.0,3,0,26,30,86.7,4,36,4,2,3,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Home,W 3–2,Manchester Utd,Southampton,Y,AM,51,0,0,0,0,0,0,0,0,29,8,2,0,0,0.0,0.0,0.0,1,0,19,20,95.0,4,25,2,0,1,Match Report
+2018-2019,2019-04-16,Tue,Champions Lg,Quarter-finals,Away,L 0–3,eng Manchester Utd,es Barcelona,N,FW,11,0,0,0,0,1,1,0,0,6,1,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,2,5,1,0,0,Match Report
+2018-2019,2019-04-21,Sun,Premier League,Matchweek 35,Away,L 0–4,Manchester Utd,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-24,Wed,Premier League,Matchweek 31,Home,L 0–2,Manchester Utd,Manchester City,N,AM,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+2018-2019,2019-04-28,Sun,Premier League,Matchweek 36,Home,D 1–1,Manchester Utd,Chelsea,N,FW,26,0,0,0,0,0,0,0,0,12,11,2,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,8,0,1,2,Match Report
+2018-2019,2019-05-05,Sun,Premier League,Matchweek 37,Away,D 1–1,Manchester Utd,Huddersfield,Y,FW,53,0,0,0,0,0,0,0,0,29,10,2,1,0,0.0,0.0,0.1,3,0,19,25,76.0,2,22,4,1,1,Match Report
+2018-2019,2019-06-17,Mon,Copa América,Group stage,Neutral,W 4–0,cl Chile,jp Japan,Y,FW,86,1,1,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-21,Fri,Copa América,Group stage,Neutral,W 2–1,cl Chile,ec Ecuador,Y,FW,90,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-24,Mon,Copa América,Group stage,Neutral,L 0–1,cl Chile,uy Uruguay,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-28,Fri,Copa América,Quarter-finals,Neutral,W 0 (5)–0 (4),cl Chile,co Colombia,Y,FW,120,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report

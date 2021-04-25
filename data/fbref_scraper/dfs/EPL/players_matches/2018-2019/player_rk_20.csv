@@ -1,0 +1,44 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2018-2019,2018-08-11,Sat,Premier League,Matchweek 1,Home,L 1–2,Newcastle Utd,Tottenham,N,RM,22,0,0,0,0,1,0,0,0,15,9,1,0,0,0.0,0.0,0.1,1,0,5,7,71.4,0,11,2,0,0,Match Report
+2018-2019,2018-08-26,Sun,Premier League,Matchweek 3,Home,L 1–2,Newcastle Utd,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-08-29,Wed,EFL Cup,Second round,Away,L 1–3,Newcastle Utd,Nott'ham Forest,Y,DM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-01,Sat,Premier League,Matchweek 4,Away,L 1–2,Newcastle Utd,Manchester City,N,RM,37,0,0,0,0,0,0,0,0,15,5,1,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,11,1,0,2,Match Report
+2018-2019,2018-09-08,Sat,Africa Cup of Nations qualification,Group stage,Away,L 0–1,gh Ghana,ke Kenya,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-09-22,Sat,Premier League,Matchweek 6,Away,D 0–0,Newcastle Utd,Crystal Palace,N,RM,18,0,0,0,0,1,1,0,0,11,4,1,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,7,2,1,2,Match Report
+2018-2019,2018-09-29,Sat,Premier League,Matchweek 7,Home,L 0–2,Newcastle Utd,Leicester City,Y,LM,90,0,0,0,0,0,0,0,0,38,22,4,0,1,0.0,0.0,0.1,2,0,23,26,88.5,2,38,7,5,8,Match Report
+2018-2019,2018-10-06,Sat,Premier League,Matchweek 8,Away,L 2–3,Newcastle Utd,Manchester Utd,N,FW,13,0,0,0,0,0,0,0,0,7,2,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,0,Match Report
+2018-2019,2018-10-20,Sat,Premier League,Matchweek 9,Home,L 0–1,Newcastle Utd,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-10-27,Sat,Premier League,Matchweek 10,Away,D 0–0,Newcastle Utd,Southampton,N,FW,11,0,0,0,0,0,0,1,0,7,5,0,0,1,0.0,0.0,0.1,1,0,3,4,75.0,1,5,2,0,0,Match Report
+2018-2019,2018-11-03,Sat,Premier League,Matchweek 11,Home,W 1–0,Newcastle Utd,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-10,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,N,CM,11,0,0,0,0,1,1,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,5,1,0,0,Match Report
+2018-2019,2018-11-18,Sun,Africa Cup of Nations qualification,Group stage,Away,W 2–0,gh Ghana,et Ethiopia,Y,AM,72,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-11-26,Mon,Premier League,Matchweek 13,Away,W 2–1,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2018-12-01,Sat,Premier League,Matchweek 14,Home,L 0–3,Newcastle Utd,West Ham,N,RM,37,0,0,0,0,2,2,0,0,14,5,0,0,1,0.0,0.0,0.1,1,0,7,8,87.5,0,10,1,1,1,Match Report
+2018-2019,2018-12-05,Wed,Premier League,Matchweek 15,Away,D 1–1,Newcastle Utd,Everton,Y,RM,90,0,0,0,0,3,3,1,0,38,22,4,1,1,0.3,0.3,0.2,3,0,16,24,66.7,3,29,4,3,5,Match Report
+2018-2019,2018-12-09,Sun,Premier League,Matchweek 16,Home,L 1–2,Newcastle Utd,Wolves,Y,"CM,LM",88,0,0,0,0,1,0,0,0,45,23,1,0,0,0.0,0.0,0.1,2,0,26,35,74.3,3,36,5,2,3,Match Report
+2018-2019,2018-12-15,Sat,Premier League,Matchweek 17,Away,W 1–0,Newcastle Utd,Huddersfield,Y,"CM,LM",90,0,0,0,0,2,2,0,0,45,30,1,0,1,0.2,0.2,0.0,1,0,10,27,37.0,0,31,4,2,6,Match Report
+2018-2019,2018-12-22,Sat,Premier League,Matchweek 18,Home,D 0–0,Newcastle Utd,Fulham,Y,RW,71,0,0,0,0,1,0,0,0,41,33,2,0,2,0.1,0.1,0.0,0,0,25,30,83.3,2,31,4,0,0,Match Report
+2018-2019,2018-12-29,Sat,Premier League,Matchweek 20,Away,D 1–1,Newcastle Utd,Watford,Y,LW,90,0,0,0,0,1,0,0,0,44,23,2,0,3,0.1,0.1,0.0,2,1,24,31,77.4,0,32,4,3,6,Match Report
+2018-2019,2019-01-02,Wed,Premier League,Matchweek 21,Home,L 0–2,Newcastle Utd,Manchester Utd,Y,LM,90,0,0,0,0,5,2,0,0,50,41,0,0,0,0.3,0.3,0.0,2,0,26,38,68.4,1,48,12,3,4,Match Report
+2018-2019,2019-01-05,Sat,FA Cup,Third round,Home,D 1–1,Newcastle Utd,Blackburn,N,,16,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-12,Sat,Premier League,Matchweek 22,Away,L 1–2,Newcastle Utd,Chelsea,Y,LM,90,0,0,0,0,1,0,0,0,34,24,2,0,2,0.1,0.1,0.1,1,0,15,20,75.0,3,20,3,0,0,Match Report
+2018-2019,2019-01-15,Tue,FA Cup,Third round,Away,W 4–2,Newcastle Utd,Blackburn,N,,12,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-19,Sat,Premier League,Matchweek 23,Home,W 3–0,Newcastle Utd,Cardiff City,Y,LW,90,0,0,0,0,2,1,0,0,42,13,1,0,1,0.2,0.2,0.3,4,2,29,34,85.3,3,36,3,0,2,Match Report
+2018-2019,2019-01-26,Sat,FA Cup,Fourth round,Home,L 0–2,Newcastle Utd,Watford,N,,18,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-01-29,Tue,Premier League,Matchweek 24,Home,W 2–1,Newcastle Utd,Manchester City,Y,LW,86,0,0,0,0,1,0,0,0,26,34,1,0,1,0.1,0.1,0.0,0,0,11,14,78.6,0,24,2,2,7,Match Report
+2018-2019,2019-02-02,Sat,Premier League,Matchweek 25,Away,L 0–1,Newcastle Utd,Tottenham,Y,LW,81,0,0,0,0,0,0,0,0,20,30,1,0,2,0.0,0.0,0.0,0,0,4,12,33.3,1,15,1,2,2,Match Report
+2018-2019,2019-02-11,Mon,Premier League,Matchweek 26,Away,D 1–1,Newcastle Utd,Wolves,Y,CM,71,0,0,0,0,1,0,0,0,30,17,2,0,0,0.0,0.0,0.0,0,0,21,23,91.3,1,23,1,0,0,Match Report
+2018-2019,2019-02-23,Sat,Premier League,Matchweek 27,Home,W 2–0,Newcastle Utd,Huddersfield,N,LM,10,0,0,0,0,0,0,0,0,7,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,1,Match Report
+2018-2019,2019-02-26,Tue,Premier League,Matchweek 28,Home,W 2–0,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-02,Sat,Premier League,Matchweek 29,Away,L 0–2,Newcastle Utd,West Ham,N,"LW,CM",12,0,0,0,0,1,0,0,0,12,1,0,0,0,0.0,0.0,0.1,2,0,8,9,88.9,1,12,4,1,2,Match Report
+2018-2019,2019-03-16,Sat,Premier League,Matchweek 31,Away,D 2–2,Newcastle Utd,Bournemouth,N,RW,19,0,0,0,0,0,0,0,0,11,2,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,11,2,3,3,Match Report
+2018-2019,2019-03-23,Sat,Africa Cup of Nations qualification,Group stage,Home,W 1–0,gh Ghana,ke Kenya,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-03-26,Tue,Friendlies (M),Friendlies (M),Home,W 3–1,gh Ghana,mr Mauritania,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-04-06,Sat,Premier League,Matchweek 33,Home,L 0–1,Newcastle Utd,Crystal Palace,N,WB,1,0,0,0,0,0,0,0,0,8,0,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,1,0,0,Match Report
+2018-2019,2019-04-12,Fri,Premier League,Matchweek 34,Away,W 1–0,Newcastle Utd,Leicester City,N,AM,13,0,0,0,0,0,0,0,0,5,4,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,1,0,0,Match Report
+2018-2019,2019-04-20,Sat,Premier League,Matchweek 35,Home,W 3–1,Newcastle Utd,Southampton,N,LW,27,0,0,0,0,0,0,0,0,8,6,1,0,1,0.0,0.0,0.0,1,0,2,6,33.3,0,3,1,0,0,Match Report
+2018-2019,2019-04-27,Sat,Premier League,Matchweek 36,Away,D 1–1,Newcastle Utd,Brighton,Y,"RW,LW",80,0,0,0,0,1,0,0,0,34,20,1,0,2,0.0,0.0,0.0,0,0,23,26,88.5,0,31,5,2,3,Match Report
+2018-2019,2019-05-04,Sat,Premier League,Matchweek 37,Home,L 2–3,Newcastle Utd,Liverpool,Y,AM,90,1,0,0,0,2,1,0,0,30,17,0,0,1,0.4,0.4,0.2,3,0,16,22,72.7,1,24,4,1,1,Match Report
+2018-2019,2019-05-12,Sun,Premier League,Matchweek 38,Away,W 4–0,Newcastle Utd,Fulham,Y,LW,65,0,0,0,0,1,1,0,0,15,11,0,0,0,0.1,0.1,0.0,2,1,10,12,83.3,1,13,3,0,1,Match Report
+2018-2019,2019-06-25,Tue,Africa Cup of Nations,Group stage,Neutral,D 2–2,gh Ghana,bj Benin,Y,AM,90,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2018-2019,2019-06-29,Sat,Africa Cup of Nations,Group stage,Neutral,D 0–0,gh Ghana,cm Cameroon,Y,AM,14,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report

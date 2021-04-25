@@ -1,0 +1,35 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-14,Mon,Premier League,Matchweek 1,Home,L 1–3,Brighton,Chelsea,Y,CM,78,0,0,0,0,2,1,0,0,39,9,0,1,2,0.1,0.1,0.1,3,0,26,33,78.8,2,32,7,1,1,Match Report
+2020-2021,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 3–0,Brighton,Newcastle Utd,Y,CM,90,0,0,0,0,0,0,0,0,50,14,2,0,0,0.0,0.0,0.1,3,0,42,45,93.3,6,38,5,1,1,Match Report
+2020-2021,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,Y,DM,90,0,0,0,0,1,0,0,0,68,25,5,0,0,0.1,0.1,0.1,4,1,46,50,92.0,1,55,2,4,5,Match Report
+2020-2021,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 2–4,Brighton,Everton,Y,DM,81,0,0,0,0,0,0,1,0,71,15,2,0,4,0.0,0.0,0.0,3,0,57,62,91.9,3,56,3,0,1,Match Report
+2020-2021,2020-10-09,Fri,WCQ,WCQ — CONMEBOL (M),Home,W 3–0,co Colombia,ve Venezuela,N,,17,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-13,Tue,WCQ,WCQ — CONMEBOL (M),Away,D 2–2,co Colombia,cl Chile,N,,62,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Brighton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-26,Mon,Premier League,Matchweek 6,Home,D 1–1,Brighton,West Brom,N,"AM,LW",12,0,0,0,0,0,0,0,0,6,2,1,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Brighton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-06,Fri,Premier League,Matchweek 8,Home,D 0–0,Brighton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-28,Sat,Premier League,Matchweek 10,Home,D 1–1,Brighton,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Away,W 1–0,Brighton,Southampton,Y,AM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-07,Mon,Premier League,Matchweek 11,Home,L 1–2,Brighton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-13,Sun,Premier League,Matchweek 12,Away,L 0–3,Brighton,Leicester City,N,"RW,DM",36,0,0,0,0,0,0,0,0,23,6,1,1,2,0.0,0.0,0.0,1,0,16,18,88.9,2,17,4,0,0,Match Report
+2020-2021,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 0–0,Brighton,Fulham,Y,DM,90,0,0,0,0,0,0,0,0,44,22,1,1,1,0.0,0.0,0.0,3,0,30,37,81.1,1,29,3,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-27,Sun,Premier League,Matchweek 15,Away,D 2–2,Brighton,West Ham,N,DM,45,0,0,0,0,0,0,0,0,23,4,0,0,3,0.0,0.0,0.0,0,0,16,18,88.9,1,14,2,0,0,Match Report
+2020-2021,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 1–0,Brighton,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,FA Cup,Fourth round,Home,W 2–1,Brighton,Blackpool,Y,DM,60,1,1,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Home,D 0–0,Brighton,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-31,Sun,Premier League,Matchweek 21,Home,W 1–0,Brighton,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Away,W 1–0,Brighton,Liverpool,Y,"DM,WB",90,1,0,0,0,1,1,0,0,57,10,3,1,1,0.3,0.3,0.0,1,0,30,38,78.9,5,33,2,1,3,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 1–1,Brighton,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-10,Wed,FA Cup,Fifth round,Away,L 0–1,Brighton,Leicester City,Y,LM,78,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Home,D 0–0,Brighton,Aston Villa,Y,WB,61,0,0,0,0,0,0,1,0,18,7,0,1,0,0.0,0.0,0.0,2,0,14,15,93.3,3,15,3,0,1,Match Report
+2020-2021,2021-02-22,Mon,Premier League,Matchweek 25,Home,L 1–2,Brighton,Crystal Palace,Y,WB,45,0,0,0,0,1,0,0,0,25,5,1,0,0,0.1,0.1,0.0,1,0,21,24,87.5,2,17,4,0,0,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,L 0–1,Brighton,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,L 1–2,Brighton,Leicester City,N,DM,23,0,0,0,0,0,0,0,0,10,6,1,0,1,0.0,0.0,0.0,0,0,7,8,87.5,1,6,1,0,0,Match Report
+2020-2021,2021-03-14,Sun,Premier League,Matchweek 28,Away,W 2–1,Brighton,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-20,Sat,Premier League,Matchweek 29,Home,W 3–0,Brighton,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Away,L 1–2,Brighton,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-12,Mon,Premier League,Matchweek 31,Home,D 0–0,Brighton,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-20,Tue,Premier League,Matchweek 32,Away,D 0–0,Brighton,Chelsea,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

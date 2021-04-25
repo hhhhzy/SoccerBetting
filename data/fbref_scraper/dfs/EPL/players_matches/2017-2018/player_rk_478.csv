@@ -1,0 +1,50 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-08-13,Sun,Süper Lig,Matchweek 1,Home,W 2–0,Beşiktaş,Antalyaspor,Y,FW,87,1,0,1,1,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-18,Fri,Süper Lig,Matchweek 2,Away,D 2–2,Beşiktaş,Kasımpaşa,Y,FW,90,0,1,0,0,4,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-26,Sat,Süper Lig,Matchweek 3,Home,W 2–1,Beşiktaş,Bursaspor,Y,FW,72,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-02,Sat,WCQ — UEFA (M),First round,Away,L 0–2,tr Turkey,ua Ukraine,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-05,Tue,WCQ — UEFA (M),First round,Home,W 1–0,tr Turkey,hr Croatia,Y,RM,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-09,Sat,Süper Lig,Matchweek 4,Away,W 1–0,Beşiktaş,Karabükspor,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-13,Wed,Champions Lg,Group stage,Away,W 3–1,tr Beşiktaş,pt Porto,Y,FW,90,1,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-18,Mon,Süper Lig,Matchweek 5,Home,W 2–0,Beşiktaş,Konyaspor,Y,FW,69,1,0,0,0,3,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-23,Sat,Süper Lig,Matchweek 6,Away,L 1–2,Beşiktaş,Fenerbahçe,Y,FW,77,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-26,Tue,Champions Lg,Group stage,Home,W 2–0,tr Beşiktaş,de RB Leipzig,Y,FW,80,0,1,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Süper Lig,Matchweek 7,Home,D 2–2,Beşiktaş,Trabzonspor,N,,32,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-06,Fri,WCQ — UEFA (M),First round,Home,L 0–3,tr Turkey,is Iceland,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-09,Mon,WCQ — UEFA (M),First round,Away,D 2–2,tr Turkey,fi Finland,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-13,Fri,Süper Lig,Matchweek 8,Away,L 1–2,Beşiktaş,Gençlerbirliği,Y,AM,90,1,0,1,1,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-17,Tue,Champions Lg,Group stage,Away,W 2–1,tr Beşiktaş,fr Monaco,Y,FW,89,2,0,0,0,3,3,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-23,Mon,Süper Lig,Matchweek 9,Home,D 1–1,Beşiktaş,Başakşehir,Y,FW,90,0,0,0,0,2,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-28,Sat,Süper Lig,Matchweek 10,Away,W 2–1,Beşiktaş,Alanyaspor,Y,FW,90,1,0,0,0,5,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-01,Wed,Champions Lg,Group stage,Home,D 1–1,tr Beşiktaş,fr Monaco,Y,FW,90,1,0,1,1,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-05,Sun,Süper Lig,Matchweek 11,Away,W 3–1,Beşiktaş,Göztepe,Y,FW,90,1,0,0,0,4,2,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-09,Thu,Friendlies (M),Friendlies (M),Away,L 0–2,tr Turkey,ro Romania,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-13,Mon,Friendlies (M),Friendlies (M),Home,L 2–3,tr Turkey,al Albania,Y,FW,90,0,2,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-17,Fri,Süper Lig,Matchweek 12,Home,D 0–0,Beşiktaş,Akhisarspor,N,,45,0,0,0,0,2,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-21,Tue,Champions Lg,Group stage,Home,D 1–1,tr Beşiktaş,pt Porto,Y,FW,90,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-11-25,Sat,Süper Lig,Matchweek 13,Away,D 0–0,Beşiktaş,Malatyaspor,Y,FW,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-02,Sat,Süper Lig,Matchweek 14,Home,W 3–0,Beşiktaş,Galatasaray,Y,FW,88,1,0,0,0,5,3,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-06,Wed,Champions Lg,Group stage,Away,W 2–1,tr Beşiktaş,de RB Leipzig,N,,10,0,0,0,0,4,3,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-10,Sun,Süper Lig,Matchweek 15,Away,D 1–1,Beşiktaş,Kayserispor,Y,FW,90,1,0,1,1,7,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-17,Sun,Süper Lig,Matchweek 16,Home,W 5–1,Beşiktaş,Osmanlıspor,N,,8,1,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-12-23,Sat,Süper Lig,Matchweek 17,Away,L 1–2,Beşiktaş,Sivasspor,N,,45,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-01-13,Sat,Premier League,Matchweek 23,Away,L 0–4,Everton,Tottenham,Y,FW,61,0,0,0,0,2,0,0,0,32,22,0,1,0,0.1,0.1,0.1,3,0,17,24,70.8,1,13,1,0,0,Match Report
+2017-2018,2018-01-20,Sat,Premier League,Matchweek 24,Home,D 1–1,Everton,West Brom,Y,FW,68,0,0,0,0,0,0,0,0,36,8,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,1,19,1,0,1,Match Report
+2017-2018,2018-01-31,Wed,Premier League,Matchweek 25,Home,W 2–1,Everton,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-03,Sat,Premier League,Matchweek 26,Away,L 1–5,Everton,Arsenal,N,FW,13,0,0,0,0,1,0,0,0,5,3,0,0,0,0.1,0.1,0.0,1,0,3,3,100.0,1,3,0,0,0,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 3–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 0–1,Everton,Watford,N,FW,34,0,0,0,0,1,1,0,0,14,16,1,0,0,0.4,0.4,0.0,0,0,6,11,54.5,0,8,3,0,0,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 1–2,Everton,Burnley,Y,FW,67,1,0,0,0,3,2,0,0,35,10,2,0,1,0.3,0.3,0.3,3,0,20,27,74.1,2,17,5,0,1,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,W 2–0,Everton,Brighton,Y,FW,90,1,0,0,0,1,1,0,0,41,14,0,2,0,0.1,0.1,0.0,3,0,22,31,71.0,0,31,2,1,2,Match Report
+2017-2018,2018-03-17,Sat,Premier League,Matchweek 31,Away,W 2–1,Everton,Stoke City,Y,FW,90,2,0,0,0,3,3,0,0,31,21,1,0,3,0.9,0.9,0.2,3,0,13,18,72.2,0,17,2,1,1,Match Report
+2017-2018,2018-03-23,Fri,Friendlies (M),Friendlies (M),Home,W 1–0,tr Turkey,ie Republic of Ireland,Y,FW,63,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-27,Tue,Friendlies (M),Friendlies (M),Away,D 2–2,tr Turkey,me Montenegro,Y,FW,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,L 1–3,Everton,Manchester City,Y,FW,78,0,0,0,0,1,0,0,0,17,16,0,0,3,0.1,0.1,0.0,1,0,4,9,44.4,0,4,0,0,0,Match Report
+2017-2018,2018-04-07,Sat,Premier League,Matchweek 33,Home,D 0–0,Everton,Liverpool,Y,FW,90,0,0,0,0,2,0,0,0,35,20,0,0,2,0.3,0.3,0.0,1,0,16,25,64.0,1,17,4,0,0,Match Report
+2017-2018,2018-04-14,Sat,Premier League,Matchweek 34,Away,D 1–1,Everton,Swansea City,Y,FW,90,0,0,0,0,1,0,0,0,40,17,0,1,4,0.0,0.0,0.4,3,0,22,30,73.3,3,22,0,0,2,Match Report
+2017-2018,2018-04-23,Mon,Premier League,Matchweek 35,Home,W 1–0,Everton,Newcastle Utd,Y,FW,84,0,0,0,0,1,0,0,0,28,12,0,0,2,0.1,0.1,0.0,1,0,14,21,66.7,0,17,2,0,0,Match Report
+2017-2018,2018-04-28,Sat,Premier League,Matchweek 36,Away,W 2–0,Everton,Huddersfield,Y,FW,71,1,0,0,0,1,1,0,0,32,22,1,0,0,0.0,0.0,0.0,1,0,11,20,55.0,1,18,3,2,2,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Home,D 1–1,Everton,Southampton,Y,FW,90,0,0,0,0,1,0,0,0,25,6,0,0,1,0.0,0.0,0.0,0,0,10,17,58.8,1,16,1,0,0,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Away,L 1–3,Everton,West Ham,Y,FW,60,0,0,0,0,1,0,0,0,18,12,0,0,1,0.0,0.0,0.1,2,0,10,14,71.4,0,8,0,0,0,Match Report
+2017-2018,2018-05-28,Mon,Friendlies (M),Friendlies (M),Home,W 2–1,tr Turkey,ir Iran,Y,FW,77,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-06-01,Fri,Friendlies (M),Friendlies (M),Home,D 2–2,tr Turkey,tn Tunisia,Y*,FW,58,1,0,1,1,,,0,1,,,,,,,,,,,,,,,,,,,Match Report

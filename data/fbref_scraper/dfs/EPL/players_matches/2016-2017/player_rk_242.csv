@@ -1,0 +1,45 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-2017,2016-08-15,Mon,Premier League,Matchweek 1,Home,W 2–1,Chelsea,West Ham,Y,RB,90,0,0,0,0,2,1,0,0,2,1,0,3,1,1,0,0,0,Match Report
+2016-2017,2016-08-20,Sat,Premier League,Matchweek 2,Away,W 2–1,Chelsea,Watford,Y,RB,90,0,0,0,0,1,0,0,0,0,1,1,7,3,2,0,0,0,Match Report
+2016-2017,2016-08-23,Tue,EFL Cup,Second round,Home,W 3–2,Chelsea,Bristol Rovers,Y*,CB,90,0,0,0,0,4,3,0,0,0,1,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-08-27,Sat,Premier League,Matchweek 3,Home,W 3–0,Chelsea,Burnley,Y,RB,90,0,0,0,0,1,0,1,0,1,1,0,4,0,2,0,0,0,Match Report
+2016-2017,2016-09-05,Mon,WCQ — UEFA (M),First round,Home,D 2–2,rs Serbia,ie Republic of Ireland,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-09-11,Sun,Premier League,Matchweek 4,Away,D 2–2,Chelsea,Swansea City,Y,RB,90,0,0,0,0,2,0,0,0,0,2,1,2,1,1,0,0,0,Match Report
+2016-2017,2016-09-16,Fri,Premier League,Matchweek 5,Home,L 1–2,Chelsea,Liverpool,Y*,RB,90,0,0,0,0,1,1,0,0,3,2,0,3,2,2,0,0,0,Match Report
+2016-2017,2016-09-24,Sat,Premier League,Matchweek 6,Away,L 0–3,Chelsea,Arsenal,Y*,RB,90,0,0,0,0,1,0,1,0,1,1,0,3,2,2,0,0,0,Match Report
+2016-2017,2016-10-01,Sat,Premier League,Matchweek 7,Away,W 2–0,Chelsea,Hull City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-10-06,Thu,WCQ — UEFA (M),First round,Away,W 3–0,rs Serbia,md Moldova,Y*,CB,90,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-09,Sun,WCQ — UEFA (M),First round,Home,W 3–2,rs Serbia,at Austria,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-10-30,Sun,Premier League,Matchweek 10,Away,W 2–0,Chelsea,Southampton,N,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-05,Sat,Premier League,Matchweek 11,Home,W 5–0,Chelsea,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-11-12,Sat,WCQ — UEFA (M),First round,Away,D 1–1,rs Serbia,wal Wales,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2016-11-15,Tue,Friendlies (M),Friendlies (M),Away,L 0–2,rs Serbia,ua Ukraine,N,,14,0,0,0,0,,,1,0,,,,,,,0,,,Match Report
+2016-2017,2016-11-20,Sun,Premier League,Matchweek 12,Away,W 1–0,Chelsea,Middlesbrough,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-11-26,Sat,Premier League,Matchweek 13,Home,W 2–1,Chelsea,Tottenham,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-03,Sat,Premier League,Matchweek 14,Away,W 3–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-11,Sun,Premier League,Matchweek 15,Home,W 1–0,Chelsea,West Brom,N,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-14,Wed,Premier League,Matchweek 16,Away,W 1–0,Chelsea,Sunderland,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2016-12-17,Sat,Premier League,Matchweek 17,Away,W 1–0,Chelsea,Crystal Palace,N,,12,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Match Report
+2016-2017,2016-12-26,Mon,Premier League,Matchweek 18,Home,W 3–0,Chelsea,Bournemouth,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2016-12-31,Sat,Premier League,Matchweek 19,Home,W 4–2,Chelsea,Stoke City,N,,9,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Match Report
+2016-2017,2017-01-04,Wed,Premier League,Matchweek 20,Away,L 0–2,Chelsea,Tottenham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-08,Sun,FA Cup,Third round,Home,W 4–1,Chelsea,P'borough Utd,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-01-14,Sat,Premier League,Matchweek 21,Away,W 3–0,Chelsea,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-01-28,Sat,FA Cup,Fourth round,Home,W 4–0,Chelsea,Brentford,N,,27,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-02-16,Thu,Europa Lg,Round of 32,Away,L 0–2,ru Zenit,be Anderlecht,Y,RB,90,0,0,0,0,0,0,0,0,0,1,0,7,0,1,0,0,0,Match Report
+2016-2017,2017-02-23,Thu,Europa Lg,Round of 32,Home,W 3–1,ru Zenit,be Anderlecht,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-03-04,Sat,Premier League,Matchweek 18,Away,D 0–0,Zenit,CSKA Moscow,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-03-12,Sun,Premier League,Matchweek 19,Away,L 0–1,Zenit,Amkar Perm,N,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-19,Sun,Premier League,Matchweek 20,Home,W 2–0,Zenit,Arsenal Tula,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-03-24,Fri,WCQ — UEFA (M),First round,Away,W 3–1,rs Serbia,ge Georgia,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2016-2017,2017-04-02,Sun,Premier League,Matchweek 21,Away,W 2–0,Zenit,Rubin Kazan,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-08,Sat,Premier League,Matchweek 22,Home,D 1–1,Zenit,Anzhi,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-16,Sun,Premier League,Matchweek 23,Away,L 1–2,Zenit,Spartak Moscow,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-22,Sat,Premier League,Matchweek 24,Home,W 2–0,Zenit,Ural,Y,CB,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-04-26,Wed,Premier League,Matchweek 25,Away,W 1–0,Zenit,Orenburg,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-01,Mon,Premier League,Matchweek 26,Away,W 2–0,Zenit,Tom Tomsk,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-07,Sun,Premier League,Matchweek 27,Home,L 0–1,Zenit,Terek Grozny,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2016-2017,2017-05-13,Sat,Premier League,Matchweek 28,Away,W 3–1,Zenit,Samara,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Match Report
+2016-2017,2017-05-17,Wed,Premier League,Matchweek 29,Home,W 1–0,Zenit,Krasnodar,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-05-21,Sun,Premier League,Matchweek 30,Away,W 2–0,Zenit,Loko Moscow,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,Match Report
+2016-2017,2017-06-11,Sun,WCQ — UEFA (M),First round,Home,D 1–1,rs Serbia,wal Wales,Y*,CB,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report

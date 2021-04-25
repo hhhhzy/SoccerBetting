@@ -1,0 +1,29 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2017-2018,2017-07-27,Thu,Europa Lg,Third qualifying round,Home,W 4–2,fr Marseille,be Oostende,Y,LB,75,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-03,Thu,Europa Lg,Third qualifying round,Away,D 0–0,fr Marseille,be Oostende,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-06,Sun,Ligue 1,Matchweek 1,Home,W 3–0,Marseille,Dijon,Y,LB,90,0,0,0,0,2,0,0,0,54,3,1,1,2,0.1,0.1,0.0,2,0,36,44,81.8,2,31,5,2,3,Match Report
+2017-2018,2017-08-12,Sat,Ligue 1,Matchweek 2,Away,W 1–0,Marseille,Nantes,Y*,LB,90,0,0,0,0,0,0,0,0,45,10,0,2,1,0.0,0.0,0.0,2,0,26,40,65.0,0,17,2,0,0,Match Report
+2017-2018,2017-08-17,Thu,Europa Lg,Play-off Round,Away,D 1–1,fr Marseille,si NK Domžale,Y*,LB,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-24,Thu,Europa Lg,Play-off Round,Home,W 3–0,fr Marseille,si NK Domžale,Y*,LB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-08-27,Sun,Ligue 1,Matchweek 4,Away,L 1–6,Marseille,Monaco,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-10,Sun,Ligue 1,Matchweek 5,Home,L 1–3,Marseille,Rennes,Y,LB,90,0,0,0,0,0,0,1,0,57,3,1,1,0,0.0,0.0,0.0,0,0,35,51,68.6,2,30,1,1,2,Match Report
+2017-2018,2017-09-14,Thu,Europa Lg,Group stage,Home,W 1–0,fr Marseille,tr Konyaspor,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-17,Sun,Ligue 1,Matchweek 6,Away,W 2–0,Marseille,Amiens,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-09-28,Thu,Europa Lg,Group stage,Away,L 0–1,fr Marseille,at RB Salzburg,Y*,LB,90,0,0,0,0,1,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-01,Sun,Ligue 1,Matchweek 8,Away,W 4–2,Marseille,Nice,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-15,Sun,Ligue 1,Matchweek 9,Away,D 3–3,Marseille,Strasbourg,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-19,Thu,Europa Lg,Group stage,Home,W 2–1,fr Marseille,pt Vitória,Y*,LB,58,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+2017-2018,2017-10-29,Sun,Ligue 1,Matchweek 11,Away,W 1–0,Marseille,Lille,Y*,LB,80,0,0,0,0,0,0,1,0,41,21,3,2,1,0.0,0.0,0.1,1,0,22,32,68.8,1,12,0,0,1,Match Report
+2017-2018,2017-11-02,Thu,Europa Lg,Group stage,Away,L 0–1,fr Marseille,pt Vitória,N,,,0,0,0,0,0,0,0,1,,,,0,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-10,Sat,Premier League,Matchweek 27,Home,W 2–0,West Ham,Watford,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-02-24,Sat,Premier League,Matchweek 28,Away,L 1–4,West Ham,Liverpool,Y,"WB,LB",90,0,0,0,0,0,0,0,0,58,15,1,1,1,0.0,0.0,0.0,1,0,33,51,64.7,4,36,5,1,1,Match Report
+2017-2018,2018-03-03,Sat,Premier League,Matchweek 29,Away,L 1–4,West Ham,Swansea City,Y,WB,45,0,0,0,0,0,0,0,0,33,6,3,1,0,0.0,0.0,0.0,0,0,19,25,76.0,0,18,2,0,0,Match Report
+2017-2018,2018-03-10,Sat,Premier League,Matchweek 30,Home,L 0–3,West Ham,Burnley,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-03-31,Sat,Premier League,Matchweek 32,Home,W 3–0,West Ham,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-08,Sun,Premier League,Matchweek 33,Away,D 1–1,West Ham,Chelsea,N,CB,27,0,0,0,0,0,0,0,0,24,2,0,1,1,0.0,0.0,0.0,0,0,18,20,90.0,2,14,0,0,0,Match Report
+2017-2018,2018-04-16,Mon,Premier League,Matchweek 34,Home,D 1–1,West Ham,Stoke City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-22,Sun,Premier League,Matchweek 35,Away,L 1–4,West Ham,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-04-29,Sun,Premier League,Matchweek 36,Home,L 1–4,West Ham,Manchester City,Y,CB,65,0,0,0,0,0,0,0,0,28,6,1,1,3,0.0,0.0,0.0,0,0,15,23,65.2,0,18,1,1,1,Match Report
+2017-2018,2018-05-05,Sat,Premier League,Matchweek 37,Away,W 2–0,West Ham,Leicester City,N,WB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+2017-2018,2018-05-10,Thu,Premier League,Matchweek 31,Home,D 0–0,West Ham,Manchester Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-2018,2018-05-13,Sun,Premier League,Matchweek 38,Home,W 3–1,West Ham,Everton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report

@@ -1,0 +1,31 @@
+Season,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att_Passes,Cmp%,Prog_Passes,Carries,Prog_2_Carries,Succ,Att_2_Dribbles,Match Report
+2020-2021,2020-09-15,Tue,EFL Cup,Second round,Away,W 3–1,Aston Villa,Burton Albion,N,,20,1,0,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-21,Mon,Premier League,Matchweek 2,Home,W 1–0,Aston Villa,Sheffield Utd,N,FW,29,0,0,0,0,0,0,0,0,18,1,0,0,0,0.0,0.0,0.0,2,0,11,14,78.6,2,14,2,0,0,Match Report
+2020-2021,2020-09-24,Thu,EFL Cup,Third round,Away,W 3–0,Aston Villa,Bristol City,Y,FW,69,0,1,0,0,2,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-09-28,Mon,Premier League,Matchweek 3,Away,W 3–0,Aston Villa,Fulham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-01,Thu,EFL Cup,Fourth round,Home,L 0–1,Aston Villa,Stoke City,Y,FW,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-04,Sun,Premier League,Matchweek 4,Home,W 7–2,Aston Villa,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-10-23,Fri,Premier League,Matchweek 6,Home,L 0–3,Aston Villa,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-01,Sun,Premier League,Matchweek 7,Home,L 3–4,Aston Villa,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-11-08,Sun,Premier League,Matchweek 8,Away,W 3–0,Aston Villa,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-17,Thu,Premier League,Matchweek 13,Home,D 0–0,Aston Villa,Burnley,N,RW,11,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,0,0,0,0,Match Report
+2020-2021,2020-12-20,Sun,Premier League,Matchweek 14,Away,W 3–0,Aston Villa,West Brom,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 3–0,Aston Villa,Crystal Palace,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2020-12-28,Mon,Premier League,Matchweek 16,Away,D 1–1,Aston Villa,Chelsea,N,RW,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,0,0,0,0,Match Report
+2020-2021,2021-01-01,Fri,Premier League,Matchweek 17,Away,L 1–2,Aston Villa,Manchester Utd,N,RW,7,0,0,0,0,3,0,0,0,6,2,0,0,0,0.3,0.3,0.0,2,0,1,2,50.0,0,5,0,1,1,Match Report
+2020-2021,2021-01-20,Wed,Premier League,Matchweek 1,Away,L 0–2,Aston Villa,Manchester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-23,Sat,Premier League,Matchweek 11,Home,W 2–0,Aston Villa,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-01-27,Wed,Premier League,Matchweek 20,Away,L 2–3,Aston Villa,Burnley,N,DM,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Match Report
+2020-2021,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 1–0,Aston Villa,Southampton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–3,Aston Villa,West Ham,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-06,Sat,Premier League,Matchweek 23,Home,W 1–0,Aston Villa,Arsenal,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-13,Sat,Premier League,Matchweek 24,Away,D 0–0,Aston Villa,Brighton,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-21,Sun,Premier League,Matchweek 25,Home,L 1–2,Aston Villa,Leicester City,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-02-27,Sat,Premier League,Matchweek 26,Away,W 1–0,Aston Villa,Leeds United,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-03,Wed,Premier League,Matchweek 29,Away,L 0–1,Aston Villa,Sheffield Utd,N,RW,10,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,5,1,0,0,Match Report
+2020-2021,2021-03-06,Sat,Premier League,Matchweek 27,Home,D 0–0,Aston Villa,Wolves,N,"LW,FW",13,0,0,0,0,0,0,0,0,7,5,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,5,0,0,1,Match Report
+2020-2021,2021-03-12,Fri,Premier League,Matchweek 28,Away,D 1–1,Aston Villa,Newcastle Utd,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-03-21,Sun,Premier League,Matchweek 18,Home,L 0–2,Aston Villa,Tottenham,N,RW,12,0,0,0,0,1,0,0,0,6,1,0,0,0,0.1,0.1,0.1,3,0,4,4,100.0,0,7,0,2,2,Match Report
+2020-2021,2021-04-04,Sun,Premier League,Matchweek 30,Home,W 3–1,Aston Villa,Fulham,N,CM,24,0,1,0,0,0,0,0,0,9,10,1,0,1,0.0,0.0,0.2,2,2,4,5,80.0,0,10,1,2,3,Match Report
+2020-2021,2021-04-10,Sat,Premier League,Matchweek 31,Away,L 1–2,Aston Villa,Liverpool,N,"On matchday squad, but did not play",,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-2021,2021-04-21,Wed,Premier League,Matchweek 32,Home,L 1–2,Aston Villa,Manchester City,N,FW,45,0,0,0,0,1,0,0,0,11,15,1,0,0,0.2,0.2,0.0,0,0,3,6,50.0,0,2,0,0,0,Match Report

@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Cache files
+*.shelve
+
 # Distribution / packaging
 .Python
 build/

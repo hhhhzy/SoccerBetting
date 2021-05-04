@@ -1,381 +1,381 @@
-League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,HomeScore,AwayScore
-EPL,2019-2020,1,Fri,2019-08-09,20:00,Liverpool,1.7,1.0,Norwich City,53333,Anfield,Michael Oliver,4,1
-EPL,2019-2020,1,Sat,2019-08-10,12:30,West Ham,0.8,3.1,Manchester City,59870,London Stadium,Mike Dean,0,5
-EPL,2019-2020,1,Sat,2019-08-10,15:00,Burnley,0.7,0.8,Southampton,19784,Turf Moor,Graham Scott,3,0
-EPL,2019-2020,1,Sat,2019-08-10,15:00,Watford,0.9,0.7,Brighton,20245,Vicarage Road Stadium,Craig Pawson,0,3
-EPL,2019-2020,1,Sat,2019-08-10,15:00,Bournemouth,1.0,1.0,Sheffield Utd,10714,Vitality Stadium,Kevin Friend,1,1
-EPL,2019-2020,1,Sat,2019-08-10,15:00,Crystal Palace,0.7,1.0,Everton,25151,Selhurst Park,Jonathan Moss,0,0
-EPL,2019-2020,1,Sat,2019-08-10,17:30,Tottenham,2.4,0.6,Aston Villa,60407,Tottenham Hotspur Stadium,Chris Kavanagh,3,1
-EPL,2019-2020,1,Sun,2019-08-11,14:00,Newcastle Utd,0.5,1.0,Arsenal,47635,St. James' Park,Martin Atkinson,0,1
-EPL,2019-2020,1,Sun,2019-08-11,14:00,Leicester City,0.6,0.6,Wolves,32015,King Power Stadium,Andre Marriner,0,0
-EPL,2019-2020,1,Sun,2019-08-11,16:30,Manchester Utd,2.3,0.8,Chelsea,73620,Old Trafford,Anthony Taylor,4,0
-EPL,2019-2020,2,Sat,2019-08-17,12:30,Arsenal,0.9,1.3,Burnley,60214,Emirates Stadium,Mike Dean,2,1
-EPL,2019-2020,2,Sat,2019-08-17,15:00,Southampton,1.6,1.4,Liverpool,31712,St. Mary's Stadium,Andre Marriner,1,2
-EPL,2019-2020,2,Sat,2019-08-17,15:00,Norwich City,1.4,0.7,Newcastle Utd,27059,Carrow Road,Stuart Attwell,3,1
-EPL,2019-2020,2,Sat,2019-08-17,15:00,Brighton,1.6,0.8,West Ham,30459,The American Express Community Stadium,Anthony Taylor,1,1
-EPL,2019-2020,2,Sat,2019-08-17,15:00,Everton,1.0,1.0,Watford,39066,Goodison Park,Lee Mason,1,0
-EPL,2019-2020,2,Sat,2019-08-17,15:00,Aston Villa,1.7,1.3,Bournemouth,40996,Villa Park,Martin Atkinson,1,2
-EPL,2019-2020,2,Sat,2019-08-17,17:30,Manchester City,2.9,0.3,Tottenham,54503,Etihad Stadium,Michael Oliver,2,2
-EPL,2019-2020,2,Sun,2019-08-18,14:00,Sheffield Utd,1.6,0.2,Crystal Palace,30197,Bramall Lane,David Coote,1,0
-EPL,2019-2020,2,Sun,2019-08-18,16:30,Chelsea,1.4,0.8,Leicester City,40629,Stamford Bridge,Oliver Langford,1,1
-EPL,2019-2020,2,Mon,2019-08-19,20:00,Wolves,0.3,1.3,Manchester Utd,31314,Molineux Stadium,Jonathan Moss,1,1
-EPL,2019-2020,3,Fri,2019-08-23,20:00,Aston Villa,0.9,1.0,Everton,41922,Villa Park,Michael Oliver,2,0
-EPL,2019-2020,3,Sat,2019-08-24,12:30,Norwich City,1.2,2.1,Chelsea,27032,Carrow Road,Martin Atkinson,2,3
-EPL,2019-2020,3,Sat,2019-08-24,15:00,Brighton,0.9,1.5,Southampton,30019,The American Express Community Stadium,Kevin Friend,0,2
-EPL,2019-2020,3,Sat,2019-08-24,15:00,Manchester Utd,2.4,0.7,Crystal Palace,73454,Old Trafford,Paul Tierney,1,2
-EPL,2019-2020,3,Sat,2019-08-24,15:00,Watford,2.3,3.4,West Ham,20035,Vicarage Road Stadium,Chris Kavanagh,1,3
-EPL,2019-2020,3,Sat,2019-08-24,15:00,Sheffield Utd,0.7,0.9,Leicester City,30079,Bramall Lane,Andy Madley,1,2
-EPL,2019-2020,3,Sat,2019-08-24,17:30,Liverpool,2.5,0.9,Arsenal,53298,Anfield,Anthony Taylor,3,1
-EPL,2019-2020,3,Sun,2019-08-25,14:00,Bournemouth,1.5,2.3,Manchester City,10486,Vitality Stadium,Andre Marriner,1,3
-EPL,2019-2020,3,Sun,2019-08-25,16:30,Tottenham,1.2,0.4,Newcastle Utd,59245,Tottenham Hotspur Stadium,Mike Dean,0,1
-EPL,2019-2020,3,Sun,2019-08-25,16:30,Wolves,1.5,1.2,Burnley,30522,Molineux Stadium,Craig Pawson,1,1
-EPL,2019-2020,4,Sat,2019-08-31,12:30,Southampton,0.7,1.6,Manchester Utd,30499,St. Mary's Stadium,Mike Dean,1,1
-EPL,2019-2020,4,Sat,2019-08-31,15:00,West Ham,1.8,1.3,Norwich City,59950,London Stadium,Paul Tierney,2,0
-EPL,2019-2020,4,Sat,2019-08-31,15:00,Leicester City,1.9,0.9,Bournemouth,31613,King Power Stadium,Peter Bankes,3,1
-EPL,2019-2020,4,Sat,2019-08-31,15:00,Chelsea,1.7,1.1,Sheffield Utd,40560,Stamford Bridge,Stuart Attwell,2,2
-EPL,2019-2020,4,Sat,2019-08-31,15:00,Crystal Palace,1.4,0.3,Aston Villa,25248,Selhurst Park,Kevin Friend,1,0
-EPL,2019-2020,4,Sat,2019-08-31,15:00,Newcastle Utd,0.9,1.3,Watford,44157,St. James' Park,Graham Scott,1,1
-EPL,2019-2020,4,Sat,2019-08-31,15:00,Manchester City,2.1,0.5,Brighton,54386,Etihad Stadium,Jonathan Moss,4,0
-EPL,2019-2020,4,Sat,2019-08-31,17:30,Burnley,0.4,1.1,Liverpool,21762,Turf Moor,Chris Kavanagh,0,3
-EPL,2019-2020,4,Sun,2019-09-01,14:00,Everton,1.4,1.3,Wolves,39374,Goodison Park,Anthony Taylor,3,2
-EPL,2019-2020,4,Sun,2019-09-01,16:30,Arsenal,2.3,2.1,Tottenham,60333,Emirates Stadium,Martin Atkinson,2,2
-EPL,2019-2020,5,Sat,2019-09-14,12:30,Liverpool,2.7,0.4,Newcastle Utd,51430,Anfield,Andre Marriner,3,1
-EPL,2019-2020,5,Sat,2019-09-14,15:00,Manchester Utd,1.0,0.4,Leicester City,73689,Old Trafford,Martin Atkinson,1,0
-EPL,2019-2020,5,Sat,2019-09-14,15:00,Tottenham,1.0,0.7,Crystal Palace,59812,Tottenham Hotspur Stadium,Craig Pawson,4,0
-EPL,2019-2020,5,Sat,2019-09-14,15:00,Wolves,1.6,1.9,Chelsea,31534,Molineux Stadium,Graham Scott,2,5
-EPL,2019-2020,5,Sat,2019-09-14,15:00,Sheffield Utd,1.9,1.3,Southampton,30985,Bramall Lane,Lee Mason,0,1
-EPL,2019-2020,5,Sat,2019-09-14,15:00,Brighton,0.9,0.6,Burnley,29398,The American Express Community Stadium,Michael Oliver,1,1
-EPL,2019-2020,5,Sat,2019-09-14,17:30,Norwich City,1.5,2.2,Manchester City,27035,Carrow Road,Kevin Friend,3,2
-EPL,2019-2020,5,Sun,2019-09-15,14:00,Bournemouth,1.5,1.4,Everton,10416,Vitality Stadium,Paul Tierney,3,1
-EPL,2019-2020,5,Sun,2019-09-15,16:30,Watford,2.8,0.9,Arsenal,21360,Vicarage Road Stadium,Anthony Taylor,2,2
-EPL,2019-2020,5,Mon,2019-09-16,20:00,Aston Villa,1.0,0.5,West Ham,42010,Villa Park,Mike Dean,0,0
-EPL,2019-2020,6,Fri,2019-09-20,20:00,Southampton,2.2,1.2,Bournemouth,30168,St. Mary's Stadium,Chris Kavanagh,1,3
-EPL,2019-2020,6,Sat,2019-09-21,12:30,Leicester City,1.5,1.2,Tottenham,32129,King Power Stadium,Paul Tierney,2,1
-EPL,2019-2020,6,Sat,2019-09-21,15:00,Everton,0.9,0.2,Sheffield Utd,39354,Goodison Park,Simon Hooper,0,2
-EPL,2019-2020,6,Sat,2019-09-21,15:00,Burnley,1.5,0.6,Norwich City,19712,Turf Moor,David Coote,2,0
-EPL,2019-2020,6,Sat,2019-09-21,15:00,Manchester City,5.8,0.3,Watford,54273,Etihad Stadium,Mike Dean,8,0
-EPL,2019-2020,6,Sat,2019-09-21,17:30,Newcastle Utd,1.0,1.0,Brighton,43316,St. James' Park,Martin Atkinson,0,0
-EPL,2019-2020,6,Sun,2019-09-22,14:00,West Ham,0.5,1.0,Manchester Utd,59936,London Stadium,Anthony Taylor,2,0
-EPL,2019-2020,6,Sun,2019-09-22,14:00,Crystal Palace,0.9,0.9,Wolves,25122,Selhurst Park,Stuart Attwell,1,1
-EPL,2019-2020,6,Sun,2019-09-22,16:30,Chelsea,1.2,0.9,Liverpool,40638,Stamford Bridge,Michael Oliver,1,2
-EPL,2019-2020,6,Sun,2019-09-22,16:30,Arsenal,2.4,1.1,Aston Villa,60331,Emirates Stadium,Jonathan Moss,3,2
-EPL,2019-2020,7,Sat,2019-09-28,12:30,Sheffield Utd,1.3,1.9,Liverpool,31774,Bramall Lane,Anthony Taylor,0,1
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Aston Villa,0.8,1.5,Burnley,41546,Villa Park,Lee Mason,2,2
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Crystal Palace,1.5,0.5,Norwich City,25477,Selhurst Park,Jonathan Moss,2,0
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Wolves,1.5,0.9,Watford,30711,Molineux Stadium,Paul Tierney,2,0
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Tottenham,1.0,1.6,Southampton,59645,Tottenham Hotspur Stadium,Graham Scott,2,1
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Chelsea,3.2,0.5,Brighton,40683,Stamford Bridge,Chris Kavanagh,2,0
-EPL,2019-2020,7,Sat,2019-09-28,15:00,Bournemouth,1.9,1.5,West Ham,10729,Vitality Stadium,Stuart Attwell,2,2
-EPL,2019-2020,7,Sat,2019-09-28,17:30,Everton,2.5,3.5,Manchester City,39222,Goodison Park,Michael Oliver,1,3
-EPL,2019-2020,7,Sun,2019-09-29,16:30,Leicester City,1.1,0.2,Newcastle Utd,32168,King Power Stadium,Craig Pawson,5,0
-EPL,2019-2020,7,Mon,2019-09-30,20:00,Manchester Utd,1.2,1.9,Arsenal,73201,Old Trafford,Kevin Friend,1,1
-EPL,2019-2020,8,Sat,2019-10-05,12:30,Brighton,2.0,0.6,Tottenham,30610,The American Express Community Stadium,Jonathan Moss,3,0
-EPL,2019-2020,8,Sat,2019-10-05,15:00,Norwich City,3.1,2.9,Aston Villa,27045,Carrow Road,Andy Madley,1,5
-EPL,2019-2020,8,Sat,2019-10-05,15:00,Burnley,0.7,0.9,Everton,20650,Turf Moor,Graham Scott,1,0
-EPL,2019-2020,8,Sat,2019-10-05,15:00,Liverpool,2.8,0.1,Leicester City,53322,Anfield,Chris Kavanagh,2,1
-EPL,2019-2020,8,Sat,2019-10-05,15:00,Watford,1.5,0.5,Sheffield Utd,20811,Vicarage Road Stadium,Andre Marriner,0,0
-EPL,2019-2020,8,Sat,2019-10-05,17:30,West Ham,1.3,2.1,Crystal Palace,59912,London Stadium,Michael Oliver,1,2
-EPL,2019-2020,8,Sun,2019-10-06,14:00,Arsenal,0.9,0.5,Bournemouth,60326,Emirates Stadium,Martin Atkinson,1,0
-EPL,2019-2020,8,Sun,2019-10-06,14:00,Manchester City,1.3,1.6,Wolves,54435,Etihad Stadium,Craig Pawson,0,2
-EPL,2019-2020,8,Sun,2019-10-06,14:00,Southampton,1.0,1.9,Chelsea,31473,St. Mary's Stadium,Paul Tierney,1,4
-EPL,2019-2020,8,Sun,2019-10-06,16:30,Newcastle Utd,0.5,0.6,Manchester Utd,51198,St. James' Park,Mike Dean,1,0
-EPL,2019-2020,9,Sat,2019-10-19,12:30,Everton,2.1,0.9,West Ham,39263,Goodison Park,Paul Tierney,2,0
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Bournemouth,0.6,0.4,Norwich City,10669,Vitality Stadium,Lee Mason,0,0
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Aston Villa,2.7,1.2,Brighton,41826,Villa Park,David Coote,2,1
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Chelsea,1.9,0.3,Newcastle Utd,40513,Stamford Bridge,Andre Marriner,1,0
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Wolves,0.9,1.6,Southampton,30915,Molineux Stadium,Peter Bankes,1,1
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Tottenham,1.0,0.8,Watford,58754,Tottenham Hotspur Stadium,Chris Kavanagh,1,1
-EPL,2019-2020,9,Sat,2019-10-19,15:00,Leicester City,1.4,1.4,Burnley,32105,King Power Stadium,Jonathan Moss,2,1
-EPL,2019-2020,9,Sat,2019-10-19,17:30,Crystal Palace,0.5,2.2,Manchester City,25480,Selhurst Park,Anthony Taylor,0,2
-EPL,2019-2020,9,Sun,2019-10-20,16:30,Manchester Utd,0.7,1.1,Liverpool,73737,Old Trafford,Martin Atkinson,1,1
-EPL,2019-2020,9,Mon,2019-10-21,20:00,Sheffield Utd,1.0,0.8,Arsenal,30775,Bramall Lane,Mike Dean,1,0
-EPL,2019-2020,10,Fri,2019-10-25,20:00,Southampton,0.4,3.7,Leicester City,28762,St. Mary's Stadium,Andre Marriner,0,9
-EPL,2019-2020,10,Sat,2019-10-26,12:30,Manchester City,2.4,0.9,Aston Villa,54506,Etihad Stadium,Graham Scott,3,0
-EPL,2019-2020,10,Sat,2019-10-26,15:00,West Ham,2.0,1.7,Sheffield Utd,59878,London Stadium,David Coote,1,1
-EPL,2019-2020,10,Sat,2019-10-26,15:00,Brighton,1.3,0.7,Everton,30529,The American Express Community Stadium,Andy Madley,3,2
-EPL,2019-2020,10,Sat,2019-10-26,15:00,Watford,0.8,1.1,Bournemouth,20821,Vicarage Road Stadium,Mike Dean,0,0
-EPL,2019-2020,10,Sat,2019-10-26,17:30,Burnley,2.2,1.0,Chelsea,20975,Turf Moor,Michael Oliver,2,4
-EPL,2019-2020,10,Sun,2019-10-27,14:00,Newcastle Utd,0.7,1.0,Wolves,46019,St. James' Park,Kevin Friend,1,1
-EPL,2019-2020,10,Sun,2019-10-27,16:30,Arsenal,1.7,1.7,Crystal Palace,60345,Emirates Stadium,Martin Atkinson,2,2
-EPL,2019-2020,10,Sun,2019-10-27,16:30,Norwich City,1.0,4.1,Manchester Utd,27108,Carrow Road,Stuart Attwell,1,3
-EPL,2019-2020,10,Sun,2019-10-27,16:30,Liverpool,2.5,1.4,Tottenham,53222,Anfield,Anthony Taylor,2,1
-EPL,2019-2020,11,Sat,2019-11-02,12:30,Bournemouth,1.7,0.7,Manchester Utd,10669,Vitality Stadium,Chris Kavanagh,1,0
-EPL,2019-2020,11,Sat,2019-11-02,15:00,Sheffield Utd,2.1,0.8,Burnley,31131,Bramall Lane,Simon Hooper,3,0
-EPL,2019-2020,11,Sat,2019-11-02,15:00,Manchester City,3.1,0.7,Southampton,53922,Etihad Stadium,Lee Mason,2,1
-EPL,2019-2020,11,Sat,2019-11-02,15:00,Brighton,2.3,0.4,Norwich City,30539,The American Express Community Stadium,Kevin Friend,2,0
-EPL,2019-2020,11,Sat,2019-11-02,15:00,Aston Villa,0.7,2.6,Liverpool,41878,Villa Park,Jonathan Moss,1,2
-EPL,2019-2020,11,Sat,2019-11-02,15:00,Arsenal,1.1,1.5,Wolves,60383,Emirates Stadium,Michael Oliver,1,1
-EPL,2019-2020,11,Sat,2019-11-02,15:00,West Ham,1.9,1.5,Newcastle Utd,59907,London Stadium,Stuart Attwell,2,3
-EPL,2019-2020,11,Sat,2019-11-02,17:30,Watford,1.4,2.6,Chelsea,21011,Vicarage Road Stadium,Anthony Taylor,1,2
-EPL,2019-2020,11,Sun,2019-11-03,14:00,Crystal Palace,0.4,1.4,Leicester City,25480,Selhurst Park,Paul Tierney,0,2
-EPL,2019-2020,11,Sun,2019-11-03,16:30,Everton,0.8,0.5,Tottenham,39001,Goodison Park,Martin Atkinson,1,1
-EPL,2019-2020,12,Fri,2019-11-08,20:00,Norwich City,0.8,0.8,Watford,27074,Carrow Road,Andre Marriner,0,2
-EPL,2019-2020,12,Sat,2019-11-09,12:30,Chelsea,2.5,0.2,Crystal Palace,40525,Stamford Bridge,Mike Dean,2,0
-EPL,2019-2020,12,Sat,2019-11-09,15:00,Newcastle Utd,3.0,2.3,Bournemouth,44424,St. James' Park,Martin Atkinson,2,1
-EPL,2019-2020,12,Sat,2019-11-09,15:00,Burnley,1.6,0.4,West Ham,20255,Turf Moor,Kevin Friend,3,0
-EPL,2019-2020,12,Sat,2019-11-09,15:00,Tottenham,1.1,1.0,Sheffield Utd,59781,Tottenham Hotspur Stadium,Graham Scott,1,1
-EPL,2019-2020,12,Sat,2019-11-09,15:00,Southampton,0.9,1.9,Everton,29754,St. Mary's Stadium,Paul Tierney,1,2
-EPL,2019-2020,12,Sat,2019-11-09,17:30,Leicester City,1.6,0.8,Arsenal,32209,King Power Stadium,Chris Kavanagh,2,0
-EPL,2019-2020,12,Sun,2019-11-10,14:00,Wolves,1.9,0.7,Aston Villa,31607,Molineux Stadium,Anthony Taylor,2,1
-EPL,2019-2020,12,Sun,2019-11-10,14:00,Manchester Utd,2.2,0.9,Brighton,73556,Old Trafford,Jonathan Moss,3,1
-EPL,2019-2020,12,Sun,2019-11-10,16:30,Liverpool,1.0,1.3,Manchester City,53324,Anfield,Michael Oliver,3,1
-EPL,2019-2020,13,Sat,2019-11-23,12:30,West Ham,0.7,1.6,Tottenham,59930,London Stadium,Michael Oliver,2,3
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Crystal Palace,1.0,1.4,Liverpool,25486,Selhurst Park,Kevin Friend,1,2
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Arsenal,2.0,2.8,Southampton,60295,Emirates Stadium,Stuart Attwell,2,2
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Bournemouth,0.5,1.4,Wolves,10539,Vitality Stadium,Simon Hooper,1,2
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Everton,0.8,1.8,Norwich City,39241,Goodison Park,Anthony Taylor,0,2
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Brighton,0.8,3.4,Leicester City,30640,The American Express Community Stadium,Mike Dean,0,2
-EPL,2019-2020,13,Sat,2019-11-23,15:00,Watford,1.0,2.3,Burnley,19711,Vicarage Road Stadium,Paul Tierney,0,3
-EPL,2019-2020,13,Sat,2019-11-23,17:30,Manchester City,1.1,1.1,Chelsea,54486,Etihad Stadium,Martin Atkinson,2,1
-EPL,2019-2020,13,Sun,2019-11-24,16:30,Sheffield Utd,1.4,1.4,Manchester Utd,32024,Bramall Lane,Andre Marriner,3,3
-EPL,2019-2020,13,Mon,2019-11-25,20:00,Aston Villa,1.8,0.6,Newcastle Utd,41821,Villa Park,Lee Mason,2,0
-EPL,2019-2020,14,Sat,2019-11-30,12:30,Newcastle Utd,0.3,2.6,Manchester City,49937,St. James' Park,Chris Kavanagh,2,2
-EPL,2019-2020,14,Sat,2019-11-30,15:00,Tottenham,2.8,1.4,Bournemouth,59626,Tottenham Hotspur Stadium,Lee Mason,3,2
-EPL,2019-2020,14,Sat,2019-11-30,15:00,Liverpool,1.9,1.0,Brighton,53319,Anfield,Martin Atkinson,2,1
-EPL,2019-2020,14,Sat,2019-11-30,15:00,Burnley,1.5,0.8,Crystal Palace,19818,Turf Moor,Peter Bankes,0,2
-EPL,2019-2020,14,Sat,2019-11-30,15:00,Chelsea,2.0,0.8,West Ham,40595,Stamford Bridge,Jonathan Moss,0,1
-EPL,2019-2020,14,Sat,2019-11-30,17:30,Southampton,1.4,0.7,Watford,26929,St. Mary's Stadium,Michael Oliver,2,1
-EPL,2019-2020,14,Sun,2019-12-01,14:00,Norwich City,1.3,2.0,Arsenal,27067,Carrow Road,Paul Tierney,2,2
-EPL,2019-2020,14,Sun,2019-12-01,14:00,Wolves,1.2,1.0,Sheffield Utd,31642,Molineux Stadium,David Coote,1,1
-EPL,2019-2020,14,Sun,2019-12-01,16:30,Leicester City,2.6,0.9,Everton,32144,King Power Stadium,Graham Scott,2,1
-EPL,2019-2020,14,Sun,2019-12-01,16:30,Manchester Utd,1.7,1.4,Aston Villa,73381,Old Trafford,Craig Pawson,2,2
-EPL,2019-2020,15,Tue,2019-12-03,19:30,Crystal Palace,0.4,0.3,Bournemouth,23497,Selhurst Park,Anthony Taylor,1,0
-EPL,2019-2020,15,Tue,2019-12-03,20:15,Burnley,0.5,1.8,Manchester City,20101,Turf Moor,Jonathan Moss,1,4
-EPL,2019-2020,15,Wed,2019-12-04,19:30,Wolves,1.6,0.5,West Ham,31217,Molineux Stadium,Andre Marriner,2,0
-EPL,2019-2020,15,Wed,2019-12-04,19:30,Manchester Utd,1.3,0.5,Tottenham,73252,Old Trafford,Paul Tierney,2,1
-EPL,2019-2020,15,Wed,2019-12-04,19:30,Leicester City,3.0,0.2,Watford,31763,King Power Stadium,Craig Pawson,2,0
-EPL,2019-2020,15,Wed,2019-12-04,19:30,Southampton,1.1,0.8,Norwich City,27019,St. Mary's Stadium,Kevin Friend,2,1
-EPL,2019-2020,15,Wed,2019-12-04,19:30,Chelsea,2.1,0.7,Aston Villa,40628,Stamford Bridge,Chris Kavanagh,2,1
-EPL,2019-2020,15,Wed,2019-12-04,20:15,Liverpool,2.7,1.5,Everton,53094,Anfield,Mike Dean,5,2
-EPL,2019-2020,15,Thu,2019-12-05,19:30,Sheffield Utd,1.3,0.8,Newcastle Utd,30409,Bramall Lane,Stuart Attwell,0,2
-EPL,2019-2020,15,Thu,2019-12-05,20:15,Arsenal,1.0,2.3,Brighton,60164,Emirates Stadium,Graham Scott,1,2
-EPL,2019-2020,16,Sat,2019-12-07,12:30,Everton,1.7,0.9,Chelsea,39114,Goodison Park,Craig Pawson,3,1
-EPL,2019-2020,16,Sat,2019-12-07,15:00,Watford,1.2,0.2,Crystal Palace,20070,Vicarage Road Stadium,Martin Atkinson,0,0
-EPL,2019-2020,16,Sat,2019-12-07,15:00,Bournemouth,0.2,2.3,Liverpool,10832,Vitality Stadium,Chris Kavanagh,0,3
-EPL,2019-2020,16,Sat,2019-12-07,15:00,Tottenham,2.3,0.5,Burnley,58401,Tottenham Hotspur Stadium,Kevin Friend,5,0
-EPL,2019-2020,16,Sat,2019-12-07,17:30,Manchester City,2.0,1.6,Manchester Utd,54403,Etihad Stadium,Anthony Taylor,1,2
-EPL,2019-2020,16,Sun,2019-12-08,14:00,Aston Villa,1.0,4.4,Leicester City,41908,Villa Park,Michael Oliver,1,4
-EPL,2019-2020,16,Sun,2019-12-08,14:00,Norwich City,0.8,0.7,Sheffield Utd,26881,Carrow Road,Simon Hooper,1,2
-EPL,2019-2020,16,Sun,2019-12-08,14:00,Newcastle Utd,1.2,2.3,Southampton,42303,St. James' Park,David Coote,2,1
-EPL,2019-2020,16,Sun,2019-12-08,16:30,Brighton,1.0,1.6,Wolves,30189,The American Express Community Stadium,Jonathan Moss,2,2
-EPL,2019-2020,16,Mon,2019-12-09,20:00,West Ham,0.6,1.7,Arsenal,59936,London Stadium,Mike Dean,1,3
-EPL,2019-2020,17,Sat,2019-12-14,12:30,Liverpool,1.6,1.4,Watford,53311,Anfield,Andre Marriner,2,0
-EPL,2019-2020,17,Sat,2019-12-14,15:00,Chelsea,1.5,0.8,Bournemouth,40243,Stamford Bridge,Graham Scott,0,1
-EPL,2019-2020,17,Sat,2019-12-14,15:00,Sheffield Utd,1.4,1.1,Aston Villa,30396,Bramall Lane,Peter Bankes,2,0
-EPL,2019-2020,17,Sat,2019-12-14,15:00,Leicester City,1.3,1.7,Norwich City,32101,King Power Stadium,Andy Madley,1,1
-EPL,2019-2020,17,Sat,2019-12-14,15:00,Burnley,1.0,0.7,Newcastle Utd,19798,Turf Moor,Tim Robinson,1,0
-EPL,2019-2020,17,Sat,2019-12-14,17:30,Southampton,0.9,1.0,West Ham,27701,St. Mary's Stadium,Martin Atkinson,0,1
-EPL,2019-2020,17,Sun,2019-12-15,14:00,Wolves,0.8,0.9,Tottenham,31674,Molineux Stadium,Stuart Attwell,1,2
-EPL,2019-2020,17,Sun,2019-12-15,14:00,Manchester Utd,1.7,0.3,Everton,63328,Old Trafford,Michael Oliver,1,1
-EPL,2019-2020,17,Sun,2019-12-15,16:30,Arsenal,0.4,1.8,Manchester City,60031,Emirates Stadium,Paul Tierney,0,3
-EPL,2019-2020,17,Mon,2019-12-16,19:45,Crystal Palace,0.7,2.3,Brighton,24175,Selhurst Park,Craig Pawson,1,1
-EPL,2019-2020,18,Sat,2019-12-21,12:30,Everton,0.4,0.7,Arsenal,39336,Goodison Park,Kevin Friend,0,0
-EPL,2019-2020,18,Sat,2019-12-21,15:00,Newcastle Utd,0.5,1.4,Crystal Palace,45453,St. James' Park,Simon Hooper,1,0
-EPL,2019-2020,18,Sat,2019-12-21,15:00,Aston Villa,1.0,3.1,Southampton,41834,Villa Park,Craig Pawson,1,3
-EPL,2019-2020,18,Sat,2019-12-21,15:00,Brighton,0.5,1.3,Sheffield Utd,30505,The American Express Community Stadium,Robert Jones,0,1
-EPL,2019-2020,18,Sat,2019-12-21,15:00,Bournemouth,0.2,0.2,Burnley,10020,Vitality Stadium,Martin Atkinson,0,1
-EPL,2019-2020,18,Sat,2019-12-21,15:00,Norwich City,1.3,1.3,Wolves,27053,Carrow Road,Peter Bankes,1,2
-EPL,2019-2020,18,Sat,2019-12-21,17:30,Manchester City,3.4,1.0,Leicester City,54415,Etihad Stadium,Mike Dean,3,1
-EPL,2019-2020,18,Sun,2019-12-22,14:00,Watford,1.5,1.7,Manchester Utd,21488,Vicarage Road Stadium,Lee Mason,2,0
-EPL,2019-2020,18,Sun,2019-12-22,16:30,Tottenham,0.4,1.4,Chelsea,61104,Tottenham Hotspur Stadium,Anthony Taylor,0,2
-EPL,2019-2020,19,Thu,2019-12-26,12:30,Tottenham,1.5,0.6,Brighton,56308,Tottenham Hotspur Stadium,Graham Scott,2,1
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Everton,1.6,0.4,Burnley,39177,Goodison Park,Anthony Taylor,1,0
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Bournemouth,0.9,1.5,Arsenal,10234,Vitality Stadium,Stuart Attwell,1,1
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Sheffield Utd,2.1,0.7,Watford,30222,Bramall Lane,David Coote,1,1
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Aston Villa,0.6,1.1,Norwich City,41289,Villa Park,Chris Kavanagh,1,0
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Crystal Palace,2.0,0.9,West Ham,25462,Selhurst Park,Andre Marriner,2,1
-EPL,2019-2020,19,Thu,2019-12-26,15:00,Chelsea,0.5,0.7,Southampton,40651,Stamford Bridge,Jonathan Moss,0,2
-EPL,2019-2020,19,Thu,2019-12-26,17:30,Manchester Utd,1.6,0.9,Newcastle Utd,73206,Old Trafford,Kevin Friend,4,1
-EPL,2019-2020,19,Thu,2019-12-26,20:00,Leicester City,0.1,3.1,Liverpool,32211,King Power Stadium,Michael Oliver,0,4
-EPL,2019-2020,19,Fri,2019-12-27,19:45,Wolves,1.8,1.6,Manchester City,31737,Molineux Stadium,Martin Atkinson,3,2
-EPL,2019-2020,20,Sat,2019-12-28,12:30,Brighton,1.0,0.6,Bournemouth,30441,The American Express Community Stadium,Paul Tierney,2,0
-EPL,2019-2020,20,Sat,2019-12-28,15:00,Watford,2.9,0.5,Aston Villa,21348,Vicarage Road Stadium,Simon Hooper,3,0
-EPL,2019-2020,20,Sat,2019-12-28,15:00,Newcastle Utd,1.5,3.5,Everton,52211,St. James' Park,Lee Mason,1,2
-EPL,2019-2020,20,Sat,2019-12-28,15:00,Southampton,1.4,0.2,Crystal Palace,31108,St. Mary's Stadium,Andy Madley,1,1
-EPL,2019-2020,20,Sat,2019-12-28,17:30,West Ham,0.9,2.2,Leicester City,59919,London Stadium,David Coote,1,2
-EPL,2019-2020,20,Sat,2019-12-28,17:30,Norwich City,0.4,1.8,Tottenham,27072,Carrow Road,Kevin Friend,2,2
-EPL,2019-2020,20,Sat,2019-12-28,19:45,Burnley,0.4,1.8,Manchester Utd,21924,Turf Moor,Mike Dean,0,2
-EPL,2019-2020,20,Sun,2019-12-29,14:00,Arsenal,0.8,1.5,Chelsea,60309,Emirates Stadium,Craig Pawson,1,2
-EPL,2019-2020,20,Sun,2019-12-29,16:30,Liverpool,1.2,0.6,Wolves,53326,Anfield,Anthony Taylor,1,0
-EPL,2019-2020,20,Sun,2019-12-29,18:00,Manchester City,1.1,1.1,Sheffield Utd,54512,Etihad Stadium,Chris Kavanagh,2,0
-EPL,2019-2020,21,Wed,2020-01-01,12:30,Brighton,0.9,1.6,Chelsea,30559,The American Express Community Stadium,Stuart Attwell,1,1
-EPL,2019-2020,21,Wed,2020-01-01,12:30,Burnley,2.0,0.9,Aston Villa,19561,Turf Moor,Michael Oliver,1,2
-EPL,2019-2020,21,Wed,2020-01-01,15:00,Watford,0.9,1.4,Wolves,20584,Vicarage Road Stadium,Andy Madley,2,1
-EPL,2019-2020,21,Wed,2020-01-01,15:00,Southampton,1.4,0.5,Tottenham,30976,St. Mary's Stadium,Mike Dean,1,0
-EPL,2019-2020,21,Wed,2020-01-01,15:00,Newcastle Utd,0.7,1.7,Leicester City,52178,St. James' Park,Martin Atkinson,0,3
-EPL,2019-2020,21,Wed,2020-01-01,17:30,West Ham,1.8,0.3,Bournemouth,59917,London Stadium,Graham Scott,4,0
-EPL,2019-2020,21,Wed,2020-01-01,17:30,Norwich City,1.6,1.5,Crystal Palace,27021,Carrow Road,Jonathan Moss,1,1
-EPL,2019-2020,21,Wed,2020-01-01,17:30,Manchester City,1.6,1.2,Everton,54407,Etihad Stadium,Andre Marriner,2,1
-EPL,2019-2020,21,Wed,2020-01-01,20:00,Arsenal,1.5,0.8,Manchester Utd,60328,Emirates Stadium,Chris Kavanagh,2,0
-EPL,2019-2020,21,Thu,2020-01-02,20:00,Liverpool,3.2,0.8,Sheffield Utd,53321,Anfield,Paul Tierney,2,0
-EPL,2019-2020,22,Fri,2020-01-10,20:00,Sheffield Utd,1.8,0.7,West Ham,30124,Bramall Lane,Michael Oliver,1,0
-EPL,2019-2020,22,Sat,2020-01-11,12:30,Crystal Palace,0.4,1.3,Arsenal,25468,Selhurst Park,Paul Tierney,1,1
-EPL,2019-2020,22,Sat,2020-01-11,15:00,Chelsea,2.6,0.4,Burnley,40396,Stamford Bridge,Kevin Friend,3,0
-EPL,2019-2020,22,Sat,2020-01-11,15:00,Leicester City,1.0,2.3,Southampton,32115,King Power Stadium,Lee Mason,1,2
-EPL,2019-2020,22,Sat,2020-01-11,15:00,Manchester Utd,2.2,0.3,Norwich City,73271,Old Trafford,Anthony Taylor,4,0
-EPL,2019-2020,22,Sat,2020-01-11,15:00,Wolves,0.9,0.3,Newcastle Utd,31570,Molineux Stadium,Peter Bankes,1,1
-EPL,2019-2020,22,Sat,2020-01-11,15:00,Everton,1.8,1.2,Brighton,38772,Goodison Park,David Coote,1,0
-EPL,2019-2020,22,Sat,2020-01-11,17:30,Tottenham,1.6,1.9,Liverpool,61023,Tottenham Hotspur Stadium,Martin Atkinson,0,1
-EPL,2019-2020,22,Sun,2020-01-12,14:00,Bournemouth,0.3,2.0,Watford,10384,Vitality Stadium,Mike Dean,0,3
-EPL,2019-2020,22,Sun,2020-01-12,16:30,Aston Villa,1.0,2.5,Manchester City,41823,Villa Park,Jonathan Moss,1,6
-EPL,2019-2020,23,Sat,2020-01-18,12:30,Watford,1.8,1.6,Tottenham,21366,Vicarage Road Stadium,Michael Oliver,0,0
-EPL,2019-2020,23,Sat,2020-01-18,15:00,Brighton,0.7,0.7,Aston Villa,30551,The American Express Community Stadium,Andy Madley,1,1
-EPL,2019-2020,23,Sat,2020-01-18,15:00,Manchester City,2.1,0.5,Crystal Palace,54439,Etihad Stadium,Graham Scott,2,2
-EPL,2019-2020,23,Sat,2020-01-18,15:00,West Ham,1.2,1.2,Everton,59915,London Stadium,Andre Marriner,1,1
-EPL,2019-2020,23,Sat,2020-01-18,15:00,Southampton,0.7,1.7,Wolves,31152,St. Mary's Stadium,Darren England,2,3
-EPL,2019-2020,23,Sat,2020-01-18,15:00,Norwich City,2.0,0.9,Bournemouth,26781,Carrow Road,Paul Tierney,1,0
-EPL,2019-2020,23,Sat,2020-01-18,15:00,Arsenal,1.3,0.7,Sheffield Utd,60310,Emirates Stadium,Mike Dean,1,1
-EPL,2019-2020,23,Sat,2020-01-18,17:30,Newcastle Utd,0.6,2.0,Chelsea,52217,St. James' Park,Chris Kavanagh,1,0
-EPL,2019-2020,23,Sun,2020-01-19,14:00,Burnley,1.4,2.4,Leicester City,19788,Turf Moor,Anthony Taylor,2,1
-EPL,2019-2020,23,Sun,2020-01-19,16:30,Liverpool,2.3,1.2,Manchester Utd,52916,Anfield,Craig Pawson,2,0
-EPL,2019-2020,24,Tue,2020-01-21,19:30,Crystal Palace,0.8,1.3,Southampton,23739,Selhurst Park,Andre Marriner,0,2
-EPL,2019-2020,24,Tue,2020-01-21,19:30,Bournemouth,1.6,1.2,Brighton,10065,Vitality Stadium,Kevin Friend,3,1
-EPL,2019-2020,24,Tue,2020-01-21,19:30,Aston Villa,1.0,1.3,Watford,40867,Villa Park,Martin Atkinson,2,1
-EPL,2019-2020,24,Tue,2020-01-21,19:30,Sheffield Utd,0.8,2.9,Manchester City,31285,Bramall Lane,Lee Mason,0,1
-EPL,2019-2020,24,Tue,2020-01-21,19:30,Everton,1.6,0.8,Newcastle Utd,38822,Goodison Park,Simon Hooper,2,2
-EPL,2019-2020,24,Tue,2020-01-21,20:15,Chelsea,2.8,0.5,Arsenal,40577,Stamford Bridge,Stuart Attwell,2,2
-EPL,2019-2020,24,Wed,2020-01-22,19:30,Leicester City,2.8,1.6,West Ham,31968,King Power Stadium,David Coote,4,1
-EPL,2019-2020,24,Wed,2020-01-22,19:30,Tottenham,1.9,1.6,Norwich City,58182,Tottenham Hotspur Stadium,Chris Kavanagh,2,1
-EPL,2019-2020,24,Wed,2020-01-22,20:15,Manchester Utd,1.8,0.6,Burnley,73198,Old Trafford,Jonathan Moss,0,2
-EPL,2019-2020,24,Thu,2020-01-23,20:00,Wolves,1.6,1.5,Liverpool,31746,Molineux Stadium,Michael Oliver,1,2
-EPL,2019-2020,18,Wed,2020-01-29,19:45,West Ham,0.8,2.5,Liverpool,59959,London Stadium,Jonathan Moss,0,2
-EPL,2019-2020,25,Sat,2020-02-01,12:30,Leicester City,1.6,0.4,Chelsea,32186,King Power Stadium,Lee Mason,2,2
-EPL,2019-2020,25,Sat,2020-02-01,15:00,Watford,0.6,2.1,Everton,21229,Vicarage Road Stadium,Craig Pawson,2,3
-EPL,2019-2020,25,Sat,2020-02-01,15:00,Bournemouth,2.2,1.3,Aston Villa,10722,Vitality Stadium,Anthony Taylor,2,1
-EPL,2019-2020,25,Sat,2020-02-01,15:00,Newcastle Utd,0.7,1.4,Norwich City,52204,St. James' Park,Martin Atkinson,0,0
-EPL,2019-2020,25,Sat,2020-02-01,15:00,Liverpool,3.2,1.0,Southampton,53291,Anfield,Kevin Friend,4,0
-EPL,2019-2020,25,Sat,2020-02-01,15:00,Crystal Palace,1.1,0.6,Sheffield Utd,25170,Selhurst Park,Andy Madley,0,1
-EPL,2019-2020,25,Sat,2020-02-01,15:00,West Ham,0.9,2.0,Brighton,59952,London Stadium,Michael Oliver,3,3
-EPL,2019-2020,25,Sat,2020-02-01,17:30,Manchester Utd,0.8,0.9,Wolves,73363,Old Trafford,Paul Tierney,0,0
-EPL,2019-2020,25,Sun,2020-02-02,14:00,Burnley,1.9,1.0,Arsenal,21048,Turf Moor,Chris Kavanagh,0,0
-EPL,2019-2020,25,Sun,2020-02-02,16:30,Tottenham,0.3,3.0,Manchester City,61022,Tottenham Hotspur Stadium,Mike Dean,2,0
-EPL,2019-2020,26,Sat,2020-02-08,12:30,Everton,2.4,1.1,Crystal Palace,38987,Goodison Park,David Coote,3,1
-EPL,2019-2020,26,Sat,2020-02-08,17:30,Brighton,0.7,0.3,Watford,30443,The American Express Community Stadium,Kevin Friend,1,1
-EPL,2019-2020,26,Sun,2020-02-09,14:00,Sheffield Utd,1.7,1.3,Bournemouth,30361,Bramall Lane,Jonathan Moss,2,1
-EPL,2019-2020,26,Fri,2020-02-14,20:00,Wolves,0.9,0.6,Leicester City,31682,Molineux Stadium,Mike Dean,0,0
-EPL,2019-2020,26,Sat,2020-02-15,12:30,Southampton,0.7,0.6,Burnley,26302,St. Mary's Stadium,Simon Hooper,1,2
-EPL,2019-2020,26,Sat,2020-02-15,17:30,Norwich City,0.4,1.9,Liverpool,27110,Carrow Road,Stuart Attwell,0,1
-EPL,2019-2020,26,Sun,2020-02-16,14:00,Aston Villa,1.9,3.5,Tottenham,41874,Villa Park,Martin Atkinson,2,3
-EPL,2019-2020,26,Sun,2020-02-16,16:30,Arsenal,2.0,0.9,Newcastle Utd,60188,Emirates Stadium,Lee Mason,4,0
-EPL,2019-2020,26,Mon,2020-02-17,20:00,Chelsea,1.4,0.8,Manchester Utd,40504,Stamford Bridge,Anthony Taylor,0,2
-EPL,2019-2020,26,Wed,2020-02-19,19:30,Manchester City,2.2,0.1,West Ham,52159,Etihad Stadium,Kevin Friend,2,0
-EPL,2019-2020,27,Sat,2020-02-22,12:30,Chelsea,1.6,0.4,Tottenham,40608,Stamford Bridge,Michael Oliver,2,1
-EPL,2019-2020,27,Sat,2020-02-22,15:00,Southampton,2.8,0.5,Aston Villa,31478,St. Mary's Stadium,Craig Pawson,2,0
-EPL,2019-2020,27,Sat,2020-02-22,15:00,Sheffield Utd,1.5,1.0,Brighton,31888,Bramall Lane,Graham Scott,1,1
-EPL,2019-2020,27,Sat,2020-02-22,15:00,Burnley,2.8,1.6,Bournemouth,18227,Turf Moor,Mike Dean,3,0
-EPL,2019-2020,27,Sat,2020-02-22,15:00,Crystal Palace,1.2,0.2,Newcastle Utd,25486,Selhurst Park,Peter Bankes,1,0
-EPL,2019-2020,27,Sat,2020-02-22,17:30,Leicester City,1.1,2.2,Manchester City,32068,King Power Stadium,Paul Tierney,0,1
-EPL,2019-2020,27,Sun,2020-02-23,14:00,Wolves,2.8,0.4,Norwich City,31046,Molineux Stadium,Chris Kavanagh,3,0
-EPL,2019-2020,27,Sun,2020-02-23,14:00,Manchester Utd,2.4,0.3,Watford,73347,Old Trafford,Martin Atkinson,3,0
-EPL,2019-2020,27,Sun,2020-02-23,16:30,Arsenal,1.2,1.9,Everton,60296,Emirates Stadium,Stuart Attwell,3,2
-EPL,2019-2020,27,Mon,2020-02-24,20:00,Liverpool,2.9,0.7,West Ham,53313,Anfield,Jonathan Moss,3,2
-EPL,2019-2020,28,Fri,2020-02-28,20:00,Norwich City,0.8,1.2,Leicester City,27010,Carrow Road,Craig Pawson,1,0
-EPL,2019-2020,28,Sat,2020-02-29,12:30,Brighton,1.7,2.1,Crystal Palace,30124,The American Express Community Stadium,Martin Atkinson,0,1
-EPL,2019-2020,28,Sat,2020-02-29,15:00,Bournemouth,1.9,1.9,Chelsea,10667,Vitality Stadium,Andre Marriner,2,2
-EPL,2019-2020,28,Sat,2020-02-29,15:00,West Ham,2.3,0.9,Southampton,59962,London Stadium,Anthony Taylor,3,1
-EPL,2019-2020,28,Sat,2020-02-29,15:00,Newcastle Utd,1.1,0.8,Burnley,52219,St. James' Park,Andy Madley,0,0
-EPL,2019-2020,28,Sat,2020-02-29,17:30,Watford,2.2,0.3,Liverpool,21634,Vicarage Road Stadium,Michael Oliver,3,0
-EPL,2019-2020,28,Sun,2020-03-01,14:00,Everton,2.3,1.0,Manchester Utd,39374,Goodison Park,Chris Kavanagh,1,1
-EPL,2019-2020,28,Sun,2020-03-01,14:00,Tottenham,1.5,2.6,Wolves,58064,Tottenham Hotspur Stadium,Stuart Attwell,2,3
-EPL,2019-2020,29,Sat,2020-03-07,12:30,Liverpool,1.4,1.3,Bournemouth,53323,Anfield,Paul Tierney,2,1
-EPL,2019-2020,29,Sat,2020-03-07,15:00,Sheffield Utd,0.9,1.4,Norwich City,31379,Bramall Lane,Simon Hooper,1,0
-EPL,2019-2020,29,Sat,2020-03-07,15:00,Crystal Palace,0.6,0.5,Watford,25461,Selhurst Park,Anthony Taylor,1,0
-EPL,2019-2020,29,Sat,2020-03-07,15:00,Wolves,0.6,0.3,Brighton,31490,Molineux Stadium,Andre Marriner,0,0
-EPL,2019-2020,29,Sat,2020-03-07,15:00,Southampton,0.4,2.8,Newcastle Utd,30096,St. Mary's Stadium,Graham Scott,0,1
-EPL,2019-2020,29,Sat,2020-03-07,15:00,Arsenal,1.1,1.7,West Ham,60335,Emirates Stadium,Martin Atkinson,1,0
-EPL,2019-2020,29,Sat,2020-03-07,17:30,Burnley,2.4,1.2,Tottenham,20496,Turf Moor,Jonathan Moss,1,1
-EPL,2019-2020,29,Sun,2020-03-08,14:00,Chelsea,1.9,0.6,Everton,40694,Stamford Bridge,Kevin Friend,4,0
-EPL,2019-2020,29,Sun,2020-03-08,16:30,Manchester Utd,1.4,0.6,Manchester City,73288,Old Trafford,Mike Dean,2,0
-EPL,2019-2020,29,Mon,2020-03-09,20:00,Leicester City,2.3,0.5,Aston Villa,32125,King Power Stadium,Michael Oliver,4,0
-EPL,2019-2020,28,Wed,2020-06-17,18:00,Aston Villa,1.3,0.3,Sheffield Utd,,Villa Park,Michael Oliver,0,0
-EPL,2019-2020,28,Wed,2020-06-17,20:15,Manchester City,3.3,0.2,Arsenal,,Etihad Stadium,Anthony Taylor,3,0
-EPL,2019-2020,30,Fri,2020-06-19,18:00,Norwich City,0.8,1.7,Southampton,,Carrow Road,Kevin Friend,0,3
-EPL,2019-2020,30,Fri,2020-06-19,20:15,Tottenham,0.3,1.7,Manchester Utd,,Tottenham Hotspur Stadium,Jonathan Moss,1,1
-EPL,2019-2020,30,Sat,2020-06-20,12:30,Watford,0.8,0.8,Leicester City,,Vicarage Road Stadium,Craig Pawson,1,1
-EPL,2019-2020,30,Sat,2020-06-20,15:00,Brighton,1.0,1.3,Arsenal,,The American Express Community Stadium,Martin Atkinson,2,1
-EPL,2019-2020,30,Sat,2020-06-20,17:30,West Ham,0.3,0.7,Wolves,,London Stadium,Anthony Taylor,0,2
-EPL,2019-2020,30,Sat,2020-06-20,19:45,Bournemouth,0.8,0.6,Crystal Palace,,Vitality Stadium,Stuart Attwell,0,2
-EPL,2019-2020,30,Sun,2020-06-21,14:00,Newcastle Utd,1.6,0.4,Sheffield Utd,,St. James' Park,David Coote,3,0
-EPL,2019-2020,30,Sun,2020-06-21,16:15,Aston Villa,1.1,1.3,Chelsea,,Villa Park,Paul Tierney,1,2
-EPL,2019-2020,30,Sun,2020-06-21,19:00,Everton,1.3,0.8,Liverpool,,Goodison Park,Mike Dean,0,0
-EPL,2019-2020,30,Mon,2020-06-22,20:00,Manchester City,3.0,0.0,Burnley,,Etihad Stadium,Andre Marriner,5,0
-EPL,2019-2020,31,Tue,2020-06-23,18:00,Leicester City,0.6,1.2,Brighton,,King Power Stadium,Lee Mason,0,0
-EPL,2019-2020,31,Tue,2020-06-23,20:15,Tottenham,1.6,0.8,West Ham,,Tottenham Hotspur Stadium,Craig Pawson,2,0
-EPL,2019-2020,31,Wed,2020-06-24,18:00,Manchester Utd,2.2,0.2,Sheffield Utd,,Old Trafford,Anthony Taylor,3,0
-EPL,2019-2020,31,Wed,2020-06-24,18:00,Newcastle Utd,0.7,1.1,Aston Villa,,St. James' Park,Chris Kavanagh,1,1
-EPL,2019-2020,31,Wed,2020-06-24,18:00,Norwich City,0.4,0.8,Everton,,Carrow Road,Andy Madley,0,1
-EPL,2019-2020,31,Wed,2020-06-24,18:00,Wolves,1.3,0.1,Bournemouth,,Molineux Stadium,Michael Oliver,1,0
-EPL,2019-2020,31,Wed,2020-06-24,20:15,Liverpool,2.5,0.2,Crystal Palace,,Anfield,Martin Atkinson,4,0
-EPL,2019-2020,31,Thu,2020-06-25,18:00,Southampton,0.7,2.7,Arsenal,,St. Mary's Stadium,Graham Scott,0,2
-EPL,2019-2020,31,Thu,2020-06-25,18:00,Burnley,1.1,0.7,Watford,,Turf Moor,Mike Dean,1,0
-EPL,2019-2020,31,Thu,2020-06-25,20:15,Chelsea,3.1,0.5,Manchester City,,Stamford Bridge,Stuart Attwell,2,1
-EPL,2019-2020,32,Sat,2020-06-27,12:30,Aston Villa,0.3,0.4,Wolves,,Villa Park,Craig Pawson,0,1
-EPL,2019-2020,32,Sun,2020-06-28,16:30,Watford,0.4,1.1,Southampton,,Vicarage Road Stadium,Michael Oliver,1,3
-EPL,2019-2020,32,Mon,2020-06-29,20:00,Crystal Palace,1.1,0.5,Burnley,,Selhurst Park,Simon Hooper,0,1
-EPL,2019-2020,32,Tue,2020-06-30,20:15,Brighton,0.5,0.8,Manchester Utd,,The American Express Community Stadium,Andre Marriner,0,3
-EPL,2019-2020,32,Wed,2020-07-01,18:00,Everton,1.1,1.6,Leicester City,,Goodison Park,David Coote,2,1
-EPL,2019-2020,32,Wed,2020-07-01,18:00,Bournemouth,1.4,1.5,Newcastle Utd,,Vitality Stadium,Kevin Friend,1,4
-EPL,2019-2020,32,Wed,2020-07-01,18:00,Arsenal,2.1,0.2,Norwich City,,Emirates Stadium,Peter Bankes,4,0
-EPL,2019-2020,32,Wed,2020-07-01,20:15,West Ham,2.8,1.6,Chelsea,,London Stadium,Martin Atkinson,3,2
-EPL,2019-2020,32,Thu,2020-07-02,18:00,Sheffield Utd,1.6,1.0,Tottenham,,Bramall Lane,Chris Kavanagh,3,1
-EPL,2019-2020,32,Thu,2020-07-02,20:15,Manchester City,2.7,1.3,Liverpool,,Etihad Stadium,Anthony Taylor,4,0
-EPL,2019-2020,33,Sat,2020-07-04,12:30,Norwich City,0.5,0.5,Brighton,,Carrow Road,Stuart Attwell,0,1
-EPL,2019-2020,33,Sat,2020-07-04,15:00,Leicester City,2.4,0.5,Crystal Palace,,King Power Stadium,Jonathan Moss,3,0
-EPL,2019-2020,33,Sat,2020-07-04,15:00,Manchester Utd,2.2,1.2,Bournemouth,,Old Trafford,Mike Dean,5,2
-EPL,2019-2020,33,Sat,2020-07-04,17:30,Wolves,0.9,1.2,Arsenal,,Molineux Stadium,Michael Oliver,0,2
-EPL,2019-2020,33,Sat,2020-07-04,20:00,Chelsea,2.3,0.4,Watford,,Stamford Bridge,Kevin Friend,3,0
-EPL,2019-2020,33,Sun,2020-07-05,12:00,Burnley,1.5,1.3,Sheffield Utd,,Turf Moor,Peter Bankes,1,1
-EPL,2019-2020,33,Sun,2020-07-05,14:15,Newcastle Utd,1.0,1.6,West Ham,,St. James' Park,Craig Pawson,2,2
-EPL,2019-2020,33,Sun,2020-07-05,16:30,Liverpool,0.8,0.5,Aston Villa,,Anfield,Paul Tierney,2,0
-EPL,2019-2020,33,Sun,2020-07-05,19:00,Southampton,0.8,2.9,Manchester City,,St. Mary's Stadium,Andre Marriner,1,0
-EPL,2019-2020,33,Mon,2020-07-06,20:00,Tottenham,0.6,0.4,Everton,,Tottenham Hotspur Stadium,Graham Scott,1,0
-EPL,2019-2020,34,Tue,2020-07-07,18:00,Watford,0.8,1.4,Norwich City,,Vicarage Road Stadium,Anthony Taylor,2,1
-EPL,2019-2020,34,Tue,2020-07-07,18:00,Crystal Palace,1.4,1.9,Chelsea,,Selhurst Park,David Coote,2,3
-EPL,2019-2020,34,Tue,2020-07-07,20:15,Arsenal,1.7,1.7,Leicester City,,Emirates Stadium,Chris Kavanagh,1,1
-EPL,2019-2020,34,Wed,2020-07-08,18:00,Manchester City,3.3,0.2,Newcastle Utd,,Etihad Stadium,Andy Madley,5,0
-EPL,2019-2020,34,Wed,2020-07-08,18:00,West Ham,1.8,1.0,Burnley,,London Stadium,Michael Oliver,0,1
-EPL,2019-2020,34,Wed,2020-07-08,18:00,Sheffield Utd,0.7,0.4,Wolves,,Bramall Lane,Martin Atkinson,1,0
-EPL,2019-2020,34,Wed,2020-07-08,20:15,Brighton,2.2,1.9,Liverpool,,The American Express Community Stadium,Craig Pawson,1,3
-EPL,2019-2020,34,Thu,2020-07-09,18:00,Bournemouth,1.1,0.6,Tottenham,,Vitality Stadium,Paul Tierney,0,0
-EPL,2019-2020,34,Thu,2020-07-09,18:00,Everton,1.0,2.4,Southampton,,Goodison Park,Lee Mason,1,1
-EPL,2019-2020,34,Thu,2020-07-09,20:15,Aston Villa,0.5,2.6,Manchester Utd,,Villa Park,Jonathan Moss,0,3
-EPL,2019-2020,35,Sat,2020-07-11,12:30,Watford,3.0,1.4,Newcastle Utd,,Vicarage Road Stadium,Craig Pawson,2,1
-EPL,2019-2020,35,Sat,2020-07-11,12:30,Norwich City,0.7,2.7,West Ham,,Carrow Road,Kevin Friend,0,4
-EPL,2019-2020,35,Sat,2020-07-11,15:00,Liverpool,2.1,0.8,Burnley,,Anfield,David Coote,1,1
-EPL,2019-2020,35,Sat,2020-07-11,17:30,Sheffield Utd,1.9,0.9,Chelsea,,Bramall Lane,Andre Marriner,3,0
-EPL,2019-2020,35,Sat,2020-07-11,20:00,Brighton,0.1,5.0,Manchester City,,The American Express Community Stadium,Graham Scott,0,5
-EPL,2019-2020,35,Sun,2020-07-12,12:00,Wolves,2.4,0.3,Everton,,Molineux Stadium,Anthony Taylor,3,0
-EPL,2019-2020,35,Sun,2020-07-12,14:15,Aston Villa,1.7,1.3,Crystal Palace,,Villa Park,Martin Atkinson,2,0
-EPL,2019-2020,35,Sun,2020-07-12,16:30,Tottenham,1.5,0.8,Arsenal,,Tottenham Hotspur Stadium,Michael Oliver,2,1
-EPL,2019-2020,35,Sun,2020-07-12,19:00,Bournemouth,1.8,1.2,Leicester City,,Vitality Stadium,Stuart Attwell,4,1
-EPL,2019-2020,35,Mon,2020-07-13,20:00,Manchester Utd,1.2,1.6,Southampton,,Old Trafford,Chris Kavanagh,2,2
-EPL,2019-2020,36,Tue,2020-07-14,20:15,Chelsea,2.4,0.0,Norwich City,,Stamford Bridge,Jonathan Moss,1,0
-EPL,2019-2020,36,Wed,2020-07-15,18:00,Burnley,1.8,1.1,Wolves,,Turf Moor,Mike Dean,1,1
-EPL,2019-2020,36,Wed,2020-07-15,18:00,Manchester City,0.8,1.7,Bournemouth,,Etihad Stadium,Lee Mason,2,1
-EPL,2019-2020,36,Wed,2020-07-15,18:00,Newcastle Utd,1.1,1.3,Tottenham,,St. James' Park,David Coote,1,3
-EPL,2019-2020,36,Wed,2020-07-15,20:15,Arsenal,1.1,2.8,Liverpool,,Emirates Stadium,Paul Tierney,2,1
-EPL,2019-2020,36,Thu,2020-07-16,18:00,Everton,0.6,1.5,Aston Villa,,Goodison Park,Anthony Taylor,1,1
-EPL,2019-2020,36,Thu,2020-07-16,18:00,Leicester City,2.2,0.2,Sheffield Utd,,King Power Stadium,Michael Oliver,2,0
-EPL,2019-2020,36,Thu,2020-07-16,20:15,Southampton,1.9,0.8,Brighton,,St. Mary's Stadium,Andre Marriner,1,1
-EPL,2019-2020,36,Thu,2020-07-16,20:15,Crystal Palace,0.8,1.8,Manchester Utd,,Selhurst Park,Graham Scott,0,2
-EPL,2019-2020,36,Fri,2020-07-17,20:00,West Ham,0.7,1.5,Watford,,London Stadium,Martin Atkinson,3,1
-EPL,2019-2020,37,Sat,2020-07-18,17:30,Norwich City,0.3,1.8,Burnley,,Carrow Road,Kevin Friend,0,2
-EPL,2019-2020,37,Sun,2020-07-19,14:00,Bournemouth,1.1,2.1,Southampton,,Vitality Stadium,Craig Pawson,0,2
-EPL,2019-2020,37,Sun,2020-07-19,16:00,Tottenham,0.5,1.7,Leicester City,,Tottenham Hotspur Stadium,Anthony Taylor,3,0
-EPL,2019-2020,37,Mon,2020-07-20,18:00,Brighton,0.6,0.7,Newcastle Utd,,The American Express Community Stadium,Simon Hooper,0,0
-EPL,2019-2020,37,Mon,2020-07-20,18:00,Sheffield Utd,0.5,0.3,Everton,,Bramall Lane,Stuart Attwell,0,1
-EPL,2019-2020,37,Mon,2020-07-20,20:15,Wolves,1.5,0.3,Crystal Palace,,Molineux Stadium,Peter Bankes,2,0
-EPL,2019-2020,37,Tue,2020-07-21,18:00,Watford,0.1,3.5,Manchester City,,Vicarage Road Stadium,Michael Oliver,0,4
-EPL,2019-2020,37,Tue,2020-07-21,20:15,Aston Villa,0.6,0.7,Arsenal,,Villa Park,Chris Kavanagh,1,0
-EPL,2019-2020,37,Wed,2020-07-22,18:00,Manchester Utd,0.7,1.8,West Ham,,Old Trafford,Paul Tierney,1,1
-EPL,2019-2020,37,Wed,2020-07-22,20:15,Liverpool,1.4,2.3,Chelsea,,Anfield,Andre Marriner,5,3
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Burnley,1.8,1.1,Brighton,,Turf Moor,Jonathan Moss,1,2
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Southampton,2.2,1.4,Sheffield Utd,,St. Mary's Stadium,Peter Bankes,3,1
-EPL,2019-2020,38,Sun,2020-07-26,16:00,West Ham,0.7,1.2,Aston Villa,,London Stadium,Michael Oliver,1,1
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Chelsea,1.3,0.2,Wolves,,Stamford Bridge,Stuart Attwell,2,0
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Crystal Palace,0.8,0.4,Tottenham,,Selhurst Park,Andre Marriner,1,1
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Everton,2.2,1.8,Bournemouth,,Goodison Park,Chris Kavanagh,1,3
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Arsenal,1.7,3.4,Watford,,Emirates Stadium,Mike Dean,3,2
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Manchester City,3.2,1.1,Norwich City,,Etihad Stadium,Craig Pawson,5,0
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Leicester City,1.4,1.9,Manchester Utd,,King Power Stadium,Martin Atkinson,0,2
-EPL,2019-2020,38,Sun,2020-07-26,16:00,Newcastle Utd,0.4,0.6,Liverpool,,St. James' Park,Anthony Taylor,1,3
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+EPL,2019-2020,1,Fri,2019-08-09,20:00,Liverpool,1.7,1.0,Norwich City,53333,Anfield,Michael Oliver,https://fbref.com/en/matches/928467bd/Liverpool-Norwich-City-August-9-2019-Premier-League,4,1
+EPL,2019-2020,1,Sat,2019-08-10,12:30,West Ham,0.8,3.1,Manchester City,59870,London Stadium,Mike Dean,https://fbref.com/en/matches/71c8a43e/West-Ham-United-Manchester-City-August-10-2019-Premier-League,0,5
+EPL,2019-2020,1,Sat,2019-08-10,15:00,Burnley,0.7,0.8,Southampton,19784,Turf Moor,Graham Scott,https://fbref.com/en/matches/34b99058/Burnley-Southampton-August-10-2019-Premier-League,3,0
+EPL,2019-2020,1,Sat,2019-08-10,15:00,Watford,0.9,0.7,Brighton,20245,Vicarage Road Stadium,Craig Pawson,https://fbref.com/en/matches/38111659/Watford-Brighton-and-Hove-Albion-August-10-2019-Premier-League,0,3
+EPL,2019-2020,1,Sat,2019-08-10,15:00,Bournemouth,1.0,1.0,Sheffield Utd,10714,Vitality Stadium,Kevin Friend,https://fbref.com/en/matches/d402cacd/Bournemouth-Sheffield-United-August-10-2019-Premier-League,1,1
+EPL,2019-2020,1,Sat,2019-08-10,15:00,Crystal Palace,0.7,1.0,Everton,25151,Selhurst Park,Jonathan Moss,https://fbref.com/en/matches/a802f51e/Crystal-Palace-Everton-August-10-2019-Premier-League,0,0
+EPL,2019-2020,1,Sat,2019-08-10,17:30,Tottenham,2.4,0.6,Aston Villa,60407,Tottenham Hotspur Stadium,Chris Kavanagh,https://fbref.com/en/matches/404ee5d3/Tottenham-Hotspur-Aston-Villa-August-10-2019-Premier-League,3,1
+EPL,2019-2020,1,Sun,2019-08-11,14:00,Newcastle Utd,0.5,1.0,Arsenal,47635,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/1405a610/Newcastle-United-Arsenal-August-11-2019-Premier-League,0,1
+EPL,2019-2020,1,Sun,2019-08-11,14:00,Leicester City,0.6,0.6,Wolves,32015,King Power Stadium,Andre Marriner,https://fbref.com/en/matches/bf4afd61/Leicester-City-Wolverhampton-Wanderers-August-11-2019-Premier-League,0,0
+EPL,2019-2020,1,Sun,2019-08-11,16:30,Manchester Utd,2.3,0.8,Chelsea,73620,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/d0583d0d/Manchester-United-Chelsea-August-11-2019-Premier-League,4,0
+EPL,2019-2020,2,Sat,2019-08-17,12:30,Arsenal,0.9,1.3,Burnley,60214,Emirates Stadium,Mike Dean,https://fbref.com/en/matches/ff7eda21/Arsenal-Burnley-August-17-2019-Premier-League,2,1
+EPL,2019-2020,2,Sat,2019-08-17,15:00,Southampton,1.6,1.4,Liverpool,31712,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/b2a48847/Southampton-Liverpool-August-17-2019-Premier-League,1,2
+EPL,2019-2020,2,Sat,2019-08-17,15:00,Norwich City,1.4,0.7,Newcastle Utd,27059,Carrow Road,Stuart Attwell,https://fbref.com/en/matches/3ea63f4b/Norwich-City-Newcastle-United-August-17-2019-Premier-League,3,1
+EPL,2019-2020,2,Sat,2019-08-17,15:00,Brighton,1.6,0.8,West Ham,30459,The American Express Community Stadium,Anthony Taylor,https://fbref.com/en/matches/894d0ca5/Brighton-and-Hove-Albion-West-Ham-United-August-17-2019-Premier-League,1,1
+EPL,2019-2020,2,Sat,2019-08-17,15:00,Everton,1.0,1.0,Watford,39066,Goodison Park,Lee Mason,https://fbref.com/en/matches/f35c8c3a/Everton-Watford-August-17-2019-Premier-League,1,0
+EPL,2019-2020,2,Sat,2019-08-17,15:00,Aston Villa,1.7,1.3,Bournemouth,40996,Villa Park,Martin Atkinson,https://fbref.com/en/matches/7ad0ed82/Aston-Villa-Bournemouth-August-17-2019-Premier-League,1,2
+EPL,2019-2020,2,Sat,2019-08-17,17:30,Manchester City,2.9,0.3,Tottenham,54503,Etihad Stadium,Michael Oliver,https://fbref.com/en/matches/a4ba771e/Manchester-City-Tottenham-Hotspur-August-17-2019-Premier-League,2,2
+EPL,2019-2020,2,Sun,2019-08-18,14:00,Sheffield Utd,1.6,0.2,Crystal Palace,30197,Bramall Lane,David Coote,https://fbref.com/en/matches/7ca12d31/Sheffield-United-Crystal-Palace-August-18-2019-Premier-League,1,0
+EPL,2019-2020,2,Sun,2019-08-18,16:30,Chelsea,1.4,0.8,Leicester City,40629,Stamford Bridge,Oliver Langford,https://fbref.com/en/matches/aebf58b9/Chelsea-Leicester-City-August-18-2019-Premier-League,1,1
+EPL,2019-2020,2,Mon,2019-08-19,20:00,Wolves,0.3,1.3,Manchester Utd,31314,Molineux Stadium,Jonathan Moss,https://fbref.com/en/matches/d8a7f871/Wolverhampton-Wanderers-Manchester-United-August-19-2019-Premier-League,1,1
+EPL,2019-2020,3,Fri,2019-08-23,20:00,Aston Villa,0.9,1.0,Everton,41922,Villa Park,Michael Oliver,https://fbref.com/en/matches/3e805eff/Aston-Villa-Everton-August-23-2019-Premier-League,2,0
+EPL,2019-2020,3,Sat,2019-08-24,12:30,Norwich City,1.2,2.1,Chelsea,27032,Carrow Road,Martin Atkinson,https://fbref.com/en/matches/4f4fd2d8/Norwich-City-Chelsea-August-24-2019-Premier-League,2,3
+EPL,2019-2020,3,Sat,2019-08-24,15:00,Brighton,0.9,1.5,Southampton,30019,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/baece203/Brighton-and-Hove-Albion-Southampton-August-24-2019-Premier-League,0,2
+EPL,2019-2020,3,Sat,2019-08-24,15:00,Manchester Utd,2.4,0.7,Crystal Palace,73454,Old Trafford,Paul Tierney,https://fbref.com/en/matches/7c1c4078/Manchester-United-Crystal-Palace-August-24-2019-Premier-League,1,2
+EPL,2019-2020,3,Sat,2019-08-24,15:00,Watford,2.3,3.4,West Ham,20035,Vicarage Road Stadium,Chris Kavanagh,https://fbref.com/en/matches/89fbf2a3/Watford-West-Ham-United-August-24-2019-Premier-League,1,3
+EPL,2019-2020,3,Sat,2019-08-24,15:00,Sheffield Utd,0.7,0.9,Leicester City,30079,Bramall Lane,Andy Madley,https://fbref.com/en/matches/48fcf75b/Sheffield-United-Leicester-City-August-24-2019-Premier-League,1,2
+EPL,2019-2020,3,Sat,2019-08-24,17:30,Liverpool,2.5,0.9,Arsenal,53298,Anfield,Anthony Taylor,https://fbref.com/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League,3,1
+EPL,2019-2020,3,Sun,2019-08-25,14:00,Bournemouth,1.5,2.3,Manchester City,10486,Vitality Stadium,Andre Marriner,https://fbref.com/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League,1,3
+EPL,2019-2020,3,Sun,2019-08-25,16:30,Tottenham,1.2,0.4,Newcastle Utd,59245,Tottenham Hotspur Stadium,Mike Dean,https://fbref.com/en/matches/c224d1e8/Tottenham-Hotspur-Newcastle-United-August-25-2019-Premier-League,0,1
+EPL,2019-2020,3,Sun,2019-08-25,16:30,Wolves,1.5,1.2,Burnley,30522,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/16119ef2/Wolverhampton-Wanderers-Burnley-August-25-2019-Premier-League,1,1
+EPL,2019-2020,4,Sat,2019-08-31,12:30,Southampton,0.7,1.6,Manchester Utd,30499,St. Mary's Stadium,Mike Dean,https://fbref.com/en/matches/bfd4d929/Southampton-Manchester-United-August-31-2019-Premier-League,1,1
+EPL,2019-2020,4,Sat,2019-08-31,15:00,West Ham,1.8,1.3,Norwich City,59950,London Stadium,Paul Tierney,https://fbref.com/en/matches/164148a8/West-Ham-United-Norwich-City-August-31-2019-Premier-League,2,0
+EPL,2019-2020,4,Sat,2019-08-31,15:00,Leicester City,1.9,0.9,Bournemouth,31613,King Power Stadium,Peter Bankes,https://fbref.com/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League,3,1
+EPL,2019-2020,4,Sat,2019-08-31,15:00,Chelsea,1.7,1.1,Sheffield Utd,40560,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/495db223/Chelsea-Sheffield-United-August-31-2019-Premier-League,2,2
+EPL,2019-2020,4,Sat,2019-08-31,15:00,Crystal Palace,1.4,0.3,Aston Villa,25248,Selhurst Park,Kevin Friend,https://fbref.com/en/matches/230f4fac/Crystal-Palace-Aston-Villa-August-31-2019-Premier-League,1,0
+EPL,2019-2020,4,Sat,2019-08-31,15:00,Newcastle Utd,0.9,1.3,Watford,44157,St. James' Park,Graham Scott,https://fbref.com/en/matches/533c240c/Newcastle-United-Watford-August-31-2019-Premier-League,1,1
+EPL,2019-2020,4,Sat,2019-08-31,15:00,Manchester City,2.1,0.5,Brighton,54386,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/5b9865ad/Manchester-City-Brighton-and-Hove-Albion-August-31-2019-Premier-League,4,0
+EPL,2019-2020,4,Sat,2019-08-31,17:30,Burnley,0.4,1.1,Liverpool,21762,Turf Moor,Chris Kavanagh,https://fbref.com/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League,0,3
+EPL,2019-2020,4,Sun,2019-09-01,14:00,Everton,1.4,1.3,Wolves,39374,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/70303b7b/Everton-Wolverhampton-Wanderers-September-1-2019-Premier-League,3,2
+EPL,2019-2020,4,Sun,2019-09-01,16:30,Arsenal,2.3,2.1,Tottenham,60333,Emirates Stadium,Martin Atkinson,https://fbref.com/en/matches/0b6b8aaf/North-London-Derby-Arsenal-Tottenham-Hotspur-September-1-2019-Premier-League,2,2
+EPL,2019-2020,5,Sat,2019-09-14,12:30,Liverpool,2.7,0.4,Newcastle Utd,51430,Anfield,Andre Marriner,https://fbref.com/en/matches/cde24fee/Liverpool-Newcastle-United-September-14-2019-Premier-League,3,1
+EPL,2019-2020,5,Sat,2019-09-14,15:00,Manchester Utd,1.0,0.4,Leicester City,73689,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/6d0266a1/Manchester-United-Leicester-City-September-14-2019-Premier-League,1,0
+EPL,2019-2020,5,Sat,2019-09-14,15:00,Tottenham,1.0,0.7,Crystal Palace,59812,Tottenham Hotspur Stadium,Craig Pawson,https://fbref.com/en/matches/1d812c17/Tottenham-Hotspur-Crystal-Palace-September-14-2019-Premier-League,4,0
+EPL,2019-2020,5,Sat,2019-09-14,15:00,Wolves,1.6,1.9,Chelsea,31534,Molineux Stadium,Graham Scott,https://fbref.com/en/matches/0fa0a658/Wolverhampton-Wanderers-Chelsea-September-14-2019-Premier-League,2,5
+EPL,2019-2020,5,Sat,2019-09-14,15:00,Sheffield Utd,1.9,1.3,Southampton,30985,Bramall Lane,Lee Mason,https://fbref.com/en/matches/e5f9905d/Sheffield-United-Southampton-September-14-2019-Premier-League,0,1
+EPL,2019-2020,5,Sat,2019-09-14,15:00,Brighton,0.9,0.6,Burnley,29398,The American Express Community Stadium,Michael Oliver,https://fbref.com/en/matches/1d3bbc27/Brighton-and-Hove-Albion-Burnley-September-14-2019-Premier-League,1,1
+EPL,2019-2020,5,Sat,2019-09-14,17:30,Norwich City,1.5,2.2,Manchester City,27035,Carrow Road,Kevin Friend,https://fbref.com/en/matches/1c7bccd4/Norwich-City-Manchester-City-September-14-2019-Premier-League,3,2
+EPL,2019-2020,5,Sun,2019-09-15,14:00,Bournemouth,1.5,1.4,Everton,10416,Vitality Stadium,Paul Tierney,https://fbref.com/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League,3,1
+EPL,2019-2020,5,Sun,2019-09-15,16:30,Watford,2.8,0.9,Arsenal,21360,Vicarage Road Stadium,Anthony Taylor,https://fbref.com/en/matches/8257eda8/Watford-Arsenal-September-15-2019-Premier-League,2,2
+EPL,2019-2020,5,Mon,2019-09-16,20:00,Aston Villa,1.0,0.5,West Ham,42010,Villa Park,Mike Dean,https://fbref.com/en/matches/b26df467/Aston-Villa-West-Ham-United-September-16-2019-Premier-League,0,0
+EPL,2019-2020,6,Fri,2019-09-20,20:00,Southampton,2.2,1.2,Bournemouth,30168,St. Mary's Stadium,Chris Kavanagh,https://fbref.com/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League,1,3
+EPL,2019-2020,6,Sat,2019-09-21,12:30,Leicester City,1.5,1.2,Tottenham,32129,King Power Stadium,Paul Tierney,https://fbref.com/en/matches/e30adc4b/Leicester-City-Tottenham-Hotspur-September-21-2019-Premier-League,2,1
+EPL,2019-2020,6,Sat,2019-09-21,15:00,Everton,0.9,0.2,Sheffield Utd,39354,Goodison Park,Simon Hooper,https://fbref.com/en/matches/707ee0eb/Everton-Sheffield-United-September-21-2019-Premier-League,0,2
+EPL,2019-2020,6,Sat,2019-09-21,15:00,Burnley,1.5,0.6,Norwich City,19712,Turf Moor,David Coote,https://fbref.com/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League,2,0
+EPL,2019-2020,6,Sat,2019-09-21,15:00,Manchester City,5.8,0.3,Watford,54273,Etihad Stadium,Mike Dean,https://fbref.com/en/matches/4672d0d7/Manchester-City-Watford-September-21-2019-Premier-League,8,0
+EPL,2019-2020,6,Sat,2019-09-21,17:30,Newcastle Utd,1.0,1.0,Brighton,43316,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/966fb8b0/Newcastle-United-Brighton-and-Hove-Albion-September-21-2019-Premier-League,0,0
+EPL,2019-2020,6,Sun,2019-09-22,14:00,West Ham,0.5,1.0,Manchester Utd,59936,London Stadium,Anthony Taylor,https://fbref.com/en/matches/fe3e2bec/West-Ham-United-Manchester-United-September-22-2019-Premier-League,2,0
+EPL,2019-2020,6,Sun,2019-09-22,14:00,Crystal Palace,0.9,0.9,Wolves,25122,Selhurst Park,Stuart Attwell,https://fbref.com/en/matches/d76eb681/Crystal-Palace-Wolverhampton-Wanderers-September-22-2019-Premier-League,1,1
+EPL,2019-2020,6,Sun,2019-09-22,16:30,Arsenal,2.4,1.1,Aston Villa,60331,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/d5fa0563/Arsenal-Aston-Villa-September-22-2019-Premier-League,3,2
+EPL,2019-2020,6,Sun,2019-09-22,16:30,Chelsea,1.2,0.9,Liverpool,40638,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League,1,2
+EPL,2019-2020,7,Sat,2019-09-28,12:30,Sheffield Utd,1.3,1.9,Liverpool,31774,Bramall Lane,Anthony Taylor,https://fbref.com/en/matches/1224c8ae/Sheffield-United-Liverpool-September-28-2019-Premier-League,0,1
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Crystal Palace,1.5,0.5,Norwich City,25477,Selhurst Park,Jonathan Moss,https://fbref.com/en/matches/3b180c0d/Crystal-Palace-Norwich-City-September-28-2019-Premier-League,2,0
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Aston Villa,0.8,1.5,Burnley,41546,Villa Park,Lee Mason,https://fbref.com/en/matches/37a51188/Aston-Villa-Burnley-September-28-2019-Premier-League,2,2
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Wolves,1.5,0.9,Watford,30711,Molineux Stadium,Paul Tierney,https://fbref.com/en/matches/4c088365/Wolverhampton-Wanderers-Watford-September-28-2019-Premier-League,2,0
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Tottenham,1.0,1.6,Southampton,59645,Tottenham Hotspur Stadium,Graham Scott,https://fbref.com/en/matches/23ec5db0/Tottenham-Hotspur-Southampton-September-28-2019-Premier-League,2,1
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Chelsea,3.2,0.5,Brighton,40683,Stamford Bridge,Chris Kavanagh,https://fbref.com/en/matches/1d4b5564/Chelsea-Brighton-and-Hove-Albion-September-28-2019-Premier-League,2,0
+EPL,2019-2020,7,Sat,2019-09-28,15:00,Bournemouth,1.9,1.5,West Ham,10729,Vitality Stadium,Stuart Attwell,https://fbref.com/en/matches/704e536e/Bournemouth-West-Ham-United-September-28-2019-Premier-League,2,2
+EPL,2019-2020,7,Sat,2019-09-28,17:30,Everton,2.5,3.5,Manchester City,39222,Goodison Park,Michael Oliver,https://fbref.com/en/matches/1b9f4fc3/Everton-Manchester-City-September-28-2019-Premier-League,1,3
+EPL,2019-2020,7,Sun,2019-09-29,16:30,Leicester City,1.1,0.2,Newcastle Utd,32168,King Power Stadium,Craig Pawson,https://fbref.com/en/matches/40d77688/Leicester-City-Newcastle-United-September-29-2019-Premier-League,5,0
+EPL,2019-2020,7,Mon,2019-09-30,20:00,Manchester Utd,1.2,1.9,Arsenal,73201,Old Trafford,Kevin Friend,https://fbref.com/en/matches/ce7501cd/Manchester-United-Arsenal-September-30-2019-Premier-League,1,1
+EPL,2019-2020,8,Sat,2019-10-05,12:30,Brighton,2.0,0.6,Tottenham,30610,The American Express Community Stadium,Jonathan Moss,https://fbref.com/en/matches/aafb2d3a/Brighton-and-Hove-Albion-Tottenham-Hotspur-October-5-2019-Premier-League,3,0
+EPL,2019-2020,8,Sat,2019-10-05,15:00,Norwich City,3.1,2.9,Aston Villa,27045,Carrow Road,Andy Madley,https://fbref.com/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League,1,5
+EPL,2019-2020,8,Sat,2019-10-05,15:00,Burnley,0.7,0.9,Everton,20650,Turf Moor,Graham Scott,https://fbref.com/en/matches/2f9439d0/Burnley-Everton-October-5-2019-Premier-League,1,0
+EPL,2019-2020,8,Sat,2019-10-05,15:00,Liverpool,2.8,0.1,Leicester City,53322,Anfield,Chris Kavanagh,https://fbref.com/en/matches/aaed1c4e/Liverpool-Leicester-City-October-5-2019-Premier-League,2,1
+EPL,2019-2020,8,Sat,2019-10-05,15:00,Watford,1.5,0.5,Sheffield Utd,20811,Vicarage Road Stadium,Andre Marriner,https://fbref.com/en/matches/2b83068d/Watford-Sheffield-United-October-5-2019-Premier-League,0,0
+EPL,2019-2020,8,Sat,2019-10-05,17:30,West Ham,1.3,2.1,Crystal Palace,59912,London Stadium,Michael Oliver,https://fbref.com/en/matches/23fe51bc/West-Ham-United-Crystal-Palace-October-5-2019-Premier-League,1,2
+EPL,2019-2020,8,Sun,2019-10-06,14:00,Arsenal,0.9,0.5,Bournemouth,60326,Emirates Stadium,Martin Atkinson,https://fbref.com/en/matches/9575566f/Arsenal-Bournemouth-October-6-2019-Premier-League,1,0
+EPL,2019-2020,8,Sun,2019-10-06,14:00,Manchester City,1.3,1.6,Wolves,54435,Etihad Stadium,Craig Pawson,https://fbref.com/en/matches/0481092b/Manchester-City-Wolverhampton-Wanderers-October-6-2019-Premier-League,0,2
+EPL,2019-2020,8,Sun,2019-10-06,14:00,Southampton,1.0,1.9,Chelsea,31473,St. Mary's Stadium,Paul Tierney,https://fbref.com/en/matches/078b24d4/Southampton-Chelsea-October-6-2019-Premier-League,1,4
+EPL,2019-2020,8,Sun,2019-10-06,16:30,Newcastle Utd,0.5,0.6,Manchester Utd,51198,St. James' Park,Mike Dean,https://fbref.com/en/matches/e4a80056/Newcastle-United-Manchester-United-October-6-2019-Premier-League,1,0
+EPL,2019-2020,9,Sat,2019-10-19,12:30,Everton,2.1,0.9,West Ham,39263,Goodison Park,Paul Tierney,https://fbref.com/en/matches/0fa45675/Everton-West-Ham-United-October-19-2019-Premier-League,2,0
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Bournemouth,0.6,0.4,Norwich City,10669,Vitality Stadium,Lee Mason,https://fbref.com/en/matches/d71c01eb/Bournemouth-Norwich-City-October-19-2019-Premier-League,0,0
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Aston Villa,2.7,1.2,Brighton,41826,Villa Park,David Coote,https://fbref.com/en/matches/34685c72/Aston-Villa-Brighton-and-Hove-Albion-October-19-2019-Premier-League,2,1
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Chelsea,1.9,0.3,Newcastle Utd,40513,Stamford Bridge,Andre Marriner,https://fbref.com/en/matches/c17538b0/Chelsea-Newcastle-United-October-19-2019-Premier-League,1,0
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Wolves,0.9,1.6,Southampton,30915,Molineux Stadium,Peter Bankes,https://fbref.com/en/matches/644a3723/Wolverhampton-Wanderers-Southampton-October-19-2019-Premier-League,1,1
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Tottenham,1.0,0.8,Watford,58754,Tottenham Hotspur Stadium,Chris Kavanagh,https://fbref.com/en/matches/4df24be7/Tottenham-Hotspur-Watford-October-19-2019-Premier-League,1,1
+EPL,2019-2020,9,Sat,2019-10-19,15:00,Leicester City,1.4,1.4,Burnley,32105,King Power Stadium,Jonathan Moss,https://fbref.com/en/matches/3529c097/Leicester-City-Burnley-October-19-2019-Premier-League,2,1
+EPL,2019-2020,9,Sat,2019-10-19,17:30,Crystal Palace,0.5,2.2,Manchester City,25480,Selhurst Park,Anthony Taylor,https://fbref.com/en/matches/f334b1dc/Crystal-Palace-Manchester-City-October-19-2019-Premier-League,0,2
+EPL,2019-2020,9,Sun,2019-10-20,16:30,Manchester Utd,0.7,1.1,Liverpool,73737,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/95c3f0c8/North-West-Derby-Manchester-United-Liverpool-October-20-2019-Premier-League,1,1
+EPL,2019-2020,9,Mon,2019-10-21,20:00,Sheffield Utd,1.0,0.8,Arsenal,30775,Bramall Lane,Mike Dean,https://fbref.com/en/matches/f63044fd/Sheffield-United-Arsenal-October-21-2019-Premier-League,1,0
+EPL,2019-2020,10,Fri,2019-10-25,20:00,Southampton,0.4,3.7,Leicester City,28762,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/3e9712d7/Southampton-Leicester-City-October-25-2019-Premier-League,0,9
+EPL,2019-2020,10,Sat,2019-10-26,12:30,Manchester City,2.4,0.9,Aston Villa,54506,Etihad Stadium,Graham Scott,https://fbref.com/en/matches/e0a4db2d/Manchester-City-Aston-Villa-October-26-2019-Premier-League,3,0
+EPL,2019-2020,10,Sat,2019-10-26,15:00,West Ham,2.0,1.7,Sheffield Utd,59878,London Stadium,David Coote,https://fbref.com/en/matches/43aa7711/West-Ham-United-Sheffield-United-October-26-2019-Premier-League,1,1
+EPL,2019-2020,10,Sat,2019-10-26,15:00,Brighton,1.3,0.7,Everton,30529,The American Express Community Stadium,Andy Madley,https://fbref.com/en/matches/f728ceea/Brighton-and-Hove-Albion-Everton-October-26-2019-Premier-League,3,2
+EPL,2019-2020,10,Sat,2019-10-26,15:00,Watford,0.8,1.1,Bournemouth,20821,Vicarage Road Stadium,Mike Dean,https://fbref.com/en/matches/1ef8e186/Watford-Bournemouth-October-26-2019-Premier-League,0,0
+EPL,2019-2020,10,Sat,2019-10-26,17:30,Burnley,2.2,1.0,Chelsea,20975,Turf Moor,Michael Oliver,https://fbref.com/en/matches/082dc9ef/Burnley-Chelsea-October-26-2019-Premier-League,2,4
+EPL,2019-2020,10,Sun,2019-10-27,14:00,Newcastle Utd,0.7,1.0,Wolves,46019,St. James' Park,Kevin Friend,https://fbref.com/en/matches/efe2b576/Newcastle-United-Wolverhampton-Wanderers-October-27-2019-Premier-League,1,1
+EPL,2019-2020,10,Sun,2019-10-27,16:30,Arsenal,1.7,1.7,Crystal Palace,60345,Emirates Stadium,Martin Atkinson,https://fbref.com/en/matches/077b30ff/Arsenal-Crystal-Palace-October-27-2019-Premier-League,2,2
+EPL,2019-2020,10,Sun,2019-10-27,16:30,Norwich City,1.0,4.1,Manchester Utd,27108,Carrow Road,Stuart Attwell,https://fbref.com/en/matches/a31a1d67/Norwich-City-Manchester-United-October-27-2019-Premier-League,1,3
+EPL,2019-2020,10,Sun,2019-10-27,16:30,Liverpool,2.5,1.4,Tottenham,53222,Anfield,Anthony Taylor,https://fbref.com/en/matches/16f28685/Liverpool-Tottenham-Hotspur-October-27-2019-Premier-League,2,1
+EPL,2019-2020,11,Sat,2019-11-02,12:30,Bournemouth,1.7,0.7,Manchester Utd,10669,Vitality Stadium,Chris Kavanagh,https://fbref.com/en/matches/9e35d172/Bournemouth-Manchester-United-November-2-2019-Premier-League,1,0
+EPL,2019-2020,11,Sat,2019-11-02,15:00,Sheffield Utd,2.1,0.8,Burnley,31131,Bramall Lane,Simon Hooper,https://fbref.com/en/matches/21606115/Sheffield-United-Burnley-November-2-2019-Premier-League,3,0
+EPL,2019-2020,11,Sat,2019-11-02,15:00,Manchester City,3.1,0.7,Southampton,53922,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/afbdd3aa/Manchester-City-Southampton-November-2-2019-Premier-League,2,1
+EPL,2019-2020,11,Sat,2019-11-02,15:00,Brighton,2.3,0.4,Norwich City,30539,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/21f39009/Brighton-and-Hove-Albion-Norwich-City-November-2-2019-Premier-League,2,0
+EPL,2019-2020,11,Sat,2019-11-02,15:00,Aston Villa,0.7,2.6,Liverpool,41878,Villa Park,Jonathan Moss,https://fbref.com/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League,1,2
+EPL,2019-2020,11,Sat,2019-11-02,15:00,Arsenal,1.1,1.5,Wolves,60383,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/a3427b2c/Arsenal-Wolverhampton-Wanderers-November-2-2019-Premier-League,1,1
+EPL,2019-2020,11,Sat,2019-11-02,15:00,West Ham,1.9,1.5,Newcastle Utd,59907,London Stadium,Stuart Attwell,https://fbref.com/en/matches/ac4523c2/West-Ham-United-Newcastle-United-November-2-2019-Premier-League,2,3
+EPL,2019-2020,11,Sat,2019-11-02,17:30,Watford,1.4,2.6,Chelsea,21011,Vicarage Road Stadium,Anthony Taylor,https://fbref.com/en/matches/0b8b7f66/Watford-Chelsea-November-2-2019-Premier-League,1,2
+EPL,2019-2020,11,Sun,2019-11-03,14:00,Crystal Palace,0.4,1.4,Leicester City,25480,Selhurst Park,Paul Tierney,https://fbref.com/en/matches/25d28387/Crystal-Palace-Leicester-City-November-3-2019-Premier-League,0,2
+EPL,2019-2020,11,Sun,2019-11-03,16:30,Everton,0.8,0.5,Tottenham,39001,Goodison Park,Martin Atkinson,https://fbref.com/en/matches/efe9c8f4/Everton-Tottenham-Hotspur-November-3-2019-Premier-League,1,1
+EPL,2019-2020,12,Fri,2019-11-08,20:00,Norwich City,0.8,0.8,Watford,27074,Carrow Road,Andre Marriner,https://fbref.com/en/matches/e92f4d2c/Norwich-City-Watford-November-8-2019-Premier-League,0,2
+EPL,2019-2020,12,Sat,2019-11-09,12:30,Chelsea,2.5,0.2,Crystal Palace,40525,Stamford Bridge,Mike Dean,https://fbref.com/en/matches/99680077/Chelsea-Crystal-Palace-November-9-2019-Premier-League,2,0
+EPL,2019-2020,12,Sat,2019-11-09,15:00,Newcastle Utd,3.0,2.3,Bournemouth,44424,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/698f846d/Newcastle-United-Bournemouth-November-9-2019-Premier-League,2,1
+EPL,2019-2020,12,Sat,2019-11-09,15:00,Burnley,1.6,0.4,West Ham,20255,Turf Moor,Kevin Friend,https://fbref.com/en/matches/559f666e/Burnley-West-Ham-United-November-9-2019-Premier-League,3,0
+EPL,2019-2020,12,Sat,2019-11-09,15:00,Tottenham,1.1,1.0,Sheffield Utd,59781,Tottenham Hotspur Stadium,Graham Scott,https://fbref.com/en/matches/ec70bb2c/Tottenham-Hotspur-Sheffield-United-November-9-2019-Premier-League,1,1
+EPL,2019-2020,12,Sat,2019-11-09,15:00,Southampton,0.9,1.9,Everton,29754,St. Mary's Stadium,Paul Tierney,https://fbref.com/en/matches/553c5b11/Southampton-Everton-November-9-2019-Premier-League,1,2
+EPL,2019-2020,12,Sat,2019-11-09,17:30,Leicester City,1.6,0.8,Arsenal,32209,King Power Stadium,Chris Kavanagh,https://fbref.com/en/matches/8e13e609/Leicester-City-Arsenal-November-9-2019-Premier-League,2,0
+EPL,2019-2020,12,Sun,2019-11-10,14:00,Wolves,1.9,0.7,Aston Villa,31607,Molineux Stadium,Anthony Taylor,https://fbref.com/en/matches/2794f89d/Wolverhampton-Wanderers-Aston-Villa-November-10-2019-Premier-League,2,1
+EPL,2019-2020,12,Sun,2019-11-10,14:00,Manchester Utd,2.2,0.9,Brighton,73556,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/014bbabe/Manchester-United-Brighton-and-Hove-Albion-November-10-2019-Premier-League,3,1
+EPL,2019-2020,12,Sun,2019-11-10,16:30,Liverpool,1.0,1.3,Manchester City,53324,Anfield,Michael Oliver,https://fbref.com/en/matches/47880eb7/Liverpool-Manchester-City-November-10-2019-Premier-League,3,1
+EPL,2019-2020,13,Sat,2019-11-23,12:30,West Ham,0.7,1.6,Tottenham,59930,London Stadium,Michael Oliver,https://fbref.com/en/matches/a7dc884b/West-Ham-United-Tottenham-Hotspur-November-23-2019-Premier-League,2,3
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Crystal Palace,1.0,1.4,Liverpool,25486,Selhurst Park,Kevin Friend,https://fbref.com/en/matches/0b1da656/Crystal-Palace-Liverpool-November-23-2019-Premier-League,1,2
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Arsenal,2.0,2.8,Southampton,60295,Emirates Stadium,Stuart Attwell,https://fbref.com/en/matches/19a8b14e/Arsenal-Southampton-November-23-2019-Premier-League,2,2
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Bournemouth,0.5,1.4,Wolves,10539,Vitality Stadium,Simon Hooper,https://fbref.com/en/matches/219643bc/Bournemouth-Wolverhampton-Wanderers-November-23-2019-Premier-League,1,2
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Everton,0.8,1.8,Norwich City,39241,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/464461f5/Everton-Norwich-City-November-23-2019-Premier-League,0,2
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Brighton,0.8,3.4,Leicester City,30640,The American Express Community Stadium,Mike Dean,https://fbref.com/en/matches/d0f6bac9/Brighton-and-Hove-Albion-Leicester-City-November-23-2019-Premier-League,0,2
+EPL,2019-2020,13,Sat,2019-11-23,15:00,Watford,1.0,2.3,Burnley,19711,Vicarage Road Stadium,Paul Tierney,https://fbref.com/en/matches/d4aea4c0/Watford-Burnley-November-23-2019-Premier-League,0,3
+EPL,2019-2020,13,Sat,2019-11-23,17:30,Manchester City,1.1,1.1,Chelsea,54486,Etihad Stadium,Martin Atkinson,https://fbref.com/en/matches/d16305c7/Manchester-City-Chelsea-November-23-2019-Premier-League,2,1
+EPL,2019-2020,13,Sun,2019-11-24,16:30,Sheffield Utd,1.4,1.4,Manchester Utd,32024,Bramall Lane,Andre Marriner,https://fbref.com/en/matches/a1d9d65f/Sheffield-United-Manchester-United-November-24-2019-Premier-League,3,3
+EPL,2019-2020,13,Mon,2019-11-25,20:00,Aston Villa,1.8,0.6,Newcastle Utd,41821,Villa Park,Lee Mason,https://fbref.com/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League,2,0
+EPL,2019-2020,14,Sat,2019-11-30,12:30,Newcastle Utd,0.3,2.6,Manchester City,49937,St. James' Park,Chris Kavanagh,https://fbref.com/en/matches/f43fa290/Newcastle-United-Manchester-City-November-30-2019-Premier-League,2,2
+EPL,2019-2020,14,Sat,2019-11-30,15:00,Tottenham,2.8,1.4,Bournemouth,59626,Tottenham Hotspur Stadium,Lee Mason,https://fbref.com/en/matches/1722ba52/Tottenham-Hotspur-Bournemouth-November-30-2019-Premier-League,3,2
+EPL,2019-2020,14,Sat,2019-11-30,15:00,Liverpool,1.9,1.0,Brighton,53319,Anfield,Martin Atkinson,https://fbref.com/en/matches/2c240ae6/Liverpool-Brighton-and-Hove-Albion-November-30-2019-Premier-League,2,1
+EPL,2019-2020,14,Sat,2019-11-30,15:00,Burnley,1.5,0.8,Crystal Palace,19818,Turf Moor,Peter Bankes,https://fbref.com/en/matches/86428aca/Burnley-Crystal-Palace-November-30-2019-Premier-League,0,2
+EPL,2019-2020,14,Sat,2019-11-30,15:00,Chelsea,2.0,0.8,West Ham,40595,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/aa1ff9cd/Chelsea-West-Ham-United-November-30-2019-Premier-League,0,1
+EPL,2019-2020,14,Sat,2019-11-30,17:30,Southampton,1.4,0.7,Watford,26929,St. Mary's Stadium,Michael Oliver,https://fbref.com/en/matches/3f1fdbad/Southampton-Watford-November-30-2019-Premier-League,2,1
+EPL,2019-2020,14,Sun,2019-12-01,14:00,Norwich City,1.3,2.0,Arsenal,27067,Carrow Road,Paul Tierney,https://fbref.com/en/matches/39fce32e/Norwich-City-Arsenal-December-1-2019-Premier-League,2,2
+EPL,2019-2020,14,Sun,2019-12-01,14:00,Wolves,1.2,1.0,Sheffield Utd,31642,Molineux Stadium,David Coote,https://fbref.com/en/matches/53a77072/Wolverhampton-Wanderers-Sheffield-United-December-1-2019-Premier-League,1,1
+EPL,2019-2020,14,Sun,2019-12-01,16:30,Leicester City,2.6,0.9,Everton,32144,King Power Stadium,Graham Scott,https://fbref.com/en/matches/aa2284c2/Leicester-City-Everton-December-1-2019-Premier-League,2,1
+EPL,2019-2020,14,Sun,2019-12-01,16:30,Manchester Utd,1.7,1.4,Aston Villa,73381,Old Trafford,Craig Pawson,https://fbref.com/en/matches/e88d9028/Manchester-United-Aston-Villa-December-1-2019-Premier-League,2,2
+EPL,2019-2020,15,Tue,2019-12-03,19:30,Crystal Palace,0.4,0.3,Bournemouth,23497,Selhurst Park,Anthony Taylor,https://fbref.com/en/matches/fd541a1f/Crystal-Palace-Bournemouth-December-3-2019-Premier-League,1,0
+EPL,2019-2020,15,Tue,2019-12-03,20:15,Burnley,0.5,1.8,Manchester City,20101,Turf Moor,Jonathan Moss,https://fbref.com/en/matches/4d718594/Burnley-Manchester-City-December-3-2019-Premier-League,1,4
+EPL,2019-2020,15,Wed,2019-12-04,19:30,Wolves,1.6,0.5,West Ham,31217,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/292d0f46/Wolverhampton-Wanderers-West-Ham-United-December-4-2019-Premier-League,2,0
+EPL,2019-2020,15,Wed,2019-12-04,19:30,Manchester Utd,1.3,0.5,Tottenham,73252,Old Trafford,Paul Tierney,https://fbref.com/en/matches/614c7c1f/Manchester-United-Tottenham-Hotspur-December-4-2019-Premier-League,2,1
+EPL,2019-2020,15,Wed,2019-12-04,19:30,Leicester City,3.0,0.2,Watford,31763,King Power Stadium,Craig Pawson,https://fbref.com/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League,2,0
+EPL,2019-2020,15,Wed,2019-12-04,19:30,Southampton,1.1,0.8,Norwich City,27019,St. Mary's Stadium,Kevin Friend,https://fbref.com/en/matches/367829b6/Southampton-Norwich-City-December-4-2019-Premier-League,2,1
+EPL,2019-2020,15,Wed,2019-12-04,19:30,Chelsea,2.1,0.7,Aston Villa,40628,Stamford Bridge,Chris Kavanagh,https://fbref.com/en/matches/3f316110/Chelsea-Aston-Villa-December-4-2019-Premier-League,2,1
+EPL,2019-2020,15,Wed,2019-12-04,20:15,Liverpool,2.7,1.5,Everton,53094,Anfield,Mike Dean,https://fbref.com/en/matches/de0ec650/Merseyside-Derby-Liverpool-Everton-December-4-2019-Premier-League,5,2
+EPL,2019-2020,15,Thu,2019-12-05,19:30,Sheffield Utd,1.3,0.8,Newcastle Utd,30409,Bramall Lane,Stuart Attwell,https://fbref.com/en/matches/8a9fa2d9/Sheffield-United-Newcastle-United-December-5-2019-Premier-League,0,2
+EPL,2019-2020,15,Thu,2019-12-05,20:15,Arsenal,1.0,2.3,Brighton,60164,Emirates Stadium,Graham Scott,https://fbref.com/en/matches/372828cb/Arsenal-Brighton-and-Hove-Albion-December-5-2019-Premier-League,1,2
+EPL,2019-2020,16,Sat,2019-12-07,12:30,Everton,1.7,0.9,Chelsea,39114,Goodison Park,Craig Pawson,https://fbref.com/en/matches/1b69dd66/Everton-Chelsea-December-7-2019-Premier-League,3,1
+EPL,2019-2020,16,Sat,2019-12-07,15:00,Watford,1.2,0.2,Crystal Palace,20070,Vicarage Road Stadium,Martin Atkinson,https://fbref.com/en/matches/90976b40/Watford-Crystal-Palace-December-7-2019-Premier-League,0,0
+EPL,2019-2020,16,Sat,2019-12-07,15:00,Bournemouth,0.2,2.3,Liverpool,10832,Vitality Stadium,Chris Kavanagh,https://fbref.com/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League,0,3
+EPL,2019-2020,16,Sat,2019-12-07,15:00,Tottenham,2.3,0.5,Burnley,58401,Tottenham Hotspur Stadium,Kevin Friend,https://fbref.com/en/matches/56da163b/Tottenham-Hotspur-Burnley-December-7-2019-Premier-League,5,0
+EPL,2019-2020,16,Sat,2019-12-07,17:30,Manchester City,2.0,1.6,Manchester Utd,54403,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/bf9c0d50/Manchester-Derby-Manchester-City-Manchester-United-December-7-2019-Premier-League,1,2
+EPL,2019-2020,16,Sun,2019-12-08,14:00,Aston Villa,1.0,4.4,Leicester City,41908,Villa Park,Michael Oliver,https://fbref.com/en/matches/559e812a/Aston-Villa-Leicester-City-December-8-2019-Premier-League,1,4
+EPL,2019-2020,16,Sun,2019-12-08,14:00,Newcastle Utd,1.2,2.3,Southampton,42303,St. James' Park,David Coote,https://fbref.com/en/matches/5d9f7fe3/Newcastle-United-Southampton-December-8-2019-Premier-League,2,1
+EPL,2019-2020,16,Sun,2019-12-08,14:00,Norwich City,0.8,0.7,Sheffield Utd,26881,Carrow Road,Simon Hooper,https://fbref.com/en/matches/529b20fa/Norwich-City-Sheffield-United-December-8-2019-Premier-League,1,2
+EPL,2019-2020,16,Sun,2019-12-08,16:30,Brighton,1.0,1.6,Wolves,30189,The American Express Community Stadium,Jonathan Moss,https://fbref.com/en/matches/daad5806/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-December-8-2019-Premier-League,2,2
+EPL,2019-2020,16,Mon,2019-12-09,20:00,West Ham,0.6,1.7,Arsenal,59936,London Stadium,Mike Dean,https://fbref.com/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League,1,3
+EPL,2019-2020,17,Sat,2019-12-14,12:30,Liverpool,1.6,1.4,Watford,53311,Anfield,Andre Marriner,https://fbref.com/en/matches/f33bb4b3/Liverpool-Watford-December-14-2019-Premier-League,2,0
+EPL,2019-2020,17,Sat,2019-12-14,15:00,Chelsea,1.5,0.8,Bournemouth,40243,Stamford Bridge,Graham Scott,https://fbref.com/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League,0,1
+EPL,2019-2020,17,Sat,2019-12-14,15:00,Leicester City,1.3,1.7,Norwich City,32101,King Power Stadium,Andy Madley,https://fbref.com/en/matches/3b2eb152/Leicester-City-Norwich-City-December-14-2019-Premier-League,1,1
+EPL,2019-2020,17,Sat,2019-12-14,15:00,Sheffield Utd,1.4,1.1,Aston Villa,30396,Bramall Lane,Peter Bankes,https://fbref.com/en/matches/b1b5e590/Sheffield-United-Aston-Villa-December-14-2019-Premier-League,2,0
+EPL,2019-2020,17,Sat,2019-12-14,15:00,Burnley,1.0,0.7,Newcastle Utd,19798,Turf Moor,Tim Robinson,https://fbref.com/en/matches/4c3c57fa/Burnley-Newcastle-United-December-14-2019-Premier-League,1,0
+EPL,2019-2020,17,Sat,2019-12-14,17:30,Southampton,0.9,1.0,West Ham,27701,St. Mary's Stadium,Martin Atkinson,https://fbref.com/en/matches/a47901a8/Southampton-West-Ham-United-December-14-2019-Premier-League,0,1
+EPL,2019-2020,17,Sun,2019-12-15,14:00,Wolves,0.8,0.9,Tottenham,31674,Molineux Stadium,Stuart Attwell,https://fbref.com/en/matches/e9e002fb/Wolverhampton-Wanderers-Tottenham-Hotspur-December-15-2019-Premier-League,1,2
+EPL,2019-2020,17,Sun,2019-12-15,14:00,Manchester Utd,1.7,0.3,Everton,63328,Old Trafford,Michael Oliver,https://fbref.com/en/matches/240ac5ad/Manchester-United-Everton-December-15-2019-Premier-League,1,1
+EPL,2019-2020,17,Sun,2019-12-15,16:30,Arsenal,0.4,1.8,Manchester City,60031,Emirates Stadium,Paul Tierney,https://fbref.com/en/matches/bed05936/Arsenal-Manchester-City-December-15-2019-Premier-League,0,3
+EPL,2019-2020,17,Mon,2019-12-16,19:45,Crystal Palace,0.7,2.3,Brighton,24175,Selhurst Park,Craig Pawson,https://fbref.com/en/matches/1163ec4a/Crystal-Palace-Brighton-and-Hove-Albion-December-16-2019-Premier-League,1,1
+EPL,2019-2020,18,Sat,2019-12-21,12:30,Everton,0.4,0.7,Arsenal,39336,Goodison Park,Kevin Friend,https://fbref.com/en/matches/b9d1d1a7/Everton-Arsenal-December-21-2019-Premier-League,0,0
+EPL,2019-2020,18,Sat,2019-12-21,15:00,Newcastle Utd,0.5,1.4,Crystal Palace,45453,St. James' Park,Simon Hooper,https://fbref.com/en/matches/5e599d06/Newcastle-United-Crystal-Palace-December-21-2019-Premier-League,1,0
+EPL,2019-2020,18,Sat,2019-12-21,15:00,Aston Villa,1.0,3.1,Southampton,41834,Villa Park,Craig Pawson,https://fbref.com/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League,1,3
+EPL,2019-2020,18,Sat,2019-12-21,15:00,Brighton,0.5,1.3,Sheffield Utd,30505,The American Express Community Stadium,Robert Jones,https://fbref.com/en/matches/473db5a3/Brighton-and-Hove-Albion-Sheffield-United-December-21-2019-Premier-League,0,1
+EPL,2019-2020,18,Sat,2019-12-21,15:00,Bournemouth,0.2,0.2,Burnley,10020,Vitality Stadium,Martin Atkinson,https://fbref.com/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League,0,1
+EPL,2019-2020,18,Sat,2019-12-21,15:00,Norwich City,1.3,1.3,Wolves,27053,Carrow Road,Peter Bankes,https://fbref.com/en/matches/223124ce/Norwich-City-Wolverhampton-Wanderers-December-21-2019-Premier-League,1,2
+EPL,2019-2020,18,Sat,2019-12-21,17:30,Manchester City,3.4,1.0,Leicester City,54415,Etihad Stadium,Mike Dean,https://fbref.com/en/matches/733c0243/Manchester-City-Leicester-City-December-21-2019-Premier-League,3,1
+EPL,2019-2020,18,Sun,2019-12-22,14:00,Watford,1.5,1.7,Manchester Utd,21488,Vicarage Road Stadium,Lee Mason,https://fbref.com/en/matches/a58df282/Watford-Manchester-United-December-22-2019-Premier-League,2,0
+EPL,2019-2020,18,Sun,2019-12-22,16:30,Tottenham,0.4,1.4,Chelsea,61104,Tottenham Hotspur Stadium,Anthony Taylor,https://fbref.com/en/matches/a1a20337/Tottenham-Hotspur-Chelsea-December-22-2019-Premier-League,0,2
+EPL,2019-2020,19,Thu,2019-12-26,12:30,Tottenham,1.5,0.6,Brighton,56308,Tottenham Hotspur Stadium,Graham Scott,https://fbref.com/en/matches/eebe09b9/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League,2,1
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Bournemouth,0.9,1.5,Arsenal,10234,Vitality Stadium,Stuart Attwell,https://fbref.com/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League,1,1
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Everton,1.6,0.4,Burnley,39177,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/b23c6c90/Everton-Burnley-December-26-2019-Premier-League,1,0
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Sheffield Utd,2.1,0.7,Watford,30222,Bramall Lane,David Coote,https://fbref.com/en/matches/960ce979/Sheffield-United-Watford-December-26-2019-Premier-League,1,1
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Aston Villa,0.6,1.1,Norwich City,41289,Villa Park,Chris Kavanagh,https://fbref.com/en/matches/010301bf/Aston-Villa-Norwich-City-December-26-2019-Premier-League,1,0
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Crystal Palace,2.0,0.9,West Ham,25462,Selhurst Park,Andre Marriner,https://fbref.com/en/matches/048fa915/Crystal-Palace-West-Ham-United-December-26-2019-Premier-League,2,1
+EPL,2019-2020,19,Thu,2019-12-26,15:00,Chelsea,0.5,0.7,Southampton,40651,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/d9a73d72/Chelsea-Southampton-December-26-2019-Premier-League,0,2
+EPL,2019-2020,19,Thu,2019-12-26,17:30,Manchester Utd,1.6,0.9,Newcastle Utd,73206,Old Trafford,Kevin Friend,https://fbref.com/en/matches/b3d5292f/Manchester-United-Newcastle-United-December-26-2019-Premier-League,4,1
+EPL,2019-2020,19,Thu,2019-12-26,20:00,Leicester City,0.1,3.1,Liverpool,32211,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/4b8063da/Leicester-City-Liverpool-December-26-2019-Premier-League,0,4
+EPL,2019-2020,19,Fri,2019-12-27,19:45,Wolves,1.8,1.6,Manchester City,31737,Molineux Stadium,Martin Atkinson,https://fbref.com/en/matches/6defd3a2/Wolverhampton-Wanderers-Manchester-City-December-27-2019-Premier-League,3,2
+EPL,2019-2020,20,Sat,2019-12-28,12:30,Brighton,1.0,0.6,Bournemouth,30441,The American Express Community Stadium,Paul Tierney,https://fbref.com/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League,2,0
+EPL,2019-2020,20,Sat,2019-12-28,15:00,Watford,2.9,0.5,Aston Villa,21348,Vicarage Road Stadium,Simon Hooper,https://fbref.com/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League,3,0
+EPL,2019-2020,20,Sat,2019-12-28,15:00,Newcastle Utd,1.5,3.5,Everton,52211,St. James' Park,Lee Mason,https://fbref.com/en/matches/6edbd555/Newcastle-United-Everton-December-28-2019-Premier-League,1,2
+EPL,2019-2020,20,Sat,2019-12-28,15:00,Southampton,1.4,0.2,Crystal Palace,31108,St. Mary's Stadium,Andy Madley,https://fbref.com/en/matches/a8ab1213/Southampton-Crystal-Palace-December-28-2019-Premier-League,1,1
+EPL,2019-2020,20,Sat,2019-12-28,17:30,West Ham,0.9,2.2,Leicester City,59919,London Stadium,David Coote,https://fbref.com/en/matches/1f2bd890/West-Ham-United-Leicester-City-December-28-2019-Premier-League,1,2
+EPL,2019-2020,20,Sat,2019-12-28,17:30,Norwich City,0.4,1.8,Tottenham,27072,Carrow Road,Kevin Friend,https://fbref.com/en/matches/a6e8ab71/Norwich-City-Tottenham-Hotspur-December-28-2019-Premier-League,2,2
+EPL,2019-2020,20,Sat,2019-12-28,19:45,Burnley,0.4,1.8,Manchester Utd,21924,Turf Moor,Mike Dean,https://fbref.com/en/matches/f66bbb03/Burnley-Manchester-United-December-28-2019-Premier-League,0,2
+EPL,2019-2020,20,Sun,2019-12-29,14:00,Arsenal,0.8,1.5,Chelsea,60309,Emirates Stadium,Craig Pawson,https://fbref.com/en/matches/850e18c6/North-West-London-Derby-Arsenal-Chelsea-December-29-2019-Premier-League,1,2
+EPL,2019-2020,20,Sun,2019-12-29,16:30,Liverpool,1.2,0.6,Wolves,53326,Anfield,Anthony Taylor,https://fbref.com/en/matches/9892a4f1/Liverpool-Wolverhampton-Wanderers-December-29-2019-Premier-League,1,0
+EPL,2019-2020,20,Sun,2019-12-29,18:00,Manchester City,1.1,1.1,Sheffield Utd,54512,Etihad Stadium,Chris Kavanagh,https://fbref.com/en/matches/aaada016/Manchester-City-Sheffield-United-December-29-2019-Premier-League,2,0
+EPL,2019-2020,21,Wed,2020-01-01,12:30,Brighton,0.9,1.6,Chelsea,30559,The American Express Community Stadium,Stuart Attwell,https://fbref.com/en/matches/9b72407a/Brighton-and-Hove-Albion-Chelsea-January-1-2020-Premier-League,1,1
+EPL,2019-2020,21,Wed,2020-01-01,12:30,Burnley,2.0,0.9,Aston Villa,19561,Turf Moor,Michael Oliver,https://fbref.com/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League,1,2
+EPL,2019-2020,21,Wed,2020-01-01,15:00,Watford,0.9,1.4,Wolves,20584,Vicarage Road Stadium,Andy Madley,https://fbref.com/en/matches/dc2a86e8/Watford-Wolverhampton-Wanderers-January-1-2020-Premier-League,2,1
+EPL,2019-2020,21,Wed,2020-01-01,15:00,Newcastle Utd,0.7,1.7,Leicester City,52178,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/a7902bb1/Newcastle-United-Leicester-City-January-1-2020-Premier-League,0,3
+EPL,2019-2020,21,Wed,2020-01-01,15:00,Southampton,1.4,0.5,Tottenham,30976,St. Mary's Stadium,Mike Dean,https://fbref.com/en/matches/ce2fad1e/Southampton-Tottenham-Hotspur-January-1-2020-Premier-League,1,0
+EPL,2019-2020,21,Wed,2020-01-01,17:30,West Ham,1.8,0.3,Bournemouth,59917,London Stadium,Graham Scott,https://fbref.com/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League,4,0
+EPL,2019-2020,21,Wed,2020-01-01,17:30,Norwich City,1.6,1.5,Crystal Palace,27021,Carrow Road,Jonathan Moss,https://fbref.com/en/matches/5bbec2c4/Norwich-City-Crystal-Palace-January-1-2020-Premier-League,1,1
+EPL,2019-2020,21,Wed,2020-01-01,17:30,Manchester City,1.6,1.2,Everton,54407,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/ed58271e/Manchester-City-Everton-January-1-2020-Premier-League,2,1
+EPL,2019-2020,21,Wed,2020-01-01,20:00,Arsenal,1.5,0.8,Manchester Utd,60328,Emirates Stadium,Chris Kavanagh,https://fbref.com/en/matches/f6b7d570/Arsenal-Manchester-United-January-1-2020-Premier-League,2,0
+EPL,2019-2020,21,Thu,2020-01-02,20:00,Liverpool,3.2,0.8,Sheffield Utd,53321,Anfield,Paul Tierney,https://fbref.com/en/matches/7fe3382b/Liverpool-Sheffield-United-January-2-2020-Premier-League,2,0
+EPL,2019-2020,22,Fri,2020-01-10,20:00,Sheffield Utd,1.8,0.7,West Ham,30124,Bramall Lane,Michael Oliver,https://fbref.com/en/matches/c5f47ccb/Sheffield-United-West-Ham-United-January-10-2020-Premier-League,1,0
+EPL,2019-2020,22,Sat,2020-01-11,12:30,Crystal Palace,0.4,1.3,Arsenal,25468,Selhurst Park,Paul Tierney,https://fbref.com/en/matches/e1fdc1f9/Crystal-Palace-Arsenal-January-11-2020-Premier-League,1,1
+EPL,2019-2020,22,Sat,2020-01-11,15:00,Chelsea,2.6,0.4,Burnley,40396,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/17a5a8ef/Chelsea-Burnley-January-11-2020-Premier-League,3,0
+EPL,2019-2020,22,Sat,2020-01-11,15:00,Leicester City,1.0,2.3,Southampton,32115,King Power Stadium,Lee Mason,https://fbref.com/en/matches/bf752bf7/Leicester-City-Southampton-January-11-2020-Premier-League,1,2
+EPL,2019-2020,22,Sat,2020-01-11,15:00,Manchester Utd,2.2,0.3,Norwich City,73271,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/db192bf5/Manchester-United-Norwich-City-January-11-2020-Premier-League,4,0
+EPL,2019-2020,22,Sat,2020-01-11,15:00,Everton,1.8,1.2,Brighton,38772,Goodison Park,David Coote,https://fbref.com/en/matches/61cc2ca5/Everton-Brighton-and-Hove-Albion-January-11-2020-Premier-League,1,0
+EPL,2019-2020,22,Sat,2020-01-11,15:00,Wolves,0.9,0.3,Newcastle Utd,31570,Molineux Stadium,Peter Bankes,https://fbref.com/en/matches/d5b1eda9/Wolverhampton-Wanderers-Newcastle-United-January-11-2020-Premier-League,1,1
+EPL,2019-2020,22,Sat,2020-01-11,17:30,Tottenham,1.6,1.9,Liverpool,61023,Tottenham Hotspur Stadium,Martin Atkinson,https://fbref.com/en/matches/39432697/Tottenham-Hotspur-Liverpool-January-11-2020-Premier-League,0,1
+EPL,2019-2020,22,Sun,2020-01-12,14:00,Bournemouth,0.3,2.0,Watford,10384,Vitality Stadium,Mike Dean,https://fbref.com/en/matches/76ce7bd8/Bournemouth-Watford-January-12-2020-Premier-League,0,3
+EPL,2019-2020,22,Sun,2020-01-12,16:30,Aston Villa,1.0,2.5,Manchester City,41823,Villa Park,Jonathan Moss,https://fbref.com/en/matches/ffb4946c/Aston-Villa-Manchester-City-January-12-2020-Premier-League,1,6
+EPL,2019-2020,23,Sat,2020-01-18,12:30,Watford,1.8,1.6,Tottenham,21366,Vicarage Road Stadium,Michael Oliver,https://fbref.com/en/matches/46697bf6/Watford-Tottenham-Hotspur-January-18-2020-Premier-League,0,0
+EPL,2019-2020,23,Sat,2020-01-18,15:00,Brighton,0.7,0.7,Aston Villa,30551,The American Express Community Stadium,Andy Madley,https://fbref.com/en/matches/bd044bad/Brighton-and-Hove-Albion-Aston-Villa-January-18-2020-Premier-League,1,1
+EPL,2019-2020,23,Sat,2020-01-18,15:00,Manchester City,2.1,0.5,Crystal Palace,54439,Etihad Stadium,Graham Scott,https://fbref.com/en/matches/4572cd0e/Manchester-City-Crystal-Palace-January-18-2020-Premier-League,2,2
+EPL,2019-2020,23,Sat,2020-01-18,15:00,West Ham,1.2,1.2,Everton,59915,London Stadium,Andre Marriner,https://fbref.com/en/matches/d4898eac/West-Ham-United-Everton-January-18-2020-Premier-League,1,1
+EPL,2019-2020,23,Sat,2020-01-18,15:00,Southampton,0.7,1.7,Wolves,31152,St. Mary's Stadium,Darren England,https://fbref.com/en/matches/9d6674f8/Southampton-Wolverhampton-Wanderers-January-18-2020-Premier-League,2,3
+EPL,2019-2020,23,Sat,2020-01-18,15:00,Norwich City,2.0,0.9,Bournemouth,26781,Carrow Road,Paul Tierney,https://fbref.com/en/matches/2550abdc/Norwich-City-Bournemouth-January-18-2020-Premier-League,1,0
+EPL,2019-2020,23,Sat,2020-01-18,15:00,Arsenal,1.3,0.7,Sheffield Utd,60310,Emirates Stadium,Mike Dean,https://fbref.com/en/matches/0333a4b6/Arsenal-Sheffield-United-January-18-2020-Premier-League,1,1
+EPL,2019-2020,23,Sat,2020-01-18,17:30,Newcastle Utd,0.6,2.0,Chelsea,52217,St. James' Park,Chris Kavanagh,https://fbref.com/en/matches/e5a20f1e/Newcastle-United-Chelsea-January-18-2020-Premier-League,1,0
+EPL,2019-2020,23,Sun,2020-01-19,14:00,Burnley,1.4,2.4,Leicester City,19788,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/bd102a2b/Burnley-Leicester-City-January-19-2020-Premier-League,2,1
+EPL,2019-2020,23,Sun,2020-01-19,16:30,Liverpool,2.3,1.2,Manchester Utd,52916,Anfield,Craig Pawson,https://fbref.com/en/matches/d2a888b6/North-West-Derby-Liverpool-Manchester-United-January-19-2020-Premier-League,2,0
+EPL,2019-2020,24,Tue,2020-01-21,19:30,Crystal Palace,0.8,1.3,Southampton,23739,Selhurst Park,Andre Marriner,https://fbref.com/en/matches/003ce1e3/Crystal-Palace-Southampton-January-21-2020-Premier-League,0,2
+EPL,2019-2020,24,Tue,2020-01-21,19:30,Bournemouth,1.6,1.2,Brighton,10065,Vitality Stadium,Kevin Friend,https://fbref.com/en/matches/ba03a070/Bournemouth-Brighton-and-Hove-Albion-January-21-2020-Premier-League,3,1
+EPL,2019-2020,24,Tue,2020-01-21,19:30,Aston Villa,1.0,1.3,Watford,40867,Villa Park,Martin Atkinson,https://fbref.com/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League,2,1
+EPL,2019-2020,24,Tue,2020-01-21,19:30,Sheffield Utd,0.8,2.9,Manchester City,31285,Bramall Lane,Lee Mason,https://fbref.com/en/matches/ae7cb0c2/Sheffield-United-Manchester-City-January-21-2020-Premier-League,0,1
+EPL,2019-2020,24,Tue,2020-01-21,19:30,Everton,1.6,0.8,Newcastle Utd,38822,Goodison Park,Simon Hooper,https://fbref.com/en/matches/33b8c50a/Everton-Newcastle-United-January-21-2020-Premier-League,2,2
+EPL,2019-2020,24,Tue,2020-01-21,20:15,Chelsea,2.8,0.5,Arsenal,40577,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/38d058ad/North-West-London-Derby-Chelsea-Arsenal-January-21-2020-Premier-League,2,2
+EPL,2019-2020,24,Wed,2020-01-22,19:30,Leicester City,2.8,1.6,West Ham,31968,King Power Stadium,David Coote,https://fbref.com/en/matches/354b03ac/Leicester-City-West-Ham-United-January-22-2020-Premier-League,4,1
+EPL,2019-2020,24,Wed,2020-01-22,19:30,Tottenham,1.9,1.6,Norwich City,58182,Tottenham Hotspur Stadium,Chris Kavanagh,https://fbref.com/en/matches/b36a7b4d/Tottenham-Hotspur-Norwich-City-January-22-2020-Premier-League,2,1
+EPL,2019-2020,24,Wed,2020-01-22,20:15,Manchester Utd,1.8,0.6,Burnley,73198,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/709e2aa4/Manchester-United-Burnley-January-22-2020-Premier-League,0,2
+EPL,2019-2020,24,Thu,2020-01-23,20:00,Wolves,1.6,1.5,Liverpool,31746,Molineux Stadium,Michael Oliver,https://fbref.com/en/matches/efd768f0/Wolverhampton-Wanderers-Liverpool-January-23-2020-Premier-League,1,2
+EPL,2019-2020,18,Wed,2020-01-29,19:45,West Ham,0.8,2.5,Liverpool,59959,London Stadium,Jonathan Moss,https://fbref.com/en/matches/7b057bc1/West-Ham-United-Liverpool-January-29-2020-Premier-League,0,2
+EPL,2019-2020,25,Sat,2020-02-01,12:30,Leicester City,1.6,0.4,Chelsea,32186,King Power Stadium,Lee Mason,https://fbref.com/en/matches/270dc7ba/Leicester-City-Chelsea-February-1-2020-Premier-League,2,2
+EPL,2019-2020,25,Sat,2020-02-01,15:00,Watford,0.6,2.1,Everton,21229,Vicarage Road Stadium,Craig Pawson,https://fbref.com/en/matches/476d12a9/Watford-Everton-February-1-2020-Premier-League,2,3
+EPL,2019-2020,25,Sat,2020-02-01,15:00,Bournemouth,2.2,1.3,Aston Villa,10722,Vitality Stadium,Anthony Taylor,https://fbref.com/en/matches/db21a88a/Bournemouth-Aston-Villa-February-1-2020-Premier-League,2,1
+EPL,2019-2020,25,Sat,2020-02-01,15:00,Newcastle Utd,0.7,1.4,Norwich City,52204,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/eef415ec/Newcastle-United-Norwich-City-February-1-2020-Premier-League,0,0
+EPL,2019-2020,25,Sat,2020-02-01,15:00,Liverpool,3.2,1.0,Southampton,53291,Anfield,Kevin Friend,https://fbref.com/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League,4,0
+EPL,2019-2020,25,Sat,2020-02-01,15:00,Crystal Palace,1.1,0.6,Sheffield Utd,25170,Selhurst Park,Andy Madley,https://fbref.com/en/matches/6b34e6af/Crystal-Palace-Sheffield-United-February-1-2020-Premier-League,0,1
+EPL,2019-2020,25,Sat,2020-02-01,15:00,West Ham,0.9,2.0,Brighton,59952,London Stadium,Michael Oliver,https://fbref.com/en/matches/14d877cc/West-Ham-United-Brighton-and-Hove-Albion-February-1-2020-Premier-League,3,3
+EPL,2019-2020,25,Sat,2020-02-01,17:30,Manchester Utd,0.8,0.9,Wolves,73363,Old Trafford,Paul Tierney,https://fbref.com/en/matches/88328013/Manchester-United-Wolverhampton-Wanderers-February-1-2020-Premier-League,0,0
+EPL,2019-2020,25,Sun,2020-02-02,14:00,Burnley,1.9,1.0,Arsenal,21048,Turf Moor,Chris Kavanagh,https://fbref.com/en/matches/a6b40849/Burnley-Arsenal-February-2-2020-Premier-League,0,0
+EPL,2019-2020,25,Sun,2020-02-02,16:30,Tottenham,0.3,3.0,Manchester City,61022,Tottenham Hotspur Stadium,Mike Dean,https://fbref.com/en/matches/e98d8736/Tottenham-Hotspur-Manchester-City-February-2-2020-Premier-League,2,0
+EPL,2019-2020,26,Sat,2020-02-08,12:30,Everton,2.4,1.1,Crystal Palace,38987,Goodison Park,David Coote,https://fbref.com/en/matches/4e620966/Everton-Crystal-Palace-February-8-2020-Premier-League,3,1
+EPL,2019-2020,26,Sat,2020-02-08,17:30,Brighton,0.7,0.3,Watford,30443,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/111b8b45/Brighton-and-Hove-Albion-Watford-February-8-2020-Premier-League,1,1
+EPL,2019-2020,26,Sun,2020-02-09,14:00,Sheffield Utd,1.7,1.3,Bournemouth,30361,Bramall Lane,Jonathan Moss,https://fbref.com/en/matches/9dbc60d4/Sheffield-United-Bournemouth-February-9-2020-Premier-League,2,1
+EPL,2019-2020,26,Fri,2020-02-14,20:00,Wolves,0.9,0.6,Leicester City,31682,Molineux Stadium,Mike Dean,https://fbref.com/en/matches/a11273b7/Wolverhampton-Wanderers-Leicester-City-February-14-2020-Premier-League,0,0
+EPL,2019-2020,26,Sat,2020-02-15,12:30,Southampton,0.7,0.6,Burnley,26302,St. Mary's Stadium,Simon Hooper,https://fbref.com/en/matches/738ade70/Southampton-Burnley-February-15-2020-Premier-League,1,2
+EPL,2019-2020,26,Sat,2020-02-15,17:30,Norwich City,0.4,1.9,Liverpool,27110,Carrow Road,Stuart Attwell,https://fbref.com/en/matches/9c238122/Norwich-City-Liverpool-February-15-2020-Premier-League,0,1
+EPL,2019-2020,26,Sun,2020-02-16,14:00,Aston Villa,1.9,3.5,Tottenham,41874,Villa Park,Martin Atkinson,https://fbref.com/en/matches/ebfe971d/Aston-Villa-Tottenham-Hotspur-February-16-2020-Premier-League,2,3
+EPL,2019-2020,26,Sun,2020-02-16,16:30,Arsenal,2.0,0.9,Newcastle Utd,60188,Emirates Stadium,Lee Mason,https://fbref.com/en/matches/6ce374b0/Arsenal-Newcastle-United-February-16-2020-Premier-League,4,0
+EPL,2019-2020,26,Mon,2020-02-17,20:00,Chelsea,1.4,0.8,Manchester Utd,40504,Stamford Bridge,Anthony Taylor,https://fbref.com/en/matches/2619bcb9/Chelsea-Manchester-United-February-17-2020-Premier-League,0,2
+EPL,2019-2020,26,Wed,2020-02-19,19:30,Manchester City,2.2,0.1,West Ham,52159,Etihad Stadium,Kevin Friend,https://fbref.com/en/matches/bc091e86/Manchester-City-West-Ham-United-February-19-2020-Premier-League,2,0
+EPL,2019-2020,27,Sat,2020-02-22,12:30,Chelsea,1.6,0.4,Tottenham,40608,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/fdd364a6/Chelsea-Tottenham-Hotspur-February-22-2020-Premier-League,2,1
+EPL,2019-2020,27,Sat,2020-02-22,15:00,Southampton,2.8,0.5,Aston Villa,31478,St. Mary's Stadium,Craig Pawson,https://fbref.com/en/matches/66823ac4/Southampton-Aston-Villa-February-22-2020-Premier-League,2,0
+EPL,2019-2020,27,Sat,2020-02-22,15:00,Sheffield Utd,1.5,1.0,Brighton,31888,Bramall Lane,Graham Scott,https://fbref.com/en/matches/c24b02bd/Sheffield-United-Brighton-and-Hove-Albion-February-22-2020-Premier-League,1,1
+EPL,2019-2020,27,Sat,2020-02-22,15:00,Burnley,2.8,1.6,Bournemouth,18227,Turf Moor,Mike Dean,https://fbref.com/en/matches/bcdc3fb0/Burnley-Bournemouth-February-22-2020-Premier-League,3,0
+EPL,2019-2020,27,Sat,2020-02-22,15:00,Crystal Palace,1.2,0.2,Newcastle Utd,25486,Selhurst Park,Peter Bankes,https://fbref.com/en/matches/5947b8fb/Crystal-Palace-Newcastle-United-February-22-2020-Premier-League,1,0
+EPL,2019-2020,27,Sat,2020-02-22,17:30,Leicester City,1.1,2.2,Manchester City,32068,King Power Stadium,Paul Tierney,https://fbref.com/en/matches/4f00e03a/Leicester-City-Manchester-City-February-22-2020-Premier-League,0,1
+EPL,2019-2020,27,Sun,2020-02-23,14:00,Wolves,2.8,0.4,Norwich City,31046,Molineux Stadium,Chris Kavanagh,https://fbref.com/en/matches/09ec6552/Wolverhampton-Wanderers-Norwich-City-February-23-2020-Premier-League,3,0
+EPL,2019-2020,27,Sun,2020-02-23,14:00,Manchester Utd,2.4,0.3,Watford,73347,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/835d0c36/Manchester-United-Watford-February-23-2020-Premier-League,3,0
+EPL,2019-2020,27,Sun,2020-02-23,16:30,Arsenal,1.2,1.9,Everton,60296,Emirates Stadium,Stuart Attwell,https://fbref.com/en/matches/485003ed/Arsenal-Everton-February-23-2020-Premier-League,3,2
+EPL,2019-2020,27,Mon,2020-02-24,20:00,Liverpool,2.9,0.7,West Ham,53313,Anfield,Jonathan Moss,https://fbref.com/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League,3,2
+EPL,2019-2020,28,Fri,2020-02-28,20:00,Norwich City,0.8,1.2,Leicester City,27010,Carrow Road,Craig Pawson,https://fbref.com/en/matches/8edf3e12/Norwich-City-Leicester-City-February-28-2020-Premier-League,1,0
+EPL,2019-2020,28,Sat,2020-02-29,12:30,Brighton,1.7,2.1,Crystal Palace,30124,The American Express Community Stadium,Martin Atkinson,https://fbref.com/en/matches/aeb979e2/Brighton-and-Hove-Albion-Crystal-Palace-February-29-2020-Premier-League,0,1
+EPL,2019-2020,28,Sat,2020-02-29,15:00,Bournemouth,1.9,1.9,Chelsea,10667,Vitality Stadium,Andre Marriner,https://fbref.com/en/matches/57d79762/Bournemouth-Chelsea-February-29-2020-Premier-League,2,2
+EPL,2019-2020,28,Sat,2020-02-29,15:00,West Ham,2.3,0.9,Southampton,59962,London Stadium,Anthony Taylor,https://fbref.com/en/matches/2cb790f2/West-Ham-United-Southampton-February-29-2020-Premier-League,3,1
+EPL,2019-2020,28,Sat,2020-02-29,15:00,Newcastle Utd,1.1,0.8,Burnley,52219,St. James' Park,Andy Madley,https://fbref.com/en/matches/5d623dc0/Newcastle-United-Burnley-February-29-2020-Premier-League,0,0
+EPL,2019-2020,28,Sat,2020-02-29,17:30,Watford,2.2,0.3,Liverpool,21634,Vicarage Road Stadium,Michael Oliver,https://fbref.com/en/matches/4df69c15/Watford-Liverpool-February-29-2020-Premier-League,3,0
+EPL,2019-2020,28,Sun,2020-03-01,14:00,Everton,2.3,1.0,Manchester Utd,39374,Goodison Park,Chris Kavanagh,https://fbref.com/en/matches/ea2c2272/Everton-Manchester-United-March-1-2020-Premier-League,1,1
+EPL,2019-2020,28,Sun,2020-03-01,14:00,Tottenham,1.5,2.6,Wolves,58064,Tottenham Hotspur Stadium,Stuart Attwell,https://fbref.com/en/matches/2475762d/Tottenham-Hotspur-Wolverhampton-Wanderers-March-1-2020-Premier-League,2,3
+EPL,2019-2020,29,Sat,2020-03-07,12:30,Liverpool,1.4,1.3,Bournemouth,53323,Anfield,Paul Tierney,https://fbref.com/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League,2,1
+EPL,2019-2020,29,Sat,2020-03-07,15:00,Sheffield Utd,0.9,1.4,Norwich City,31379,Bramall Lane,Simon Hooper,https://fbref.com/en/matches/fcdf913d/Sheffield-United-Norwich-City-March-7-2020-Premier-League,1,0
+EPL,2019-2020,29,Sat,2020-03-07,15:00,Crystal Palace,0.6,0.5,Watford,25461,Selhurst Park,Anthony Taylor,https://fbref.com/en/matches/7535d777/Crystal-Palace-Watford-March-7-2020-Premier-League,1,0
+EPL,2019-2020,29,Sat,2020-03-07,15:00,Wolves,0.6,0.3,Brighton,31490,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/6a08610e/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-March-7-2020-Premier-League,0,0
+EPL,2019-2020,29,Sat,2020-03-07,15:00,Southampton,0.4,2.8,Newcastle Utd,30096,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/947a04e9/Southampton-Newcastle-United-March-7-2020-Premier-League,0,1
+EPL,2019-2020,29,Sat,2020-03-07,15:00,Arsenal,1.1,1.7,West Ham,60335,Emirates Stadium,Martin Atkinson,https://fbref.com/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League,1,0
+EPL,2019-2020,29,Sat,2020-03-07,17:30,Burnley,2.4,1.2,Tottenham,20496,Turf Moor,Jonathan Moss,https://fbref.com/en/matches/1b4c17ec/Burnley-Tottenham-Hotspur-March-7-2020-Premier-League,1,1
+EPL,2019-2020,29,Sun,2020-03-08,14:00,Chelsea,1.9,0.6,Everton,40694,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/c062bff0/Chelsea-Everton-March-8-2020-Premier-League,4,0
+EPL,2019-2020,29,Sun,2020-03-08,16:30,Manchester Utd,1.4,0.6,Manchester City,73288,Old Trafford,Mike Dean,https://fbref.com/en/matches/04416d35/Manchester-Derby-Manchester-United-Manchester-City-March-8-2020-Premier-League,2,0
+EPL,2019-2020,29,Mon,2020-03-09,20:00,Leicester City,2.3,0.5,Aston Villa,32125,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/76f492dc/Leicester-City-Aston-Villa-March-9-2020-Premier-League,4,0
+EPL,2019-2020,28,Wed,2020-06-17,18:00,Aston Villa,1.3,0.3,Sheffield Utd,,Villa Park,Michael Oliver,https://fbref.com/en/matches/18961bf7/Aston-Villa-Sheffield-United-June-17-2020-Premier-League,0,0
+EPL,2019-2020,28,Wed,2020-06-17,20:15,Manchester City,3.3,0.2,Arsenal,,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/5825b217/Manchester-City-Arsenal-June-17-2020-Premier-League,3,0
+EPL,2019-2020,30,Fri,2020-06-19,18:00,Norwich City,0.8,1.7,Southampton,,Carrow Road,Kevin Friend,https://fbref.com/en/matches/d659cbdf/Norwich-City-Southampton-June-19-2020-Premier-League,0,3
+EPL,2019-2020,30,Fri,2020-06-19,20:15,Tottenham,0.3,1.7,Manchester Utd,,Tottenham Hotspur Stadium,Jonathan Moss,https://fbref.com/en/matches/973a441a/Tottenham-Hotspur-Manchester-United-June-19-2020-Premier-League,1,1
+EPL,2019-2020,30,Sat,2020-06-20,12:30,Watford,0.8,0.8,Leicester City,,Vicarage Road Stadium,Craig Pawson,https://fbref.com/en/matches/e5f403c2/Watford-Leicester-City-June-20-2020-Premier-League,1,1
+EPL,2019-2020,30,Sat,2020-06-20,15:00,Brighton,1.0,1.3,Arsenal,,The American Express Community Stadium,Martin Atkinson,https://fbref.com/en/matches/1abcdcde/Brighton-and-Hove-Albion-Arsenal-June-20-2020-Premier-League,2,1
+EPL,2019-2020,30,Sat,2020-06-20,17:30,West Ham,0.3,0.7,Wolves,,London Stadium,Anthony Taylor,https://fbref.com/en/matches/6ddd148a/West-Ham-United-Wolverhampton-Wanderers-June-20-2020-Premier-League,0,2
+EPL,2019-2020,30,Sat,2020-06-20,19:45,Bournemouth,0.8,0.6,Crystal Palace,,Vitality Stadium,Stuart Attwell,https://fbref.com/en/matches/c4d88352/Bournemouth-Crystal-Palace-June-20-2020-Premier-League,0,2
+EPL,2019-2020,30,Sun,2020-06-21,14:00,Newcastle Utd,1.6,0.4,Sheffield Utd,,St. James' Park,David Coote,https://fbref.com/en/matches/4e501da1/Newcastle-United-Sheffield-United-June-21-2020-Premier-League,3,0
+EPL,2019-2020,30,Sun,2020-06-21,16:15,Aston Villa,1.1,1.3,Chelsea,,Villa Park,Paul Tierney,https://fbref.com/en/matches/827d4651/Aston-Villa-Chelsea-June-21-2020-Premier-League,1,2
+EPL,2019-2020,30,Sun,2020-06-21,19:00,Everton,1.3,0.8,Liverpool,,Goodison Park,Mike Dean,https://fbref.com/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League,0,0
+EPL,2019-2020,30,Mon,2020-06-22,20:00,Manchester City,3.0,0.0,Burnley,,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/b1d3ebde/Manchester-City-Burnley-June-22-2020-Premier-League,5,0
+EPL,2019-2020,31,Tue,2020-06-23,18:00,Leicester City,0.6,1.2,Brighton,,King Power Stadium,Lee Mason,https://fbref.com/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League,0,0
+EPL,2019-2020,31,Tue,2020-06-23,20:15,Tottenham,1.6,0.8,West Ham,,Tottenham Hotspur Stadium,Craig Pawson,https://fbref.com/en/matches/8fc12d99/Tottenham-Hotspur-West-Ham-United-June-23-2020-Premier-League,2,0
+EPL,2019-2020,31,Wed,2020-06-24,18:00,Manchester Utd,2.2,0.2,Sheffield Utd,,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/54cdce8b/Manchester-United-Sheffield-United-June-24-2020-Premier-League,3,0
+EPL,2019-2020,31,Wed,2020-06-24,18:00,Newcastle Utd,0.7,1.1,Aston Villa,,St. James' Park,Chris Kavanagh,https://fbref.com/en/matches/66027e20/Newcastle-United-Aston-Villa-June-24-2020-Premier-League,1,1
+EPL,2019-2020,31,Wed,2020-06-24,18:00,Norwich City,0.4,0.8,Everton,,Carrow Road,Andy Madley,https://fbref.com/en/matches/49724d90/Norwich-City-Everton-June-24-2020-Premier-League,0,1
+EPL,2019-2020,31,Wed,2020-06-24,18:00,Wolves,1.3,0.1,Bournemouth,,Molineux Stadium,Michael Oliver,https://fbref.com/en/matches/4f61e5af/Wolverhampton-Wanderers-Bournemouth-June-24-2020-Premier-League,1,0
+EPL,2019-2020,31,Wed,2020-06-24,20:15,Liverpool,2.5,0.2,Crystal Palace,,Anfield,Martin Atkinson,https://fbref.com/en/matches/c486cf76/Liverpool-Crystal-Palace-June-24-2020-Premier-League,4,0
+EPL,2019-2020,31,Thu,2020-06-25,18:00,Southampton,0.7,2.7,Arsenal,,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/38757aa1/Southampton-Arsenal-June-25-2020-Premier-League,0,2
+EPL,2019-2020,31,Thu,2020-06-25,18:00,Burnley,1.1,0.7,Watford,,Turf Moor,Mike Dean,https://fbref.com/en/matches/965fbb94/Burnley-Watford-June-25-2020-Premier-League,1,0
+EPL,2019-2020,31,Thu,2020-06-25,20:15,Chelsea,3.1,0.5,Manchester City,,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/bc237647/Chelsea-Manchester-City-June-25-2020-Premier-League,2,1
+EPL,2019-2020,32,Sat,2020-06-27,12:30,Aston Villa,0.3,0.4,Wolves,,Villa Park,Craig Pawson,https://fbref.com/en/matches/b4483d72/Aston-Villa-Wolverhampton-Wanderers-June-27-2020-Premier-League,0,1
+EPL,2019-2020,32,Sun,2020-06-28,16:30,Watford,0.4,1.1,Southampton,,Vicarage Road Stadium,Michael Oliver,https://fbref.com/en/matches/37720dc3/Watford-Southampton-June-28-2020-Premier-League,1,3
+EPL,2019-2020,32,Mon,2020-06-29,20:00,Crystal Palace,1.1,0.5,Burnley,,Selhurst Park,Simon Hooper,https://fbref.com/en/matches/d7661a5f/Crystal-Palace-Burnley-June-29-2020-Premier-League,0,1
+EPL,2019-2020,32,Tue,2020-06-30,20:15,Brighton,0.5,0.8,Manchester Utd,,The American Express Community Stadium,Andre Marriner,https://fbref.com/en/matches/be321c59/Brighton-and-Hove-Albion-Manchester-United-June-30-2020-Premier-League,0,3
+EPL,2019-2020,32,Wed,2020-07-01,18:00,Everton,1.1,1.6,Leicester City,,Goodison Park,David Coote,https://fbref.com/en/matches/c2c7ebbf/Everton-Leicester-City-July-1-2020-Premier-League,2,1
+EPL,2019-2020,32,Wed,2020-07-01,18:00,Bournemouth,1.4,1.5,Newcastle Utd,,Vitality Stadium,Kevin Friend,https://fbref.com/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League,1,4
+EPL,2019-2020,32,Wed,2020-07-01,18:00,Arsenal,2.1,0.2,Norwich City,,Emirates Stadium,Peter Bankes,https://fbref.com/en/matches/cb52b4c8/Arsenal-Norwich-City-July-1-2020-Premier-League,4,0
+EPL,2019-2020,32,Wed,2020-07-01,20:15,West Ham,2.8,1.6,Chelsea,,London Stadium,Martin Atkinson,https://fbref.com/en/matches/5df18070/West-Ham-United-Chelsea-July-1-2020-Premier-League,3,2
+EPL,2019-2020,32,Thu,2020-07-02,18:00,Sheffield Utd,1.6,1.0,Tottenham,,Bramall Lane,Chris Kavanagh,https://fbref.com/en/matches/70507f3c/Sheffield-United-Tottenham-Hotspur-July-2-2020-Premier-League,3,1
+EPL,2019-2020,32,Thu,2020-07-02,20:15,Manchester City,2.7,1.3,Liverpool,,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/5dffd237/Manchester-City-Liverpool-July-2-2020-Premier-League,4,0
+EPL,2019-2020,33,Sat,2020-07-04,12:30,Norwich City,0.5,0.5,Brighton,,Carrow Road,Stuart Attwell,https://fbref.com/en/matches/aa3a3540/Norwich-City-Brighton-and-Hove-Albion-July-4-2020-Premier-League,0,1
+EPL,2019-2020,33,Sat,2020-07-04,15:00,Leicester City,2.4,0.5,Crystal Palace,,King Power Stadium,Jonathan Moss,https://fbref.com/en/matches/88e800c1/Leicester-City-Crystal-Palace-July-4-2020-Premier-League,3,0
+EPL,2019-2020,33,Sat,2020-07-04,15:00,Manchester Utd,2.2,1.2,Bournemouth,,Old Trafford,Mike Dean,https://fbref.com/en/matches/8bed0062/Manchester-United-Bournemouth-July-4-2020-Premier-League,5,2
+EPL,2019-2020,33,Sat,2020-07-04,17:30,Wolves,0.9,1.2,Arsenal,,Molineux Stadium,Michael Oliver,https://fbref.com/en/matches/df13ee5b/Wolverhampton-Wanderers-Arsenal-July-4-2020-Premier-League,0,2
+EPL,2019-2020,33,Sat,2020-07-04,20:00,Chelsea,2.3,0.4,Watford,,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/ee7944f1/Chelsea-Watford-July-4-2020-Premier-League,3,0
+EPL,2019-2020,33,Sun,2020-07-05,12:00,Burnley,1.5,1.3,Sheffield Utd,,Turf Moor,Peter Bankes,https://fbref.com/en/matches/c2378113/Burnley-Sheffield-United-July-5-2020-Premier-League,1,1
+EPL,2019-2020,33,Sun,2020-07-05,14:15,Newcastle Utd,1.0,1.6,West Ham,,St. James' Park,Craig Pawson,https://fbref.com/en/matches/3d549d43/Newcastle-United-West-Ham-United-July-5-2020-Premier-League,2,2
+EPL,2019-2020,33,Sun,2020-07-05,16:30,Liverpool,0.8,0.5,Aston Villa,,Anfield,Paul Tierney,https://fbref.com/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League,2,0
+EPL,2019-2020,33,Sun,2020-07-05,19:00,Southampton,0.8,2.9,Manchester City,,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/260c5c31/Southampton-Manchester-City-July-5-2020-Premier-League,1,0
+EPL,2019-2020,33,Mon,2020-07-06,20:00,Tottenham,0.6,0.4,Everton,,Tottenham Hotspur Stadium,Graham Scott,https://fbref.com/en/matches/ba9fd89a/Tottenham-Hotspur-Everton-July-6-2020-Premier-League,1,0
+EPL,2019-2020,34,Tue,2020-07-07,18:00,Watford,0.8,1.4,Norwich City,,Vicarage Road Stadium,Anthony Taylor,https://fbref.com/en/matches/7e51a0cb/Watford-Norwich-City-July-7-2020-Premier-League,2,1
+EPL,2019-2020,34,Tue,2020-07-07,18:00,Crystal Palace,1.4,1.9,Chelsea,,Selhurst Park,David Coote,https://fbref.com/en/matches/61407f3d/Crystal-Palace-Chelsea-July-7-2020-Premier-League,2,3
+EPL,2019-2020,34,Tue,2020-07-07,20:15,Arsenal,1.7,1.7,Leicester City,,Emirates Stadium,Chris Kavanagh,https://fbref.com/en/matches/a26b0a22/Arsenal-Leicester-City-July-7-2020-Premier-League,1,1
+EPL,2019-2020,34,Wed,2020-07-08,18:00,West Ham,1.8,1.0,Burnley,,London Stadium,Michael Oliver,https://fbref.com/en/matches/5c57bea6/West-Ham-United-Burnley-July-8-2020-Premier-League,0,1
+EPL,2019-2020,34,Wed,2020-07-08,18:00,Manchester City,3.3,0.2,Newcastle Utd,,Etihad Stadium,Andy Madley,https://fbref.com/en/matches/426dcb15/Manchester-City-Newcastle-United-July-8-2020-Premier-League,5,0
+EPL,2019-2020,34,Wed,2020-07-08,18:00,Sheffield Utd,0.7,0.4,Wolves,,Bramall Lane,Martin Atkinson,https://fbref.com/en/matches/f898c8ea/Sheffield-United-Wolverhampton-Wanderers-July-8-2020-Premier-League,1,0
+EPL,2019-2020,34,Wed,2020-07-08,20:15,Brighton,2.2,1.9,Liverpool,,The American Express Community Stadium,Craig Pawson,https://fbref.com/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League,1,3
+EPL,2019-2020,34,Thu,2020-07-09,18:00,Bournemouth,1.1,0.6,Tottenham,,Vitality Stadium,Paul Tierney,https://fbref.com/en/matches/1d9de580/Bournemouth-Tottenham-Hotspur-July-9-2020-Premier-League,0,0
+EPL,2019-2020,34,Thu,2020-07-09,18:00,Everton,1.0,2.4,Southampton,,Goodison Park,Lee Mason,https://fbref.com/en/matches/1357ee3b/Everton-Southampton-July-9-2020-Premier-League,1,1
+EPL,2019-2020,34,Thu,2020-07-09,20:15,Aston Villa,0.5,2.6,Manchester Utd,,Villa Park,Jonathan Moss,https://fbref.com/en/matches/61422f26/Aston-Villa-Manchester-United-July-9-2020-Premier-League,0,3
+EPL,2019-2020,35,Sat,2020-07-11,12:30,Watford,3.0,1.4,Newcastle Utd,,Vicarage Road Stadium,Craig Pawson,https://fbref.com/en/matches/ae59ff28/Watford-Newcastle-United-July-11-2020-Premier-League,2,1
+EPL,2019-2020,35,Sat,2020-07-11,12:30,Norwich City,0.7,2.7,West Ham,,Carrow Road,Kevin Friend,https://fbref.com/en/matches/1f633005/Norwich-City-West-Ham-United-July-11-2020-Premier-League,0,4
+EPL,2019-2020,35,Sat,2020-07-11,15:00,Liverpool,2.1,0.8,Burnley,,Anfield,David Coote,https://fbref.com/en/matches/267d7e78/Liverpool-Burnley-July-11-2020-Premier-League,1,1
+EPL,2019-2020,35,Sat,2020-07-11,17:30,Sheffield Utd,1.9,0.9,Chelsea,,Bramall Lane,Andre Marriner,https://fbref.com/en/matches/3f83499d/Sheffield-United-Chelsea-July-11-2020-Premier-League,3,0
+EPL,2019-2020,35,Sat,2020-07-11,20:00,Brighton,0.1,5.0,Manchester City,,The American Express Community Stadium,Graham Scott,https://fbref.com/en/matches/a24d3d6b/Brighton-and-Hove-Albion-Manchester-City-July-11-2020-Premier-League,0,5
+EPL,2019-2020,35,Sun,2020-07-12,12:00,Wolves,2.4,0.3,Everton,,Molineux Stadium,Anthony Taylor,https://fbref.com/en/matches/476e8583/Wolverhampton-Wanderers-Everton-July-12-2020-Premier-League,3,0
+EPL,2019-2020,35,Sun,2020-07-12,14:15,Aston Villa,1.7,1.3,Crystal Palace,,Villa Park,Martin Atkinson,https://fbref.com/en/matches/b30bf2e8/Aston-Villa-Crystal-Palace-July-12-2020-Premier-League,2,0
+EPL,2019-2020,35,Sun,2020-07-12,16:30,Tottenham,1.5,0.8,Arsenal,,Tottenham Hotspur Stadium,Michael Oliver,https://fbref.com/en/matches/6630c721/North-London-Derby-Tottenham-Hotspur-Arsenal-July-12-2020-Premier-League,2,1
+EPL,2019-2020,35,Sun,2020-07-12,19:00,Bournemouth,1.8,1.2,Leicester City,,Vitality Stadium,Stuart Attwell,https://fbref.com/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League,4,1
+EPL,2019-2020,35,Mon,2020-07-13,20:00,Manchester Utd,1.2,1.6,Southampton,,Old Trafford,Chris Kavanagh,https://fbref.com/en/matches/668c9423/Manchester-United-Southampton-July-13-2020-Premier-League,2,2
+EPL,2019-2020,36,Tue,2020-07-14,20:15,Chelsea,2.4,0.0,Norwich City,,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/88d08b7b/Chelsea-Norwich-City-July-14-2020-Premier-League,1,0
+EPL,2019-2020,36,Wed,2020-07-15,18:00,Burnley,1.8,1.1,Wolves,,Turf Moor,Mike Dean,https://fbref.com/en/matches/a7c5d31f/Burnley-Wolverhampton-Wanderers-July-15-2020-Premier-League,1,1
+EPL,2019-2020,36,Wed,2020-07-15,18:00,Manchester City,0.8,1.7,Bournemouth,,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/eff6988f/Manchester-City-Bournemouth-July-15-2020-Premier-League,2,1
+EPL,2019-2020,36,Wed,2020-07-15,18:00,Newcastle Utd,1.1,1.3,Tottenham,,St. James' Park,David Coote,https://fbref.com/en/matches/21cbea56/Newcastle-United-Tottenham-Hotspur-July-15-2020-Premier-League,1,3
+EPL,2019-2020,36,Wed,2020-07-15,20:15,Arsenal,1.1,2.8,Liverpool,,Emirates Stadium,Paul Tierney,https://fbref.com/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League,2,1
+EPL,2019-2020,36,Thu,2020-07-16,18:00,Everton,0.6,1.5,Aston Villa,,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/f855bc55/Everton-Aston-Villa-July-16-2020-Premier-League,1,1
+EPL,2019-2020,36,Thu,2020-07-16,18:00,Leicester City,2.2,0.2,Sheffield Utd,,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/0903cee0/Leicester-City-Sheffield-United-July-16-2020-Premier-League,2,0
+EPL,2019-2020,36,Thu,2020-07-16,20:15,Southampton,1.9,0.8,Brighton,,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League,1,1
+EPL,2019-2020,36,Thu,2020-07-16,20:15,Crystal Palace,0.8,1.8,Manchester Utd,,Selhurst Park,Graham Scott,https://fbref.com/en/matches/69a16f9d/Crystal-Palace-Manchester-United-July-16-2020-Premier-League,0,2
+EPL,2019-2020,36,Fri,2020-07-17,20:00,West Ham,0.7,1.5,Watford,,London Stadium,Martin Atkinson,https://fbref.com/en/matches/249bbdaa/West-Ham-United-Watford-July-17-2020-Premier-League,3,1
+EPL,2019-2020,37,Sat,2020-07-18,17:30,Norwich City,0.3,1.8,Burnley,,Carrow Road,Kevin Friend,https://fbref.com/en/matches/9594e0b4/Norwich-City-Burnley-July-18-2020-Premier-League,0,2
+EPL,2019-2020,37,Sun,2020-07-19,14:00,Bournemouth,1.1,2.1,Southampton,,Vitality Stadium,Craig Pawson,https://fbref.com/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League,0,2
+EPL,2019-2020,37,Sun,2020-07-19,16:00,Tottenham,0.5,1.7,Leicester City,,Tottenham Hotspur Stadium,Anthony Taylor,https://fbref.com/en/matches/d4ce66f6/Tottenham-Hotspur-Leicester-City-July-19-2020-Premier-League,3,0
+EPL,2019-2020,37,Mon,2020-07-20,18:00,Brighton,0.6,0.7,Newcastle Utd,,The American Express Community Stadium,Simon Hooper,https://fbref.com/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League,0,0
+EPL,2019-2020,37,Mon,2020-07-20,18:00,Sheffield Utd,0.5,0.3,Everton,,Bramall Lane,Stuart Attwell,https://fbref.com/en/matches/d2e788d0/Sheffield-United-Everton-July-20-2020-Premier-League,0,1
+EPL,2019-2020,37,Mon,2020-07-20,20:15,Wolves,1.5,0.3,Crystal Palace,,Molineux Stadium,Peter Bankes,https://fbref.com/en/matches/70598e52/Wolverhampton-Wanderers-Crystal-Palace-July-20-2020-Premier-League,2,0
+EPL,2019-2020,37,Tue,2020-07-21,18:00,Watford,0.1,3.5,Manchester City,,Vicarage Road Stadium,Michael Oliver,https://fbref.com/en/matches/9979847f/Watford-Manchester-City-July-21-2020-Premier-League,0,4
+EPL,2019-2020,37,Tue,2020-07-21,20:15,Aston Villa,0.6,0.7,Arsenal,,Villa Park,Chris Kavanagh,https://fbref.com/en/matches/ca0b21bc/Aston-Villa-Arsenal-July-21-2020-Premier-League,1,0
+EPL,2019-2020,37,Wed,2020-07-22,18:00,Manchester Utd,0.7,1.8,West Ham,,Old Trafford,Paul Tierney,https://fbref.com/en/matches/bf25e016/Manchester-United-West-Ham-United-July-22-2020-Premier-League,1,1
+EPL,2019-2020,37,Wed,2020-07-22,20:15,Liverpool,1.4,2.3,Chelsea,,Anfield,Andre Marriner,https://fbref.com/en/matches/a80ba6fe/Liverpool-Chelsea-July-22-2020-Premier-League,5,3
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Burnley,1.8,1.1,Brighton,,Turf Moor,Jonathan Moss,https://fbref.com/en/matches/d4360fcd/Burnley-Brighton-and-Hove-Albion-July-26-2020-Premier-League,1,2
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Southampton,2.2,1.4,Sheffield Utd,,St. Mary's Stadium,Peter Bankes,https://fbref.com/en/matches/3e5b45b7/Southampton-Sheffield-United-July-26-2020-Premier-League,3,1
+EPL,2019-2020,38,Sun,2020-07-26,16:00,West Ham,0.7,1.2,Aston Villa,,London Stadium,Michael Oliver,https://fbref.com/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League,1,1
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Chelsea,1.3,0.2,Wolves,,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/9cca4ba0/Chelsea-Wolverhampton-Wanderers-July-26-2020-Premier-League,2,0
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Everton,2.2,1.8,Bournemouth,,Goodison Park,Chris Kavanagh,https://fbref.com/en/matches/2a3b8f05/Everton-Bournemouth-July-26-2020-Premier-League,1,3
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Crystal Palace,0.8,0.4,Tottenham,,Selhurst Park,Andre Marriner,https://fbref.com/en/matches/61616d45/Crystal-Palace-Tottenham-Hotspur-July-26-2020-Premier-League,1,1
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Arsenal,1.7,3.4,Watford,,Emirates Stadium,Mike Dean,https://fbref.com/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League,3,2
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Manchester City,3.2,1.1,Norwich City,,Etihad Stadium,Craig Pawson,https://fbref.com/en/matches/9099d1e5/Manchester-City-Norwich-City-July-26-2020-Premier-League,5,0
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Leicester City,1.4,1.9,Manchester Utd,,King Power Stadium,Martin Atkinson,https://fbref.com/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League,0,2
+EPL,2019-2020,38,Sun,2020-07-26,16:00,Newcastle Utd,0.4,0.6,Liverpool,,St. James' Park,Anthony Taylor,https://fbref.com/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League,1,3

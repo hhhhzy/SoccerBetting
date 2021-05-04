@@ -1,0 +1,381 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+SerieA,2018-2019,1,Sat,2018-08-18,18:00,Chievo,1.0,2.3,Juventus,29500,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,https://fbref.com/en/matches/2758c0c0/Chievo-Juventus-August-18-2018-Serie-A,2,3
+SerieA,2018-2019,1,Sat,2018-08-18,20:30,Lazio,1.1,1.5,Napoli,32000,Stadio Olimpico,Luca Banti,https://fbref.com/en/matches/34947288/Lazio-Napoli-August-18-2018-Serie-A,1,2
+SerieA,2018-2019,1,Sun,2018-08-19,18:00,Torino,0.7,1.5,Roma,18000,Stadio Olimpico di Torino,Marco Di Bello,https://fbref.com/en/matches/bf8bed12/Torino-Roma-August-19-2018-Serie-A,0,1
+SerieA,2018-2019,1,Sun,2018-08-19,20:30,Empoli,0.9,0.9,Cagliari,7335,Stadio Carlo Castellani,Daniele Chiffi,https://fbref.com/en/matches/4df38742/Empoli-Cagliari-August-19-2018-Serie-A,2,0
+SerieA,2018-2019,1,Sun,2018-08-19,20:30,Bologna,0.9,0.7,SPAL,21158,Stadio Renato Dall'Ara,Piero Giacomelli,https://fbref.com/en/matches/76ad12fa/Bologna-SPAL-August-19-2018-Serie-A,0,1
+SerieA,2018-2019,1,Sun,2018-08-19,20:30,Parma,1.4,2.1,Udinese,13141,Stadio Ennio Tardini,Giampaolo Calvarese,https://fbref.com/en/matches/52018b4a/Parma-Udinese-August-19-2018-Serie-A,2,2
+SerieA,2018-2019,1,Sun,2018-08-19,20:30,Sassuolo,1.6,1.4,Inter,19104,Stadio Città del Tricolore,Maurizio Mariani,https://fbref.com/en/matches/359379e6/Sassuolo-Internazionale-August-19-2018-Serie-A,1,0
+SerieA,2018-2019,1,Mon,2018-08-20,20:30,Atalanta,2.3,0.5,Frosinone,18217,Stadio Atleti Azzurri d'Italia,Marco Piccinini,https://fbref.com/en/matches/3c6aced5/Atalanta-Frosinone-August-20-2018-Serie-A,4,0
+SerieA,2018-2019,2,Sat,2018-08-25,18:00,Juventus,2.2,0.2,Lazio,40171,Allianz Stadium,Massimiliano Irrati,https://fbref.com/en/matches/2ea4b5a9/Juventus-Lazio-August-25-2018-Serie-A,2,0
+SerieA,2018-2019,2,Sat,2018-08-25,20:30,Napoli,2.1,0.7,Milan,34474,Stadio San Paolo,Paolo Valeri,https://fbref.com/en/matches/05260246/Napoli-Milan-August-25-2018-Serie-A,3,2
+SerieA,2018-2019,2,Sun,2018-08-26,18:00,SPAL,1.2,0.5,Parma,6000,Stadio Paolo Mazza,Daniele Orsato,https://fbref.com/en/matches/43700994/SPAL-Parma-August-26-2018-Serie-A,1,0
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Fiorentina,3.1,1.2,Chievo,27790,Stadio Artemio Franchi,Rosario Abisso,https://fbref.com/en/matches/faabbf40/Fiorentina-Chievo-August-26-2018-Serie-A,6,1
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Genoa,1.1,2.3,Empoli,19523,Stadio Comunale Luigi Ferraris,Livio Marinelli,https://fbref.com/en/matches/13e8157a/Genoa-Empoli-August-26-2018-Serie-A,2,1
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Frosinone,1.4,1.2,Bologna,,Stadio Olimpico di Torino,Gianluca Manganiello,https://fbref.com/en/matches/7dff3aeb/Frosinone-Bologna-August-26-2018-Serie-A,0,0
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Inter,1.4,1.6,Torino,59135,Stadio Giuseppe Meazza,Paolo Mazzoleni,https://fbref.com/en/matches/41f84052/Internazionale-Torino-August-26-2018-Serie-A,2,2
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Cagliari,1.6,1.9,Sassuolo,14432,Sardegna Arena,Luca Pairetto,https://fbref.com/en/matches/05f91647/Cagliari-Sassuolo-August-26-2018-Serie-A,2,2
+SerieA,2018-2019,2,Sun,2018-08-26,20:30,Udinese,1.5,0.7,Sampdoria,15770,Dacia Arena,Federico La Penna,https://fbref.com/en/matches/f42fa5a8/Udinese-Sampdoria-August-26-2018-Serie-A,1,0
+SerieA,2018-2019,2,Mon,2018-08-27,20:30,Roma,2.0,2.4,Atalanta,41725,Stadio Olimpico,Michael Fabbri,https://fbref.com/en/matches/9be750ef/Roma-Atalanta-August-27-2018-Serie-A,3,3
+SerieA,2018-2019,3,Fri,2018-08-31,20:30,Milan,1.5,0.5,Roma,57789,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/ef299e2b/Milan-Roma-August-31-2018-Serie-A,2,1
+SerieA,2018-2019,3,Sat,2018-09-01,18:00,Bologna,0.5,2.0,Inter,26082,Stadio Renato Dall'Ara,Marco Di Bello,https://fbref.com/en/matches/9ff54a39/Bologna-Internazionale-September-1-2018-Serie-A,0,3
+SerieA,2018-2019,3,Sat,2018-09-01,20:30,Parma,1.6,2.4,Juventus,20814,Stadio Ennio Tardini,Daniele Doveri,https://fbref.com/en/matches/c43bd14a/Parma-Juventus-September-1-2018-Serie-A,1,2
+SerieA,2018-2019,3,Sun,2018-09-02,18:00,Fiorentina,0.7,0.2,Udinese,31009,Stadio Artemio Franchi,Antonio Giua,https://fbref.com/en/matches/10a124a6/Fiorentina-Udinese-September-2-2018-Serie-A,1,0
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Chievo,1.0,1.2,Empoli,8100,Stadio Marc'Antonio Bentegodi,Piero Giacomelli,https://fbref.com/en/matches/70877c73/Chievo-Empoli-September-2-2018-Serie-A,0,0
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Atalanta,0.6,0.5,Cagliari,17709,Stadio Atleti Azzurri d'Italia,Fabio Maresca,https://fbref.com/en/matches/cafe7e69/Atalanta-Cagliari-September-2-2018-Serie-A,0,1
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Sampdoria,0.8,1.8,Napoli,19835,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/ada597b6/Sampdoria-Napoli-September-2-2018-Serie-A,3,0
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Lazio,2.1,0.6,Frosinone,34465,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/f0ed203e/Lazio-Frosinone-September-2-2018-Serie-A,1,0
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Sassuolo,1.4,1.8,Genoa,9740,Stadio Città del Tricolore,Gianluca Rocchi,https://fbref.com/en/matches/fa044ae0/Sassuolo-Genoa-September-2-2018-Serie-A,5,3
+SerieA,2018-2019,3,Sun,2018-09-02,20:30,Torino,1.3,1.0,SPAL,17785,Stadio Olimpico di Torino,Fabrizio Pasqua,https://fbref.com/en/matches/69be40b5/Torino-SPAL-September-2-2018-Serie-A,1,0
+SerieA,2018-2019,4,Sat,2018-09-15,15:00,Inter,1.8,0.5,Parma,59648,Stadio Giuseppe Meazza,Gianluca Manganiello,https://fbref.com/en/matches/68014e37/Internazionale-Parma-September-15-2018-Serie-A,0,1
+SerieA,2018-2019,4,Sat,2018-09-15,18:00,Napoli,1.5,0.4,Fiorentina,20131,Stadio San Paolo,Michael Fabbri,https://fbref.com/en/matches/b208fb74/Napoli-Fiorentina-September-15-2018-Serie-A,1,0
+SerieA,2018-2019,4,Sat,2018-09-15,20:30,Frosinone,0.5,2.7,Sampdoria,12502,Stadio Benito Stirpe,Massimiliano Irrati,https://fbref.com/en/matches/bf65ae94/Frosinone-Sampdoria-September-15-2018-Serie-A,0,5
+SerieA,2018-2019,4,Sun,2018-09-16,12:30,Roma,2.5,1.2,Chievo,39849,Stadio Olimpico,Paolo Mazzoleni,https://fbref.com/en/matches/b877c74e/Roma-Chievo-September-16-2018-Serie-A,2,2
+SerieA,2018-2019,4,Sun,2018-09-16,15:00,Udinese,0.5,1.0,Torino,18813,Dacia Arena,Paolo Valeri,https://fbref.com/en/matches/305c7c4e/Udinese-Torino-September-16-2018-Serie-A,1,1
+SerieA,2018-2019,4,Sun,2018-09-16,15:00,Genoa,0.7,0.8,Bologna,20032,Stadio Comunale Luigi Ferraris,Luca Banti,https://fbref.com/en/matches/64118347/Genoa-Bologna-September-16-2018-Serie-A,1,0
+SerieA,2018-2019,4,Sun,2018-09-16,15:00,Juventus,2.6,0.8,Sassuolo,40563,Allianz Stadium,Daniele Chiffi,https://fbref.com/en/matches/37302313/Juventus-Sassuolo-September-16-2018-Serie-A,2,1
+SerieA,2018-2019,4,Sun,2018-09-16,18:00,Empoli,1.6,2.3,Lazio,10832,Stadio Carlo Castellani,Daniele Orsato,https://fbref.com/en/matches/af2ecea2/Empoli-Lazio-September-16-2018-Serie-A,0,1
+SerieA,2018-2019,4,Sun,2018-09-16,20:30,Cagliari,0.4,1.5,Milan,16201,Sardegna Arena,Rosario Abisso,https://fbref.com/en/matches/5cf4181b/Cagliari-Milan-September-16-2018-Serie-A,1,1
+SerieA,2018-2019,4,Mon,2018-09-17,20:30,SPAL,1.5,0.8,Atalanta,14153,Stadio Paolo Mazza,Maurizio Mariani,https://fbref.com/en/matches/dc04de87/SPAL-Atalanta-September-17-2018-Serie-A,2,0
+SerieA,2018-2019,1,Wed,2018-09-19,19:00,Sampdoria,0.8,1.6,Fiorentina,18334,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/55a722ce/Sampdoria-Fiorentina-September-19-2018-Serie-A,1,1
+SerieA,2018-2019,5,Fri,2018-09-21,20:30,Sassuolo,1.5,1.6,Empoli,10183,Stadio Città del Tricolore,Federico La Penna,https://fbref.com/en/matches/fa7d3c6d/Sassuolo-Empoli-September-21-2018-Serie-A,3,1
+SerieA,2018-2019,5,Sat,2018-09-22,15:00,Parma,2.1,1.4,Cagliari,14852,Stadio Ennio Tardini,Giampaolo Calvarese,https://fbref.com/en/matches/976466b0/Parma-Cagliari-September-22-2018-Serie-A,2,0
+SerieA,2018-2019,5,Sat,2018-09-22,18:00,Fiorentina,1.5,0.8,SPAL,30068,Stadio Artemio Franchi,Davide Ghersini,https://fbref.com/en/matches/85a325de/Fiorentina-SPAL-September-22-2018-Serie-A,3,0
+SerieA,2018-2019,5,Sat,2018-09-22,20:30,Sampdoria,0.7,0.9,Inter,22835,Stadio Comunale Luigi Ferraris,Marco Guida,https://fbref.com/en/matches/311dafe4/Sampdoria-Internazionale-September-22-2018-Serie-A,0,1
+SerieA,2018-2019,5,Sun,2018-09-23,12:30,Torino,1.3,1.8,Napoli,22655,Stadio Olimpico di Torino,Massimiliano Irrati,https://fbref.com/en/matches/5c05a806/Torino-Napoli-September-23-2018-Serie-A,1,3
+SerieA,2018-2019,5,Sun,2018-09-23,15:00,Chievo,1.7,1.7,Udinese,10000,Stadio Marc'Antonio Bentegodi,Luca Pairetto,https://fbref.com/en/matches/bbc47e50/Chievo-Udinese-September-23-2018-Serie-A,0,2
+SerieA,2018-2019,5,Sun,2018-09-23,15:00,Lazio,2.7,0.9,Genoa,30000,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/6c773dd6/Lazio-Genoa-September-23-2018-Serie-A,4,1
+SerieA,2018-2019,5,Sun,2018-09-23,15:00,Bologna,1.8,2.9,Roma,20067,Stadio Renato Dall'Ara,Davide Massa,https://fbref.com/en/matches/6d33bbb0/Bologna-Roma-September-23-2018-Serie-A,2,0
+SerieA,2018-2019,5,Sun,2018-09-23,18:00,Milan,2.0,2.2,Atalanta,51684,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/f06bb875/Milan-Atalanta-September-23-2018-Serie-A,2,2
+SerieA,2018-2019,5,Sun,2018-09-23,20:30,Frosinone,0.1,2.2,Juventus,16000,Stadio Benito Stirpe,Piero Giacomelli,https://fbref.com/en/matches/37d02d43/Frosinone-Juventus-September-23-2018-Serie-A,0,2
+SerieA,2018-2019,6,Tue,2018-09-25,21:00,Inter,2.2,1.3,Fiorentina,55840,Stadio Giuseppe Meazza,Paolo Mazzoleni,https://fbref.com/en/matches/cc3de56b/Internazionale-Fiorentina-September-25-2018-Serie-A,2,1
+SerieA,2018-2019,6,Wed,2018-09-26,19:00,Udinese,0.6,1.0,Lazio,19455,Dacia Arena,Fabio Maresca,https://fbref.com/en/matches/55e64680/Udinese-Lazio-September-26-2018-Serie-A,1,2
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Atalanta,0.8,0.2,Torino,18144,Stadio Atleti Azzurri d'Italia,Daniele Orsato,https://fbref.com/en/matches/e4017e17/Atalanta-Torino-September-26-2018-Serie-A,0,0
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Genoa,1.2,1.3,Chievo,18969,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,https://fbref.com/en/matches/539bea82/Genoa-Chievo-September-26-2018-Serie-A,2,0
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Roma,2.8,1.0,Frosinone,34380,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/8ab82da5/Roma-Frosinone-September-26-2018-Serie-A,4,0
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Napoli,3.4,0.1,Parma,29354,Stadio San Paolo,Daniele Doveri,https://fbref.com/en/matches/3e70776d/Napoli-Parma-September-26-2018-Serie-A,3,0
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Juventus,1.1,0.5,Bologna,38472,Allianz Stadium,Maurizio Mariani,https://fbref.com/en/matches/c541e5e5/Juventus-Bologna-September-26-2018-Serie-A,2,0
+SerieA,2018-2019,6,Wed,2018-09-26,21:00,Cagliari,0.8,2.6,Sampdoria,14038,Sardegna Arena,Gianluca Rocchi,https://fbref.com/en/matches/5735413c/Cagliari-Sampdoria-September-26-2018-Serie-A,0,0
+SerieA,2018-2019,6,Thu,2018-09-27,19:00,SPAL,1.2,2.1,Sassuolo,13945,Stadio Paolo Mazza,Eugenio Abbattista,https://fbref.com/en/matches/0b869122/SPAL-Sassuolo-September-27-2018-Serie-A,0,2
+SerieA,2018-2019,6,Thu,2018-09-27,21:00,Empoli,1.5,1.7,Milan,13890,Stadio Carlo Castellani,Michael Fabbri,https://fbref.com/en/matches/dfc7da77/Empoli-Milan-September-27-2018-Serie-A,1,1
+SerieA,2018-2019,7,Sat,2018-09-29,15:00,Roma,1.5,1.0,Lazio,47600,Stadio Olimpico,Gianluca Rocchi,https://fbref.com/en/matches/f37a8fa3/Roma-Lazio-September-29-2018-Serie-A,3,1
+SerieA,2018-2019,7,Sat,2018-09-29,18:00,Juventus,2.2,1.7,Napoli,39252,Allianz Stadium,Luca Banti,https://fbref.com/en/matches/d2cccf44/Juventus-Napoli-September-29-2018-Serie-A,3,1
+SerieA,2018-2019,7,Sat,2018-09-29,20:30,Inter,1.2,0.1,Cagliari,55486,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/f4a15ae9/Internazionale-Cagliari-September-29-2018-Serie-A,2,0
+SerieA,2018-2019,7,Sun,2018-09-30,12:30,Bologna,1.3,0.8,Udinese,19039,Stadio Renato Dall'Ara,Gianluca Manganiello,https://fbref.com/en/matches/83129638/Bologna-Udinese-September-30-2018-Serie-A,2,1
+SerieA,2018-2019,7,Sun,2018-09-30,15:00,Frosinone,1.9,1.4,Genoa,12384,Stadio Benito Stirpe,Juan Sacchi,https://fbref.com/en/matches/8c1894ab/Frosinone-Genoa-September-30-2018-Serie-A,1,2
+SerieA,2018-2019,7,Sun,2018-09-30,15:00,Fiorentina,1.1,0.9,Atalanta,30535,Stadio Artemio Franchi,Paolo Valeri,https://fbref.com/en/matches/46205931/Fiorentina-Atalanta-September-30-2018-Serie-A,2,0
+SerieA,2018-2019,7,Sun,2018-09-30,15:00,Chievo,0.5,2.4,Torino,10500,Stadio Marc'Antonio Bentegodi,Marco Guida,https://fbref.com/en/matches/15a2a3da/Chievo-Torino-September-30-2018-Serie-A,0,1
+SerieA,2018-2019,7,Sun,2018-09-30,18:00,Parma,0.9,1.4,Empoli,14584,Stadio Ennio Tardini,Luca Pairetto,https://fbref.com/en/matches/b087d0a1/Parma-Empoli-September-30-2018-Serie-A,1,0
+SerieA,2018-2019,7,Sun,2018-09-30,20:30,Sassuolo,0.9,1.4,Milan,16795,Stadio Città del Tricolore,Piero Giacomelli,https://fbref.com/en/matches/b493840d/Sassuolo-Milan-September-30-2018-Serie-A,1,4
+SerieA,2018-2019,7,Mon,2018-10-01,20:30,Sampdoria,1.2,1.2,SPAL,17885,Stadio Comunale Luigi Ferraris,Federico La Penna,https://fbref.com/en/matches/60b0ad33/Sampdoria-SPAL-October-1-2018-Serie-A,2,1
+SerieA,2018-2019,8,Fri,2018-10-05,20:30,Torino,2.4,1.8,Frosinone,16554,Stadio Olimpico di Torino,Ivan Pezzuto,https://fbref.com/en/matches/4c04b010/Torino-Frosinone-October-5-2018-Serie-A,3,2
+SerieA,2018-2019,8,Sat,2018-10-06,15:00,Cagliari,1.6,0.4,Bologna,15019,Sardegna Arena,Fabrizio Pasqua,https://fbref.com/en/matches/e336189b/Cagliari-Bologna-October-6-2018-Serie-A,2,0
+SerieA,2018-2019,8,Sat,2018-10-06,18:00,Udinese,0.8,2.1,Juventus,25000,Dacia Arena,Rosario Abisso,https://fbref.com/en/matches/ab2feeab/Udinese-Juventus-October-6-2018-Serie-A,0,2
+SerieA,2018-2019,8,Sat,2018-10-06,20:30,Empoli,1.7,0.9,Roma,10670,Stadio Carlo Castellani,Paolo Mazzoleni,https://fbref.com/en/matches/aa9de6dc/Empoli-Roma-October-6-2018-Serie-A,0,2
+SerieA,2018-2019,8,Sun,2018-10-07,12:30,Genoa,1.6,1.2,Parma,20511,Stadio Comunale Luigi Ferraris,Daniele Chiffi,https://fbref.com/en/matches/a223dbf3/Genoa-Parma-October-7-2018-Serie-A,1,3
+SerieA,2018-2019,8,Sun,2018-10-07,15:00,Milan,2.2,0.4,Chievo,48088,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/5335e1d2/Milan-Chievo-October-7-2018-Serie-A,3,1
+SerieA,2018-2019,8,Sun,2018-10-07,15:00,Atalanta,1.9,0.5,Sampdoria,19164,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,https://fbref.com/en/matches/5dc48772/Atalanta-Sampdoria-October-7-2018-Serie-A,0,1
+SerieA,2018-2019,8,Sun,2018-10-07,15:00,Lazio,0.9,1.3,Fiorentina,30000,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/86b366f7/Lazio-Fiorentina-October-7-2018-Serie-A,1,0
+SerieA,2018-2019,8,Sun,2018-10-07,18:00,Napoli,2.0,0.8,Sassuolo,29647,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/c1bd224f/Napoli-Sassuolo-October-7-2018-Serie-A,2,0
+SerieA,2018-2019,8,Sun,2018-10-07,20:30,SPAL,2.7,1.2,Inter,15750,Stadio Paolo Mazza,Fabio Maresca,https://fbref.com/en/matches/0accdf58/SPAL-Internazionale-October-7-2018-Serie-A,1,2
+SerieA,2018-2019,9,Sat,2018-10-20,15:00,Roma,2.1,1.6,SPAL,39838,Stadio Olimpico,Luca Pairetto,https://fbref.com/en/matches/e4bccaf6/Roma-SPAL-October-20-2018-Serie-A,0,2
+SerieA,2018-2019,9,Sat,2018-10-20,18:00,Juventus,2.0,0.5,Genoa,37735,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/46e81730/Juventus-Genoa-October-20-2018-Serie-A,1,1
+SerieA,2018-2019,9,Sat,2018-10-20,20:30,Udinese,0.9,2.0,Napoli,21449,Dacia Arena,Maurizio Mariani,https://fbref.com/en/matches/742e1bd2/Udinese-Napoli-October-20-2018-Serie-A,0,3
+SerieA,2018-2019,9,Sun,2018-10-21,12:30,Frosinone,1.1,1.6,Empoli,12287,Stadio Benito Stirpe,Daniele Orsato,https://fbref.com/en/matches/90256e72/Frosinone-Empoli-October-21-2018-Serie-A,3,3
+SerieA,2018-2019,9,Sun,2018-10-21,15:00,Bologna,1.2,0.8,Torino,23245,Stadio Renato Dall'Ara,Luca Banti,https://fbref.com/en/matches/46ef4b1a/Bologna-Torino-October-21-2018-Serie-A,2,2
+SerieA,2018-2019,9,Sun,2018-10-21,15:00,Chievo,0.9,2.0,Atalanta,12000,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,https://fbref.com/en/matches/46c6a36f/Chievo-Atalanta-October-21-2018-Serie-A,1,5
+SerieA,2018-2019,9,Sun,2018-10-21,15:00,Parma,0.2,2.3,Lazio,18969,Stadio Ennio Tardini,Michael Fabbri,https://fbref.com/en/matches/8fb4107b/Parma-Lazio-October-21-2018-Serie-A,0,2
+SerieA,2018-2019,9,Sun,2018-10-21,18:00,Fiorentina,1.4,0.8,Cagliari,31567,Stadio Artemio Franchi,Piero Giacomelli,https://fbref.com/en/matches/93821741/Fiorentina-Cagliari-October-21-2018-Serie-A,1,1
+SerieA,2018-2019,9,Sun,2018-10-21,20:30,Inter,1.6,0.7,Milan,78275,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/853013c4/Derby-della-Madonnina-Internazionale-Milan-October-21-2018-Serie-A,1,0
+SerieA,2018-2019,9,Mon,2018-10-22,20:30,Sampdoria,0.7,0.3,Sassuolo,19064,Stadio Comunale Luigi Ferraris,Francesco Fourneau,https://fbref.com/en/matches/4c35760e/Sampdoria-Sassuolo-October-22-2018-Serie-A,0,0
+SerieA,2018-2019,10,Sat,2018-10-27,15:00,Atalanta,2.3,1.4,Parma,18152,Stadio Atleti Azzurri d'Italia,Rosario Abisso,https://fbref.com/en/matches/1048f3fb/Atalanta-Parma-October-27-2018-Serie-A,3,0
+SerieA,2018-2019,10,Sat,2018-10-27,18:00,Empoli,0.6,1.8,Juventus,15889,Stadio Carlo Castellani,Giampaolo Calvarese,https://fbref.com/en/matches/8fe69070/Empoli-Juventus-October-27-2018-Serie-A,1,2
+SerieA,2018-2019,10,Sat,2018-10-27,20:30,Torino,1.0,1.1,Fiorentina,17871,Stadio Olimpico di Torino,Michael Fabbri,https://fbref.com/en/matches/e12deac7/Torino-Fiorentina-October-27-2018-Serie-A,1,1
+SerieA,2018-2019,10,Sun,2018-10-28,12:30,Sassuolo,1.8,1.2,Bologna,12647,Stadio Città del Tricolore,Daniele Doveri,https://fbref.com/en/matches/d335a746/Sassuolo-Bologna-October-28-2018-Serie-A,2,2
+SerieA,2018-2019,10,Sun,2018-10-28,15:00,SPAL,0.7,0.6,Frosinone,13676,Stadio Paolo Mazza,Daniele Chiffi,https://fbref.com/en/matches/86b4e007/SPAL-Frosinone-October-28-2018-Serie-A,0,3
+SerieA,2018-2019,10,Sun,2018-10-28,15:00,Genoa,1.8,0.8,Udinese,18880,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,https://fbref.com/en/matches/bc7cf1b6/Genoa-Udinese-October-28-2018-Serie-A,2,2
+SerieA,2018-2019,10,Sun,2018-10-28,15:00,Cagliari,1.6,1.8,Chievo,15805,Sardegna Arena,Marco Piccinini,https://fbref.com/en/matches/e6163c2a/Cagliari-Chievo-October-28-2018-Serie-A,2,1
+SerieA,2018-2019,10,Sun,2018-10-28,18:00,Milan,1.8,0.5,Sampdoria,47347,Stadio Giuseppe Meazza,Fabio Maresca,https://fbref.com/en/matches/e941f340/Milan-Sampdoria-October-28-2018-Serie-A,3,2
+SerieA,2018-2019,10,Sun,2018-10-28,20:30,Napoli,2.6,1.0,Roma,30037,Stadio San Paolo,Davide Massa,https://fbref.com/en/matches/cd2f642f/Napoli-Roma-October-28-2018-Serie-A,1,1
+SerieA,2018-2019,10,Mon,2018-10-29,20:30,Lazio,1.1,1.5,Inter,40068,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/3d9c6a02/Lazio-Internazionale-October-29-2018-Serie-A,0,3
+SerieA,2018-2019,1,Wed,2018-10-31,20:30,Milan,1.7,0.4,Genoa,46720,Stadio Giuseppe Meazza,Fabrizio Pasqua,https://fbref.com/en/matches/7a546b8c/Milan-Genoa-October-31-2018-Serie-A,2,1
+SerieA,2018-2019,11,Fri,2018-11-02,20:30,Napoli,1.8,1.1,Empoli,31370,Stadio San Paolo,Luca Pairetto,https://fbref.com/en/matches/aef9f881/Napoli-Empoli-November-2-2018-Serie-A,5,1
+SerieA,2018-2019,11,Sat,2018-11-03,15:00,Inter,2.8,0.3,Genoa,67532,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/7e11d375/Internazionale-Genoa-November-3-2018-Serie-A,5,0
+SerieA,2018-2019,11,Sat,2018-11-03,18:00,Fiorentina,1.3,1.9,Roma,30590,Stadio Artemio Franchi,Luca Banti,https://fbref.com/en/matches/88a737bc/Fiorentina-Roma-November-3-2018-Serie-A,1,1
+SerieA,2018-2019,11,Sat,2018-11-03,20:30,Juventus,1.3,0.7,Cagliari,40644,Allianz Stadium,Maurizio Mariani,https://fbref.com/en/matches/509c0a53/Juventus-Cagliari-November-3-2018-Serie-A,3,1
+SerieA,2018-2019,11,Sun,2018-11-04,12:30,Lazio,2.3,1.0,SPAL,35573,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/1c2946a4/Lazio-SPAL-November-4-2018-Serie-A,4,1
+SerieA,2018-2019,11,Sun,2018-11-04,15:00,Sampdoria,1.3,2.9,Torino,20364,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,https://fbref.com/en/matches/6ca98909/Sampdoria-Torino-November-4-2018-Serie-A,1,4
+SerieA,2018-2019,11,Sun,2018-11-04,15:00,Parma,1.0,0.5,Frosinone,14004,Stadio Ennio Tardini,Gianluca Manganiello,https://fbref.com/en/matches/bf3d8da2/Parma-Frosinone-November-4-2018-Serie-A,0,0
+SerieA,2018-2019,11,Sun,2018-11-04,15:00,Chievo,0.6,1.0,Sassuolo,8100,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,https://fbref.com/en/matches/c91dcd07/Chievo-Sassuolo-November-4-2018-Serie-A,0,2
+SerieA,2018-2019,11,Sun,2018-11-04,18:00,Bologna,1.8,2.2,Atalanta,19038,Stadio Renato Dall'Ara,Federico La Penna,https://fbref.com/en/matches/994f1a0f/Bologna-Atalanta-November-4-2018-Serie-A,1,2
+SerieA,2018-2019,11,Sun,2018-11-04,20:30,Udinese,0.8,0.9,Milan,23540,Dacia Arena,Marco Di Bello,https://fbref.com/en/matches/9d192295/Udinese-Milan-November-4-2018-Serie-A,0,1
+SerieA,2018-2019,12,Fri,2018-11-09,20:30,Frosinone,0.4,1.5,Fiorentina,13378,Stadio Benito Stirpe,Fabrizio Pasqua,https://fbref.com/en/matches/6135ca5f/Frosinone-Fiorentina-November-9-2018-Serie-A,1,1
+SerieA,2018-2019,12,Sat,2018-11-10,15:00,Torino,1.9,1.7,Parma,17431,Stadio Olimpico di Torino,Davide Massa,https://fbref.com/en/matches/62e494f0/Torino-Parma-November-10-2018-Serie-A,1,2
+SerieA,2018-2019,12,Sat,2018-11-10,18:00,SPAL,1.7,1.0,Cagliari,13250,Stadio Paolo Mazza,Daniele Doveri,https://fbref.com/en/matches/3a437e3a/SPAL-Cagliari-November-10-2018-Serie-A,2,2
+SerieA,2018-2019,12,Sat,2018-11-10,20:30,Genoa,0.6,2.2,Napoli,25365,Stadio Comunale Luigi Ferraris,Rosario Abisso,https://fbref.com/en/matches/1354b373/Genoa-Napoli-November-10-2018-Serie-A,1,2
+SerieA,2018-2019,12,Sun,2018-11-11,12:30,Atalanta,2.8,1.2,Inter,20633,Stadio Atleti Azzurri d'Italia,Fabio Maresca,https://fbref.com/en/matches/6c35c803/Atalanta-Internazionale-November-11-2018-Serie-A,4,1
+SerieA,2018-2019,12,Sun,2018-11-11,15:00,Empoli,1.4,3.5,Udinese,7553,Stadio Carlo Castellani,Piero Giacomelli,https://fbref.com/en/matches/e9e33752/Empoli-Udinese-November-11-2018-Serie-A,2,1
+SerieA,2018-2019,12,Sun,2018-11-11,15:00,Roma,2.3,1.0,Sampdoria,37582,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/64a88b2f/Roma-Sampdoria-November-11-2018-Serie-A,4,1
+SerieA,2018-2019,12,Sun,2018-11-11,15:00,Chievo,2.1,1.7,Bologna,9500,Stadio Marc'Antonio Bentegodi,Daniele Orsato,https://fbref.com/en/matches/fe6431ea/Chievo-Bologna-November-11-2018-Serie-A,2,2
+SerieA,2018-2019,12,Sun,2018-11-11,18:00,Sassuolo,0.8,1.5,Lazio,11317,Stadio Città del Tricolore,Giampaolo Calvarese,https://fbref.com/en/matches/258162a8/Sassuolo-Lazio-November-11-2018-Serie-A,1,1
+SerieA,2018-2019,12,Sun,2018-11-11,20:30,Milan,0.8,1.1,Juventus,74729,Stadio Giuseppe Meazza,Paolo Mazzoleni,https://fbref.com/en/matches/2a9656b4/Derby-dItalia-Milan-Juventus-November-11-2018-Serie-A,0,2
+SerieA,2018-2019,13,Sat,2018-11-24,15:00,Udinese,1.1,1.7,Roma,21986,Dacia Arena,Michael Fabbri,https://fbref.com/en/matches/46b4915e/Udinese-Roma-November-24-2018-Serie-A,1,0
+SerieA,2018-2019,13,Sat,2018-11-24,18:00,Juventus,1.4,0.3,SPAL,41052,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/87cdb443/Juventus-SPAL-November-24-2018-Serie-A,2,0
+SerieA,2018-2019,13,Sat,2018-11-24,20:30,Inter,2.4,0.3,Frosinone,63645,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/7d29507c/Internazionale-Frosinone-November-24-2018-Serie-A,3,0
+SerieA,2018-2019,13,Sun,2018-11-25,12:30,Parma,1.8,1.9,Sassuolo,14354,Stadio Ennio Tardini,Paolo Valeri,https://fbref.com/en/matches/1958a5ca/Parma-Sassuolo-November-25-2018-Serie-A,2,1
+SerieA,2018-2019,13,Sun,2018-11-25,15:00,Empoli,1.7,1.5,Atalanta,8736,Stadio Carlo Castellani,Gianluca Manganiello,https://fbref.com/en/matches/6f835d4d/Empoli-Atalanta-November-25-2018-Serie-A,3,2
+SerieA,2018-2019,13,Sun,2018-11-25,15:00,Bologna,0.3,1.4,Fiorentina,21241,Stadio Renato Dall'Ara,Marco Di Bello,https://fbref.com/en/matches/6528a740/Bologna-Fiorentina-November-25-2018-Serie-A,0,0
+SerieA,2018-2019,13,Sun,2018-11-25,15:00,Napoli,1.6,0.5,Chievo,44468,Stadio San Paolo,Daniele Chiffi,https://fbref.com/en/matches/a2e9cb92/Napoli-Chievo-November-25-2018-Serie-A,0,0
+SerieA,2018-2019,13,Sun,2018-11-25,18:00,Lazio,1.6,0.5,Milan,38269,Stadio Olimpico,Luca Banti,https://fbref.com/en/matches/8fe9c11b/Lazio-Milan-November-25-2018-Serie-A,1,1
+SerieA,2018-2019,13,Sun,2018-11-25,20:30,Genoa,2.3,0.6,Sampdoria,31756,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/9741393d/Genoa-Sampdoria-November-25-2018-Serie-A,1,1
+SerieA,2018-2019,13,Mon,2018-11-26,20:30,Cagliari,0.2,1.0,Torino,15804,Sardegna Arena,Fabrizio Pasqua,https://fbref.com/en/matches/2c20f001/Cagliari-Torino-November-26-2018-Serie-A,0,0
+SerieA,2018-2019,14,Sat,2018-12-01,15:00,SPAL,0.7,2.1,Empoli,12622,Stadio Paolo Mazza,Paolo Mazzoleni,https://fbref.com/en/matches/bf6d7ecb/SPAL-Empoli-December-1-2018-Serie-A,2,2
+SerieA,2018-2019,14,Sat,2018-12-01,18:00,Fiorentina,1.3,1.8,Juventus,40872,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/8d3c0001/Fiorentina-Juventus-December-1-2018-Serie-A,0,3
+SerieA,2018-2019,14,Sat,2018-12-01,20:30,Sampdoria,1.5,1.4,Bologna,17844,Stadio Comunale Luigi Ferraris,Rosario Abisso,https://fbref.com/en/matches/c580ecf5/Sampdoria-Bologna-December-1-2018-Serie-A,4,1
+SerieA,2018-2019,14,Sun,2018-12-02,12:30,Milan,1.6,1.0,Parma,53275,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/f5d074c7/Milan-Parma-December-2-2018-Serie-A,2,1
+SerieA,2018-2019,14,Sun,2018-12-02,15:00,Torino,2.4,1.2,Genoa,15324,Stadio Olimpico di Torino,Maurizio Mariani,https://fbref.com/en/matches/19f1af60/Torino-Genoa-December-2-2018-Serie-A,2,1
+SerieA,2018-2019,14,Sun,2018-12-02,15:00,Frosinone,1.8,1.9,Cagliari,12377,Stadio Benito Stirpe,Marco Serra,https://fbref.com/en/matches/44d65fdb/Frosinone-Cagliari-December-2-2018-Serie-A,1,1
+SerieA,2018-2019,14,Sun,2018-12-02,15:00,Sassuolo,1.8,0.2,Udinese,10655,Stadio Città del Tricolore,Marco Guida,https://fbref.com/en/matches/360e0077/Sassuolo-Udinese-December-2-2018-Serie-A,0,0
+SerieA,2018-2019,14,Sun,2018-12-02,18:00,Chievo,0.9,1.6,Lazio,7000,Stadio Marc'Antonio Bentegodi,Fabio Maresca,https://fbref.com/en/matches/6b38d415/Chievo-Lazio-December-2-2018-Serie-A,1,1
+SerieA,2018-2019,14,Sun,2018-12-02,20:30,Roma,1.6,2.3,Inter,41009,Stadio Olimpico,Gianluca Rocchi,https://fbref.com/en/matches/be14a351/Roma-Internazionale-December-2-2018-Serie-A,2,2
+SerieA,2018-2019,14,Mon,2018-12-03,20:30,Atalanta,1.0,2.1,Napoli,19871,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,https://fbref.com/en/matches/176bd167/Atalanta-Napoli-December-3-2018-Serie-A,1,2
+SerieA,2018-2019,15,Fri,2018-12-07,20:30,Juventus,1.5,1.2,Inter,41495,Allianz Stadium,Massimiliano Irrati,https://fbref.com/en/matches/7b515291/Juventus-Internazionale-December-7-2018-Serie-A,1,0
+SerieA,2018-2019,15,Sat,2018-12-08,15:00,Napoli,2.2,0.3,Frosinone,34631,Stadio San Paolo,Gianluca Manganiello,https://fbref.com/en/matches/48089bcf/Napoli-Frosinone-December-8-2018-Serie-A,4,0
+SerieA,2018-2019,15,Sat,2018-12-08,18:00,Cagliari,2.1,1.5,Roma,14938,Sardegna Arena,Paolo Mazzoleni,https://fbref.com/en/matches/b30fa06d/Cagliari-Roma-December-8-2018-Serie-A,2,2
+SerieA,2018-2019,15,Sat,2018-12-08,20:30,Lazio,3.4,0.9,Sampdoria,28000,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/1559672b/Lazio-Sampdoria-December-8-2018-Serie-A,2,2
+SerieA,2018-2019,15,Sun,2018-12-09,12:30,Sassuolo,1.5,2.4,Fiorentina,11436,Stadio Città del Tricolore,Daniele Chiffi,https://fbref.com/en/matches/dc61be38/Sassuolo-Fiorentina-December-9-2018-Serie-A,3,3
+SerieA,2018-2019,15,Sun,2018-12-09,15:00,Empoli,1.6,1.9,Bologna,8379,Stadio Carlo Castellani,Paolo Valeri,https://fbref.com/en/matches/51f07929/Empoli-Bologna-December-9-2018-Serie-A,2,1
+SerieA,2018-2019,15,Sun,2018-12-09,15:00,Parma,1.3,1.5,Chievo,13994,Stadio Ennio Tardini,Federico La Penna,https://fbref.com/en/matches/481c1923/Parma-Chievo-December-9-2018-Serie-A,1,1
+SerieA,2018-2019,15,Sun,2018-12-09,15:00,Udinese,0.9,2.3,Atalanta,24413,Dacia Arena,Giampaolo Calvarese,https://fbref.com/en/matches/37563323/Udinese-Atalanta-December-9-2018-Serie-A,1,3
+SerieA,2018-2019,15,Sun,2018-12-09,18:00,Genoa,1.3,2.6,SPAL,19571,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,https://fbref.com/en/matches/4b694569/Genoa-SPAL-December-9-2018-Serie-A,1,1
+SerieA,2018-2019,15,Sun,2018-12-09,20:30,Milan,2.0,1.2,Torino,44572,Stadio Giuseppe Meazza,Daniele Orsato,https://fbref.com/en/matches/3d46245d/Milan-Torino-December-9-2018-Serie-A,0,0
+SerieA,2018-2019,16,Sat,2018-12-15,18:00,Inter,2.0,0.4,Udinese,57025,Stadio Giuseppe Meazza,Rosario Abisso,https://fbref.com/en/matches/1a318a2c/Internazionale-Udinese-December-15-2018-Serie-A,1,0
+SerieA,2018-2019,16,Sat,2018-12-15,20:30,Torino,0.4,1.5,Juventus,26588,Stadio Olimpico di Torino,Marco Guida,https://fbref.com/en/matches/d4b0d030/Torino-Juventus-December-15-2018-Serie-A,0,1
+SerieA,2018-2019,16,Sun,2018-12-16,12:30,SPAL,0.6,0.7,Chievo,11882,Stadio Paolo Mazza,Luca Banti,https://fbref.com/en/matches/4449c493/SPAL-Chievo-December-16-2018-Serie-A,0,0
+SerieA,2018-2019,16,Sun,2018-12-16,15:00,Frosinone,0.4,1.4,Sassuolo,12000,Stadio Benito Stirpe,Eugenio Abbattista,https://fbref.com/en/matches/37c7739a/Frosinone-Sassuolo-December-16-2018-Serie-A,0,2
+SerieA,2018-2019,16,Sun,2018-12-16,15:00,Sampdoria,1.4,0.5,Parma,19000,Stadio Comunale Luigi Ferraris,Luca Pairetto,https://fbref.com/en/matches/4070e37d/Sampdoria-Parma-December-16-2018-Serie-A,2,0
+SerieA,2018-2019,16,Sun,2018-12-16,15:00,Fiorentina,1.7,1.2,Empoli,30000,Stadio Artemio Franchi,Piero Giacomelli,https://fbref.com/en/matches/ed69d974/Fiorentina-Empoli-December-16-2018-Serie-A,3,1
+SerieA,2018-2019,16,Sun,2018-12-16,18:00,Cagliari,0.5,1.6,Napoli,15081,Sardegna Arena,Daniele Doveri,https://fbref.com/en/matches/4f228ea8/Cagliari-Napoli-December-16-2018-Serie-A,0,1
+SerieA,2018-2019,16,Sun,2018-12-16,20:30,Roma,2.0,2.2,Genoa,29111,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/386c7081/Roma-Genoa-December-16-2018-Serie-A,3,2
+SerieA,2018-2019,16,Mon,2018-12-17,20:30,Atalanta,0.4,1.0,Lazio,17401,Stadio Atleti Azzurri d'Italia,Daniele Orsato,https://fbref.com/en/matches/12f22ce3/Atalanta-Lazio-December-17-2018-Serie-A,1,0
+SerieA,2018-2019,16,Tue,2018-12-18,20:30,Bologna,0.4,0.6,Milan,22214,Stadio Renato Dall'Ara,Fabio Maresca,https://fbref.com/en/matches/798496b1/Bologna-Milan-December-18-2018-Serie-A,0,0
+SerieA,2018-2019,17,Sat,2018-12-22,12:30,Lazio,2.4,2.0,Cagliari,20000,Stadio Olimpico,Gianluca Manganiello,https://fbref.com/en/matches/56486a50/Lazio-Cagliari-December-22-2018-Serie-A,3,1
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Sassuolo,1.5,0.4,Torino,11148,Stadio Città del Tricolore,Luca Banti,https://fbref.com/en/matches/518aa453/Sassuolo-Torino-December-22-2018-Serie-A,1,1
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Napoli,2.3,0.6,SPAL,37093,Stadio San Paolo,Federico La Penna,https://fbref.com/en/matches/a9da4f86/Napoli-SPAL-December-22-2018-Serie-A,1,0
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Empoli,1.5,1.1,Sampdoria,8815,Stadio Carlo Castellani,Giampaolo Calvarese,https://fbref.com/en/matches/2b50c933/Empoli-Sampdoria-December-22-2018-Serie-A,2,4
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Udinese,0.4,1.3,Frosinone,18000,Dacia Arena,Paolo Valeri,https://fbref.com/en/matches/f8a12156/Udinese-Frosinone-December-22-2018-Serie-A,1,1
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Milan,0.7,0.4,Fiorentina,52592,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/c6b48f30/Milan-Fiorentina-December-22-2018-Serie-A,0,1
+SerieA,2018-2019,17,Sat,2018-12-22,15:00,Genoa,1.6,2.0,Atalanta,19841,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/d99e1cc3/Genoa-Atalanta-December-22-2018-Serie-A,3,1
+SerieA,2018-2019,17,Sat,2018-12-22,18:00,Parma,0.9,0.3,Bologna,15058,Stadio Ennio Tardini,Rosario Abisso,https://fbref.com/en/matches/f209ba84/Parma-Bologna-December-22-2018-Serie-A,0,0
+SerieA,2018-2019,17,Sat,2018-12-22,18:00,Chievo,0.7,1.8,Inter,22000,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,https://fbref.com/en/matches/bbb44ca5/Chievo-Internazionale-December-22-2018-Serie-A,1,1
+SerieA,2018-2019,17,Sat,2018-12-22,20:30,Juventus,2.2,0.4,Roma,40069,Allianz Stadium,Davide Massa,https://fbref.com/en/matches/01a0dbbf/Juventus-Roma-December-22-2018-Serie-A,1,0
+SerieA,2018-2019,18,Wed,2018-12-26,12:30,Frosinone,0.6,1.9,Milan,15217,Stadio Benito Stirpe,Marco Guida,https://fbref.com/en/matches/7090161a/Frosinone-Milan-December-26-2018-Serie-A,0,0
+SerieA,2018-2019,18,Wed,2018-12-26,15:00,Cagliari,0.9,0.9,Genoa,15777,Sardegna Arena,Daniele Orsato,https://fbref.com/en/matches/d0c06a35/Cagliari-Genoa-December-26-2018-Serie-A,1,0
+SerieA,2018-2019,18,Wed,2018-12-26,15:00,Bologna,0.2,1.4,Lazio,19230,Stadio Renato Dall'Ara,Luca Pairetto,https://fbref.com/en/matches/e315c6ff/Bologna-Lazio-December-26-2018-Serie-A,0,2
+SerieA,2018-2019,18,Wed,2018-12-26,15:00,Sampdoria,1.0,0.6,Chievo,19190,Stadio Comunale Luigi Ferraris,Antonio Giua,https://fbref.com/en/matches/c3026bcf/Sampdoria-Chievo-December-26-2018-Serie-A,2,0
+SerieA,2018-2019,18,Wed,2018-12-26,15:00,Fiorentina,2.3,0.6,Parma,31767,Stadio Artemio Franchi,Michael Fabbri,https://fbref.com/en/matches/8bc8ed8b/Fiorentina-Parma-December-26-2018-Serie-A,0,1
+SerieA,2018-2019,18,Wed,2018-12-26,15:00,Atalanta,1.4,1.3,Juventus,19787,Stadio Atleti Azzurri d'Italia,Luca Banti,https://fbref.com/en/matches/a0fb32c6/Atalanta-Juventus-December-26-2018-Serie-A,2,2
+SerieA,2018-2019,18,Wed,2018-12-26,18:00,Roma,2.8,0.9,Sassuolo,35893,Stadio Olimpico,Piero Giacomelli,https://fbref.com/en/matches/fb828051/Roma-Sassuolo-December-26-2018-Serie-A,3,1
+SerieA,2018-2019,18,Wed,2018-12-26,18:00,SPAL,0.7,0.2,Udinese,13195,Stadio Paolo Mazza,Daniele Doveri,https://fbref.com/en/matches/3df88643/SPAL-Udinese-December-26-2018-Serie-A,0,0
+SerieA,2018-2019,18,Wed,2018-12-26,18:00,Torino,1.3,0.3,Empoli,20047,Stadio Olimpico di Torino,Fabio Maresca,https://fbref.com/en/matches/f6b93ebc/Torino-Empoli-December-26-2018-Serie-A,3,0
+SerieA,2018-2019,18,Wed,2018-12-26,20:30,Inter,0.9,0.7,Napoli,63946,Stadio Giuseppe Meazza,Paolo Mazzoleni,https://fbref.com/en/matches/a3f646d1/Internazionale-Napoli-December-26-2018-Serie-A,1,0
+SerieA,2018-2019,19,Sat,2018-12-29,12:30,Juventus,1.6,1.4,Sampdoria,40641,Allianz Stadium,Paolo Valeri,https://fbref.com/en/matches/37b5f20e/Juventus-Sampdoria-December-29-2018-Serie-A,2,1
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Empoli,0.5,1.1,Inter,10393,Stadio Carlo Castellani,Federico La Penna,https://fbref.com/en/matches/dab31c63/Empoli-Internazionale-December-29-2018-Serie-A,0,1
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Sassuolo,1.1,3.0,Atalanta,8000,Stadio Città del Tricolore,Fabrizio Pasqua,https://fbref.com/en/matches/1196e43c/Sassuolo-Atalanta-December-29-2018-Serie-A,2,6
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Udinese,2.6,0.3,Cagliari,20000,Dacia Arena,Maurizio Mariani,https://fbref.com/en/matches/0bd2574c/Udinese-Cagliari-December-29-2018-Serie-A,2,0
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Lazio,1.2,1.7,Torino,35000,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/ac16e9b8/Lazio-Torino-December-29-2018-Serie-A,1,1
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Chievo,1.1,0.5,Frosinone,8000,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,https://fbref.com/en/matches/a5ef0058/Chievo-Frosinone-December-29-2018-Serie-A,1,0
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Parma,0.7,2.1,Roma,17997,Stadio Ennio Tardini,Gianluca Manganiello,https://fbref.com/en/matches/b051f48c/Parma-Roma-December-29-2018-Serie-A,0,2
+SerieA,2018-2019,19,Sat,2018-12-29,15:00,Genoa,0.5,1.5,Fiorentina,21000,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/71ad52a9/Genoa-Fiorentina-December-29-2018-Serie-A,0,0
+SerieA,2018-2019,19,Sat,2018-12-29,18:00,Napoli,1.5,0.7,Bologna,46585,Stadio San Paolo,Giampaolo Calvarese,https://fbref.com/en/matches/7f08acbc/Napoli-Bologna-December-29-2018-Serie-A,3,2
+SerieA,2018-2019,19,Sat,2018-12-29,20:30,Milan,1.5,0.5,SPAL,48070,Stadio Giuseppe Meazza,Rosario Abisso,https://fbref.com/en/matches/5ff30925/Milan-SPAL-December-29-2018-Serie-A,2,1
+SerieA,2018-2019,20,Sat,2019-01-19,15:00,Roma,3.2,1.1,Torino,32978,Stadio Olimpico,Piero Giacomelli,https://fbref.com/en/matches/2acb181a/Roma-Torino-January-19-2019-Serie-A,3,2
+SerieA,2018-2019,20,Sat,2019-01-19,18:00,Udinese,1.6,1.9,Parma,15000,Dacia Arena,Paolo Mazzoleni,https://fbref.com/en/matches/aac44168/Udinese-Parma-January-19-2019-Serie-A,1,2
+SerieA,2018-2019,20,Sat,2019-01-19,20:30,Inter,1.0,1.4,Sassuolo,11000,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/274670a0/Internazionale-Sassuolo-January-19-2019-Serie-A,0,0
+SerieA,2018-2019,20,Sun,2019-01-20,12:30,Frosinone,0.8,2.1,Atalanta,12728,Stadio Benito Stirpe,Daniele Chiffi,https://fbref.com/en/matches/8ad79daf/Frosinone-Atalanta-January-20-2019-Serie-A,0,5
+SerieA,2018-2019,20,Sun,2019-01-20,15:00,Fiorentina,2.5,2.0,Sampdoria,27844,Stadio Artemio Franchi,Marco Di Bello,https://fbref.com/en/matches/640036d0/Fiorentina-Sampdoria-January-20-2019-Serie-A,3,3
+SerieA,2018-2019,20,Sun,2019-01-20,15:00,SPAL,1.0,1.1,Bologna,14524,Stadio Paolo Mazza,Michael Fabbri,https://fbref.com/en/matches/f1d3bfa1/SPAL-Bologna-January-20-2019-Serie-A,1,1
+SerieA,2018-2019,20,Sun,2019-01-20,18:00,Cagliari,0.9,1.6,Empoli,13796,Sardegna Arena,Fabrizio Pasqua,https://fbref.com/en/matches/0f6c7c4c/Cagliari-Empoli-January-20-2019-Serie-A,2,2
+SerieA,2018-2019,20,Sun,2019-01-20,20:30,Napoli,1.7,1.1,Lazio,19448,Stadio San Paolo,Gianluca Rocchi,https://fbref.com/en/matches/5f429f0c/Napoli-Lazio-January-20-2019-Serie-A,2,1
+SerieA,2018-2019,20,Mon,2019-01-21,15:00,Genoa,1.6,1.5,Milan,19794,Stadio Comunale Luigi Ferraris,Daniele Orsato,https://fbref.com/en/matches/a3ad2069/Genoa-Milan-January-21-2019-Serie-A,0,2
+SerieA,2018-2019,20,Mon,2019-01-21,20:30,Juventus,2.7,0.6,Chievo,30239,Allianz Stadium,Marco Piccinini,https://fbref.com/en/matches/9cd281ef/Juventus-Chievo-January-21-2019-Serie-A,3,0
+SerieA,2018-2019,21,Sat,2019-01-26,15:00,Sassuolo,3.1,1.0,Cagliari,9970,Stadio Città del Tricolore,Massimiliano Irrati,https://fbref.com/en/matches/33b5d395/Sassuolo-Cagliari-January-26-2019-Serie-A,3,0
+SerieA,2018-2019,21,Sat,2019-01-26,18:00,Sampdoria,3.0,0.5,Udinese,18020,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/6b483dd1/Sampdoria-Udinese-January-26-2019-Serie-A,4,0
+SerieA,2018-2019,21,Sat,2019-01-26,20:30,Milan,0.9,0.7,Napoli,56729,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/3abdc150/Milan-Napoli-January-26-2019-Serie-A,0,0
+SerieA,2018-2019,21,Sun,2019-01-27,12:30,Chievo,2.8,2.1,Fiorentina,10000,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,https://fbref.com/en/matches/8736e8e0/Chievo-Fiorentina-January-27-2019-Serie-A,3,4
+SerieA,2018-2019,21,Sun,2019-01-27,15:00,Bologna,1.2,1.2,Frosinone,16076,Stadio Renato Dall'Ara,Luca Banti,https://fbref.com/en/matches/e2aec225/Bologna-Frosinone-January-27-2019-Serie-A,0,4
+SerieA,2018-2019,21,Sun,2019-01-27,15:00,Atalanta,2.6,1.1,Roma,19459,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese,https://fbref.com/en/matches/938e958a/Atalanta-Roma-January-27-2019-Serie-A,3,3
+SerieA,2018-2019,21,Sun,2019-01-27,15:00,Parma,1.9,2.2,SPAL,15297,Stadio Ennio Tardini,Rosario Abisso,https://fbref.com/en/matches/1130f304/Parma-SPAL-January-27-2019-Serie-A,2,3
+SerieA,2018-2019,21,Sun,2019-01-27,18:00,Torino,0.7,0.9,Inter,22002,Stadio Olimpico di Torino,Fabio Maresca,https://fbref.com/en/matches/249e1f67/Torino-Internazionale-January-27-2019-Serie-A,1,0
+SerieA,2018-2019,21,Sun,2019-01-27,20:30,Lazio,1.5,1.3,Juventus,60687,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/cc20d5df/Lazio-Juventus-January-27-2019-Serie-A,1,2
+SerieA,2018-2019,21,Mon,2019-01-28,20:30,Empoli,1.4,1.8,Genoa,7675,Stadio Carlo Castellani,Federico La Penna,https://fbref.com/en/matches/85634cdf/Empoli-Genoa-January-28-2019-Serie-A,1,3
+SerieA,2018-2019,22,Sat,2019-02-02,15:00,Empoli,2.2,1.5,Chievo,7030,Stadio Carlo Castellani,Marco Di Bello,https://fbref.com/en/matches/05a8a97b/Empoli-Chievo-February-2-2019-Serie-A,2,2
+SerieA,2018-2019,22,Sat,2019-02-02,18:00,Napoli,1.7,0.7,Sampdoria,19455,Stadio San Paolo,Luca Pairetto,https://fbref.com/en/matches/bb9376e0/Napoli-Sampdoria-February-2-2019-Serie-A,3,0
+SerieA,2018-2019,22,Sat,2019-02-02,20:30,Juventus,2.1,1.2,Parma,39548,Allianz Stadium,Piero Giacomelli,https://fbref.com/en/matches/65525bef/Juventus-Parma-February-2-2019-Serie-A,3,3
+SerieA,2018-2019,22,Sun,2019-02-03,12:30,SPAL,0.6,0.5,Torino,12743,Stadio Paolo Mazza,Maurizio Mariani,https://fbref.com/en/matches/146971bd/SPAL-Torino-February-3-2019-Serie-A,0,0
+SerieA,2018-2019,22,Sun,2019-02-03,15:00,Udinese,1.2,0.8,Fiorentina,18118,Dacia Arena,Daniele Orsato,https://fbref.com/en/matches/ebb43a87/Udinese-Fiorentina-February-3-2019-Serie-A,1,1
+SerieA,2018-2019,22,Sun,2019-02-03,15:00,Genoa,1.4,0.9,Sassuolo,18927,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,https://fbref.com/en/matches/6f175cd2/Genoa-Sassuolo-February-3-2019-Serie-A,1,1
+SerieA,2018-2019,22,Sun,2019-02-03,18:00,Inter,1.6,0.6,Bologna,51566,Stadio Giuseppe Meazza,Fabrizio Pasqua,https://fbref.com/en/matches/075ddac0/Internazionale-Bologna-February-3-2019-Serie-A,0,1
+SerieA,2018-2019,22,Sun,2019-02-03,20:30,Roma,1.4,0.6,Milan,37581,Stadio Olimpico,Fabio Maresca,https://fbref.com/en/matches/40fd2516/Roma-Milan-February-3-2019-Serie-A,1,1
+SerieA,2018-2019,22,Mon,2019-02-04,19:00,Frosinone,0.8,1.2,Lazio,13221,Stadio Benito Stirpe,Michael Fabbri,https://fbref.com/en/matches/3ec40fbc/Frosinone-Lazio-February-4-2019-Serie-A,0,1
+SerieA,2018-2019,22,Mon,2019-02-04,21:00,Cagliari,0.8,0.6,Atalanta,14821,Sardegna Arena,Paolo Valeri,https://fbref.com/en/matches/51a0460d/Cagliari-Atalanta-February-4-2019-Serie-A,0,1
+SerieA,2018-2019,23,Thu,2019-02-07,20:30,Lazio,1.6,0.5,Empoli,28121,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/b89261e2/Lazio-Empoli-February-7-2019-Serie-A,1,0
+SerieA,2018-2019,23,Fri,2019-02-08,20:30,Chievo,1.4,1.4,Roma,15000,Stadio Marc'Antonio Bentegodi,Rosario Abisso,https://fbref.com/en/matches/e8e87b77/Chievo-Roma-February-8-2019-Serie-A,0,3
+SerieA,2018-2019,23,Sat,2019-02-09,18:00,Fiorentina,0.7,2.5,Napoli,29377,Stadio Artemio Franchi,Giampaolo Calvarese,https://fbref.com/en/matches/1ffe42d4/Fiorentina-Napoli-February-9-2019-Serie-A,0,0
+SerieA,2018-2019,23,Sat,2019-02-09,20:30,Parma,0.6,2.1,Inter,18155,Stadio Ennio Tardini,Massimiliano Irrati,https://fbref.com/en/matches/c8be0348/Parma-Internazionale-February-9-2019-Serie-A,0,1
+SerieA,2018-2019,23,Sun,2019-02-10,12:30,Bologna,1.1,0.8,Genoa,17385,Stadio Renato Dall'Ara,Gianluca Rocchi,https://fbref.com/en/matches/0c3840ca/Bologna-Genoa-February-10-2019-Serie-A,1,1
+SerieA,2018-2019,23,Sun,2019-02-10,15:00,Sampdoria,0.6,0.5,Frosinone,18937,Stadio Comunale Luigi Ferraris,Livio Marinelli,https://fbref.com/en/matches/2b8e3215/Sampdoria-Frosinone-February-10-2019-Serie-A,0,1
+SerieA,2018-2019,23,Sun,2019-02-10,15:00,Atalanta,2.0,0.9,SPAL,18342,Stadio Atleti Azzurri d'Italia,Davide Massa,https://fbref.com/en/matches/7f78bd98/Atalanta-SPAL-February-10-2019-Serie-A,2,1
+SerieA,2018-2019,23,Sun,2019-02-10,15:00,Torino,1.7,2.2,Udinese,16557,Stadio Olimpico di Torino,Marco Guida,https://fbref.com/en/matches/b980c5e4/Torino-Udinese-February-10-2019-Serie-A,1,0
+SerieA,2018-2019,23,Sun,2019-02-10,18:00,Sassuolo,0.8,1.7,Juventus,21584,Stadio Città del Tricolore,Paolo Mazzoleni,https://fbref.com/en/matches/1ab588a5/Sassuolo-Juventus-February-10-2019-Serie-A,0,3
+SerieA,2018-2019,23,Sun,2019-02-10,20:30,Milan,1.9,1.1,Cagliari,45576,Stadio Giuseppe Meazza,Federico La Penna,https://fbref.com/en/matches/4129c411/Milan-Cagliari-February-10-2019-Serie-A,3,0
+SerieA,2018-2019,24,Fri,2019-02-15,20:30,Juventus,1.3,0.6,Frosinone,10570,Allianz Stadium,Antonio Giua,https://fbref.com/en/matches/f1492e17/Juventus-Frosinone-February-15-2019-Serie-A,3,0
+SerieA,2018-2019,24,Sat,2019-02-16,18:00,Cagliari,1.3,0.4,Parma,16119,Sardegna Arena,Gianluca Manganiello,https://fbref.com/en/matches/a7398b93/Cagliari-Parma-February-16-2019-Serie-A,2,1
+SerieA,2018-2019,24,Sat,2019-02-16,20:30,Atalanta,0.8,0.6,Milan,20801,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua,https://fbref.com/en/matches/52571c53/Atalanta-Milan-February-16-2019-Serie-A,1,3
+SerieA,2018-2019,24,Sun,2019-02-17,12:30,SPAL,1.0,3.1,Fiorentina,37294,Stadio Paolo Mazza,Luca Pairetto,https://fbref.com/en/matches/7ec1b561/SPAL-Fiorentina-February-17-2019-Serie-A,1,4
+SerieA,2018-2019,24,Sun,2019-02-17,15:00,Empoli,1.4,0.7,Sassuolo,7202,Stadio Carlo Castellani,Maurizio Mariani,https://fbref.com/en/matches/07e84eb6/Empoli-Sassuolo-February-17-2019-Serie-A,3,0
+SerieA,2018-2019,24,Sun,2019-02-17,15:00,Genoa,1.2,0.6,Lazio,19936,Stadio Comunale Luigi Ferraris,Luca Banti,https://fbref.com/en/matches/8633edae/Genoa-Lazio-February-17-2019-Serie-A,2,1
+SerieA,2018-2019,24,Sun,2019-02-17,15:00,Udinese,1.3,1.4,Chievo,18008,Dacia Arena,Paolo Valeri,https://fbref.com/en/matches/89bfd1ab/Udinese-Chievo-February-17-2019-Serie-A,1,0
+SerieA,2018-2019,24,Sun,2019-02-17,18:00,Inter,2.1,1.4,Sampdoria,55127,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/7454e76e/Internazionale-Sampdoria-February-17-2019-Serie-A,2,1
+SerieA,2018-2019,24,Sun,2019-02-17,20:30,Napoli,2.6,0.4,Torino,21830,Stadio San Paolo,Michael Fabbri,https://fbref.com/en/matches/19d1b74f/Napoli-Torino-February-17-2019-Serie-A,0,0
+SerieA,2018-2019,24,Mon,2019-02-18,20:30,Roma,1.6,2.0,Bologna,31572,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/25732866/Roma-Bologna-February-18-2019-Serie-A,2,1
+SerieA,2018-2019,25,Fri,2019-02-22,20:30,Milan,1.4,0.7,Empoli,47866,Stadio Giuseppe Meazza,Piero Giacomelli,https://fbref.com/en/matches/f1700ac1/Milan-Empoli-February-22-2019-Serie-A,3,0
+SerieA,2018-2019,25,Sat,2019-02-23,15:00,Torino,1.4,0.7,Atalanta,21062,Stadio Olimpico di Torino,Daniele Orsato,https://fbref.com/en/matches/90d2d7d3/Torino-Atalanta-February-23-2019-Serie-A,2,0
+SerieA,2018-2019,25,Sat,2019-02-23,20:30,Frosinone,1.6,1.9,Roma,15063,Stadio Benito Stirpe,Gianluca Manganiello,https://fbref.com/en/matches/d762cb05/Frosinone-Roma-February-23-2019-Serie-A,2,3
+SerieA,2018-2019,25,Sun,2019-02-24,12:30,Sampdoria,2.7,0.6,Cagliari,18840,Stadio Comunale Luigi Ferraris,Luca Massimi,https://fbref.com/en/matches/1d3b9f5d/Sampdoria-Cagliari-February-24-2019-Serie-A,1,0
+SerieA,2018-2019,25,Sun,2019-02-24,15:00,Bologna,0.9,0.4,Juventus,28934,Stadio Renato Dall'Ara,Giampaolo Calvarese,https://fbref.com/en/matches/889a0a3d/Bologna-Juventus-February-24-2019-Serie-A,0,1
+SerieA,2018-2019,25,Sun,2019-02-24,15:00,Sassuolo,0.4,1.1,SPAL,11554,Stadio Città del Tricolore,Fabio Maresca,https://fbref.com/en/matches/53e17183/Sassuolo-SPAL-February-24-2019-Serie-A,1,1
+SerieA,2018-2019,25,Sun,2019-02-24,15:00,Chievo,0.5,0.5,Genoa,10500,Stadio Marc'Antonio Bentegodi,Manuel Volpi,https://fbref.com/en/matches/9214a455/Chievo-Genoa-February-24-2019-Serie-A,0,0
+SerieA,2018-2019,25,Sun,2019-02-24,18:00,Parma,0.5,1.5,Napoli,18478,Stadio Ennio Tardini,Daniele Chiffi,https://fbref.com/en/matches/41d1feee/Parma-Napoli-February-24-2019-Serie-A,0,4
+SerieA,2018-2019,25,Sun,2019-02-24,20:30,Fiorentina,1.8,1.6,Inter,32824,Stadio Artemio Franchi,Rosario Abisso,https://fbref.com/en/matches/6e205e48/Fiorentina-Internazionale-February-24-2019-Serie-A,3,3
+SerieA,2018-2019,26,Fri,2019-03-01,20:30,Cagliari,1.9,1.7,Inter,16223,Sardegna Arena,Luca Banti,https://fbref.com/en/matches/5124ba06/Cagliari-Internazionale-March-1-2019-Serie-A,2,1
+SerieA,2018-2019,26,Sat,2019-03-02,15:00,Empoli,2.8,2.0,Parma,8404,Stadio Carlo Castellani,Marco Di Bello,https://fbref.com/en/matches/94f40f4f/Empoli-Parma-March-2-2019-Serie-A,3,3
+SerieA,2018-2019,26,Sat,2019-03-02,18:00,Milan,1.1,0.6,Sassuolo,61462,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/809426d0/Milan-Sassuolo-March-2-2019-Serie-A,1,0
+SerieA,2018-2019,26,Sat,2019-03-02,20:30,Lazio,2.0,0.9,Roma,53112,Stadio Olimpico,Paolo Mazzoleni,https://fbref.com/en/matches/3fd391fe/Lazio-Roma-March-2-2019-Serie-A,3,0
+SerieA,2018-2019,26,Sun,2019-03-03,12:30,Torino,0.9,1.0,Chievo,25269,Stadio Olimpico di Torino,Federico La Penna,https://fbref.com/en/matches/3cf1aeeb/Torino-Chievo-March-3-2019-Serie-A,3,0
+SerieA,2018-2019,26,Sun,2019-03-03,15:00,SPAL,0.9,0.7,Sampdoria,12731,Stadio Paolo Mazza,Fabrizio Pasqua,https://fbref.com/en/matches/7a591f9a/SPAL-Sampdoria-March-3-2019-Serie-A,1,2
+SerieA,2018-2019,26,Sun,2019-03-03,15:00,Udinese,1.5,1.7,Bologna,18349,Dacia Arena,Davide Massa,https://fbref.com/en/matches/8be4be91/Udinese-Bologna-March-3-2019-Serie-A,2,1
+SerieA,2018-2019,26,Sun,2019-03-03,15:00,Genoa,0.8,0.5,Frosinone,19920,Stadio Comunale Luigi Ferraris,Maurizio Mariani,https://fbref.com/en/matches/0fe45804/Genoa-Frosinone-March-3-2019-Serie-A,0,0
+SerieA,2018-2019,26,Sun,2019-03-03,18:00,Atalanta,2.2,0.5,Fiorentina,18796,Stadio Atleti Azzurri d'Italia,Marco Guida,https://fbref.com/en/matches/db6162b0/Atalanta-Fiorentina-March-3-2019-Serie-A,3,1
+SerieA,2018-2019,26,Sun,2019-03-03,20:30,Napoli,2.4,0.4,Juventus,42667,Stadio San Paolo,Gianluca Rocchi,https://fbref.com/en/matches/d15eae70/Napoli-Juventus-March-3-2019-Serie-A,1,2
+SerieA,2018-2019,27,Fri,2019-03-08,20:30,Juventus,2.1,0.1,Udinese,39987,Allianz Stadium,Daniele Chiffi,https://fbref.com/en/matches/47801492/Juventus-Udinese-March-8-2019-Serie-A,4,1
+SerieA,2018-2019,27,Sat,2019-03-09,18:00,Parma,0.8,0.8,Genoa,14787,Stadio Ennio Tardini,Juan Sacchi,https://fbref.com/en/matches/4aacbaf2/Parma-Genoa-March-9-2019-Serie-A,1,0
+SerieA,2018-2019,27,Sat,2019-03-09,20:30,Chievo,0.3,1.3,Milan,20000,Stadio Marc'Antonio Bentegodi,Luca Pairetto,https://fbref.com/en/matches/f06bc6f3/Chievo-Milan-March-9-2019-Serie-A,1,2
+SerieA,2018-2019,27,Sun,2019-03-10,12:30,Bologna,2.7,0.6,Cagliari,20557,Stadio Renato Dall'Ara,Massimiliano Irrati,https://fbref.com/en/matches/217e2a62/Bologna-Cagliari-March-10-2019-Serie-A,2,0
+SerieA,2018-2019,27,Sun,2019-03-10,15:00,Sampdoria,2.2,1.8,Atalanta,20896,Stadio Comunale Luigi Ferraris,Michael Fabbri,https://fbref.com/en/matches/38ee4d56/Sampdoria-Atalanta-March-10-2019-Serie-A,1,2
+SerieA,2018-2019,27,Sun,2019-03-10,15:00,Frosinone,0.7,1.3,Torino,14165,Stadio Benito Stirpe,Piero Giacomelli,https://fbref.com/en/matches/62b437d1/Frosinone-Torino-March-10-2019-Serie-A,1,2
+SerieA,2018-2019,27,Sun,2019-03-10,15:00,Inter,1.0,0.3,SPAL,61339,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/b176e7e7/Internazionale-SPAL-March-10-2019-Serie-A,2,0
+SerieA,2018-2019,27,Sun,2019-03-10,18:00,Sassuolo,1.0,0.5,Napoli,14969,Stadio Città del Tricolore,Gianluca Manganiello,https://fbref.com/en/matches/bdc82dc7/Sassuolo-Napoli-March-10-2019-Serie-A,1,1
+SerieA,2018-2019,27,Sun,2019-03-10,20:30,Fiorentina,0.5,0.9,Lazio,28727,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/441f5f3b/Fiorentina-Lazio-March-10-2019-Serie-A,1,1
+SerieA,2018-2019,27,Mon,2019-03-11,20:30,Roma,0.8,0.4,Empoli,34508,Stadio Olimpico,Fabio Maresca,https://fbref.com/en/matches/a87ba598/Roma-Empoli-March-11-2019-Serie-A,2,1
+SerieA,2018-2019,28,Fri,2019-03-15,20:30,Cagliari,1.0,0.5,Fiorentina,14735,Sardegna Arena,Daniele Doveri,https://fbref.com/en/matches/f10d5252/Cagliari-Fiorentina-March-15-2019-Serie-A,2,1
+SerieA,2018-2019,28,Sat,2019-03-16,15:00,Sassuolo,1.7,1.8,Sampdoria,11193,Stadio Città del Tricolore,Federico Dionisi,https://fbref.com/en/matches/1d194af8/Sassuolo-Sampdoria-March-16-2019-Serie-A,3,5
+SerieA,2018-2019,28,Sat,2019-03-16,18:00,SPAL,1.0,1.7,Roma,15089,Stadio Paolo Mazza,Gianluca Rocchi,https://fbref.com/en/matches/2358076d/SPAL-Roma-March-16-2019-Serie-A,2,1
+SerieA,2018-2019,28,Sat,2019-03-16,20:30,Torino,1.4,2.6,Bologna,24863,Stadio Olimpico di Torino,Maurizio Mariani,https://fbref.com/en/matches/a58f204d/Torino-Bologna-March-16-2019-Serie-A,2,3
+SerieA,2018-2019,28,Sun,2019-03-17,12:30,Genoa,1.4,0.4,Juventus,30695,Stadio Comunale Luigi Ferraris,Marco Di Bello,https://fbref.com/en/matches/95b365ff/Genoa-Juventus-March-17-2019-Serie-A,2,0
+SerieA,2018-2019,28,Sun,2019-03-17,15:00,Atalanta,2.0,0.8,Chievo,18537,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,https://fbref.com/en/matches/dabb32bf/Atalanta-Chievo-March-17-2019-Serie-A,1,1
+SerieA,2018-2019,28,Sun,2019-03-17,15:00,Empoli,2.1,1.5,Frosinone,10000,Stadio Carlo Castellani,Davide Massa,https://fbref.com/en/matches/986a778f/Empoli-Frosinone-March-17-2019-Serie-A,2,1
+SerieA,2018-2019,28,Sun,2019-03-17,15:00,Lazio,1.8,0.3,Parma,38000,Stadio Olimpico,Luca Banti,https://fbref.com/en/matches/53a91c21/Lazio-Parma-March-17-2019-Serie-A,4,1
+SerieA,2018-2019,28,Sun,2019-03-17,18:00,Napoli,1.3,1.0,Udinese,25718,Stadio San Paolo,Paolo Valeri,https://fbref.com/en/matches/afb1785f/Napoli-Udinese-March-17-2019-Serie-A,4,2
+SerieA,2018-2019,28,Sun,2019-03-17,20:30,Milan,1.2,2.4,Inter,77749,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/43ce914b/Derby-della-Madonnina-Milan-Internazionale-March-17-2019-Serie-A,2,3
+SerieA,2018-2019,29,Fri,2019-03-29,20:30,Chievo,0.8,1.2,Cagliari,10000,Stadio Marc'Antonio Bentegodi,Rosario Abisso,https://fbref.com/en/matches/a1e7bf67/Chievo-Cagliari-March-29-2019-Serie-A,0,3
+SerieA,2018-2019,29,Sat,2019-03-30,15:00,Udinese,1.7,1.6,Genoa,17072,Dacia Arena,Luca Pairetto,https://fbref.com/en/matches/68307758/Udinese-Genoa-March-30-2019-Serie-A,2,0
+SerieA,2018-2019,29,Sat,2019-03-30,18:00,Juventus,1.4,0.4,Empoli,39290,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/dcc2327a/Juventus-Empoli-March-30-2019-Serie-A,1,0
+SerieA,2018-2019,29,Sat,2019-03-30,20:30,Sampdoria,1.8,0.7,Milan,23475,Stadio Comunale Luigi Ferraris,Daniele Orsato,https://fbref.com/en/matches/c8b505cc/Sampdoria-Milan-March-30-2019-Serie-A,1,0
+SerieA,2018-2019,29,Sun,2019-03-31,12:30,Parma,0.8,3.1,Atalanta,18168,Stadio Ennio Tardini,Daniele Chiffi,https://fbref.com/en/matches/08f5ed01/Parma-Atalanta-March-31-2019-Serie-A,1,3
+SerieA,2018-2019,29,Sun,2019-03-31,15:00,Frosinone,0.9,0.4,SPAL,12969,Stadio Benito Stirpe,Marco Di Bello,https://fbref.com/en/matches/8f079cec/Frosinone-SPAL-March-31-2019-Serie-A,0,1
+SerieA,2018-2019,29,Sun,2019-03-31,15:00,Fiorentina,2.6,0.6,Torino,36707,Stadio Artemio Franchi,Fabrizio Pasqua,https://fbref.com/en/matches/74c73f8d/Fiorentina-Torino-March-31-2019-Serie-A,1,1
+SerieA,2018-2019,29,Sun,2019-03-31,15:00,Roma,1.7,2.7,Napoli,36525,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/899b2a26/Roma-Napoli-March-31-2019-Serie-A,1,4
+SerieA,2018-2019,29,Sun,2019-03-31,18:00,Bologna,1.9,0.6,Sassuolo,23551,Stadio Renato Dall'Ara,Marco Guida,https://fbref.com/en/matches/155d33cf/Bologna-Sassuolo-March-31-2019-Serie-A,2,1
+SerieA,2018-2019,29,Sun,2019-03-31,20:30,Inter,0.9,1.2,Lazio,56348,Stadio Giuseppe Meazza,Paolo Mazzoleni,https://fbref.com/en/matches/16e9baf7/Internazionale-Lazio-March-31-2019-Serie-A,0,1
+SerieA,2018-2019,30,Tue,2019-04-02,19:00,Milan,1.9,1.0,Udinese,49665,Stadio Giuseppe Meazza,Luca Banti,https://fbref.com/en/matches/ac341e97/Milan-Udinese-April-2-2019-Serie-A,1,1
+SerieA,2018-2019,30,Tue,2019-04-02,21:00,Cagliari,0.6,2.4,Juventus,15958,Sardegna Arena,Piero Giacomelli,https://fbref.com/en/matches/15ca67ec/Cagliari-Juventus-April-2-2019-Serie-A,0,2
+SerieA,2018-2019,30,Wed,2019-04-03,19:00,Empoli,1.5,0.7,Napoli,10911,Stadio Carlo Castellani,Daniele Doveri,https://fbref.com/en/matches/b226a295/Empoli-Napoli-April-3-2019-Serie-A,2,1
+SerieA,2018-2019,30,Wed,2019-04-03,21:00,SPAL,1.3,0.6,Lazio,13415,Stadio Paolo Mazza,Marco Guida,https://fbref.com/en/matches/723e9b4c/SPAL-Lazio-April-3-2019-Serie-A,1,0
+SerieA,2018-2019,30,Wed,2019-04-03,21:00,Genoa,0.3,2.4,Inter,21865,Stadio Comunale Luigi Ferraris,Maurizio Mariani,https://fbref.com/en/matches/6774a839/Genoa-Internazionale-April-3-2019-Serie-A,0,4
+SerieA,2018-2019,30,Wed,2019-04-03,21:00,Torino,1.1,0.3,Sampdoria,22618,Stadio Olimpico di Torino,Fabio Maresca,https://fbref.com/en/matches/105c028d/Torino-Sampdoria-April-3-2019-Serie-A,2,1
+SerieA,2018-2019,30,Wed,2019-04-03,21:00,Roma,1.4,0.8,Fiorentina,30123,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/7fca599d/Roma-Fiorentina-April-3-2019-Serie-A,2,2
+SerieA,2018-2019,30,Wed,2019-04-03,21:00,Frosinone,1.8,1.9,Parma,12285,Stadio Benito Stirpe,Gianluca Manganiello,https://fbref.com/en/matches/2acb1020/Frosinone-Parma-April-3-2019-Serie-A,3,2
+SerieA,2018-2019,30,Thu,2019-04-04,19:00,Sassuolo,1.4,1.5,Chievo,9193,Stadio Città del Tricolore,Lorenzo Maggioni,https://fbref.com/en/matches/36e67e70/Sassuolo-Chievo-April-4-2019-Serie-A,4,0
+SerieA,2018-2019,30,Thu,2019-04-04,21:00,Atalanta,1.3,1.1,Bologna,18441,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi,https://fbref.com/en/matches/04fdc080/Atalanta-Bologna-April-4-2019-Serie-A,4,1
+SerieA,2018-2019,31,Sat,2019-04-06,15:00,Parma,0.6,0.9,Torino,16924,Stadio Ennio Tardini,Daniele Doveri,https://fbref.com/en/matches/312a8eec/Parma-Torino-April-6-2019-Serie-A,0,0
+SerieA,2018-2019,31,Sat,2019-04-06,18:00,Juventus,2.0,1.4,Milan,40057,Allianz Stadium,Michael Fabbri,https://fbref.com/en/matches/34490630/Derby-dItalia-Juventus-Milan-April-6-2019-Serie-A,2,1
+SerieA,2018-2019,31,Sat,2019-04-06,20:30,Sampdoria,1.1,1.4,Roma,19594,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,https://fbref.com/en/matches/737bcbc5/Sampdoria-Roma-April-6-2019-Serie-A,0,1
+SerieA,2018-2019,31,Sun,2019-04-07,12:30,Fiorentina,1.5,0.7,Frosinone,26958,Stadio Artemio Franchi,Daniele Chiffi,https://fbref.com/en/matches/511b7cca/Fiorentina-Frosinone-April-7-2019-Serie-A,0,1
+SerieA,2018-2019,31,Sun,2019-04-07,15:00,Cagliari,2.2,1.0,SPAL,16121,Sardegna Arena,Luca Banti,https://fbref.com/en/matches/3fbc2efb/Cagliari-SPAL-April-7-2019-Serie-A,2,1
+SerieA,2018-2019,31,Sun,2019-04-07,15:00,Udinese,2.4,1.5,Empoli,22537,Dacia Arena,Daniele Orsato,https://fbref.com/en/matches/1a6269b4/Udinese-Empoli-April-7-2019-Serie-A,3,2
+SerieA,2018-2019,31,Sun,2019-04-07,18:00,Lazio,3.2,1.0,Sassuolo,37487,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/dddb4044/Lazio-Sassuolo-April-7-2019-Serie-A,2,2
+SerieA,2018-2019,31,Sun,2019-04-07,18:00,Inter,1.3,1.2,Atalanta,35000,Stadio Giuseppe Meazza,Massimiliano Irrati,https://fbref.com/en/matches/65a31486/Internazionale-Atalanta-April-7-2019-Serie-A,0,0
+SerieA,2018-2019,31,Sun,2019-04-07,20:30,Napoli,1.7,0.6,Genoa,22935,Stadio San Paolo,Fabrizio Pasqua,https://fbref.com/en/matches/e3050567/Napoli-Genoa-April-7-2019-Serie-A,1,1
+SerieA,2018-2019,31,Mon,2019-04-08,20:30,Bologna,2.4,0.5,Chievo,19107,Stadio Renato Dall'Ara,Luca Pairetto,https://fbref.com/en/matches/77701df4/Bologna-Chievo-April-8-2019-Serie-A,3,0
+SerieA,2018-2019,32,Sat,2019-04-13,15:00,SPAL,1.0,0.5,Juventus,16000,Stadio Paolo Mazza,Daniele Doveri,https://fbref.com/en/matches/0dd752fd/SPAL-Juventus-April-13-2019-Serie-A,2,1
+SerieA,2018-2019,32,Sat,2019-04-13,18:00,Roma,1.7,0.5,Udinese,34449,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/541cf9c1/Roma-Udinese-April-13-2019-Serie-A,1,0
+SerieA,2018-2019,32,Sat,2019-04-13,20:30,Milan,1.6,1.2,Lazio,61216,Stadio Giuseppe Meazza,Gianluca Rocchi,https://fbref.com/en/matches/af998b46/Milan-Lazio-April-13-2019-Serie-A,1,0
+SerieA,2018-2019,32,Sun,2019-04-14,12:30,Torino,1.3,0.8,Cagliari,23869,Stadio Olimpico di Torino,Massimiliano Irrati,https://fbref.com/en/matches/cc1e9cf0/Torino-Cagliari-April-14-2019-Serie-A,1,1
+SerieA,2018-2019,32,Sun,2019-04-14,15:00,Sampdoria,2.6,1.0,Genoa,30548,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/b0ce8040/Sampdoria-Genoa-April-14-2019-Serie-A,2,0
+SerieA,2018-2019,32,Sun,2019-04-14,15:00,Fiorentina,0.7,0.1,Bologna,29394,Stadio Artemio Franchi,Piero Giacomelli,https://fbref.com/en/matches/cfea3d7e/Fiorentina-Bologna-April-14-2019-Serie-A,0,0
+SerieA,2018-2019,32,Sun,2019-04-14,15:00,Sassuolo,1.5,0.8,Parma,12538,Stadio Città del Tricolore,Marco Piccinini,https://fbref.com/en/matches/ef13f45d/Sassuolo-Parma-April-14-2019-Serie-A,0,0
+SerieA,2018-2019,32,Sun,2019-04-14,18:00,Chievo,0.2,1.7,Napoli,13500,Stadio Marc'Antonio Bentegodi,Federico La Penna,https://fbref.com/en/matches/ddbe6f8f/Chievo-Napoli-April-14-2019-Serie-A,1,3
+SerieA,2018-2019,32,Sun,2019-04-14,20:30,Frosinone,0.8,2.9,Inter,15856,Stadio Benito Stirpe,Davide Massa,https://fbref.com/en/matches/bbc26d12/Frosinone-Internazionale-April-14-2019-Serie-A,1,3
+SerieA,2018-2019,32,Mon,2019-04-15,20:30,Atalanta,4.4,0.4,Empoli,19229,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello,https://fbref.com/en/matches/b0b17ccb/Atalanta-Empoli-April-15-2019-Serie-A,0,0
+SerieA,2018-2019,25,Wed,2019-04-17,19:00,Lazio,1.5,1.4,Udinese,30162,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/a11fb902/Lazio-Udinese-April-17-2019-Serie-A,2,0
+SerieA,2018-2019,33,Sat,2019-04-20,12:30,Parma,0.8,0.7,Milan,20018,Stadio Ennio Tardini,Paolo Valeri,https://fbref.com/en/matches/418c6bc2/Parma-Milan-April-20-2019-Serie-A,1,1
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Lazio,1.6,0.9,Chievo,25000,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/66eecd82/Lazio-Chievo-April-20-2019-Serie-A,1,2
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Cagliari,1.5,1.0,Frosinone,16095,Sardegna Arena,Rosario Abisso,https://fbref.com/en/matches/2328473d/Cagliari-Frosinone-April-20-2019-Serie-A,1,0
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Genoa,1.0,0.9,Torino,8000,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/ced608c5/Genoa-Torino-April-20-2019-Serie-A,0,1
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Empoli,1.6,1.5,SPAL,10444,Stadio Carlo Castellani,Gianluca Rocchi,https://fbref.com/en/matches/99fdf87b/Empoli-SPAL-April-20-2019-Serie-A,2,4
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Bologna,0.8,0.6,Sampdoria,21391,Stadio Renato Dall'Ara,Maurizio Mariani,https://fbref.com/en/matches/040610a5/Bologna-Sampdoria-April-20-2019-Serie-A,3,0
+SerieA,2018-2019,33,Sat,2019-04-20,15:00,Udinese,0.7,0.7,Sassuolo,21000,Dacia Arena,Luca Pairetto,https://fbref.com/en/matches/de9ac7de/Udinese-Sassuolo-April-20-2019-Serie-A,1,1
+SerieA,2018-2019,33,Sat,2019-04-20,18:00,Juventus,1.3,1.7,Fiorentina,40339,Allianz Stadium,Fabrizio Pasqua,https://fbref.com/en/matches/adad97cc/Juventus-Fiorentina-April-20-2019-Serie-A,2,1
+SerieA,2018-2019,33,Sat,2019-04-20,20:30,Inter,1.8,0.8,Roma,60013,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/059480bb/Internazionale-Roma-April-20-2019-Serie-A,1,1
+SerieA,2018-2019,33,Mon,2019-04-22,19:00,Napoli,1.8,0.9,Atalanta,19604,Stadio San Paolo,Daniele Orsato,https://fbref.com/en/matches/79e54148/Napoli-Atalanta-April-22-2019-Serie-A,1,2
+SerieA,2018-2019,34,Sat,2019-04-27,15:00,Bologna,2.2,0.5,Empoli,25189,Stadio Renato Dall'Ara,Paolo Valeri,https://fbref.com/en/matches/4ec0aff3/Bologna-Empoli-April-27-2019-Serie-A,3,1
+SerieA,2018-2019,34,Sat,2019-04-27,18:00,Roma,2.5,0.5,Cagliari,35964,Stadio Olimpico,Gianluca Manganiello,https://fbref.com/en/matches/841a3085/Roma-Cagliari-April-27-2019-Serie-A,3,0
+SerieA,2018-2019,34,Sat,2019-04-27,20:30,Inter,1.2,0.4,Juventus,73855,Stadio Giuseppe Meazza,Luca Banti,https://fbref.com/en/matches/76d8414a/Internazionale-Juventus-April-27-2019-Serie-A,1,1
+SerieA,2018-2019,34,Sun,2019-04-28,12:30,Frosinone,1.3,1.7,Napoli,13600,Stadio Benito Stirpe,Federico La Penna,https://fbref.com/en/matches/a1070c1e/Frosinone-Napoli-April-28-2019-Serie-A,0,2
+SerieA,2018-2019,34,Sun,2019-04-28,15:00,SPAL,1.0,1.0,Genoa,13563,Stadio Paolo Mazza,Davide Massa,https://fbref.com/en/matches/3c377f8d/SPAL-Genoa-April-28-2019-Serie-A,1,1
+SerieA,2018-2019,34,Sun,2019-04-28,15:00,Chievo,0.8,0.4,Parma,7000,Stadio Marc'Antonio Bentegodi,Juan Sacchi,https://fbref.com/en/matches/0b3beee3/Chievo-Parma-April-28-2019-Serie-A,1,1
+SerieA,2018-2019,34,Sun,2019-04-28,18:00,Sampdoria,1.2,1.3,Lazio,18450,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/cb8470ac/Sampdoria-Lazio-April-28-2019-Serie-A,1,2
+SerieA,2018-2019,34,Sun,2019-04-28,20:30,Torino,1.3,0.6,Milan,26849,Stadio Olimpico di Torino,Marco Guida,https://fbref.com/en/matches/f7d2850b/Torino-Milan-April-28-2019-Serie-A,2,0
+SerieA,2018-2019,34,Mon,2019-04-29,19:00,Atalanta,2.1,0.2,Udinese,18663,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,https://fbref.com/en/matches/79520ce8/Atalanta-Udinese-April-29-2019-Serie-A,2,0
+SerieA,2018-2019,34,Mon,2019-04-29,21:00,Fiorentina,1.1,1.4,Sassuolo,25567,Stadio Artemio Franchi,Francesco Fourneau,https://fbref.com/en/matches/242449b2/Fiorentina-Sassuolo-April-29-2019-Serie-A,0,1
+SerieA,2018-2019,35,Fri,2019-05-03,20:30,Juventus,1.2,0.5,Torino,38530,Allianz Stadium,Daniele Orsato,https://fbref.com/en/matches/66d3def3/Juventus-Torino-May-3-2019-Serie-A,1,1
+SerieA,2018-2019,35,Sat,2019-05-04,18:00,Chievo,0.3,1.8,SPAL,10000,Stadio Marc'Antonio Bentegodi,Riccardo Ros,https://fbref.com/en/matches/99d97178/Chievo-SPAL-May-4-2019-Serie-A,0,4
+SerieA,2018-2019,35,Sat,2019-05-04,20:30,Udinese,0.4,1.6,Inter,24741,Dacia Arena,Gianluca Rocchi,https://fbref.com/en/matches/dd61f5f7/Udinese-Internazionale-May-4-2019-Serie-A,0,0
+SerieA,2018-2019,35,Sun,2019-05-05,12:30,Empoli,1.0,2.2,Fiorentina,8285,Stadio Carlo Castellani,Massimiliano Irrati,https://fbref.com/en/matches/ee093649/Empoli-Fiorentina-May-5-2019-Serie-A,1,0
+SerieA,2018-2019,35,Sun,2019-05-05,15:00,Parma,2.4,2.4,Sampdoria,16992,Stadio Ennio Tardini,Michael Fabbri,https://fbref.com/en/matches/97d17b3e/Parma-Sampdoria-May-5-2019-Serie-A,3,3
+SerieA,2018-2019,35,Sun,2019-05-05,15:00,Sassuolo,2.0,0.9,Frosinone,10073,Stadio Città del Tricolore,Antonio Giua,https://fbref.com/en/matches/c4472eb4/Sassuolo-Frosinone-May-5-2019-Serie-A,2,2
+SerieA,2018-2019,35,Sun,2019-05-05,15:00,Lazio,0.6,1.4,Atalanta,25000,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/7fb9b40e/Lazio-Atalanta-May-5-2019-Serie-A,1,3
+SerieA,2018-2019,35,Sun,2019-05-05,18:00,Genoa,1.9,0.9,Roma,20703,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,https://fbref.com/en/matches/f3bd0f47/Genoa-Roma-May-5-2019-Serie-A,1,1
+SerieA,2018-2019,35,Sun,2019-05-05,20:30,Napoli,1.9,0.5,Cagliari,16171,Stadio San Paolo,Daniele Chiffi,https://fbref.com/en/matches/266a0e3e/Napoli-Cagliari-May-5-2019-Serie-A,2,1
+SerieA,2018-2019,35,Mon,2019-05-06,20:30,Milan,1.1,1.1,Bologna,51472,Stadio Giuseppe Meazza,Marco Di Bello,https://fbref.com/en/matches/68d458a8/Milan-Bologna-May-6-2019-Serie-A,2,1
+SerieA,2018-2019,36,Sat,2019-05-11,15:00,Atalanta,1.3,1.7,Genoa,12000,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,https://fbref.com/en/matches/6cf7fca8/Atalanta-Genoa-May-11-2019-Serie-A,2,1
+SerieA,2018-2019,36,Sat,2019-05-11,18:00,Cagliari,1.0,0.7,Lazio,16179,Sardegna Arena,Michael Fabbri,https://fbref.com/en/matches/f9f11372/Cagliari-Lazio-May-11-2019-Serie-A,1,2
+SerieA,2018-2019,36,Sat,2019-05-11,20:30,Fiorentina,0.6,0.6,Milan,33250,Stadio Artemio Franchi,Maurizio Mariani,https://fbref.com/en/matches/abbe78ad/Fiorentina-Milan-May-11-2019-Serie-A,0,1
+SerieA,2018-2019,36,Sun,2019-05-12,12:30,Torino,3.4,0.7,Sassuolo,25360,Stadio Olimpico di Torino,Piero Giacomelli,https://fbref.com/en/matches/5635db0b/Torino-Sassuolo-May-12-2019-Serie-A,3,2
+SerieA,2018-2019,36,Sun,2019-05-12,15:00,Frosinone,2.1,2.0,Udinese,12261,Stadio Benito Stirpe,Fabrizio Pasqua,https://fbref.com/en/matches/110b46f1/Frosinone-Udinese-May-12-2019-Serie-A,1,3
+SerieA,2018-2019,36,Sun,2019-05-12,15:00,Sampdoria,1.9,2.1,Empoli,19034,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/8133d8c8/Sampdoria-Empoli-May-12-2019-Serie-A,1,2
+SerieA,2018-2019,36,Sun,2019-05-12,18:00,SPAL,1.8,1.2,Napoli,14175,Stadio Paolo Mazza,Eugenio Abbattista,https://fbref.com/en/matches/99a9e780/SPAL-Napoli-May-12-2019-Serie-A,1,2
+SerieA,2018-2019,36,Sun,2019-05-12,20:30,Roma,1.8,0.6,Juventus,50825,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/fc92e708/Roma-Juventus-May-12-2019-Serie-A,2,0
+SerieA,2018-2019,36,Mon,2019-05-13,19:00,Bologna,1.6,0.6,Parma,20656,Stadio Renato Dall'Ara,Luca Pairetto,https://fbref.com/en/matches/9e39f210/Bologna-Parma-May-13-2019-Serie-A,4,1
+SerieA,2018-2019,36,Mon,2019-05-13,21:00,Inter,1.7,0.1,Chievo,57855,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/6a1049e8/Internazionale-Chievo-May-13-2019-Serie-A,2,0
+SerieA,2018-2019,37,Sat,2019-05-18,15:00,Udinese,1.0,1.0,SPAL,24614,Dacia Arena,Michael Fabbri,https://fbref.com/en/matches/8c2beef6/Udinese-SPAL-May-18-2019-Serie-A,3,2
+SerieA,2018-2019,37,Sat,2019-05-18,18:00,Genoa,2.0,0.6,Cagliari,22768,Stadio Comunale Luigi Ferraris,Paolo Valeri,https://fbref.com/en/matches/706c1702/Genoa-Cagliari-May-18-2019-Serie-A,1,1
+SerieA,2018-2019,37,Sat,2019-05-18,20:30,Sassuolo,1.1,2.0,Roma,12914,Stadio Città del Tricolore,Fabio Maresca,https://fbref.com/en/matches/edddee0b/Sassuolo-Roma-May-18-2019-Serie-A,0,0
+SerieA,2018-2019,37,Sun,2019-05-19,12:30,Chievo,0.7,0.8,Sampdoria,10000,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,https://fbref.com/en/matches/57250097/Chievo-Sampdoria-May-19-2019-Serie-A,0,0
+SerieA,2018-2019,37,Sun,2019-05-19,15:00,Parma,0.5,1.2,Fiorentina,17333,Stadio Ennio Tardini,Piero Giacomelli,https://fbref.com/en/matches/79e418aa/Parma-Fiorentina-May-19-2019-Serie-A,1,0
+SerieA,2018-2019,37,Sun,2019-05-19,15:00,Empoli,2.0,1.7,Torino,10344,Stadio Carlo Castellani,Paolo Mazzoleni,https://fbref.com/en/matches/a24a5e34/Empoli-Torino-May-19-2019-Serie-A,4,1
+SerieA,2018-2019,37,Sun,2019-05-19,18:00,Milan,1.5,1.4,Frosinone,61765,Stadio Giuseppe Meazza,Gianluca Manganiello,https://fbref.com/en/matches/70014f82/Milan-Frosinone-May-19-2019-Serie-A,2,0
+SerieA,2018-2019,37,Sun,2019-05-19,20:30,Napoli,1.5,2.4,Inter,25445,Stadio San Paolo,Daniele Doveri,https://fbref.com/en/matches/57d45e71/Napoli-Internazionale-May-19-2019-Serie-A,4,1
+SerieA,2018-2019,37,Sun,2019-05-19,20:30,Juventus,1.0,1.6,Atalanta,39531,Allianz Stadium,Gianluca Rocchi,https://fbref.com/en/matches/382938bc/Juventus-Atalanta-May-19-2019-Serie-A,1,1
+SerieA,2018-2019,37,Mon,2019-05-20,20:30,Lazio,1.7,2.4,Bologna,25000,Stadio Olimpico,Fabrizio Pasqua,https://fbref.com/en/matches/7ec09edd/Lazio-Bologna-May-20-2019-Serie-A,3,3
+SerieA,2018-2019,38,Sat,2019-05-25,18:00,Frosinone,0.8,0.0,Chievo,12167,Stadio Benito Stirpe,Antonio Di Martino,https://fbref.com/en/matches/9386e11d/Frosinone-Chievo-May-25-2019-Serie-A,0,0
+SerieA,2018-2019,38,Sat,2019-05-25,20:30,Bologna,1.3,1.8,Napoli,19351,Stadio Renato Dall'Ara,Aleandro Di Paolo,https://fbref.com/en/matches/32105364/Bologna-Napoli-May-25-2019-Serie-A,3,2
+SerieA,2018-2019,38,Sun,2019-05-26,15:00,Torino,2.2,1.1,Lazio,24428,Stadio Olimpico di Torino,Rosario Abisso,https://fbref.com/en/matches/84339198/Torino-Lazio-May-26-2019-Serie-A,3,1
+SerieA,2018-2019,38,Sun,2019-05-26,18:00,Sampdoria,0.6,0.4,Juventus,22856,Stadio Comunale Luigi Ferraris,Luigi Nasca,https://fbref.com/en/matches/c436b02c/Sampdoria-Juventus-May-26-2019-Serie-A,2,0
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,Cagliari,1.8,0.9,Udinese,15378,Sardegna Arena,Manuel Volpi,https://fbref.com/en/matches/d504580d/Cagliari-Udinese-May-26-2019-Serie-A,1,2
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,Inter,2.8,2.1,Empoli,68051,Stadio Giuseppe Meazza,Luca Banti,https://fbref.com/en/matches/2a61e6b3/Internazionale-Empoli-May-26-2019-Serie-A,2,1
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,SPAL,0.6,1.6,Milan,16146,Stadio Paolo Mazza,Paolo Valeri,https://fbref.com/en/matches/0826aea6/SPAL-Milan-May-26-2019-Serie-A,2,3
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,Roma,2.2,1.2,Parma,62304,Stadio Olimpico,Paolo Mazzoleni,https://fbref.com/en/matches/60341b54/Roma-Parma-May-26-2019-Serie-A,2,1
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,Fiorentina,0.3,0.1,Genoa,37527,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/f260f704/Fiorentina-Genoa-May-26-2019-Serie-A,0,0
+SerieA,2018-2019,38,Sun,2019-05-26,20:30,Atalanta,2.2,0.4,Sassuolo,14376,Stadio Atleti Azzurri d'Italia,Daniele Doveri,https://fbref.com/en/matches/27917bbd/Atalanta-Sassuolo-May-26-2019-Serie-A,3,1

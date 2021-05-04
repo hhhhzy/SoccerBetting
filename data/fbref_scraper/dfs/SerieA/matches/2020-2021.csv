@@ -1,0 +1,381 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+SerieA,2020-2021,1,Sat,2020-09-19,18:00,Fiorentina,1.9,0.6,Torino,,Stadio Artemio Franchi,Rosario Abisso,https://fbref.com/en/matches/34e95e35/Fiorentina-Torino-September-19-2020-Serie-A,1,0
+SerieA,2020-2021,1,Sat,2020-09-19,20:45,Hellas Verona,1.3,1.7,Roma,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,https://fbref.com/en/matches/e0a20cfe/Hellas-Verona-Roma-September-19-2020-Serie-A,3,0
+SerieA,2020-2021,1,Sun,2020-09-20,12:30,Parma,0.2,1.6,Napoli,1000,Stadio Ennio Tardini,Maurizio Mariani,https://fbref.com/en/matches/a3e10e13/Parma-Napoli-September-20-2020-Serie-A,0,2
+SerieA,2020-2021,1,Sun,2020-09-20,15:00,Genoa,2.0,1.2,Crotone,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi,https://fbref.com/en/matches/640f64f3/Genoa-Crotone-September-20-2020-Serie-A,4,1
+SerieA,2020-2021,1,Sun,2020-09-20,18:00,Sassuolo,2.3,1.0,Cagliari,850,Stadio Città del Tricolore,Livio Marinelli,https://fbref.com/en/matches/e2711951/Sassuolo-Cagliari-September-20-2020-Serie-A,1,1
+SerieA,2020-2021,1,Sun,2020-09-20,20:45,Juventus,2.4,0.8,Sampdoria,1000,Allianz Stadium,Marco Piccinini,https://fbref.com/en/matches/bd0688ef/Juventus-Sampdoria-September-20-2020-Serie-A,3,0
+SerieA,2020-2021,1,Mon,2020-09-21,20:45,Milan,2.9,0.9,Bologna,1000,Stadio Giuseppe Meazza,Federico La Penna,https://fbref.com/en/matches/3019a52b/Milan-Bologna-September-21-2020-Serie-A,2,0
+SerieA,2020-2021,2,Sat,2020-09-26,15:00,Torino,0.7,1.6,Atalanta,1000,Stadio Olimpico di Torino,Massimiliano Irrati,https://fbref.com/en/matches/63e992fa/Torino-Atalanta-September-26-2020-Serie-A,2,4
+SerieA,2020-2021,2,Sat,2020-09-26,18:00,Cagliari,1.0,2.1,Lazio,1000,Sardegna Arena,Davide Massa,https://fbref.com/en/matches/68fb3c72/Cagliari-Lazio-September-26-2020-Serie-A,0,2
+SerieA,2020-2021,2,Sat,2020-09-26,18:00,Sampdoria,1.6,1.2,Benevento,1000,Stadio Comunale Luigi Ferraris,Federico Dionisi,https://fbref.com/en/matches/0505790f/Sampdoria-Benevento-September-26-2020-Serie-A,2,3
+SerieA,2020-2021,2,Sat,2020-09-26,20:45,Inter,2.8,2.5,Fiorentina,1000,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/87f435d8/Internazionale-Fiorentina-September-26-2020-Serie-A,4,3
+SerieA,2020-2021,2,Sun,2020-09-27,12:30,Spezia,1.1,2.8,Sassuolo,1000,Stadio Dino Manuzzi,Davide Ghersini,https://fbref.com/en/matches/f35a0315/Spezia-Sassuolo-September-27-2020-Serie-A,1,4
+SerieA,2020-2021,2,Sun,2020-09-27,15:00,Hellas Verona,1.0,1.7,Udinese,1000,Stadio Marc'Antonio Bentegodi,Manuel Volpi,https://fbref.com/en/matches/671a6bea/Hellas-Verona-Udinese-September-27-2020-Serie-A,1,0
+SerieA,2020-2021,2,Sun,2020-09-27,18:00,Napoli,2.4,0.6,Genoa,1000,Stadio San Paolo,Juan Sacchi,https://fbref.com/en/matches/28218c1b/Napoli-Genoa-September-27-2020-Serie-A,6,0
+SerieA,2020-2021,2,Sun,2020-09-27,18:00,Crotone,0.3,2.4,Milan,,Stadio Ezio Scida,Luca Pairetto,https://fbref.com/en/matches/25339616/Crotone-Milan-September-27-2020-Serie-A,0,2
+SerieA,2020-2021,2,Sun,2020-09-27,20:45,Roma,2.7,1.3,Juventus,1000,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/813850ed/Roma-Juventus-September-27-2020-Serie-A,2,2
+SerieA,2020-2021,2,Mon,2020-09-28,20:45,Bologna,2.2,1.0,Parma,1000,Stadio Renato Dall'Ara,Paolo Valeri,https://fbref.com/en/matches/ddc857bc/Bologna-Parma-September-28-2020-Serie-A,4,1
+SerieA,2020-2021,1,Wed,2020-09-30,18:00,Udinese,2.1,0.7,Spezia,1000,Dacia Arena,Alessandro Prontera,https://fbref.com/en/matches/5ca8fe51/Udinese-Spezia-September-30-2020-Serie-A,0,2
+SerieA,2020-2021,1,Wed,2020-09-30,18:00,Benevento,1.5,3.5,Inter,1000,Stadio Ciro Vigorito,Marco Piccinini,https://fbref.com/en/matches/1d2d65d6/Benevento-Internazionale-September-30-2020-Serie-A,2,5
+SerieA,2020-2021,1,Wed,2020-09-30,20:45,Lazio,2.6,1.7,Atalanta,1000,Stadio Olimpico,Fabio Maresca,https://fbref.com/en/matches/895c84f1/Lazio-Atalanta-September-30-2020-Serie-A,1,4
+SerieA,2020-2021,3,Fri,2020-10-02,20:45,Fiorentina,2.1,2.4,Sampdoria,1000,Stadio Artemio Franchi,Piero Giacomelli,https://fbref.com/en/matches/853ed5b4/Fiorentina-Sampdoria-October-2-2020-Serie-A,1,2
+SerieA,2020-2021,3,Sat,2020-10-03,15:00,Sassuolo,1.7,1.8,Crotone,1000,Stadio Città del Tricolore,Ivan Pezzuto,https://fbref.com/en/matches/4898e655/Sassuolo-Crotone-October-3-2020-Serie-A,4,1
+SerieA,2020-2021,3,Sat,2020-10-03,20:45,Udinese,0.9,0.8,Roma,1000,Dacia Arena,Rosario Abisso,https://fbref.com/en/matches/2652d66f/Udinese-Roma-October-3-2020-Serie-A,0,1
+SerieA,2020-2021,3,Sun,2020-10-04,12:30,Atalanta,3.5,1.0,Cagliari,1000,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua,https://fbref.com/en/matches/27a44970/Atalanta-Cagliari-October-4-2020-Serie-A,5,2
+SerieA,2020-2021,3,Sun,2020-10-04,15:00,Lazio,1.3,0.9,Inter,1000,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/f89e07c4/Lazio-Internazionale-October-4-2020-Serie-A,1,1
+SerieA,2020-2021,3,Sun,2020-10-04,15:00,Benevento,0.9,1.8,Bologna,1000,Stadio Ciro Vigorito,Simone Sozza,https://fbref.com/en/matches/04102e2d/Benevento-Bologna-October-4-2020-Serie-A,1,0
+SerieA,2020-2021,3,Sun,2020-10-04,15:00,Parma,1.6,0.5,Hellas Verona,1000,Stadio Ennio Tardini,Antonio Giua,https://fbref.com/en/matches/0ef09e99/Parma-Hellas-Verona-October-4-2020-Serie-A,1,0
+SerieA,2020-2021,3,Sun,2020-10-04,18:00,Milan,2.0,0.2,Spezia,1000,Stadio Giuseppe Meazza,Marco Serra,https://fbref.com/en/matches/a812c1ea/Milan-Spezia-October-4-2020-Serie-A,3,0
+SerieA,2020-2021,4,Sat,2020-10-17,15:00,Napoli,1.7,1.0,Atalanta,1000,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/804e3527/Napoli-Atalanta-October-17-2020-Serie-A,4,1
+SerieA,2020-2021,4,Sat,2020-10-17,18:00,Sampdoria,1.3,0.6,Lazio,1000,Stadio Comunale Luigi Ferraris,Daniele Orsato,https://fbref.com/en/matches/2f58ef6d/Sampdoria-Lazio-October-17-2020-Serie-A,3,0
+SerieA,2020-2021,4,Sat,2020-10-17,18:00,Inter,2.4,2.3,Milan,1000,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/c51b8075/Derby-della-Madonnina-Internazionale-Milan-October-17-2020-Serie-A,1,2
+SerieA,2020-2021,4,Sat,2020-10-17,20:45,Crotone,1.1,1.6,Juventus,1000,Stadio Ezio Scida,Francesco Fourneau,https://fbref.com/en/matches/fe73c95f/Crotone-Juventus-October-17-2020-Serie-A,1,1
+SerieA,2020-2021,4,Sun,2020-10-18,12:30,Bologna,1.4,2.8,Sassuolo,1000,Stadio Renato Dall'Ara,Daniele Doveri,https://fbref.com/en/matches/fb7f9915/Bologna-Sassuolo-October-18-2020-Serie-A,3,4
+SerieA,2020-2021,4,Sun,2020-10-18,15:00,Torino,1.7,2.1,Cagliari,1000,Stadio Olimpico di Torino,Federico La Penna,https://fbref.com/en/matches/86fc57b5/Torino-Cagliari-October-18-2020-Serie-A,2,3
+SerieA,2020-2021,4,Sun,2020-10-18,15:00,Spezia,1.1,1.4,Fiorentina,1000,Stadio Dino Manuzzi,Gianluca Manganiello,https://fbref.com/en/matches/b6c6dd04/Spezia-Fiorentina-October-18-2020-Serie-A,2,2
+SerieA,2020-2021,4,Sun,2020-10-18,18:00,Udinese,1.3,1.0,Parma,1000,Dacia Arena,Michael Fabbri,https://fbref.com/en/matches/3f8a8da5/Udinese-Parma-October-18-2020-Serie-A,3,2
+SerieA,2020-2021,4,Sun,2020-10-18,20:45,Roma,4.4,1.8,Benevento,1000,Stadio Olimpico,Giovanni Ayroldi,https://fbref.com/en/matches/8c70e4d2/Roma-Benevento-October-18-2020-Serie-A,5,2
+SerieA,2020-2021,4,Mon,2020-10-19,20:45,Hellas Verona,1.4,0.4,Genoa,10002,Stadio Marc'Antonio Bentegodi,Antonio Rapuano,https://fbref.com/en/matches/0390eade/Hellas-Verona-Genoa-October-19-2020-Serie-A,0,0
+SerieA,2020-2021,5,Fri,2020-10-23,20:45,Sassuolo,2.0,2.1,Torino,700,Stadio Città del Tricolore,Marco Guida,https://fbref.com/en/matches/efe8db7d/Sassuolo-Torino-October-23-2020-Serie-A,3,3
+SerieA,2020-2021,5,Sat,2020-10-24,15:00,Atalanta,2.1,1.9,Sampdoria,1000,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese,https://fbref.com/en/matches/ed9e30e7/Atalanta-Sampdoria-October-24-2020-Serie-A,1,3
+SerieA,2020-2021,5,Sat,2020-10-24,18:00,Genoa,0.0,1.8,Inter,1000,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/66c85475/Genoa-Internazionale-October-24-2020-Serie-A,0,2
+SerieA,2020-2021,5,Sat,2020-10-24,20:45,Lazio,1.0,1.5,Bologna,1000,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/4a784435/Lazio-Bologna-October-24-2020-Serie-A,2,1
+SerieA,2020-2021,5,Sun,2020-10-25,12:30,Cagliari,2.4,1.6,Crotone,1000,Sardegna Arena,Antonio Di Martino,https://fbref.com/en/matches/c04496c5/Cagliari-Crotone-October-25-2020-Serie-A,4,2
+SerieA,2020-2021,5,Sun,2020-10-25,15:00,Benevento,0.5,2.1,Napoli,1000,Stadio Ciro Vigorito,Daniele Doveri,https://fbref.com/en/matches/d2315e70/Benevento-Napoli-October-25-2020-Serie-A,1,2
+SerieA,2020-2021,5,Sun,2020-10-25,15:00,Parma,3.2,0.9,Spezia,1000,Stadio Ennio Tardini,Valerio Marini,https://fbref.com/en/matches/537f2b44/Parma-Spezia-October-25-2020-Serie-A,2,2
+SerieA,2020-2021,5,Sun,2020-10-25,18:00,Fiorentina,1.2,1.8,Udinese,1000,Stadio Artemio Franchi,Francesco Fourneau,https://fbref.com/en/matches/64b18020/Fiorentina-Udinese-October-25-2020-Serie-A,3,2
+SerieA,2020-2021,5,Sun,2020-10-25,20:45,Juventus,1.8,0.7,Hellas Verona,1000,Allianz Stadium,Fabrizio Pasqua,https://fbref.com/en/matches/55ef3ddd/Juventus-Hellas-Verona-October-25-2020-Serie-A,1,1
+SerieA,2020-2021,5,Mon,2020-10-26,20:45,Milan,2.6,2.3,Roma,,Stadio Giuseppe Meazza,Piero Giacomelli,https://fbref.com/en/matches/ccde29ed/Milan-Roma-October-26-2020-Serie-A,3,3
+SerieA,2020-2021,6,Sat,2020-10-31,15:00,Crotone,0.4,2.6,Atalanta,,Stadio Ezio Scida,Federico Dionisi,https://fbref.com/en/matches/6093ca64/Crotone-Atalanta-October-31-2020-Serie-A,1,2
+SerieA,2020-2021,6,Sat,2020-10-31,18:00,Inter,2.5,0.7,Parma,,Stadio Giuseppe Meazza,Marco Piccinini,https://fbref.com/en/matches/6e9788e7/Internazionale-Parma-October-31-2020-Serie-A,2,2
+SerieA,2020-2021,6,Sat,2020-10-31,20:45,Bologna,1.4,0.6,Cagliari,,Stadio Renato Dall'Ara,Michael Fabbri,https://fbref.com/en/matches/e2a5c42a/Bologna-Cagliari-October-31-2020-Serie-A,3,2
+SerieA,2020-2021,6,Sun,2020-11-01,12:30,Udinese,1.1,1.1,Milan,,Dacia Arena,Marco Di Bello,https://fbref.com/en/matches/e6ef7801/Udinese-Milan-November-1-2020-Serie-A,1,2
+SerieA,2020-2021,6,Sun,2020-11-01,15:00,Torino,2.8,1.4,Lazio,,Stadio Olimpico di Torino,Daniele Chiffi,https://fbref.com/en/matches/59f00a82/Torino-Lazio-November-1-2020-Serie-A,3,4
+SerieA,2020-2021,6,Sun,2020-11-01,15:00,Spezia,0.7,3.4,Juventus,,Stadio Dino Manuzzi,Rosario Abisso,https://fbref.com/en/matches/8314abe6/Spezia-Juventus-November-1-2020-Serie-A,1,4
+SerieA,2020-2021,6,Sun,2020-11-01,18:00,Roma,3.0,0.4,Fiorentina,,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/be251e3d/Roma-Fiorentina-November-1-2020-Serie-A,2,0
+SerieA,2020-2021,6,Sun,2020-11-01,18:00,Napoli,2.3,1.4,Sassuolo,,Stadio San Paolo,Maurizio Mariani,https://fbref.com/en/matches/57755213/Napoli-Sassuolo-November-1-2020-Serie-A,0,2
+SerieA,2020-2021,6,Sun,2020-11-01,20:45,Sampdoria,0.7,0.6,Genoa,,Stadio Comunale Luigi Ferraris,Federico La Penna,https://fbref.com/en/matches/3efc9351/Sampdoria-Genoa-November-1-2020-Serie-A,1,1
+SerieA,2020-2021,6,Mon,2020-11-02,20:45,Hellas Verona,1.7,1.6,Benevento,,Stadio Marc'Antonio Bentegodi,Juan Sacchi,https://fbref.com/en/matches/0889467c/Hellas-Verona-Benevento-November-2-2020-Serie-A,3,1
+SerieA,2020-2021,3,Wed,2020-11-04,17:00,Genoa,1.1,0.6,Torino,,Stadio Comunale Luigi Ferraris,Paolo Valeri,https://fbref.com/en/matches/8f049744/Genoa-Torino-November-4-2020-Serie-A,1,2
+SerieA,2020-2021,7,Fri,2020-11-06,20:45,Sassuolo,0.1,0.1,Udinese,,Stadio Città del Tricolore,Eugenio Abbattista,https://fbref.com/en/matches/05327d94/Sassuolo-Udinese-November-6-2020-Serie-A,0,0
+SerieA,2020-2021,7,Sat,2020-11-07,15:00,Cagliari,2.1,0.1,Sampdoria,,Sardegna Arena,Giovanni Ayroldi,https://fbref.com/en/matches/fd391825/Cagliari-Sampdoria-November-7-2020-Serie-A,2,0
+SerieA,2020-2021,7,Sat,2020-11-07,18:00,Benevento,0.3,0.9,Spezia,,Stadio Ciro Vigorito,Gianluca Aureliano,https://fbref.com/en/matches/297456f4/Benevento-Spezia-November-7-2020-Serie-A,0,3
+SerieA,2020-2021,7,Sat,2020-11-07,20:45,Parma,0.1,0.7,Fiorentina,,Stadio Ennio Tardini,Federico La Penna,https://fbref.com/en/matches/1d982a6b/Parma-Fiorentina-November-7-2020-Serie-A,0,0
+SerieA,2020-2021,7,Sun,2020-11-08,12:30,Lazio,0.9,1.2,Juventus,,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/d9fa0ada/Lazio-Juventus-November-8-2020-Serie-A,1,1
+SerieA,2020-2021,7,Sun,2020-11-08,15:00,Atalanta,0.8,1.0,Inter,,Stadio Atleti Azzurri d'Italia,Daniele Doveri,https://fbref.com/en/matches/f34a17fc/Atalanta-Internazionale-November-8-2020-Serie-A,1,1
+SerieA,2020-2021,7,Sun,2020-11-08,15:00,Genoa,0.6,2.0,Roma,,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,https://fbref.com/en/matches/da88eb92/Genoa-Roma-November-8-2020-Serie-A,1,3
+SerieA,2020-2021,7,Sun,2020-11-08,15:00,Torino,0.2,0.3,Crotone,,Stadio Olimpico di Torino,Francesco Fourneau,https://fbref.com/en/matches/1342ef74/Torino-Crotone-November-8-2020-Serie-A,0,0
+SerieA,2020-2021,7,Sun,2020-11-08,18:00,Bologna,0.8,1.2,Napoli,,Stadio Renato Dall'Ara,Fabrizio Pasqua,https://fbref.com/en/matches/fe4a67f1/Bologna-Napoli-November-8-2020-Serie-A,0,1
+SerieA,2020-2021,7,Sun,2020-11-08,20:45,Milan,3.3,1.5,Hellas Verona,,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/713a05a0/Milan-Hellas-Verona-November-8-2020-Serie-A,2,2
+SerieA,2020-2021,8,Sat,2020-11-21,15:00,Crotone,0.6,1.8,Lazio,,Stadio Ezio Scida,Juan Sacchi,https://fbref.com/en/matches/50294529/Crotone-Lazio-November-21-2020-Serie-A,0,2
+SerieA,2020-2021,8,Sat,2020-11-21,18:00,Spezia,0.5,1.2,Atalanta,,Stadio Dino Manuzzi,Antonio Rapuano,https://fbref.com/en/matches/34d0c3c5/Spezia-Atalanta-November-21-2020-Serie-A,0,0
+SerieA,2020-2021,8,Sat,2020-11-21,20:45,Juventus,2.1,0.1,Cagliari,,Allianz Stadium,Fabio Maresca,https://fbref.com/en/matches/5f84e7d6/Juventus-Cagliari-November-21-2020-Serie-A,2,0
+SerieA,2020-2021,8,Sun,2020-11-22,12:30,Fiorentina,0.8,0.7,Benevento,,Stadio Artemio Franchi,Davide Ghersini,https://fbref.com/en/matches/91f4fc0c/Fiorentina-Benevento-November-22-2020-Serie-A,0,1
+SerieA,2020-2021,8,Sun,2020-11-22,15:00,Hellas Verona,1.2,0.5,Sassuolo,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,https://fbref.com/en/matches/6f88f246/Hellas-Verona-Sassuolo-November-22-2020-Serie-A,0,2
+SerieA,2020-2021,8,Sun,2020-11-22,15:00,Inter,3.6,1.9,Torino,,Stadio Giuseppe Meazza,Federico La Penna,https://fbref.com/en/matches/1e1de965/Internazionale-Torino-November-22-2020-Serie-A,4,2
+SerieA,2020-2021,8,Sun,2020-11-22,15:00,Roma,2.8,0.0,Parma,,Stadio Olimpico,Gianluca Manganiello,https://fbref.com/en/matches/1fd43ae7/Roma-Parma-November-22-2020-Serie-A,3,0
+SerieA,2020-2021,8,Sun,2020-11-22,15:00,Sampdoria,0.7,1.7,Bologna,,Stadio Comunale Luigi Ferraris,Livio Marinelli,https://fbref.com/en/matches/c0cdd5ef/Sampdoria-Bologna-November-22-2020-Serie-A,1,2
+SerieA,2020-2021,8,Sun,2020-11-22,18:00,Udinese,0.5,1.0,Genoa,,Dacia Arena,Giampaolo Calvarese,https://fbref.com/en/matches/bab2a928/Udinese-Genoa-November-22-2020-Serie-A,1,0
+SerieA,2020-2021,8,Sun,2020-11-22,20:45,Napoli,1.7,2.6,Milan,,Stadio San Paolo,Paolo Valeri,https://fbref.com/en/matches/91e79ece/Napoli-Milan-November-22-2020-Serie-A,1,3
+SerieA,2020-2021,9,Sat,2020-11-28,15:00,Sassuolo,0.7,1.2,Inter,,Stadio Città del Tricolore,Massimiliano Irrati,https://fbref.com/en/matches/a1946d0e/Sassuolo-Internazionale-November-28-2020-Serie-A,0,3
+SerieA,2020-2021,9,Sat,2020-11-28,18:00,Benevento,0.4,1.6,Juventus,,Stadio Ciro Vigorito,Fabrizio Pasqua,https://fbref.com/en/matches/6fe2a910/Benevento-Juventus-November-28-2020-Serie-A,1,1
+SerieA,2020-2021,9,Sat,2020-11-28,20:45,Atalanta,1.8,1.7,Hellas Verona,,Stadio Atleti Azzurri d'Italia,Davide Massa,https://fbref.com/en/matches/bdbd3cea/Atalanta-Hellas-Verona-November-28-2020-Serie-A,0,2
+SerieA,2020-2021,9,Sun,2020-11-29,12:30,Lazio,1.3,1.1,Udinese,,Stadio Olimpico,Gianluca Aureliano,https://fbref.com/en/matches/4b30dfa6/Lazio-Udinese-November-29-2020-Serie-A,1,3
+SerieA,2020-2021,9,Sun,2020-11-29,15:00,Milan,2.6,0.3,Fiorentina,,Stadio Giuseppe Meazza,Rosario Abisso,https://fbref.com/en/matches/dac00d76/Milan-Fiorentina-November-29-2020-Serie-A,2,0
+SerieA,2020-2021,9,Sun,2020-11-29,15:00,Bologna,1.5,0.4,Crotone,,Stadio Renato Dall'Ara,Marco Serra,https://fbref.com/en/matches/529dc319/Bologna-Crotone-November-29-2020-Serie-A,1,0
+SerieA,2020-2021,9,Sun,2020-11-29,18:00,Cagliari,2.3,2.8,Spezia,,Sardegna Arena,Valerio Marini,https://fbref.com/en/matches/7ef8ee8f/Cagliari-Spezia-November-29-2020-Serie-A,2,2
+SerieA,2020-2021,9,Sun,2020-11-29,20:45,Napoli,1.9,0.3,Roma,,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/2813d64e/Napoli-Roma-November-29-2020-Serie-A,4,0
+SerieA,2020-2021,9,Mon,2020-11-30,18:30,Torino,1.6,1.1,Sampdoria,,Stadio Olimpico di Torino,Daniele Doveri,https://fbref.com/en/matches/52feedf3/Torino-Sampdoria-November-30-2020-Serie-A,2,2
+SerieA,2020-2021,9,Mon,2020-11-30,20:45,Genoa,1.4,1.1,Parma,,Stadio Comunale Luigi Ferraris,Maurizio Mariani,https://fbref.com/en/matches/d930fb08/Genoa-Parma-November-30-2020-Serie-A,1,2
+SerieA,2020-2021,10,Sat,2020-12-05,15:00,Spezia,1.7,0.3,Lazio,,Stadio Dino Manuzzi,Daniele Chiffi,https://fbref.com/en/matches/3dbc3efe/Spezia-Lazio-December-5-2020-Serie-A,1,2
+SerieA,2020-2021,10,Sat,2020-12-05,18:00,Juventus,1.6,0.8,Torino,,Allianz Stadium,Daniele Orsato,https://fbref.com/en/matches/bbc484d9/Juventus-Torino-December-5-2020-Serie-A,2,1
+SerieA,2020-2021,10,Sat,2020-12-05,20:45,Inter,1.5,1.3,Bologna,,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/f124eb7b/Internazionale-Bologna-December-5-2020-Serie-A,3,1
+SerieA,2020-2021,10,Sun,2020-12-06,12:30,Hellas Verona,2.8,1.2,Cagliari,,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello,https://fbref.com/en/matches/93ef5099/Hellas-Verona-Cagliari-December-6-2020-Serie-A,1,1
+SerieA,2020-2021,10,Sun,2020-12-06,15:00,Parma,0.4,0.3,Benevento,,Stadio Ennio Tardini,Juan Sacchi,https://fbref.com/en/matches/7b689c67/Parma-Benevento-December-6-2020-Serie-A,0,0
+SerieA,2020-2021,10,Sun,2020-12-06,15:00,Roma,1.2,0.4,Sassuolo,,Stadio Olimpico,Fabio Maresca,https://fbref.com/en/matches/930b2d30/Roma-Sassuolo-December-6-2020-Serie-A,0,0
+SerieA,2020-2021,10,Sun,2020-12-06,18:00,Crotone,0.5,2.2,Napoli,,Stadio Ezio Scida,Livio Marinelli,https://fbref.com/en/matches/325e496e/Crotone-Napoli-December-6-2020-Serie-A,0,4
+SerieA,2020-2021,10,Sun,2020-12-06,20:45,Sampdoria,1.1,2.5,Milan,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/a4e5ebed/Sampdoria-Milan-December-6-2020-Serie-A,1,2
+SerieA,2020-2021,10,Mon,2020-12-07,20:45,Fiorentina,2.7,1.2,Genoa,,Stadio Artemio Franchi,Daniele Doveri,https://fbref.com/en/matches/50ad79b4/Fiorentina-Genoa-December-7-2020-Serie-A,1,1
+SerieA,2020-2021,11,Fri,2020-12-11,20:45,Sassuolo,1.0,2.5,Benevento,,Stadio Città del Tricolore,Simone Sozza,https://fbref.com/en/matches/d5c7938e/Sassuolo-Benevento-December-11-2020-Serie-A,1,0
+SerieA,2020-2021,11,Sat,2020-12-12,15:00,Crotone,2.2,1.2,Spezia,,Stadio Ezio Scida,Antonio Giua,https://fbref.com/en/matches/08beb229/Crotone-Spezia-December-12-2020-Serie-A,4,1
+SerieA,2020-2021,11,Sat,2020-12-12,18:00,Torino,1.0,1.2,Udinese,,Stadio Olimpico di Torino,Davide Massa,https://fbref.com/en/matches/b51058d7/Torino-Udinese-December-12-2020-Serie-A,2,3
+SerieA,2020-2021,11,Sat,2020-12-12,20:45,Lazio,1.0,1.2,Hellas Verona,,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/44411178/Lazio-Hellas-Verona-December-12-2020-Serie-A,1,2
+SerieA,2020-2021,11,Sun,2020-12-13,12:45,Cagliari,1.6,3.5,Inter,,Sardegna Arena,Fabrizio Pasqua,https://fbref.com/en/matches/7201e4de/Cagliari-Internazionale-December-13-2020-Serie-A,1,3
+SerieA,2020-2021,11,Sun,2020-12-13,15:00,Atalanta,2.6,0.4,Fiorentina,,Stadio Atleti Azzurri d'Italia,Maurizio Mariani,https://fbref.com/en/matches/f015f974/Atalanta-Fiorentina-December-13-2020-Serie-A,3,0
+SerieA,2020-2021,11,Sun,2020-12-13,15:00,Bologna,0.7,3.4,Roma,,Stadio Renato Dall'Ara,Giampaolo Calvarese,https://fbref.com/en/matches/8b07dcf5/Bologna-Roma-December-13-2020-Serie-A,1,5
+SerieA,2020-2021,11,Sun,2020-12-13,15:00,Napoli,1.1,1.1,Sampdoria,,Stadio San Paolo,Federico La Penna,https://fbref.com/en/matches/851607c8/Napoli-Sampdoria-December-13-2020-Serie-A,2,1
+SerieA,2020-2021,11,Sun,2020-12-13,18:00,Genoa,0.2,2.6,Juventus,,Stadio Comunale Luigi Ferraris,Marco Di Bello,https://fbref.com/en/matches/7b0d0f68/Genoa-Juventus-December-13-2020-Serie-A,1,3
+SerieA,2020-2021,11,Sun,2020-12-13,20:45,Milan,1.8,0.6,Parma,,Stadio Giuseppe Meazza,Francesco Fourneau,https://fbref.com/en/matches/2bb01afd/Milan-Parma-December-13-2020-Serie-A,2,2
+SerieA,2020-2021,12,Tue,2020-12-15,18:30,Udinese,1.1,0.2,Crotone,,Dacia Arena,Antonio Di Martino,https://fbref.com/en/matches/c3cb40d3/Udinese-Crotone-December-15-2020-Serie-A,0,0
+SerieA,2020-2021,12,Tue,2020-12-15,20:45,Benevento,1.4,0.8,Lazio,,Stadio Ciro Vigorito,Luca Pairetto,https://fbref.com/en/matches/2266b847/Benevento-Lazio-December-15-2020-Serie-A,1,1
+SerieA,2020-2021,12,Wed,2020-12-16,18:30,Juventus,2.7,1.1,Atalanta,,Allianz Stadium,Daniele Doveri,https://fbref.com/en/matches/b021ae83/Juventus-Atalanta-December-16-2020-Serie-A,1,1
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Fiorentina,2.0,1.1,Sassuolo,,Stadio Artemio Franchi,Paolo Valeri,https://fbref.com/en/matches/df0a6d79/Fiorentina-Sassuolo-December-16-2020-Serie-A,1,1
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Genoa,1.2,1.5,Milan,,Stadio Comunale Luigi Ferraris,Daniele Orsato,https://fbref.com/en/matches/4cdf47d4/Genoa-Milan-December-16-2020-Serie-A,2,2
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Spezia,3.7,2.0,Bologna,,Stadio Dino Manuzzi,Piero Giacomelli,https://fbref.com/en/matches/e4e6e1f4/Spezia-Bologna-December-16-2020-Serie-A,2,2
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Hellas Verona,1.4,0.7,Sampdoria,,Stadio Marc'Antonio Bentegodi,Riccardo Ros,https://fbref.com/en/matches/842b86b0/Hellas-Verona-Sampdoria-December-16-2020-Serie-A,1,2
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Inter,1.1,1.7,Napoli,,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/b5f73bdc/Internazionale-Napoli-December-16-2020-Serie-A,1,0
+SerieA,2020-2021,12,Wed,2020-12-16,20:45,Parma,1.0,0.3,Cagliari,,Stadio Ennio Tardini,Ivan Pezzuto,https://fbref.com/en/matches/2dd73236/Parma-Cagliari-December-16-2020-Serie-A,0,0
+SerieA,2020-2021,12,Thu,2020-12-17,20:45,Roma,2.6,1.5,Torino,,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/1dab0587/Roma-Torino-December-17-2020-Serie-A,3,1
+SerieA,2020-2021,13,Sat,2020-12-19,15:00,Fiorentina,1.2,1.1,Hellas Verona,,Stadio Artemio Franchi,Francesco Fourneau,https://fbref.com/en/matches/c2e0d138/Fiorentina-Hellas-Verona-December-19-2020-Serie-A,1,1
+SerieA,2020-2021,13,Sat,2020-12-19,18:00,Sampdoria,1.9,0.9,Crotone,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,https://fbref.com/en/matches/a69937eb/Sampdoria-Crotone-December-19-2020-Serie-A,3,1
+SerieA,2020-2021,13,Sat,2020-12-19,20:45,Parma,0.7,2.5,Juventus,,Stadio Ennio Tardini,Giampaolo Calvarese,https://fbref.com/en/matches/0d8fbf46/Parma-Juventus-December-19-2020-Serie-A,0,4
+SerieA,2020-2021,13,Sun,2020-12-20,12:30,Torino,0.9,1.6,Bologna,,Stadio Olimpico di Torino,Fabrizio Pasqua,https://fbref.com/en/matches/7d1527e6/Torino-Bologna-December-20-2020-Serie-A,1,1
+SerieA,2020-2021,13,Sun,2020-12-20,15:00,Inter,1.8,0.8,Spezia,,Stadio Giuseppe Meazza,Michael Fabbri,https://fbref.com/en/matches/45ea2eb0/Internazionale-Spezia-December-20-2020-Serie-A,2,1
+SerieA,2020-2021,13,Sun,2020-12-20,15:00,Benevento,1.6,0.3,Genoa,,Stadio Ciro Vigorito,Antonio Giua,https://fbref.com/en/matches/5bac0634/Benevento-Genoa-December-20-2020-Serie-A,2,0
+SerieA,2020-2021,13,Sun,2020-12-20,15:00,Cagliari,0.5,1.4,Udinese,,Sardegna Arena,Marco Piccinini,https://fbref.com/en/matches/91d5a777/Cagliari-Udinese-December-20-2020-Serie-A,1,1
+SerieA,2020-2021,13,Sun,2020-12-20,15:00,Sassuolo,0.9,1.5,Milan,,Stadio Città del Tricolore,Maurizio Mariani,https://fbref.com/en/matches/dde07477/Sassuolo-Milan-December-20-2020-Serie-A,1,2
+SerieA,2020-2021,13,Sun,2020-12-20,18:00,Atalanta,2.0,0.8,Roma,,Stadio Atleti Azzurri d'Italia,Marco Di Bello,https://fbref.com/en/matches/c46eb263/Atalanta-Roma-December-20-2020-Serie-A,4,1
+SerieA,2020-2021,13,Sun,2020-12-20,20:45,Lazio,0.8,0.9,Napoli,,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/7ca08670/Lazio-Napoli-December-20-2020-Serie-A,2,0
+SerieA,2020-2021,14,Tue,2020-12-22,18:30,Crotone,0.8,1.2,Parma,,Stadio Ezio Scida,Fabio Maresca,https://fbref.com/en/matches/fe3251cd/Crotone-Parma-December-22-2020-Serie-A,2,1
+SerieA,2020-2021,14,Tue,2020-12-22,20:45,Juventus,0.4,1.0,Fiorentina,,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/89bf4a35/Juventus-Fiorentina-December-22-2020-Serie-A,0,3
+SerieA,2020-2021,14,Wed,2020-12-23,18:30,Hellas Verona,0.7,2.1,Inter,,Stadio Marc'Antonio Bentegodi,Piero Giacomelli,https://fbref.com/en/matches/56d99aa2/Hellas-Verona-Internazionale-December-23-2020-Serie-A,1,2
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Sampdoria,1.7,2.1,Sassuolo,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi,https://fbref.com/en/matches/1cacbabc/Sampdoria-Sassuolo-December-23-2020-Serie-A,2,3
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Udinese,1.7,0.4,Benevento,,Dacia Arena,Manuel Volpi,https://fbref.com/en/matches/93d98765/Udinese-Benevento-December-23-2020-Serie-A,0,2
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Napoli,0.9,0.5,Torino,,Stadio San Paolo,Paolo Valeri,https://fbref.com/en/matches/83e1c7a4/Napoli-Torino-December-23-2020-Serie-A,1,1
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Roma,3.2,1.7,Cagliari,,Stadio Olimpico,Luca Pairetto,https://fbref.com/en/matches/568d1b20/Roma-Cagliari-December-23-2020-Serie-A,3,2
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Bologna,1.0,1.5,Atalanta,,Stadio Renato Dall'Ara,Daniele Chiffi,https://fbref.com/en/matches/6eecf6a6/Bologna-Atalanta-December-23-2020-Serie-A,2,2
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Milan,1.9,1.8,Lazio,,Stadio Giuseppe Meazza,Marco Di Bello,https://fbref.com/en/matches/b53612b6/Milan-Lazio-December-23-2020-Serie-A,3,2
+SerieA,2020-2021,14,Wed,2020-12-23,20:45,Spezia,0.7,1.6,Genoa,,Stadio Dino Manuzzi,Davide Massa,https://fbref.com/en/matches/3315da73/Spezia-Genoa-December-23-2020-Serie-A,1,2
+SerieA,2020-2021,15,Sun,2021-01-03,12:30,Inter,2.5,1.6,Crotone,,Stadio Giuseppe Meazza,Gianluca Aureliano,https://fbref.com/en/matches/fd0874c0/Internazionale-Crotone-January-3-2021-Serie-A,6,2
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Fiorentina,0.3,0.7,Bologna,,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/50c9b56a/Fiorentina-Bologna-January-3-2021-Serie-A,0,0
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Parma,1.0,1.6,Torino,,Stadio Ennio Tardini,Daniele Doveri,https://fbref.com/en/matches/e856730d/Parma-Torino-January-3-2021-Serie-A,0,3
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Atalanta,2.7,0.7,Sassuolo,,Stadio Atleti Azzurri d'Italia,Fabio Maresca,https://fbref.com/en/matches/2d1025ac/Atalanta-Sassuolo-January-3-2021-Serie-A,5,1
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Genoa,0.9,1.4,Lazio,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/54b2dc2b/Genoa-Lazio-January-3-2021-Serie-A,1,1
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Roma,2.1,0.4,Sampdoria,,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/49700a7d/Roma-Sampdoria-January-3-2021-Serie-A,1,0
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Cagliari,1.0,3.8,Napoli,,Sardegna Arena,Gianluca Manganiello,https://fbref.com/en/matches/999f6c1e/Cagliari-Napoli-January-3-2021-Serie-A,1,4
+SerieA,2020-2021,15,Sun,2021-01-03,15:00,Spezia,0.8,1.7,Hellas Verona,,Stadio Dino Manuzzi,Luca Pairetto,https://fbref.com/en/matches/df01ce1a/Spezia-Hellas-Verona-January-3-2021-Serie-A,0,1
+SerieA,2020-2021,15,Sun,2021-01-03,18:00,Benevento,2.5,1.5,Milan,,Stadio Ciro Vigorito,Fabrizio Pasqua,https://fbref.com/en/matches/147553a0/Benevento-Milan-January-3-2021-Serie-A,0,2
+SerieA,2020-2021,15,Sun,2021-01-03,20:45,Juventus,2.8,1.7,Udinese,,Allianz Stadium,Piero Giacomelli,https://fbref.com/en/matches/658bd9df/Juventus-Udinese-January-3-2021-Serie-A,4,1
+SerieA,2020-2021,16,Wed,2021-01-06,12:30,Cagliari,0.9,1.2,Benevento,,Sardegna Arena,Eugenio Abbattista,https://fbref.com/en/matches/1ed9b04f/Cagliari-Benevento-January-6-2021-Serie-A,1,2
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Bologna,1.0,1.6,Udinese,,Stadio Renato Dall'Ara,Giovanni Ayroldi,https://fbref.com/en/matches/9e79367d/Bologna-Udinese-January-6-2021-Serie-A,2,2
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Lazio,1.2,1.6,Fiorentina,,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/f4dedbff/Lazio-Fiorentina-January-6-2021-Serie-A,2,1
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Atalanta,1.7,0.0,Parma,,Stadio Atleti Azzurri d'Italia,Juan Sacchi,https://fbref.com/en/matches/17d4228c/Atalanta-Parma-January-6-2021-Serie-A,3,0
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Sampdoria,1.2,2.5,Inter,,Stadio Comunale Luigi Ferraris,Paolo Valeri,https://fbref.com/en/matches/e5caed3a/Sampdoria-Internazionale-January-6-2021-Serie-A,2,1
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Sassuolo,1.6,1.1,Genoa,,Stadio Città del Tricolore,Michael Fabbri,https://fbref.com/en/matches/43c9cc75/Sassuolo-Genoa-January-6-2021-Serie-A,2,1
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Crotone,0.8,2.2,Roma,,Stadio Ezio Scida,Marco Piccinini,https://fbref.com/en/matches/74933162/Crotone-Roma-January-6-2021-Serie-A,1,3
+SerieA,2020-2021,16,Wed,2021-01-06,15:00,Torino,1.4,0.4,Hellas Verona,,Stadio Olimpico di Torino,Marco Di Bello,https://fbref.com/en/matches/eb671bf1/Torino-Hellas-Verona-January-6-2021-Serie-A,1,1
+SerieA,2020-2021,16,Wed,2021-01-06,18:00,Napoli,3.6,2.0,Spezia,,Stadio San Paolo,Maurizio Mariani,https://fbref.com/en/matches/b5800971/Napoli-Spezia-January-6-2021-Serie-A,1,2
+SerieA,2020-2021,16,Wed,2021-01-06,20:45,Milan,1.3,1.7,Juventus,,Stadio Giuseppe Meazza,Massimiliano Irrati,https://fbref.com/en/matches/1c0d714a/Derby-dItalia-Milan-Juventus-January-6-2021-Serie-A,1,3
+SerieA,2020-2021,17,Sat,2021-01-09,15:00,Benevento,0.9,4.3,Atalanta,,Stadio Ciro Vigorito,Gianluca Manganiello,https://fbref.com/en/matches/6fd79a80/Benevento-Atalanta-January-9-2021-Serie-A,1,4
+SerieA,2020-2021,17,Sat,2021-01-09,18:00,Genoa,1.4,0.5,Bologna,,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/1d4dd956/Genoa-Bologna-January-9-2021-Serie-A,2,0
+SerieA,2020-2021,17,Sat,2021-01-09,20:45,Milan,1.6,0.6,Torino,,Stadio Giuseppe Meazza,Fabio Maresca,https://fbref.com/en/matches/20cfca5c/Milan-Torino-January-9-2021-Serie-A,2,0
+SerieA,2020-2021,17,Sun,2021-01-10,12:30,Roma,1.1,2.0,Inter,,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/fca08d02/Roma-Internazionale-January-10-2021-Serie-A,2,2
+SerieA,2020-2021,17,Sun,2021-01-10,15:00,Udinese,2.8,1.9,Napoli,,Dacia Arena,Fabrizio Pasqua,https://fbref.com/en/matches/3ecf5600/Udinese-Napoli-January-10-2021-Serie-A,1,2
+SerieA,2020-2021,17,Sun,2021-01-10,15:00,Parma,0.6,3.6,Lazio,,Stadio Ennio Tardini,Luca Pairetto,https://fbref.com/en/matches/ffaf26ec/Parma-Lazio-January-10-2021-Serie-A,0,2
+SerieA,2020-2021,17,Sun,2021-01-10,15:00,Hellas Verona,1.1,0.7,Crotone,,Stadio Marc'Antonio Bentegodi,Luca Massimi,https://fbref.com/en/matches/aadbce2e/Hellas-Verona-Crotone-January-10-2021-Serie-A,2,1
+SerieA,2020-2021,17,Sun,2021-01-10,18:00,Fiorentina,2.0,1.3,Cagliari,,Stadio Artemio Franchi,Piero Giacomelli,https://fbref.com/en/matches/c0ff856b/Fiorentina-Cagliari-January-10-2021-Serie-A,1,0
+SerieA,2020-2021,17,Sun,2021-01-10,20:45,Juventus,3.6,1.1,Sassuolo,,Allianz Stadium,Davide Massa,https://fbref.com/en/matches/44801875/Juventus-Sassuolo-January-10-2021-Serie-A,3,1
+SerieA,2020-2021,17,Mon,2021-01-11,20:45,Spezia,1.4,1.0,Sampdoria,,Stadio Dino Manuzzi,Marco Piccinini,https://fbref.com/en/matches/98db05a7/Spezia-Sampdoria-January-11-2021-Serie-A,2,1
+SerieA,2020-2021,18,Fri,2021-01-15,20:45,Lazio,1.0,1.3,Roma,,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/88aa48fa/Lazio-Roma-January-15-2021-Serie-A,3,0
+SerieA,2020-2021,18,Sat,2021-01-16,15:00,Bologna,1.8,0.9,Hellas Verona,,Stadio Renato Dall'Ara,Maurizio Mariani,https://fbref.com/en/matches/e958f63e/Bologna-Hellas-Verona-January-16-2021-Serie-A,1,0
+SerieA,2020-2021,18,Sat,2021-01-16,18:00,Torino,1.0,0.4,Spezia,,Stadio Olimpico di Torino,Michael Fabbri,https://fbref.com/en/matches/b1cc62a1/Torino-Spezia-January-16-2021-Serie-A,0,0
+SerieA,2020-2021,18,Sat,2021-01-16,20:45,Sampdoria,1.9,1.9,Udinese,,Stadio Comunale Luigi Ferraris,Juan Sacchi,https://fbref.com/en/matches/03eb2f20/Sampdoria-Udinese-January-16-2021-Serie-A,2,1
+SerieA,2020-2021,18,Sun,2021-01-17,12:30,Napoli,1.8,0.9,Fiorentina,,Stadio San Paolo,Daniele Chiffi,https://fbref.com/en/matches/fed096cc/Napoli-Fiorentina-January-17-2021-Serie-A,6,0
+SerieA,2020-2021,18,Sun,2021-01-17,15:00,Crotone,1.4,2.4,Benevento,,Stadio Ezio Scida,Simone Sozza,https://fbref.com/en/matches/e0f2e6fa/Crotone-Benevento-January-17-2021-Serie-A,4,1
+SerieA,2020-2021,18,Sun,2021-01-17,15:00,Sassuolo,1.8,0.9,Parma,,Stadio Città del Tricolore,Ivan Pezzuto,https://fbref.com/en/matches/1abc7190/Sassuolo-Parma-January-17-2021-Serie-A,1,1
+SerieA,2020-2021,18,Sun,2021-01-17,18:00,Atalanta,1.8,0.8,Genoa,,Stadio Atleti Azzurri d'Italia,Livio Marinelli,https://fbref.com/en/matches/0c2829db/Atalanta-Genoa-January-17-2021-Serie-A,0,0
+SerieA,2020-2021,18,Sun,2021-01-17,20:45,Inter,2.0,0.5,Juventus,,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/9f1e76e2/Internazionale-Juventus-January-17-2021-Serie-A,2,0
+SerieA,2020-2021,18,Mon,2021-01-18,20:45,Cagliari,1.2,2.0,Milan,,Sardegna Arena,Rosario Abisso,https://fbref.com/en/matches/7e73b874/Cagliari-Milan-January-18-2021-Serie-A,0,2
+SerieA,2020-2021,10,Wed,2021-01-20,15:00,Udinese,0.3,1.4,Atalanta,,Dacia Arena,Giampaolo Calvarese,https://fbref.com/en/matches/73e858c4/Udinese-Atalanta-January-20-2021-Serie-A,1,1
+SerieA,2020-2021,19,Fri,2021-01-22,20:45,Benevento,1.9,1.5,Torino,,Stadio Ciro Vigorito,Piero Giacomelli,https://fbref.com/en/matches/899e3324/Benevento-Torino-January-22-2021-Serie-A,2,2
+SerieA,2020-2021,19,Sat,2021-01-23,15:00,Roma,2.6,1.2,Spezia,,Stadio Olimpico,Luca Pairetto,https://fbref.com/en/matches/620ad368/Roma-Spezia-January-23-2021-Serie-A,4,3
+SerieA,2020-2021,19,Sat,2021-01-23,18:00,Milan,1.6,2.4,Atalanta,,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/a9bddb47/Milan-Atalanta-January-23-2021-Serie-A,0,3
+SerieA,2020-2021,19,Sat,2021-01-23,18:00,Udinese,0.5,0.8,Inter,,Dacia Arena,Fabio Maresca,https://fbref.com/en/matches/611d29c5/Udinese-Internazionale-January-23-2021-Serie-A,0,0
+SerieA,2020-2021,19,Sat,2021-01-23,20:45,Fiorentina,1.6,0.7,Crotone,,Stadio Artemio Franchi,Marco Piccinini,https://fbref.com/en/matches/3b4e31e1/Fiorentina-Crotone-January-23-2021-Serie-A,2,1
+SerieA,2020-2021,19,Sun,2021-01-24,12:30,Juventus,2.7,0.5,Bologna,,Allianz Stadium,Juan Sacchi,https://fbref.com/en/matches/b352906f/Juventus-Bologna-January-24-2021-Serie-A,2,0
+SerieA,2020-2021,19,Sun,2021-01-24,15:00,Genoa,1.9,1.1,Cagliari,,Stadio Comunale Luigi Ferraris,Marco Di Bello,https://fbref.com/en/matches/b36d3fe6/Genoa-Cagliari-January-24-2021-Serie-A,1,0
+SerieA,2020-2021,19,Sun,2021-01-24,15:00,Hellas Verona,1.7,0.9,Napoli,,Stadio Marc'Antonio Bentegodi,Michael Fabbri,https://fbref.com/en/matches/3f3078ab/Hellas-Verona-Napoli-January-24-2021-Serie-A,3,1
+SerieA,2020-2021,19,Sun,2021-01-24,18:00,Lazio,1.4,0.6,Sassuolo,,Stadio Olimpico,Antonio Giua,https://fbref.com/en/matches/63557942/Lazio-Sassuolo-January-24-2021-Serie-A,2,1
+SerieA,2020-2021,19,Sun,2021-01-24,20:45,Parma,0.8,1.3,Sampdoria,,Stadio Ennio Tardini,Gianluca Manganiello,https://fbref.com/en/matches/08f034fc/Parma-Sampdoria-January-24-2021-Serie-A,0,2
+SerieA,2020-2021,20,Fri,2021-01-29,20:45,Torino,2.1,1.3,Fiorentina,,Stadio Olimpico di Torino,Marco Di Bello,https://fbref.com/en/matches/8fcafae1/Torino-Fiorentina-January-29-2021-Serie-A,1,1
+SerieA,2020-2021,20,Sat,2021-01-30,15:00,Bologna,1.1,2.7,Milan,,Stadio Renato Dall'Ara,Daniele Doveri,https://fbref.com/en/matches/d5a77034/Bologna-Milan-January-30-2021-Serie-A,1,2
+SerieA,2020-2021,20,Sat,2021-01-30,18:00,Sampdoria,0.4,1.9,Juventus,,Stadio Comunale Luigi Ferraris,Michael Fabbri,https://fbref.com/en/matches/d934636d/Sampdoria-Juventus-January-30-2021-Serie-A,0,2
+SerieA,2020-2021,20,Sat,2021-01-30,20:45,Inter,1.6,0.0,Benevento,,Stadio Giuseppe Meazza,Fabrizio Pasqua,https://fbref.com/en/matches/f68d48b6/Internazionale-Benevento-January-30-2021-Serie-A,4,0
+SerieA,2020-2021,20,Sun,2021-01-31,12:30,Spezia,0.8,1.0,Udinese,,Stadio Dino Manuzzi,Antonio Di Martino,https://fbref.com/en/matches/396901a3/Spezia-Udinese-January-31-2021-Serie-A,0,1
+SerieA,2020-2021,20,Sun,2021-01-31,15:00,Atalanta,1.2,2.9,Lazio,,Stadio Atleti Azzurri d'Italia,Daniele Chiffi,https://fbref.com/en/matches/28af631e/Atalanta-Lazio-January-31-2021-Serie-A,1,3
+SerieA,2020-2021,20,Sun,2021-01-31,15:00,Crotone,0.6,1.0,Genoa,,Stadio Ezio Scida,Piero Giacomelli,https://fbref.com/en/matches/70b79e1d/Crotone-Genoa-January-31-2021-Serie-A,0,3
+SerieA,2020-2021,20,Sun,2021-01-31,15:00,Cagliari,0.7,1.7,Sassuolo,,Sardegna Arena,Maurizio Mariani,https://fbref.com/en/matches/1fca8ac2/Cagliari-Sassuolo-January-31-2021-Serie-A,1,1
+SerieA,2020-2021,20,Sun,2021-01-31,18:00,Napoli,0.7,0.2,Parma,,Stadio San Paolo,Federico La Penna,https://fbref.com/en/matches/2c868a79/Napoli-Parma-January-31-2021-Serie-A,2,0
+SerieA,2020-2021,20,Sun,2021-01-31,20:45,Roma,1.8,0.9,Hellas Verona,,Stadio Olimpico,Marco Piccinini,https://fbref.com/en/matches/60801f11/Roma-Hellas-Verona-January-31-2021-Serie-A,3,1
+SerieA,2020-2021,21,Fri,2021-02-05,20:45,Fiorentina,0.6,2.4,Inter,,Stadio Artemio Franchi,Federico La Penna,https://fbref.com/en/matches/54e27908/Fiorentina-Internazionale-February-5-2021-Serie-A,0,2
+SerieA,2020-2021,21,Sat,2021-02-06,15:00,Sassuolo,1.0,1.6,Spezia,,Stadio Città del Tricolore,Juan Sacchi,https://fbref.com/en/matches/8e965bce/Sassuolo-Spezia-February-6-2021-Serie-A,1,2
+SerieA,2020-2021,21,Sat,2021-02-06,15:00,Atalanta,1.7,2.8,Torino,,Stadio Atleti Azzurri d'Italia,Francesco Fourneau,https://fbref.com/en/matches/3eb9b409/Atalanta-Torino-February-6-2021-Serie-A,3,3
+SerieA,2020-2021,21,Sat,2021-02-06,18:00,Juventus,0.2,1.0,Roma,,Allianz Stadium,Daniele Orsato,https://fbref.com/en/matches/a35c9150/Juventus-Roma-February-6-2021-Serie-A,2,0
+SerieA,2020-2021,21,Sat,2021-02-06,20:45,Genoa,1.2,1.5,Napoli,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,https://fbref.com/en/matches/9d98d56a/Genoa-Napoli-February-6-2021-Serie-A,2,1
+SerieA,2020-2021,21,Sun,2021-02-07,12:30,Benevento,1.1,2.0,Sampdoria,,Stadio Ciro Vigorito,Gianluca Aureliano,https://fbref.com/en/matches/853c68d3/Benevento-Sampdoria-February-7-2021-Serie-A,1,1
+SerieA,2020-2021,21,Sun,2021-02-07,15:00,Milan,2.5,0.6,Crotone,,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/32d2f8ec/Milan-Crotone-February-7-2021-Serie-A,4,0
+SerieA,2020-2021,21,Sun,2021-02-07,15:00,Udinese,2.0,0.4,Hellas Verona,,Dacia Arena,Alberto Santoro,https://fbref.com/en/matches/440aefd4/Udinese-Hellas-Verona-February-7-2021-Serie-A,2,0
+SerieA,2020-2021,21,Sun,2021-02-07,18:00,Parma,1.1,1.5,Bologna,,Stadio Ennio Tardini,Marco Guida,https://fbref.com/en/matches/41af7da5/Parma-Bologna-February-7-2021-Serie-A,0,3
+SerieA,2020-2021,21,Sun,2021-02-07,20:45,Lazio,1.1,0.9,Cagliari,,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/5a88c8e6/Lazio-Cagliari-February-7-2021-Serie-A,1,0
+SerieA,2020-2021,22,Fri,2021-02-12,20:45,Bologna,1.8,1.1,Benevento,,Stadio Renato Dall'Ara,Davide Ghersini,https://fbref.com/en/matches/1480cba5/Bologna-Benevento-February-12-2021-Serie-A,1,1
+SerieA,2020-2021,22,Sat,2021-02-13,15:00,Torino,0.8,0.4,Genoa,,Stadio Olimpico di Torino,Fabrizio Pasqua,https://fbref.com/en/matches/23417b4f/Torino-Genoa-February-13-2021-Serie-A,0,0
+SerieA,2020-2021,22,Sat,2021-02-13,18:00,Napoli,1.0,1.7,Juventus,,Stadio San Paolo,Daniele Doveri,https://fbref.com/en/matches/bcbcda2a/Napoli-Juventus-February-13-2021-Serie-A,1,0
+SerieA,2020-2021,22,Sat,2021-02-13,20:45,Spezia,1.9,0.4,Milan,,Stadio Dino Manuzzi,Daniele Chiffi,https://fbref.com/en/matches/6a8f8283/Spezia-Milan-February-13-2021-Serie-A,2,0
+SerieA,2020-2021,22,Sun,2021-02-14,12:30,Roma,2.0,0.4,Udinese,,Stadio Olimpico,Piero Giacomelli,https://fbref.com/en/matches/a4ae010f/Roma-Udinese-February-14-2021-Serie-A,3,0
+SerieA,2020-2021,22,Sun,2021-02-14,15:00,Sampdoria,0.9,1.8,Fiorentina,,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/32b6852d/Sampdoria-Fiorentina-February-14-2021-Serie-A,2,1
+SerieA,2020-2021,22,Sun,2021-02-14,15:00,Cagliari,0.3,0.7,Atalanta,,Sardegna Arena,Marco Piccinini,https://fbref.com/en/matches/ee2d76d2/Cagliari-Atalanta-February-14-2021-Serie-A,0,1
+SerieA,2020-2021,22,Sun,2021-02-14,18:00,Crotone,0.7,2.7,Sassuolo,,Stadio Ezio Scida,Ivan Pezzuto,https://fbref.com/en/matches/7ad2759a/Crotone-Sassuolo-February-14-2021-Serie-A,1,2
+SerieA,2020-2021,22,Sun,2021-02-14,20:45,Inter,2.8,0.9,Lazio,,Stadio Giuseppe Meazza,Michael Fabbri,https://fbref.com/en/matches/41e36d40/Internazionale-Lazio-February-14-2021-Serie-A,3,1
+SerieA,2020-2021,22,Mon,2021-02-15,20:45,Hellas Verona,1.0,1.6,Parma,,Stadio Marc'Antonio Bentegodi,Luca Massimi,https://fbref.com/en/matches/56c143c0/Hellas-Verona-Parma-February-15-2021-Serie-A,2,1
+SerieA,2020-2021,23,Fri,2021-02-19,18:30,Fiorentina,2.6,0.6,Spezia,,Stadio Artemio Franchi,Giampaolo Calvarese,https://fbref.com/en/matches/04a08854/Fiorentina-Spezia-February-19-2021-Serie-A,3,0
+SerieA,2020-2021,23,Fri,2021-02-19,20:45,Cagliari,1.1,0.9,Torino,,Sardegna Arena,Daniele Orsato,https://fbref.com/en/matches/9cf96502/Cagliari-Torino-February-19-2021-Serie-A,0,1
+SerieA,2020-2021,23,Sat,2021-02-20,15:00,Lazio,1.4,0.6,Sampdoria,,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/931a8279/Lazio-Sampdoria-February-20-2021-Serie-A,1,0
+SerieA,2020-2021,23,Sat,2021-02-20,18:00,Genoa,1.1,1.5,Hellas Verona,,Stadio Comunale Luigi Ferraris,Matteo Marchetti,https://fbref.com/en/matches/03561585/Genoa-Hellas-Verona-February-20-2021-Serie-A,2,2
+SerieA,2020-2021,23,Sat,2021-02-20,20:45,Sassuolo,2.3,0.4,Bologna,,Stadio Città del Tricolore,Federico La Penna,https://fbref.com/en/matches/41043f0c/Sassuolo-Bologna-February-20-2021-Serie-A,1,1
+SerieA,2020-2021,23,Sun,2021-02-21,12:30,Parma,2.5,1.1,Udinese,,Stadio Ennio Tardini,Massimiliano Irrati,https://fbref.com/en/matches/507ed629/Parma-Udinese-February-21-2021-Serie-A,2,2
+SerieA,2020-2021,23,Sun,2021-02-21,15:00,Milan,1.0,2.3,Inter,,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/46bba2c0/Derby-della-Madonnina-Milan-Internazionale-February-21-2021-Serie-A,0,3
+SerieA,2020-2021,23,Sun,2021-02-21,18:00,Atalanta,2.2,0.5,Napoli,,Stadio Atleti Azzurri d'Italia,Marco Di Bello,https://fbref.com/en/matches/544ba273/Atalanta-Napoli-February-21-2021-Serie-A,4,2
+SerieA,2020-2021,23,Sun,2021-02-21,20:45,Benevento,0.3,1.0,Roma,,Stadio Ciro Vigorito,Luca Pairetto,https://fbref.com/en/matches/5e0dc1b3/Benevento-Roma-February-21-2021-Serie-A,0,0
+SerieA,2020-2021,23,Mon,2021-02-22,20:45,Juventus,4.4,0.8,Crotone,,Allianz Stadium,Valerio Marini,https://fbref.com/en/matches/75abc6dd/Juventus-Crotone-February-22-2021-Serie-A,3,0
+SerieA,2020-2021,24,Sat,2021-02-27,15:00,Spezia,1.8,1.3,Parma,,Stadio Dino Manuzzi,Daniele Orsato,https://fbref.com/en/matches/142b1316/Spezia-Parma-February-27-2021-Serie-A,2,2
+SerieA,2020-2021,24,Sat,2021-02-27,18:00,Bologna,1.3,2.3,Lazio,,Stadio Renato Dall'Ara,Piero Giacomelli,https://fbref.com/en/matches/140d5b2f/Bologna-Lazio-February-27-2021-Serie-A,2,0
+SerieA,2020-2021,24,Sat,2021-02-27,20:45,Hellas Verona,0.7,1.0,Juventus,,Stadio Marc'Antonio Bentegodi,Fabio Maresca,https://fbref.com/en/matches/fc6cf212/Hellas-Verona-Juventus-February-27-2021-Serie-A,1,1
+SerieA,2020-2021,24,Sun,2021-02-28,12:30,Sampdoria,0.5,1.9,Atalanta,,Stadio Comunale Luigi Ferraris,Livio Marinelli,https://fbref.com/en/matches/a66d936c/Sampdoria-Atalanta-February-28-2021-Serie-A,0,2
+SerieA,2020-2021,24,Sun,2021-02-28,15:00,Udinese,0.9,0.4,Fiorentina,,Dacia Arena,Manuel Volpi,https://fbref.com/en/matches/ea288496/Udinese-Fiorentina-February-28-2021-Serie-A,1,0
+SerieA,2020-2021,24,Sun,2021-02-28,15:00,Inter,2.2,0.2,Genoa,,Stadio Giuseppe Meazza,Daniele Chiffi,https://fbref.com/en/matches/38ba7e12/Internazionale-Genoa-February-28-2021-Serie-A,3,0
+SerieA,2020-2021,24,Sun,2021-02-28,15:00,Crotone,0.8,1.3,Cagliari,,Stadio Ezio Scida,Michael Fabbri,https://fbref.com/en/matches/2cc69894/Crotone-Cagliari-February-28-2021-Serie-A,0,2
+SerieA,2020-2021,24,Sun,2021-02-28,18:00,Napoli,2.0,0.3,Benevento,,Stadio San Paolo,Rosario Abisso,https://fbref.com/en/matches/bd99d043/Napoli-Benevento-February-28-2021-Serie-A,2,0
+SerieA,2020-2021,24,Sun,2021-02-28,20:45,Roma,2.0,3.2,Milan,,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/456108e4/Roma-Milan-February-28-2021-Serie-A,1,2
+SerieA,2020-2021,25,Tue,2021-03-02,20:45,Juventus,2.2,1.4,Spezia,,Allianz Stadium,Juan Sacchi,https://fbref.com/en/matches/962a1ed5/Juventus-Spezia-March-2-2021-Serie-A,3,0
+SerieA,2020-2021,25,Wed,2021-03-03,18:30,Sassuolo,2.6,2.4,Napoli,,Stadio Città del Tricolore,Valerio Marini,https://fbref.com/en/matches/351e076d/Sassuolo-Napoli-March-3-2021-Serie-A,3,3
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Atalanta,3.2,0.9,Crotone,,Stadio Atleti Azzurri d'Italia,Simone Sozza,https://fbref.com/en/matches/431a5a5f/Atalanta-Crotone-March-3-2021-Serie-A,5,1
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Benevento,0.4,2.1,Hellas Verona,,Stadio Ciro Vigorito,Giovanni Ayroldi,https://fbref.com/en/matches/a82caaff/Benevento-Hellas-Verona-March-3-2021-Serie-A,0,3
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Genoa,0.3,0.5,Sampdoria,,Stadio Comunale Luigi Ferraris,Luca Pairetto,https://fbref.com/en/matches/a8319b9b/Genoa-Sampdoria-March-3-2021-Serie-A,1,1
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Milan,1.3,0.6,Udinese,,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/c3faaff0/Milan-Udinese-March-3-2021-Serie-A,1,1
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Fiorentina,0.6,1.6,Roma,,Stadio Artemio Franchi,Giampaolo Calvarese,https://fbref.com/en/matches/a956b338/Fiorentina-Roma-March-3-2021-Serie-A,1,2
+SerieA,2020-2021,25,Wed,2021-03-03,20:45,Cagliari,1.1,0.8,Bologna,,Sardegna Arena,Marco Di Bello,https://fbref.com/en/matches/c8c9dbcd/Cagliari-Bologna-March-3-2021-Serie-A,1,0
+SerieA,2020-2021,25,Thu,2021-03-04,20:45,Parma,0.7,2.5,Inter,,Stadio Ennio Tardini,Fabrizio Pasqua,https://fbref.com/en/matches/6f5d661c/Parma-Internazionale-March-4-2021-Serie-A,1,2
+SerieA,2020-2021,26,Sat,2021-03-06,15:00,Spezia,1.1,0.5,Benevento,,Stadio Dino Manuzzi,Francesco Fourneau,https://fbref.com/en/matches/04a644e1/Spezia-Benevento-March-6-2021-Serie-A,1,1
+SerieA,2020-2021,26,Sat,2021-03-06,18:00,Udinese,1.4,0.7,Sassuolo,,Dacia Arena,Lorenzo Maggioni,https://fbref.com/en/matches/d358078b/Udinese-Sassuolo-March-6-2021-Serie-A,2,0
+SerieA,2020-2021,26,Sat,2021-03-06,20:45,Juventus,1.3,1.1,Lazio,,Allianz Stadium,Davide Massa,https://fbref.com/en/matches/10f3a5fa/Juventus-Lazio-March-6-2021-Serie-A,3,1
+SerieA,2020-2021,26,Sun,2021-03-07,12:30,Roma,1.2,0.2,Genoa,,Stadio Olimpico,Michael Fabbri,https://fbref.com/en/matches/906b9ce4/Roma-Genoa-March-7-2021-Serie-A,1,0
+SerieA,2020-2021,26,Sun,2021-03-07,15:00,Fiorentina,0.7,2.2,Parma,,Stadio Artemio Franchi,Rosario Abisso,https://fbref.com/en/matches/3caf9523/Fiorentina-Parma-March-7-2021-Serie-A,3,3
+SerieA,2020-2021,26,Sun,2021-03-07,15:00,Crotone,2.1,1.4,Torino,,Stadio Ezio Scida,Marco Guida,https://fbref.com/en/matches/7b1a7e36/Crotone-Torino-March-7-2021-Serie-A,4,2
+SerieA,2020-2021,26,Sun,2021-03-07,15:00,Hellas Verona,0.7,0.7,Milan,,Stadio Marc'Antonio Bentegodi,Daniele Orsato,https://fbref.com/en/matches/e521d168/Hellas-Verona-Milan-March-7-2021-Serie-A,0,2
+SerieA,2020-2021,26,Sun,2021-03-07,18:00,Sampdoria,0.8,0.8,Cagliari,,Stadio Comunale Luigi Ferraris,Piero Giacomelli,https://fbref.com/en/matches/67a2edc6/Sampdoria-Cagliari-March-7-2021-Serie-A,2,2
+SerieA,2020-2021,26,Sun,2021-03-07,20:45,Napoli,1.4,0.9,Bologna,,Stadio San Paolo,Daniele Chiffi,https://fbref.com/en/matches/c4ab7ddf/Napoli-Bologna-March-7-2021-Serie-A,3,1
+SerieA,2020-2021,26,Mon,2021-03-08,20:45,Inter,0.3,0.9,Atalanta,,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/69a9970e/Internazionale-Atalanta-March-8-2021-Serie-A,1,0
+SerieA,2020-2021,27,Fri,2021-03-12,15:00,Lazio,2.2,1.2,Crotone,,Stadio Olimpico,Antonio Rapuano,https://fbref.com/en/matches/c5e9737f/Lazio-Crotone-March-12-2021-Serie-A,3,2
+SerieA,2020-2021,27,Fri,2021-03-12,20:45,Atalanta,1.9,1.1,Spezia,,Stadio Atleti Azzurri d'Italia,Valerio Marini,https://fbref.com/en/matches/e1e63737/Atalanta-Spezia-March-12-2021-Serie-A,3,1
+SerieA,2020-2021,27,Sat,2021-03-13,15:00,Sassuolo,1.4,1.1,Hellas Verona,,Stadio Città del Tricolore,Alessandro Prontera,https://fbref.com/en/matches/1e46b9b1/Sassuolo-Hellas-Verona-March-13-2021-Serie-A,3,2
+SerieA,2020-2021,27,Sat,2021-03-13,18:00,Benevento,1.5,2.0,Fiorentina,,Stadio Ciro Vigorito,Piero Giacomelli,https://fbref.com/en/matches/f8a1df03/Benevento-Fiorentina-March-13-2021-Serie-A,1,4
+SerieA,2020-2021,27,Sat,2021-03-13,20:45,Genoa,1.0,1.5,Udinese,,Stadio Comunale Luigi Ferraris,Giacomo Camplone,https://fbref.com/en/matches/e002d4e8/Genoa-Udinese-March-13-2021-Serie-A,1,1
+SerieA,2020-2021,27,Sun,2021-03-14,12:30,Bologna,1.9,2.0,Sampdoria,,Stadio Renato Dall'Ara,Massimiliano Irrati,https://fbref.com/en/matches/e9f38abe/Bologna-Sampdoria-March-14-2021-Serie-A,3,1
+SerieA,2020-2021,27,Sun,2021-03-14,15:00,Torino,0.9,1.9,Inter,,Stadio Olimpico di Torino,Paolo Valeri,https://fbref.com/en/matches/6e12ea76/Torino-Internazionale-March-14-2021-Serie-A,1,2
+SerieA,2020-2021,27,Sun,2021-03-14,15:00,Parma,1.7,1.9,Roma,,Stadio Ennio Tardini,Marco Piccinini,https://fbref.com/en/matches/e05a120e/Parma-Roma-March-14-2021-Serie-A,2,0
+SerieA,2020-2021,27,Sun,2021-03-14,18:00,Cagliari,0.7,2.3,Juventus,,Sardegna Arena,Giampaolo Calvarese,https://fbref.com/en/matches/194fd887/Cagliari-Juventus-March-14-2021-Serie-A,1,3
+SerieA,2020-2021,27,Sun,2021-03-14,20:45,Milan,1.0,1.3,Napoli,,Stadio Giuseppe Meazza,Fabrizio Pasqua,https://fbref.com/en/matches/5b0eaf99/Milan-Napoli-March-14-2021-Serie-A,0,1
+SerieA,2020-2021,24,Wed,2021-03-17,15:00,Torino,2.3,1.0,Sassuolo,,Stadio Olimpico di Torino,Maurizio Mariani,https://fbref.com/en/matches/29a9edb0/Torino-Sassuolo-March-17-2021-Serie-A,3,2
+SerieA,2020-2021,28,Fri,2021-03-19,20:45,Parma,1.1,1.0,Genoa,,Stadio Ennio Tardini,Daniele Doveri,https://fbref.com/en/matches/d6a89f1a/Parma-Genoa-March-19-2021-Serie-A,1,2
+SerieA,2020-2021,28,Sat,2021-03-20,15:00,Crotone,1.8,3.2,Bologna,,Stadio Ezio Scida,Francesco Fourneau,https://fbref.com/en/matches/d9940b97/Crotone-Bologna-March-20-2021-Serie-A,2,3
+SerieA,2020-2021,28,Sat,2021-03-20,18:00,Spezia,1.0,2.5,Cagliari,,Stadio Dino Manuzzi,Maurizio Mariani,https://fbref.com/en/matches/fd31055b/Spezia-Cagliari-March-20-2021-Serie-A,2,1
+SerieA,2020-2021,28,Sun,2021-03-21,12:30,Hellas Verona,0.2,2.1,Atalanta,,Stadio Marc'Antonio Bentegodi,Luca Pairetto,https://fbref.com/en/matches/89228264/Hellas-Verona-Atalanta-March-21-2021-Serie-A,0,2
+SerieA,2020-2021,28,Sun,2021-03-21,15:00,Sampdoria,1.1,0.5,Torino,,Stadio Comunale Luigi Ferraris,Daniele Orsato,https://fbref.com/en/matches/a25c580b/Sampdoria-Torino-March-21-2021-Serie-A,1,0
+SerieA,2020-2021,28,Sun,2021-03-21,15:00,Juventus,1.8,0.3,Benevento,,Allianz Stadium,Rosario Abisso,https://fbref.com/en/matches/5220e231/Juventus-Benevento-March-21-2021-Serie-A,0,1
+SerieA,2020-2021,28,Sun,2021-03-21,15:00,Udinese,1.4,1.1,Lazio,,Dacia Arena,Fabio Maresca,https://fbref.com/en/matches/8b57f864/Udinese-Lazio-March-21-2021-Serie-A,0,1
+SerieA,2020-2021,28,Sun,2021-03-21,18:00,Fiorentina,0.2,1.7,Milan,,Stadio Artemio Franchi,Marco Guida,https://fbref.com/en/matches/07624790/Fiorentina-Milan-March-21-2021-Serie-A,2,3
+SerieA,2020-2021,28,Sun,2021-03-21,20:45,Roma,0.5,1.0,Napoli,,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/dd3d3041/Roma-Napoli-March-21-2021-Serie-A,0,2
+SerieA,2020-2021,29,Sat,2021-04-03,12:30,Milan,1.2,0.7,Sampdoria,,Stadio Giuseppe Meazza,Marco Piccinini,https://fbref.com/en/matches/b442d9c8/Milan-Sampdoria-April-3-2021-Serie-A,1,1
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Sassuolo,3.2,2.1,Roma,,Stadio Città del Tricolore,Luca Pairetto,https://fbref.com/en/matches/66cfafa8/Sassuolo-Roma-April-3-2021-Serie-A,2,2
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Cagliari,2.0,1.2,Hellas Verona,,Sardegna Arena,Daniele Doveri,https://fbref.com/en/matches/5f760f9f/Cagliari-Hellas-Verona-April-3-2021-Serie-A,0,2
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Atalanta,2.8,0.7,Udinese,,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello,https://fbref.com/en/matches/622f917c/Atalanta-Udinese-April-3-2021-Serie-A,3,2
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Benevento,1.0,1.8,Parma,,Stadio Ciro Vigorito,Davide Massa,https://fbref.com/en/matches/e6c8d095/Benevento-Parma-April-3-2021-Serie-A,2,2
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Lazio,2.1,0.7,Spezia,,Stadio Olimpico,Antonio Giua,https://fbref.com/en/matches/c5ac8b28/Lazio-Spezia-April-3-2021-Serie-A,2,1
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Napoli,2.8,1.2,Crotone,,Stadio San Paolo,Antonio Di Martino,https://fbref.com/en/matches/5e7b3f36/Napoli-Crotone-April-3-2021-Serie-A,4,3
+SerieA,2020-2021,29,Sat,2021-04-03,15:00,Genoa,0.7,0.7,Fiorentina,,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/b0dede3e/Genoa-Fiorentina-April-3-2021-Serie-A,1,1
+SerieA,2020-2021,29,Sat,2021-04-03,18:00,Torino,0.8,2.2,Juventus,,Stadio Olimpico di Torino,Michael Fabbri,https://fbref.com/en/matches/6b976e12/Torino-Juventus-April-3-2021-Serie-A,2,2
+SerieA,2020-2021,29,Sat,2021-04-03,20:45,Bologna,0.8,1.6,Inter,,Stadio Renato Dall'Ara,Piero Giacomelli,https://fbref.com/en/matches/36ce86ac/Bologna-Internazionale-April-3-2021-Serie-A,0,1
+SerieA,2020-2021,3,Wed,2021-04-07,18:45,Juventus,1.4,1.5,Napoli,,Allianz Stadium,Maurizio Mariani,https://fbref.com/en/matches/07109d8f/Juventus-Napoli-April-7-2021-Serie-A,2,1
+SerieA,2020-2021,28,Wed,2021-04-07,18:45,Inter,1.0,0.7,Sassuolo,,Stadio Giuseppe Meazza,Massimiliano Irrati,https://fbref.com/en/matches/c697420f/Internazionale-Sassuolo-April-7-2021-Serie-A,2,1
+SerieA,2020-2021,30,Sat,2021-04-10,15:00,Spezia,1.5,1.7,Crotone,,Stadio Dino Manuzzi,Simone Sozza,https://fbref.com/en/matches/69ea8c1b/Spezia-Crotone-April-10-2021-Serie-A,3,2
+SerieA,2020-2021,30,Sat,2021-04-10,18:00,Parma,1.1,1.2,Milan,,Stadio Ennio Tardini,Fabio Maresca,https://fbref.com/en/matches/d524d212/Parma-Milan-April-10-2021-Serie-A,1,3
+SerieA,2020-2021,30,Sat,2021-04-10,20:45,Udinese,1.5,1.5,Torino,,Dacia Arena,Daniele Doveri,https://fbref.com/en/matches/35941dd3/Udinese-Torino-April-10-2021-Serie-A,0,1
+SerieA,2020-2021,30,Sun,2021-04-11,12:30,Inter,1.3,0.5,Cagliari,,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/c50a199d/Internazionale-Cagliari-April-11-2021-Serie-A,1,0
+SerieA,2020-2021,30,Sun,2021-04-11,15:00,Juventus,2.3,1.1,Genoa,,Allianz Stadium,Marco Di Bello,https://fbref.com/en/matches/73a99fba/Juventus-Genoa-April-11-2021-Serie-A,3,1
+SerieA,2020-2021,30,Sun,2021-04-11,15:00,Sampdoria,1.0,1.9,Napoli,,Stadio Comunale Luigi Ferraris,Paolo Valeri,https://fbref.com/en/matches/0e507824/Sampdoria-Napoli-April-11-2021-Serie-A,0,2
+SerieA,2020-2021,30,Sun,2021-04-11,15:00,Hellas Verona,0.2,0.7,Lazio,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,https://fbref.com/en/matches/7230fd32/Hellas-Verona-Lazio-April-11-2021-Serie-A,0,1
+SerieA,2020-2021,30,Sun,2021-04-11,18:00,Roma,1.6,1.4,Bologna,,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/cd82b9fa/Roma-Bologna-April-11-2021-Serie-A,1,0
+SerieA,2020-2021,30,Sun,2021-04-11,20:45,Fiorentina,1.3,2.5,Atalanta,,Stadio Artemio Franchi,Juan Sacchi,https://fbref.com/en/matches/a3bcdb71/Fiorentina-Atalanta-April-11-2021-Serie-A,2,3
+SerieA,2020-2021,30,Mon,2021-04-12,20:45,Benevento,0.7,1.8,Sassuolo,,Stadio Ciro Vigorito,Valerio Marini,https://fbref.com/en/matches/39d2406b/Benevento-Sassuolo-April-12-2021-Serie-A,0,1
+SerieA,2020-2021,31,Sat,2021-04-17,15:00,Sampdoria,1.8,1.5,Hellas Verona,,Stadio Comunale Luigi Ferraris,Federico Dionisi,https://fbref.com/en/matches/074cc08b/Sampdoria-Hellas-Verona-April-17-2021-Serie-A,3,1
+SerieA,2020-2021,31,Sat,2021-04-17,15:00,Crotone,1.2,0.9,Udinese,,Stadio Ezio Scida,Luca Massimi,https://fbref.com/en/matches/bf71bd8a/Crotone-Udinese-April-17-2021-Serie-A,1,2
+SerieA,2020-2021,31,Sat,2021-04-17,18:00,Sassuolo,2.1,0.7,Fiorentina,,Stadio Città del Tricolore,Gianluca Aureliano,https://fbref.com/en/matches/dec7a70c/Sassuolo-Fiorentina-April-17-2021-Serie-A,3,1
+SerieA,2020-2021,31,Sat,2021-04-17,20:45,Cagliari,1.6,1.3,Parma,,Sardegna Arena,Paolo Valeri,https://fbref.com/en/matches/a6e56289/Cagliari-Parma-April-17-2021-Serie-A,4,3
+SerieA,2020-2021,31,Sun,2021-04-18,12:30,Milan,1.2,1.0,Genoa,,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/ab91fa34/Milan-Genoa-April-18-2021-Serie-A,2,1
+SerieA,2020-2021,31,Sun,2021-04-18,15:00,Bologna,3.5,0.6,Spezia,,Stadio Renato Dall'Ara,Marco Piccinini,https://fbref.com/en/matches/3868521e/Bologna-Spezia-April-18-2021-Serie-A,4,1
+SerieA,2020-2021,31,Sun,2021-04-18,15:00,Atalanta,0.7,1.2,Juventus,,Stadio Atleti Azzurri d'Italia,Daniele Orsato,https://fbref.com/en/matches/1d15b3c8/Atalanta-Juventus-April-18-2021-Serie-A,1,0
+SerieA,2020-2021,31,Sun,2021-04-18,15:00,Lazio,3.7,1.6,Benevento,,Stadio Olimpico,Davide Ghersini,https://fbref.com/en/matches/776cb976/Lazio-Benevento-April-18-2021-Serie-A,5,3
+SerieA,2020-2021,31,Sun,2021-04-18,18:00,Torino,3.7,1.5,Roma,,Stadio Olimpico di Torino,Davide Massa,https://fbref.com/en/matches/d2f68b73/Torino-Roma-April-18-2021-Serie-A,3,1
+SerieA,2020-2021,31,Sun,2021-04-18,20:45,Napoli,0.7,0.9,Inter,,Stadio San Paolo,Daniele Doveri,https://fbref.com/en/matches/3cb0281b/Napoli-Internazionale-April-18-2021-Serie-A,1,1
+SerieA,2020-2021,32,Tue,2021-04-20,20:45,Hellas Verona,0.8,1.2,Fiorentina,,Stadio Marc'Antonio Bentegodi,Alessandro Prontera,https://fbref.com/en/matches/8af95a26/Hellas-Verona-Fiorentina-April-20-2021-Serie-A,1,2
+SerieA,2020-2021,32,Wed,2021-04-21,18:30,Milan,1.3,1.9,Sassuolo,,Stadio Giuseppe Meazza,Juan Sacchi,https://fbref.com/en/matches/24bbd9bb/Milan-Sassuolo-April-21-2021-Serie-A,1,2
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Juventus,2.1,1.1,Parma,,Allianz Stadium,Piero Giacomelli,https://fbref.com/en/matches/f27d2f16/Juventus-Parma-April-21-2021-Serie-A,3,1
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Genoa,1.2,1.0,Benevento,,Stadio Comunale Luigi Ferraris,Luca Pairetto,https://fbref.com/en/matches/6d56961f/Genoa-Benevento-April-21-2021-Serie-A,2,2
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Spezia,0.0,2.5,Inter,,Stadio Dino Manuzzi,Daniele Chiffi,https://fbref.com/en/matches/b146d7f8/Spezia-Internazionale-April-21-2021-Serie-A,1,1
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Udinese,0.9,1.6,Cagliari,,Dacia Arena,Marco Guida,https://fbref.com/en/matches/daf10d8f/Udinese-Cagliari-April-21-2021-Serie-A,0,1
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Crotone,0.7,1.9,Sampdoria,,Stadio Ezio Scida,Daniele Paterna,https://fbref.com/en/matches/274dac9a/Crotone-Sampdoria-April-21-2021-Serie-A,0,1
+SerieA,2020-2021,32,Wed,2021-04-21,20:45,Bologna,0.4,2.0,Torino,,Stadio Renato Dall'Ara,Valerio Marini,https://fbref.com/en/matches/0332b891/Bologna-Torino-April-21-2021-Serie-A,1,1
+SerieA,2020-2021,32,Thu,2021-04-22,18:30,Roma,1.0,2.8,Atalanta,,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/f57c8510/Roma-Atalanta-April-22-2021-Serie-A,1,1
+SerieA,2020-2021,32,Thu,2021-04-22,20:45,Napoli,1.5,1.7,Lazio,,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/754b4ecd/Napoli-Lazio-April-22-2021-Serie-A,5,2
+SerieA,2020-2021,33,Sat,2021-04-24,15:00,Genoa,1.7,0.6,Spezia,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,https://fbref.com/en/matches/a7c2b8b7/Genoa-Spezia-April-24-2021-Serie-A,2,0
+SerieA,2020-2021,33,Sat,2021-04-24,18:00,Parma,1.6,2.6,Crotone,,Stadio Ennio Tardini,Antonio Rapuano,https://fbref.com/en/matches/03fe0915/Parma-Crotone-April-24-2021-Serie-A,3,4
+SerieA,2020-2021,33,Sat,2021-04-24,20:45,Sassuolo,1.4,1.5,Sampdoria,,Stadio Città del Tricolore,Matteo Gariglio,https://fbref.com/en/matches/6c97d0e1/Sassuolo-Sampdoria-April-24-2021-Serie-A,1,0
+SerieA,2020-2021,33,Sun,2021-04-25,12:30,Benevento,2.7,1.1,Udinese,,Stadio Ciro Vigorito,Maurizio Mariani,https://fbref.com/en/matches/a67b34df/Benevento-Udinese-April-25-2021-Serie-A,2,4
+SerieA,2020-2021,33,Sun,2021-04-25,15:00,Fiorentina,1.3,1.1,Juventus,,Stadio Artemio Franchi,Davide Massa,https://fbref.com/en/matches/75688c51/Fiorentina-Juventus-April-25-2021-Serie-A,1,1
+SerieA,2020-2021,33,Sun,2021-04-25,15:00,Inter,1.1,1.0,Hellas Verona,,Stadio Giuseppe Meazza,Rosario Abisso,https://fbref.com/en/matches/584c1b77/Internazionale-Hellas-Verona-April-25-2021-Serie-A,1,0
+SerieA,2020-2021,33,Sun,2021-04-25,18:00,Cagliari,1.1,1.7,Roma,,Sardegna Arena,Massimiliano Irrati,https://fbref.com/en/matches/71d115c5/Cagliari-Roma-April-25-2021-Serie-A,3,2
+SerieA,2020-2021,33,Sun,2021-04-25,20:45,Atalanta,4.2,0.8,Bologna,,Stadio Atleti Azzurri d'Italia,Michael Fabbri,https://fbref.com/en/matches/33b047f3/Atalanta-Bologna-April-25-2021-Serie-A,5,0
+SerieA,2020-2021,33,Mon,2021-04-26,18:30,Torino,0.9,2.6,Napoli,,Stadio Olimpico di Torino,Paolo Valeri,https://fbref.com/en/matches/ab8e85cc/Torino-Napoli-April-26-2021-Serie-A,0,2
+SerieA,2020-2021,33,Mon,2021-04-26,20:45,Lazio,1.9,1.5,Milan,,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/f4eeb9e2/Lazio-Milan-April-26-2021-Serie-A,3,0
+SerieA,2020-2021,34,Sat,2021-05-01,15:00,Hellas Verona,,,Spezia,,Stadio Marc'Antonio Bentegodi,,Head-to-Head,,
+SerieA,2020-2021,34,Sat,2021-05-01,18:00,Crotone,,,Inter,,Stadio Ezio Scida,,Head-to-Head,,
+SerieA,2020-2021,34,Sat,2021-05-01,20:45,Milan,,,Benevento,,Stadio Giuseppe Meazza,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,12:30,Lazio,,,Genoa,,Stadio Olimpico,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,15:00,Napoli,,,Cagliari,,Stadio San Paolo,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,15:00,Sassuolo,,,Atalanta,,Stadio Città del Tricolore,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,15:00,Bologna,,,Fiorentina,,Stadio Renato Dall'Ara,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,18:00,Udinese,,,Juventus,,Dacia Arena,,Head-to-Head,,
+SerieA,2020-2021,34,Sun,2021-05-02,20:45,Sampdoria,,,Roma,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,
+SerieA,2020-2021,34,Mon,2021-05-03,20:45,Torino,,,Parma,,Stadio Olimpico di Torino,,Head-to-Head,,
+SerieA,2020-2021,35,Sat,2021-05-08,15:00,Spezia,,,Napoli,,Stadio Dino Manuzzi,,Head-to-Head,,
+SerieA,2020-2021,35,Sat,2021-05-08,15:00,Udinese,,,Bologna,,Dacia Arena,,Head-to-Head,,
+SerieA,2020-2021,35,Sat,2021-05-08,18:00,Inter,,,Sampdoria,,Stadio Giuseppe Meazza,,Head-to-Head,,
+SerieA,2020-2021,35,Sat,2021-05-08,20:45,Fiorentina,,,Lazio,,Stadio Artemio Franchi,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,12:30,Genoa,,,Sassuolo,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,15:00,Parma,,,Atalanta,,Stadio Ennio Tardini,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,15:00,Benevento,,,Cagliari,,Stadio Ciro Vigorito,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,15:00,Hellas Verona,,,Torino,,Stadio Marc'Antonio Bentegodi,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,18:00,Roma,,,Crotone,,Stadio Olimpico,,Head-to-Head,,
+SerieA,2020-2021,35,Sun,2021-05-09,20:45,Juventus,,,Milan,,Allianz Stadium,,Head-to-Head,,
+SerieA,2020-2021,36,Tue,2021-05-11,20:45,Napoli,,,Udinese,,Stadio San Paolo,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,18:30,Cagliari,,,Fiorentina,,Sardegna Arena,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Inter,,,Roma,,Stadio Giuseppe Meazza,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Atalanta,,,Benevento,,Stadio Atleti Azzurri d'Italia,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Sampdoria,,,Spezia,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Torino,,,Milan,,Stadio Olimpico di Torino,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Sassuolo,,,Juventus,,Stadio Città del Tricolore,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Lazio,,,Parma,,Stadio Olimpico,,Head-to-Head,,
+SerieA,2020-2021,36,Wed,2021-05-12,20:45,Bologna,,,Genoa,,Stadio Renato Dall'Ara,,Head-to-Head,,
+SerieA,2020-2021,36,Thu,2021-05-13,20:45,Crotone,,,Hellas Verona,,Stadio Ezio Scida,,Head-to-Head,,
+SerieA,2020-2021,37,Sat,2021-05-15,15:00,Genoa,,,Atalanta,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,
+SerieA,2020-2021,37,Sat,2021-05-15,15:00,Spezia,,,Torino,,Stadio Dino Manuzzi,,Head-to-Head,,
+SerieA,2020-2021,37,Sat,2021-05-15,18:00,Juventus,,,Inter,,Allianz Stadium,,Head-to-Head,,
+SerieA,2020-2021,37,Sat,2021-05-15,20:45,Roma,,,Lazio,,Stadio Olimpico,,Head-to-Head,,
+SerieA,2020-2021,37,Sun,2021-05-16,12:30,Fiorentina,,,Napoli,,Stadio Artemio Franchi,,Head-to-Head,,
+SerieA,2020-2021,37,Sun,2021-05-16,15:00,Udinese,,,Sampdoria,,Dacia Arena,,Head-to-Head,,
+SerieA,2020-2021,37,Sun,2021-05-16,15:00,Benevento,,,Crotone,,Stadio Ciro Vigorito,,Head-to-Head,,
+SerieA,2020-2021,37,Sun,2021-05-16,18:00,Parma,,,Sassuolo,,Stadio Ennio Tardini,,Head-to-Head,,
+SerieA,2020-2021,37,Sun,2021-05-16,20:45,Milan,,,Cagliari,,Stadio Giuseppe Meazza,,Head-to-Head,,
+SerieA,2020-2021,37,Mon,2021-05-17,20:45,Hellas Verona,,,Bologna,,Stadio Marc'Antonio Bentegodi,,Head-to-Head,,
+SerieA,2020-2021,25,Tue,2021-05-18,20:30,Lazio,,,Torino,,Stadio Olimpico,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Sassuolo,,,Lazio,,Stadio Città del Tricolore,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Napoli,,,Hellas Verona,,Stadio San Paolo,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Torino,,,Benevento,,Stadio Olimpico di Torino,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Crotone,,,Fiorentina,,Stadio Ezio Scida,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Inter,,,Udinese,,Stadio Giuseppe Meazza,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Cagliari,,,Genoa,,Sardegna Arena,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Sampdoria,,,Parma,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Atalanta,,,Milan,,Stadio Atleti Azzurri d'Italia,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Bologna,,,Juventus,,Stadio Renato Dall'Ara,,Head-to-Head,,
+SerieA,2020-2021,38,Sun,2021-05-23,,Spezia,,,Roma,,Stadio Dino Manuzzi,,Head-to-Head,,

@@ -1,381 +1,381 @@
-League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,HomeScore,AwayScore
-EPL,2018-2019,1,Fri,2018-08-10,20:00,Manchester Utd,1.6,1.1,Leicester City,74439,Old Trafford,Andre Marriner,2,1
-EPL,2018-2019,1,Sat,2018-08-11,12:30,Newcastle Utd,0.8,1.7,Tottenham,51749,St. James' Park,Martin Atkinson,1,2
-EPL,2018-2019,1,Sat,2018-08-11,15:00,Watford,1.5,0.3,Brighton,20051,Vicarage Road Stadium,Jonathan Moss,2,0
-EPL,2018-2019,1,Sat,2018-08-11,15:00,Huddersfield,0.6,1.9,Chelsea,24121,The John Smith's Stadium,Chris Kavanagh,0,3
-EPL,2018-2019,1,Sat,2018-08-11,15:00,Bournemouth,2.2,1.4,Cardiff City,10353,Vitality Stadium,Kevin Friend,2,0
-EPL,2018-2019,1,Sat,2018-08-11,15:00,Fulham,0.7,0.8,Crystal Palace,24821,Craven Cottage,Mike Dean,0,2
-EPL,2018-2019,1,Sat,2018-08-11,17:30,Wolves,0.7,0.7,Everton,31231,Molineux Stadium,Craig Pawson,2,2
-EPL,2018-2019,1,Sun,2018-08-12,13:30,Southampton,1.0,1.2,Burnley,30784,St. Mary's Stadium,Graham Scott,0,0
-EPL,2018-2019,1,Sun,2018-08-12,13:30,Liverpool,3.5,0.8,West Ham,53235,Anfield,Anthony Taylor,4,0
-EPL,2018-2019,1,Sun,2018-08-12,16:00,Arsenal,0.4,1.7,Manchester City,59934,Emirates Stadium,Michael Oliver,0,2
-EPL,2018-2019,2,Sat,2018-08-18,12:30,Cardiff City,1.1,1.4,Newcastle Utd,30720,Cardiff City Stadium,Craig Pawson,0,0
-EPL,2018-2019,2,Sat,2018-08-18,15:00,Everton,1.4,1.6,Southampton,38601,Goodison Park,Lee Mason,2,1
-EPL,2018-2019,2,Sat,2018-08-18,15:00,West Ham,1.2,1.8,Bournemouth,56888,London Stadium,Stuart Attwell,1,2
-EPL,2018-2019,2,Sat,2018-08-18,15:00,Leicester City,0.2,1.2,Wolves,32043,King Power Stadium,Mike Dean,2,0
-EPL,2018-2019,2,Sat,2018-08-18,15:00,Tottenham,2.9,1.5,Fulham,58297,Wembley Stadium,Anthony Taylor,3,1
-EPL,2018-2019,2,Sat,2018-08-18,17:30,Chelsea,2.3,2.1,Arsenal,40491,Stamford Bridge,Martin Atkinson,3,2
-EPL,2018-2019,2,Sun,2018-08-19,13:30,Manchester City,3.4,0.7,Huddersfield,54021,Etihad Stadium,Andre Marriner,6,1
-EPL,2018-2019,2,Sun,2018-08-19,13:30,Burnley,0.4,1.5,Watford,18822,Turf Moor,Paul Tierney,1,3
-EPL,2018-2019,2,Sun,2018-08-19,16:00,Brighton,1.8,1.4,Manchester Utd,30592,The American Express Community Stadium,Kevin Friend,3,2
-EPL,2018-2019,2,Mon,2018-08-20,20:00,Crystal Palace,0.4,2.6,Liverpool,25750,Selhurst Park,Michael Oliver,0,2
-EPL,2018-2019,3,Sat,2018-08-25,12:30,Wolves,0.9,1.8,Manchester City,31322,Molineux Stadium,Martin Atkinson,1,1
-EPL,2018-2019,3,Sat,2018-08-25,15:00,Southampton,0.6,0.5,Leicester City,29925,St. Mary's Stadium,Jonathan Moss,1,2
-EPL,2018-2019,3,Sat,2018-08-25,15:00,Arsenal,1.7,1.4,West Ham,59830,Emirates Stadium,Graham Scott,3,1
-EPL,2018-2019,3,Sat,2018-08-25,15:00,Bournemouth,2.6,0.5,Everton,10654,Vitality Stadium,Lee Probert,2,2
-EPL,2018-2019,3,Sat,2018-08-25,15:00,Huddersfield,0.3,1.3,Cardiff City,21193,The John Smith's Stadium,Michael Oliver,0,0
-EPL,2018-2019,3,Sat,2018-08-25,17:30,Liverpool,1.5,0.5,Brighton,53294,Anfield,Chris Kavanagh,1,0
-EPL,2018-2019,3,Sun,2018-08-26,13:30,Watford,0.9,1.1,Crystal Palace,20014,Vicarage Road Stadium,Anthony Taylor,2,1
-EPL,2018-2019,3,Sun,2018-08-26,16:00,Newcastle Utd,0.3,1.5,Chelsea,51791,St. James' Park,Paul Tierney,1,2
-EPL,2018-2019,3,Sun,2018-08-26,16:00,Fulham,1.9,1.5,Burnley,23438,Craven Cottage,David Coote,4,2
-EPL,2018-2019,3,Mon,2018-08-27,20:00,Manchester Utd,2.1,1.1,Tottenham,74400,Old Trafford,Craig Pawson,0,3
-EPL,2018-2019,4,Sat,2018-09-01,12:30,Leicester City,1.0,1.2,Liverpool,32149,King Power Stadium,Paul Tierney,1,2
-EPL,2018-2019,4,Sat,2018-09-01,15:00,Crystal Palace,1.9,2.5,Southampton,25495,Selhurst Park,Martin Atkinson,0,2
-EPL,2018-2019,4,Sat,2018-09-01,15:00,Brighton,3.1,1.3,Fulham,30526,The American Express Community Stadium,Lee Probert,2,2
-EPL,2018-2019,4,Sat,2018-09-01,15:00,Chelsea,1.4,0.9,Bournemouth,40178,Stamford Bridge,Lee Mason,2,0
-EPL,2018-2019,4,Sat,2018-09-01,15:00,West Ham,1.2,1.6,Wolves,56947,London Stadium,Chris Kavanagh,0,1
-EPL,2018-2019,4,Sat,2018-09-01,15:00,Everton,0.7,0.6,Huddersfield,38767,Goodison Park,Stuart Attwell,1,1
-EPL,2018-2019,4,Sat,2018-09-01,17:30,Manchester City,2.3,0.6,Newcastle Utd,53946,Etihad Stadium,Kevin Friend,2,1
-EPL,2018-2019,4,Sun,2018-09-02,13:30,Cardiff City,1.6,1.6,Arsenal,32316,Cardiff City Stadium,Anthony Taylor,2,3
-EPL,2018-2019,4,Sun,2018-09-02,16:00,Watford,0.5,0.7,Tottenham,20141,Vicarage Road Stadium,Andre Marriner,2,1
-EPL,2018-2019,4,Sun,2018-09-02,16:00,Burnley,0.7,3.3,Manchester Utd,21525,Turf Moor,Jonathan Moss,0,2
-EPL,2018-2019,5,Sat,2018-09-15,12:30,Tottenham,1.0,2.5,Liverpool,80188,Wembley Stadium,Michael Oliver,1,2
-EPL,2018-2019,5,Sat,2018-09-15,15:00,Manchester City,4.4,0.3,Fulham,53307,Etihad Stadium,Stuart Attwell,3,0
-EPL,2018-2019,5,Sat,2018-09-15,15:00,Bournemouth,1.7,2.0,Leicester City,10543,Vitality Stadium,Craig Pawson,4,2
-EPL,2018-2019,5,Sat,2018-09-15,15:00,Newcastle Utd,0.3,0.7,Arsenal,52165,St. James' Park,Lee Probert,1,2
-EPL,2018-2019,5,Sat,2018-09-15,15:00,Chelsea,2.3,0.8,Cardiff City,40499,Stamford Bridge,Jonathan Moss,4,1
-EPL,2018-2019,5,Sat,2018-09-15,15:00,Huddersfield,1.0,1.1,Crystal Palace,23696,The John Smith's Stadium,Lee Mason,0,1
-EPL,2018-2019,5,Sat,2018-09-15,17:30,Watford,1.1,1.3,Manchester Utd,20537,Vicarage Road Stadium,Mike Dean,1,2
-EPL,2018-2019,5,Sun,2018-09-16,13:30,Wolves,3.4,0.3,Burnley,30406,Molineux Stadium,Andre Marriner,1,0
-EPL,2018-2019,5,Sun,2018-09-16,16:00,Everton,1.4,1.3,West Ham,39161,Goodison Park,Martin Atkinson,1,3
-EPL,2018-2019,5,Mon,2018-09-17,20:00,Southampton,1.7,2.1,Brighton,28811,St. Mary's Stadium,Anthony Taylor,2,2
-EPL,2018-2019,6,Sat,2018-09-22,12:30,Fulham,1.4,1.6,Watford,23418,Craven Cottage,Martin Atkinson,1,1
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Burnley,1.9,1.3,Bournemouth,18636,Turf Moor,Anthony Taylor,4,0
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Cardiff City,0.1,2.5,Manchester City,32321,Cardiff City Stadium,Michael Oliver,0,5
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Leicester City,1.4,0.6,Huddersfield,31676,King Power Stadium,David Coote,3,1
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Liverpool,2.5,0.3,Southampton,50965,Anfield,Paul Tierney,3,0
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Crystal Palace,1.4,0.5,Newcastle Utd,25679,Selhurst Park,Andre Marriner,0,0
-EPL,2018-2019,6,Sat,2018-09-22,15:00,Manchester Utd,0.8,0.9,Wolves,74489,Old Trafford,Kevin Friend,1,1
-EPL,2018-2019,6,Sat,2018-09-22,17:30,Brighton,0.8,2.0,Tottenham,30531,The American Express Community Stadium,Chris Kavanagh,1,2
-EPL,2018-2019,6,Sun,2018-09-23,13:30,West Ham,0.8,1.7,Chelsea,56875,London Stadium,Mike Dean,0,0
-EPL,2018-2019,6,Sun,2018-09-23,16:00,Arsenal,1.0,1.0,Everton,59964,Emirates Stadium,Jonathan Moss,2,0
-EPL,2018-2019,7,Sat,2018-09-29,12:30,West Ham,1.2,0.4,Manchester Utd,56938,London Stadium,Michael Oliver,3,1
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Huddersfield,0.4,2.0,Tottenham,23885,The John Smith's Stadium,Craig Pawson,0,2
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Everton,2.1,0.8,Fulham,38788,Goodison Park,Roger East,3,0
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Arsenal,1.2,1.7,Watford,60019,Emirates Stadium,Anthony Taylor,2,0
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Newcastle Utd,0.3,1.3,Leicester City,51523,St. James' Park,Simon Hooper,0,2
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Manchester City,2.8,0.4,Brighton,54152,Etihad Stadium,Lee Mason,2,0
-EPL,2018-2019,7,Sat,2018-09-29,15:00,Wolves,1.3,1.1,Southampton,31147,Molineux Stadium,Stuart Attwell,2,0
-EPL,2018-2019,7,Sat,2018-09-29,17:30,Chelsea,1.3,1.3,Liverpool,40625,Stamford Bridge,Andre Marriner,1,1
-EPL,2018-2019,7,Sun,2018-09-30,16:00,Cardiff City,1.4,0.3,Burnley,30411,Cardiff City Stadium,Martin Atkinson,1,2
-EPL,2018-2019,7,Mon,2018-10-01,20:00,Bournemouth,1.8,0.6,Crystal Palace,10199,Vitality Stadium,Mike Dean,2,1
-EPL,2018-2019,8,Fri,2018-10-05,20:00,Brighton,1.1,1.1,West Ham,30544,The American Express Community Stadium,Kevin Friend,1,0
-EPL,2018-2019,8,Sat,2018-10-06,15:00,Watford,0.8,2.1,Bournemouth,20139,Vicarage Road Stadium,Jonathan Moss,0,4
-EPL,2018-2019,8,Sat,2018-10-06,15:00,Crystal Palace,1.1,1.0,Wolves,25715,Selhurst Park,Michael Oliver,0,1
-EPL,2018-2019,8,Sat,2018-10-06,15:00,Burnley,0.5,1.3,Huddersfield,20533,Turf Moor,Chris Kavanagh,1,1
-EPL,2018-2019,8,Sat,2018-10-06,15:00,Leicester City,1.0,1.1,Everton,32007,King Power Stadium,Andre Marriner,1,2
-EPL,2018-2019,8,Sat,2018-10-06,15:00,Tottenham,1.8,1.0,Cardiff City,43268,Wembley Stadium,Mike Dean,1,0
-EPL,2018-2019,8,Sat,2018-10-06,17:30,Manchester Utd,1.9,1.7,Newcastle Utd,74519,Old Trafford,Anthony Taylor,3,2
-EPL,2018-2019,8,Sun,2018-10-07,12:00,Fulham,1.2,1.3,Arsenal,25401,Craven Cottage,Paul Tierney,1,5
-EPL,2018-2019,8,Sun,2018-10-07,14:15,Southampton,1.1,2.7,Chelsea,27077,St. Mary's Stadium,Craig Pawson,0,3
-EPL,2018-2019,8,Sun,2018-10-07,16:30,Liverpool,0.5,1.0,Manchester City,52117,Anfield,Martin Atkinson,0,0
-EPL,2018-2019,9,Sat,2018-10-20,12:30,Chelsea,1.8,0.8,Manchester Utd,40721,Stamford Bridge,Mike Dean,2,2
-EPL,2018-2019,9,Sat,2018-10-20,15:00,West Ham,1.0,1.1,Tottenham,56921,London Stadium,Martin Atkinson,0,1
-EPL,2018-2019,9,Sat,2018-10-20,15:00,Newcastle Utd,1.7,0.5,Brighton,50329,St. James' Park,Andre Marriner,0,1
-EPL,2018-2019,9,Sat,2018-10-20,15:00,Wolves,0.7,0.8,Watford,31144,Molineux Stadium,Lee Mason,0,2
-EPL,2018-2019,9,Sat,2018-10-20,15:00,Manchester City,3.4,0.4,Burnley,54094,Etihad Stadium,Jonathan Moss,5,0
-EPL,2018-2019,9,Sat,2018-10-20,15:00,Bournemouth,0.3,0.4,Southampton,10986,Vitality Stadium,Lee Probert,0,0
-EPL,2018-2019,9,Sat,2018-10-20,15:00,Cardiff City,2.0,0.7,Fulham,29681,Cardiff City Stadium,Kevin Friend,4,2
-EPL,2018-2019,9,Sat,2018-10-20,17:30,Huddersfield,0.9,0.8,Liverpool,24263,The John Smith's Stadium,Michael Oliver,0,1
-EPL,2018-2019,9,Sun,2018-10-21,16:00,Everton,1.6,1.1,Crystal Palace,38668,Goodison Park,Anthony Taylor,2,0
-EPL,2018-2019,9,Mon,2018-10-22,20:00,Arsenal,3.0,0.7,Leicester City,59886,Emirates Stadium,Chris Kavanagh,3,1
-EPL,2018-2019,10,Sat,2018-10-27,15:00,Fulham,0.5,1.8,Bournemouth,25071,Craven Cottage,Andre Marriner,0,3
-EPL,2018-2019,10,Sat,2018-10-27,15:00,Liverpool,2.1,0.5,Cardiff City,53373,Anfield,Stuart Attwell,4,1
-EPL,2018-2019,10,Sat,2018-10-27,15:00,Southampton,1.4,0.3,Newcastle Utd,30736,St. Mary's Stadium,Chris Kavanagh,0,0
-EPL,2018-2019,10,Sat,2018-10-27,15:00,Brighton,0.6,1.4,Wolves,30654,The American Express Community Stadium,Anthony Taylor,1,0
-EPL,2018-2019,10,Sat,2018-10-27,15:00,Watford,1.7,0.6,Huddersfield,20457,Vicarage Road Stadium,Mike Dean,3,0
-EPL,2018-2019,10,Sat,2018-10-27,17:30,Leicester City,1.7,1.5,West Ham,31848,King Power Stadium,Michael Oliver,1,1
-EPL,2018-2019,10,Sun,2018-10-28,13:30,Crystal Palace,2.2,0.6,Arsenal,25718,Selhurst Park,Martin Atkinson,2,2
-EPL,2018-2019,10,Sun,2018-10-28,13:30,Burnley,0.7,3.0,Chelsea,21430,Turf Moor,Craig Pawson,0,4
-EPL,2018-2019,10,Sun,2018-10-28,16:00,Manchester Utd,1.9,1.8,Everton,74525,Old Trafford,Jonathan Moss,2,1
-EPL,2018-2019,10,Mon,2018-10-29,20:00,Tottenham,0.6,1.2,Manchester City,56854,Wembley Stadium,Kevin Friend,0,1
-EPL,2018-2019,11,Sat,2018-11-03,12:30,Bournemouth,3.0,3.1,Manchester Utd,10792,Vitality Stadium,Paul Tierney,1,2
-EPL,2018-2019,11,Sat,2018-11-03,15:00,West Ham,2.6,0.6,Burnley,56862,London Stadium,Roger East,4,2
-EPL,2018-2019,11,Sat,2018-11-03,15:00,Cardiff City,1.0,1.7,Leicester City,30877,Cardiff City Stadium,Lee Probert,0,1
-EPL,2018-2019,11,Sat,2018-11-03,15:00,Everton,2.3,0.3,Brighton,38966,Goodison Park,David Coote,3,1
-EPL,2018-2019,11,Sat,2018-11-03,15:00,Newcastle Utd,0.7,2.0,Watford,49157,St. James' Park,Craig Pawson,1,0
-EPL,2018-2019,11,Sat,2018-11-03,17:30,Arsenal,1.4,1.5,Liverpool,59993,Emirates Stadium,Andre Marriner,1,1
-EPL,2018-2019,11,Sat,2018-11-03,19:45,Wolves,2.6,1.3,Tottenham,31185,Molineux Stadium,Mike Dean,2,3
-EPL,2018-2019,11,Sun,2018-11-04,15:00,Manchester City,2.3,2.0,Southampton,53916,Etihad Stadium,Lee Mason,6,1
-EPL,2018-2019,11,Sun,2018-11-04,16:00,Chelsea,1.6,0.6,Crystal Palace,40407,Stamford Bridge,Michael Oliver,3,1
-EPL,2018-2019,11,Mon,2018-11-05,20:00,Huddersfield,0.6,0.5,Fulham,17082,The John Smith's Stadium,Anthony Taylor,1,0
-EPL,2018-2019,12,Sat,2018-11-10,12:30,Cardiff City,1.8,0.6,Brighton,29402,Cardiff City Stadium,Martin Atkinson,2,1
-EPL,2018-2019,12,Sat,2018-11-10,15:00,Newcastle Utd,1.9,1.5,Bournemouth,49266,St. James' Park,Lee Probert,2,1
-EPL,2018-2019,12,Sat,2018-11-10,15:00,Leicester City,1.7,0.5,Burnley,32184,King Power Stadium,Mike Dean,0,0
-EPL,2018-2019,12,Sat,2018-11-10,15:00,Huddersfield,1.3,2.2,West Ham,24069,The John Smith's Stadium,Chris Kavanagh,1,1
-EPL,2018-2019,12,Sat,2018-11-10,15:00,Southampton,0.9,1.2,Watford,28153,St. Mary's Stadium,Simon Hooper,1,1
-EPL,2018-2019,12,Sat,2018-11-10,17:30,Crystal Palace,0.7,0.9,Tottenham,25685,Selhurst Park,Jonathan Moss,0,1
-EPL,2018-2019,12,Sun,2018-11-11,12:00,Liverpool,2.2,0.7,Fulham,53128,Anfield,Paul Tierney,2,0
-EPL,2018-2019,12,Sun,2018-11-11,14:15,Chelsea,1.0,0.3,Everton,40345,Stamford Bridge,Kevin Friend,0,0
-EPL,2018-2019,12,Sun,2018-11-11,16:30,Manchester City,1.6,1.0,Manchester Utd,54316,Etihad Stadium,Anthony Taylor,3,1
-EPL,2018-2019,12,Sun,2018-11-11,16:30,Arsenal,1.4,1.8,Wolves,60030,Emirates Stadium,Stuart Attwell,1,1
-EPL,2018-2019,13,Sat,2018-11-24,15:00,Fulham,1.3,2.0,Southampton,24603,Craven Cottage,Michael Oliver,3,2
-EPL,2018-2019,13,Sat,2018-11-24,15:00,Everton,1.9,0.6,Cardiff City,39139,Goodison Park,Paul Tierney,1,0
-EPL,2018-2019,13,Sat,2018-11-24,15:00,Manchester Utd,1.4,1.4,Crystal Palace,74516,Old Trafford,Lee Mason,0,0
-EPL,2018-2019,13,Sat,2018-11-24,15:00,Brighton,1.1,1.1,Leicester City,30553,The American Express Community Stadium,Chris Kavanagh,1,1
-EPL,2018-2019,13,Sat,2018-11-24,15:00,Watford,0.3,1.1,Liverpool,20540,Vicarage Road Stadium,Jonathan Moss,0,3
-EPL,2018-2019,13,Sat,2018-11-24,15:00,West Ham,0.8,2.3,Manchester City,56886,London Stadium,Andre Marriner,0,4
-EPL,2018-2019,13,Sat,2018-11-24,17:30,Tottenham,2.7,1.1,Chelsea,55465,Wembley Stadium,Martin Atkinson,3,1
-EPL,2018-2019,13,Sun,2018-11-25,13:30,Bournemouth,0.9,1.7,Arsenal,10792,Vitality Stadium,Craig Pawson,1,2
-EPL,2018-2019,13,Sun,2018-11-25,16:00,Wolves,0.8,0.7,Huddersfield,30130,Molineux Stadium,Kevin Friend,0,2
-EPL,2018-2019,13,Mon,2018-11-26,20:30,Burnley,1.5,1.7,Newcastle Utd,20628,Turf Moor,Anthony Taylor,1,2
-EPL,2018-2019,14,Fri,2018-11-30,20:00,Cardiff City,0.6,1.0,Wolves,30213,Cardiff City Stadium,Andre Marriner,2,1
-EPL,2018-2019,14,Sat,2018-12-01,15:00,Manchester City,1.9,0.6,Bournemouth,54409,Etihad Stadium,Stuart Attwell,3,1
-EPL,2018-2019,14,Sat,2018-12-01,15:00,Leicester City,1.1,1.2,Watford,31353,King Power Stadium,Graham Scott,2,0
-EPL,2018-2019,14,Sat,2018-12-01,15:00,Huddersfield,0.5,1.1,Brighton,22973,The John Smith's Stadium,Michael Oliver,1,2
-EPL,2018-2019,14,Sat,2018-12-01,15:00,Newcastle Utd,1.1,1.5,West Ham,51853,St. James' Park,Paul Tierney,0,3
-EPL,2018-2019,14,Sat,2018-12-01,15:00,Crystal Palace,2.1,0.6,Burnley,25098,Selhurst Park,Lee Probert,2,0
-EPL,2018-2019,14,Sat,2018-12-01,17:30,Southampton,0.5,1.4,Manchester Utd,30187,St. Mary's Stadium,Kevin Friend,2,2
-EPL,2018-2019,14,Sun,2018-12-02,12:00,Chelsea,1.6,0.3,Fulham,40551,Stamford Bridge,Craig Pawson,2,0
-EPL,2018-2019,14,Sun,2018-12-02,14:05,Arsenal,2.5,1.1,Tottenham,59973,Emirates Stadium,Mike Dean,4,2
-EPL,2018-2019,14,Sun,2018-12-02,16:15,Liverpool,2.7,1.2,Everton,51756,Anfield,Chris Kavanagh,1,0
-EPL,2018-2019,15,Tue,2018-12-04,19:45,West Ham,1.7,2.0,Cardiff City,56811,London Stadium,Graham Scott,3,1
-EPL,2018-2019,15,Tue,2018-12-04,19:45,Bournemouth,0.7,2.0,Huddersfield,9980,Vitality Stadium,Roger East,2,1
-EPL,2018-2019,15,Tue,2018-12-04,19:45,Brighton,1.1,1.8,Crystal Palace,29663,The American Express Community Stadium,Kevin Friend,3,1
-EPL,2018-2019,15,Tue,2018-12-04,20:00,Watford,1.5,2.5,Manchester City,20389,Vicarage Road Stadium,Paul Tierney,1,2
-EPL,2018-2019,15,Wed,2018-12-05,19:45,Fulham,1.9,1.9,Leicester City,22881,Craven Cottage,David Coote,1,1
-EPL,2018-2019,15,Wed,2018-12-05,19:45,Wolves,1.1,1.3,Chelsea,31300,Molineux Stadium,Jonathan Moss,2,1
-EPL,2018-2019,15,Wed,2018-12-05,19:45,Burnley,1.1,2.5,Liverpool,21741,Turf Moor,Stuart Attwell,1,3
-EPL,2018-2019,15,Wed,2018-12-05,19:45,Everton,1.6,1.1,Newcastle Utd,39350,Goodison Park,Lee Mason,1,1
-EPL,2018-2019,15,Wed,2018-12-05,20:00,Tottenham,1.5,2.1,Southampton,33012,Wembley Stadium,Anthony Taylor,3,1
-EPL,2018-2019,15,Wed,2018-12-05,20:00,Manchester Utd,1.1,1.0,Arsenal,74507,Old Trafford,Andre Marriner,2,2
-EPL,2018-2019,16,Sat,2018-12-08,12:30,Bournemouth,0.6,1.7,Liverpool,10752,Vitality Stadium,Lee Mason,0,4
-EPL,2018-2019,16,Sat,2018-12-08,15:00,Burnley,1.7,0.7,Brighton,18497,Turf Moor,Martin Atkinson,1,0
-EPL,2018-2019,16,Sat,2018-12-08,15:00,Cardiff City,1.8,0.7,Southampton,30067,Cardiff City Stadium,Jonathan Moss,1,0
-EPL,2018-2019,16,Sat,2018-12-08,15:00,Manchester Utd,2.1,1.1,Fulham,74523,Old Trafford,Lee Probert,4,1
-EPL,2018-2019,16,Sat,2018-12-08,15:00,West Ham,1.7,1.1,Crystal Palace,56995,London Stadium,Anthony Taylor,3,2
-EPL,2018-2019,16,Sat,2018-12-08,15:00,Arsenal,1.7,0.3,Huddersfield,59893,Emirates Stadium,Paul Tierney,1,0
-EPL,2018-2019,16,Sat,2018-12-08,17:30,Chelsea,0.6,1.3,Manchester City,40571,Stamford Bridge,Michael Oliver,2,0
-EPL,2018-2019,16,Sat,2018-12-08,19:45,Leicester City,0.3,0.5,Tottenham,31957,King Power Stadium,Craig Pawson,0,2
-EPL,2018-2019,16,Sun,2018-12-09,16:00,Newcastle Utd,0.4,1.8,Wolves,50223,St. James' Park,Mike Dean,1,2
-EPL,2018-2019,16,Mon,2018-12-10,20:00,Everton,1.4,1.2,Watford,38400,Goodison Park,Kevin Friend,2,2
-EPL,2018-2019,17,Sat,2018-12-15,12:30,Manchester City,1.0,1.1,Everton,54173,Etihad Stadium,Craig Pawson,3,1
-EPL,2018-2019,17,Sat,2018-12-15,15:00,Huddersfield,0.7,1.3,Newcastle Utd,24036,The John Smith's Stadium,Anthony Taylor,0,1
-EPL,2018-2019,17,Sat,2018-12-15,15:00,Wolves,2.0,0.7,Bournemouth,30997,Molineux Stadium,Simon Hooper,2,0
-EPL,2018-2019,17,Sat,2018-12-15,15:00,Watford,2.1,0.8,Cardiff City,20032,Vicarage Road Stadium,Andy Madley,3,2
-EPL,2018-2019,17,Sat,2018-12-15,15:00,Crystal Palace,0.3,1.1,Leicester City,24738,Selhurst Park,Michael Oliver,1,0
-EPL,2018-2019,17,Sat,2018-12-15,15:00,Tottenham,1.6,0.3,Burnley,41645,Wembley Stadium,Graham Scott,1,0
-EPL,2018-2019,17,Sat,2018-12-15,17:30,Fulham,1.1,0.8,West Ham,24081,Craven Cottage,Mike Dean,0,2
-EPL,2018-2019,17,Sun,2018-12-16,13:30,Brighton,0.4,1.6,Chelsea,30645,The American Express Community Stadium,Stuart Attwell,1,2
-EPL,2018-2019,17,Sun,2018-12-16,13:30,Southampton,0.7,1.5,Arsenal,29497,St. Mary's Stadium,Chris Kavanagh,3,2
-EPL,2018-2019,17,Sun,2018-12-16,16:00,Liverpool,2.5,0.6,Manchester Utd,52908,Anfield,Martin Atkinson,3,1
-EPL,2018-2019,18,Fri,2018-12-21,20:00,Wolves,1.1,1.3,Liverpool,31358,Molineux Stadium,Craig Pawson,0,2
-EPL,2018-2019,18,Sat,2018-12-22,12:30,Arsenal,1.3,0.9,Burnley,59493,Emirates Stadium,Kevin Friend,3,1
-EPL,2018-2019,18,Sat,2018-12-22,15:00,West Ham,2.2,2.3,Watford,56833,London Stadium,Lee Mason,0,2
-EPL,2018-2019,18,Sat,2018-12-22,15:00,Manchester City,1.1,0.9,Crystal Palace,54340,Etihad Stadium,Andre Marriner,2,3
-EPL,2018-2019,18,Sat,2018-12-22,15:00,Chelsea,1.6,0.7,Leicester City,40558,Stamford Bridge,Lee Probert,0,1
-EPL,2018-2019,18,Sat,2018-12-22,15:00,Newcastle Utd,0.3,0.6,Fulham,51237,St. James' Park,Martin Atkinson,0,0
-EPL,2018-2019,18,Sat,2018-12-22,15:00,Bournemouth,0.9,0.8,Brighton,10491,Vitality Stadium,Mike Dean,2,0
-EPL,2018-2019,18,Sat,2018-12-22,15:00,Huddersfield,0.8,2.6,Southampton,22384,The John Smith's Stadium,Stuart Attwell,1,3
-EPL,2018-2019,18,Sat,2018-12-22,17:30,Cardiff City,1.2,2.6,Manchester Utd,33028,Cardiff City Stadium,Michael Oliver,1,5
-EPL,2018-2019,18,Sun,2018-12-23,16:00,Everton,0.9,3.2,Tottenham,39319,Goodison Park,Paul Tierney,2,6
-EPL,2018-2019,19,Wed,2018-12-26,12:30,Fulham,1.1,1.4,Wolves,24382,Craven Cottage,Andre Marriner,1,1
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Leicester City,1.7,1.7,Manchester City,32090,King Power Stadium,Mike Dean,2,1
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Crystal Palace,2.6,0.8,Cardiff City,25206,Selhurst Park,Lee Probert,0,0
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Tottenham,1.8,1.6,Bournemouth,45154,Wembley Stadium,Chris Kavanagh,5,0
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Manchester Utd,1.4,1.2,Huddersfield,74523,Old Trafford,Jonathan Moss,3,1
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Burnley,1.5,2.1,Everton,21484,Turf Moor,Michael Oliver,1,5
-EPL,2018-2019,19,Wed,2018-12-26,15:00,Liverpool,2.9,0.7,Newcastle Utd,53318,Anfield,Graham Scott,4,0
-EPL,2018-2019,19,Wed,2018-12-26,17:15,Brighton,1.7,0.5,Arsenal,30608,The American Express Community Stadium,Anthony Taylor,1,1
-EPL,2018-2019,19,Wed,2018-12-26,19:30,Watford,0.8,2.5,Chelsea,20415,Vicarage Road Stadium,Martin Atkinson,1,2
-EPL,2018-2019,19,Thu,2018-12-27,19:45,Southampton,1.3,1.6,West Ham,31654,St. Mary's Stadium,Craig Pawson,1,2
-EPL,2018-2019,20,Sat,2018-12-29,15:00,Brighton,1.2,0.7,Everton,30597,The American Express Community Stadium,Andy Madley,1,0
-EPL,2018-2019,20,Sat,2018-12-29,15:00,Leicester City,1.6,0.7,Cardiff City,32047,King Power Stadium,Simon Hooper,0,1
-EPL,2018-2019,20,Sat,2018-12-29,15:00,Tottenham,0.3,0.8,Wolves,46356,Wembley Stadium,Stuart Attwell,1,3
-EPL,2018-2019,20,Sat,2018-12-29,15:00,Watford,1.1,0.5,Newcastle Utd,20336,Vicarage Road Stadium,Roger East,1,1
-EPL,2018-2019,20,Sat,2018-12-29,15:00,Fulham,2.2,0.3,Huddersfield,24423,Craven Cottage,Kevin Friend,1,0
-EPL,2018-2019,20,Sat,2018-12-29,17:30,Liverpool,4.1,1.3,Arsenal,53326,Anfield,Michael Oliver,5,1
-EPL,2018-2019,20,Sun,2018-12-30,12:00,Crystal Palace,0.2,0.6,Chelsea,25781,Selhurst Park,Craig Pawson,0,1
-EPL,2018-2019,20,Sun,2018-12-30,14:15,Burnley,2.3,0.5,West Ham,20933,Turf Moor,David Coote,2,0
-EPL,2018-2019,20,Sun,2018-12-30,14:15,Southampton,0.4,2.6,Manchester City,31381,St. Mary's Stadium,Paul Tierney,1,3
-EPL,2018-2019,20,Sun,2018-12-30,16:30,Manchester Utd,2.0,0.5,Bournemouth,74556,Old Trafford,Lee Mason,4,1
-EPL,2018-2019,21,Tue,2019-01-01,12:30,Everton,0.9,0.7,Leicester City,39052,Goodison Park,Martin Atkinson,0,1
-EPL,2018-2019,21,Tue,2019-01-01,15:00,Arsenal,3.2,1.4,Fulham,59887,Emirates Stadium,Graham Scott,4,1
-EPL,2018-2019,21,Tue,2019-01-01,17:30,Cardiff City,0.5,1.5,Tottenham,32485,Cardiff City Stadium,Kevin Friend,0,3
-EPL,2018-2019,21,Wed,2019-01-02,19:45,West Ham,1.2,0.5,Brighton,59870,London Stadium,Chris Kavanagh,2,2
-EPL,2018-2019,21,Wed,2019-01-02,19:45,Chelsea,1.2,0.2,Southampton,40668,Stamford Bridge,Jonathan Moss,0,0
-EPL,2018-2019,21,Wed,2019-01-02,19:45,Wolves,0.7,1.8,Crystal Palace,30666,Molineux Stadium,Roger East,0,2
-EPL,2018-2019,21,Wed,2019-01-02,19:45,Huddersfield,0.8,2.5,Burnley,23715,The John Smith's Stadium,Mike Dean,1,2
-EPL,2018-2019,21,Wed,2019-01-02,19:45,Bournemouth,2.3,0.7,Watford,10261,Vitality Stadium,David Coote,3,3
-EPL,2018-2019,21,Wed,2019-01-02,20:00,Newcastle Utd,1.0,2.4,Manchester Utd,52217,St. James' Park,Andre Marriner,0,2
-EPL,2018-2019,21,Thu,2019-01-03,20:00,Manchester City,0.8,1.7,Liverpool,54511,Etihad Stadium,Anthony Taylor,2,1
-EPL,2018-2019,22,Sat,2019-01-12,12:30,West Ham,1.0,0.8,Arsenal,59946,London Stadium,Jonathan Moss,1,0
-EPL,2018-2019,22,Sat,2019-01-12,15:00,Brighton,0.5,2.1,Liverpool,30682,The American Express Community Stadium,Kevin Friend,0,1
-EPL,2018-2019,22,Sat,2019-01-12,15:00,Burnley,0.6,0.7,Fulham,19316,Turf Moor,Martin Atkinson,2,1
-EPL,2018-2019,22,Sat,2019-01-12,15:00,Leicester City,1.5,1.2,Southampton,31491,King Power Stadium,Michael Oliver,1,2
-EPL,2018-2019,22,Sat,2019-01-12,15:00,Cardiff City,0.1,0.5,Huddersfield,30725,Cardiff City Stadium,Lee Mason,0,0
-EPL,2018-2019,22,Sat,2019-01-12,15:00,Crystal Palace,1.2,1.4,Watford,25010,Selhurst Park,Paul Tierney,1,2
-EPL,2018-2019,22,Sat,2019-01-12,17:30,Chelsea,1.6,0.6,Newcastle Utd,40491,Stamford Bridge,Chris Kavanagh,2,1
-EPL,2018-2019,22,Sun,2019-01-13,14:15,Everton,1.2,1.5,Bournemouth,38113,Goodison Park,Anthony Taylor,2,0
-EPL,2018-2019,22,Sun,2019-01-13,16:30,Tottenham,2.0,1.2,Manchester Utd,80062,Wembley Stadium,Mike Dean,0,1
-EPL,2018-2019,22,Mon,2019-01-14,20:00,Manchester City,2.6,0.1,Wolves,54171,Etihad Stadium,Craig Pawson,3,0
-EPL,2018-2019,23,Sat,2019-01-19,12:30,Wolves,1.5,1.3,Leicester City,31278,Molineux Stadium,Chris Kavanagh,4,3
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Watford,0.8,1.2,Burnley,19510,Vicarage Road Stadium,Michael Oliver,0,0
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Manchester Utd,2.2,0.6,Brighton,74532,Old Trafford,Paul Tierney,2,1
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Liverpool,2.5,0.7,Crystal Palace,53171,Anfield,Jonathan Moss,4,3
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Southampton,1.2,0.8,Everton,29989,St. Mary's Stadium,Graham Scott,2,1
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Bournemouth,1.3,1.0,West Ham,10495,Vitality Stadium,Simon Hooper,2,0
-EPL,2018-2019,23,Sat,2019-01-19,15:00,Newcastle Utd,2.1,0.2,Cardiff City,49864,St. James' Park,Stuart Attwell,3,0
-EPL,2018-2019,23,Sat,2019-01-19,17:30,Arsenal,1.6,1.1,Chelsea,59979,Emirates Stadium,Anthony Taylor,2,0
-EPL,2018-2019,23,Sun,2019-01-20,13:30,Huddersfield,0.5,2.2,Manchester City,24190,The John Smith's Stadium,Andre Marriner,0,3
-EPL,2018-2019,23,Sun,2019-01-20,16:00,Fulham,0.9,1.2,Tottenham,24807,Craven Cottage,Craig Pawson,1,2
-EPL,2018-2019,24,Tue,2019-01-29,19:45,Wolves,2.2,0.1,West Ham,31122,Molineux Stadium,David Coote,3,0
-EPL,2018-2019,24,Tue,2019-01-29,19:45,Fulham,2.0,1.4,Brighton,22008,Craven Cottage,Lee Probert,4,2
-EPL,2018-2019,24,Tue,2019-01-29,19:45,Huddersfield,0.5,1.0,Everton,23699,The John Smith's Stadium,Stuart Attwell,0,1
-EPL,2018-2019,24,Tue,2019-01-29,19:45,Arsenal,1.9,0.9,Cardiff City,59933,Emirates Stadium,Mike Dean,2,1
-EPL,2018-2019,24,Tue,2019-01-29,20:00,Newcastle Utd,1.0,1.5,Manchester City,50861,St. James' Park,Paul Tierney,2,1
-EPL,2018-2019,24,Tue,2019-01-29,20:00,Manchester Utd,3.1,0.7,Burnley,74529,Old Trafford,Jonathan Moss,2,2
-EPL,2018-2019,24,Wed,2019-01-30,19:45,Bournemouth,1.7,0.7,Chelsea,10227,Vitality Stadium,Roger East,4,0
-EPL,2018-2019,24,Wed,2019-01-30,19:45,Southampton,1.0,1.2,Crystal Palace,28339,St. Mary's Stadium,Andre Marriner,1,1
-EPL,2018-2019,24,Wed,2019-01-30,20:00,Tottenham,1.5,0.6,Watford,29164,Wembley Stadium,Graham Scott,2,1
-EPL,2018-2019,24,Wed,2019-01-30,20:00,Liverpool,0.5,0.8,Leicester City,53092,Anfield,Martin Atkinson,1,1
-EPL,2018-2019,25,Sat,2019-02-02,12:30,Tottenham,2.4,0.5,Newcastle Utd,41219,Wembley Stadium,Andre Marriner,1,0
-EPL,2018-2019,25,Sat,2019-02-02,15:00,Burnley,2.3,1.1,Southampton,19787,Turf Moor,Anthony Taylor,1,1
-EPL,2018-2019,25,Sat,2019-02-02,15:00,Brighton,1.7,0.3,Watford,30414,The American Express Community Stadium,Simon Hooper,0,0
-EPL,2018-2019,25,Sat,2019-02-02,15:00,Crystal Palace,2.1,0.6,Fulham,25355,Selhurst Park,Michael Oliver,2,0
-EPL,2018-2019,25,Sat,2019-02-02,15:00,Everton,0.8,1.5,Wolves,39380,Goodison Park,Lee Mason,1,3
-EPL,2018-2019,25,Sat,2019-02-02,15:00,Chelsea,2.9,0.3,Huddersfield,40626,Stamford Bridge,Paul Tierney,5,0
-EPL,2018-2019,25,Sat,2019-02-02,17:30,Cardiff City,2.3,0.5,Bournemouth,31939,Cardiff City Stadium,Jonathan Moss,2,0
-EPL,2018-2019,25,Sun,2019-02-03,14:05,Leicester City,1.5,1.3,Manchester Utd,32148,King Power Stadium,Mike Dean,0,1
-EPL,2018-2019,25,Sun,2019-02-03,16:30,Manchester City,3.2,0.8,Arsenal,54483,Etihad Stadium,Martin Atkinson,3,1
-EPL,2018-2019,25,Mon,2019-02-04,20:00,West Ham,0.8,1.3,Liverpool,59903,London Stadium,Kevin Friend,1,1
-EPL,2018-2019,27,Wed,2019-02-06,19:45,Everton,0.1,2.4,Manchester City,39322,Goodison Park,Craig Pawson,0,2
-EPL,2018-2019,26,Sat,2019-02-09,12:30,Fulham,1.4,1.7,Manchester Utd,25001,Craven Cottage,Paul Tierney,0,3
-EPL,2018-2019,26,Sat,2019-02-09,15:00,Southampton,1.5,0.6,Cardiff City,31438,St. Mary's Stadium,Martin Atkinson,1,2
-EPL,2018-2019,26,Sat,2019-02-09,15:00,Huddersfield,1.2,2.0,Arsenal,24182,The John Smith's Stadium,Jonathan Moss,1,2
-EPL,2018-2019,26,Sat,2019-02-09,15:00,Watford,1.6,0.7,Everton,20333,Vicarage Road Stadium,Lee Probert,1,0
-EPL,2018-2019,26,Sat,2019-02-09,15:00,Liverpool,2.0,0.4,Bournemouth,53178,Anfield,Anthony Taylor,3,0
-EPL,2018-2019,26,Sat,2019-02-09,15:00,Crystal Palace,2.5,1.5,West Ham,25552,Selhurst Park,Craig Pawson,1,1
-EPL,2018-2019,26,Sat,2019-02-09,17:30,Brighton,1.1,2.2,Burnley,29323,The American Express Community Stadium,Stuart Attwell,1,3
-EPL,2018-2019,26,Sun,2019-02-10,13:30,Tottenham,1.1,2.5,Leicester City,44154,Wembley Stadium,Michael Oliver,3,1
-EPL,2018-2019,26,Sun,2019-02-10,16:00,Manchester City,3.1,0.9,Chelsea,54452,Etihad Stadium,Mike Dean,6,0
-EPL,2018-2019,26,Mon,2019-02-11,20:00,Wolves,1.9,0.7,Newcastle Utd,30687,Molineux Stadium,Graham Scott,1,1
-EPL,2018-2019,27,Fri,2019-02-22,19:45,Cardiff City,1.2,2.8,Watford,30387,Cardiff City Stadium,Simon Hooper,1,5
-EPL,2018-2019,27,Fri,2019-02-22,19:45,West Ham,1.4,1.3,Fulham,59950,London Stadium,Lee Mason,3,1
-EPL,2018-2019,27,Sat,2019-02-23,12:30,Burnley,1.3,0.9,Tottenham,21338,Turf Moor,Mike Dean,2,1
-EPL,2018-2019,27,Sat,2019-02-23,15:00,Newcastle Utd,3.3,0.2,Huddersfield,52174,St. James' Park,Kevin Friend,2,0
-EPL,2018-2019,27,Sat,2019-02-23,15:00,Bournemouth,2.0,1.6,Wolves,10671,Vitality Stadium,Roger East,1,1
-EPL,2018-2019,27,Sat,2019-02-23,17:30,Leicester City,1.1,1.4,Crystal Palace,31778,King Power Stadium,Anthony Taylor,1,4
-EPL,2018-2019,27,Sun,2019-02-24,14:05,Manchester Utd,0.2,0.4,Liverpool,74519,Old Trafford,Michael Oliver,0,0
-EPL,2018-2019,27,Sun,2019-02-24,14:05,Arsenal,2.1,0.9,Southampton,59877,Emirates Stadium,Graham Scott,2,0
-EPL,2018-2019,28,Tue,2019-02-26,19:45,Leicester City,1.9,1.3,Brighton,30558,King Power Stadium,Lee Probert,2,1
-EPL,2018-2019,28,Tue,2019-02-26,19:45,Huddersfield,1.6,0.6,Wolves,22714,The John Smith's Stadium,David Coote,1,0
-EPL,2018-2019,28,Tue,2019-02-26,19:45,Cardiff City,0.3,0.8,Everton,31849,Cardiff City Stadium,Kevin Friend,0,3
-EPL,2018-2019,28,Tue,2019-02-26,20:00,Newcastle Utd,0.8,1.1,Burnley,48323,St. James' Park,Craig Pawson,2,0
-EPL,2018-2019,28,Wed,2019-02-27,19:45,Southampton,1.4,0.7,Fulham,27597,St. Mary's Stadium,Anthony Taylor,2,0
-EPL,2018-2019,28,Wed,2019-02-27,19:45,Arsenal,3.2,1.3,Bournemouth,59618,Emirates Stadium,Chris Kavanagh,5,1
-EPL,2018-2019,28,Wed,2019-02-27,20:00,Crystal Palace,1.5,1.3,Manchester Utd,25754,Selhurst Park,Martin Atkinson,1,3
-EPL,2018-2019,28,Wed,2019-02-27,20:00,Chelsea,0.6,0.5,Tottenham,40542,Stamford Bridge,Andre Marriner,2,0
-EPL,2018-2019,28,Wed,2019-02-27,20:00,Manchester City,3.0,0.5,West Ham,53528,Etihad Stadium,Stuart Attwell,1,0
-EPL,2018-2019,28,Wed,2019-02-27,20:00,Liverpool,1.9,1.0,Watford,53316,Anfield,Graham Scott,5,0
-EPL,2018-2019,29,Sat,2019-03-02,12:30,Tottenham,1.3,2.4,Arsenal,81332,Wembley Stadium,Anthony Taylor,1,1
-EPL,2018-2019,29,Sat,2019-03-02,15:00,Manchester Utd,2.2,0.5,Southampton,74459,Old Trafford,Stuart Attwell,3,2
-EPL,2018-2019,29,Sat,2019-03-02,15:00,Wolves,2.6,0.6,Cardiff City,31309,Molineux Stadium,Andre Marriner,2,0
-EPL,2018-2019,29,Sat,2019-03-02,15:00,Burnley,1.7,0.8,Crystal Palace,19223,Turf Moor,Lee Probert,1,3
-EPL,2018-2019,29,Sat,2019-03-02,15:00,Bournemouth,0.0,1.6,Manchester City,10699,Vitality Stadium,Kevin Friend,0,1
-EPL,2018-2019,29,Sat,2019-03-02,15:00,Brighton,1.1,0.3,Huddersfield,30182,The American Express Community Stadium,Mike Dean,1,0
-EPL,2018-2019,29,Sat,2019-03-02,17:30,West Ham,1.9,1.1,Newcastle Utd,59910,London Stadium,Chris Kavanagh,2,0
-EPL,2018-2019,29,Sun,2019-03-03,12:00,Watford,0.9,1.0,Leicester City,20062,Vicarage Road Stadium,Jonathan Moss,2,1
-EPL,2018-2019,29,Sun,2019-03-03,14:05,Fulham,0.8,1.7,Chelsea,24900,Craven Cottage,Graham Scott,1,2
-EPL,2018-2019,29,Sun,2019-03-03,16:15,Everton,0.5,1.1,Liverpool,39335,Goodison Park,Martin Atkinson,0,0
-EPL,2018-2019,30,Sat,2019-03-09,12:30,Crystal Palace,1.8,0.1,Brighton,24972,Selhurst Park,Craig Pawson,1,2
-EPL,2018-2019,30,Sat,2019-03-09,15:00,Newcastle Utd,2.3,1.0,Everton,52242,St. James' Park,Lee Mason,3,2
-EPL,2018-2019,30,Sat,2019-03-09,15:00,Leicester City,2.0,0.2,Fulham,32017,King Power Stadium,David Coote,3,1
-EPL,2018-2019,30,Sat,2019-03-09,15:00,Southampton,1.2,1.0,Tottenham,31890,St. Mary's Stadium,Kevin Friend,2,1
-EPL,2018-2019,30,Sat,2019-03-09,15:00,Cardiff City,2.9,0.3,West Ham,32458,Cardiff City Stadium,Graham Scott,2,0
-EPL,2018-2019,30,Sat,2019-03-09,15:00,Huddersfield,0.4,2.2,Bournemouth,22304,The John Smith's Stadium,Anthony Taylor,0,2
-EPL,2018-2019,30,Sat,2019-03-09,17:30,Manchester City,3.2,0.5,Watford,54104,Etihad Stadium,Paul Tierney,3,1
-EPL,2018-2019,30,Sun,2019-03-10,12:00,Liverpool,4.5,0.3,Burnley,53310,Anfield,Andre Marriner,4,2
-EPL,2018-2019,30,Sun,2019-03-10,14:05,Chelsea,1.5,0.2,Wolves,40692,Stamford Bridge,Michael Oliver,1,1
-EPL,2018-2019,30,Sun,2019-03-10,16:30,Arsenal,1.5,1.6,Manchester Utd,60000,Emirates Stadium,Jonathan Moss,2,0
-EPL,2018-2019,31,Sat,2019-03-16,15:00,Burnley,1.6,0.7,Leicester City,20719,Turf Moor,Michael Oliver,1,2
-EPL,2018-2019,31,Sat,2019-03-16,15:00,West Ham,2.3,1.4,Huddersfield,59931,London Stadium,Jonathan Moss,4,3
-EPL,2018-2019,31,Sat,2019-03-16,15:00,Bournemouth,1.5,1.2,Newcastle Utd,10625,Vitality Stadium,Mike Dean,2,2
-EPL,2018-2019,31,Sun,2019-03-17,14:15,Fulham,1.1,2.5,Liverpool,25043,Craven Cottage,Craig Pawson,1,2
-EPL,2018-2019,31,Sun,2019-03-17,16:30,Everton,2.1,1.2,Chelsea,39356,Goodison Park,Anthony Taylor,2,0
-EPL,2018-2019,32,Sat,2019-03-30,12:30,Fulham,0.3,2.7,Manchester City,25001,Craven Cottage,Kevin Friend,0,2
-EPL,2018-2019,32,Sat,2019-03-30,15:00,Manchester Utd,1.3,1.3,Watford,74543,Old Trafford,Stuart Attwell,2,1
-EPL,2018-2019,32,Sat,2019-03-30,15:00,Burnley,0.2,0.5,Wolves,20990,Turf Moor,Chris Kavanagh,2,0
-EPL,2018-2019,32,Sat,2019-03-30,15:00,Crystal Palace,3.2,0.5,Huddersfield,25193,Selhurst Park,Lee Probert,2,0
-EPL,2018-2019,32,Sat,2019-03-30,15:00,Brighton,0.9,0.7,Southampton,30636,The American Express Community Stadium,Michael Oliver,0,1
-EPL,2018-2019,32,Sat,2019-03-30,15:00,Leicester City,1.6,0.5,Bournemouth,31530,King Power Stadium,Lee Mason,2,0
-EPL,2018-2019,32,Sat,2019-03-30,17:30,West Ham,0.1,2.0,Everton,59988,London Stadium,Paul Tierney,0,2
-EPL,2018-2019,32,Sun,2019-03-31,14:05,Cardiff City,0.4,1.5,Chelsea,32657,Cardiff City Stadium,Craig Pawson,1,2
-EPL,2018-2019,32,Sun,2019-03-31,16:30,Liverpool,0.9,1.4,Tottenham,53322,Anfield,Martin Atkinson,2,1
-EPL,2018-2019,32,Mon,2019-04-01,20:00,Arsenal,0.9,0.1,Newcastle Utd,59869,Emirates Stadium,Anthony Taylor,2,0
-EPL,2018-2019,33,Tue,2019-04-02,19:45,Wolves,1.5,1.6,Manchester Utd,31302,Molineux Stadium,Mike Dean,2,1
-EPL,2018-2019,33,Tue,2019-04-02,19:45,Watford,1.6,2.0,Fulham,17301,Vicarage Road Stadium,Roger East,4,1
-EPL,2018-2019,27,Wed,2019-04-03,19:45,Chelsea,1.9,0.6,Brighton,38593,Stamford Bridge,Graham Scott,3,0
-EPL,2018-2019,31,Wed,2019-04-03,19:45,Tottenham,2.5,0.5,Crystal Palace,59215,Tottenham Hotspur Stadium,Andre Marriner,2,0
-EPL,2018-2019,33,Wed,2019-04-03,19:45,Manchester City,2.9,0.1,Cardiff City,53559,Etihad Stadium,Jonathan Moss,2,0
-EPL,2018-2019,33,Fri,2019-04-05,20:00,Southampton,0.8,1.7,Liverpool,31797,St. Mary's Stadium,Paul Tierney,1,3
-EPL,2018-2019,33,Sat,2019-04-06,15:00,Huddersfield,1.6,2.8,Leicester City,24126,The John Smith's Stadium,David Coote,1,4
-EPL,2018-2019,33,Sat,2019-04-06,15:00,Newcastle Utd,1.4,1.4,Crystal Palace,51926,St. James' Park,Stuart Attwell,0,1
-EPL,2018-2019,33,Sat,2019-04-06,15:00,Bournemouth,1.2,1.0,Burnley,10446,Vitality Stadium,Martin Atkinson,1,3
-EPL,2018-2019,33,Sun,2019-04-07,14:05,Everton,2.2,0.4,Arsenal,39400,Goodison Park,Kevin Friend,1,0
-EPL,2018-2019,33,Mon,2019-04-08,20:00,Chelsea,1.9,0.5,West Ham,40537,Stamford Bridge,Chris Kavanagh,2,0
-EPL,2018-2019,34,Fri,2019-04-12,20:00,Leicester City,1.2,0.7,Newcastle Utd,32108,King Power Stadium,Chris Kavanagh,0,1
-EPL,2018-2019,34,Sat,2019-04-13,12:30,Tottenham,2.3,0.6,Huddersfield,58308,Tottenham Hotspur Stadium,Lee Mason,4,0
-EPL,2018-2019,34,Sat,2019-04-13,15:00,Burnley,2.7,0.8,Cardiff City,21480,Turf Moor,Mike Dean,2,0
-EPL,2018-2019,34,Sat,2019-04-13,15:00,Fulham,1.2,0.8,Everton,24971,Craven Cottage,Lee Probert,2,0
-EPL,2018-2019,34,Sat,2019-04-13,15:00,Southampton,2.5,0.8,Wolves,31708,St. Mary's Stadium,Jonathan Moss,3,1
-EPL,2018-2019,34,Sat,2019-04-13,15:00,Brighton,0.4,2.0,Bournemouth,30460,The American Express Community Stadium,Kevin Friend,0,5
-EPL,2018-2019,34,Sat,2019-04-13,17:30,Manchester Utd,2.4,1.2,West Ham,74478,Old Trafford,Graham Scott,2,1
-EPL,2018-2019,34,Sun,2019-04-14,14:05,Crystal Palace,0.3,2.0,Manchester City,25721,Selhurst Park,Martin Atkinson,1,3
-EPL,2018-2019,34,Sun,2019-04-14,16:30,Liverpool,1.3,0.9,Chelsea,53279,Anfield,Michael Oliver,2,0
-EPL,2018-2019,34,Mon,2019-04-15,20:00,Watford,0.6,2.0,Arsenal,20480,Vicarage Road Stadium,Craig Pawson,0,1
-EPL,2018-2019,31,Tue,2019-04-16,19:45,Brighton,0.6,0.6,Cardiff City,30226,The American Express Community Stadium,Andre Marriner,0,2
-EPL,2018-2019,35,Sat,2019-04-20,12:30,Manchester City,1.9,1.3,Tottenham,54489,Etihad Stadium,Michael Oliver,1,0
-EPL,2018-2019,35,Sat,2019-04-20,15:00,Huddersfield,0.8,1.4,Watford,23957,The John Smith's Stadium,Roger East,1,2
-EPL,2018-2019,35,Sat,2019-04-20,15:00,Bournemouth,1.9,1.9,Fulham,10511,Vitality Stadium,David Coote,0,1
-EPL,2018-2019,35,Sat,2019-04-20,15:00,West Ham,1.4,1.0,Leicester City,59960,London Stadium,Lee Probert,2,2
-EPL,2018-2019,35,Sat,2019-04-20,15:00,Wolves,1.7,0.1,Brighton,31096,Molineux Stadium,Craig Pawson,0,0
-EPL,2018-2019,35,Sat,2019-04-20,17:30,Newcastle Utd,1.4,1.0,Southampton,52191,St. James' Park,Anthony Taylor,3,1
-EPL,2018-2019,35,Sun,2019-04-21,13:30,Everton,1.2,0.3,Manchester Utd,39395,Goodison Park,Paul Tierney,4,0
-EPL,2018-2019,35,Sun,2019-04-21,16:00,Arsenal,1.2,2.2,Crystal Palace,59929,Emirates Stadium,Jonathan Moss,2,3
-EPL,2018-2019,35,Sun,2019-04-21,16:00,Cardiff City,1.0,3.3,Liverpool,33082,Cardiff City Stadium,Martin Atkinson,0,2
-EPL,2018-2019,35,Mon,2019-04-22,20:00,Chelsea,1.1,0.9,Burnley,40642,Stamford Bridge,Kevin Friend,2,2
-EPL,2018-2019,31,Tue,2019-04-23,19:45,Watford,1.5,1.4,Southampton,19170,Vicarage Road Stadium,Mike Dean,1,1
-EPL,2018-2019,33,Tue,2019-04-23,19:45,Tottenham,1.7,0.2,Brighton,56251,Tottenham Hotspur Stadium,Chris Kavanagh,1,0
-EPL,2018-2019,31,Wed,2019-04-24,19:45,Wolves,0.9,0.7,Arsenal,31436,Molineux Stadium,Stuart Attwell,3,1
-EPL,2018-2019,31,Wed,2019-04-24,20:00,Manchester Utd,0.7,0.5,Manchester City,74431,Old Trafford,Andre Marriner,0,2
-EPL,2018-2019,36,Fri,2019-04-26,20:00,Liverpool,2.5,0.1,Huddersfield,53249,Anfield,Kevin Friend,5,0
-EPL,2018-2019,36,Sat,2019-04-27,12:30,Tottenham,1.3,1.2,West Ham,60043,Tottenham Hotspur Stadium,Anthony Taylor,0,1
-EPL,2018-2019,36,Sat,2019-04-27,15:00,Fulham,0.8,1.0,Cardiff City,23822,Craven Cottage,Chris Kavanagh,1,0
-EPL,2018-2019,36,Sat,2019-04-27,15:00,Watford,1.2,1.7,Wolves,20323,Vicarage Road Stadium,Simon Hooper,1,2
-EPL,2018-2019,36,Sat,2019-04-27,15:00,Southampton,2.7,2.0,Bournemouth,31310,St. Mary's Stadium,Graham Scott,3,3
-EPL,2018-2019,36,Sat,2019-04-27,15:00,Crystal Palace,0.3,1.3,Everton,25789,Selhurst Park,Lee Mason,0,0
-EPL,2018-2019,36,Sat,2019-04-27,17:30,Brighton,1.2,0.4,Newcastle Utd,30587,The American Express Community Stadium,Mike Dean,1,1
-EPL,2018-2019,36,Sun,2019-04-28,12:00,Leicester City,2.9,0.5,Arsenal,32037,King Power Stadium,Michael Oliver,3,0
-EPL,2018-2019,36,Sun,2019-04-28,14:05,Burnley,0.1,2.4,Manchester City,21605,Turf Moor,Paul Tierney,0,1
-EPL,2018-2019,36,Sun,2019-04-28,16:30,Manchester Utd,0.7,1.1,Chelsea,74526,Old Trafford,Martin Atkinson,1,1
-EPL,2018-2019,37,Fri,2019-05-03,20:00,Everton,1.6,0.6,Burnley,39303,Goodison Park,Chris Kavanagh,2,0
-EPL,2018-2019,37,Sat,2019-05-04,12:30,Bournemouth,1.6,0.7,Tottenham,10630,Vitality Stadium,Craig Pawson,1,0
-EPL,2018-2019,37,Sat,2019-05-04,15:00,Wolves,2.0,0.4,Fulham,30456,Molineux Stadium,Jonathan Moss,1,0
-EPL,2018-2019,37,Sat,2019-05-04,15:00,West Ham,1.8,0.4,Southampton,59961,London Stadium,Stuart Attwell,3,0
-EPL,2018-2019,37,Sat,2019-05-04,17:30,Cardiff City,1.7,1.8,Crystal Palace,32133,Cardiff City Stadium,Michael Oliver,2,3
-EPL,2018-2019,37,Sat,2019-05-04,19:45,Newcastle Utd,1.4,1.2,Liverpool,52206,St. James' Park,Andre Marriner,2,3
-EPL,2018-2019,37,Sun,2019-05-05,14:00,Huddersfield,1.1,1.3,Manchester Utd,24263,The John Smith's Stadium,Lee Mason,1,1
-EPL,2018-2019,37,Sun,2019-05-05,14:00,Chelsea,1.9,1.6,Watford,40560,Stamford Bridge,Paul Tierney,3,0
-EPL,2018-2019,37,Sun,2019-05-05,16:30,Arsenal,2.2,1.7,Brighton,59965,Emirates Stadium,Anthony Taylor,1,1
-EPL,2018-2019,37,Mon,2019-05-06,20:00,Manchester City,1.3,0.6,Leicester City,54506,Etihad Stadium,Mike Dean,1,0
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Brighton,0.4,1.8,Manchester City,30662,The American Express Community Stadium,Michael Oliver,1,4
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Manchester Utd,1.8,1.9,Cardiff City,74457,Old Trafford,Jonathan Moss,0,2
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Southampton,0.6,1.1,Huddersfield,30367,St. Mary's Stadium,Lee Probert,1,1
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Liverpool,1.4,0.6,Wolves,53331,Anfield,Martin Atkinson,2,0
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Fulham,0.9,1.5,Newcastle Utd,24979,Craven Cottage,Kevin Friend,0,4
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Crystal Palace,2.0,1.8,Bournemouth,25433,Selhurst Park,Roger East,5,3
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Burnley,1.9,2.1,Arsenal,21461,Turf Moor,Mike Dean,1,3
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Leicester City,0.4,1.5,Chelsea,32140,King Power Stadium,Anthony Taylor,0,0
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Tottenham,1.2,1.9,Everton,60124,Tottenham Hotspur Stadium,Andre Marriner,2,2
-EPL,2018-2019,38,Sun,2019-05-12,15:00,Watford,2.2,3.6,West Ham,20067,Vicarage Road Stadium,Chris Kavanagh,1,4
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+EPL,2018-2019,1,Fri,2018-08-10,20:00,Manchester Utd,1.6,1.1,Leicester City,74439,Old Trafford,Andre Marriner,https://fbref.com/en/matches/3ae83896/Manchester-United-Leicester-City-August-10-2018-Premier-League,2,1
+EPL,2018-2019,1,Sat,2018-08-11,12:30,Newcastle Utd,0.8,1.7,Tottenham,51749,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/dce15e01/Newcastle-United-Tottenham-Hotspur-August-11-2018-Premier-League,1,2
+EPL,2018-2019,1,Sat,2018-08-11,15:00,Watford,1.5,0.3,Brighton,20051,Vicarage Road Stadium,Jonathan Moss,https://fbref.com/en/matches/b3a7c703/Watford-Brighton-and-Hove-Albion-August-11-2018-Premier-League,2,0
+EPL,2018-2019,1,Sat,2018-08-11,15:00,Huddersfield,0.6,1.9,Chelsea,24121,The John Smith's Stadium,Chris Kavanagh,https://fbref.com/en/matches/d82a37a7/Huddersfield-Town-Chelsea-August-11-2018-Premier-League,0,3
+EPL,2018-2019,1,Sat,2018-08-11,15:00,Bournemouth,2.2,1.4,Cardiff City,10353,Vitality Stadium,Kevin Friend,https://fbref.com/en/matches/352f5574/Bournemouth-Cardiff-City-August-11-2018-Premier-League,2,0
+EPL,2018-2019,1,Sat,2018-08-11,15:00,Fulham,0.7,0.8,Crystal Palace,24821,Craven Cottage,Mike Dean,https://fbref.com/en/matches/30875601/Fulham-Crystal-Palace-August-11-2018-Premier-League,0,2
+EPL,2018-2019,1,Sat,2018-08-11,17:30,Wolves,0.7,0.7,Everton,31231,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/8dc8eaeb/Wolverhampton-Wanderers-Everton-August-11-2018-Premier-League,2,2
+EPL,2018-2019,1,Sun,2018-08-12,13:30,Southampton,1.0,1.2,Burnley,30784,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/aadb88b9/Southampton-Burnley-August-12-2018-Premier-League,0,0
+EPL,2018-2019,1,Sun,2018-08-12,13:30,Liverpool,3.5,0.8,West Ham,53235,Anfield,Anthony Taylor,https://fbref.com/en/matches/fc2c1788/Liverpool-West-Ham-United-August-12-2018-Premier-League,4,0
+EPL,2018-2019,1,Sun,2018-08-12,16:00,Arsenal,0.4,1.7,Manchester City,59934,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/478e9dab/Arsenal-Manchester-City-August-12-2018-Premier-League,0,2
+EPL,2018-2019,2,Sat,2018-08-18,12:30,Cardiff City,1.1,1.4,Newcastle Utd,30720,Cardiff City Stadium,Craig Pawson,https://fbref.com/en/matches/8b9218b2/Cardiff-City-Newcastle-United-August-18-2018-Premier-League,0,0
+EPL,2018-2019,2,Sat,2018-08-18,15:00,Everton,1.4,1.6,Southampton,38601,Goodison Park,Lee Mason,https://fbref.com/en/matches/7b877ffd/Everton-Southampton-August-18-2018-Premier-League,2,1
+EPL,2018-2019,2,Sat,2018-08-18,15:00,West Ham,1.2,1.8,Bournemouth,56888,London Stadium,Stuart Attwell,https://fbref.com/en/matches/19d6b566/West-Ham-United-Bournemouth-August-18-2018-Premier-League,1,2
+EPL,2018-2019,2,Sat,2018-08-18,15:00,Leicester City,0.2,1.2,Wolves,32043,King Power Stadium,Mike Dean,https://fbref.com/en/matches/8088d605/Leicester-City-Wolverhampton-Wanderers-August-18-2018-Premier-League,2,0
+EPL,2018-2019,2,Sat,2018-08-18,15:00,Tottenham,2.9,1.5,Fulham,58297,Wembley Stadium,Anthony Taylor,https://fbref.com/en/matches/aa8f0365/Tottenham-Hotspur-Fulham-August-18-2018-Premier-League,3,1
+EPL,2018-2019,2,Sat,2018-08-18,17:30,Chelsea,2.3,2.1,Arsenal,40491,Stamford Bridge,Martin Atkinson,https://fbref.com/en/matches/9b69882c/North-West-London-Derby-Chelsea-Arsenal-August-18-2018-Premier-League,3,2
+EPL,2018-2019,2,Sun,2018-08-19,13:30,Manchester City,3.4,0.7,Huddersfield,54021,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/64ee90d5/Manchester-City-Huddersfield-Town-August-19-2018-Premier-League,6,1
+EPL,2018-2019,2,Sun,2018-08-19,13:30,Burnley,0.4,1.5,Watford,18822,Turf Moor,Paul Tierney,https://fbref.com/en/matches/5f6c378d/Burnley-Watford-August-19-2018-Premier-League,1,3
+EPL,2018-2019,2,Sun,2018-08-19,16:00,Brighton,1.8,1.4,Manchester Utd,30592,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/620ebbfd/Brighton-and-Hove-Albion-Manchester-United-August-19-2018-Premier-League,3,2
+EPL,2018-2019,2,Mon,2018-08-20,20:00,Crystal Palace,0.4,2.6,Liverpool,25750,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/24e4536f/Crystal-Palace-Liverpool-August-20-2018-Premier-League,0,2
+EPL,2018-2019,3,Sat,2018-08-25,12:30,Wolves,0.9,1.8,Manchester City,31322,Molineux Stadium,Martin Atkinson,https://fbref.com/en/matches/a25a3f33/Wolverhampton-Wanderers-Manchester-City-August-25-2018-Premier-League,1,1
+EPL,2018-2019,3,Sat,2018-08-25,15:00,Southampton,0.6,0.5,Leicester City,29925,St. Mary's Stadium,Jonathan Moss,https://fbref.com/en/matches/4e5f55cb/Southampton-Leicester-City-August-25-2018-Premier-League,1,2
+EPL,2018-2019,3,Sat,2018-08-25,15:00,Arsenal,1.7,1.4,West Ham,59830,Emirates Stadium,Graham Scott,https://fbref.com/en/matches/0014076a/Arsenal-West-Ham-United-August-25-2018-Premier-League,3,1
+EPL,2018-2019,3,Sat,2018-08-25,15:00,Bournemouth,2.6,0.5,Everton,10654,Vitality Stadium,Lee Probert,https://fbref.com/en/matches/b9a56747/Bournemouth-Everton-August-25-2018-Premier-League,2,2
+EPL,2018-2019,3,Sat,2018-08-25,15:00,Huddersfield,0.3,1.3,Cardiff City,21193,The John Smith's Stadium,Michael Oliver,https://fbref.com/en/matches/846881a8/Huddersfield-Town-Cardiff-City-August-25-2018-Premier-League,0,0
+EPL,2018-2019,3,Sat,2018-08-25,17:30,Liverpool,1.5,0.5,Brighton,53294,Anfield,Chris Kavanagh,https://fbref.com/en/matches/db5e61cc/Liverpool-Brighton-and-Hove-Albion-August-25-2018-Premier-League,1,0
+EPL,2018-2019,3,Sun,2018-08-26,13:30,Watford,0.9,1.1,Crystal Palace,20014,Vicarage Road Stadium,Anthony Taylor,https://fbref.com/en/matches/6ad36993/Watford-Crystal-Palace-August-26-2018-Premier-League,2,1
+EPL,2018-2019,3,Sun,2018-08-26,16:00,Newcastle Utd,0.3,1.5,Chelsea,51791,St. James' Park,Paul Tierney,https://fbref.com/en/matches/e8521900/Newcastle-United-Chelsea-August-26-2018-Premier-League,1,2
+EPL,2018-2019,3,Sun,2018-08-26,16:00,Fulham,1.9,1.5,Burnley,23438,Craven Cottage,David Coote,https://fbref.com/en/matches/55af3b90/Fulham-Burnley-August-26-2018-Premier-League,4,2
+EPL,2018-2019,3,Mon,2018-08-27,20:00,Manchester Utd,2.1,1.1,Tottenham,74400,Old Trafford,Craig Pawson,https://fbref.com/en/matches/4bda33db/Manchester-United-Tottenham-Hotspur-August-27-2018-Premier-League,0,3
+EPL,2018-2019,4,Sat,2018-09-01,12:30,Leicester City,1.0,1.2,Liverpool,32149,King Power Stadium,Paul Tierney,https://fbref.com/en/matches/265bb7a5/Leicester-City-Liverpool-September-1-2018-Premier-League,1,2
+EPL,2018-2019,4,Sat,2018-09-01,15:00,Crystal Palace,1.9,2.5,Southampton,25495,Selhurst Park,Martin Atkinson,https://fbref.com/en/matches/2909fa0b/Crystal-Palace-Southampton-September-1-2018-Premier-League,0,2
+EPL,2018-2019,4,Sat,2018-09-01,15:00,Chelsea,1.4,0.9,Bournemouth,40178,Stamford Bridge,Lee Mason,https://fbref.com/en/matches/95fc9c84/Chelsea-Bournemouth-September-1-2018-Premier-League,2,0
+EPL,2018-2019,4,Sat,2018-09-01,15:00,Brighton,3.1,1.3,Fulham,30526,The American Express Community Stadium,Lee Probert,https://fbref.com/en/matches/51055c21/Brighton-and-Hove-Albion-Fulham-September-1-2018-Premier-League,2,2
+EPL,2018-2019,4,Sat,2018-09-01,15:00,West Ham,1.2,1.6,Wolves,56947,London Stadium,Chris Kavanagh,https://fbref.com/en/matches/c600b8ae/West-Ham-United-Wolverhampton-Wanderers-September-1-2018-Premier-League,0,1
+EPL,2018-2019,4,Sat,2018-09-01,15:00,Everton,0.7,0.6,Huddersfield,38767,Goodison Park,Stuart Attwell,https://fbref.com/en/matches/a3a1e07f/Everton-Huddersfield-Town-September-1-2018-Premier-League,1,1
+EPL,2018-2019,4,Sat,2018-09-01,17:30,Manchester City,2.3,0.6,Newcastle Utd,53946,Etihad Stadium,Kevin Friend,https://fbref.com/en/matches/f74a4680/Manchester-City-Newcastle-United-September-1-2018-Premier-League,2,1
+EPL,2018-2019,4,Sun,2018-09-02,13:30,Cardiff City,1.6,1.6,Arsenal,32316,Cardiff City Stadium,Anthony Taylor,https://fbref.com/en/matches/c1503e09/Cardiff-City-Arsenal-September-2-2018-Premier-League,2,3
+EPL,2018-2019,4,Sun,2018-09-02,16:00,Watford,0.5,0.7,Tottenham,20141,Vicarage Road Stadium,Andre Marriner,https://fbref.com/en/matches/882380f8/Watford-Tottenham-Hotspur-September-2-2018-Premier-League,2,1
+EPL,2018-2019,4,Sun,2018-09-02,16:00,Burnley,0.7,3.3,Manchester Utd,21525,Turf Moor,Jonathan Moss,https://fbref.com/en/matches/c2561ae7/Burnley-Manchester-United-September-2-2018-Premier-League,0,2
+EPL,2018-2019,5,Sat,2018-09-15,12:30,Tottenham,1.0,2.5,Liverpool,80188,Wembley Stadium,Michael Oliver,https://fbref.com/en/matches/83ca29de/Tottenham-Hotspur-Liverpool-September-15-2018-Premier-League,1,2
+EPL,2018-2019,5,Sat,2018-09-15,15:00,Manchester City,4.4,0.3,Fulham,53307,Etihad Stadium,Stuart Attwell,https://fbref.com/en/matches/2e19378a/Manchester-City-Fulham-September-15-2018-Premier-League,3,0
+EPL,2018-2019,5,Sat,2018-09-15,15:00,Bournemouth,1.7,2.0,Leicester City,10543,Vitality Stadium,Craig Pawson,https://fbref.com/en/matches/ed9bdfa8/Bournemouth-Leicester-City-September-15-2018-Premier-League,4,2
+EPL,2018-2019,5,Sat,2018-09-15,15:00,Newcastle Utd,0.3,0.7,Arsenal,52165,St. James' Park,Lee Probert,https://fbref.com/en/matches/b53e182d/Newcastle-United-Arsenal-September-15-2018-Premier-League,1,2
+EPL,2018-2019,5,Sat,2018-09-15,15:00,Chelsea,2.3,0.8,Cardiff City,40499,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/f82c343c/Chelsea-Cardiff-City-September-15-2018-Premier-League,4,1
+EPL,2018-2019,5,Sat,2018-09-15,15:00,Huddersfield,1.0,1.1,Crystal Palace,23696,The John Smith's Stadium,Lee Mason,https://fbref.com/en/matches/74198c9b/Huddersfield-Town-Crystal-Palace-September-15-2018-Premier-League,0,1
+EPL,2018-2019,5,Sat,2018-09-15,17:30,Watford,1.1,1.3,Manchester Utd,20537,Vicarage Road Stadium,Mike Dean,https://fbref.com/en/matches/b05c0b05/Watford-Manchester-United-September-15-2018-Premier-League,1,2
+EPL,2018-2019,5,Sun,2018-09-16,13:30,Wolves,3.4,0.3,Burnley,30406,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/50f2128e/Wolverhampton-Wanderers-Burnley-September-16-2018-Premier-League,1,0
+EPL,2018-2019,5,Sun,2018-09-16,16:00,Everton,1.4,1.3,West Ham,39161,Goodison Park,Martin Atkinson,https://fbref.com/en/matches/d7a7d583/Everton-West-Ham-United-September-16-2018-Premier-League,1,3
+EPL,2018-2019,5,Mon,2018-09-17,20:00,Southampton,1.7,2.1,Brighton,28811,St. Mary's Stadium,Anthony Taylor,https://fbref.com/en/matches/7f31aba2/Southampton-Brighton-and-Hove-Albion-September-17-2018-Premier-League,2,2
+EPL,2018-2019,6,Sat,2018-09-22,12:30,Fulham,1.4,1.6,Watford,23418,Craven Cottage,Martin Atkinson,https://fbref.com/en/matches/cf44aa9f/Fulham-Watford-September-22-2018-Premier-League,1,1
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Burnley,1.9,1.3,Bournemouth,18636,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/7685b966/Burnley-Bournemouth-September-22-2018-Premier-League,4,0
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Cardiff City,0.1,2.5,Manchester City,32321,Cardiff City Stadium,Michael Oliver,https://fbref.com/en/matches/41dde04a/Cardiff-City-Manchester-City-September-22-2018-Premier-League,0,5
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Leicester City,1.4,0.6,Huddersfield,31676,King Power Stadium,David Coote,https://fbref.com/en/matches/b16f9070/Leicester-City-Huddersfield-Town-September-22-2018-Premier-League,3,1
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Liverpool,2.5,0.3,Southampton,50965,Anfield,Paul Tierney,https://fbref.com/en/matches/65050401/Liverpool-Southampton-September-22-2018-Premier-League,3,0
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Manchester Utd,0.8,0.9,Wolves,74489,Old Trafford,Kevin Friend,https://fbref.com/en/matches/939e3a15/Manchester-United-Wolverhampton-Wanderers-September-22-2018-Premier-League,1,1
+EPL,2018-2019,6,Sat,2018-09-22,15:00,Crystal Palace,1.4,0.5,Newcastle Utd,25679,Selhurst Park,Andre Marriner,https://fbref.com/en/matches/0cfd5c85/Crystal-Palace-Newcastle-United-September-22-2018-Premier-League,0,0
+EPL,2018-2019,6,Sat,2018-09-22,17:30,Brighton,0.8,2.0,Tottenham,30531,The American Express Community Stadium,Chris Kavanagh,https://fbref.com/en/matches/6fe3c413/Brighton-and-Hove-Albion-Tottenham-Hotspur-September-22-2018-Premier-League,1,2
+EPL,2018-2019,6,Sun,2018-09-23,13:30,West Ham,0.8,1.7,Chelsea,56875,London Stadium,Mike Dean,https://fbref.com/en/matches/c09e4868/West-Ham-United-Chelsea-September-23-2018-Premier-League,0,0
+EPL,2018-2019,6,Sun,2018-09-23,16:00,Arsenal,1.0,1.0,Everton,59964,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/a1fb6176/Arsenal-Everton-September-23-2018-Premier-League,2,0
+EPL,2018-2019,7,Sat,2018-09-29,12:30,West Ham,1.2,0.4,Manchester Utd,56938,London Stadium,Michael Oliver,https://fbref.com/en/matches/f6e0fe6b/West-Ham-United-Manchester-United-September-29-2018-Premier-League,3,1
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Huddersfield,0.4,2.0,Tottenham,23885,The John Smith's Stadium,Craig Pawson,https://fbref.com/en/matches/de08a7f1/Huddersfield-Town-Tottenham-Hotspur-September-29-2018-Premier-League,0,2
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Arsenal,1.2,1.7,Watford,60019,Emirates Stadium,Anthony Taylor,https://fbref.com/en/matches/d51c2069/Arsenal-Watford-September-29-2018-Premier-League,2,0
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Newcastle Utd,0.3,1.3,Leicester City,51523,St. James' Park,Simon Hooper,https://fbref.com/en/matches/0fe30564/Newcastle-United-Leicester-City-September-29-2018-Premier-League,0,2
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Everton,2.1,0.8,Fulham,38788,Goodison Park,Roger East,https://fbref.com/en/matches/1e6da91a/Everton-Fulham-September-29-2018-Premier-League,3,0
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Manchester City,2.8,0.4,Brighton,54152,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/d64da66e/Manchester-City-Brighton-and-Hove-Albion-September-29-2018-Premier-League,2,0
+EPL,2018-2019,7,Sat,2018-09-29,15:00,Wolves,1.3,1.1,Southampton,31147,Molineux Stadium,Stuart Attwell,https://fbref.com/en/matches/85cb9e4e/Wolverhampton-Wanderers-Southampton-September-29-2018-Premier-League,2,0
+EPL,2018-2019,7,Sat,2018-09-29,17:30,Chelsea,1.3,1.3,Liverpool,40625,Stamford Bridge,Andre Marriner,https://fbref.com/en/matches/83743ea9/Chelsea-Liverpool-September-29-2018-Premier-League,1,1
+EPL,2018-2019,7,Sun,2018-09-30,16:00,Cardiff City,1.4,0.3,Burnley,30411,Cardiff City Stadium,Martin Atkinson,https://fbref.com/en/matches/a9b46822/Cardiff-City-Burnley-September-30-2018-Premier-League,1,2
+EPL,2018-2019,7,Mon,2018-10-01,20:00,Bournemouth,1.8,0.6,Crystal Palace,10199,Vitality Stadium,Mike Dean,https://fbref.com/en/matches/82f2e66c/Bournemouth-Crystal-Palace-October-1-2018-Premier-League,2,1
+EPL,2018-2019,8,Fri,2018-10-05,20:00,Brighton,1.1,1.1,West Ham,30544,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/cf0741b9/Brighton-and-Hove-Albion-West-Ham-United-October-5-2018-Premier-League,1,0
+EPL,2018-2019,8,Sat,2018-10-06,15:00,Watford,0.8,2.1,Bournemouth,20139,Vicarage Road Stadium,Jonathan Moss,https://fbref.com/en/matches/c3a37856/Watford-Bournemouth-October-6-2018-Premier-League,0,4
+EPL,2018-2019,8,Sat,2018-10-06,15:00,Crystal Palace,1.1,1.0,Wolves,25715,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/e4ee9373/Crystal-Palace-Wolverhampton-Wanderers-October-6-2018-Premier-League,0,1
+EPL,2018-2019,8,Sat,2018-10-06,15:00,Burnley,0.5,1.3,Huddersfield,20533,Turf Moor,Chris Kavanagh,https://fbref.com/en/matches/60ecfc10/Burnley-Huddersfield-Town-October-6-2018-Premier-League,1,1
+EPL,2018-2019,8,Sat,2018-10-06,15:00,Tottenham,1.8,1.0,Cardiff City,43268,Wembley Stadium,Mike Dean,https://fbref.com/en/matches/8c7db89e/Tottenham-Hotspur-Cardiff-City-October-6-2018-Premier-League,1,0
+EPL,2018-2019,8,Sat,2018-10-06,15:00,Leicester City,1.0,1.1,Everton,32007,King Power Stadium,Andre Marriner,https://fbref.com/en/matches/1be8f2f0/Leicester-City-Everton-October-6-2018-Premier-League,1,2
+EPL,2018-2019,8,Sat,2018-10-06,17:30,Manchester Utd,1.9,1.7,Newcastle Utd,74519,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/1c869de5/Manchester-United-Newcastle-United-October-6-2018-Premier-League,3,2
+EPL,2018-2019,8,Sun,2018-10-07,12:00,Fulham,1.2,1.3,Arsenal,25401,Craven Cottage,Paul Tierney,https://fbref.com/en/matches/af4e1f4f/Fulham-Arsenal-October-7-2018-Premier-League,1,5
+EPL,2018-2019,8,Sun,2018-10-07,14:15,Southampton,1.1,2.7,Chelsea,27077,St. Mary's Stadium,Craig Pawson,https://fbref.com/en/matches/afea8fbd/Southampton-Chelsea-October-7-2018-Premier-League,0,3
+EPL,2018-2019,8,Sun,2018-10-07,16:30,Liverpool,0.5,1.0,Manchester City,52117,Anfield,Martin Atkinson,https://fbref.com/en/matches/73e7196e/Liverpool-Manchester-City-October-7-2018-Premier-League,0,0
+EPL,2018-2019,9,Sat,2018-10-20,12:30,Chelsea,1.8,0.8,Manchester Utd,40721,Stamford Bridge,Mike Dean,https://fbref.com/en/matches/aff7fdc6/Chelsea-Manchester-United-October-20-2018-Premier-League,2,2
+EPL,2018-2019,9,Sat,2018-10-20,15:00,Newcastle Utd,1.7,0.5,Brighton,50329,St. James' Park,Andre Marriner,https://fbref.com/en/matches/a30672ee/Newcastle-United-Brighton-and-Hove-Albion-October-20-2018-Premier-League,0,1
+EPL,2018-2019,9,Sat,2018-10-20,15:00,West Ham,1.0,1.1,Tottenham,56921,London Stadium,Martin Atkinson,https://fbref.com/en/matches/5dbd9cd7/West-Ham-United-Tottenham-Hotspur-October-20-2018-Premier-League,0,1
+EPL,2018-2019,9,Sat,2018-10-20,15:00,Wolves,0.7,0.8,Watford,31144,Molineux Stadium,Lee Mason,https://fbref.com/en/matches/b10be7f2/Wolverhampton-Wanderers-Watford-October-20-2018-Premier-League,0,2
+EPL,2018-2019,9,Sat,2018-10-20,15:00,Manchester City,3.4,0.4,Burnley,54094,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/507786df/Manchester-City-Burnley-October-20-2018-Premier-League,5,0
+EPL,2018-2019,9,Sat,2018-10-20,15:00,Bournemouth,0.3,0.4,Southampton,10986,Vitality Stadium,Lee Probert,https://fbref.com/en/matches/1027bc75/Bournemouth-Southampton-October-20-2018-Premier-League,0,0
+EPL,2018-2019,9,Sat,2018-10-20,15:00,Cardiff City,2.0,0.7,Fulham,29681,Cardiff City Stadium,Kevin Friend,https://fbref.com/en/matches/fe1817e3/Cardiff-City-Fulham-October-20-2018-Premier-League,4,2
+EPL,2018-2019,9,Sat,2018-10-20,17:30,Huddersfield,0.9,0.8,Liverpool,24263,The John Smith's Stadium,Michael Oliver,https://fbref.com/en/matches/356d83b4/Huddersfield-Town-Liverpool-October-20-2018-Premier-League,0,1
+EPL,2018-2019,9,Sun,2018-10-21,16:00,Everton,1.6,1.1,Crystal Palace,38668,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/2a861cc1/Everton-Crystal-Palace-October-21-2018-Premier-League,2,0
+EPL,2018-2019,9,Mon,2018-10-22,20:00,Arsenal,3.0,0.7,Leicester City,59886,Emirates Stadium,Chris Kavanagh,https://fbref.com/en/matches/9ba76788/Arsenal-Leicester-City-October-22-2018-Premier-League,3,1
+EPL,2018-2019,10,Sat,2018-10-27,15:00,Fulham,0.5,1.8,Bournemouth,25071,Craven Cottage,Andre Marriner,https://fbref.com/en/matches/51c18906/Fulham-Bournemouth-October-27-2018-Premier-League,0,3
+EPL,2018-2019,10,Sat,2018-10-27,15:00,Liverpool,2.1,0.5,Cardiff City,53373,Anfield,Stuart Attwell,https://fbref.com/en/matches/8df7e453/Liverpool-Cardiff-City-October-27-2018-Premier-League,4,1
+EPL,2018-2019,10,Sat,2018-10-27,15:00,Brighton,0.6,1.4,Wolves,30654,The American Express Community Stadium,Anthony Taylor,https://fbref.com/en/matches/1b2a6c82/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-October-27-2018-Premier-League,1,0
+EPL,2018-2019,10,Sat,2018-10-27,15:00,Southampton,1.4,0.3,Newcastle Utd,30736,St. Mary's Stadium,Chris Kavanagh,https://fbref.com/en/matches/4e9ca23b/Southampton-Newcastle-United-October-27-2018-Premier-League,0,0
+EPL,2018-2019,10,Sat,2018-10-27,15:00,Watford,1.7,0.6,Huddersfield,20457,Vicarage Road Stadium,Mike Dean,https://fbref.com/en/matches/af65625b/Watford-Huddersfield-Town-October-27-2018-Premier-League,3,0
+EPL,2018-2019,10,Sat,2018-10-27,17:30,Leicester City,1.7,1.5,West Ham,31848,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/c55a55c7/Leicester-City-West-Ham-United-October-27-2018-Premier-League,1,1
+EPL,2018-2019,10,Sun,2018-10-28,13:30,Crystal Palace,2.2,0.6,Arsenal,25718,Selhurst Park,Martin Atkinson,https://fbref.com/en/matches/9113792c/Crystal-Palace-Arsenal-October-28-2018-Premier-League,2,2
+EPL,2018-2019,10,Sun,2018-10-28,13:30,Burnley,0.7,3.0,Chelsea,21430,Turf Moor,Craig Pawson,https://fbref.com/en/matches/69381f97/Burnley-Chelsea-October-28-2018-Premier-League,0,4
+EPL,2018-2019,10,Sun,2018-10-28,16:00,Manchester Utd,1.9,1.8,Everton,74525,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/746d865f/Manchester-United-Everton-October-28-2018-Premier-League,2,1
+EPL,2018-2019,10,Mon,2018-10-29,20:00,Tottenham,0.6,1.2,Manchester City,56854,Wembley Stadium,Kevin Friend,https://fbref.com/en/matches/3d0bcdcb/Tottenham-Hotspur-Manchester-City-October-29-2018-Premier-League,0,1
+EPL,2018-2019,11,Sat,2018-11-03,12:30,Bournemouth,3.0,3.1,Manchester Utd,10792,Vitality Stadium,Paul Tierney,https://fbref.com/en/matches/e14699cb/Bournemouth-Manchester-United-November-3-2018-Premier-League,1,2
+EPL,2018-2019,11,Sat,2018-11-03,15:00,West Ham,2.6,0.6,Burnley,56862,London Stadium,Roger East,https://fbref.com/en/matches/e99cbd39/West-Ham-United-Burnley-November-3-2018-Premier-League,4,2
+EPL,2018-2019,11,Sat,2018-11-03,15:00,Cardiff City,1.0,1.7,Leicester City,30877,Cardiff City Stadium,Lee Probert,https://fbref.com/en/matches/14512519/Cardiff-City-Leicester-City-November-3-2018-Premier-League,0,1
+EPL,2018-2019,11,Sat,2018-11-03,15:00,Newcastle Utd,0.7,2.0,Watford,49157,St. James' Park,Craig Pawson,https://fbref.com/en/matches/b8e33f68/Newcastle-United-Watford-November-3-2018-Premier-League,1,0
+EPL,2018-2019,11,Sat,2018-11-03,15:00,Everton,2.3,0.3,Brighton,38966,Goodison Park,David Coote,https://fbref.com/en/matches/86e1f618/Everton-Brighton-and-Hove-Albion-November-3-2018-Premier-League,3,1
+EPL,2018-2019,11,Sat,2018-11-03,17:30,Arsenal,1.4,1.5,Liverpool,59993,Emirates Stadium,Andre Marriner,https://fbref.com/en/matches/09767606/Arsenal-Liverpool-November-3-2018-Premier-League,1,1
+EPL,2018-2019,11,Sat,2018-11-03,19:45,Wolves,2.6,1.3,Tottenham,31185,Molineux Stadium,Mike Dean,https://fbref.com/en/matches/b8b6baee/Wolverhampton-Wanderers-Tottenham-Hotspur-November-3-2018-Premier-League,2,3
+EPL,2018-2019,11,Sun,2018-11-04,15:00,Manchester City,2.3,2.0,Southampton,53916,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/7fcb3ecd/Manchester-City-Southampton-November-4-2018-Premier-League,6,1
+EPL,2018-2019,11,Sun,2018-11-04,16:00,Chelsea,1.6,0.6,Crystal Palace,40407,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/e7d32534/Chelsea-Crystal-Palace-November-4-2018-Premier-League,3,1
+EPL,2018-2019,11,Mon,2018-11-05,20:00,Huddersfield,0.6,0.5,Fulham,17082,The John Smith's Stadium,Anthony Taylor,https://fbref.com/en/matches/f7cf0ef1/Huddersfield-Town-Fulham-November-5-2018-Premier-League,1,0
+EPL,2018-2019,12,Sat,2018-11-10,12:30,Cardiff City,1.8,0.6,Brighton,29402,Cardiff City Stadium,Martin Atkinson,https://fbref.com/en/matches/da20ac20/Cardiff-City-Brighton-and-Hove-Albion-November-10-2018-Premier-League,2,1
+EPL,2018-2019,12,Sat,2018-11-10,15:00,Newcastle Utd,1.9,1.5,Bournemouth,49266,St. James' Park,Lee Probert,https://fbref.com/en/matches/1c2533bb/Newcastle-United-Bournemouth-November-10-2018-Premier-League,2,1
+EPL,2018-2019,12,Sat,2018-11-10,15:00,Leicester City,1.7,0.5,Burnley,32184,King Power Stadium,Mike Dean,https://fbref.com/en/matches/bff91ca5/Leicester-City-Burnley-November-10-2018-Premier-League,0,0
+EPL,2018-2019,12,Sat,2018-11-10,15:00,Huddersfield,1.3,2.2,West Ham,24069,The John Smith's Stadium,Chris Kavanagh,https://fbref.com/en/matches/bbf296b3/Huddersfield-Town-West-Ham-United-November-10-2018-Premier-League,1,1
+EPL,2018-2019,12,Sat,2018-11-10,15:00,Southampton,0.9,1.2,Watford,28153,St. Mary's Stadium,Simon Hooper,https://fbref.com/en/matches/dd70055f/Southampton-Watford-November-10-2018-Premier-League,1,1
+EPL,2018-2019,12,Sat,2018-11-10,17:30,Crystal Palace,0.7,0.9,Tottenham,25685,Selhurst Park,Jonathan Moss,https://fbref.com/en/matches/e2a8691e/Crystal-Palace-Tottenham-Hotspur-November-10-2018-Premier-League,0,1
+EPL,2018-2019,12,Sun,2018-11-11,12:00,Liverpool,2.2,0.7,Fulham,53128,Anfield,Paul Tierney,https://fbref.com/en/matches/44da6811/Liverpool-Fulham-November-11-2018-Premier-League,2,0
+EPL,2018-2019,12,Sun,2018-11-11,14:15,Chelsea,1.0,0.3,Everton,40345,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/ea236312/Chelsea-Everton-November-11-2018-Premier-League,0,0
+EPL,2018-2019,12,Sun,2018-11-11,16:30,Manchester City,1.6,1.0,Manchester Utd,54316,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/78fdbaf6/Manchester-Derby-Manchester-City-Manchester-United-November-11-2018-Premier-League,3,1
+EPL,2018-2019,12,Sun,2018-11-11,16:30,Arsenal,1.4,1.8,Wolves,60030,Emirates Stadium,Stuart Attwell,https://fbref.com/en/matches/419ce689/Arsenal-Wolverhampton-Wanderers-November-11-2018-Premier-League,1,1
+EPL,2018-2019,13,Sat,2018-11-24,15:00,Fulham,1.3,2.0,Southampton,24603,Craven Cottage,Michael Oliver,https://fbref.com/en/matches/1e2866b1/Fulham-Southampton-November-24-2018-Premier-League,3,2
+EPL,2018-2019,13,Sat,2018-11-24,15:00,Everton,1.9,0.6,Cardiff City,39139,Goodison Park,Paul Tierney,https://fbref.com/en/matches/792b0e13/Everton-Cardiff-City-November-24-2018-Premier-League,1,0
+EPL,2018-2019,13,Sat,2018-11-24,15:00,Manchester Utd,1.4,1.4,Crystal Palace,74516,Old Trafford,Lee Mason,https://fbref.com/en/matches/12d7dc7e/Manchester-United-Crystal-Palace-November-24-2018-Premier-League,0,0
+EPL,2018-2019,13,Sat,2018-11-24,15:00,Watford,0.3,1.1,Liverpool,20540,Vicarage Road Stadium,Jonathan Moss,https://fbref.com/en/matches/cbebd176/Watford-Liverpool-November-24-2018-Premier-League,0,3
+EPL,2018-2019,13,Sat,2018-11-24,15:00,Brighton,1.1,1.1,Leicester City,30553,The American Express Community Stadium,Chris Kavanagh,https://fbref.com/en/matches/52005385/Brighton-and-Hove-Albion-Leicester-City-November-24-2018-Premier-League,1,1
+EPL,2018-2019,13,Sat,2018-11-24,15:00,West Ham,0.8,2.3,Manchester City,56886,London Stadium,Andre Marriner,https://fbref.com/en/matches/345e0f93/West-Ham-United-Manchester-City-November-24-2018-Premier-League,0,4
+EPL,2018-2019,13,Sat,2018-11-24,17:30,Tottenham,2.7,1.1,Chelsea,55465,Wembley Stadium,Martin Atkinson,https://fbref.com/en/matches/2eca20e6/Tottenham-Hotspur-Chelsea-November-24-2018-Premier-League,3,1
+EPL,2018-2019,13,Sun,2018-11-25,13:30,Bournemouth,0.9,1.7,Arsenal,10792,Vitality Stadium,Craig Pawson,https://fbref.com/en/matches/753e2ff1/Bournemouth-Arsenal-November-25-2018-Premier-League,1,2
+EPL,2018-2019,13,Sun,2018-11-25,16:00,Wolves,0.8,0.7,Huddersfield,30130,Molineux Stadium,Kevin Friend,https://fbref.com/en/matches/afb0fe29/Wolverhampton-Wanderers-Huddersfield-Town-November-25-2018-Premier-League,0,2
+EPL,2018-2019,13,Mon,2018-11-26,20:30,Burnley,1.5,1.7,Newcastle Utd,20628,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/11494d52/Burnley-Newcastle-United-November-26-2018-Premier-League,1,2
+EPL,2018-2019,14,Fri,2018-11-30,20:00,Cardiff City,0.6,1.0,Wolves,30213,Cardiff City Stadium,Andre Marriner,https://fbref.com/en/matches/c8d648e4/Cardiff-City-Wolverhampton-Wanderers-November-30-2018-Premier-League,2,1
+EPL,2018-2019,14,Sat,2018-12-01,15:00,Manchester City,1.9,0.6,Bournemouth,54409,Etihad Stadium,Stuart Attwell,https://fbref.com/en/matches/f54cc2e1/Manchester-City-Bournemouth-December-1-2018-Premier-League,3,1
+EPL,2018-2019,14,Sat,2018-12-01,15:00,Leicester City,1.1,1.2,Watford,31353,King Power Stadium,Graham Scott,https://fbref.com/en/matches/db20d5d7/Leicester-City-Watford-December-1-2018-Premier-League,2,0
+EPL,2018-2019,14,Sat,2018-12-01,15:00,Huddersfield,0.5,1.1,Brighton,22973,The John Smith's Stadium,Michael Oliver,https://fbref.com/en/matches/c4b81247/Huddersfield-Town-Brighton-and-Hove-Albion-December-1-2018-Premier-League,1,2
+EPL,2018-2019,14,Sat,2018-12-01,15:00,Newcastle Utd,1.1,1.5,West Ham,51853,St. James' Park,Paul Tierney,https://fbref.com/en/matches/4e78a620/Newcastle-United-West-Ham-United-December-1-2018-Premier-League,0,3
+EPL,2018-2019,14,Sat,2018-12-01,15:00,Crystal Palace,2.1,0.6,Burnley,25098,Selhurst Park,Lee Probert,https://fbref.com/en/matches/5fb5a6c9/Crystal-Palace-Burnley-December-1-2018-Premier-League,2,0
+EPL,2018-2019,14,Sat,2018-12-01,17:30,Southampton,0.5,1.4,Manchester Utd,30187,St. Mary's Stadium,Kevin Friend,https://fbref.com/en/matches/981f33f6/Southampton-Manchester-United-December-1-2018-Premier-League,2,2
+EPL,2018-2019,14,Sun,2018-12-02,12:00,Chelsea,1.6,0.3,Fulham,40551,Stamford Bridge,Craig Pawson,https://fbref.com/en/matches/3f74e2d2/Chelsea-Fulham-December-2-2018-Premier-League,2,0
+EPL,2018-2019,14,Sun,2018-12-02,14:05,Arsenal,2.5,1.1,Tottenham,59973,Emirates Stadium,Mike Dean,https://fbref.com/en/matches/2ddc7388/North-London-Derby-Arsenal-Tottenham-Hotspur-December-2-2018-Premier-League,4,2
+EPL,2018-2019,14,Sun,2018-12-02,16:15,Liverpool,2.7,1.2,Everton,51756,Anfield,Chris Kavanagh,https://fbref.com/en/matches/1f2c2385/Merseyside-Derby-Liverpool-Everton-December-2-2018-Premier-League,1,0
+EPL,2018-2019,15,Tue,2018-12-04,19:45,West Ham,1.7,2.0,Cardiff City,56811,London Stadium,Graham Scott,https://fbref.com/en/matches/044b4b5a/West-Ham-United-Cardiff-City-December-4-2018-Premier-League,3,1
+EPL,2018-2019,15,Tue,2018-12-04,19:45,Bournemouth,0.7,2.0,Huddersfield,9980,Vitality Stadium,Roger East,https://fbref.com/en/matches/98f1ef21/Bournemouth-Huddersfield-Town-December-4-2018-Premier-League,2,1
+EPL,2018-2019,15,Tue,2018-12-04,19:45,Brighton,1.1,1.8,Crystal Palace,29663,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/07d048d9/Brighton-and-Hove-Albion-Crystal-Palace-December-4-2018-Premier-League,3,1
+EPL,2018-2019,15,Tue,2018-12-04,20:00,Watford,1.5,2.5,Manchester City,20389,Vicarage Road Stadium,Paul Tierney,https://fbref.com/en/matches/bc25da05/Watford-Manchester-City-December-4-2018-Premier-League,1,2
+EPL,2018-2019,15,Wed,2018-12-05,19:45,Fulham,1.9,1.9,Leicester City,22881,Craven Cottage,David Coote,https://fbref.com/en/matches/6106db5b/Fulham-Leicester-City-December-5-2018-Premier-League,1,1
+EPL,2018-2019,15,Wed,2018-12-05,19:45,Wolves,1.1,1.3,Chelsea,31300,Molineux Stadium,Jonathan Moss,https://fbref.com/en/matches/1f0139bd/Wolverhampton-Wanderers-Chelsea-December-5-2018-Premier-League,2,1
+EPL,2018-2019,15,Wed,2018-12-05,19:45,Burnley,1.1,2.5,Liverpool,21741,Turf Moor,Stuart Attwell,https://fbref.com/en/matches/e222777c/Burnley-Liverpool-December-5-2018-Premier-League,1,3
+EPL,2018-2019,15,Wed,2018-12-05,19:45,Everton,1.6,1.1,Newcastle Utd,39350,Goodison Park,Lee Mason,https://fbref.com/en/matches/eda94231/Everton-Newcastle-United-December-5-2018-Premier-League,1,1
+EPL,2018-2019,15,Wed,2018-12-05,20:00,Tottenham,1.5,2.1,Southampton,33012,Wembley Stadium,Anthony Taylor,https://fbref.com/en/matches/85f0d560/Tottenham-Hotspur-Southampton-December-5-2018-Premier-League,3,1
+EPL,2018-2019,15,Wed,2018-12-05,20:00,Manchester Utd,1.1,1.0,Arsenal,74507,Old Trafford,Andre Marriner,https://fbref.com/en/matches/12fa1e2f/Manchester-United-Arsenal-December-5-2018-Premier-League,2,2
+EPL,2018-2019,16,Sat,2018-12-08,12:30,Bournemouth,0.6,1.7,Liverpool,10752,Vitality Stadium,Lee Mason,https://fbref.com/en/matches/f7799c66/Bournemouth-Liverpool-December-8-2018-Premier-League,0,4
+EPL,2018-2019,16,Sat,2018-12-08,15:00,Cardiff City,1.8,0.7,Southampton,30067,Cardiff City Stadium,Jonathan Moss,https://fbref.com/en/matches/8e964f90/Cardiff-City-Southampton-December-8-2018-Premier-League,1,0
+EPL,2018-2019,16,Sat,2018-12-08,15:00,Burnley,1.7,0.7,Brighton,18497,Turf Moor,Martin Atkinson,https://fbref.com/en/matches/6d8dc23c/Burnley-Brighton-and-Hove-Albion-December-8-2018-Premier-League,1,0
+EPL,2018-2019,16,Sat,2018-12-08,15:00,Manchester Utd,2.1,1.1,Fulham,74523,Old Trafford,Lee Probert,https://fbref.com/en/matches/56b98f03/Manchester-United-Fulham-December-8-2018-Premier-League,4,1
+EPL,2018-2019,16,Sat,2018-12-08,15:00,Arsenal,1.7,0.3,Huddersfield,59893,Emirates Stadium,Paul Tierney,https://fbref.com/en/matches/9bcabb8e/Arsenal-Huddersfield-Town-December-8-2018-Premier-League,1,0
+EPL,2018-2019,16,Sat,2018-12-08,15:00,West Ham,1.7,1.1,Crystal Palace,56995,London Stadium,Anthony Taylor,https://fbref.com/en/matches/3b59adbe/West-Ham-United-Crystal-Palace-December-8-2018-Premier-League,3,2
+EPL,2018-2019,16,Sat,2018-12-08,17:30,Chelsea,0.6,1.3,Manchester City,40571,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/0ae205b0/Chelsea-Manchester-City-December-8-2018-Premier-League,2,0
+EPL,2018-2019,16,Sat,2018-12-08,19:45,Leicester City,0.3,0.5,Tottenham,31957,King Power Stadium,Craig Pawson,https://fbref.com/en/matches/703d629f/Leicester-City-Tottenham-Hotspur-December-8-2018-Premier-League,0,2
+EPL,2018-2019,16,Sun,2018-12-09,16:00,Newcastle Utd,0.4,1.8,Wolves,50223,St. James' Park,Mike Dean,https://fbref.com/en/matches/3fabd313/Newcastle-United-Wolverhampton-Wanderers-December-9-2018-Premier-League,1,2
+EPL,2018-2019,16,Mon,2018-12-10,20:00,Everton,1.4,1.2,Watford,38400,Goodison Park,Kevin Friend,https://fbref.com/en/matches/e05a45bf/Everton-Watford-December-10-2018-Premier-League,2,2
+EPL,2018-2019,17,Sat,2018-12-15,12:30,Manchester City,1.0,1.1,Everton,54173,Etihad Stadium,Craig Pawson,https://fbref.com/en/matches/53e034c9/Manchester-City-Everton-December-15-2018-Premier-League,3,1
+EPL,2018-2019,17,Sat,2018-12-15,15:00,Huddersfield,0.7,1.3,Newcastle Utd,24036,The John Smith's Stadium,Anthony Taylor,https://fbref.com/en/matches/afb65f17/Huddersfield-Town-Newcastle-United-December-15-2018-Premier-League,0,1
+EPL,2018-2019,17,Sat,2018-12-15,15:00,Wolves,2.0,0.7,Bournemouth,30997,Molineux Stadium,Simon Hooper,https://fbref.com/en/matches/f2f44842/Wolverhampton-Wanderers-Bournemouth-December-15-2018-Premier-League,2,0
+EPL,2018-2019,17,Sat,2018-12-15,15:00,Watford,2.1,0.8,Cardiff City,20032,Vicarage Road Stadium,Andy Madley,https://fbref.com/en/matches/514e90fd/Watford-Cardiff-City-December-15-2018-Premier-League,3,2
+EPL,2018-2019,17,Sat,2018-12-15,15:00,Crystal Palace,0.3,1.1,Leicester City,24738,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/c63dd378/Crystal-Palace-Leicester-City-December-15-2018-Premier-League,1,0
+EPL,2018-2019,17,Sat,2018-12-15,15:00,Tottenham,1.6,0.3,Burnley,41645,Wembley Stadium,Graham Scott,https://fbref.com/en/matches/a539bb48/Tottenham-Hotspur-Burnley-December-15-2018-Premier-League,1,0
+EPL,2018-2019,17,Sat,2018-12-15,17:30,Fulham,1.1,0.8,West Ham,24081,Craven Cottage,Mike Dean,https://fbref.com/en/matches/647e5834/Fulham-West-Ham-United-December-15-2018-Premier-League,0,2
+EPL,2018-2019,17,Sun,2018-12-16,13:30,Brighton,0.4,1.6,Chelsea,30645,The American Express Community Stadium,Stuart Attwell,https://fbref.com/en/matches/330a90b9/Brighton-and-Hove-Albion-Chelsea-December-16-2018-Premier-League,1,2
+EPL,2018-2019,17,Sun,2018-12-16,13:30,Southampton,0.7,1.5,Arsenal,29497,St. Mary's Stadium,Chris Kavanagh,https://fbref.com/en/matches/31896db5/Southampton-Arsenal-December-16-2018-Premier-League,3,2
+EPL,2018-2019,17,Sun,2018-12-16,16:00,Liverpool,2.5,0.6,Manchester Utd,52908,Anfield,Martin Atkinson,https://fbref.com/en/matches/5e74670d/North-West-Derby-Liverpool-Manchester-United-December-16-2018-Premier-League,3,1
+EPL,2018-2019,18,Fri,2018-12-21,20:00,Wolves,1.1,1.3,Liverpool,31358,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/c9705ea1/Wolverhampton-Wanderers-Liverpool-December-21-2018-Premier-League,0,2
+EPL,2018-2019,18,Sat,2018-12-22,12:30,Arsenal,1.3,0.9,Burnley,59493,Emirates Stadium,Kevin Friend,https://fbref.com/en/matches/ffe874ee/Arsenal-Burnley-December-22-2018-Premier-League,3,1
+EPL,2018-2019,18,Sat,2018-12-22,15:00,West Ham,2.2,2.3,Watford,56833,London Stadium,Lee Mason,https://fbref.com/en/matches/1a9ca1ae/West-Ham-United-Watford-December-22-2018-Premier-League,0,2
+EPL,2018-2019,18,Sat,2018-12-22,15:00,Chelsea,1.6,0.7,Leicester City,40558,Stamford Bridge,Lee Probert,https://fbref.com/en/matches/88800548/Chelsea-Leicester-City-December-22-2018-Premier-League,0,1
+EPL,2018-2019,18,Sat,2018-12-22,15:00,Manchester City,1.1,0.9,Crystal Palace,54340,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/056fa8cd/Manchester-City-Crystal-Palace-December-22-2018-Premier-League,2,3
+EPL,2018-2019,18,Sat,2018-12-22,15:00,Newcastle Utd,0.3,0.6,Fulham,51237,St. James' Park,Martin Atkinson,https://fbref.com/en/matches/ee7f6109/Newcastle-United-Fulham-December-22-2018-Premier-League,0,0
+EPL,2018-2019,18,Sat,2018-12-22,15:00,Bournemouth,0.9,0.8,Brighton,10491,Vitality Stadium,Mike Dean,https://fbref.com/en/matches/0233399d/Bournemouth-Brighton-and-Hove-Albion-December-22-2018-Premier-League,2,0
+EPL,2018-2019,18,Sat,2018-12-22,15:00,Huddersfield,0.8,2.6,Southampton,22384,The John Smith's Stadium,Stuart Attwell,https://fbref.com/en/matches/7dfcd16a/Huddersfield-Town-Southampton-December-22-2018-Premier-League,1,3
+EPL,2018-2019,18,Sat,2018-12-22,17:30,Cardiff City,1.2,2.6,Manchester Utd,33028,Cardiff City Stadium,Michael Oliver,https://fbref.com/en/matches/7d45c66e/Cardiff-City-Manchester-United-December-22-2018-Premier-League,1,5
+EPL,2018-2019,18,Sun,2018-12-23,16:00,Everton,0.9,3.2,Tottenham,39319,Goodison Park,Paul Tierney,https://fbref.com/en/matches/31157c7c/Everton-Tottenham-Hotspur-December-23-2018-Premier-League,2,6
+EPL,2018-2019,19,Wed,2018-12-26,12:30,Fulham,1.1,1.4,Wolves,24382,Craven Cottage,Andre Marriner,https://fbref.com/en/matches/8f09048d/Fulham-Wolverhampton-Wanderers-December-26-2018-Premier-League,1,1
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Leicester City,1.7,1.7,Manchester City,32090,King Power Stadium,Mike Dean,https://fbref.com/en/matches/56a793f1/Leicester-City-Manchester-City-December-26-2018-Premier-League,2,1
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Crystal Palace,2.6,0.8,Cardiff City,25206,Selhurst Park,Lee Probert,https://fbref.com/en/matches/c58e407b/Crystal-Palace-Cardiff-City-December-26-2018-Premier-League,0,0
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Tottenham,1.8,1.6,Bournemouth,45154,Wembley Stadium,Chris Kavanagh,https://fbref.com/en/matches/5c08f848/Tottenham-Hotspur-Bournemouth-December-26-2018-Premier-League,5,0
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Burnley,1.5,2.1,Everton,21484,Turf Moor,Michael Oliver,https://fbref.com/en/matches/146ab8f3/Burnley-Everton-December-26-2018-Premier-League,1,5
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Manchester Utd,1.4,1.2,Huddersfield,74523,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/1eacf9b2/Manchester-United-Huddersfield-Town-December-26-2018-Premier-League,3,1
+EPL,2018-2019,19,Wed,2018-12-26,15:00,Liverpool,2.9,0.7,Newcastle Utd,53318,Anfield,Graham Scott,https://fbref.com/en/matches/3d252639/Liverpool-Newcastle-United-December-26-2018-Premier-League,4,0
+EPL,2018-2019,19,Wed,2018-12-26,17:15,Brighton,1.7,0.5,Arsenal,30608,The American Express Community Stadium,Anthony Taylor,https://fbref.com/en/matches/60a25a27/Brighton-and-Hove-Albion-Arsenal-December-26-2018-Premier-League,1,1
+EPL,2018-2019,19,Wed,2018-12-26,19:30,Watford,0.8,2.5,Chelsea,20415,Vicarage Road Stadium,Martin Atkinson,https://fbref.com/en/matches/1634f179/Watford-Chelsea-December-26-2018-Premier-League,1,2
+EPL,2018-2019,19,Thu,2018-12-27,19:45,Southampton,1.3,1.6,West Ham,31654,St. Mary's Stadium,Craig Pawson,https://fbref.com/en/matches/697ac3ce/Southampton-West-Ham-United-December-27-2018-Premier-League,1,2
+EPL,2018-2019,20,Sat,2018-12-29,15:00,Brighton,1.2,0.7,Everton,30597,The American Express Community Stadium,Andy Madley,https://fbref.com/en/matches/52202784/Brighton-and-Hove-Albion-Everton-December-29-2018-Premier-League,1,0
+EPL,2018-2019,20,Sat,2018-12-29,15:00,Leicester City,1.6,0.7,Cardiff City,32047,King Power Stadium,Simon Hooper,https://fbref.com/en/matches/b815d126/Leicester-City-Cardiff-City-December-29-2018-Premier-League,0,1
+EPL,2018-2019,20,Sat,2018-12-29,15:00,Tottenham,0.3,0.8,Wolves,46356,Wembley Stadium,Stuart Attwell,https://fbref.com/en/matches/d72c42c6/Tottenham-Hotspur-Wolverhampton-Wanderers-December-29-2018-Premier-League,1,3
+EPL,2018-2019,20,Sat,2018-12-29,15:00,Watford,1.1,0.5,Newcastle Utd,20336,Vicarage Road Stadium,Roger East,https://fbref.com/en/matches/06693984/Watford-Newcastle-United-December-29-2018-Premier-League,1,1
+EPL,2018-2019,20,Sat,2018-12-29,15:00,Fulham,2.2,0.3,Huddersfield,24423,Craven Cottage,Kevin Friend,https://fbref.com/en/matches/2cd7ca82/Fulham-Huddersfield-Town-December-29-2018-Premier-League,1,0
+EPL,2018-2019,20,Sat,2018-12-29,17:30,Liverpool,4.1,1.3,Arsenal,53326,Anfield,Michael Oliver,https://fbref.com/en/matches/33716a25/Liverpool-Arsenal-December-29-2018-Premier-League,5,1
+EPL,2018-2019,20,Sun,2018-12-30,12:00,Crystal Palace,0.2,0.6,Chelsea,25781,Selhurst Park,Craig Pawson,https://fbref.com/en/matches/060ad174/Crystal-Palace-Chelsea-December-30-2018-Premier-League,0,1
+EPL,2018-2019,20,Sun,2018-12-30,14:15,Burnley,2.3,0.5,West Ham,20933,Turf Moor,David Coote,https://fbref.com/en/matches/ac412bcf/Burnley-West-Ham-United-December-30-2018-Premier-League,2,0
+EPL,2018-2019,20,Sun,2018-12-30,14:15,Southampton,0.4,2.6,Manchester City,31381,St. Mary's Stadium,Paul Tierney,https://fbref.com/en/matches/75424968/Southampton-Manchester-City-December-30-2018-Premier-League,1,3
+EPL,2018-2019,20,Sun,2018-12-30,16:30,Manchester Utd,2.0,0.5,Bournemouth,74556,Old Trafford,Lee Mason,https://fbref.com/en/matches/4c4766d0/Manchester-United-Bournemouth-December-30-2018-Premier-League,4,1
+EPL,2018-2019,21,Tue,2019-01-01,12:30,Everton,0.9,0.7,Leicester City,39052,Goodison Park,Martin Atkinson,https://fbref.com/en/matches/6cbc15a7/Everton-Leicester-City-January-1-2019-Premier-League,0,1
+EPL,2018-2019,21,Tue,2019-01-01,15:00,Arsenal,3.2,1.4,Fulham,59887,Emirates Stadium,Graham Scott,https://fbref.com/en/matches/652ef5bb/Arsenal-Fulham-January-1-2019-Premier-League,4,1
+EPL,2018-2019,21,Tue,2019-01-01,17:30,Cardiff City,0.5,1.5,Tottenham,32485,Cardiff City Stadium,Kevin Friend,https://fbref.com/en/matches/eac5074c/Cardiff-City-Tottenham-Hotspur-January-1-2019-Premier-League,0,3
+EPL,2018-2019,21,Wed,2019-01-02,19:45,West Ham,1.2,0.5,Brighton,59870,London Stadium,Chris Kavanagh,https://fbref.com/en/matches/49b9ddde/West-Ham-United-Brighton-and-Hove-Albion-January-2-2019-Premier-League,2,2
+EPL,2018-2019,21,Wed,2019-01-02,19:45,Chelsea,1.2,0.2,Southampton,40668,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/a37a4199/Chelsea-Southampton-January-2-2019-Premier-League,0,0
+EPL,2018-2019,21,Wed,2019-01-02,19:45,Huddersfield,0.8,2.5,Burnley,23715,The John Smith's Stadium,Mike Dean,https://fbref.com/en/matches/c9e1c9f0/Huddersfield-Town-Burnley-January-2-2019-Premier-League,1,2
+EPL,2018-2019,21,Wed,2019-01-02,19:45,Wolves,0.7,1.8,Crystal Palace,30666,Molineux Stadium,Roger East,https://fbref.com/en/matches/044d1986/Wolverhampton-Wanderers-Crystal-Palace-January-2-2019-Premier-League,0,2
+EPL,2018-2019,21,Wed,2019-01-02,19:45,Bournemouth,2.3,0.7,Watford,10261,Vitality Stadium,David Coote,https://fbref.com/en/matches/9a63d65c/Bournemouth-Watford-January-2-2019-Premier-League,3,3
+EPL,2018-2019,21,Wed,2019-01-02,20:00,Newcastle Utd,1.0,2.4,Manchester Utd,52217,St. James' Park,Andre Marriner,https://fbref.com/en/matches/412fe1c7/Newcastle-United-Manchester-United-January-2-2019-Premier-League,0,2
+EPL,2018-2019,21,Thu,2019-01-03,20:00,Manchester City,0.8,1.7,Liverpool,54511,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/22b630df/Manchester-City-Liverpool-January-3-2019-Premier-League,2,1
+EPL,2018-2019,22,Sat,2019-01-12,12:30,West Ham,1.0,0.8,Arsenal,59946,London Stadium,Jonathan Moss,https://fbref.com/en/matches/3e57e4cd/West-Ham-United-Arsenal-January-12-2019-Premier-League,1,0
+EPL,2018-2019,22,Sat,2019-01-12,15:00,Brighton,0.5,2.1,Liverpool,30682,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/d50a51c0/Brighton-and-Hove-Albion-Liverpool-January-12-2019-Premier-League,0,1
+EPL,2018-2019,22,Sat,2019-01-12,15:00,Leicester City,1.5,1.2,Southampton,31491,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/fd573a6a/Leicester-City-Southampton-January-12-2019-Premier-League,1,2
+EPL,2018-2019,22,Sat,2019-01-12,15:00,Burnley,0.6,0.7,Fulham,19316,Turf Moor,Martin Atkinson,https://fbref.com/en/matches/07bf1373/Burnley-Fulham-January-12-2019-Premier-League,2,1
+EPL,2018-2019,22,Sat,2019-01-12,15:00,Cardiff City,0.1,0.5,Huddersfield,30725,Cardiff City Stadium,Lee Mason,https://fbref.com/en/matches/f49f5ccb/Cardiff-City-Huddersfield-Town-January-12-2019-Premier-League,0,0
+EPL,2018-2019,22,Sat,2019-01-12,15:00,Crystal Palace,1.2,1.4,Watford,25010,Selhurst Park,Paul Tierney,https://fbref.com/en/matches/e14b5d85/Crystal-Palace-Watford-January-12-2019-Premier-League,1,2
+EPL,2018-2019,22,Sat,2019-01-12,17:30,Chelsea,1.6,0.6,Newcastle Utd,40491,Stamford Bridge,Chris Kavanagh,https://fbref.com/en/matches/18b60e11/Chelsea-Newcastle-United-January-12-2019-Premier-League,2,1
+EPL,2018-2019,22,Sun,2019-01-13,14:15,Everton,1.2,1.5,Bournemouth,38113,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/be4ed705/Everton-Bournemouth-January-13-2019-Premier-League,2,0
+EPL,2018-2019,22,Sun,2019-01-13,16:30,Tottenham,2.0,1.2,Manchester Utd,80062,Wembley Stadium,Mike Dean,https://fbref.com/en/matches/89a76ba1/Tottenham-Hotspur-Manchester-United-January-13-2019-Premier-League,0,1
+EPL,2018-2019,22,Mon,2019-01-14,20:00,Manchester City,2.6,0.1,Wolves,54171,Etihad Stadium,Craig Pawson,https://fbref.com/en/matches/de53db7d/Manchester-City-Wolverhampton-Wanderers-January-14-2019-Premier-League,3,0
+EPL,2018-2019,23,Sat,2019-01-19,12:30,Wolves,1.5,1.3,Leicester City,31278,Molineux Stadium,Chris Kavanagh,https://fbref.com/en/matches/0bc77d83/Wolverhampton-Wanderers-Leicester-City-January-19-2019-Premier-League,4,3
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Watford,0.8,1.2,Burnley,19510,Vicarage Road Stadium,Michael Oliver,https://fbref.com/en/matches/f8283cc3/Watford-Burnley-January-19-2019-Premier-League,0,0
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Manchester Utd,2.2,0.6,Brighton,74532,Old Trafford,Paul Tierney,https://fbref.com/en/matches/806cb036/Manchester-United-Brighton-and-Hove-Albion-January-19-2019-Premier-League,2,1
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Liverpool,2.5,0.7,Crystal Palace,53171,Anfield,Jonathan Moss,https://fbref.com/en/matches/98ecfb34/Liverpool-Crystal-Palace-January-19-2019-Premier-League,4,3
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Southampton,1.2,0.8,Everton,29989,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/88a05211/Southampton-Everton-January-19-2019-Premier-League,2,1
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Bournemouth,1.3,1.0,West Ham,10495,Vitality Stadium,Simon Hooper,https://fbref.com/en/matches/6e73b274/Bournemouth-West-Ham-United-January-19-2019-Premier-League,2,0
+EPL,2018-2019,23,Sat,2019-01-19,15:00,Newcastle Utd,2.1,0.2,Cardiff City,49864,St. James' Park,Stuart Attwell,https://fbref.com/en/matches/79bd2498/Newcastle-United-Cardiff-City-January-19-2019-Premier-League,3,0
+EPL,2018-2019,23,Sat,2019-01-19,17:30,Arsenal,1.6,1.1,Chelsea,59979,Emirates Stadium,Anthony Taylor,https://fbref.com/en/matches/edb777b6/North-West-London-Derby-Arsenal-Chelsea-January-19-2019-Premier-League,2,0
+EPL,2018-2019,23,Sun,2019-01-20,13:30,Huddersfield,0.5,2.2,Manchester City,24190,The John Smith's Stadium,Andre Marriner,https://fbref.com/en/matches/cf851bd2/Huddersfield-Town-Manchester-City-January-20-2019-Premier-League,0,3
+EPL,2018-2019,23,Sun,2019-01-20,16:00,Fulham,0.9,1.2,Tottenham,24807,Craven Cottage,Craig Pawson,https://fbref.com/en/matches/10bcde09/Fulham-Tottenham-Hotspur-January-20-2019-Premier-League,1,2
+EPL,2018-2019,24,Tue,2019-01-29,19:45,Wolves,2.2,0.1,West Ham,31122,Molineux Stadium,David Coote,https://fbref.com/en/matches/d8569596/Wolverhampton-Wanderers-West-Ham-United-January-29-2019-Premier-League,3,0
+EPL,2018-2019,24,Tue,2019-01-29,19:45,Fulham,2.0,1.4,Brighton,22008,Craven Cottage,Lee Probert,https://fbref.com/en/matches/3f50a3f4/Fulham-Brighton-and-Hove-Albion-January-29-2019-Premier-League,4,2
+EPL,2018-2019,24,Tue,2019-01-29,19:45,Huddersfield,0.5,1.0,Everton,23699,The John Smith's Stadium,Stuart Attwell,https://fbref.com/en/matches/7040b46b/Huddersfield-Town-Everton-January-29-2019-Premier-League,0,1
+EPL,2018-2019,24,Tue,2019-01-29,19:45,Arsenal,1.9,0.9,Cardiff City,59933,Emirates Stadium,Mike Dean,https://fbref.com/en/matches/f37ab33c/Arsenal-Cardiff-City-January-29-2019-Premier-League,2,1
+EPL,2018-2019,24,Tue,2019-01-29,20:00,Newcastle Utd,1.0,1.5,Manchester City,50861,St. James' Park,Paul Tierney,https://fbref.com/en/matches/d705415d/Newcastle-United-Manchester-City-January-29-2019-Premier-League,2,1
+EPL,2018-2019,24,Tue,2019-01-29,20:00,Manchester Utd,3.1,0.7,Burnley,74529,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/e32699c0/Manchester-United-Burnley-January-29-2019-Premier-League,2,2
+EPL,2018-2019,24,Wed,2019-01-30,19:45,Bournemouth,1.7,0.7,Chelsea,10227,Vitality Stadium,Roger East,https://fbref.com/en/matches/44f162ae/Bournemouth-Chelsea-January-30-2019-Premier-League,4,0
+EPL,2018-2019,24,Wed,2019-01-30,19:45,Southampton,1.0,1.2,Crystal Palace,28339,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/ba17c290/Southampton-Crystal-Palace-January-30-2019-Premier-League,1,1
+EPL,2018-2019,24,Wed,2019-01-30,20:00,Tottenham,1.5,0.6,Watford,29164,Wembley Stadium,Graham Scott,https://fbref.com/en/matches/61bdd34c/Tottenham-Hotspur-Watford-January-30-2019-Premier-League,2,1
+EPL,2018-2019,24,Wed,2019-01-30,20:00,Liverpool,0.5,0.8,Leicester City,53092,Anfield,Martin Atkinson,https://fbref.com/en/matches/dd91dd3f/Liverpool-Leicester-City-January-30-2019-Premier-League,1,1
+EPL,2018-2019,25,Sat,2019-02-02,12:30,Tottenham,2.4,0.5,Newcastle Utd,41219,Wembley Stadium,Andre Marriner,https://fbref.com/en/matches/4c76b26c/Tottenham-Hotspur-Newcastle-United-February-2-2019-Premier-League,1,0
+EPL,2018-2019,25,Sat,2019-02-02,15:00,Burnley,2.3,1.1,Southampton,19787,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/98d13ff1/Burnley-Southampton-February-2-2019-Premier-League,1,1
+EPL,2018-2019,25,Sat,2019-02-02,15:00,Crystal Palace,2.1,0.6,Fulham,25355,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/f0a48fd0/Crystal-Palace-Fulham-February-2-2019-Premier-League,2,0
+EPL,2018-2019,25,Sat,2019-02-02,15:00,Everton,0.8,1.5,Wolves,39380,Goodison Park,Lee Mason,https://fbref.com/en/matches/34c9e9bf/Everton-Wolverhampton-Wanderers-February-2-2019-Premier-League,1,3
+EPL,2018-2019,25,Sat,2019-02-02,15:00,Brighton,1.7,0.3,Watford,30414,The American Express Community Stadium,Simon Hooper,https://fbref.com/en/matches/1b543fa6/Brighton-and-Hove-Albion-Watford-February-2-2019-Premier-League,0,0
+EPL,2018-2019,25,Sat,2019-02-02,15:00,Chelsea,2.9,0.3,Huddersfield,40626,Stamford Bridge,Paul Tierney,https://fbref.com/en/matches/1faef710/Chelsea-Huddersfield-Town-February-2-2019-Premier-League,5,0
+EPL,2018-2019,25,Sat,2019-02-02,17:30,Cardiff City,2.3,0.5,Bournemouth,31939,Cardiff City Stadium,Jonathan Moss,https://fbref.com/en/matches/6e1f303b/Cardiff-City-Bournemouth-February-2-2019-Premier-League,2,0
+EPL,2018-2019,25,Sun,2019-02-03,14:05,Leicester City,1.5,1.3,Manchester Utd,32148,King Power Stadium,Mike Dean,https://fbref.com/en/matches/5877794a/Leicester-City-Manchester-United-February-3-2019-Premier-League,0,1
+EPL,2018-2019,25,Sun,2019-02-03,16:30,Manchester City,3.2,0.8,Arsenal,54483,Etihad Stadium,Martin Atkinson,https://fbref.com/en/matches/dba05e48/Manchester-City-Arsenal-February-3-2019-Premier-League,3,1
+EPL,2018-2019,25,Mon,2019-02-04,20:00,West Ham,0.8,1.3,Liverpool,59903,London Stadium,Kevin Friend,https://fbref.com/en/matches/e695579a/West-Ham-United-Liverpool-February-4-2019-Premier-League,1,1
+EPL,2018-2019,27,Wed,2019-02-06,19:45,Everton,0.1,2.4,Manchester City,39322,Goodison Park,Craig Pawson,https://fbref.com/en/matches/24faf054/Everton-Manchester-City-February-6-2019-Premier-League,0,2
+EPL,2018-2019,26,Sat,2019-02-09,12:30,Fulham,1.4,1.7,Manchester Utd,25001,Craven Cottage,Paul Tierney,https://fbref.com/en/matches/aa7aef05/Fulham-Manchester-United-February-9-2019-Premier-League,0,3
+EPL,2018-2019,26,Sat,2019-02-09,15:00,Southampton,1.5,0.6,Cardiff City,31438,St. Mary's Stadium,Martin Atkinson,https://fbref.com/en/matches/2ad5c782/Southampton-Cardiff-City-February-9-2019-Premier-League,1,2
+EPL,2018-2019,26,Sat,2019-02-09,15:00,Huddersfield,1.2,2.0,Arsenal,24182,The John Smith's Stadium,Jonathan Moss,https://fbref.com/en/matches/99562ab3/Huddersfield-Town-Arsenal-February-9-2019-Premier-League,1,2
+EPL,2018-2019,26,Sat,2019-02-09,15:00,Watford,1.6,0.7,Everton,20333,Vicarage Road Stadium,Lee Probert,https://fbref.com/en/matches/541f34a4/Watford-Everton-February-9-2019-Premier-League,1,0
+EPL,2018-2019,26,Sat,2019-02-09,15:00,Liverpool,2.0,0.4,Bournemouth,53178,Anfield,Anthony Taylor,https://fbref.com/en/matches/0a085d29/Liverpool-Bournemouth-February-9-2019-Premier-League,3,0
+EPL,2018-2019,26,Sat,2019-02-09,15:00,Crystal Palace,2.5,1.5,West Ham,25552,Selhurst Park,Craig Pawson,https://fbref.com/en/matches/0194fea4/Crystal-Palace-West-Ham-United-February-9-2019-Premier-League,1,1
+EPL,2018-2019,26,Sat,2019-02-09,17:30,Brighton,1.1,2.2,Burnley,29323,The American Express Community Stadium,Stuart Attwell,https://fbref.com/en/matches/2572aa9b/Brighton-and-Hove-Albion-Burnley-February-9-2019-Premier-League,1,3
+EPL,2018-2019,26,Sun,2019-02-10,13:30,Tottenham,1.1,2.5,Leicester City,44154,Wembley Stadium,Michael Oliver,https://fbref.com/en/matches/b53789c9/Tottenham-Hotspur-Leicester-City-February-10-2019-Premier-League,3,1
+EPL,2018-2019,26,Sun,2019-02-10,16:00,Manchester City,3.1,0.9,Chelsea,54452,Etihad Stadium,Mike Dean,https://fbref.com/en/matches/5ec57dbe/Manchester-City-Chelsea-February-10-2019-Premier-League,6,0
+EPL,2018-2019,26,Mon,2019-02-11,20:00,Wolves,1.9,0.7,Newcastle Utd,30687,Molineux Stadium,Graham Scott,https://fbref.com/en/matches/c3bbcee6/Wolverhampton-Wanderers-Newcastle-United-February-11-2019-Premier-League,1,1
+EPL,2018-2019,27,Fri,2019-02-22,19:45,Cardiff City,1.2,2.8,Watford,30387,Cardiff City Stadium,Simon Hooper,https://fbref.com/en/matches/a87bd77b/Cardiff-City-Watford-February-22-2019-Premier-League,1,5
+EPL,2018-2019,27,Fri,2019-02-22,19:45,West Ham,1.4,1.3,Fulham,59950,London Stadium,Lee Mason,https://fbref.com/en/matches/698db309/West-Ham-United-Fulham-February-22-2019-Premier-League,3,1
+EPL,2018-2019,27,Sat,2019-02-23,12:30,Burnley,1.3,0.9,Tottenham,21338,Turf Moor,Mike Dean,https://fbref.com/en/matches/a4f29e38/Burnley-Tottenham-Hotspur-February-23-2019-Premier-League,2,1
+EPL,2018-2019,27,Sat,2019-02-23,15:00,Newcastle Utd,3.3,0.2,Huddersfield,52174,St. James' Park,Kevin Friend,https://fbref.com/en/matches/fc5c6132/Newcastle-United-Huddersfield-Town-February-23-2019-Premier-League,2,0
+EPL,2018-2019,27,Sat,2019-02-23,15:00,Bournemouth,2.0,1.6,Wolves,10671,Vitality Stadium,Roger East,https://fbref.com/en/matches/9b38c79c/Bournemouth-Wolverhampton-Wanderers-February-23-2019-Premier-League,1,1
+EPL,2018-2019,27,Sat,2019-02-23,17:30,Leicester City,1.1,1.4,Crystal Palace,31778,King Power Stadium,Anthony Taylor,https://fbref.com/en/matches/7c5bc0fa/Leicester-City-Crystal-Palace-February-23-2019-Premier-League,1,4
+EPL,2018-2019,27,Sun,2019-02-24,14:05,Manchester Utd,0.2,0.4,Liverpool,74519,Old Trafford,Michael Oliver,https://fbref.com/en/matches/28b8b03a/North-West-Derby-Manchester-United-Liverpool-February-24-2019-Premier-League,0,0
+EPL,2018-2019,27,Sun,2019-02-24,14:05,Arsenal,2.1,0.9,Southampton,59877,Emirates Stadium,Graham Scott,https://fbref.com/en/matches/1f6dfbb4/Arsenal-Southampton-February-24-2019-Premier-League,2,0
+EPL,2018-2019,28,Tue,2019-02-26,19:45,Leicester City,1.9,1.3,Brighton,30558,King Power Stadium,Lee Probert,https://fbref.com/en/matches/86908659/Leicester-City-Brighton-and-Hove-Albion-February-26-2019-Premier-League,2,1
+EPL,2018-2019,28,Tue,2019-02-26,19:45,Huddersfield,1.6,0.6,Wolves,22714,The John Smith's Stadium,David Coote,https://fbref.com/en/matches/430439d8/Huddersfield-Town-Wolverhampton-Wanderers-February-26-2019-Premier-League,1,0
+EPL,2018-2019,28,Tue,2019-02-26,19:45,Cardiff City,0.3,0.8,Everton,31849,Cardiff City Stadium,Kevin Friend,https://fbref.com/en/matches/258dd575/Cardiff-City-Everton-February-26-2019-Premier-League,0,3
+EPL,2018-2019,28,Tue,2019-02-26,20:00,Newcastle Utd,0.8,1.1,Burnley,48323,St. James' Park,Craig Pawson,https://fbref.com/en/matches/09bb5985/Newcastle-United-Burnley-February-26-2019-Premier-League,2,0
+EPL,2018-2019,28,Wed,2019-02-27,19:45,Southampton,1.4,0.7,Fulham,27597,St. Mary's Stadium,Anthony Taylor,https://fbref.com/en/matches/7ff42214/Southampton-Fulham-February-27-2019-Premier-League,2,0
+EPL,2018-2019,28,Wed,2019-02-27,19:45,Arsenal,3.2,1.3,Bournemouth,59618,Emirates Stadium,Chris Kavanagh,https://fbref.com/en/matches/59600e66/Arsenal-Bournemouth-February-27-2019-Premier-League,5,1
+EPL,2018-2019,28,Wed,2019-02-27,20:00,Crystal Palace,1.5,1.3,Manchester Utd,25754,Selhurst Park,Martin Atkinson,https://fbref.com/en/matches/35dcf161/Crystal-Palace-Manchester-United-February-27-2019-Premier-League,1,3
+EPL,2018-2019,28,Wed,2019-02-27,20:00,Chelsea,0.6,0.5,Tottenham,40542,Stamford Bridge,Andre Marriner,https://fbref.com/en/matches/99ebf266/Chelsea-Tottenham-Hotspur-February-27-2019-Premier-League,2,0
+EPL,2018-2019,28,Wed,2019-02-27,20:00,Manchester City,3.0,0.5,West Ham,53528,Etihad Stadium,Stuart Attwell,https://fbref.com/en/matches/db370521/Manchester-City-West-Ham-United-February-27-2019-Premier-League,1,0
+EPL,2018-2019,28,Wed,2019-02-27,20:00,Liverpool,1.9,1.0,Watford,53316,Anfield,Graham Scott,https://fbref.com/en/matches/b34f9ff8/Liverpool-Watford-February-27-2019-Premier-League,5,0
+EPL,2018-2019,29,Sat,2019-03-02,12:30,Tottenham,1.3,2.4,Arsenal,81332,Wembley Stadium,Anthony Taylor,https://fbref.com/en/matches/72ed853c/North-London-Derby-Tottenham-Hotspur-Arsenal-March-2-2019-Premier-League,1,1
+EPL,2018-2019,29,Sat,2019-03-02,15:00,Manchester Utd,2.2,0.5,Southampton,74459,Old Trafford,Stuart Attwell,https://fbref.com/en/matches/0e3e4be7/Manchester-United-Southampton-March-2-2019-Premier-League,3,2
+EPL,2018-2019,29,Sat,2019-03-02,15:00,Bournemouth,0.0,1.6,Manchester City,10699,Vitality Stadium,Kevin Friend,https://fbref.com/en/matches/5e35e444/Bournemouth-Manchester-City-March-2-2019-Premier-League,0,1
+EPL,2018-2019,29,Sat,2019-03-02,15:00,Burnley,1.7,0.8,Crystal Palace,19223,Turf Moor,Lee Probert,https://fbref.com/en/matches/fbfb16e5/Burnley-Crystal-Palace-March-2-2019-Premier-League,1,3
+EPL,2018-2019,29,Sat,2019-03-02,15:00,Wolves,2.6,0.6,Cardiff City,31309,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/2e1e02b8/Wolverhampton-Wanderers-Cardiff-City-March-2-2019-Premier-League,2,0
+EPL,2018-2019,29,Sat,2019-03-02,15:00,Brighton,1.1,0.3,Huddersfield,30182,The American Express Community Stadium,Mike Dean,https://fbref.com/en/matches/e34a25b2/Brighton-and-Hove-Albion-Huddersfield-Town-March-2-2019-Premier-League,1,0
+EPL,2018-2019,29,Sat,2019-03-02,17:30,West Ham,1.9,1.1,Newcastle Utd,59910,London Stadium,Chris Kavanagh,https://fbref.com/en/matches/7d4fcb12/West-Ham-United-Newcastle-United-March-2-2019-Premier-League,2,0
+EPL,2018-2019,29,Sun,2019-03-03,12:00,Watford,0.9,1.0,Leicester City,20062,Vicarage Road Stadium,Jonathan Moss,https://fbref.com/en/matches/7c1b902f/Watford-Leicester-City-March-3-2019-Premier-League,2,1
+EPL,2018-2019,29,Sun,2019-03-03,14:05,Fulham,0.8,1.7,Chelsea,24900,Craven Cottage,Graham Scott,https://fbref.com/en/matches/3a56d413/Fulham-Chelsea-March-3-2019-Premier-League,1,2
+EPL,2018-2019,29,Sun,2019-03-03,16:15,Everton,0.5,1.1,Liverpool,39335,Goodison Park,Martin Atkinson,https://fbref.com/en/matches/edc35bc3/Merseyside-Derby-Everton-Liverpool-March-3-2019-Premier-League,0,0
+EPL,2018-2019,30,Sat,2019-03-09,12:30,Crystal Palace,1.8,0.1,Brighton,24972,Selhurst Park,Craig Pawson,https://fbref.com/en/matches/64a4127a/Crystal-Palace-Brighton-and-Hove-Albion-March-9-2019-Premier-League,1,2
+EPL,2018-2019,30,Sat,2019-03-09,15:00,Newcastle Utd,2.3,1.0,Everton,52242,St. James' Park,Lee Mason,https://fbref.com/en/matches/09e7b1a1/Newcastle-United-Everton-March-9-2019-Premier-League,3,2
+EPL,2018-2019,30,Sat,2019-03-09,15:00,Leicester City,2.0,0.2,Fulham,32017,King Power Stadium,David Coote,https://fbref.com/en/matches/81a25590/Leicester-City-Fulham-March-9-2019-Premier-League,3,1
+EPL,2018-2019,30,Sat,2019-03-09,15:00,Southampton,1.2,1.0,Tottenham,31890,St. Mary's Stadium,Kevin Friend,https://fbref.com/en/matches/f3bf8c42/Southampton-Tottenham-Hotspur-March-9-2019-Premier-League,2,1
+EPL,2018-2019,30,Sat,2019-03-09,15:00,Cardiff City,2.9,0.3,West Ham,32458,Cardiff City Stadium,Graham Scott,https://fbref.com/en/matches/1ad3de71/Cardiff-City-West-Ham-United-March-9-2019-Premier-League,2,0
+EPL,2018-2019,30,Sat,2019-03-09,15:00,Huddersfield,0.4,2.2,Bournemouth,22304,The John Smith's Stadium,Anthony Taylor,https://fbref.com/en/matches/7c7a736a/Huddersfield-Town-Bournemouth-March-9-2019-Premier-League,0,2
+EPL,2018-2019,30,Sat,2019-03-09,17:30,Manchester City,3.2,0.5,Watford,54104,Etihad Stadium,Paul Tierney,https://fbref.com/en/matches/4fe0f757/Manchester-City-Watford-March-9-2019-Premier-League,3,1
+EPL,2018-2019,30,Sun,2019-03-10,12:00,Liverpool,4.5,0.3,Burnley,53310,Anfield,Andre Marriner,https://fbref.com/en/matches/d4a6df35/Liverpool-Burnley-March-10-2019-Premier-League,4,2
+EPL,2018-2019,30,Sun,2019-03-10,14:05,Chelsea,1.5,0.2,Wolves,40692,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/e39bc237/Chelsea-Wolverhampton-Wanderers-March-10-2019-Premier-League,1,1
+EPL,2018-2019,30,Sun,2019-03-10,16:30,Arsenal,1.5,1.6,Manchester Utd,60000,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/6a9904c8/Arsenal-Manchester-United-March-10-2019-Premier-League,2,0
+EPL,2018-2019,31,Sat,2019-03-16,15:00,Burnley,1.6,0.7,Leicester City,20719,Turf Moor,Michael Oliver,https://fbref.com/en/matches/91a19d8e/Burnley-Leicester-City-March-16-2019-Premier-League,1,2
+EPL,2018-2019,31,Sat,2019-03-16,15:00,West Ham,2.3,1.4,Huddersfield,59931,London Stadium,Jonathan Moss,https://fbref.com/en/matches/879fa3c2/West-Ham-United-Huddersfield-Town-March-16-2019-Premier-League,4,3
+EPL,2018-2019,31,Sat,2019-03-16,15:00,Bournemouth,1.5,1.2,Newcastle Utd,10625,Vitality Stadium,Mike Dean,https://fbref.com/en/matches/a27275d9/Bournemouth-Newcastle-United-March-16-2019-Premier-League,2,2
+EPL,2018-2019,31,Sun,2019-03-17,14:15,Fulham,1.1,2.5,Liverpool,25043,Craven Cottage,Craig Pawson,https://fbref.com/en/matches/d8db9418/Fulham-Liverpool-March-17-2019-Premier-League,1,2
+EPL,2018-2019,31,Sun,2019-03-17,16:30,Everton,2.1,1.2,Chelsea,39356,Goodison Park,Anthony Taylor,https://fbref.com/en/matches/537717fa/Everton-Chelsea-March-17-2019-Premier-League,2,0
+EPL,2018-2019,32,Sat,2019-03-30,12:30,Fulham,0.3,2.7,Manchester City,25001,Craven Cottage,Kevin Friend,https://fbref.com/en/matches/b5d358d9/Fulham-Manchester-City-March-30-2019-Premier-League,0,2
+EPL,2018-2019,32,Sat,2019-03-30,15:00,Manchester Utd,1.3,1.3,Watford,74543,Old Trafford,Stuart Attwell,https://fbref.com/en/matches/e1e4e2be/Manchester-United-Watford-March-30-2019-Premier-League,2,1
+EPL,2018-2019,32,Sat,2019-03-30,15:00,Crystal Palace,3.2,0.5,Huddersfield,25193,Selhurst Park,Lee Probert,https://fbref.com/en/matches/9de9e8e3/Crystal-Palace-Huddersfield-Town-March-30-2019-Premier-League,2,0
+EPL,2018-2019,32,Sat,2019-03-30,15:00,Brighton,0.9,0.7,Southampton,30636,The American Express Community Stadium,Michael Oliver,https://fbref.com/en/matches/b3ee7e21/Brighton-and-Hove-Albion-Southampton-March-30-2019-Premier-League,0,1
+EPL,2018-2019,32,Sat,2019-03-30,15:00,Burnley,0.2,0.5,Wolves,20990,Turf Moor,Chris Kavanagh,https://fbref.com/en/matches/1b9e6483/Burnley-Wolverhampton-Wanderers-March-30-2019-Premier-League,2,0
+EPL,2018-2019,32,Sat,2019-03-30,15:00,Leicester City,1.6,0.5,Bournemouth,31530,King Power Stadium,Lee Mason,https://fbref.com/en/matches/a89c7915/Leicester-City-Bournemouth-March-30-2019-Premier-League,2,0
+EPL,2018-2019,32,Sat,2019-03-30,17:30,West Ham,0.1,2.0,Everton,59988,London Stadium,Paul Tierney,https://fbref.com/en/matches/7971b1a6/West-Ham-United-Everton-March-30-2019-Premier-League,0,2
+EPL,2018-2019,32,Sun,2019-03-31,14:05,Cardiff City,0.4,1.5,Chelsea,32657,Cardiff City Stadium,Craig Pawson,https://fbref.com/en/matches/2aac7103/Cardiff-City-Chelsea-March-31-2019-Premier-League,1,2
+EPL,2018-2019,32,Sun,2019-03-31,16:30,Liverpool,0.9,1.4,Tottenham,53322,Anfield,Martin Atkinson,https://fbref.com/en/matches/ea0b32eb/Liverpool-Tottenham-Hotspur-March-31-2019-Premier-League,2,1
+EPL,2018-2019,32,Mon,2019-04-01,20:00,Arsenal,0.9,0.1,Newcastle Utd,59869,Emirates Stadium,Anthony Taylor,https://fbref.com/en/matches/5bf58a42/Arsenal-Newcastle-United-April-1-2019-Premier-League,2,0
+EPL,2018-2019,33,Tue,2019-04-02,19:45,Wolves,1.5,1.6,Manchester Utd,31302,Molineux Stadium,Mike Dean,https://fbref.com/en/matches/658e6ed1/Wolverhampton-Wanderers-Manchester-United-April-2-2019-Premier-League,2,1
+EPL,2018-2019,33,Tue,2019-04-02,19:45,Watford,1.6,2.0,Fulham,17301,Vicarage Road Stadium,Roger East,https://fbref.com/en/matches/76199a18/Watford-Fulham-April-2-2019-Premier-League,4,1
+EPL,2018-2019,27,Wed,2019-04-03,19:45,Chelsea,1.9,0.6,Brighton,38593,Stamford Bridge,Graham Scott,https://fbref.com/en/matches/e112b3a5/Chelsea-Brighton-and-Hove-Albion-April-3-2019-Premier-League,3,0
+EPL,2018-2019,31,Wed,2019-04-03,19:45,Tottenham,2.5,0.5,Crystal Palace,59215,Tottenham Hotspur Stadium,Andre Marriner,https://fbref.com/en/matches/a87fd710/Tottenham-Hotspur-Crystal-Palace-April-3-2019-Premier-League,2,0
+EPL,2018-2019,33,Wed,2019-04-03,19:45,Manchester City,2.9,0.1,Cardiff City,53559,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/2b398496/Manchester-City-Cardiff-City-April-3-2019-Premier-League,2,0
+EPL,2018-2019,33,Fri,2019-04-05,20:00,Southampton,0.8,1.7,Liverpool,31797,St. Mary's Stadium,Paul Tierney,https://fbref.com/en/matches/cb6ed621/Southampton-Liverpool-April-5-2019-Premier-League,1,3
+EPL,2018-2019,33,Sat,2019-04-06,15:00,Huddersfield,1.6,2.8,Leicester City,24126,The John Smith's Stadium,David Coote,https://fbref.com/en/matches/adf9a17a/Huddersfield-Town-Leicester-City-April-6-2019-Premier-League,1,4
+EPL,2018-2019,33,Sat,2019-04-06,15:00,Newcastle Utd,1.4,1.4,Crystal Palace,51926,St. James' Park,Stuart Attwell,https://fbref.com/en/matches/dfbc30ce/Newcastle-United-Crystal-Palace-April-6-2019-Premier-League,0,1
+EPL,2018-2019,33,Sat,2019-04-06,15:00,Bournemouth,1.2,1.0,Burnley,10446,Vitality Stadium,Martin Atkinson,https://fbref.com/en/matches/c48c3132/Bournemouth-Burnley-April-6-2019-Premier-League,1,3
+EPL,2018-2019,33,Sun,2019-04-07,14:05,Everton,2.2,0.4,Arsenal,39400,Goodison Park,Kevin Friend,https://fbref.com/en/matches/2da6911d/Everton-Arsenal-April-7-2019-Premier-League,1,0
+EPL,2018-2019,33,Mon,2019-04-08,20:00,Chelsea,1.9,0.5,West Ham,40537,Stamford Bridge,Chris Kavanagh,https://fbref.com/en/matches/5c469753/Chelsea-West-Ham-United-April-8-2019-Premier-League,2,0
+EPL,2018-2019,34,Fri,2019-04-12,20:00,Leicester City,1.2,0.7,Newcastle Utd,32108,King Power Stadium,Chris Kavanagh,https://fbref.com/en/matches/e3e6e456/Leicester-City-Newcastle-United-April-12-2019-Premier-League,0,1
+EPL,2018-2019,34,Sat,2019-04-13,12:30,Tottenham,2.3,0.6,Huddersfield,58308,Tottenham Hotspur Stadium,Lee Mason,https://fbref.com/en/matches/bbdf9192/Tottenham-Hotspur-Huddersfield-Town-April-13-2019-Premier-League,4,0
+EPL,2018-2019,34,Sat,2019-04-13,15:00,Burnley,2.7,0.8,Cardiff City,21480,Turf Moor,Mike Dean,https://fbref.com/en/matches/3f70af93/Burnley-Cardiff-City-April-13-2019-Premier-League,2,0
+EPL,2018-2019,34,Sat,2019-04-13,15:00,Fulham,1.2,0.8,Everton,24971,Craven Cottage,Lee Probert,https://fbref.com/en/matches/a47ecafe/Fulham-Everton-April-13-2019-Premier-League,2,0
+EPL,2018-2019,34,Sat,2019-04-13,15:00,Southampton,2.5,0.8,Wolves,31708,St. Mary's Stadium,Jonathan Moss,https://fbref.com/en/matches/ce640b61/Southampton-Wolverhampton-Wanderers-April-13-2019-Premier-League,3,1
+EPL,2018-2019,34,Sat,2019-04-13,15:00,Brighton,0.4,2.0,Bournemouth,30460,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/eb6b53ba/Brighton-and-Hove-Albion-Bournemouth-April-13-2019-Premier-League,0,5
+EPL,2018-2019,34,Sat,2019-04-13,17:30,Manchester Utd,2.4,1.2,West Ham,74478,Old Trafford,Graham Scott,https://fbref.com/en/matches/a5ed2a65/Manchester-United-West-Ham-United-April-13-2019-Premier-League,2,1
+EPL,2018-2019,34,Sun,2019-04-14,14:05,Crystal Palace,0.3,2.0,Manchester City,25721,Selhurst Park,Martin Atkinson,https://fbref.com/en/matches/839faa70/Crystal-Palace-Manchester-City-April-14-2019-Premier-League,1,3
+EPL,2018-2019,34,Sun,2019-04-14,16:30,Liverpool,1.3,0.9,Chelsea,53279,Anfield,Michael Oliver,https://fbref.com/en/matches/bcd4eb6f/Liverpool-Chelsea-April-14-2019-Premier-League,2,0
+EPL,2018-2019,34,Mon,2019-04-15,20:00,Watford,0.6,2.0,Arsenal,20480,Vicarage Road Stadium,Craig Pawson,https://fbref.com/en/matches/b3f8966d/Watford-Arsenal-April-15-2019-Premier-League,0,1
+EPL,2018-2019,31,Tue,2019-04-16,19:45,Brighton,0.6,0.6,Cardiff City,30226,The American Express Community Stadium,Andre Marriner,https://fbref.com/en/matches/b6ce8e80/Brighton-and-Hove-Albion-Cardiff-City-April-16-2019-Premier-League,0,2
+EPL,2018-2019,35,Sat,2019-04-20,12:30,Manchester City,1.9,1.3,Tottenham,54489,Etihad Stadium,Michael Oliver,https://fbref.com/en/matches/82b40b35/Manchester-City-Tottenham-Hotspur-April-20-2019-Premier-League,1,0
+EPL,2018-2019,35,Sat,2019-04-20,15:00,Huddersfield,0.8,1.4,Watford,23957,The John Smith's Stadium,Roger East,https://fbref.com/en/matches/d0b13a22/Huddersfield-Town-Watford-April-20-2019-Premier-League,1,2
+EPL,2018-2019,35,Sat,2019-04-20,15:00,Bournemouth,1.9,1.9,Fulham,10511,Vitality Stadium,David Coote,https://fbref.com/en/matches/935a3490/Bournemouth-Fulham-April-20-2019-Premier-League,0,1
+EPL,2018-2019,35,Sat,2019-04-20,15:00,West Ham,1.4,1.0,Leicester City,59960,London Stadium,Lee Probert,https://fbref.com/en/matches/2e2b870b/West-Ham-United-Leicester-City-April-20-2019-Premier-League,2,2
+EPL,2018-2019,35,Sat,2019-04-20,15:00,Wolves,1.7,0.1,Brighton,31096,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/f6e97df8/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-April-20-2019-Premier-League,0,0
+EPL,2018-2019,35,Sat,2019-04-20,17:30,Newcastle Utd,1.4,1.0,Southampton,52191,St. James' Park,Anthony Taylor,https://fbref.com/en/matches/deab42c4/Newcastle-United-Southampton-April-20-2019-Premier-League,3,1
+EPL,2018-2019,35,Sun,2019-04-21,13:30,Everton,1.2,0.3,Manchester Utd,39395,Goodison Park,Paul Tierney,https://fbref.com/en/matches/225a548e/Everton-Manchester-United-April-21-2019-Premier-League,4,0
+EPL,2018-2019,35,Sun,2019-04-21,16:00,Arsenal,1.2,2.2,Crystal Palace,59929,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/e379285b/Arsenal-Crystal-Palace-April-21-2019-Premier-League,2,3
+EPL,2018-2019,35,Sun,2019-04-21,16:00,Cardiff City,1.0,3.3,Liverpool,33082,Cardiff City Stadium,Martin Atkinson,https://fbref.com/en/matches/ea0a6f68/Cardiff-City-Liverpool-April-21-2019-Premier-League,0,2
+EPL,2018-2019,35,Mon,2019-04-22,20:00,Chelsea,1.1,0.9,Burnley,40642,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/9c5949d8/Chelsea-Burnley-April-22-2019-Premier-League,2,2
+EPL,2018-2019,31,Tue,2019-04-23,19:45,Watford,1.5,1.4,Southampton,19170,Vicarage Road Stadium,Mike Dean,https://fbref.com/en/matches/704df4ec/Watford-Southampton-April-23-2019-Premier-League,1,1
+EPL,2018-2019,33,Tue,2019-04-23,19:45,Tottenham,1.7,0.2,Brighton,56251,Tottenham Hotspur Stadium,Chris Kavanagh,https://fbref.com/en/matches/407914e9/Tottenham-Hotspur-Brighton-and-Hove-Albion-April-23-2019-Premier-League,1,0
+EPL,2018-2019,31,Wed,2019-04-24,19:45,Wolves,0.9,0.7,Arsenal,31436,Molineux Stadium,Stuart Attwell,https://fbref.com/en/matches/199f42bd/Wolverhampton-Wanderers-Arsenal-April-24-2019-Premier-League,3,1
+EPL,2018-2019,31,Wed,2019-04-24,20:00,Manchester Utd,0.7,0.5,Manchester City,74431,Old Trafford,Andre Marriner,https://fbref.com/en/matches/9bb5c776/Manchester-Derby-Manchester-United-Manchester-City-April-24-2019-Premier-League,0,2
+EPL,2018-2019,36,Fri,2019-04-26,20:00,Liverpool,2.5,0.1,Huddersfield,53249,Anfield,Kevin Friend,https://fbref.com/en/matches/89b55cfd/Liverpool-Huddersfield-Town-April-26-2019-Premier-League,5,0
+EPL,2018-2019,36,Sat,2019-04-27,12:30,Tottenham,1.3,1.2,West Ham,60043,Tottenham Hotspur Stadium,Anthony Taylor,https://fbref.com/en/matches/787eb54d/Tottenham-Hotspur-West-Ham-United-April-27-2019-Premier-League,0,1
+EPL,2018-2019,36,Sat,2019-04-27,15:00,Fulham,0.8,1.0,Cardiff City,23822,Craven Cottage,Chris Kavanagh,https://fbref.com/en/matches/c6e99e2a/Fulham-Cardiff-City-April-27-2019-Premier-League,1,0
+EPL,2018-2019,36,Sat,2019-04-27,15:00,Watford,1.2,1.7,Wolves,20323,Vicarage Road Stadium,Simon Hooper,https://fbref.com/en/matches/75a55372/Watford-Wolverhampton-Wanderers-April-27-2019-Premier-League,1,2
+EPL,2018-2019,36,Sat,2019-04-27,15:00,Southampton,2.7,2.0,Bournemouth,31310,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/c78ca5a2/Southampton-Bournemouth-April-27-2019-Premier-League,3,3
+EPL,2018-2019,36,Sat,2019-04-27,15:00,Crystal Palace,0.3,1.3,Everton,25789,Selhurst Park,Lee Mason,https://fbref.com/en/matches/e95d670d/Crystal-Palace-Everton-April-27-2019-Premier-League,0,0
+EPL,2018-2019,36,Sat,2019-04-27,17:30,Brighton,1.2,0.4,Newcastle Utd,30587,The American Express Community Stadium,Mike Dean,https://fbref.com/en/matches/dad6d374/Brighton-and-Hove-Albion-Newcastle-United-April-27-2019-Premier-League,1,1
+EPL,2018-2019,36,Sun,2019-04-28,12:00,Leicester City,2.9,0.5,Arsenal,32037,King Power Stadium,Michael Oliver,https://fbref.com/en/matches/373a22ae/Leicester-City-Arsenal-April-28-2019-Premier-League,3,0
+EPL,2018-2019,36,Sun,2019-04-28,14:05,Burnley,0.1,2.4,Manchester City,21605,Turf Moor,Paul Tierney,https://fbref.com/en/matches/4d9c7f23/Burnley-Manchester-City-April-28-2019-Premier-League,0,1
+EPL,2018-2019,36,Sun,2019-04-28,16:30,Manchester Utd,0.7,1.1,Chelsea,74526,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/b7a64fc3/Manchester-United-Chelsea-April-28-2019-Premier-League,1,1
+EPL,2018-2019,37,Fri,2019-05-03,20:00,Everton,1.6,0.6,Burnley,39303,Goodison Park,Chris Kavanagh,https://fbref.com/en/matches/f9a6ed1d/Everton-Burnley-May-3-2019-Premier-League,2,0
+EPL,2018-2019,37,Sat,2019-05-04,12:30,Bournemouth,1.6,0.7,Tottenham,10630,Vitality Stadium,Craig Pawson,https://fbref.com/en/matches/a6d84ca8/Bournemouth-Tottenham-Hotspur-May-4-2019-Premier-League,1,0
+EPL,2018-2019,37,Sat,2019-05-04,15:00,Wolves,2.0,0.4,Fulham,30456,Molineux Stadium,Jonathan Moss,https://fbref.com/en/matches/0cf7f89d/Wolverhampton-Wanderers-Fulham-May-4-2019-Premier-League,1,0
+EPL,2018-2019,37,Sat,2019-05-04,15:00,West Ham,1.8,0.4,Southampton,59961,London Stadium,Stuart Attwell,https://fbref.com/en/matches/11aacbe5/West-Ham-United-Southampton-May-4-2019-Premier-League,3,0
+EPL,2018-2019,37,Sat,2019-05-04,17:30,Cardiff City,1.7,1.8,Crystal Palace,32133,Cardiff City Stadium,Michael Oliver,https://fbref.com/en/matches/521ebfbb/Cardiff-City-Crystal-Palace-May-4-2019-Premier-League,2,3
+EPL,2018-2019,37,Sat,2019-05-04,19:45,Newcastle Utd,1.4,1.2,Liverpool,52206,St. James' Park,Andre Marriner,https://fbref.com/en/matches/0faa6fe4/Newcastle-United-Liverpool-May-4-2019-Premier-League,2,3
+EPL,2018-2019,37,Sun,2019-05-05,14:00,Huddersfield,1.1,1.3,Manchester Utd,24263,The John Smith's Stadium,Lee Mason,https://fbref.com/en/matches/3c0da213/Huddersfield-Town-Manchester-United-May-5-2019-Premier-League,1,1
+EPL,2018-2019,37,Sun,2019-05-05,14:00,Chelsea,1.9,1.6,Watford,40560,Stamford Bridge,Paul Tierney,https://fbref.com/en/matches/bdf4e58c/Chelsea-Watford-May-5-2019-Premier-League,3,0
+EPL,2018-2019,37,Sun,2019-05-05,16:30,Arsenal,2.2,1.7,Brighton,59965,Emirates Stadium,Anthony Taylor,https://fbref.com/en/matches/0fdf10d7/Arsenal-Brighton-and-Hove-Albion-May-5-2019-Premier-League,1,1
+EPL,2018-2019,37,Mon,2019-05-06,20:00,Manchester City,1.3,0.6,Leicester City,54506,Etihad Stadium,Mike Dean,https://fbref.com/en/matches/7c779d41/Manchester-City-Leicester-City-May-6-2019-Premier-League,1,0
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Manchester Utd,1.8,1.9,Cardiff City,74457,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/7308fc7b/Manchester-United-Cardiff-City-May-12-2019-Premier-League,0,2
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Brighton,0.4,1.8,Manchester City,30662,The American Express Community Stadium,Michael Oliver,https://fbref.com/en/matches/13fb2984/Brighton-and-Hove-Albion-Manchester-City-May-12-2019-Premier-League,1,4
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Southampton,0.6,1.1,Huddersfield,30367,St. Mary's Stadium,Lee Probert,https://fbref.com/en/matches/06832a45/Southampton-Huddersfield-Town-May-12-2019-Premier-League,1,1
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Liverpool,1.4,0.6,Wolves,53331,Anfield,Martin Atkinson,https://fbref.com/en/matches/63c1d6b9/Liverpool-Wolverhampton-Wanderers-May-12-2019-Premier-League,2,0
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Fulham,0.9,1.5,Newcastle Utd,24979,Craven Cottage,Kevin Friend,https://fbref.com/en/matches/c183610d/Fulham-Newcastle-United-May-12-2019-Premier-League,0,4
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Crystal Palace,2.0,1.8,Bournemouth,25433,Selhurst Park,Roger East,https://fbref.com/en/matches/23ad3530/Crystal-Palace-Bournemouth-May-12-2019-Premier-League,5,3
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Burnley,1.9,2.1,Arsenal,21461,Turf Moor,Mike Dean,https://fbref.com/en/matches/302b231e/Burnley-Arsenal-May-12-2019-Premier-League,1,3
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Leicester City,0.4,1.5,Chelsea,32140,King Power Stadium,Anthony Taylor,https://fbref.com/en/matches/189bbc28/Leicester-City-Chelsea-May-12-2019-Premier-League,0,0
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Tottenham,1.2,1.9,Everton,60124,Tottenham Hotspur Stadium,Andre Marriner,https://fbref.com/en/matches/5713b7fd/Tottenham-Hotspur-Everton-May-12-2019-Premier-League,2,2
+EPL,2018-2019,38,Sun,2019-05-12,15:00,Watford,2.2,3.6,West Ham,20067,Vicarage Road Stadium,Chris Kavanagh,https://fbref.com/en/matches/db4d7668/Watford-West-Ham-United-May-12-2019-Premier-League,1,4

@@ -1,381 +1,381 @@
-League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,HomeScore,AwayScore
-EPL,2020-2021,1,Sat,2020-09-12,12:30,Fulham,0.2,1.8,Arsenal,,Craven Cottage,Chris Kavanagh,0,3
-EPL,2020-2021,1,Sat,2020-09-12,15:00,Crystal Palace,0.7,0.8,Southampton,,Selhurst Park,Jonathan Moss,1,0
-EPL,2020-2021,1,Sat,2020-09-12,17:30,Liverpool,3.3,0.6,Leeds United,,Anfield,Michael Oliver,4,3
-EPL,2020-2021,1,Sat,2020-09-12,20:00,West Ham,1.1,1.5,Newcastle Utd,,London Stadium,Stuart Attwell,0,2
-EPL,2020-2021,1,Sun,2020-09-13,14:00,West Brom,0.5,2.2,Leicester City,,The Hawthorns,Anthony Taylor,0,3
-EPL,2020-2021,1,Sun,2020-09-13,16:30,Tottenham,1.0,1.4,Everton,,Tottenham Hotspur Stadium,Martin Atkinson,0,1
-EPL,2020-2021,1,Mon,2020-09-14,18:00,Sheffield Utd,0.6,1.1,Wolves,,Bramall Lane,Mike Dean,0,2
-EPL,2020-2021,1,Mon,2020-09-14,20:15,Brighton,1.4,1.2,Chelsea,,The American Express Community Stadium,Craig Pawson,1,3
-EPL,2020-2021,2,Sat,2020-09-19,12:30,Everton,3.4,0.3,West Brom,,Goodison Park,Mike Dean,5,2
-EPL,2020-2021,2,Sat,2020-09-19,15:00,Leeds United,1.7,1.8,Fulham,,Elland Road,Anthony Taylor,4,3
-EPL,2020-2021,2,Sat,2020-09-19,17:30,Manchester Utd,1.1,1.6,Crystal Palace,,Old Trafford,Martin Atkinson,1,3
-EPL,2020-2021,2,Sat,2020-09-19,20:00,Arsenal,1.4,1.9,West Ham,,Emirates Stadium,Michael Oliver,2,1
-EPL,2020-2021,2,Sun,2020-09-20,12:00,Southampton,1.5,2.5,Tottenham,,St. Mary's Stadium,David Coote,2,5
-EPL,2020-2021,2,Sun,2020-09-20,14:00,Newcastle Utd,0.5,1.6,Brighton,,St. James' Park,Kevin Friend,0,3
-EPL,2020-2021,2,Sun,2020-09-20,16:30,Chelsea,1.0,2.6,Liverpool,,Stamford Bridge,Paul Tierney,0,2
-EPL,2020-2021,2,Sun,2020-09-20,19:00,Leicester City,1.4,1.9,Burnley,,King Power Stadium,Lee Mason,4,2
-EPL,2020-2021,2,Mon,2020-09-21,18:00,Aston Villa,1.0,0.9,Sheffield Utd,,Villa Park,Graham Scott,1,0
-EPL,2020-2021,2,Mon,2020-09-21,20:15,Wolves,1.0,1.9,Manchester City,,Molineux Stadium,Andre Marriner,1,3
-EPL,2020-2021,3,Sat,2020-09-26,12:30,Brighton,2.4,1.1,Manchester Utd,,The American Express Community Stadium,Chris Kavanagh,2,3
-EPL,2020-2021,3,Sat,2020-09-26,15:00,Crystal Palace,0.4,2.0,Everton,,Selhurst Park,Kevin Friend,1,2
-EPL,2020-2021,3,Sat,2020-09-26,17:30,West Brom,1.0,2.2,Chelsea,,The Hawthorns,Jonathan Moss,3,3
-EPL,2020-2021,3,Sat,2020-09-26,20:00,Burnley,0.5,0.6,Southampton,,Turf Moor,Andre Marriner,0,1
-EPL,2020-2021,3,Sun,2020-09-27,12:00,Sheffield Utd,1.6,1.6,Leeds United,,Bramall Lane,Paul Tierney,0,1
-EPL,2020-2021,3,Sun,2020-09-27,14:00,Tottenham,2.3,1.0,Newcastle Utd,,Tottenham Hotspur Stadium,Peter Bankes,1,1
-EPL,2020-2021,3,Sun,2020-09-27,16:30,Manchester City,0.9,2.6,Leicester City,,Etihad Stadium,Michael Oliver,2,5
-EPL,2020-2021,3,Sun,2020-09-27,19:00,West Ham,1.6,0.5,Wolves,,London Stadium,Martin Atkinson,4,0
-EPL,2020-2021,3,Mon,2020-09-28,17:45,Fulham,0.7,1.6,Aston Villa,,Craven Cottage,Stuart Attwell,0,3
-EPL,2020-2021,3,Mon,2020-09-28,20:00,Liverpool,3.2,1.2,Arsenal,,Anfield,Craig Pawson,3,1
-EPL,2020-2021,4,Sat,2020-10-03,12:30,Chelsea,2.5,0.1,Crystal Palace,,Stamford Bridge,Michael Oliver,4,0
-EPL,2020-2021,4,Sat,2020-10-03,15:00,Everton,1.8,1.2,Brighton,,Goodison Park,Simon Hooper,4,2
-EPL,2020-2021,4,Sat,2020-10-03,17:30,Leeds United,1.7,1.5,Manchester City,,Elland Road,Mike Dean,1,1
-EPL,2020-2021,4,Sat,2020-10-03,20:00,Newcastle Utd,2.0,0.6,Burnley,,St. James' Park,David Coote,3,1
-EPL,2020-2021,4,Sun,2020-10-04,12:00,Leicester City,0.4,1.6,West Ham,,King Power Stadium,Andy Madley,0,3
-EPL,2020-2021,4,Sun,2020-10-04,12:00,Southampton,1.2,0.1,West Brom,,St. Mary's Stadium,Chris Kavanagh,2,0
-EPL,2020-2021,4,Sun,2020-10-04,14:00,Arsenal,0.4,0.2,Sheffield Utd,,Emirates Stadium,Lee Mason,2,1
-EPL,2020-2021,4,Sun,2020-10-04,14:00,Wolves,1.2,0.7,Fulham,,Molineux Stadium,Darren England,1,0
-EPL,2020-2021,4,Sun,2020-10-04,16:30,Manchester Utd,0.9,3.8,Tottenham,,Old Trafford,Anthony Taylor,1,6
-EPL,2020-2021,4,Sun,2020-10-04,19:15,Aston Villa,3.9,1.8,Liverpool,,Villa Park,Martin Atkinson,7,2
-EPL,2020-2021,5,Sat,2020-10-17,12:30,Everton,1.3,2.2,Liverpool,,Goodison Park,Michael Oliver,2,2
-EPL,2020-2021,5,Sat,2020-10-17,15:00,Chelsea,2.0,2.2,Southampton,,Stamford Bridge,Peter Bankes,3,3
-EPL,2020-2021,5,Sat,2020-10-17,17:30,Manchester City,1.5,0.9,Arsenal,,Etihad Stadium,Chris Kavanagh,1,0
-EPL,2020-2021,5,Sat,2020-10-17,20:00,Newcastle Utd,0.5,2.7,Manchester Utd,,St. James' Park,Craig Pawson,1,4
-EPL,2020-2021,5,Sun,2020-10-18,12:00,Sheffield Utd,1.5,1.7,Fulham,,Bramall Lane,Andre Marriner,1,1
-EPL,2020-2021,5,Sun,2020-10-18,14:00,Crystal Palace,0.8,1.1,Brighton,,Selhurst Park,Stuart Attwell,1,1
-EPL,2020-2021,5,Sun,2020-10-18,16:30,Tottenham,1.2,2.1,West Ham,,Tottenham Hotspur Stadium,Paul Tierney,3,3
-EPL,2020-2021,5,Sun,2020-10-18,19:15,Leicester City,0.5,0.6,Aston Villa,,King Power Stadium,Jonathan Moss,0,1
-EPL,2020-2021,5,Mon,2020-10-19,17:30,West Brom,1.0,1.1,Burnley,,The Hawthorns,Anthony Taylor,0,0
-EPL,2020-2021,5,Mon,2020-10-19,20:00,Leeds United,1.6,0.5,Wolves,,Elland Road,David Coote,0,1
-EPL,2020-2021,6,Fri,2020-10-23,20:00,Aston Villa,1.2,3.6,Leeds United,,Villa Park,Paul Tierney,0,3
-EPL,2020-2021,6,Sat,2020-10-24,12:30,West Ham,0.5,1.1,Manchester City,,London Stadium,Anthony Taylor,1,1
-EPL,2020-2021,6,Sat,2020-10-24,15:00,Fulham,1.1,2.6,Crystal Palace,,Craven Cottage,Graham Scott,1,2
-EPL,2020-2021,6,Sat,2020-10-24,17:30,Manchester Utd,0.7,0.2,Chelsea,,Old Trafford,Martin Atkinson,0,0
-EPL,2020-2021,6,Sat,2020-10-24,20:00,Liverpool,2.5,1.5,Sheffield Utd,,Anfield,Mike Dean,2,1
-EPL,2020-2021,6,Sun,2020-10-25,14:00,Southampton,0.7,0.4,Everton,,St. Mary's Stadium,Kevin Friend,2,0
-EPL,2020-2021,6,Sun,2020-10-25,16:30,Wolves,0.7,0.2,Newcastle Utd,,Molineux Stadium,Lee Mason,1,1
-EPL,2020-2021,6,Sun,2020-10-25,19:15,Arsenal,0.9,1.2,Leicester City,,Emirates Stadium,Craig Pawson,0,1
-EPL,2020-2021,6,Mon,2020-10-26,17:30,Brighton,0.7,0.6,West Brom,,The American Express Community Stadium,Jonathan Moss,1,1
-EPL,2020-2021,6,Mon,2020-10-26,20:00,Burnley,0.6,0.8,Tottenham,,Turf Moor,Michael Oliver,0,1
-EPL,2020-2021,7,Fri,2020-10-30,20:00,Wolves,1.3,0.6,Crystal Palace,,Molineux Stadium,Martin Atkinson,2,0
-EPL,2020-2021,7,Sat,2020-10-31,12:30,Sheffield Utd,0.5,1.5,Manchester City,,Bramall Lane,Michael Oliver,0,1
-EPL,2020-2021,7,Sat,2020-10-31,15:00,Burnley,0.4,1.4,Chelsea,,Turf Moor,David Coote,0,3
-EPL,2020-2021,7,Sat,2020-10-31,17:30,Liverpool,1.8,0.5,West Ham,,Anfield,Kevin Friend,2,1
-EPL,2020-2021,7,Sun,2020-11-01,12:00,Aston Villa,1.8,0.7,Southampton,,Villa Park,Darren England,3,4
-EPL,2020-2021,7,Sun,2020-11-01,14:00,Newcastle Utd,2.5,1.2,Everton,,St. James' Park,Stuart Attwell,2,1
-EPL,2020-2021,7,Sun,2020-11-01,16:30,Manchester Utd,0.3,1.1,Arsenal,,Old Trafford,Mike Dean,0,1
-EPL,2020-2021,7,Sun,2020-11-01,19:15,Tottenham,1.8,0.4,Brighton,,Tottenham Hotspur Stadium,Graham Scott,2,1
-EPL,2020-2021,7,Mon,2020-11-02,17:30,Fulham,1.5,0.5,West Brom,,Craven Cottage,Simon Hooper,2,0
-EPL,2020-2021,7,Mon,2020-11-02,20:00,Leeds United,1.0,3.5,Leicester City,,Elland Road,Andre Marriner,1,4
-EPL,2020-2021,8,Fri,2020-11-06,17:30,Brighton,1.3,0.3,Burnley,,The American Express Community Stadium,Mike Dean,0,0
-EPL,2020-2021,8,Fri,2020-11-06,20:00,Southampton,0.9,0.5,Newcastle Utd,,St. Mary's Stadium,Peter Bankes,2,0
-EPL,2020-2021,8,Sat,2020-11-07,12:30,Everton,0.6,1.6,Manchester Utd,,Goodison Park,Paul Tierney,1,3
-EPL,2020-2021,8,Sat,2020-11-07,15:00,Crystal Palace,0.9,0.8,Leeds United,,Selhurst Park,Chris Kavanagh,4,1
-EPL,2020-2021,8,Sat,2020-11-07,17:30,Chelsea,2.7,0.6,Sheffield Utd,,Stamford Bridge,Jonathan Moss,4,1
-EPL,2020-2021,8,Sat,2020-11-07,20:00,West Ham,1.3,1.6,Fulham,,London Stadium,Robert Jones,1,0
-EPL,2020-2021,8,Sun,2020-11-08,12:00,West Brom,0.8,1.6,Tottenham,,The Hawthorns,Andy Madley,0,1
-EPL,2020-2021,8,Sun,2020-11-08,14:00,Leicester City,1.9,0.5,Wolves,,King Power Stadium,Anthony Taylor,1,0
-EPL,2020-2021,8,Sun,2020-11-08,16:30,Manchester City,1.6,1.4,Liverpool,,Etihad Stadium,Craig Pawson,1,1
-EPL,2020-2021,8,Sun,2020-11-08,19:15,Arsenal,1.5,1.7,Aston Villa,,Emirates Stadium,Martin Atkinson,0,3
-EPL,2020-2021,9,Sat,2020-11-21,12:30,Newcastle Utd,0.6,1.6,Chelsea,,St. James' Park,Craig Pawson,0,2
-EPL,2020-2021,9,Sat,2020-11-21,15:00,Aston Villa,1.5,1.3,Brighton,,Villa Park,Michael Oliver,1,2
-EPL,2020-2021,9,Sat,2020-11-21,17:30,Tottenham,0.7,1.3,Manchester City,,Tottenham Hotspur Stadium,Mike Dean,2,0
-EPL,2020-2021,9,Sat,2020-11-21,20:00,Manchester Utd,2.5,0.6,West Brom,,Old Trafford,David Coote,1,0
-EPL,2020-2021,9,Sun,2020-11-22,12:00,Fulham,1.3,1.6,Everton,,Craven Cottage,Andy Madley,2,3
-EPL,2020-2021,9,Sun,2020-11-22,14:00,Sheffield Utd,0.7,2.2,West Ham,,Bramall Lane,Martin Atkinson,0,1
-EPL,2020-2021,9,Sun,2020-11-22,16:30,Leeds United,2.5,0.9,Arsenal,,Elland Road,Anthony Taylor,0,0
-EPL,2020-2021,9,Sun,2020-11-22,19:15,Liverpool,3.7,1.3,Leicester City,,Anfield,Chris Kavanagh,3,0
-EPL,2020-2021,9,Mon,2020-11-23,17:30,Burnley,1.6,1.4,Crystal Palace,,Turf Moor,Kevin Friend,1,0
-EPL,2020-2021,9,Mon,2020-11-23,20:00,Wolves,1.9,1.5,Southampton,,Molineux Stadium,Andre Marriner,1,1
-EPL,2020-2021,10,Fri,2020-11-27,20:00,Crystal Palace,1.0,1.5,Newcastle Utd,,Selhurst Park,Graham Scott,0,2
-EPL,2020-2021,10,Sat,2020-11-28,12:30,Brighton,2.1,0.5,Liverpool,,The American Express Community Stadium,Stuart Attwell,1,1
-EPL,2020-2021,10,Sat,2020-11-28,15:00,Manchester City,2.8,0.4,Burnley,,Etihad Stadium,Lee Mason,5,0
-EPL,2020-2021,10,Sat,2020-11-28,17:30,Everton,1.6,2.9,Leeds United,,Goodison Park,Chris Kavanagh,0,1
-EPL,2020-2021,10,Sat,2020-11-28,20:00,West Brom,1.3,2.7,Sheffield Utd,,The Hawthorns,Mike Dean,1,0
-EPL,2020-2021,10,Sun,2020-11-29,14:00,Southampton,0.4,2.3,Manchester Utd,,St. Mary's Stadium,Jonathan Moss,2,3
-EPL,2020-2021,10,Sun,2020-11-29,16:30,Chelsea,1.0,0.2,Tottenham,,Stamford Bridge,Paul Tierney,0,0
-EPL,2020-2021,10,Sun,2020-11-29,19:15,Arsenal,1.2,1.4,Wolves,,Emirates Stadium,Michael Oliver,1,2
-EPL,2020-2021,10,Mon,2020-11-30,17:30,Leicester City,0.9,1.8,Fulham,,King Power Stadium,Simon Hooper,1,2
-EPL,2020-2021,10,Mon,2020-11-30,20:00,West Ham,0.6,2.6,Aston Villa,,London Stadium,Peter Bankes,2,1
-EPL,2020-2021,11,Sat,2020-12-05,12:30,Burnley,0.8,1.7,Everton,,Turf Moor,Anthony Taylor,1,1
-EPL,2020-2021,11,Sat,2020-12-05,15:00,Manchester City,3.0,0.2,Fulham,,Etihad Stadium,Jonathan Moss,2,0
-EPL,2020-2021,11,Sat,2020-12-05,17:30,West Ham,2.2,1.9,Manchester Utd,2000,London Stadium,Andre Marriner,1,3
-EPL,2020-2021,11,Sat,2020-12-05,20:00,Chelsea,3.7,1.3,Leeds United,2000,Stamford Bridge,Kevin Friend,3,1
-EPL,2020-2021,11,Sun,2020-12-06,12:00,West Brom,0.8,1.8,Crystal Palace,,The Hawthorns,Paul Tierney,1,5
-EPL,2020-2021,11,Sun,2020-12-06,14:15,Sheffield Utd,0.3,1.5,Leicester City,,Bramall Lane,Stuart Attwell,1,2
-EPL,2020-2021,11,Sun,2020-12-06,16:30,Tottenham,0.5,0.8,Arsenal,2000,Tottenham Hotspur Stadium,Martin Atkinson,2,0
-EPL,2020-2021,11,Sun,2020-12-06,19:15,Liverpool,1.2,0.5,Wolves,2000,Anfield,Craig Pawson,4,0
-EPL,2020-2021,11,Mon,2020-12-07,20:00,Brighton,2.1,1.1,Southampton,2000,The American Express Community Stadium,David Coote,1,2
-EPL,2020-2021,12,Fri,2020-12-11,20:00,Leeds United,1.8,1.9,West Ham,,Elland Road,Michael Oliver,1,2
-EPL,2020-2021,12,Sat,2020-12-12,12:30,Wolves,1.2,1.1,Aston Villa,,Molineux Stadium,Mike Dean,0,1
-EPL,2020-2021,12,Sat,2020-12-12,15:00,Newcastle Utd,1.1,0.6,West Brom,,St. James' Park,Darren England,2,1
-EPL,2020-2021,12,Sat,2020-12-12,17:30,Manchester Utd,1.0,1.2,Manchester City,,Old Trafford,Chris Kavanagh,0,0
-EPL,2020-2021,12,Sat,2020-12-12,20:00,Everton,1.3,0.9,Chelsea,2000,Goodison Park,Jonathan Moss,1,0
-EPL,2020-2021,12,Sun,2020-12-13,12:00,Southampton,1.4,0.4,Sheffield Utd,2000,St. Mary's Stadium,Andy Madley,3,0
-EPL,2020-2021,12,Sun,2020-12-13,14:15,Crystal Palace,1.2,1.1,Tottenham,2000,Selhurst Park,Kevin Friend,1,1
-EPL,2020-2021,12,Sun,2020-12-13,16:30,Fulham,1.5,2.1,Liverpool,2000,Craven Cottage,Andre Marriner,1,1
-EPL,2020-2021,12,Sun,2020-12-13,19:15,Arsenal,1.5,0.9,Burnley,2000,Emirates Stadium,Graham Scott,0,1
-EPL,2020-2021,12,Sun,2020-12-13,19:15,Leicester City,1.7,1.1,Brighton,,King Power Stadium,Martin Atkinson,3,0
-EPL,2020-2021,13,Tue,2020-12-15,18:00,Wolves,0.5,1.3,Chelsea,,Molineux Stadium,Stuart Attwell,2,1
-EPL,2020-2021,13,Tue,2020-12-15,20:00,Manchester City,1.9,0.3,West Brom,,Etihad Stadium,Peter Bankes,1,1
-EPL,2020-2021,13,Wed,2020-12-16,18:00,Arsenal,0.7,1.1,Southampton,,Emirates Stadium,Paul Tierney,1,1
-EPL,2020-2021,13,Wed,2020-12-16,18:00,Leicester City,0.7,1.2,Everton,,King Power Stadium,Lee Mason,0,2
-EPL,2020-2021,13,Wed,2020-12-16,18:00,Leeds United,2.8,0.9,Newcastle Utd,,Elland Road,Simon Hooper,5,2
-EPL,2020-2021,13,Wed,2020-12-16,20:00,West Ham,0.3,0.9,Crystal Palace,,London Stadium,David Coote,1,1
-EPL,2020-2021,13,Wed,2020-12-16,20:00,Fulham,0.8,0.6,Brighton,,Craven Cottage,Robert Jones,0,0
-EPL,2020-2021,13,Wed,2020-12-16,20:00,Liverpool,1.2,1.3,Tottenham,2000,Anfield,Anthony Taylor,2,1
-EPL,2020-2021,13,Thu,2020-12-17,18:00,Aston Villa,2.0,0.4,Burnley,,Villa Park,Craig Pawson,0,0
-EPL,2020-2021,13,Thu,2020-12-17,20:00,Sheffield Utd,1.6,2.0,Manchester Utd,,Bramall Lane,Michael Oliver,2,3
-EPL,2020-2021,14,Sat,2020-12-19,12:30,Crystal Palace,0.3,2.1,Liverpool,,Selhurst Park,Jonathan Moss,0,7
-EPL,2020-2021,14,Sat,2020-12-19,15:00,Southampton,1.0,1.1,Manchester City,,St. Mary's Stadium,Mike Dean,0,1
-EPL,2020-2021,14,Sat,2020-12-19,17:30,Everton,0.8,1.4,Arsenal,,Goodison Park,Andre Marriner,2,1
-EPL,2020-2021,14,Sat,2020-12-19,20:00,Newcastle Utd,1.4,0.7,Fulham,,St. James' Park,Graham Scott,1,1
-EPL,2020-2021,14,Sun,2020-12-20,12:00,Brighton,2.6,0.7,Sheffield Utd,,The American Express Community Stadium,Peter Bankes,1,1
-EPL,2020-2021,14,Sun,2020-12-20,14:15,Tottenham,1.1,1.5,Leicester City,,Tottenham Hotspur Stadium,Craig Pawson,0,2
-EPL,2020-2021,14,Sun,2020-12-20,16:30,Manchester Utd,4.0,1.7,Leeds United,,Old Trafford,Anthony Taylor,6,2
-EPL,2020-2021,14,Sun,2020-12-20,19:15,West Brom,0.0,2.3,Aston Villa,,The Hawthorns,Martin Atkinson,0,3
-EPL,2020-2021,14,Mon,2020-12-21,17:30,Burnley,1.8,1.4,Wolves,,Turf Moor,Lee Mason,2,1
-EPL,2020-2021,14,Mon,2020-12-21,20:00,Chelsea,2.1,0.5,West Ham,,Stamford Bridge,Chris Kavanagh,3,0
-EPL,2020-2021,15,Sat,2020-12-26,12:30,Leicester City,1.2,2.2,Manchester Utd,,King Power Stadium,Mike Dean,2,2
-EPL,2020-2021,15,Sat,2020-12-26,15:00,Fulham,0.9,0.1,Southampton,,Craven Cottage,Darren England,0,0
-EPL,2020-2021,15,Sat,2020-12-26,15:00,Aston Villa,3.5,1.1,Crystal Palace,,Villa Park,Anthony Taylor,3,0
-EPL,2020-2021,15,Sat,2020-12-26,17:30,Arsenal,2.1,2.3,Chelsea,,Emirates Stadium,Michael Oliver,3,1
-EPL,2020-2021,15,Sat,2020-12-26,20:00,Sheffield Utd,1.2,0.7,Everton,,Bramall Lane,David Coote,0,1
-EPL,2020-2021,15,Sat,2020-12-26,20:00,Manchester City,1.8,0.3,Newcastle Utd,,Etihad Stadium,Andre Marriner,2,0
-EPL,2020-2021,15,Sun,2020-12-27,12:00,Leeds United,1.8,1.1,Burnley,,Elland Road,Robert Jones,1,0
-EPL,2020-2021,15,Sun,2020-12-27,14:15,West Ham,1.2,1.2,Brighton,,London Stadium,Simon Hooper,2,2
-EPL,2020-2021,15,Sun,2020-12-27,16:30,Liverpool,1.6,0.5,West Brom,2000,Anfield,Kevin Friend,1,1
-EPL,2020-2021,15,Sun,2020-12-27,19:15,Wolves,1.0,0.4,Tottenham,,Molineux Stadium,Paul Tierney,1,1
-EPL,2020-2021,16,Mon,2020-12-28,15:00,Crystal Palace,0.5,1.8,Leicester City,,Selhurst Park,Graham Scott,1,1
-EPL,2020-2021,16,Mon,2020-12-28,17:30,Chelsea,1.4,0.8,Aston Villa,,Stamford Bridge,Stuart Attwell,1,1
-EPL,2020-2021,16,Tue,2020-12-29,18:00,Southampton,0.5,0.9,West Ham,,St. Mary's Stadium,Andy Madley,0,0
-EPL,2020-2021,16,Tue,2020-12-29,18:00,West Brom,0.6,0.9,Leeds United,,The Hawthorns,Lee Mason,0,5
-EPL,2020-2021,16,Tue,2020-12-29,18:00,Brighton,0.8,1.2,Arsenal,,The American Express Community Stadium,Martin Atkinson,0,1
-EPL,2020-2021,16,Tue,2020-12-29,18:00,Burnley,0.8,0.4,Sheffield Utd,,Turf Moor,Chris Kavanagh,1,0
-EPL,2020-2021,16,Tue,2020-12-29,20:00,Manchester Utd,1.3,0.4,Wolves,,Old Trafford,Jonathan Moss,1,0
-EPL,2020-2021,16,Wed,2020-12-30,20:00,Newcastle Utd,0.3,1.1,Liverpool,,St. James' Park,Paul Tierney,0,0
-EPL,2020-2021,17,Fri,2021-01-01,17:30,Everton,0.3,1.3,West Ham,,Goodison Park,Kevin Friend,0,1
-EPL,2020-2021,17,Fri,2021-01-01,20:00,Manchester Utd,1.9,1.6,Aston Villa,,Old Trafford,Michael Oliver,2,1
-EPL,2020-2021,17,Sat,2021-01-02,12:30,Tottenham,2.6,1.0,Leeds United,,Tottenham Hotspur Stadium,David Coote,3,0
-EPL,2020-2021,17,Sat,2021-01-02,15:00,Crystal Palace,0.6,0.3,Sheffield Utd,,Selhurst Park,Stuart Attwell,2,0
-EPL,2020-2021,17,Sat,2021-01-02,17:30,Brighton,1.7,1.7,Wolves,,The American Express Community Stadium,Andy Madley,3,3
-EPL,2020-2021,17,Sat,2021-01-02,20:00,West Brom,0.4,3.3,Arsenal,,The Hawthorns,Martin Atkinson,0,4
-EPL,2020-2021,17,Sun,2021-01-03,14:15,Newcastle Utd,0.2,0.9,Leicester City,,St. James' Park,Robert Jones,1,2
-EPL,2020-2021,17,Sun,2021-01-03,16:30,Chelsea,0.8,2.4,Manchester City,,Stamford Bridge,Anthony Taylor,1,3
-EPL,2020-2021,17,Mon,2021-01-04,20:00,Southampton,0.6,1.1,Liverpool,,St. Mary's Stadium,Andre Marriner,1,0
-EPL,2020-2021,18,Tue,2021-01-12,18:00,Sheffield Utd,1.8,0.5,Newcastle Utd,,Bramall Lane,Andy Madley,1,0
-EPL,2020-2021,1,Tue,2021-01-12,20:15,Burnley,0.9,1.2,Manchester Utd,,Turf Moor,Kevin Friend,0,1
-EPL,2020-2021,18,Tue,2021-01-12,20:15,Wolves,1.0,0.6,Everton,,Molineux Stadium,Martin Atkinson,1,2
-EPL,2020-2021,18,Wed,2021-01-13,18:00,Manchester City,2.6,0.2,Brighton,,Etihad Stadium,Darren England,1,0
-EPL,2020-2021,16,Wed,2021-01-13,20:15,Tottenham,2.3,0.9,Fulham,,Tottenham Hotspur Stadium,Paul Tierney,1,1
-EPL,2020-2021,18,Thu,2021-01-14,20:00,Arsenal,0.6,0.9,Crystal Palace,,Emirates Stadium,Andre Marriner,0,0
-EPL,2020-2021,19,Sat,2021-01-16,12:30,Wolves,2.2,2.3,West Brom,,Molineux Stadium,Michael Oliver,2,3
-EPL,2020-2021,19,Sat,2021-01-16,15:00,Leeds United,0.3,1.3,Brighton,,Elland Road,Kevin Friend,0,1
-EPL,2020-2021,19,Sat,2021-01-16,15:00,West Ham,1.7,0.5,Burnley,,London Stadium,Chris Kavanagh,1,0
-EPL,2020-2021,19,Sat,2021-01-16,17:30,Fulham,0.8,1.5,Chelsea,,Craven Cottage,Peter Bankes,0,1
-EPL,2020-2021,19,Sat,2021-01-16,20:00,Leicester City,2.1,0.8,Southampton,,King Power Stadium,Stuart Attwell,2,0
-EPL,2020-2021,19,Sun,2021-01-17,,Aston Villa,,,Everton,,Villa Park,,,
-EPL,2020-2021,19,Sun,2021-01-17,14:00,Sheffield Utd,0.7,1.2,Tottenham,,Bramall Lane,Andre Marriner,1,3
-EPL,2020-2021,19,Sun,2021-01-17,16:30,Liverpool,1.7,0.9,Manchester Utd,,Anfield,Paul Tierney,0,0
-EPL,2020-2021,19,Sun,2021-01-17,19:15,Manchester City,0.9,0.0,Crystal Palace,,Etihad Stadium,Lee Mason,4,0
-EPL,2020-2021,19,Mon,2021-01-18,20:00,Arsenal,2.8,0.2,Newcastle Utd,,Emirates Stadium,David Coote,3,0
-EPL,2020-2021,18,Tue,2021-01-19,18:00,West Ham,1.3,0.4,West Brom,,London Stadium,Graham Scott,2,1
-EPL,2020-2021,18,Tue,2021-01-19,20:15,Leicester City,1.2,0.8,Chelsea,,King Power Stadium,Craig Pawson,2,0
-EPL,2020-2021,1,Wed,2021-01-20,18:00,Manchester City,4.3,0.8,Aston Villa,,Etihad Stadium,Jonathan Moss,2,0
-EPL,2020-2021,18,Wed,2021-01-20,20:15,Fulham,0.9,1.2,Manchester Utd,,Craven Cottage,Martin Atkinson,1,2
-EPL,2020-2021,18,Thu,2021-01-21,20:00,Liverpool,2.3,1.4,Burnley,,Anfield,Mike Dean,0,1
-EPL,2020-2021,11,Sat,2021-01-23,20:00,Aston Villa,1.8,0.6,Newcastle Utd,,Villa Park,Simon Hooper,2,0
-EPL,2020-2021,20,Tue,2021-01-26,18:00,Newcastle Utd,1.4,0.9,Leeds United,,St. James' Park,Anthony Taylor,1,2
-EPL,2020-2021,20,Tue,2021-01-26,18:00,Crystal Palace,0.5,3.0,West Ham,,Selhurst Park,Stuart Attwell,2,3
-EPL,2020-2021,20,Tue,2021-01-26,20:15,West Brom,0.4,2.0,Manchester City,,The Hawthorns,Chris Kavanagh,0,5
-EPL,2020-2021,20,Tue,2021-01-26,20:15,Southampton,1.2,2.0,Arsenal,,St. Mary's Stadium,Kevin Friend,1,3
-EPL,2020-2021,20,Wed,2021-01-27,18:00,Burnley,0.5,2.1,Aston Villa,,Turf Moor,Paul Tierney,3,2
-EPL,2020-2021,20,Wed,2021-01-27,18:00,Chelsea,0.8,0.4,Wolves,,Stamford Bridge,Andy Madley,0,0
-EPL,2020-2021,20,Wed,2021-01-27,19:30,Brighton,2.0,1.0,Fulham,,The American Express Community Stadium,Craig Pawson,0,0
-EPL,2020-2021,20,Wed,2021-01-27,20:15,Manchester Utd,1.7,1.0,Sheffield Utd,,Old Trafford,Peter Bankes,1,2
-EPL,2020-2021,20,Wed,2021-01-27,20:15,Everton,0.6,1.1,Leicester City,,Goodison Park,Mike Dean,1,1
-EPL,2020-2021,20,Thu,2021-01-28,20:00,Tottenham,0.2,2.1,Liverpool,,Tottenham Hotspur Stadium,Martin Atkinson,1,3
-EPL,2020-2021,21,Sat,2021-01-30,12:30,Everton,1.0,1.8,Newcastle Utd,,Goodison Park,Stuart Attwell,0,2
-EPL,2020-2021,21,Sat,2021-01-30,15:00,Manchester City,1.2,0.2,Sheffield Utd,,Etihad Stadium,David Coote,1,0
-EPL,2020-2021,21,Sat,2021-01-30,15:00,West Brom,0.6,1.8,Fulham,,The Hawthorns,Anthony Taylor,2,2
-EPL,2020-2021,21,Sat,2021-01-30,15:00,Crystal Palace,0.8,0.4,Wolves,,Selhurst Park,Simon Hooper,1,0
-EPL,2020-2021,21,Sat,2021-01-30,17:30,Arsenal,1.1,1.5,Manchester Utd,,Emirates Stadium,Michael Oliver,0,0
-EPL,2020-2021,21,Sat,2021-01-30,20:00,Southampton,1.7,0.5,Aston Villa,,St. Mary's Stadium,Lee Mason,0,1
-EPL,2020-2021,21,Sun,2021-01-31,12:00,Chelsea,1.3,0.2,Burnley,,Stamford Bridge,Graham Scott,2,0
-EPL,2020-2021,21,Sun,2021-01-31,14:00,Leicester City,1.9,1.8,Leeds United,,King Power Stadium,Chris Kavanagh,1,3
-EPL,2020-2021,21,Sun,2021-01-31,16:30,West Ham,1.0,1.8,Liverpool,,London Stadium,Jonathan Moss,1,3
-EPL,2020-2021,21,Sun,2021-01-31,19:15,Brighton,1.9,0.5,Tottenham,,The American Express Community Stadium,Peter Bankes,1,0
-EPL,2020-2021,22,Tue,2021-02-02,18:00,Sheffield Utd,1.1,1.5,West Brom,,Bramall Lane,Paul Tierney,2,1
-EPL,2020-2021,22,Tue,2021-02-02,18:00,Wolves,1.5,0.6,Arsenal,,Molineux Stadium,Craig Pawson,2,1
-EPL,2020-2021,22,Tue,2021-02-02,20:15,Newcastle Utd,1.8,0.9,Crystal Palace,,St. James' Park,Darren England,1,2
-EPL,2020-2021,22,Tue,2021-02-02,20:15,Manchester Utd,3.7,0.5,Southampton,,Old Trafford,Mike Dean,9,0
-EPL,2020-2021,22,Wed,2021-02-03,18:00,Burnley,0.1,2.6,Manchester City,,Turf Moor,Martin Atkinson,0,2
-EPL,2020-2021,22,Wed,2021-02-03,18:00,Fulham,0.7,1.1,Leicester City,,Craven Cottage,Robert Jones,0,2
-EPL,2020-2021,22,Wed,2021-02-03,19:30,Leeds United,0.9,1.8,Everton,,Elland Road,Michael Oliver,1,2
-EPL,2020-2021,22,Wed,2021-02-03,20:15,Liverpool,0.7,1.1,Brighton,,Anfield,Kevin Friend,0,1
-EPL,2020-2021,22,Wed,2021-02-03,20:15,Aston Villa,0.7,1.4,West Ham,,Villa Park,Andy Madley,1,3
-EPL,2020-2021,22,Thu,2021-02-04,20:00,Tottenham,0.3,2.2,Chelsea,,Tottenham Hotspur Stadium,Andre Marriner,0,1
-EPL,2020-2021,23,Sat,2021-02-06,12:30,Aston Villa,1.1,1.1,Arsenal,,Villa Park,Chris Kavanagh,1,0
-EPL,2020-2021,23,Sat,2021-02-06,15:00,Newcastle Utd,0.8,1.4,Southampton,,St. James' Park,Craig Pawson,3,2
-EPL,2020-2021,23,Sat,2021-02-06,15:00,Burnley,2.1,0.6,Brighton,,Turf Moor,Anthony Taylor,1,1
-EPL,2020-2021,23,Sat,2021-02-06,17:30,Fulham,1.4,0.8,West Ham,,Craven Cottage,Mike Dean,0,0
-EPL,2020-2021,23,Sat,2021-02-06,20:00,Manchester Utd,1.4,1.1,Everton,,Old Trafford,Jonathan Moss,3,3
-EPL,2020-2021,23,Sun,2021-02-07,12:00,Tottenham,1.5,0.4,West Brom,,Tottenham Hotspur Stadium,Stuart Attwell,2,0
-EPL,2020-2021,23,Sun,2021-02-07,14:00,Wolves,1.9,0.7,Leicester City,,Molineux Stadium,Martin Atkinson,0,0
-EPL,2020-2021,23,Sun,2021-02-07,16:30,Liverpool,1.3,3.1,Manchester City,,Anfield,Michael Oliver,1,4
-EPL,2020-2021,23,Sun,2021-02-07,19:15,Sheffield Utd,0.4,1.4,Chelsea,,Bramall Lane,Kevin Friend,1,2
-EPL,2020-2021,23,Mon,2021-02-08,20:00,Leeds United,2.8,0.5,Crystal Palace,,Elland Road,Andre Marriner,2,0
-EPL,2020-2021,24,Sat,2021-02-13,12:30,Leicester City,2.6,1.8,Liverpool,,King Power Stadium,Anthony Taylor,3,1
-EPL,2020-2021,24,Sat,2021-02-13,15:00,Crystal Palace,0.6,1.4,Burnley,,Selhurst Park,Michael Oliver,0,3
-EPL,2020-2021,24,Sat,2021-02-13,17:30,Manchester City,2.9,0.6,Tottenham,,Etihad Stadium,Paul Tierney,3,0
-EPL,2020-2021,24,Sat,2021-02-13,20:00,Brighton,1.7,0.1,Aston Villa,,The American Express Community Stadium,Darren England,0,0
-EPL,2020-2021,24,Sun,2021-02-14,12:00,Southampton,0.7,1.1,Wolves,,St. Mary's Stadium,Graham Scott,1,2
-EPL,2020-2021,24,Sun,2021-02-14,14:00,West Brom,1.1,0.4,Manchester Utd,,The Hawthorns,Craig Pawson,1,1
-EPL,2020-2021,24,Sun,2021-02-14,16:30,Arsenal,2.4,0.7,Leeds United,,Emirates Stadium,Stuart Attwell,4,2
-EPL,2020-2021,24,Sun,2021-02-14,19:00,Everton,0.4,2.7,Fulham,,Goodison Park,Andy Madley,0,2
-EPL,2020-2021,24,Mon,2021-02-15,18:00,West Ham,1.9,0.7,Sheffield Utd,,London Stadium,Simon Hooper,3,0
-EPL,2020-2021,24,Mon,2021-02-15,20:00,Chelsea,2.0,0.7,Newcastle Utd,,Stamford Bridge,Peter Bankes,2,0
-EPL,2020-2021,17,Wed,2021-02-17,18:00,Burnley,1.4,0.5,Fulham,,Turf Moor,Jonathan Moss,1,1
-EPL,2020-2021,16,Wed,2021-02-17,20:15,Everton,1.0,1.5,Manchester City,,Goodison Park,Andre Marriner,1,3
-EPL,2020-2021,25,Fri,2021-02-19,20:00,Wolves,0.7,1.3,Leeds United,,Molineux Stadium,David Coote,1,0
-EPL,2020-2021,25,Sat,2021-02-20,12:30,Southampton,0.5,1.2,Chelsea,,St. Mary's Stadium,Anthony Taylor,1,1
-EPL,2020-2021,25,Sat,2021-02-20,15:00,Burnley,0.4,1.0,West Brom,,Turf Moor,Mike Dean,0,0
-EPL,2020-2021,25,Sat,2021-02-20,17:30,Liverpool,1.7,1.5,Everton,,Anfield,Chris Kavanagh,0,2
-EPL,2020-2021,25,Sat,2021-02-20,20:00,Fulham,1.1,0.5,Sheffield Utd,,Craven Cottage,Martin Atkinson,1,0
-EPL,2020-2021,25,Sun,2021-02-21,12:00,West Ham,1.1,1.2,Tottenham,,London Stadium,Craig Pawson,2,1
-EPL,2020-2021,25,Sun,2021-02-21,14:05,Aston Villa,1.2,1.2,Leicester City,,Villa Park,Michael Oliver,1,2
-EPL,2020-2021,25,Sun,2021-02-21,16:30,Arsenal,0.3,2.1,Manchester City,,Emirates Stadium,Jonathan Moss,0,1
-EPL,2020-2021,25,Sun,2021-02-21,19:00,Manchester Utd,1.8,0.5,Newcastle Utd,,Old Trafford,Paul Tierney,3,1
-EPL,2020-2021,25,Mon,2021-02-22,20:00,Brighton,2.6,0.2,Crystal Palace,,The American Express Community Stadium,Kevin Friend,1,2
-EPL,2020-2021,18,Tue,2021-02-23,18:00,Leeds United,1.3,0.7,Southampton,,Elland Road,Andre Marriner,3,0
-EPL,2020-2021,26,Sat,2021-02-27,12:30,Manchester City,0.6,1.6,West Ham,,Etihad Stadium,Michael Oliver,2,1
-EPL,2020-2021,26,Sat,2021-02-27,15:00,West Brom,0.5,2.6,Brighton,,The Hawthorns,Lee Mason,1,0
-EPL,2020-2021,26,Sat,2021-02-27,17:30,Leeds United,0.7,0.9,Aston Villa,,Elland Road,Peter Bankes,0,1
-EPL,2020-2021,26,Sat,2021-02-27,20:00,Newcastle Utd,1.5,1.0,Wolves,,St. James' Park,Mike Dean,1,1
-EPL,2020-2021,26,Sun,2021-02-28,12:00,Crystal Palace,0.1,1.0,Fulham,,Selhurst Park,Anthony Taylor,0,0
-EPL,2020-2021,26,Sun,2021-02-28,12:00,Leicester City,0.5,2.2,Arsenal,,King Power Stadium,Paul Tierney,1,3
-EPL,2020-2021,26,Sun,2021-02-28,14:00,Tottenham,2.2,0.5,Burnley,,Tottenham Hotspur Stadium,Kevin Friend,4,0
-EPL,2020-2021,26,Sun,2021-02-28,16:30,Chelsea,1.1,0.5,Manchester Utd,,Stamford Bridge,Stuart Attwell,0,0
-EPL,2020-2021,26,Sun,2021-02-28,19:15,Sheffield Utd,0.6,2.9,Liverpool,,Bramall Lane,Jonathan Moss,0,2
-EPL,2020-2021,26,Mon,2021-03-01,20:00,Everton,1.6,1.0,Southampton,,Goodison Park,Martin Atkinson,1,0
-EPL,2020-2021,29,Tue,2021-03-02,20:00,Manchester City,2.3,0.4,Wolves,,Etihad Stadium,Chris Kavanagh,4,1
-EPL,2020-2021,29,Wed,2021-03-03,18:00,Sheffield Utd,1.0,1.6,Aston Villa,,Bramall Lane,Robert Jones,1,0
-EPL,2020-2021,29,Wed,2021-03-03,18:00,Burnley,1.5,1.3,Leicester City,,Turf Moor,Andy Madley,1,1
-EPL,2020-2021,29,Wed,2021-03-03,20:15,Crystal Palace,0.8,0.9,Manchester Utd,,Selhurst Park,Andre Marriner,0,0
-EPL,2020-2021,29,Thu,2021-03-04,18:00,West Brom,1.0,1.2,Everton,,The Hawthorns,Darren England,0,1
-EPL,2020-2021,33,Thu,2021-03-04,18:00,Fulham,0.8,1.4,Tottenham,,Craven Cottage,David Coote,0,1
-EPL,2020-2021,29,Thu,2021-03-04,20:15,Liverpool,0.3,1.0,Chelsea,,Anfield,Martin Atkinson,0,1
-EPL,2020-2021,27,Sat,2021-03-06,12:30,Burnley,1.5,2.3,Arsenal,,Turf Moor,Andre Marriner,1,1
-EPL,2020-2021,27,Sat,2021-03-06,15:00,Sheffield Utd,0.7,1.6,Southampton,,Bramall Lane,Paul Tierney,0,2
-EPL,2020-2021,27,Sat,2021-03-06,17:30,Aston Villa,0.6,1.7,Wolves,,Villa Park,Andy Madley,0,0
-EPL,2020-2021,27,Sat,2021-03-06,20:00,Brighton,1.0,1.1,Leicester City,,The American Express Community Stadium,Michael Oliver,1,2
-EPL,2020-2021,27,Sun,2021-03-07,12:00,West Brom,1.0,0.4,Newcastle Utd,,The Hawthorns,Martin Atkinson,0,0
-EPL,2020-2021,27,Sun,2021-03-07,14:00,Liverpool,1.0,1.1,Fulham,,Anfield,Kevin Friend,0,1
-EPL,2020-2021,27,Sun,2021-03-07,16:30,Manchester City,1.5,1.6,Manchester Utd,,Etihad Stadium,Anthony Taylor,0,2
-EPL,2020-2021,27,Sun,2021-03-07,19:15,Tottenham,2.7,0.3,Crystal Palace,,Tottenham Hotspur Stadium,Stuart Attwell,4,1
-EPL,2020-2021,27,Mon,2021-03-08,18:00,Chelsea,2.9,0.3,Everton,,Stamford Bridge,David Coote,2,0
-EPL,2020-2021,27,Mon,2021-03-08,20:00,West Ham,1.9,1.7,Leeds United,,London Stadium,Mike Dean,2,0
-EPL,2020-2021,33,Wed,2021-03-10,18:00,Manchester City,2.7,1.8,Southampton,,Etihad Stadium,Jonathan Moss,5,2
-EPL,2020-2021,28,Fri,2021-03-12,20:00,Newcastle Utd,1.1,0.7,Aston Villa,,St. James' Park,Paul Tierney,1,1
-EPL,2020-2021,28,Sat,2021-03-13,12:30,Leeds United,0.4,1.4,Chelsea,,Elland Road,Kevin Friend,0,0
-EPL,2020-2021,28,Sat,2021-03-13,15:00,Crystal Palace,1.3,0.8,West Brom,,Selhurst Park,Simon Hooper,1,0
-EPL,2020-2021,28,Sat,2021-03-13,17:30,Everton,1.6,1.4,Burnley,,Goodison Park,Jonathan Moss,1,2
-EPL,2020-2021,28,Sat,2021-03-13,20:00,Fulham,0.3,2.3,Manchester City,,Craven Cottage,Andre Marriner,0,3
-EPL,2020-2021,28,Sun,2021-03-14,12:00,Southampton,1.0,0.9,Brighton,,St. Mary's Stadium,Stuart Attwell,1,2
-EPL,2020-2021,28,Sun,2021-03-14,14:00,Leicester City,4.0,0.1,Sheffield Utd,,King Power Stadium,Peter Bankes,5,0
-EPL,2020-2021,28,Sun,2021-03-14,16:30,Arsenal,1.7,0.6,Tottenham,,Emirates Stadium,Michael Oliver,2,1
-EPL,2020-2021,28,Sun,2021-03-14,19:15,Manchester Utd,1.2,0.6,West Ham,,Old Trafford,Martin Atkinson,1,0
-EPL,2020-2021,28,Mon,2021-03-15,20:00,Wolves,0.8,1.1,Liverpool,,Molineux Stadium,Craig Pawson,0,1
-EPL,2020-2021,29,Fri,2021-03-19,20:00,Fulham,1.4,1.5,Leeds United,,Craven Cottage,David Coote,1,2
-EPL,2020-2021,29,Sat,2021-03-20,20:00,Brighton,1.2,0.1,Newcastle Utd,,The American Express Community Stadium,Anthony Taylor,3,0
-EPL,2020-2021,29,Sun,2021-03-21,15:00,West Ham,2.3,1.7,Arsenal,,London Stadium,Jonathan Moss,3,3
-EPL,2020-2021,18,Sun,2021-03-21,19:30,Aston Villa,0.5,2.2,Tottenham,,Villa Park,Mike Dean,0,2
-EPL,2020-2021,30,Sat,2021-04-03,12:30,Chelsea,2.4,1.9,West Brom,,Stamford Bridge,David Coote,2,5
-EPL,2020-2021,30,Sat,2021-04-03,15:00,Leeds United,2.5,1.0,Sheffield Utd,,Elland Road,Graham Scott,2,1
-EPL,2020-2021,30,Sat,2021-04-03,17:30,Leicester City,0.4,2.3,Manchester City,,King Power Stadium,Anthony Taylor,0,2
-EPL,2020-2021,30,Sat,2021-04-03,20:00,Arsenal,0.3,2.2,Liverpool,,Emirates Stadium,Stuart Attwell,0,3
-EPL,2020-2021,30,Sun,2021-04-04,12:00,Southampton,1.9,1.8,Burnley,,St. Mary's Stadium,Andre Marriner,3,2
-EPL,2020-2021,30,Sun,2021-04-04,14:05,Newcastle Utd,2.7,1.7,Tottenham,,St. James' Park,Craig Pawson,2,2
-EPL,2020-2021,30,Sun,2021-04-04,16:30,Aston Villa,1.6,1.7,Fulham,,Villa Park,Andy Madley,3,1
-EPL,2020-2021,30,Sun,2021-04-04,19:30,Manchester Utd,1.8,1.1,Brighton,,Old Trafford,Mike Dean,2,1
-EPL,2020-2021,30,Mon,2021-04-05,18:00,Everton,2.7,0.8,Crystal Palace,,Goodison Park,Kevin Friend,1,1
-EPL,2020-2021,30,Mon,2021-04-05,20:15,Wolves,2.5,1.2,West Ham,,Molineux Stadium,Michael Oliver,2,3
-EPL,2020-2021,31,Fri,2021-04-09,20:00,Fulham,0.9,0.4,Wolves,,Craven Cottage,Jonathan Moss,0,1
-EPL,2020-2021,31,Sat,2021-04-10,12:30,Manchester City,2.4,0.3,Leeds United,,Etihad Stadium,Andre Marriner,1,2
-EPL,2020-2021,31,Sat,2021-04-10,15:00,Liverpool,2.5,1.0,Aston Villa,,Anfield,Paul Tierney,2,1
-EPL,2020-2021,31,Sat,2021-04-10,17:30,Crystal Palace,0.1,2.5,Chelsea,,Selhurst Park,Michael Oliver,1,4
-EPL,2020-2021,31,Sun,2021-04-11,12:00,Burnley,1.8,1.2,Newcastle Utd,,Turf Moor,Anthony Taylor,1,2
-EPL,2020-2021,31,Sun,2021-04-11,14:05,West Ham,1.1,0.9,Leicester City,,London Stadium,Mike Dean,3,2
-EPL,2020-2021,31,Sun,2021-04-11,16:30,Tottenham,1.0,1.9,Manchester Utd,,Tottenham Hotspur Stadium,Chris Kavanagh,1,3
-EPL,2020-2021,31,Sun,2021-04-11,19:00,Sheffield Utd,0.5,2.2,Arsenal,,Bramall Lane,Peter Bankes,0,3
-EPL,2020-2021,31,Mon,2021-04-12,18:00,West Brom,2.9,2.1,Southampton,,The Hawthorns,Simon Hooper,3,0
-EPL,2020-2021,31,Mon,2021-04-12,20:15,Brighton,1.2,0.4,Everton,,The American Express Community Stadium,Darren England,0,0
-EPL,2020-2021,32,Fri,2021-04-16,20:00,Everton,2.3,1.2,Tottenham,,Goodison Park,Michael Oliver,2,2
-EPL,2020-2021,32,Sat,2021-04-17,,Southampton,,,Crystal Palace,,St. Mary's Stadium,,,
-EPL,2020-2021,32,Sat,2021-04-17,12:30,Newcastle Utd,1.8,1.5,West Ham,,St. James' Park,Kevin Friend,3,2
-EPL,2020-2021,32,Sat,2021-04-17,20:15,Wolves,1.4,0.5,Sheffield Utd,,Molineux Stadium,Robert Jones,1,0
-EPL,2020-2021,32,Sun,2021-04-18,13:30,Arsenal,2.9,0.9,Fulham,,Emirates Stadium,Craig Pawson,1,1
-EPL,2020-2021,32,Sun,2021-04-18,16:00,Manchester Utd,2.8,0.4,Burnley,,Old Trafford,Jonathan Moss,3,1
-EPL,2020-2021,32,Mon,2021-04-19,20:00,Leeds United,1.8,2.3,Liverpool,,Elland Road,Anthony Taylor,1,1
-EPL,2020-2021,32,Tue,2021-04-20,20:15,Chelsea,1.0,0.7,Brighton,,Stamford Bridge,Stuart Attwell,0,0
-EPL,2020-2021,29,Wed,2021-04-21,18:00,Tottenham,1.8,0.8,Southampton,,Tottenham Hotspur Stadium,David Coote,2,1
-EPL,2020-2021,32,Wed,2021-04-21,20:15,Aston Villa,0.7,1.4,Manchester City,,Villa Park,Peter Bankes,1,2
-EPL,2020-2021,32,Thu,2021-04-22,20:00,Leicester City,2.3,0.4,West Brom,,King Power Stadium,Andy Madley,3,0
-EPL,2020-2021,33,Fri,2021-04-23,20:00,Arsenal,,,Everton,,Emirates Stadium,Jonathan Moss,0,1
-EPL,2020-2021,33,Sat,2021-04-24,12:30,Liverpool,,,Newcastle Utd,,Anfield,,,
-EPL,2020-2021,33,Sat,2021-04-24,17:30,West Ham,,,Chelsea,,London Stadium,,,
-EPL,2020-2021,33,Sat,2021-04-24,20:00,Sheffield Utd,,,Brighton,,Bramall Lane,,,
-EPL,2020-2021,33,Sun,2021-04-25,12:00,Wolves,,,Burnley,,Molineux Stadium,,,
-EPL,2020-2021,33,Sun,2021-04-25,14:00,Leeds United,,,Manchester Utd,,Elland Road,,,
-EPL,2020-2021,33,Sun,2021-04-25,19:00,Aston Villa,,,West Brom,,Villa Park,,,
-EPL,2020-2021,33,Mon,2021-04-26,20:00,Leicester City,,,Crystal Palace,,King Power Stadium,,,
-EPL,2020-2021,34,Fri,2021-04-30,20:00,Southampton,,,Leicester City,,St. Mary's Stadium,,,
-EPL,2020-2021,34,Sat,2021-05-01,12:30,Crystal Palace,,,Manchester City,,Selhurst Park,,,
-EPL,2020-2021,34,Sat,2021-05-01,15:00,Brighton,,,Leeds United,,The American Express Community Stadium,,,
-EPL,2020-2021,34,Sat,2021-05-01,17:30,Chelsea,,,Fulham,,Stamford Bridge,,,
-EPL,2020-2021,34,Sat,2021-05-01,20:00,Everton,,,Aston Villa,,Goodison Park,,,
-EPL,2020-2021,34,Sun,2021-05-02,14:00,Newcastle Utd,,,Arsenal,,St. James' Park,,,
-EPL,2020-2021,34,Sun,2021-05-02,16:30,Manchester Utd,,,Liverpool,,Old Trafford,,,
-EPL,2020-2021,34,Sun,2021-05-02,19:15,Tottenham,,,Sheffield Utd,,Tottenham Hotspur Stadium,,,
-EPL,2020-2021,34,Mon,2021-05-03,18:00,West Brom,,,Wolves,,The Hawthorns,,,
-EPL,2020-2021,34,Mon,2021-05-03,20:15,Burnley,,,West Ham,,Turf Moor,,,
-EPL,2020-2021,35,Fri,2021-05-07,20:00,Leicester City,,,Newcastle Utd,,King Power Stadium,,,
-EPL,2020-2021,35,Sat,2021-05-08,12:30,Leeds United,,,Tottenham,,Elland Road,,,
-EPL,2020-2021,35,Sat,2021-05-08,15:00,Sheffield Utd,,,Crystal Palace,,Bramall Lane,,,
-EPL,2020-2021,35,Sat,2021-05-08,17:30,Manchester City,,,Chelsea,,Etihad Stadium,,,
-EPL,2020-2021,35,Sat,2021-05-08,20:15,Liverpool,,,Southampton,,Anfield,,,
-EPL,2020-2021,35,Sun,2021-05-09,12:00,Wolves,,,Brighton,,Molineux Stadium,,,
-EPL,2020-2021,35,Sun,2021-05-09,14:05,Aston Villa,,,Manchester Utd,,Villa Park,,,
-EPL,2020-2021,35,Sun,2021-05-09,16:30,West Ham,,,Everton,,London Stadium,,,
-EPL,2020-2021,35,Sun,2021-05-09,19:00,Arsenal,,,West Brom,,Emirates Stadium,,,
-EPL,2020-2021,35,Mon,2021-05-10,20:00,Fulham,,,Burnley,,Craven Cottage,,,
-EPL,2020-2021,36,Tue,2021-05-11,19:45,Everton,,,Sheffield Utd,,Goodison Park,,,
-EPL,2020-2021,36,Tue,2021-05-11,19:45,Brighton,,,West Ham,,The American Express Community Stadium,,,
-EPL,2020-2021,36,Tue,2021-05-11,19:45,Burnley,,,Leeds United,,Turf Moor,,,
-EPL,2020-2021,36,Tue,2021-05-11,20:00,West Brom,,,Liverpool,,The Hawthorns,,,
-EPL,2020-2021,36,Tue,2021-05-11,20:00,Crystal Palace,,,Aston Villa,,Selhurst Park,,,
-EPL,2020-2021,36,Tue,2021-05-11,20:00,Manchester Utd,,,Leicester City,,Old Trafford,,,
-EPL,2020-2021,36,Wed,2021-05-12,19:45,Chelsea,,,Arsenal,,Stamford Bridge,,,
-EPL,2020-2021,36,Wed,2021-05-12,19:45,Newcastle Utd,,,Manchester City,,St. James' Park,,,
-EPL,2020-2021,36,Wed,2021-05-12,19:45,Tottenham,,,Wolves,,Tottenham Hotspur Stadium,,,
-EPL,2020-2021,36,Wed,2021-05-12,19:45,Southampton,,,Fulham,,St. Mary's Stadium,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Chelsea,,,Leicester City,,Stamford Bridge,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Manchester Utd,,,Fulham,,Old Trafford,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Tottenham,,,Aston Villa,,Tottenham Hotspur Stadium,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Newcastle Utd,,,Sheffield Utd,,St. James' Park,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Brighton,,,Manchester City,,The American Express Community Stadium,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,West Brom,,,West Ham,,The Hawthorns,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Burnley,,,Liverpool,,Turf Moor,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Crystal Palace,,,Arsenal,,Selhurst Park,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Southampton,,,Leeds United,,St. Mary's Stadium,,,
-EPL,2020-2021,37,Sat,2021-05-15,15:00,Everton,,,Wolves,,Goodison Park,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Wolves,,,Manchester Utd,,Molineux Stadium,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Leeds United,,,West Brom,,Elland Road,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Leicester City,,,Tottenham,,King Power Stadium,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Manchester City,,,Everton,,Etihad Stadium,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Aston Villa,,,Chelsea,,Villa Park,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Arsenal,,,Brighton,,Emirates Stadium,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Fulham,,,Newcastle Utd,,Craven Cottage,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,West Ham,,,Southampton,,London Stadium,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Sheffield Utd,,,Burnley,,Bramall Lane,,,
-EPL,2020-2021,38,Sun,2021-05-23,16:00,Liverpool,,,Crystal Palace,,Anfield,,,
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+EPL,2020-2021,1,Sat,2020-09-12,12:30,Fulham,0.2,1.8,Arsenal,,Craven Cottage,Chris Kavanagh,https://fbref.com/en/matches/bf52349b/Fulham-Arsenal-September-12-2020-Premier-League,0,3
+EPL,2020-2021,1,Sat,2020-09-12,15:00,Crystal Palace,0.7,0.8,Southampton,,Selhurst Park,Jonathan Moss,https://fbref.com/en/matches/db261cb0/Crystal-Palace-Southampton-September-12-2020-Premier-League,1,0
+EPL,2020-2021,1,Sat,2020-09-12,17:30,Liverpool,3.3,0.6,Leeds United,,Anfield,Michael Oliver,https://fbref.com/en/matches/21b58926/Liverpool-Leeds-United-September-12-2020-Premier-League,4,3
+EPL,2020-2021,1,Sat,2020-09-12,20:00,West Ham,1.1,1.5,Newcastle Utd,,London Stadium,Stuart Attwell,https://fbref.com/en/matches/78495ced/West-Ham-United-Newcastle-United-September-12-2020-Premier-League,0,2
+EPL,2020-2021,1,Sun,2020-09-13,14:00,West Brom,0.5,2.2,Leicester City,,The Hawthorns,Anthony Taylor,https://fbref.com/en/matches/7dd01ca9/West-Bromwich-Albion-Leicester-City-September-13-2020-Premier-League,0,3
+EPL,2020-2021,1,Sun,2020-09-13,16:30,Tottenham,1.0,1.4,Everton,,Tottenham Hotspur Stadium,Martin Atkinson,https://fbref.com/en/matches/fc7f9aa1/Tottenham-Hotspur-Everton-September-13-2020-Premier-League,0,1
+EPL,2020-2021,1,Mon,2020-09-14,18:00,Sheffield Utd,0.6,1.1,Wolves,,Bramall Lane,Mike Dean,https://fbref.com/en/matches/a3eb7a37/Sheffield-United-Wolverhampton-Wanderers-September-14-2020-Premier-League,0,2
+EPL,2020-2021,1,Mon,2020-09-14,20:15,Brighton,1.4,1.2,Chelsea,,The American Express Community Stadium,Craig Pawson,https://fbref.com/en/matches/9d7641eb/Brighton-and-Hove-Albion-Chelsea-September-14-2020-Premier-League,1,3
+EPL,2020-2021,2,Sat,2020-09-19,12:30,Everton,3.4,0.3,West Brom,,Goodison Park,Mike Dean,https://fbref.com/en/matches/45bd1880/Everton-West-Bromwich-Albion-September-19-2020-Premier-League,5,2
+EPL,2020-2021,2,Sat,2020-09-19,15:00,Leeds United,1.7,1.8,Fulham,,Elland Road,Anthony Taylor,https://fbref.com/en/matches/583c2b60/Leeds-United-Fulham-September-19-2020-Premier-League,4,3
+EPL,2020-2021,2,Sat,2020-09-19,17:30,Manchester Utd,1.1,1.6,Crystal Palace,,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/97279323/Manchester-United-Crystal-Palace-September-19-2020-Premier-League,1,3
+EPL,2020-2021,2,Sat,2020-09-19,20:00,Arsenal,1.4,1.9,West Ham,,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/f4835ec2/Arsenal-West-Ham-United-September-19-2020-Premier-League,2,1
+EPL,2020-2021,2,Sun,2020-09-20,12:00,Southampton,1.5,2.5,Tottenham,,St. Mary's Stadium,David Coote,https://fbref.com/en/matches/967efd56/Southampton-Tottenham-Hotspur-September-20-2020-Premier-League,2,5
+EPL,2020-2021,2,Sun,2020-09-20,14:00,Newcastle Utd,0.5,1.6,Brighton,,St. James' Park,Kevin Friend,https://fbref.com/en/matches/845f6a86/Newcastle-United-Brighton-and-Hove-Albion-September-20-2020-Premier-League,0,3
+EPL,2020-2021,2,Sun,2020-09-20,16:30,Chelsea,1.0,2.6,Liverpool,,Stamford Bridge,Paul Tierney,https://fbref.com/en/matches/c64e5792/Chelsea-Liverpool-September-20-2020-Premier-League,0,2
+EPL,2020-2021,2,Sun,2020-09-20,19:00,Leicester City,1.4,1.9,Burnley,,King Power Stadium,Lee Mason,https://fbref.com/en/matches/465b25a8/Leicester-City-Burnley-September-20-2020-Premier-League,4,2
+EPL,2020-2021,2,Mon,2020-09-21,18:00,Aston Villa,1.0,0.9,Sheffield Utd,,Villa Park,Graham Scott,https://fbref.com/en/matches/98b4b5b6/Aston-Villa-Sheffield-United-September-21-2020-Premier-League,1,0
+EPL,2020-2021,2,Mon,2020-09-21,20:15,Wolves,1.0,1.9,Manchester City,,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/1c17eca3/Wolverhampton-Wanderers-Manchester-City-September-21-2020-Premier-League,1,3
+EPL,2020-2021,3,Sat,2020-09-26,12:30,Brighton,2.4,1.1,Manchester Utd,,The American Express Community Stadium,Chris Kavanagh,https://fbref.com/en/matches/21495573/Brighton-and-Hove-Albion-Manchester-United-September-26-2020-Premier-League,2,3
+EPL,2020-2021,3,Sat,2020-09-26,15:00,Crystal Palace,0.4,2.0,Everton,,Selhurst Park,Kevin Friend,https://fbref.com/en/matches/7387a72e/Crystal-Palace-Everton-September-26-2020-Premier-League,1,2
+EPL,2020-2021,3,Sat,2020-09-26,17:30,West Brom,1.0,2.2,Chelsea,,The Hawthorns,Jonathan Moss,https://fbref.com/en/matches/d725a16c/West-Bromwich-Albion-Chelsea-September-26-2020-Premier-League,3,3
+EPL,2020-2021,3,Sat,2020-09-26,20:00,Burnley,0.5,0.6,Southampton,,Turf Moor,Andre Marriner,https://fbref.com/en/matches/ae113c54/Burnley-Southampton-September-26-2020-Premier-League,0,1
+EPL,2020-2021,3,Sun,2020-09-27,12:00,Sheffield Utd,1.6,1.6,Leeds United,,Bramall Lane,Paul Tierney,https://fbref.com/en/matches/51fb894e/Sheffield-United-Leeds-United-September-27-2020-Premier-League,0,1
+EPL,2020-2021,3,Sun,2020-09-27,14:00,Tottenham,2.3,1.0,Newcastle Utd,,Tottenham Hotspur Stadium,Peter Bankes,https://fbref.com/en/matches/002c4e89/Tottenham-Hotspur-Newcastle-United-September-27-2020-Premier-League,1,1
+EPL,2020-2021,3,Sun,2020-09-27,16:30,Manchester City,0.9,2.6,Leicester City,,Etihad Stadium,Michael Oliver,https://fbref.com/en/matches/31c2a061/Manchester-City-Leicester-City-September-27-2020-Premier-League,2,5
+EPL,2020-2021,3,Sun,2020-09-27,19:00,West Ham,1.6,0.5,Wolves,,London Stadium,Martin Atkinson,https://fbref.com/en/matches/a223dd70/West-Ham-United-Wolverhampton-Wanderers-September-27-2020-Premier-League,4,0
+EPL,2020-2021,3,Mon,2020-09-28,17:45,Fulham,0.7,1.6,Aston Villa,,Craven Cottage,Stuart Attwell,https://fbref.com/en/matches/6b258be0/Fulham-Aston-Villa-September-28-2020-Premier-League,0,3
+EPL,2020-2021,3,Mon,2020-09-28,20:00,Liverpool,3.2,1.2,Arsenal,,Anfield,Craig Pawson,https://fbref.com/en/matches/ebe4e309/Liverpool-Arsenal-September-28-2020-Premier-League,3,1
+EPL,2020-2021,4,Sat,2020-10-03,12:30,Chelsea,2.5,0.1,Crystal Palace,,Stamford Bridge,Michael Oliver,https://fbref.com/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League,4,0
+EPL,2020-2021,4,Sat,2020-10-03,15:00,Everton,1.8,1.2,Brighton,,Goodison Park,Simon Hooper,https://fbref.com/en/matches/3cbb397e/Everton-Brighton-and-Hove-Albion-October-3-2020-Premier-League,4,2
+EPL,2020-2021,4,Sat,2020-10-03,17:30,Leeds United,1.7,1.5,Manchester City,,Elland Road,Mike Dean,https://fbref.com/en/matches/5ce15b58/Leeds-United-Manchester-City-October-3-2020-Premier-League,1,1
+EPL,2020-2021,4,Sat,2020-10-03,20:00,Newcastle Utd,2.0,0.6,Burnley,,St. James' Park,David Coote,https://fbref.com/en/matches/34ba607f/Newcastle-United-Burnley-October-3-2020-Premier-League,3,1
+EPL,2020-2021,4,Sun,2020-10-04,12:00,Leicester City,0.4,1.6,West Ham,,King Power Stadium,Andy Madley,https://fbref.com/en/matches/a29866ec/Leicester-City-West-Ham-United-October-4-2020-Premier-League,0,3
+EPL,2020-2021,4,Sun,2020-10-04,12:00,Southampton,1.2,0.1,West Brom,,St. Mary's Stadium,Chris Kavanagh,https://fbref.com/en/matches/39864083/Southampton-West-Bromwich-Albion-October-4-2020-Premier-League,2,0
+EPL,2020-2021,4,Sun,2020-10-04,14:00,Arsenal,0.4,0.2,Sheffield Utd,,Emirates Stadium,Lee Mason,https://fbref.com/en/matches/09725cb3/Arsenal-Sheffield-United-October-4-2020-Premier-League,2,1
+EPL,2020-2021,4,Sun,2020-10-04,14:00,Wolves,1.2,0.7,Fulham,,Molineux Stadium,Darren England,https://fbref.com/en/matches/8f989671/Wolverhampton-Wanderers-Fulham-October-4-2020-Premier-League,1,0
+EPL,2020-2021,4,Sun,2020-10-04,16:30,Manchester Utd,0.9,3.8,Tottenham,,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/cded7e69/Manchester-United-Tottenham-Hotspur-October-4-2020-Premier-League,1,6
+EPL,2020-2021,4,Sun,2020-10-04,19:15,Aston Villa,3.9,1.8,Liverpool,,Villa Park,Martin Atkinson,https://fbref.com/en/matches/14a7771b/Aston-Villa-Liverpool-October-4-2020-Premier-League,7,2
+EPL,2020-2021,5,Sat,2020-10-17,12:30,Everton,1.3,2.2,Liverpool,,Goodison Park,Michael Oliver,https://fbref.com/en/matches/6da04e2d/Merseyside-Derby-Everton-Liverpool-October-17-2020-Premier-League,2,2
+EPL,2020-2021,5,Sat,2020-10-17,15:00,Chelsea,2.0,2.2,Southampton,,Stamford Bridge,Peter Bankes,https://fbref.com/en/matches/9bd558f5/Chelsea-Southampton-October-17-2020-Premier-League,3,3
+EPL,2020-2021,5,Sat,2020-10-17,17:30,Manchester City,1.5,0.9,Arsenal,,Etihad Stadium,Chris Kavanagh,https://fbref.com/en/matches/e95b8546/Manchester-City-Arsenal-October-17-2020-Premier-League,1,0
+EPL,2020-2021,5,Sat,2020-10-17,20:00,Newcastle Utd,0.5,2.7,Manchester Utd,,St. James' Park,Craig Pawson,https://fbref.com/en/matches/0b8239de/Newcastle-United-Manchester-United-October-17-2020-Premier-League,1,4
+EPL,2020-2021,5,Sun,2020-10-18,12:00,Sheffield Utd,1.5,1.7,Fulham,,Bramall Lane,Andre Marriner,https://fbref.com/en/matches/5529e7a0/Sheffield-United-Fulham-October-18-2020-Premier-League,1,1
+EPL,2020-2021,5,Sun,2020-10-18,14:00,Crystal Palace,0.8,1.1,Brighton,,Selhurst Park,Stuart Attwell,https://fbref.com/en/matches/e96818bc/Crystal-Palace-Brighton-and-Hove-Albion-October-18-2020-Premier-League,1,1
+EPL,2020-2021,5,Sun,2020-10-18,16:30,Tottenham,1.2,2.1,West Ham,,Tottenham Hotspur Stadium,Paul Tierney,https://fbref.com/en/matches/17f0eec9/Tottenham-Hotspur-West-Ham-United-October-18-2020-Premier-League,3,3
+EPL,2020-2021,5,Sun,2020-10-18,19:15,Leicester City,0.5,0.6,Aston Villa,,King Power Stadium,Jonathan Moss,https://fbref.com/en/matches/7751d8c1/Leicester-City-Aston-Villa-October-18-2020-Premier-League,0,1
+EPL,2020-2021,5,Mon,2020-10-19,17:30,West Brom,1.0,1.1,Burnley,,The Hawthorns,Anthony Taylor,https://fbref.com/en/matches/13f3ae88/West-Bromwich-Albion-Burnley-October-19-2020-Premier-League,0,0
+EPL,2020-2021,5,Mon,2020-10-19,20:00,Leeds United,1.6,0.5,Wolves,,Elland Road,David Coote,https://fbref.com/en/matches/6a2c4518/Leeds-United-Wolverhampton-Wanderers-October-19-2020-Premier-League,0,1
+EPL,2020-2021,6,Fri,2020-10-23,20:00,Aston Villa,1.2,3.6,Leeds United,,Villa Park,Paul Tierney,https://fbref.com/en/matches/873ab775/Aston-Villa-Leeds-United-October-23-2020-Premier-League,0,3
+EPL,2020-2021,6,Sat,2020-10-24,12:30,West Ham,0.5,1.1,Manchester City,,London Stadium,Anthony Taylor,https://fbref.com/en/matches/2b0c0eca/West-Ham-United-Manchester-City-October-24-2020-Premier-League,1,1
+EPL,2020-2021,6,Sat,2020-10-24,15:00,Fulham,1.1,2.6,Crystal Palace,,Craven Cottage,Graham Scott,https://fbref.com/en/matches/8d896969/Fulham-Crystal-Palace-October-24-2020-Premier-League,1,2
+EPL,2020-2021,6,Sat,2020-10-24,17:30,Manchester Utd,0.7,0.2,Chelsea,,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/3aaf7c62/Manchester-United-Chelsea-October-24-2020-Premier-League,0,0
+EPL,2020-2021,6,Sat,2020-10-24,20:00,Liverpool,2.5,1.5,Sheffield Utd,,Anfield,Mike Dean,https://fbref.com/en/matches/0bc8d984/Liverpool-Sheffield-United-October-24-2020-Premier-League,2,1
+EPL,2020-2021,6,Sun,2020-10-25,14:00,Southampton,0.7,0.4,Everton,,St. Mary's Stadium,Kevin Friend,https://fbref.com/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League,2,0
+EPL,2020-2021,6,Sun,2020-10-25,16:30,Wolves,0.7,0.2,Newcastle Utd,,Molineux Stadium,Lee Mason,https://fbref.com/en/matches/76661e3c/Wolverhampton-Wanderers-Newcastle-United-October-25-2020-Premier-League,1,1
+EPL,2020-2021,6,Sun,2020-10-25,19:15,Arsenal,0.9,1.2,Leicester City,,Emirates Stadium,Craig Pawson,https://fbref.com/en/matches/bcd3a9b4/Arsenal-Leicester-City-October-25-2020-Premier-League,0,1
+EPL,2020-2021,6,Mon,2020-10-26,17:30,Brighton,0.7,0.6,West Brom,,The American Express Community Stadium,Jonathan Moss,https://fbref.com/en/matches/26452511/Brighton-and-Hove-Albion-West-Bromwich-Albion-October-26-2020-Premier-League,1,1
+EPL,2020-2021,6,Mon,2020-10-26,20:00,Burnley,0.6,0.8,Tottenham,,Turf Moor,Michael Oliver,https://fbref.com/en/matches/4931660e/Burnley-Tottenham-Hotspur-October-26-2020-Premier-League,0,1
+EPL,2020-2021,7,Fri,2020-10-30,20:00,Wolves,1.3,0.6,Crystal Palace,,Molineux Stadium,Martin Atkinson,https://fbref.com/en/matches/e1741638/Wolverhampton-Wanderers-Crystal-Palace-October-30-2020-Premier-League,2,0
+EPL,2020-2021,7,Sat,2020-10-31,12:30,Sheffield Utd,0.5,1.5,Manchester City,,Bramall Lane,Michael Oliver,https://fbref.com/en/matches/9aadc93d/Sheffield-United-Manchester-City-October-31-2020-Premier-League,0,1
+EPL,2020-2021,7,Sat,2020-10-31,15:00,Burnley,0.4,1.4,Chelsea,,Turf Moor,David Coote,https://fbref.com/en/matches/0f158c5c/Burnley-Chelsea-October-31-2020-Premier-League,0,3
+EPL,2020-2021,7,Sat,2020-10-31,17:30,Liverpool,1.8,0.5,West Ham,,Anfield,Kevin Friend,https://fbref.com/en/matches/56ad8025/Liverpool-West-Ham-United-October-31-2020-Premier-League,2,1
+EPL,2020-2021,7,Sun,2020-11-01,12:00,Aston Villa,1.8,0.7,Southampton,,Villa Park,Darren England,https://fbref.com/en/matches/235264ac/Aston-Villa-Southampton-November-1-2020-Premier-League,3,4
+EPL,2020-2021,7,Sun,2020-11-01,14:00,Newcastle Utd,2.5,1.2,Everton,,St. James' Park,Stuart Attwell,https://fbref.com/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League,2,1
+EPL,2020-2021,7,Sun,2020-11-01,16:30,Manchester Utd,0.3,1.1,Arsenal,,Old Trafford,Mike Dean,https://fbref.com/en/matches/75dd1359/Manchester-United-Arsenal-November-1-2020-Premier-League,0,1
+EPL,2020-2021,7,Sun,2020-11-01,19:15,Tottenham,1.8,0.4,Brighton,,Tottenham Hotspur Stadium,Graham Scott,https://fbref.com/en/matches/1d01ff0c/Tottenham-Hotspur-Brighton-and-Hove-Albion-November-1-2020-Premier-League,2,1
+EPL,2020-2021,7,Mon,2020-11-02,17:30,Fulham,1.5,0.5,West Brom,,Craven Cottage,Simon Hooper,https://fbref.com/en/matches/f2b91282/Fulham-West-Bromwich-Albion-November-2-2020-Premier-League,2,0
+EPL,2020-2021,7,Mon,2020-11-02,20:00,Leeds United,1.0,3.5,Leicester City,,Elland Road,Andre Marriner,https://fbref.com/en/matches/55d775ec/Leeds-United-Leicester-City-November-2-2020-Premier-League,1,4
+EPL,2020-2021,8,Fri,2020-11-06,17:30,Brighton,1.3,0.3,Burnley,,The American Express Community Stadium,Mike Dean,https://fbref.com/en/matches/c23d7844/Brighton-and-Hove-Albion-Burnley-November-6-2020-Premier-League,0,0
+EPL,2020-2021,8,Fri,2020-11-06,20:00,Southampton,0.9,0.5,Newcastle Utd,,St. Mary's Stadium,Peter Bankes,https://fbref.com/en/matches/4117b695/Southampton-Newcastle-United-November-6-2020-Premier-League,2,0
+EPL,2020-2021,8,Sat,2020-11-07,12:30,Everton,0.6,1.6,Manchester Utd,,Goodison Park,Paul Tierney,https://fbref.com/en/matches/ab9f408d/Everton-Manchester-United-November-7-2020-Premier-League,1,3
+EPL,2020-2021,8,Sat,2020-11-07,15:00,Crystal Palace,0.9,0.8,Leeds United,,Selhurst Park,Chris Kavanagh,https://fbref.com/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League,4,1
+EPL,2020-2021,8,Sat,2020-11-07,17:30,Chelsea,2.7,0.6,Sheffield Utd,,Stamford Bridge,Jonathan Moss,https://fbref.com/en/matches/089916ee/Chelsea-Sheffield-United-November-7-2020-Premier-League,4,1
+EPL,2020-2021,8,Sat,2020-11-07,20:00,West Ham,1.3,1.6,Fulham,,London Stadium,Robert Jones,https://fbref.com/en/matches/f075fddc/West-Ham-United-Fulham-November-7-2020-Premier-League,1,0
+EPL,2020-2021,8,Sun,2020-11-08,12:00,West Brom,0.8,1.6,Tottenham,,The Hawthorns,Andy Madley,https://fbref.com/en/matches/90c0e34c/West-Bromwich-Albion-Tottenham-Hotspur-November-8-2020-Premier-League,0,1
+EPL,2020-2021,8,Sun,2020-11-08,14:00,Leicester City,1.9,0.5,Wolves,,King Power Stadium,Anthony Taylor,https://fbref.com/en/matches/8407be08/Leicester-City-Wolverhampton-Wanderers-November-8-2020-Premier-League,1,0
+EPL,2020-2021,8,Sun,2020-11-08,16:30,Manchester City,1.6,1.4,Liverpool,,Etihad Stadium,Craig Pawson,https://fbref.com/en/matches/26382194/Manchester-City-Liverpool-November-8-2020-Premier-League,1,1
+EPL,2020-2021,8,Sun,2020-11-08,19:15,Arsenal,1.5,1.7,Aston Villa,,Emirates Stadium,Martin Atkinson,https://fbref.com/en/matches/90fd3597/Arsenal-Aston-Villa-November-8-2020-Premier-League,0,3
+EPL,2020-2021,9,Sat,2020-11-21,12:30,Newcastle Utd,0.6,1.6,Chelsea,,St. James' Park,Craig Pawson,https://fbref.com/en/matches/dbcba6c6/Newcastle-United-Chelsea-November-21-2020-Premier-League,0,2
+EPL,2020-2021,9,Sat,2020-11-21,15:00,Aston Villa,1.5,1.3,Brighton,,Villa Park,Michael Oliver,https://fbref.com/en/matches/dea0df40/Aston-Villa-Brighton-and-Hove-Albion-November-21-2020-Premier-League,1,2
+EPL,2020-2021,9,Sat,2020-11-21,17:30,Tottenham,0.7,1.3,Manchester City,,Tottenham Hotspur Stadium,Mike Dean,https://fbref.com/en/matches/8a038069/Tottenham-Hotspur-Manchester-City-November-21-2020-Premier-League,2,0
+EPL,2020-2021,9,Sat,2020-11-21,20:00,Manchester Utd,2.5,0.6,West Brom,,Old Trafford,David Coote,https://fbref.com/en/matches/50004f43/Manchester-United-West-Bromwich-Albion-November-21-2020-Premier-League,1,0
+EPL,2020-2021,9,Sun,2020-11-22,12:00,Fulham,1.3,1.6,Everton,,Craven Cottage,Andy Madley,https://fbref.com/en/matches/13524225/Fulham-Everton-November-22-2020-Premier-League,2,3
+EPL,2020-2021,9,Sun,2020-11-22,14:00,Sheffield Utd,0.7,2.2,West Ham,,Bramall Lane,Martin Atkinson,https://fbref.com/en/matches/8ed7d991/Sheffield-United-West-Ham-United-November-22-2020-Premier-League,0,1
+EPL,2020-2021,9,Sun,2020-11-22,16:30,Leeds United,2.5,0.9,Arsenal,,Elland Road,Anthony Taylor,https://fbref.com/en/matches/0dd6b39b/Leeds-United-Arsenal-November-22-2020-Premier-League,0,0
+EPL,2020-2021,9,Sun,2020-11-22,19:15,Liverpool,3.7,1.3,Leicester City,,Anfield,Chris Kavanagh,https://fbref.com/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League,3,0
+EPL,2020-2021,9,Mon,2020-11-23,17:30,Burnley,1.6,1.4,Crystal Palace,,Turf Moor,Kevin Friend,https://fbref.com/en/matches/1dde1d03/Burnley-Crystal-Palace-November-23-2020-Premier-League,1,0
+EPL,2020-2021,9,Mon,2020-11-23,20:00,Wolves,1.9,1.5,Southampton,,Molineux Stadium,Andre Marriner,https://fbref.com/en/matches/e5bfd125/Wolverhampton-Wanderers-Southampton-November-23-2020-Premier-League,1,1
+EPL,2020-2021,10,Fri,2020-11-27,20:00,Crystal Palace,1.0,1.5,Newcastle Utd,,Selhurst Park,Graham Scott,https://fbref.com/en/matches/0d5962be/Crystal-Palace-Newcastle-United-November-27-2020-Premier-League,0,2
+EPL,2020-2021,10,Sat,2020-11-28,12:30,Brighton,2.1,0.5,Liverpool,,The American Express Community Stadium,Stuart Attwell,https://fbref.com/en/matches/31baf354/Brighton-and-Hove-Albion-Liverpool-November-28-2020-Premier-League,1,1
+EPL,2020-2021,10,Sat,2020-11-28,15:00,Manchester City,2.8,0.4,Burnley,,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/2069ffbc/Manchester-City-Burnley-November-28-2020-Premier-League,5,0
+EPL,2020-2021,10,Sat,2020-11-28,17:30,Everton,1.6,2.9,Leeds United,,Goodison Park,Chris Kavanagh,https://fbref.com/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League,0,1
+EPL,2020-2021,10,Sat,2020-11-28,20:00,West Brom,1.3,2.7,Sheffield Utd,,The Hawthorns,Mike Dean,https://fbref.com/en/matches/bd68404c/West-Bromwich-Albion-Sheffield-United-November-28-2020-Premier-League,1,0
+EPL,2020-2021,10,Sun,2020-11-29,14:00,Southampton,0.4,2.3,Manchester Utd,,St. Mary's Stadium,Jonathan Moss,https://fbref.com/en/matches/e0a84e7e/Southampton-Manchester-United-November-29-2020-Premier-League,2,3
+EPL,2020-2021,10,Sun,2020-11-29,16:30,Chelsea,1.0,0.2,Tottenham,,Stamford Bridge,Paul Tierney,https://fbref.com/en/matches/58306243/Chelsea-Tottenham-Hotspur-November-29-2020-Premier-League,0,0
+EPL,2020-2021,10,Sun,2020-11-29,19:15,Arsenal,1.2,1.4,Wolves,,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/fa17687c/Arsenal-Wolverhampton-Wanderers-November-29-2020-Premier-League,1,2
+EPL,2020-2021,10,Mon,2020-11-30,17:30,Leicester City,0.9,1.8,Fulham,,King Power Stadium,Simon Hooper,https://fbref.com/en/matches/ae493b10/Leicester-City-Fulham-November-30-2020-Premier-League,1,2
+EPL,2020-2021,10,Mon,2020-11-30,20:00,West Ham,0.6,2.6,Aston Villa,,London Stadium,Peter Bankes,https://fbref.com/en/matches/2f67603c/West-Ham-United-Aston-Villa-November-30-2020-Premier-League,2,1
+EPL,2020-2021,11,Sat,2020-12-05,12:30,Burnley,0.8,1.7,Everton,,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League,1,1
+EPL,2020-2021,11,Sat,2020-12-05,15:00,Manchester City,3.0,0.2,Fulham,,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/887dfef6/Manchester-City-Fulham-December-5-2020-Premier-League,2,0
+EPL,2020-2021,11,Sat,2020-12-05,17:30,West Ham,2.2,1.9,Manchester Utd,2000,London Stadium,Andre Marriner,https://fbref.com/en/matches/c2206b97/West-Ham-United-Manchester-United-December-5-2020-Premier-League,1,3
+EPL,2020-2021,11,Sat,2020-12-05,20:00,Chelsea,3.7,1.3,Leeds United,2000,Stamford Bridge,Kevin Friend,https://fbref.com/en/matches/419abbc0/Chelsea-Leeds-United-December-5-2020-Premier-League,3,1
+EPL,2020-2021,11,Sun,2020-12-06,12:00,West Brom,0.8,1.8,Crystal Palace,,The Hawthorns,Paul Tierney,https://fbref.com/en/matches/ac9d70e3/West-Bromwich-Albion-Crystal-Palace-December-6-2020-Premier-League,1,5
+EPL,2020-2021,11,Sun,2020-12-06,14:15,Sheffield Utd,0.3,1.5,Leicester City,,Bramall Lane,Stuart Attwell,https://fbref.com/en/matches/c1c08638/Sheffield-United-Leicester-City-December-6-2020-Premier-League,1,2
+EPL,2020-2021,11,Sun,2020-12-06,16:30,Tottenham,0.5,0.8,Arsenal,2000,Tottenham Hotspur Stadium,Martin Atkinson,https://fbref.com/en/matches/35abfa2f/North-London-Derby-Tottenham-Hotspur-Arsenal-December-6-2020-Premier-League,2,0
+EPL,2020-2021,11,Sun,2020-12-06,19:15,Liverpool,1.2,0.5,Wolves,2000,Anfield,Craig Pawson,https://fbref.com/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League,4,0
+EPL,2020-2021,11,Mon,2020-12-07,20:00,Brighton,2.1,1.1,Southampton,2000,The American Express Community Stadium,David Coote,https://fbref.com/en/matches/32356abc/Brighton-and-Hove-Albion-Southampton-December-7-2020-Premier-League,1,2
+EPL,2020-2021,12,Fri,2020-12-11,20:00,Leeds United,1.8,1.9,West Ham,,Elland Road,Michael Oliver,https://fbref.com/en/matches/2d36ffad/Leeds-United-West-Ham-United-December-11-2020-Premier-League,1,2
+EPL,2020-2021,12,Sat,2020-12-12,12:30,Wolves,1.2,1.1,Aston Villa,,Molineux Stadium,Mike Dean,https://fbref.com/en/matches/f809a014/Wolverhampton-Wanderers-Aston-Villa-December-12-2020-Premier-League,0,1
+EPL,2020-2021,12,Sat,2020-12-12,15:00,Newcastle Utd,1.1,0.6,West Brom,,St. James' Park,Darren England,https://fbref.com/en/matches/4a2a6f14/Newcastle-United-West-Bromwich-Albion-December-12-2020-Premier-League,2,1
+EPL,2020-2021,12,Sat,2020-12-12,17:30,Manchester Utd,1.0,1.2,Manchester City,,Old Trafford,Chris Kavanagh,https://fbref.com/en/matches/85cc70bb/Manchester-Derby-Manchester-United-Manchester-City-December-12-2020-Premier-League,0,0
+EPL,2020-2021,12,Sat,2020-12-12,20:00,Everton,1.3,0.9,Chelsea,2000,Goodison Park,Jonathan Moss,https://fbref.com/en/matches/4847e3c3/Everton-Chelsea-December-12-2020-Premier-League,1,0
+EPL,2020-2021,12,Sun,2020-12-13,12:00,Southampton,1.4,0.4,Sheffield Utd,2000,St. Mary's Stadium,Andy Madley,https://fbref.com/en/matches/9bec56c6/Southampton-Sheffield-United-December-13-2020-Premier-League,3,0
+EPL,2020-2021,12,Sun,2020-12-13,14:15,Crystal Palace,1.2,1.1,Tottenham,2000,Selhurst Park,Kevin Friend,https://fbref.com/en/matches/9b0e267e/Crystal-Palace-Tottenham-Hotspur-December-13-2020-Premier-League,1,1
+EPL,2020-2021,12,Sun,2020-12-13,16:30,Fulham,1.5,2.1,Liverpool,2000,Craven Cottage,Andre Marriner,https://fbref.com/en/matches/5abb0bd1/Fulham-Liverpool-December-13-2020-Premier-League,1,1
+EPL,2020-2021,12,Sun,2020-12-13,19:15,Arsenal,1.5,0.9,Burnley,2000,Emirates Stadium,Graham Scott,https://fbref.com/en/matches/e4dc55d0/Arsenal-Burnley-December-13-2020-Premier-League,0,1
+EPL,2020-2021,12,Sun,2020-12-13,19:15,Leicester City,1.7,1.1,Brighton,,King Power Stadium,Martin Atkinson,https://fbref.com/en/matches/964e6470/Leicester-City-Brighton-and-Hove-Albion-December-13-2020-Premier-League,3,0
+EPL,2020-2021,13,Tue,2020-12-15,18:00,Wolves,0.5,1.3,Chelsea,,Molineux Stadium,Stuart Attwell,https://fbref.com/en/matches/20bd0665/Wolverhampton-Wanderers-Chelsea-December-15-2020-Premier-League,2,1
+EPL,2020-2021,13,Tue,2020-12-15,20:00,Manchester City,1.9,0.3,West Brom,,Etihad Stadium,Peter Bankes,https://fbref.com/en/matches/40b42ca1/Manchester-City-West-Bromwich-Albion-December-15-2020-Premier-League,1,1
+EPL,2020-2021,13,Wed,2020-12-16,18:00,Arsenal,0.7,1.1,Southampton,,Emirates Stadium,Paul Tierney,https://fbref.com/en/matches/0ceceee4/Arsenal-Southampton-December-16-2020-Premier-League,1,1
+EPL,2020-2021,13,Wed,2020-12-16,18:00,Leicester City,0.7,1.2,Everton,,King Power Stadium,Lee Mason,https://fbref.com/en/matches/b30c816c/Leicester-City-Everton-December-16-2020-Premier-League,0,2
+EPL,2020-2021,13,Wed,2020-12-16,18:00,Leeds United,2.8,0.9,Newcastle Utd,,Elland Road,Simon Hooper,https://fbref.com/en/matches/b52c441b/Leeds-United-Newcastle-United-December-16-2020-Premier-League,5,2
+EPL,2020-2021,13,Wed,2020-12-16,20:00,West Ham,0.3,0.9,Crystal Palace,,London Stadium,David Coote,https://fbref.com/en/matches/98bf02e0/West-Ham-United-Crystal-Palace-December-16-2020-Premier-League,1,1
+EPL,2020-2021,13,Wed,2020-12-16,20:00,Fulham,0.8,0.6,Brighton,,Craven Cottage,Robert Jones,https://fbref.com/en/matches/eb73d532/Fulham-Brighton-and-Hove-Albion-December-16-2020-Premier-League,0,0
+EPL,2020-2021,13,Wed,2020-12-16,20:00,Liverpool,1.2,1.3,Tottenham,2000,Anfield,Anthony Taylor,https://fbref.com/en/matches/966f86fe/Liverpool-Tottenham-Hotspur-December-16-2020-Premier-League,2,1
+EPL,2020-2021,13,Thu,2020-12-17,18:00,Aston Villa,2.0,0.4,Burnley,,Villa Park,Craig Pawson,https://fbref.com/en/matches/5d89f60c/Aston-Villa-Burnley-December-17-2020-Premier-League,0,0
+EPL,2020-2021,13,Thu,2020-12-17,20:00,Sheffield Utd,1.6,2.0,Manchester Utd,,Bramall Lane,Michael Oliver,https://fbref.com/en/matches/3b3cc5f6/Sheffield-United-Manchester-United-December-17-2020-Premier-League,2,3
+EPL,2020-2021,14,Sat,2020-12-19,12:30,Crystal Palace,0.3,2.1,Liverpool,,Selhurst Park,Jonathan Moss,https://fbref.com/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League,0,7
+EPL,2020-2021,14,Sat,2020-12-19,15:00,Southampton,1.0,1.1,Manchester City,,St. Mary's Stadium,Mike Dean,https://fbref.com/en/matches/8d4a02ae/Southampton-Manchester-City-December-19-2020-Premier-League,0,1
+EPL,2020-2021,14,Sat,2020-12-19,17:30,Everton,0.8,1.4,Arsenal,,Goodison Park,Andre Marriner,https://fbref.com/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League,2,1
+EPL,2020-2021,14,Sat,2020-12-19,20:00,Newcastle Utd,1.4,0.7,Fulham,,St. James' Park,Graham Scott,https://fbref.com/en/matches/3ae84056/Newcastle-United-Fulham-December-19-2020-Premier-League,1,1
+EPL,2020-2021,14,Sun,2020-12-20,12:00,Brighton,2.6,0.7,Sheffield Utd,,The American Express Community Stadium,Peter Bankes,https://fbref.com/en/matches/d1273e90/Brighton-and-Hove-Albion-Sheffield-United-December-20-2020-Premier-League,1,1
+EPL,2020-2021,14,Sun,2020-12-20,14:15,Tottenham,1.1,1.5,Leicester City,,Tottenham Hotspur Stadium,Craig Pawson,https://fbref.com/en/matches/56ffe356/Tottenham-Hotspur-Leicester-City-December-20-2020-Premier-League,0,2
+EPL,2020-2021,14,Sun,2020-12-20,16:30,Manchester Utd,4.0,1.7,Leeds United,,Old Trafford,Anthony Taylor,https://fbref.com/en/matches/b7ab53b3/Manchester-United-Leeds-United-December-20-2020-Premier-League,6,2
+EPL,2020-2021,14,Sun,2020-12-20,19:15,West Brom,0.0,2.3,Aston Villa,,The Hawthorns,Martin Atkinson,https://fbref.com/en/matches/4bbe55ff/West-Bromwich-Albion-Aston-Villa-December-20-2020-Premier-League,0,3
+EPL,2020-2021,14,Mon,2020-12-21,17:30,Burnley,1.8,1.4,Wolves,,Turf Moor,Lee Mason,https://fbref.com/en/matches/4e106790/Burnley-Wolverhampton-Wanderers-December-21-2020-Premier-League,2,1
+EPL,2020-2021,14,Mon,2020-12-21,20:00,Chelsea,2.1,0.5,West Ham,,Stamford Bridge,Chris Kavanagh,https://fbref.com/en/matches/9a718e42/Chelsea-West-Ham-United-December-21-2020-Premier-League,3,0
+EPL,2020-2021,15,Sat,2020-12-26,12:30,Leicester City,1.2,2.2,Manchester Utd,,King Power Stadium,Mike Dean,https://fbref.com/en/matches/33c8b5c8/Leicester-City-Manchester-United-December-26-2020-Premier-League,2,2
+EPL,2020-2021,15,Sat,2020-12-26,15:00,Fulham,0.9,0.1,Southampton,,Craven Cottage,Darren England,https://fbref.com/en/matches/cf86c208/Fulham-Southampton-December-26-2020-Premier-League,0,0
+EPL,2020-2021,15,Sat,2020-12-26,15:00,Aston Villa,3.5,1.1,Crystal Palace,,Villa Park,Anthony Taylor,https://fbref.com/en/matches/537b6ef8/Aston-Villa-Crystal-Palace-December-26-2020-Premier-League,3,0
+EPL,2020-2021,15,Sat,2020-12-26,17:30,Arsenal,2.1,2.3,Chelsea,,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/c5de8a0c/North-West-London-Derby-Arsenal-Chelsea-December-26-2020-Premier-League,3,1
+EPL,2020-2021,15,Sat,2020-12-26,20:00,Sheffield Utd,1.2,0.7,Everton,,Bramall Lane,David Coote,https://fbref.com/en/matches/870d9436/Sheffield-United-Everton-December-26-2020-Premier-League,0,1
+EPL,2020-2021,15,Sat,2020-12-26,20:00,Manchester City,1.8,0.3,Newcastle Utd,,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/c1c40b30/Manchester-City-Newcastle-United-December-26-2020-Premier-League,2,0
+EPL,2020-2021,15,Sun,2020-12-27,12:00,Leeds United,1.8,1.1,Burnley,,Elland Road,Robert Jones,https://fbref.com/en/matches/d54f6293/Leeds-United-Burnley-December-27-2020-Premier-League,1,0
+EPL,2020-2021,15,Sun,2020-12-27,14:15,West Ham,1.2,1.2,Brighton,,London Stadium,Simon Hooper,https://fbref.com/en/matches/7ba8c6e9/West-Ham-United-Brighton-and-Hove-Albion-December-27-2020-Premier-League,2,2
+EPL,2020-2021,15,Sun,2020-12-27,16:30,Liverpool,1.6,0.5,West Brom,2000,Anfield,Kevin Friend,https://fbref.com/en/matches/daa09f69/Liverpool-West-Bromwich-Albion-December-27-2020-Premier-League,1,1
+EPL,2020-2021,15,Sun,2020-12-27,19:15,Wolves,1.0,0.4,Tottenham,,Molineux Stadium,Paul Tierney,https://fbref.com/en/matches/f50faef3/Wolverhampton-Wanderers-Tottenham-Hotspur-December-27-2020-Premier-League,1,1
+EPL,2020-2021,16,Mon,2020-12-28,15:00,Crystal Palace,0.5,1.8,Leicester City,,Selhurst Park,Graham Scott,https://fbref.com/en/matches/77437741/Crystal-Palace-Leicester-City-December-28-2020-Premier-League,1,1
+EPL,2020-2021,16,Mon,2020-12-28,17:30,Chelsea,1.4,0.8,Aston Villa,,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/ac7d1071/Chelsea-Aston-Villa-December-28-2020-Premier-League,1,1
+EPL,2020-2021,16,Tue,2020-12-29,18:00,Southampton,0.5,0.9,West Ham,,St. Mary's Stadium,Andy Madley,https://fbref.com/en/matches/7577b54b/Southampton-West-Ham-United-December-29-2020-Premier-League,0,0
+EPL,2020-2021,16,Tue,2020-12-29,18:00,West Brom,0.6,0.9,Leeds United,,The Hawthorns,Lee Mason,https://fbref.com/en/matches/21f2b720/West-Bromwich-Albion-Leeds-United-December-29-2020-Premier-League,0,5
+EPL,2020-2021,16,Tue,2020-12-29,18:00,Brighton,0.8,1.2,Arsenal,,The American Express Community Stadium,Martin Atkinson,https://fbref.com/en/matches/fdca0bef/Brighton-and-Hove-Albion-Arsenal-December-29-2020-Premier-League,0,1
+EPL,2020-2021,16,Tue,2020-12-29,18:00,Burnley,0.8,0.4,Sheffield Utd,,Turf Moor,Chris Kavanagh,https://fbref.com/en/matches/b33de500/Burnley-Sheffield-United-December-29-2020-Premier-League,1,0
+EPL,2020-2021,16,Tue,2020-12-29,20:00,Manchester Utd,1.3,0.4,Wolves,,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/a8d659e4/Manchester-United-Wolverhampton-Wanderers-December-29-2020-Premier-League,1,0
+EPL,2020-2021,16,Wed,2020-12-30,20:00,Newcastle Utd,0.3,1.1,Liverpool,,St. James' Park,Paul Tierney,https://fbref.com/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League,0,0
+EPL,2020-2021,17,Fri,2021-01-01,17:30,Everton,0.3,1.3,West Ham,,Goodison Park,Kevin Friend,https://fbref.com/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League,0,1
+EPL,2020-2021,17,Fri,2021-01-01,20:00,Manchester Utd,1.9,1.6,Aston Villa,,Old Trafford,Michael Oliver,https://fbref.com/en/matches/0ae3a66d/Manchester-United-Aston-Villa-January-1-2021-Premier-League,2,1
+EPL,2020-2021,17,Sat,2021-01-02,12:30,Tottenham,2.6,1.0,Leeds United,,Tottenham Hotspur Stadium,David Coote,https://fbref.com/en/matches/93463aad/Tottenham-Hotspur-Leeds-United-January-2-2021-Premier-League,3,0
+EPL,2020-2021,17,Sat,2021-01-02,15:00,Crystal Palace,0.6,0.3,Sheffield Utd,,Selhurst Park,Stuart Attwell,https://fbref.com/en/matches/84a373f5/Crystal-Palace-Sheffield-United-January-2-2021-Premier-League,2,0
+EPL,2020-2021,17,Sat,2021-01-02,17:30,Brighton,1.7,1.7,Wolves,,The American Express Community Stadium,Andy Madley,https://fbref.com/en/matches/abeb80b7/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-January-2-2021-Premier-League,3,3
+EPL,2020-2021,17,Sat,2021-01-02,20:00,West Brom,0.4,3.3,Arsenal,,The Hawthorns,Martin Atkinson,https://fbref.com/en/matches/a56531b0/West-Bromwich-Albion-Arsenal-January-2-2021-Premier-League,0,4
+EPL,2020-2021,17,Sun,2021-01-03,14:15,Newcastle Utd,0.2,0.9,Leicester City,,St. James' Park,Robert Jones,https://fbref.com/en/matches/4c205b24/Newcastle-United-Leicester-City-January-3-2021-Premier-League,1,2
+EPL,2020-2021,17,Sun,2021-01-03,16:30,Chelsea,0.8,2.4,Manchester City,,Stamford Bridge,Anthony Taylor,https://fbref.com/en/matches/85507602/Chelsea-Manchester-City-January-3-2021-Premier-League,1,3
+EPL,2020-2021,17,Mon,2021-01-04,20:00,Southampton,0.6,1.1,Liverpool,,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/d0482032/Southampton-Liverpool-January-4-2021-Premier-League,1,0
+EPL,2020-2021,18,Tue,2021-01-12,18:00,Sheffield Utd,1.8,0.5,Newcastle Utd,,Bramall Lane,Andy Madley,https://fbref.com/en/matches/18ccfdb9/Sheffield-United-Newcastle-United-January-12-2021-Premier-League,1,0
+EPL,2020-2021,1,Tue,2021-01-12,20:15,Burnley,0.9,1.2,Manchester Utd,,Turf Moor,Kevin Friend,https://fbref.com/en/matches/2c8aa556/Burnley-Manchester-United-January-12-2021-Premier-League,0,1
+EPL,2020-2021,18,Tue,2021-01-12,20:15,Wolves,1.0,0.6,Everton,,Molineux Stadium,Martin Atkinson,https://fbref.com/en/matches/8cbb9119/Wolverhampton-Wanderers-Everton-January-12-2021-Premier-League,1,2
+EPL,2020-2021,18,Wed,2021-01-13,18:00,Manchester City,2.6,0.2,Brighton,,Etihad Stadium,Darren England,https://fbref.com/en/matches/9926f1f0/Manchester-City-Brighton-and-Hove-Albion-January-13-2021-Premier-League,1,0
+EPL,2020-2021,16,Wed,2021-01-13,20:15,Tottenham,2.3,0.9,Fulham,,Tottenham Hotspur Stadium,Paul Tierney,https://fbref.com/en/matches/fcad17a1/Tottenham-Hotspur-Fulham-January-13-2021-Premier-League,1,1
+EPL,2020-2021,18,Thu,2021-01-14,20:00,Arsenal,0.6,0.9,Crystal Palace,,Emirates Stadium,Andre Marriner,https://fbref.com/en/matches/0476b43a/Arsenal-Crystal-Palace-January-14-2021-Premier-League,0,0
+EPL,2020-2021,19,Sat,2021-01-16,12:30,Wolves,2.2,2.3,West Brom,,Molineux Stadium,Michael Oliver,https://fbref.com/en/matches/93420516/Wolverhampton-Wanderers-West-Bromwich-Albion-January-16-2021-Premier-League,2,3
+EPL,2020-2021,19,Sat,2021-01-16,15:00,Leeds United,0.3,1.3,Brighton,,Elland Road,Kevin Friend,https://fbref.com/en/matches/ade7aac2/Leeds-United-Brighton-and-Hove-Albion-January-16-2021-Premier-League,0,1
+EPL,2020-2021,19,Sat,2021-01-16,15:00,West Ham,1.7,0.5,Burnley,,London Stadium,Chris Kavanagh,https://fbref.com/en/matches/1b06e352/West-Ham-United-Burnley-January-16-2021-Premier-League,1,0
+EPL,2020-2021,19,Sat,2021-01-16,17:30,Fulham,0.8,1.5,Chelsea,,Craven Cottage,Peter Bankes,https://fbref.com/en/matches/714c642d/Fulham-Chelsea-January-16-2021-Premier-League,0,1
+EPL,2020-2021,19,Sat,2021-01-16,20:00,Leicester City,2.1,0.8,Southampton,,King Power Stadium,Stuart Attwell,https://fbref.com/en/matches/85d4ec49/Leicester-City-Southampton-January-16-2021-Premier-League,2,0
+EPL,2020-2021,19,Sun,2021-01-17,,Aston Villa,,,Everton,,Villa Park,,,,
+EPL,2020-2021,19,Sun,2021-01-17,14:00,Sheffield Utd,0.7,1.2,Tottenham,,Bramall Lane,Andre Marriner,https://fbref.com/en/matches/c52b1c4f/Sheffield-United-Tottenham-Hotspur-January-17-2021-Premier-League,1,3
+EPL,2020-2021,19,Sun,2021-01-17,16:30,Liverpool,1.7,0.9,Manchester Utd,,Anfield,Paul Tierney,https://fbref.com/en/matches/7e1384ef/North-West-Derby-Liverpool-Manchester-United-January-17-2021-Premier-League,0,0
+EPL,2020-2021,19,Sun,2021-01-17,19:15,Manchester City,0.9,0.0,Crystal Palace,,Etihad Stadium,Lee Mason,https://fbref.com/en/matches/15d2f67c/Manchester-City-Crystal-Palace-January-17-2021-Premier-League,4,0
+EPL,2020-2021,19,Mon,2021-01-18,20:00,Arsenal,2.8,0.2,Newcastle Utd,,Emirates Stadium,David Coote,https://fbref.com/en/matches/620df215/Arsenal-Newcastle-United-January-18-2021-Premier-League,3,0
+EPL,2020-2021,18,Tue,2021-01-19,18:00,West Ham,1.3,0.4,West Brom,,London Stadium,Graham Scott,https://fbref.com/en/matches/42daddbb/West-Ham-United-West-Bromwich-Albion-January-19-2021-Premier-League,2,1
+EPL,2020-2021,18,Tue,2021-01-19,20:15,Leicester City,1.2,0.8,Chelsea,,King Power Stadium,Craig Pawson,https://fbref.com/en/matches/8467b110/Leicester-City-Chelsea-January-19-2021-Premier-League,2,0
+EPL,2020-2021,1,Wed,2021-01-20,18:00,Manchester City,4.3,0.8,Aston Villa,,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/c9710420/Manchester-City-Aston-Villa-January-20-2021-Premier-League,2,0
+EPL,2020-2021,18,Wed,2021-01-20,20:15,Fulham,0.9,1.2,Manchester Utd,,Craven Cottage,Martin Atkinson,https://fbref.com/en/matches/2a3855db/Fulham-Manchester-United-January-20-2021-Premier-League,1,2
+EPL,2020-2021,18,Thu,2021-01-21,20:00,Liverpool,2.3,1.4,Burnley,,Anfield,Mike Dean,https://fbref.com/en/matches/787d11cc/Liverpool-Burnley-January-21-2021-Premier-League,0,1
+EPL,2020-2021,11,Sat,2021-01-23,20:00,Aston Villa,1.8,0.6,Newcastle Utd,,Villa Park,Simon Hooper,https://fbref.com/en/matches/b2143993/Aston-Villa-Newcastle-United-January-23-2021-Premier-League,2,0
+EPL,2020-2021,20,Tue,2021-01-26,18:00,Newcastle Utd,1.4,0.9,Leeds United,,St. James' Park,Anthony Taylor,https://fbref.com/en/matches/831d8a36/Newcastle-United-Leeds-United-January-26-2021-Premier-League,1,2
+EPL,2020-2021,20,Tue,2021-01-26,18:00,Crystal Palace,0.5,3.0,West Ham,,Selhurst Park,Stuart Attwell,https://fbref.com/en/matches/aab6365d/Crystal-Palace-West-Ham-United-January-26-2021-Premier-League,2,3
+EPL,2020-2021,20,Tue,2021-01-26,20:15,West Brom,0.4,2.0,Manchester City,,The Hawthorns,Chris Kavanagh,https://fbref.com/en/matches/83f7b656/West-Bromwich-Albion-Manchester-City-January-26-2021-Premier-League,0,5
+EPL,2020-2021,20,Tue,2021-01-26,20:15,Southampton,1.2,2.0,Arsenal,,St. Mary's Stadium,Kevin Friend,https://fbref.com/en/matches/ac54f8a6/Southampton-Arsenal-January-26-2021-Premier-League,1,3
+EPL,2020-2021,20,Wed,2021-01-27,18:00,Burnley,0.5,2.1,Aston Villa,,Turf Moor,Paul Tierney,https://fbref.com/en/matches/f45d57b7/Burnley-Aston-Villa-January-27-2021-Premier-League,3,2
+EPL,2020-2021,20,Wed,2021-01-27,18:00,Chelsea,0.8,0.4,Wolves,,Stamford Bridge,Andy Madley,https://fbref.com/en/matches/42eeae0e/Chelsea-Wolverhampton-Wanderers-January-27-2021-Premier-League,0,0
+EPL,2020-2021,20,Wed,2021-01-27,19:30,Brighton,2.0,1.0,Fulham,,The American Express Community Stadium,Craig Pawson,https://fbref.com/en/matches/ea5464bd/Brighton-and-Hove-Albion-Fulham-January-27-2021-Premier-League,0,0
+EPL,2020-2021,20,Wed,2021-01-27,20:15,Manchester Utd,1.7,1.0,Sheffield Utd,,Old Trafford,Peter Bankes,https://fbref.com/en/matches/6e963555/Manchester-United-Sheffield-United-January-27-2021-Premier-League,1,2
+EPL,2020-2021,20,Wed,2021-01-27,20:15,Everton,0.6,1.1,Leicester City,,Goodison Park,Mike Dean,https://fbref.com/en/matches/3e4ff1e0/Everton-Leicester-City-January-27-2021-Premier-League,1,1
+EPL,2020-2021,20,Thu,2021-01-28,20:00,Tottenham,0.2,2.1,Liverpool,,Tottenham Hotspur Stadium,Martin Atkinson,https://fbref.com/en/matches/17bac3d1/Tottenham-Hotspur-Liverpool-January-28-2021-Premier-League,1,3
+EPL,2020-2021,21,Sat,2021-01-30,12:30,Everton,1.0,1.8,Newcastle Utd,,Goodison Park,Stuart Attwell,https://fbref.com/en/matches/88053fb0/Everton-Newcastle-United-January-30-2021-Premier-League,0,2
+EPL,2020-2021,21,Sat,2021-01-30,15:00,Manchester City,1.2,0.2,Sheffield Utd,,Etihad Stadium,David Coote,https://fbref.com/en/matches/150c80d7/Manchester-City-Sheffield-United-January-30-2021-Premier-League,1,0
+EPL,2020-2021,21,Sat,2021-01-30,15:00,West Brom,0.6,1.8,Fulham,,The Hawthorns,Anthony Taylor,https://fbref.com/en/matches/d1517c30/West-Bromwich-Albion-Fulham-January-30-2021-Premier-League,2,2
+EPL,2020-2021,21,Sat,2021-01-30,15:00,Crystal Palace,0.8,0.4,Wolves,,Selhurst Park,Simon Hooper,https://fbref.com/en/matches/111bd050/Crystal-Palace-Wolverhampton-Wanderers-January-30-2021-Premier-League,1,0
+EPL,2020-2021,21,Sat,2021-01-30,17:30,Arsenal,1.1,1.5,Manchester Utd,,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/0fcaaa5f/Arsenal-Manchester-United-January-30-2021-Premier-League,0,0
+EPL,2020-2021,21,Sat,2021-01-30,20:00,Southampton,1.7,0.5,Aston Villa,,St. Mary's Stadium,Lee Mason,https://fbref.com/en/matches/10d13e5b/Southampton-Aston-Villa-January-30-2021-Premier-League,0,1
+EPL,2020-2021,21,Sun,2021-01-31,12:00,Chelsea,1.3,0.2,Burnley,,Stamford Bridge,Graham Scott,https://fbref.com/en/matches/3372f3f3/Chelsea-Burnley-January-31-2021-Premier-League,2,0
+EPL,2020-2021,21,Sun,2021-01-31,14:00,Leicester City,1.9,1.8,Leeds United,,King Power Stadium,Chris Kavanagh,https://fbref.com/en/matches/e5e46ead/Leicester-City-Leeds-United-January-31-2021-Premier-League,1,3
+EPL,2020-2021,21,Sun,2021-01-31,16:30,West Ham,1.0,1.9,Liverpool,,London Stadium,Jonathan Moss,https://fbref.com/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League,1,3
+EPL,2020-2021,21,Sun,2021-01-31,19:15,Brighton,1.9,0.5,Tottenham,,The American Express Community Stadium,Peter Bankes,https://fbref.com/en/matches/4663c253/Brighton-and-Hove-Albion-Tottenham-Hotspur-January-31-2021-Premier-League,1,0
+EPL,2020-2021,22,Tue,2021-02-02,18:00,Sheffield Utd,1.1,1.5,West Brom,,Bramall Lane,Paul Tierney,https://fbref.com/en/matches/2d3d863d/Sheffield-United-West-Bromwich-Albion-February-2-2021-Premier-League,2,1
+EPL,2020-2021,22,Tue,2021-02-02,18:00,Wolves,1.5,0.6,Arsenal,,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/558fa672/Wolverhampton-Wanderers-Arsenal-February-2-2021-Premier-League,2,1
+EPL,2020-2021,22,Tue,2021-02-02,20:15,Newcastle Utd,1.8,0.9,Crystal Palace,,St. James' Park,Darren England,https://fbref.com/en/matches/ca8297c0/Newcastle-United-Crystal-Palace-February-2-2021-Premier-League,1,2
+EPL,2020-2021,22,Tue,2021-02-02,20:15,Manchester Utd,3.7,0.5,Southampton,,Old Trafford,Mike Dean,https://fbref.com/en/matches/37a9f2fd/Manchester-United-Southampton-February-2-2021-Premier-League,9,0
+EPL,2020-2021,22,Wed,2021-02-03,18:00,Burnley,0.1,2.6,Manchester City,,Turf Moor,Martin Atkinson,https://fbref.com/en/matches/a05d7ae7/Burnley-Manchester-City-February-3-2021-Premier-League,0,2
+EPL,2020-2021,22,Wed,2021-02-03,18:00,Fulham,0.7,1.1,Leicester City,,Craven Cottage,Robert Jones,https://fbref.com/en/matches/bd0673ed/Fulham-Leicester-City-February-3-2021-Premier-League,0,2
+EPL,2020-2021,22,Wed,2021-02-03,19:30,Leeds United,0.9,1.8,Everton,,Elland Road,Michael Oliver,https://fbref.com/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League,1,2
+EPL,2020-2021,22,Wed,2021-02-03,20:15,Aston Villa,0.7,1.5,West Ham,,Villa Park,Andy Madley,https://fbref.com/en/matches/8f9d1856/Aston-Villa-West-Ham-United-February-3-2021-Premier-League,1,3
+EPL,2020-2021,22,Wed,2021-02-03,20:15,Liverpool,0.7,1.1,Brighton,,Anfield,Kevin Friend,https://fbref.com/en/matches/314c860f/Liverpool-Brighton-and-Hove-Albion-February-3-2021-Premier-League,0,1
+EPL,2020-2021,22,Thu,2021-02-04,20:00,Tottenham,0.3,2.2,Chelsea,,Tottenham Hotspur Stadium,Andre Marriner,https://fbref.com/en/matches/7d98a679/Tottenham-Hotspur-Chelsea-February-4-2021-Premier-League,0,1
+EPL,2020-2021,23,Sat,2021-02-06,12:30,Aston Villa,1.1,1.1,Arsenal,,Villa Park,Chris Kavanagh,https://fbref.com/en/matches/224bcfc4/Aston-Villa-Arsenal-February-6-2021-Premier-League,1,0
+EPL,2020-2021,23,Sat,2021-02-06,15:00,Burnley,2.1,0.6,Brighton,,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/4400251e/Burnley-Brighton-and-Hove-Albion-February-6-2021-Premier-League,1,1
+EPL,2020-2021,23,Sat,2021-02-06,15:00,Newcastle Utd,0.8,1.4,Southampton,,St. James' Park,Craig Pawson,https://fbref.com/en/matches/5313627a/Newcastle-United-Southampton-February-6-2021-Premier-League,3,2
+EPL,2020-2021,23,Sat,2021-02-06,17:30,Fulham,1.4,0.8,West Ham,,Craven Cottage,Mike Dean,https://fbref.com/en/matches/d18e21ab/Fulham-West-Ham-United-February-6-2021-Premier-League,0,0
+EPL,2020-2021,23,Sat,2021-02-06,20:00,Manchester Utd,1.4,1.1,Everton,,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/6504b158/Manchester-United-Everton-February-6-2021-Premier-League,3,3
+EPL,2020-2021,23,Sun,2021-02-07,12:00,Tottenham,1.5,0.4,West Brom,,Tottenham Hotspur Stadium,Stuart Attwell,https://fbref.com/en/matches/4a652b81/Tottenham-Hotspur-West-Bromwich-Albion-February-7-2021-Premier-League,2,0
+EPL,2020-2021,23,Sun,2021-02-07,14:00,Wolves,1.9,0.7,Leicester City,,Molineux Stadium,Martin Atkinson,https://fbref.com/en/matches/dca0be20/Wolverhampton-Wanderers-Leicester-City-February-7-2021-Premier-League,0,0
+EPL,2020-2021,23,Sun,2021-02-07,16:30,Liverpool,1.3,3.1,Manchester City,,Anfield,Michael Oliver,https://fbref.com/en/matches/e044d71d/Liverpool-Manchester-City-February-7-2021-Premier-League,1,4
+EPL,2020-2021,23,Sun,2021-02-07,19:15,Sheffield Utd,0.4,1.4,Chelsea,,Bramall Lane,Kevin Friend,https://fbref.com/en/matches/d3467620/Sheffield-United-Chelsea-February-7-2021-Premier-League,1,2
+EPL,2020-2021,23,Mon,2021-02-08,20:00,Leeds United,2.8,0.5,Crystal Palace,,Elland Road,Andre Marriner,https://fbref.com/en/matches/ff2cee2b/Leeds-United-Crystal-Palace-February-8-2021-Premier-League,2,0
+EPL,2020-2021,24,Sat,2021-02-13,12:30,Leicester City,2.6,1.8,Liverpool,,King Power Stadium,Anthony Taylor,https://fbref.com/en/matches/666f6961/Leicester-City-Liverpool-February-13-2021-Premier-League,3,1
+EPL,2020-2021,24,Sat,2021-02-13,15:00,Crystal Palace,0.6,1.3,Burnley,,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/34a4b546/Crystal-Palace-Burnley-February-13-2021-Premier-League,0,3
+EPL,2020-2021,24,Sat,2021-02-13,17:30,Manchester City,2.9,0.6,Tottenham,,Etihad Stadium,Paul Tierney,https://fbref.com/en/matches/5d0cd646/Manchester-City-Tottenham-Hotspur-February-13-2021-Premier-League,3,0
+EPL,2020-2021,24,Sat,2021-02-13,20:00,Brighton,1.7,0.1,Aston Villa,,The American Express Community Stadium,Darren England,https://fbref.com/en/matches/c7922348/Brighton-and-Hove-Albion-Aston-Villa-February-13-2021-Premier-League,0,0
+EPL,2020-2021,24,Sun,2021-02-14,12:00,Southampton,0.7,1.1,Wolves,,St. Mary's Stadium,Graham Scott,https://fbref.com/en/matches/34682a95/Southampton-Wolverhampton-Wanderers-February-14-2021-Premier-League,1,2
+EPL,2020-2021,24,Sun,2021-02-14,14:00,West Brom,1.1,0.4,Manchester Utd,,The Hawthorns,Craig Pawson,https://fbref.com/en/matches/80124feb/West-Bromwich-Albion-Manchester-United-February-14-2021-Premier-League,1,1
+EPL,2020-2021,24,Sun,2021-02-14,16:30,Arsenal,2.4,0.7,Leeds United,,Emirates Stadium,Stuart Attwell,https://fbref.com/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League,4,2
+EPL,2020-2021,24,Sun,2021-02-14,19:00,Everton,0.4,2.7,Fulham,,Goodison Park,Andy Madley,https://fbref.com/en/matches/46f84386/Everton-Fulham-February-14-2021-Premier-League,0,2
+EPL,2020-2021,24,Mon,2021-02-15,18:00,West Ham,1.9,0.7,Sheffield Utd,,London Stadium,Simon Hooper,https://fbref.com/en/matches/d6167896/West-Ham-United-Sheffield-United-February-15-2021-Premier-League,3,0
+EPL,2020-2021,24,Mon,2021-02-15,20:00,Chelsea,2.0,0.7,Newcastle Utd,,Stamford Bridge,Peter Bankes,https://fbref.com/en/matches/dd033287/Chelsea-Newcastle-United-February-15-2021-Premier-League,2,0
+EPL,2020-2021,17,Wed,2021-02-17,18:00,Burnley,1.4,0.5,Fulham,,Turf Moor,Jonathan Moss,https://fbref.com/en/matches/6285d050/Burnley-Fulham-February-17-2021-Premier-League,1,1
+EPL,2020-2021,16,Wed,2021-02-17,20:15,Everton,1.0,1.5,Manchester City,,Goodison Park,Andre Marriner,https://fbref.com/en/matches/78270b8a/Everton-Manchester-City-February-17-2021-Premier-League,1,3
+EPL,2020-2021,25,Fri,2021-02-19,20:00,Wolves,0.8,1.4,Leeds United,,Molineux Stadium,David Coote,https://fbref.com/en/matches/ae2d6f15/Wolverhampton-Wanderers-Leeds-United-February-19-2021-Premier-League,1,0
+EPL,2020-2021,25,Sat,2021-02-20,12:30,Southampton,0.5,1.2,Chelsea,,St. Mary's Stadium,Anthony Taylor,https://fbref.com/en/matches/9e4c8c99/Southampton-Chelsea-February-20-2021-Premier-League,1,1
+EPL,2020-2021,25,Sat,2021-02-20,15:00,Burnley,0.4,1.0,West Brom,,Turf Moor,Mike Dean,https://fbref.com/en/matches/072e8501/Burnley-West-Bromwich-Albion-February-20-2021-Premier-League,0,0
+EPL,2020-2021,25,Sat,2021-02-20,17:30,Liverpool,1.7,1.5,Everton,,Anfield,Chris Kavanagh,https://fbref.com/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League,0,2
+EPL,2020-2021,25,Sat,2021-02-20,20:00,Fulham,1.1,0.5,Sheffield Utd,,Craven Cottage,Martin Atkinson,https://fbref.com/en/matches/b1892d66/Fulham-Sheffield-United-February-20-2021-Premier-League,1,0
+EPL,2020-2021,25,Sun,2021-02-21,12:00,West Ham,1.1,1.2,Tottenham,,London Stadium,Craig Pawson,https://fbref.com/en/matches/59222b5f/West-Ham-United-Tottenham-Hotspur-February-21-2021-Premier-League,2,1
+EPL,2020-2021,25,Sun,2021-02-21,14:05,Aston Villa,1.2,1.2,Leicester City,,Villa Park,Michael Oliver,https://fbref.com/en/matches/2c6f8c0e/Aston-Villa-Leicester-City-February-21-2021-Premier-League,1,2
+EPL,2020-2021,25,Sun,2021-02-21,16:30,Arsenal,0.3,2.0,Manchester City,,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/2dedf408/Arsenal-Manchester-City-February-21-2021-Premier-League,0,1
+EPL,2020-2021,25,Sun,2021-02-21,19:00,Manchester Utd,1.8,0.5,Newcastle Utd,,Old Trafford,Paul Tierney,https://fbref.com/en/matches/401e0d48/Manchester-United-Newcastle-United-February-21-2021-Premier-League,3,1
+EPL,2020-2021,25,Mon,2021-02-22,20:00,Brighton,2.6,0.2,Crystal Palace,,The American Express Community Stadium,Kevin Friend,https://fbref.com/en/matches/86f378b6/Brighton-and-Hove-Albion-Crystal-Palace-February-22-2021-Premier-League,1,2
+EPL,2020-2021,18,Tue,2021-02-23,18:00,Leeds United,1.3,0.7,Southampton,,Elland Road,Andre Marriner,https://fbref.com/en/matches/6a198933/Leeds-United-Southampton-February-23-2021-Premier-League,3,0
+EPL,2020-2021,26,Sat,2021-02-27,12:30,Manchester City,0.6,1.6,West Ham,,Etihad Stadium,Michael Oliver,https://fbref.com/en/matches/6faa8392/Manchester-City-West-Ham-United-February-27-2021-Premier-League,2,1
+EPL,2020-2021,26,Sat,2021-02-27,15:00,West Brom,0.5,2.6,Brighton,,The Hawthorns,Lee Mason,https://fbref.com/en/matches/ff18265a/West-Bromwich-Albion-Brighton-and-Hove-Albion-February-27-2021-Premier-League,1,0
+EPL,2020-2021,26,Sat,2021-02-27,17:30,Leeds United,0.7,0.9,Aston Villa,,Elland Road,Peter Bankes,https://fbref.com/en/matches/70056c3b/Leeds-United-Aston-Villa-February-27-2021-Premier-League,0,1
+EPL,2020-2021,26,Sat,2021-02-27,20:00,Newcastle Utd,1.5,1.0,Wolves,,St. James' Park,Mike Dean,https://fbref.com/en/matches/99e5e3dc/Newcastle-United-Wolverhampton-Wanderers-February-27-2021-Premier-League,1,1
+EPL,2020-2021,26,Sun,2021-02-28,12:00,Crystal Palace,0.1,1.0,Fulham,,Selhurst Park,Anthony Taylor,https://fbref.com/en/matches/2d530fe3/Crystal-Palace-Fulham-February-28-2021-Premier-League,0,0
+EPL,2020-2021,26,Sun,2021-02-28,12:00,Leicester City,0.5,2.2,Arsenal,,King Power Stadium,Paul Tierney,https://fbref.com/en/matches/88b309f1/Leicester-City-Arsenal-February-28-2021-Premier-League,1,3
+EPL,2020-2021,26,Sun,2021-02-28,14:00,Tottenham,2.2,0.5,Burnley,,Tottenham Hotspur Stadium,Kevin Friend,https://fbref.com/en/matches/d28c364e/Tottenham-Hotspur-Burnley-February-28-2021-Premier-League,4,0
+EPL,2020-2021,26,Sun,2021-02-28,16:30,Chelsea,1.1,0.5,Manchester Utd,,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/9ba4df6a/Chelsea-Manchester-United-February-28-2021-Premier-League,0,0
+EPL,2020-2021,26,Sun,2021-02-28,19:15,Sheffield Utd,0.6,2.9,Liverpool,,Bramall Lane,Jonathan Moss,https://fbref.com/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League,0,2
+EPL,2020-2021,26,Mon,2021-03-01,20:00,Everton,1.6,1.0,Southampton,,Goodison Park,Martin Atkinson,https://fbref.com/en/matches/a81e1c82/Everton-Southampton-March-1-2021-Premier-League,1,0
+EPL,2020-2021,29,Tue,2021-03-02,20:00,Manchester City,2.3,0.4,Wolves,,Etihad Stadium,Chris Kavanagh,https://fbref.com/en/matches/7145e0a8/Manchester-City-Wolverhampton-Wanderers-March-2-2021-Premier-League,4,1
+EPL,2020-2021,29,Wed,2021-03-03,18:00,Sheffield Utd,1.0,1.6,Aston Villa,,Bramall Lane,Robert Jones,https://fbref.com/en/matches/3a9c1c4d/Sheffield-United-Aston-Villa-March-3-2021-Premier-League,1,0
+EPL,2020-2021,29,Wed,2021-03-03,18:00,Burnley,1.5,1.3,Leicester City,,Turf Moor,Andy Madley,https://fbref.com/en/matches/5e1c69aa/Burnley-Leicester-City-March-3-2021-Premier-League,1,1
+EPL,2020-2021,29,Wed,2021-03-03,20:15,Crystal Palace,0.8,0.9,Manchester Utd,,Selhurst Park,Andre Marriner,https://fbref.com/en/matches/aecb46ac/Crystal-Palace-Manchester-United-March-3-2021-Premier-League,0,0
+EPL,2020-2021,29,Thu,2021-03-04,18:00,West Brom,1.0,1.2,Everton,,The Hawthorns,Darren England,https://fbref.com/en/matches/ee055741/West-Bromwich-Albion-Everton-March-4-2021-Premier-League,0,1
+EPL,2020-2021,33,Thu,2021-03-04,18:00,Fulham,0.8,1.4,Tottenham,,Craven Cottage,David Coote,https://fbref.com/en/matches/44b3d20c/Fulham-Tottenham-Hotspur-March-4-2021-Premier-League,0,1
+EPL,2020-2021,29,Thu,2021-03-04,20:15,Liverpool,0.3,1.0,Chelsea,,Anfield,Martin Atkinson,https://fbref.com/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League,0,1
+EPL,2020-2021,27,Sat,2021-03-06,12:30,Burnley,1.5,2.4,Arsenal,,Turf Moor,Andre Marriner,https://fbref.com/en/matches/db9a5ac8/Burnley-Arsenal-March-6-2021-Premier-League,1,1
+EPL,2020-2021,27,Sat,2021-03-06,15:00,Sheffield Utd,0.7,1.6,Southampton,,Bramall Lane,Paul Tierney,https://fbref.com/en/matches/9d08bb4e/Sheffield-United-Southampton-March-6-2021-Premier-League,0,2
+EPL,2020-2021,27,Sat,2021-03-06,17:30,Aston Villa,0.6,1.7,Wolves,,Villa Park,Andy Madley,https://fbref.com/en/matches/e52c1e46/Aston-Villa-Wolverhampton-Wanderers-March-6-2021-Premier-League,0,0
+EPL,2020-2021,27,Sat,2021-03-06,20:00,Brighton,1.0,1.1,Leicester City,,The American Express Community Stadium,Michael Oliver,https://fbref.com/en/matches/6fc64077/Brighton-and-Hove-Albion-Leicester-City-March-6-2021-Premier-League,1,2
+EPL,2020-2021,27,Sun,2021-03-07,12:00,West Brom,1.0,0.4,Newcastle Utd,,The Hawthorns,Martin Atkinson,https://fbref.com/en/matches/a096c32f/West-Bromwich-Albion-Newcastle-United-March-7-2021-Premier-League,0,0
+EPL,2020-2021,27,Sun,2021-03-07,14:00,Liverpool,1.0,1.1,Fulham,,Anfield,Kevin Friend,https://fbref.com/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League,0,1
+EPL,2020-2021,27,Sun,2021-03-07,16:30,Manchester City,1.5,1.6,Manchester Utd,,Etihad Stadium,Anthony Taylor,https://fbref.com/en/matches/28ebbc70/Manchester-Derby-Manchester-City-Manchester-United-March-7-2021-Premier-League,0,2
+EPL,2020-2021,27,Sun,2021-03-07,19:15,Tottenham,2.7,0.3,Crystal Palace,,Tottenham Hotspur Stadium,Stuart Attwell,https://fbref.com/en/matches/330fc75f/Tottenham-Hotspur-Crystal-Palace-March-7-2021-Premier-League,4,1
+EPL,2020-2021,27,Mon,2021-03-08,18:00,Chelsea,2.9,0.3,Everton,,Stamford Bridge,David Coote,https://fbref.com/en/matches/7e4a240e/Chelsea-Everton-March-8-2021-Premier-League,2,0
+EPL,2020-2021,27,Mon,2021-03-08,20:00,West Ham,1.9,1.7,Leeds United,,London Stadium,Mike Dean,https://fbref.com/en/matches/c3b4d1ba/West-Ham-United-Leeds-United-March-8-2021-Premier-League,2,0
+EPL,2020-2021,33,Wed,2021-03-10,18:00,Manchester City,2.7,1.8,Southampton,,Etihad Stadium,Jonathan Moss,https://fbref.com/en/matches/ba04db4f/Manchester-City-Southampton-March-10-2021-Premier-League,5,2
+EPL,2020-2021,28,Fri,2021-03-12,20:00,Newcastle Utd,1.1,0.7,Aston Villa,,St. James' Park,Paul Tierney,https://fbref.com/en/matches/5ac8e391/Newcastle-United-Aston-Villa-March-12-2021-Premier-League,1,1
+EPL,2020-2021,28,Sat,2021-03-13,12:30,Leeds United,0.4,1.4,Chelsea,,Elland Road,Kevin Friend,https://fbref.com/en/matches/a711769f/Leeds-United-Chelsea-March-13-2021-Premier-League,0,0
+EPL,2020-2021,28,Sat,2021-03-13,15:00,Crystal Palace,1.3,0.8,West Brom,,Selhurst Park,Simon Hooper,https://fbref.com/en/matches/29954372/Crystal-Palace-West-Bromwich-Albion-March-13-2021-Premier-League,1,0
+EPL,2020-2021,28,Sat,2021-03-13,17:30,Everton,1.6,1.4,Burnley,,Goodison Park,Jonathan Moss,https://fbref.com/en/matches/91cce376/Everton-Burnley-March-13-2021-Premier-League,1,2
+EPL,2020-2021,28,Sat,2021-03-13,20:00,Fulham,0.3,2.3,Manchester City,,Craven Cottage,Andre Marriner,https://fbref.com/en/matches/279b0eb5/Fulham-Manchester-City-March-13-2021-Premier-League,0,3
+EPL,2020-2021,28,Sun,2021-03-14,12:00,Southampton,1.0,0.9,Brighton,,St. Mary's Stadium,Stuart Attwell,https://fbref.com/en/matches/b40eb9c6/Southampton-Brighton-and-Hove-Albion-March-14-2021-Premier-League,1,2
+EPL,2020-2021,28,Sun,2021-03-14,14:00,Leicester City,4.0,0.1,Sheffield Utd,,King Power Stadium,Peter Bankes,https://fbref.com/en/matches/d3bc5214/Leicester-City-Sheffield-United-March-14-2021-Premier-League,5,0
+EPL,2020-2021,28,Sun,2021-03-14,16:30,Arsenal,1.7,0.6,Tottenham,,Emirates Stadium,Michael Oliver,https://fbref.com/en/matches/127b8258/North-London-Derby-Arsenal-Tottenham-Hotspur-March-14-2021-Premier-League,2,1
+EPL,2020-2021,28,Sun,2021-03-14,19:15,Manchester Utd,1.2,0.6,West Ham,,Old Trafford,Martin Atkinson,https://fbref.com/en/matches/05c95367/Manchester-United-West-Ham-United-March-14-2021-Premier-League,1,0
+EPL,2020-2021,28,Mon,2021-03-15,20:00,Wolves,0.8,1.1,Liverpool,,Molineux Stadium,Craig Pawson,https://fbref.com/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League,0,1
+EPL,2020-2021,29,Fri,2021-03-19,20:00,Fulham,1.4,1.5,Leeds United,,Craven Cottage,David Coote,https://fbref.com/en/matches/05e3dd18/Fulham-Leeds-United-March-19-2021-Premier-League,1,2
+EPL,2020-2021,29,Sat,2021-03-20,20:00,Brighton,1.2,0.1,Newcastle Utd,,The American Express Community Stadium,Anthony Taylor,https://fbref.com/en/matches/1daf63a9/Brighton-and-Hove-Albion-Newcastle-United-March-20-2021-Premier-League,3,0
+EPL,2020-2021,29,Sun,2021-03-21,15:00,West Ham,2.3,1.7,Arsenal,,London Stadium,Jonathan Moss,https://fbref.com/en/matches/c592a3d7/West-Ham-United-Arsenal-March-21-2021-Premier-League,3,3
+EPL,2020-2021,18,Sun,2021-03-21,19:30,Aston Villa,0.5,2.2,Tottenham,,Villa Park,Mike Dean,https://fbref.com/en/matches/faf3633c/Aston-Villa-Tottenham-Hotspur-March-21-2021-Premier-League,0,2
+EPL,2020-2021,30,Sat,2021-04-03,12:30,Chelsea,2.4,1.9,West Brom,,Stamford Bridge,David Coote,https://fbref.com/en/matches/c5d6a493/Chelsea-West-Bromwich-Albion-April-3-2021-Premier-League,2,5
+EPL,2020-2021,30,Sat,2021-04-03,15:00,Leeds United,2.5,1.0,Sheffield Utd,,Elland Road,Graham Scott,https://fbref.com/en/matches/c4ed64b9/Leeds-United-Sheffield-United-April-3-2021-Premier-League,2,1
+EPL,2020-2021,30,Sat,2021-04-03,17:30,Leicester City,0.4,2.3,Manchester City,,King Power Stadium,Anthony Taylor,https://fbref.com/en/matches/d798017f/Leicester-City-Manchester-City-April-3-2021-Premier-League,0,2
+EPL,2020-2021,30,Sat,2021-04-03,20:00,Arsenal,0.3,2.2,Liverpool,,Emirates Stadium,Stuart Attwell,https://fbref.com/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League,0,3
+EPL,2020-2021,30,Sun,2021-04-04,12:00,Southampton,1.9,1.8,Burnley,,St. Mary's Stadium,Andre Marriner,https://fbref.com/en/matches/2c313b76/Southampton-Burnley-April-4-2021-Premier-League,3,2
+EPL,2020-2021,30,Sun,2021-04-04,14:05,Newcastle Utd,2.7,1.7,Tottenham,,St. James' Park,Craig Pawson,https://fbref.com/en/matches/7a399858/Newcastle-United-Tottenham-Hotspur-April-4-2021-Premier-League,2,2
+EPL,2020-2021,30,Sun,2021-04-04,16:30,Aston Villa,1.6,1.7,Fulham,,Villa Park,Andy Madley,https://fbref.com/en/matches/a2d96ab5/Aston-Villa-Fulham-April-4-2021-Premier-League,3,1
+EPL,2020-2021,30,Sun,2021-04-04,19:30,Manchester Utd,1.8,1.1,Brighton,,Old Trafford,Mike Dean,https://fbref.com/en/matches/de17a70e/Manchester-United-Brighton-and-Hove-Albion-April-4-2021-Premier-League,2,1
+EPL,2020-2021,30,Mon,2021-04-05,18:00,Everton,2.7,0.8,Crystal Palace,,Goodison Park,Kevin Friend,https://fbref.com/en/matches/66f16cd5/Everton-Crystal-Palace-April-5-2021-Premier-League,1,1
+EPL,2020-2021,30,Mon,2021-04-05,20:15,Wolves,2.5,1.2,West Ham,,Molineux Stadium,Michael Oliver,https://fbref.com/en/matches/4c2f6a7b/Wolverhampton-Wanderers-West-Ham-United-April-5-2021-Premier-League,2,3
+EPL,2020-2021,31,Fri,2021-04-09,20:00,Fulham,0.9,0.4,Wolves,,Craven Cottage,Jonathan Moss,https://fbref.com/en/matches/be1ee647/Fulham-Wolverhampton-Wanderers-April-9-2021-Premier-League,0,1
+EPL,2020-2021,31,Sat,2021-04-10,12:30,Manchester City,2.4,0.3,Leeds United,,Etihad Stadium,Andre Marriner,https://fbref.com/en/matches/ad969519/Manchester-City-Leeds-United-April-10-2021-Premier-League,1,2
+EPL,2020-2021,31,Sat,2021-04-10,15:00,Liverpool,2.5,1.0,Aston Villa,,Anfield,Paul Tierney,https://fbref.com/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League,2,1
+EPL,2020-2021,31,Sat,2021-04-10,17:30,Crystal Palace,0.1,2.5,Chelsea,,Selhurst Park,Michael Oliver,https://fbref.com/en/matches/54b07679/Crystal-Palace-Chelsea-April-10-2021-Premier-League,1,4
+EPL,2020-2021,31,Sun,2021-04-11,12:00,Burnley,1.8,1.2,Newcastle Utd,,Turf Moor,Anthony Taylor,https://fbref.com/en/matches/daebaaa1/Burnley-Newcastle-United-April-11-2021-Premier-League,1,2
+EPL,2020-2021,31,Sun,2021-04-11,14:05,West Ham,1.1,0.9,Leicester City,,London Stadium,Mike Dean,https://fbref.com/en/matches/06b2801a/West-Ham-United-Leicester-City-April-11-2021-Premier-League,3,2
+EPL,2020-2021,31,Sun,2021-04-11,16:30,Tottenham,1.0,1.9,Manchester Utd,,Tottenham Hotspur Stadium,Chris Kavanagh,https://fbref.com/en/matches/a51d567c/Tottenham-Hotspur-Manchester-United-April-11-2021-Premier-League,1,3
+EPL,2020-2021,31,Sun,2021-04-11,19:00,Sheffield Utd,0.5,2.2,Arsenal,,Bramall Lane,Peter Bankes,https://fbref.com/en/matches/34395b54/Sheffield-United-Arsenal-April-11-2021-Premier-League,0,3
+EPL,2020-2021,31,Mon,2021-04-12,18:00,West Brom,2.9,2.1,Southampton,,The Hawthorns,Simon Hooper,https://fbref.com/en/matches/3dee3681/West-Bromwich-Albion-Southampton-April-12-2021-Premier-League,3,0
+EPL,2020-2021,31,Mon,2021-04-12,20:15,Brighton,1.2,0.4,Everton,,The American Express Community Stadium,Darren England,https://fbref.com/en/matches/ac6ac8f8/Brighton-and-Hove-Albion-Everton-April-12-2021-Premier-League,0,0
+EPL,2020-2021,32,Fri,2021-04-16,20:00,Everton,2.3,1.2,Tottenham,,Goodison Park,Michael Oliver,https://fbref.com/en/matches/ebeb462d/Everton-Tottenham-Hotspur-April-16-2021-Premier-League,2,2
+EPL,2020-2021,32,Sat,2021-04-17,,Southampton,,,Crystal Palace,,St. Mary's Stadium,,,,
+EPL,2020-2021,32,Sat,2021-04-17,12:30,Newcastle Utd,1.8,1.5,West Ham,,St. James' Park,Kevin Friend,https://fbref.com/en/matches/25a3b695/Newcastle-United-West-Ham-United-April-17-2021-Premier-League,3,2
+EPL,2020-2021,32,Sat,2021-04-17,20:15,Wolves,1.4,0.5,Sheffield Utd,,Molineux Stadium,Robert Jones,https://fbref.com/en/matches/07745ff2/Wolverhampton-Wanderers-Sheffield-United-April-17-2021-Premier-League,1,0
+EPL,2020-2021,32,Sun,2021-04-18,13:30,Arsenal,2.9,0.9,Fulham,,Emirates Stadium,Craig Pawson,https://fbref.com/en/matches/a19ff865/Arsenal-Fulham-April-18-2021-Premier-League,1,1
+EPL,2020-2021,32,Sun,2021-04-18,16:00,Manchester Utd,2.8,0.4,Burnley,,Old Trafford,Jonathan Moss,https://fbref.com/en/matches/3e00561f/Manchester-United-Burnley-April-18-2021-Premier-League,3,1
+EPL,2020-2021,32,Mon,2021-04-19,20:00,Leeds United,1.8,2.3,Liverpool,,Elland Road,Anthony Taylor,https://fbref.com/en/matches/6c0666e6/Leeds-United-Liverpool-April-19-2021-Premier-League,1,1
+EPL,2020-2021,32,Tue,2021-04-20,20:15,Chelsea,1.0,0.7,Brighton,,Stamford Bridge,Stuart Attwell,https://fbref.com/en/matches/07b4e58b/Chelsea-Brighton-and-Hove-Albion-April-20-2021-Premier-League,0,0
+EPL,2020-2021,29,Wed,2021-04-21,18:00,Tottenham,1.8,0.8,Southampton,,Tottenham Hotspur Stadium,David Coote,https://fbref.com/en/matches/81a7befa/Tottenham-Hotspur-Southampton-April-21-2021-Premier-League,2,1
+EPL,2020-2021,32,Wed,2021-04-21,20:15,Aston Villa,0.7,1.4,Manchester City,,Villa Park,Peter Bankes,https://fbref.com/en/matches/ac46a079/Aston-Villa-Manchester-City-April-21-2021-Premier-League,1,2
+EPL,2020-2021,32,Thu,2021-04-22,20:00,Leicester City,2.3,0.4,West Brom,,King Power Stadium,Andy Madley,https://fbref.com/en/matches/be6edfdf/Leicester-City-West-Bromwich-Albion-April-22-2021-Premier-League,3,0
+EPL,2020-2021,33,Fri,2021-04-23,20:00,Arsenal,0.9,0.8,Everton,,Emirates Stadium,Jonathan Moss,https://fbref.com/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League,0,1
+EPL,2020-2021,33,Sat,2021-04-24,12:30,Liverpool,1.9,1.2,Newcastle Utd,,Anfield,Andre Marriner,https://fbref.com/en/matches/81e8aaf4/Liverpool-Newcastle-United-April-24-2021-Premier-League,1,1
+EPL,2020-2021,33,Sat,2021-04-24,17:30,West Ham,0.4,2.2,Chelsea,,London Stadium,Chris Kavanagh,https://fbref.com/en/matches/ea1579bb/West-Ham-United-Chelsea-April-24-2021-Premier-League,0,1
+EPL,2020-2021,33,Sat,2021-04-24,20:00,Sheffield Utd,0.8,2.2,Brighton,,Bramall Lane,Kevin Friend,https://fbref.com/en/matches/1ef0a8f2/Sheffield-United-Brighton-and-Hove-Albion-April-24-2021-Premier-League,1,0
+EPL,2020-2021,33,Sun,2021-04-25,12:00,Wolves,0.3,2.1,Burnley,,Molineux Stadium,Darren England,https://fbref.com/en/matches/5656770f/Wolverhampton-Wanderers-Burnley-April-25-2021-Premier-League,0,4
+EPL,2020-2021,33,Sun,2021-04-25,14:00,Leeds United,0.4,1.3,Manchester Utd,,Elland Road,Craig Pawson,https://fbref.com/en/matches/8422804d/Leeds-United-Manchester-United-April-25-2021-Premier-League,0,0
+EPL,2020-2021,33,Sun,2021-04-25,19:00,Aston Villa,2.3,1.4,West Brom,,Villa Park,Stuart Attwell,https://fbref.com/en/matches/2ab535fa/Aston-Villa-West-Bromwich-Albion-April-25-2021-Premier-League,2,2
+EPL,2020-2021,33,Mon,2021-04-26,20:00,Leicester City,1.1,0.6,Crystal Palace,,King Power Stadium,Graham Scott,https://fbref.com/en/matches/b30b8887/Leicester-City-Crystal-Palace-April-26-2021-Premier-League,2,1
+EPL,2020-2021,34,Fri,2021-04-30,20:00,Southampton,,,Leicester City,,St. Mary's Stadium,Robert Jones,https://fbref.com/en/matches/c0d4f879/Southampton-Leicester-City-April-30-2021-Premier-League,1,1
+EPL,2020-2021,34,Sat,2021-05-01,12:30,Crystal Palace,,,Manchester City,,Selhurst Park,,Head-to-Head,,
+EPL,2020-2021,34,Sat,2021-05-01,15:00,Brighton,,,Leeds United,,The American Express Community Stadium,,Head-to-Head,,
+EPL,2020-2021,34,Sat,2021-05-01,17:30,Chelsea,,,Fulham,,Stamford Bridge,,Head-to-Head,,
+EPL,2020-2021,34,Sat,2021-05-01,20:00,Everton,,,Aston Villa,,Goodison Park,,Head-to-Head,,
+EPL,2020-2021,34,Sun,2021-05-02,14:00,Newcastle Utd,,,Arsenal,,St. James' Park,,Head-to-Head,,
+EPL,2020-2021,34,Sun,2021-05-02,16:30,Manchester Utd,,,Liverpool,,Old Trafford,,Head-to-Head,,
+EPL,2020-2021,34,Sun,2021-05-02,19:15,Tottenham,,,Sheffield Utd,,Tottenham Hotspur Stadium,,Head-to-Head,,
+EPL,2020-2021,34,Mon,2021-05-03,18:00,West Brom,,,Wolves,,The Hawthorns,,Head-to-Head,,
+EPL,2020-2021,34,Mon,2021-05-03,20:15,Burnley,,,West Ham,,Turf Moor,,Head-to-Head,,
+EPL,2020-2021,35,Fri,2021-05-07,20:00,Leicester City,,,Newcastle Utd,,King Power Stadium,,Head-to-Head,,
+EPL,2020-2021,35,Sat,2021-05-08,12:30,Leeds United,,,Tottenham,,Elland Road,,Head-to-Head,,
+EPL,2020-2021,35,Sat,2021-05-08,15:00,Sheffield Utd,,,Crystal Palace,,Bramall Lane,,Head-to-Head,,
+EPL,2020-2021,35,Sat,2021-05-08,17:30,Manchester City,,,Chelsea,,Etihad Stadium,,Head-to-Head,,
+EPL,2020-2021,35,Sat,2021-05-08,20:15,Liverpool,,,Southampton,,Anfield,,Head-to-Head,,
+EPL,2020-2021,35,Sun,2021-05-09,12:00,Wolves,,,Brighton,,Molineux Stadium,,Head-to-Head,,
+EPL,2020-2021,35,Sun,2021-05-09,14:05,Aston Villa,,,Manchester Utd,,Villa Park,,Head-to-Head,,
+EPL,2020-2021,35,Sun,2021-05-09,16:30,West Ham,,,Everton,,London Stadium,,Head-to-Head,,
+EPL,2020-2021,35,Sun,2021-05-09,19:00,Arsenal,,,West Brom,,Emirates Stadium,,Head-to-Head,,
+EPL,2020-2021,35,Mon,2021-05-10,20:00,Fulham,,,Burnley,,Craven Cottage,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,19:45,Everton,,,Sheffield Utd,,Goodison Park,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,19:45,Brighton,,,West Ham,,The American Express Community Stadium,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,19:45,Burnley,,,Leeds United,,Turf Moor,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,20:00,West Brom,,,Liverpool,,The Hawthorns,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,20:00,Crystal Palace,,,Aston Villa,,Selhurst Park,,Head-to-Head,,
+EPL,2020-2021,36,Tue,2021-05-11,20:00,Manchester Utd,,,Leicester City,,Old Trafford,,Head-to-Head,,
+EPL,2020-2021,36,Wed,2021-05-12,19:45,Chelsea,,,Arsenal,,Stamford Bridge,,Head-to-Head,,
+EPL,2020-2021,36,Wed,2021-05-12,19:45,Newcastle Utd,,,Manchester City,,St. James' Park,,Head-to-Head,,
+EPL,2020-2021,36,Wed,2021-05-12,19:45,Tottenham,,,Wolves,,Tottenham Hotspur Stadium,,Head-to-Head,,
+EPL,2020-2021,36,Wed,2021-05-12,19:45,Southampton,,,Fulham,,St. Mary's Stadium,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Chelsea,,,Leicester City,,Stamford Bridge,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Manchester Utd,,,Fulham,,Old Trafford,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Tottenham,,,Aston Villa,,Tottenham Hotspur Stadium,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Burnley,,,Liverpool,,Turf Moor,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Brighton,,,Manchester City,,The American Express Community Stadium,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,West Brom,,,West Ham,,The Hawthorns,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Newcastle Utd,,,Sheffield Utd,,St. James' Park,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Crystal Palace,,,Arsenal,,Selhurst Park,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Everton,,,Wolves,,Goodison Park,,Head-to-Head,,
+EPL,2020-2021,37,Sat,2021-05-15,15:00,Southampton,,,Leeds United,,St. Mary's Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Wolves,,,Manchester Utd,,Molineux Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Leeds United,,,West Brom,,Elland Road,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Leicester City,,,Tottenham,,King Power Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Manchester City,,,Everton,,Etihad Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Aston Villa,,,Chelsea,,Villa Park,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,West Ham,,,Southampton,,London Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Arsenal,,,Brighton,,Emirates Stadium,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Fulham,,,Newcastle Utd,,Craven Cottage,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Sheffield Utd,,,Burnley,,Bramall Lane,,Head-to-Head,,
+EPL,2020-2021,38,Sun,2021-05-23,16:00,Liverpool,,,Crystal Palace,,Anfield,,Head-to-Head,,

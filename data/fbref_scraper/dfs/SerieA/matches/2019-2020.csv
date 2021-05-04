@@ -1,0 +1,381 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+SerieA,2019-2020,1,Sat,2019-08-24,18:00,Parma,0.4,1.3,Juventus,20073,Stadio Ennio Tardini,Fabio Maresca,https://fbref.com/en/matches/2b01c68a/Parma-Juventus-August-24-2019-Serie-A,0,1
+SerieA,2019-2020,1,Sat,2019-08-24,20:45,Fiorentina,1.7,2.0,Napoli,33614,Stadio Artemio Franchi,Davide Massa,https://fbref.com/en/matches/de16a772/Fiorentina-Napoli-August-24-2019-Serie-A,3,4
+SerieA,2019-2020,1,Sun,2019-08-25,18:00,Udinese,0.9,0.4,Milan,24584,Dacia Arena,Fabrizio Pasqua,https://fbref.com/en/matches/5d32941f/Udinese-Milan-August-25-2019-Serie-A,1,0
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,Torino,1.2,1.5,Sassuolo,16536,Stadio Olimpico di Torino,Maurizio Mariani,https://fbref.com/en/matches/6237b77f/Torino-Sassuolo-August-25-2019-Serie-A,2,1
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,SPAL,1.6,1.7,Atalanta,11706,Stadio Paolo Mazza,Gianluca Manganiello,https://fbref.com/en/matches/0326af7e/SPAL-Atalanta-August-25-2019-Serie-A,2,3
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,Roma,1.9,1.3,Genoa,38779,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/3ac8069d/Roma-Genoa-August-25-2019-Serie-A,3,3
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,Hellas Verona,0.2,1.6,Bologna,16324,Stadio Marc'Antonio Bentegodi,Antonio Giua,https://fbref.com/en/matches/a8b82bb0/Hellas-Verona-Bologna-August-25-2019-Serie-A,1,1
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,Cagliari,1.0,1.5,Brescia,16099,Sardegna Arena,Eugenio Abbattista,https://fbref.com/en/matches/fb06cc65/Cagliari-Brescia-August-25-2019-Serie-A,0,1
+SerieA,2019-2020,1,Sun,2019-08-25,20:45,Sampdoria,0.8,2.3,Lazio,19500,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,https://fbref.com/en/matches/de72f334/Sampdoria-Lazio-August-25-2019-Serie-A,0,3
+SerieA,2019-2020,1,Mon,2019-08-26,20:45,Inter,1.7,0.7,Lecce,64188,Stadio Giuseppe Meazza,Federico La Penna,https://fbref.com/en/matches/813ea7be/Internazionale-Lecce-August-26-2019-Serie-A,4,0
+SerieA,2019-2020,2,Fri,2019-08-30,20:45,Bologna,2.8,0.7,SPAL,25086,Stadio Renato Dall'Ara,Marco Di Bello,https://fbref.com/en/matches/ba549b1e/Bologna-SPAL-August-30-2019-Serie-A,1,0
+SerieA,2019-2020,2,Sat,2019-08-31,18:00,Milan,1.5,0.6,Brescia,56691,Stadio Giuseppe Meazza,Rosario Abisso,https://fbref.com/en/matches/27c01148/Milan-Brescia-August-31-2019-Serie-A,1,0
+SerieA,2019-2020,2,Sat,2019-08-31,20:45,Juventus,1.4,1.4,Napoli,39203,Allianz Stadium,Daniele Orsato,https://fbref.com/en/matches/14afe9c6/Juventus-Napoli-August-31-2019-Serie-A,4,3
+SerieA,2019-2020,2,Sun,2019-09-01,18:00,Lazio,1.9,1.3,Roma,52000,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/5f3fe07d/Lazio-Roma-September-1-2019-Serie-A,1,1
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Atalanta,2.0,1.1,Torino,8182,Stadio Ennio Tardini,Daniele Doveri,https://fbref.com/en/matches/e55b020e/Atalanta-Torino-September-1-2019-Serie-A,2,3
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Cagliari,0.4,1.5,Inter,16412,Sardegna Arena,Fabio Maresca,https://fbref.com/en/matches/5dba4b71/Cagliari-Internazionale-September-1-2019-Serie-A,1,2
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Lecce,1.3,1.4,Hellas Verona,24418,Stadio Comunale Via Del Mare,Juan Sacchi,https://fbref.com/en/matches/a9c723e3/Lecce-Hellas-Verona-September-1-2019-Serie-A,0,1
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Udinese,1.5,0.6,Parma,20410,Dacia Arena,Marco Piccinini,https://fbref.com/en/matches/2b67d770/Udinese-Parma-September-1-2019-Serie-A,1,3
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Genoa,2.1,1.9,Fiorentina,20000,Stadio Comunale Luigi Ferraris,Piero Giacomelli,https://fbref.com/en/matches/355e9742/Genoa-Fiorentina-September-1-2019-Serie-A,2,1
+SerieA,2019-2020,2,Sun,2019-09-01,20:45,Sassuolo,1.6,1.5,Sampdoria,9608,Stadio Città del Tricolore,Luca Pairetto,https://fbref.com/en/matches/1dea6b5e/Sassuolo-Sampdoria-September-1-2019-Serie-A,4,1
+SerieA,2019-2020,3,Sat,2019-09-14,15:00,Fiorentina,1.6,0.3,Juventus,40000,Stadio Artemio Franchi,Massimiliano Irrati,https://fbref.com/en/matches/79509455/Fiorentina-Juventus-September-14-2019-Serie-A,0,0
+SerieA,2019-2020,3,Sat,2019-09-14,18:00,Napoli,1.3,1.5,Sampdoria,40000,Stadio San Paolo,Federico La Penna,https://fbref.com/en/matches/a47ce106/Napoli-Sampdoria-September-14-2019-Serie-A,2,0
+SerieA,2019-2020,3,Sat,2019-09-14,20:45,Inter,1.4,0.4,Udinese,57991,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/a56b68f2/Internazionale-Udinese-September-14-2019-Serie-A,1,0
+SerieA,2019-2020,3,Sun,2019-09-15,12:30,Genoa,1.4,2.5,Atalanta,23395,Stadio Comunale Luigi Ferraris,Michael Fabbri,https://fbref.com/en/matches/7fb132b4/Genoa-Atalanta-September-15-2019-Serie-A,1,2
+SerieA,2019-2020,3,Sun,2019-09-15,15:00,Parma,1.0,0.7,Cagliari,14068,Stadio Ennio Tardini,Fabrizio Pasqua,https://fbref.com/en/matches/c88fa28b/Parma-Cagliari-September-15-2019-Serie-A,1,3
+SerieA,2019-2020,3,Sun,2019-09-15,15:00,Brescia,0.8,3.2,Bologna,15000,Stadio Mario Rigamonti,Gianluca Rocchi,https://fbref.com/en/matches/3d263c0c/Brescia-Bologna-September-15-2019-Serie-A,3,4
+SerieA,2019-2020,3,Sun,2019-09-15,15:00,SPAL,1.1,1.5,Lazio,13650,Stadio Paolo Mazza,Giampaolo Calvarese,https://fbref.com/en/matches/6d0c347f/SPAL-Lazio-September-15-2019-Serie-A,2,1
+SerieA,2019-2020,3,Sun,2019-09-15,18:00,Roma,2.1,1.2,Sassuolo,34407,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/ab5a64e6/Roma-Sassuolo-September-15-2019-Serie-A,4,2
+SerieA,2019-2020,3,Sun,2019-09-15,20:45,Hellas Verona,0.8,1.3,Milan,24363,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello,https://fbref.com/en/matches/798a19ce/Hellas-Verona-Milan-September-15-2019-Serie-A,0,1
+SerieA,2019-2020,3,Mon,2019-09-16,20:45,Torino,2.0,1.2,Lecce,21620,Stadio Olimpico di Torino,Antonio Giua,https://fbref.com/en/matches/fb27614b/Torino-Lecce-September-16-2019-Serie-A,1,2
+SerieA,2019-2020,4,Fri,2019-09-20,20:45,Cagliari,1.5,1.3,Genoa,14574,Sardegna Arena,Gianluca Manganiello,https://fbref.com/en/matches/7b837163/Cagliari-Genoa-September-20-2019-Serie-A,3,1
+SerieA,2019-2020,4,Sat,2019-09-21,15:00,Udinese,0.6,0.7,Brescia,19611,Dacia Arena,Paolo Valeri,https://fbref.com/en/matches/d5dc14b8/Udinese-Brescia-September-21-2019-Serie-A,0,1
+SerieA,2019-2020,4,Sat,2019-09-21,18:00,Juventus,2.0,1.2,Hellas Verona,39945,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/c6a08826/Juventus-Hellas-Verona-September-21-2019-Serie-A,2,1
+SerieA,2019-2020,4,Sat,2019-09-21,20:45,Milan,0.8,1.9,Inter,70440,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/8d99b6b9/Derby-della-Madonnina-Milan-Internazionale-September-21-2019-Serie-A,0,2
+SerieA,2019-2020,4,Sun,2019-09-22,12:30,Sassuolo,2.4,1.0,SPAL,10937,Stadio Città del Tricolore,Maurizio Mariani,https://fbref.com/en/matches/af15f020/Sassuolo-SPAL-September-22-2019-Serie-A,3,0
+SerieA,2019-2020,4,Sun,2019-09-22,15:00,Lecce,1.2,2.8,Napoli,21644,Stadio Comunale Via Del Mare,Marco Piccinini,https://fbref.com/en/matches/d110cc88/Lecce-Napoli-September-22-2019-Serie-A,1,4
+SerieA,2019-2020,4,Sun,2019-09-22,15:00,Bologna,1.4,1.5,Roma,25513,Stadio Renato Dall'Ara,Luca Pairetto,https://fbref.com/en/matches/48229e4d/Bologna-Roma-September-22-2019-Serie-A,1,2
+SerieA,2019-2020,4,Sun,2019-09-22,15:00,Sampdoria,1.2,0.6,Torino,19041,Stadio Comunale Luigi Ferraris,Piero Giacomelli,https://fbref.com/en/matches/847fbff1/Sampdoria-Torino-September-22-2019-Serie-A,1,0
+SerieA,2019-2020,4,Sun,2019-09-22,18:00,Atalanta,1.1,0.9,Fiorentina,10314,Stadio Ennio Tardini,Daniele Orsato,https://fbref.com/en/matches/ab7e6f6a/Atalanta-Fiorentina-September-22-2019-Serie-A,2,2
+SerieA,2019-2020,4,Sun,2019-09-22,20:45,Lazio,2.2,0.7,Parma,31404,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/38ef4b7d/Lazio-Parma-September-22-2019-Serie-A,2,0
+SerieA,2019-2020,5,Tue,2019-09-24,19:00,Hellas Verona,1.0,0.8,Udinese,13740,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,https://fbref.com/en/matches/98d312ac/Hellas-Verona-Udinese-September-24-2019-Serie-A,0,0
+SerieA,2019-2020,5,Tue,2019-09-24,21:00,Brescia,0.9,1.7,Juventus,14000,Stadio Mario Rigamonti,Fabrizio Pasqua,https://fbref.com/en/matches/4317b763/Brescia-Juventus-September-24-2019-Serie-A,1,2
+SerieA,2019-2020,5,Wed,2019-09-25,19:00,Roma,1.7,1.9,Atalanta,31832,Stadio Olimpico,Massimiliano Irrati,https://fbref.com/en/matches/95b95a98/Roma-Atalanta-September-25-2019-Serie-A,0,2
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,Parma,1.5,0.5,Sassuolo,14569,Stadio Ennio Tardini,Livio Marinelli,https://fbref.com/en/matches/bed42d99/Parma-Sassuolo-September-25-2019-Serie-A,1,0
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,Inter,1.4,1.1,Lazio,56175,Stadio Giuseppe Meazza,Fabio Maresca,https://fbref.com/en/matches/7e76d4d6/Internazionale-Lazio-September-25-2019-Serie-A,1,0
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,SPAL,1.1,2.0,Lecce,13292,Stadio Paolo Mazza,Gianluca Rocchi,https://fbref.com/en/matches/a7d7a94e/SPAL-Lecce-September-25-2019-Serie-A,1,3
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,Fiorentina,1.9,0.6,Sampdoria,33469,Stadio Artemio Franchi,Daniele Doveri,https://fbref.com/en/matches/1fb0e314/Fiorentina-Sampdoria-September-25-2019-Serie-A,2,1
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,Napoli,2.1,0.3,Cagliari,25408,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/5a8c1572/Napoli-Cagliari-September-25-2019-Serie-A,0,1
+SerieA,2019-2020,5,Wed,2019-09-25,21:00,Genoa,0.2,1.7,Bologna,20497,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/5dd39b2c/Genoa-Bologna-September-25-2019-Serie-A,0,0
+SerieA,2019-2020,5,Thu,2019-09-26,21:00,Torino,1.3,2.1,Milan,23997,Stadio Olimpico di Torino,Marco Guida,https://fbref.com/en/matches/b3269aca/Torino-Milan-September-26-2019-Serie-A,2,1
+SerieA,2019-2020,6,Sat,2019-09-28,15:00,Juventus,2.0,0.3,SPAL,38995,Allianz Stadium,Marco Piccinini,https://fbref.com/en/matches/0d46187e/Juventus-SPAL-September-28-2019-Serie-A,2,0
+SerieA,2019-2020,6,Sat,2019-09-28,18:00,Sampdoria,1.4,2.4,Inter,23694,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/a1177e74/Sampdoria-Internazionale-September-28-2019-Serie-A,1,3
+SerieA,2019-2020,6,Sat,2019-09-28,20:45,Sassuolo,0.6,2.1,Atalanta,11604,Stadio Città del Tricolore,Paolo Valeri,https://fbref.com/en/matches/c822ab60/Sassuolo-Atalanta-September-28-2019-Serie-A,1,4
+SerieA,2019-2020,6,Sun,2019-09-29,12:30,Napoli,2.0,1.0,Brescia,45770,Stadio San Paolo,Gianluca Manganiello,https://fbref.com/en/matches/86a3ee41/Napoli-Brescia-September-29-2019-Serie-A,2,1
+SerieA,2019-2020,6,Sun,2019-09-29,15:00,Udinese,0.6,1.2,Bologna,21361,Dacia Arena,Antonio Giua,https://fbref.com/en/matches/1ace8aaa/Udinese-Bologna-September-29-2019-Serie-A,1,0
+SerieA,2019-2020,6,Sun,2019-09-29,15:00,Lecce,0.8,2.5,Roma,26044,Stadio Comunale Via Del Mare,Rosario Abisso,https://fbref.com/en/matches/4c786abf/Lecce-Roma-September-29-2019-Serie-A,0,1
+SerieA,2019-2020,6,Sun,2019-09-29,15:00,Lazio,1.4,0.5,Genoa,26000,Stadio Olimpico,Luca Pairetto,https://fbref.com/en/matches/d62041b9/Lazio-Genoa-September-29-2019-Serie-A,4,0
+SerieA,2019-2020,6,Sun,2019-09-29,18:00,Cagliari,1.3,1.5,Hellas Verona,15846,Sardegna Arena,Manuel Volpi,https://fbref.com/en/matches/527484ae/Cagliari-Hellas-Verona-September-29-2019-Serie-A,1,1
+SerieA,2019-2020,6,Sun,2019-09-29,20:45,Milan,0.8,2.4,Fiorentina,48367,Stadio Giuseppe Meazza,Piero Giacomelli,https://fbref.com/en/matches/ec745de3/Milan-Fiorentina-September-29-2019-Serie-A,1,3
+SerieA,2019-2020,6,Mon,2019-09-30,20:45,Parma,3.4,1.6,Torino,15001,Stadio Ennio Tardini,Federico La Penna,https://fbref.com/en/matches/855b79d4/Parma-Torino-September-30-2019-Serie-A,3,2
+SerieA,2019-2020,7,Sat,2019-10-05,15:00,SPAL,1.5,0.3,Parma,11776,Stadio Paolo Mazza,Marco Guida,https://fbref.com/en/matches/d91017ad/SPAL-Parma-October-5-2019-Serie-A,1,0
+SerieA,2019-2020,7,Sat,2019-10-05,18:00,Hellas Verona,0.8,0.7,Sampdoria,17787,Stadio Marc'Antonio Bentegodi,Michael Fabbri,https://fbref.com/en/matches/6a7d53e1/Hellas-Verona-Sampdoria-October-5-2019-Serie-A,2,0
+SerieA,2019-2020,7,Sat,2019-10-05,20:45,Genoa,1.8,1.3,Milan,22486,Stadio Comunale Luigi Ferraris,Maurizio Mariani,https://fbref.com/en/matches/18840243/Genoa-Milan-October-5-2019-Serie-A,1,2
+SerieA,2019-2020,7,Sun,2019-10-06,12:30,Fiorentina,0.9,0.7,Udinese,37963,Stadio Artemio Franchi,Alessandro Prontera,https://fbref.com/en/matches/109f472f/Fiorentina-Udinese-October-6-2019-Serie-A,1,0
+SerieA,2019-2020,7,Sun,2019-10-06,15:00,Atalanta,3.7,1.0,Lecce,20771,Stadio Atleti Azzurri d'Italia,Marco Di Bello,https://fbref.com/en/matches/fe310ec0/Atalanta-Lecce-October-6-2019-Serie-A,3,1
+SerieA,2019-2020,7,Sun,2019-10-06,15:00,Bologna,1.5,1.9,Lazio,22052,Stadio Renato Dall'Ara,Daniele Orsato,https://fbref.com/en/matches/686d7ed4/Bologna-Lazio-October-6-2019-Serie-A,2,2
+SerieA,2019-2020,7,Sun,2019-10-06,15:00,Roma,1.4,1.2,Cagliari,34385,Stadio Olimpico,Davide Massa,https://fbref.com/en/matches/c1eb9f50/Roma-Cagliari-October-6-2019-Serie-A,1,1
+SerieA,2019-2020,7,Sun,2019-10-06,18:00,Torino,0.6,1.2,Napoli,24343,Stadio Olimpico di Torino,Daniele Doveri,https://fbref.com/en/matches/66ed3756/Torino-Napoli-October-6-2019-Serie-A,0,0
+SerieA,2019-2020,7,Sun,2019-10-06,20:45,Inter,1.6,1.4,Juventus,75923,Stadio Giuseppe Meazza,Gianluca Rocchi,https://fbref.com/en/matches/5026bc07/Internazionale-Juventus-October-6-2019-Serie-A,1,2
+SerieA,2019-2020,8,Sat,2019-10-19,15:00,Lazio,2.6,2.7,Atalanta,30000,Stadio Olimpico,Gianluca Rocchi,https://fbref.com/en/matches/035b9138/Lazio-Atalanta-October-19-2019-Serie-A,3,3
+SerieA,2019-2020,8,Sat,2019-10-19,18:00,Napoli,1.8,1.3,Hellas Verona,38686,Stadio San Paolo,Marco Piccinini,https://fbref.com/en/matches/f99dc9fe/Napoli-Hellas-Verona-October-19-2019-Serie-A,2,0
+SerieA,2019-2020,8,Sat,2019-10-19,20:45,Juventus,2.1,0.6,Bologna,40461,Allianz Stadium,Massimiliano Irrati,https://fbref.com/en/matches/7bdb3ce3/Juventus-Bologna-October-19-2019-Serie-A,2,1
+SerieA,2019-2020,8,Sun,2019-10-20,12:30,Sassuolo,1.0,3.1,Inter,17935,Stadio Città del Tricolore,Piero Giacomelli,https://fbref.com/en/matches/2efbb915/Sassuolo-Internazionale-October-20-2019-Serie-A,3,4
+SerieA,2019-2020,8,Sun,2019-10-20,15:00,Udinese,1.8,1.1,Torino,24049,Dacia Arena,Rosario Abisso,https://fbref.com/en/matches/3472d845/Udinese-Torino-October-20-2019-Serie-A,1,0
+SerieA,2019-2020,8,Sun,2019-10-20,15:00,Sampdoria,0.6,0.7,Roma,20211,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/d960f719/Sampdoria-Roma-October-20-2019-Serie-A,0,0
+SerieA,2019-2020,8,Sun,2019-10-20,15:00,Cagliari,1.3,1.2,SPAL,15713,Sardegna Arena,Daniele Chiffi,https://fbref.com/en/matches/467d496a/Cagliari-SPAL-October-20-2019-Serie-A,2,0
+SerieA,2019-2020,8,Sun,2019-10-20,18:00,Parma,3.0,1.6,Genoa,15299,Stadio Ennio Tardini,Paolo Valeri,https://fbref.com/en/matches/497798e1/Parma-Genoa-October-20-2019-Serie-A,5,1
+SerieA,2019-2020,8,Sun,2019-10-20,20:45,Milan,1.4,1.4,Lecce,48703,Stadio Giuseppe Meazza,Fabrizio Pasqua,https://fbref.com/en/matches/b64ce217/Milan-Lecce-October-20-2019-Serie-A,2,2
+SerieA,2019-2020,8,Mon,2019-10-21,21:00,Brescia,0.2,1.3,Fiorentina,16000,Stadio Mario Rigamonti,Giampaolo Calvarese,https://fbref.com/en/matches/2444c7ef/Brescia-Fiorentina-October-21-2019-Serie-A,0,0
+SerieA,2019-2020,9,Fri,2019-10-25,20:45,Hellas Verona,1.1,1.4,Sassuolo,11453,Stadio Marc'Antonio Bentegodi,Luca Pairetto,https://fbref.com/en/matches/11170e59/Hellas-Verona-Sassuolo-October-25-2019-Serie-A,0,1
+SerieA,2019-2020,9,Sat,2019-10-26,15:00,Lecce,1.1,3.4,Juventus,26591,Stadio Comunale Via Del Mare,Paolo Valeri,https://fbref.com/en/matches/9d7eb76c/Lecce-Juventus-October-26-2019-Serie-A,1,1
+SerieA,2019-2020,9,Sat,2019-10-26,18:00,Inter,2.6,0.8,Parma,67076,Stadio Giuseppe Meazza,Daniele Chiffi,https://fbref.com/en/matches/81cec5cf/Internazionale-Parma-October-26-2019-Serie-A,2,2
+SerieA,2019-2020,9,Sat,2019-10-26,20:45,Genoa,1.1,1.2,Brescia,20949,Stadio Comunale Luigi Ferraris,Rosario Abisso,https://fbref.com/en/matches/0e1aa64b/Genoa-Brescia-October-26-2019-Serie-A,3,1
+SerieA,2019-2020,9,Sun,2019-10-27,12:30,Bologna,1.5,0.8,Sampdoria,24099,Stadio Renato Dall'Ara,Daniele Doveri,https://fbref.com/en/matches/dd08475c/Bologna-Sampdoria-October-27-2019-Serie-A,2,1
+SerieA,2019-2020,9,Sun,2019-10-27,15:00,Atalanta,5.6,1.0,Udinese,18677,Stadio Atleti Azzurri d'Italia,Fabio Maresca,https://fbref.com/en/matches/4410ed27/Atalanta-Udinese-October-27-2019-Serie-A,7,1
+SerieA,2019-2020,9,Sun,2019-10-27,15:00,SPAL,0.6,1.0,Napoli,14726,Stadio Paolo Mazza,Federico La Penna,https://fbref.com/en/matches/3dfaf9b4/SPAL-Napoli-October-27-2019-Serie-A,1,1
+SerieA,2019-2020,9,Sun,2019-10-27,15:00,Torino,0.9,0.5,Cagliari,21213,Stadio Olimpico di Torino,Michael Fabbri,https://fbref.com/en/matches/96fb099e/Torino-Cagliari-October-27-2019-Serie-A,1,1
+SerieA,2019-2020,9,Sun,2019-10-27,18:00,Roma,1.5,0.6,Milan,44333,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/cdb7b0cf/Roma-Milan-October-27-2019-Serie-A,2,1
+SerieA,2019-2020,9,Sun,2019-10-27,20:45,Fiorentina,0.7,2.3,Lazio,33281,Stadio Artemio Franchi,Marco Guida,https://fbref.com/en/matches/0148cb07/Fiorentina-Lazio-October-27-2019-Serie-A,1,2
+SerieA,2019-2020,10,Tue,2019-10-29,19:00,Parma,1.3,0.2,Hellas Verona,14638,Stadio Ennio Tardini,Gianluca Manganiello,https://fbref.com/en/matches/a480ae7a/Parma-Hellas-Verona-October-29-2019-Serie-A,0,1
+SerieA,2019-2020,10,Tue,2019-10-29,21:00,Brescia,2.0,1.0,Inter,16500,Stadio Mario Rigamonti,Michael Fabbri,https://fbref.com/en/matches/d1c79e58/Brescia-Internazionale-October-29-2019-Serie-A,1,2
+SerieA,2019-2020,10,Wed,2019-10-30,19:00,Napoli,2.7,1.3,Atalanta,30061,Stadio San Paolo,Piero Giacomelli,https://fbref.com/en/matches/63b092b4/Napoli-Atalanta-October-30-2019-Serie-A,2,2
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Cagliari,1.4,1.0,Bologna,16076,Sardegna Arena,Juan Sacchi,https://fbref.com/en/matches/c3c909d6/Cagliari-Bologna-October-30-2019-Serie-A,3,2
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Udinese,0.8,3.1,Roma,23854,Dacia Arena,Massimiliano Irrati,https://fbref.com/en/matches/8f542d14/Udinese-Roma-October-30-2019-Serie-A,0,4
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Lazio,2.5,0.7,Torino,25000,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/18839ced/Lazio-Torino-October-30-2019-Serie-A,4,0
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Sassuolo,1.1,1.5,Fiorentina,11863,Stadio Città del Tricolore,Maurizio Mariani,https://fbref.com/en/matches/69d4c194/Sassuolo-Fiorentina-October-30-2019-Serie-A,1,2
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Sampdoria,1.9,1.2,Lecce,18685,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/be084a46/Sampdoria-Lecce-October-30-2019-Serie-A,1,1
+SerieA,2019-2020,10,Wed,2019-10-30,21:00,Juventus,2.4,0.4,Genoa,38732,Allianz Stadium,Antonio Giua,https://fbref.com/en/matches/12d0d3b3/Juventus-Genoa-October-30-2019-Serie-A,2,1
+SerieA,2019-2020,10,Thu,2019-10-31,21:00,Milan,1.4,0.5,SPAL,46475,Stadio Giuseppe Meazza,Marco Piccinini,https://fbref.com/en/matches/45a928c4/Milan-SPAL-October-31-2019-Serie-A,1,0
+SerieA,2019-2020,11,Sat,2019-11-02,15:00,Roma,2.2,1.7,Napoli,34502,Stadio Olimpico,Gianluca Rocchi,https://fbref.com/en/matches/73f92283/Roma-Napoli-November-2-2019-Serie-A,2,1
+SerieA,2019-2020,11,Sat,2019-11-02,18:00,Bologna,0.6,3.0,Inter,28498,Stadio Renato Dall'Ara,Federico La Penna,https://fbref.com/en/matches/b68dc4ea/Bologna-Internazionale-November-2-2019-Serie-A,1,2
+SerieA,2019-2020,11,Sat,2019-11-02,20:45,Torino,0.4,2.1,Juventus,26664,Stadio Olimpico di Torino,Daniele Doveri,https://fbref.com/en/matches/4c1cbd79/Torino-Juventus-November-2-2019-Serie-A,0,1
+SerieA,2019-2020,11,Sun,2019-11-03,12:30,Atalanta,0.9,1.1,Cagliari,18617,Stadio Atleti Azzurri d'Italia,Rosario Abisso,https://fbref.com/en/matches/3444ce4b/Atalanta-Cagliari-November-3-2019-Serie-A,0,2
+SerieA,2019-2020,11,Sun,2019-11-03,15:00,Lecce,0.6,1.8,Sassuolo,22087,Stadio Comunale Via Del Mare,Riccardo Ros,https://fbref.com/en/matches/4754d203/Lecce-Sassuolo-November-3-2019-Serie-A,2,2
+SerieA,2019-2020,11,Sun,2019-11-03,15:00,Genoa,1.2,1.5,Udinese,20030,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,https://fbref.com/en/matches/215d7497/Genoa-Udinese-November-3-2019-Serie-A,1,3
+SerieA,2019-2020,11,Sun,2019-11-03,15:00,Hellas Verona,1.2,1.4,Brescia,16525,Stadio Marc'Antonio Bentegodi,Maurizio Mariani,https://fbref.com/en/matches/03171f2d/Hellas-Verona-Brescia-November-3-2019-Serie-A,2,1
+SerieA,2019-2020,11,Sun,2019-11-03,18:00,Fiorentina,1.6,0.6,Parma,32479,Stadio Artemio Franchi,Luca Pairetto,https://fbref.com/en/matches/07b1998d/Fiorentina-Parma-November-3-2019-Serie-A,1,1
+SerieA,2019-2020,11,Sun,2019-11-03,20:45,Milan,0.9,1.2,Lazio,41000,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/86cc1b86/Milan-Lazio-November-3-2019-Serie-A,1,2
+SerieA,2019-2020,11,Mon,2019-11-04,20:45,SPAL,0.7,0.9,Sampdoria,11617,Stadio Paolo Mazza,Daniele Chiffi,https://fbref.com/en/matches/5181f1fc/SPAL-Sampdoria-November-4-2019-Serie-A,0,1
+SerieA,2019-2020,12,Fri,2019-11-08,20:45,Sassuolo,2.3,0.9,Bologna,13184,Stadio Città del Tricolore,Marco Piccinini,https://fbref.com/en/matches/da587b4e/Sassuolo-Bologna-November-8-2019-Serie-A,3,1
+SerieA,2019-2020,12,Sat,2019-11-09,15:00,Brescia,0.7,3.4,Torino,13500,Stadio Mario Rigamonti,Marco Guida,https://fbref.com/en/matches/a95e968b/Brescia-Torino-November-9-2019-Serie-A,0,4
+SerieA,2019-2020,12,Sat,2019-11-09,18:00,Inter,2.9,1.4,Hellas Verona,66202,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/fc94b998/Internazionale-Hellas-Verona-November-9-2019-Serie-A,2,1
+SerieA,2019-2020,12,Sat,2019-11-09,20:45,Napoli,1.2,1.0,Genoa,22947,Stadio San Paolo,Giampaolo Calvarese,https://fbref.com/en/matches/c01005cd/Napoli-Genoa-November-9-2019-Serie-A,0,0
+SerieA,2019-2020,12,Sun,2019-11-10,12:30,Cagliari,2.7,1.0,Fiorentina,16316,Sardegna Arena,Federico La Penna,https://fbref.com/en/matches/79ea19d6/Cagliari-Fiorentina-November-10-2019-Serie-A,5,2
+SerieA,2019-2020,12,Sun,2019-11-10,15:00,Sampdoria,0.5,0.7,Atalanta,19799,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,https://fbref.com/en/matches/537cf17f/Sampdoria-Atalanta-November-10-2019-Serie-A,0,0
+SerieA,2019-2020,12,Sun,2019-11-10,15:00,Udinese,1.3,2.1,SPAL,21621,Dacia Arena,Davide Massa,https://fbref.com/en/matches/28b51481/Udinese-SPAL-November-10-2019-Serie-A,0,0
+SerieA,2019-2020,12,Sun,2019-11-10,15:00,Lazio,3.5,2.4,Lecce,35000,Stadio Olimpico,Gianluca Manganiello,https://fbref.com/en/matches/b701c357/Lazio-Lecce-November-10-2019-Serie-A,4,2
+SerieA,2019-2020,12,Sun,2019-11-10,18:00,Parma,1.4,0.6,Roma,18532,Stadio Ennio Tardini,Michael Fabbri,https://fbref.com/en/matches/ea544224/Parma-Roma-November-10-2019-Serie-A,2,0
+SerieA,2019-2020,12,Sun,2019-11-10,20:45,Juventus,1.2,0.6,Milan,40478,Allianz Stadium,Fabio Maresca,https://fbref.com/en/matches/a36cd4fc/Derby-dItalia-Juventus-Milan-November-10-2019-Serie-A,1,0
+SerieA,2019-2020,13,Sat,2019-11-23,15:00,Atalanta,2.4,1.2,Juventus,20899,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi,https://fbref.com/en/matches/8ab6d4c0/Atalanta-Juventus-November-23-2019-Serie-A,1,3
+SerieA,2019-2020,13,Sat,2019-11-23,18:00,Milan,0.8,0.9,Napoli,61658,Stadio Giuseppe Meazza,Daniele Orsato,https://fbref.com/en/matches/90e89892/Milan-Napoli-November-23-2019-Serie-A,1,1
+SerieA,2019-2020,13,Sat,2019-11-23,20:45,Torino,0.5,1.6,Inter,26059,Stadio Olimpico di Torino,Fabio Maresca,https://fbref.com/en/matches/d72ad0d5/Torino-Internazionale-November-23-2019-Serie-A,0,3
+SerieA,2019-2020,13,Sun,2019-11-24,12:30,Bologna,0.7,1.3,Parma,21419,Stadio Renato Dall'Ara,Rosario Abisso,https://fbref.com/en/matches/0d88781a/Bologna-Parma-November-24-2019-Serie-A,2,2
+SerieA,2019-2020,13,Sun,2019-11-24,15:00,Sassuolo,1.1,1.2,Lazio,10000,Stadio Città del Tricolore,Daniele Chiffi,https://fbref.com/en/matches/b0ede599/Sassuolo-Lazio-November-24-2019-Serie-A,1,2
+SerieA,2019-2020,13,Sun,2019-11-24,15:00,Roma,2.5,0.4,Brescia,33695,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/d1f9e7d1/Roma-Brescia-November-24-2019-Serie-A,3,0
+SerieA,2019-2020,13,Sun,2019-11-24,15:00,Hellas Verona,2.0,1.0,Fiorentina,22581,Stadio Marc'Antonio Bentegodi,Antonio Giua,https://fbref.com/en/matches/96d5142a/Hellas-Verona-Fiorentina-November-24-2019-Serie-A,1,0
+SerieA,2019-2020,13,Sun,2019-11-24,18:00,Sampdoria,2.1,0.5,Udinese,17031,Stadio Comunale Luigi Ferraris,Luca Pairetto,https://fbref.com/en/matches/7e327803/Sampdoria-Udinese-November-24-2019-Serie-A,2,1
+SerieA,2019-2020,13,Mon,2019-11-25,15:00,Lecce,2.9,0.9,Cagliari,21435,Stadio Comunale Via Del Mare,Maurizio Mariani,https://fbref.com/en/matches/66e2d276/Lecce-Cagliari-November-25-2019-Serie-A,2,2
+SerieA,2019-2020,13,Mon,2019-11-25,20:45,SPAL,2.2,1.4,Genoa,12423,Stadio Paolo Mazza,Piero Giacomelli,https://fbref.com/en/matches/cf57501d/SPAL-Genoa-November-25-2019-Serie-A,1,1
+SerieA,2019-2020,14,Sat,2019-11-30,15:00,Brescia,1.1,2.5,Atalanta,14000,Stadio Mario Rigamonti,Daniele Doveri,https://fbref.com/en/matches/6c36b7f9/Brescia-Atalanta-November-30-2019-Serie-A,0,3
+SerieA,2019-2020,14,Sat,2019-11-30,18:00,Genoa,0.8,0.9,Torino,20000,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/64d52be7/Genoa-Torino-November-30-2019-Serie-A,0,1
+SerieA,2019-2020,14,Sat,2019-11-30,20:45,Fiorentina,1.9,1.3,Lecce,33912,Stadio Artemio Franchi,Marco Piccinini,https://fbref.com/en/matches/c501d180/Fiorentina-Lecce-November-30-2019-Serie-A,0,1
+SerieA,2019-2020,14,Sun,2019-12-01,12:30,Juventus,4.5,0.5,Sassuolo,40597,Allianz Stadium,Federico La Penna,https://fbref.com/en/matches/b94c6b3c/Juventus-Sassuolo-December-1-2019-Serie-A,2,2
+SerieA,2019-2020,14,Sun,2019-12-01,15:00,Parma,0.3,1.8,Milan,18431,Stadio Ennio Tardini,Paolo Valeri,https://fbref.com/en/matches/51b61759/Parma-Milan-December-1-2019-Serie-A,0,1
+SerieA,2019-2020,14,Sun,2019-12-01,15:00,Inter,1.6,1.1,SPAL,61221,Stadio Giuseppe Meazza,Massimiliano Irrati,https://fbref.com/en/matches/c0bac5fc/Internazionale-SPAL-December-1-2019-Serie-A,2,1
+SerieA,2019-2020,14,Sun,2019-12-01,15:00,Lazio,2.8,0.8,Udinese,20000,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/05f6d0c2/Lazio-Udinese-December-1-2019-Serie-A,3,0
+SerieA,2019-2020,14,Sun,2019-12-01,18:00,Napoli,2.2,1.1,Bologna,26012,Stadio San Paolo,Fabrizio Pasqua,https://fbref.com/en/matches/2946d9e8/Napoli-Bologna-December-1-2019-Serie-A,1,2
+SerieA,2019-2020,14,Sun,2019-12-01,20:45,Hellas Verona,1.0,1.8,Roma,17405,Stadio Marc'Antonio Bentegodi,Marco Guida,https://fbref.com/en/matches/57d4957f/Hellas-Verona-Roma-December-1-2019-Serie-A,1,3
+SerieA,2019-2020,14,Mon,2019-12-02,20:45,Cagliari,0.7,1.5,Sampdoria,15658,Sardegna Arena,Gianluca Aureliano,https://fbref.com/en/matches/3b6507f6/Cagliari-Sampdoria-December-2-2019-Serie-A,4,3
+SerieA,2019-2020,15,Fri,2019-12-06,20:45,Inter,1.5,0.3,Roma,67008,Stadio Giuseppe Meazza,Giampaolo Calvarese,https://fbref.com/en/matches/0f6ebeb9/Internazionale-Roma-December-6-2019-Serie-A,0,0
+SerieA,2019-2020,15,Sat,2019-12-07,15:00,Atalanta,2.4,1.1,Hellas Verona,19335,Stadio Atleti Azzurri d'Italia,Paolo Valeri,https://fbref.com/en/matches/ee0308d1/Atalanta-Hellas-Verona-December-7-2019-Serie-A,3,2
+SerieA,2019-2020,15,Sat,2019-12-07,18:00,Udinese,0.6,1.2,Napoli,20405,Dacia Arena,Maurizio Mariani,https://fbref.com/en/matches/d96391e7/Udinese-Napoli-December-7-2019-Serie-A,1,1
+SerieA,2019-2020,15,Sat,2019-12-07,20:45,Lazio,2.4,1.8,Juventus,65000,Stadio Olimpico,Michael Fabbri,https://fbref.com/en/matches/26bbc02a/Lazio-Juventus-December-7-2019-Serie-A,3,1
+SerieA,2019-2020,15,Sun,2019-12-08,12:30,Lecce,1.0,2.0,Genoa,21740,Stadio Comunale Via Del Mare,Gianluca Rocchi,https://fbref.com/en/matches/47ad14ea/Lecce-Genoa-December-8-2019-Serie-A,2,2
+SerieA,2019-2020,15,Sun,2019-12-08,15:00,Sassuolo,1.9,0.5,Cagliari,12666,Stadio Città del Tricolore,Luca Pairetto,https://fbref.com/en/matches/e224af01/Sassuolo-Cagliari-December-8-2019-Serie-A,2,2
+SerieA,2019-2020,15,Sun,2019-12-08,15:00,Torino,0.7,1.7,Fiorentina,19955,Stadio Olimpico di Torino,Piero Giacomelli,https://fbref.com/en/matches/efd700b6/Torino-Fiorentina-December-8-2019-Serie-A,2,1
+SerieA,2019-2020,15,Sun,2019-12-08,15:00,SPAL,1.9,1.5,Brescia,12442,Stadio Paolo Mazza,Daniele Orsato,https://fbref.com/en/matches/8d1e3269/SPAL-Brescia-December-8-2019-Serie-A,0,1
+SerieA,2019-2020,15,Sun,2019-12-08,18:00,Sampdoria,1.8,0.7,Parma,19516,Stadio Comunale Luigi Ferraris,Rosario Abisso,https://fbref.com/en/matches/732cea3e/Sampdoria-Parma-December-8-2019-Serie-A,0,1
+SerieA,2019-2020,15,Sun,2019-12-08,20:45,Bologna,1.5,2.1,Milan,23707,Stadio Renato Dall'Ara,Daniele Chiffi,https://fbref.com/en/matches/4b0489b2/Bologna-Milan-December-8-2019-Serie-A,2,3
+SerieA,2019-2020,16,Sat,2019-12-14,15:00,Brescia,3.6,0.7,Lecce,13131,Stadio Mario Rigamonti,Massimiliano Irrati,https://fbref.com/en/matches/21a85f0f/Brescia-Lecce-December-14-2019-Serie-A,3,0
+SerieA,2019-2020,16,Sat,2019-12-14,18:30,Napoli,2.7,1.5,Parma,25000,Stadio San Paolo,Marco Di Bello,https://fbref.com/en/matches/e75fecfe/Napoli-Parma-December-14-2019-Serie-A,1,2
+SerieA,2019-2020,16,Sat,2019-12-14,20:45,Genoa,0.5,0.6,Sampdoria,30658,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/18d1f4f9/Genoa-Sampdoria-December-14-2019-Serie-A,0,1
+SerieA,2019-2020,16,Sun,2019-12-15,12:30,Hellas Verona,2.0,1.3,Torino,14612,Stadio Marc'Antonio Bentegodi,Federico La Penna,https://fbref.com/en/matches/7d3b20e6/Hellas-Verona-Torino-December-15-2019-Serie-A,3,3
+SerieA,2019-2020,16,Sun,2019-12-15,15:00,Juventus,1.8,1.2,Udinese,39127,Allianz Stadium,Fabrizio Pasqua,https://fbref.com/en/matches/6c411ec8/Juventus-Udinese-December-15-2019-Serie-A,3,1
+SerieA,2019-2020,16,Sun,2019-12-15,15:00,Bologna,1.2,1.9,Atalanta,21277,Stadio Renato Dall'Ara,Davide Massa,https://fbref.com/en/matches/319c3373/Bologna-Atalanta-December-15-2019-Serie-A,2,1
+SerieA,2019-2020,16,Sun,2019-12-15,15:00,Milan,2.1,0.9,Sassuolo,58005,Stadio Giuseppe Meazza,Gianluca Manganiello,https://fbref.com/en/matches/61a7ee2d/Milan-Sassuolo-December-15-2019-Serie-A,0,0
+SerieA,2019-2020,16,Sun,2019-12-15,18:00,Roma,3.1,1.1,SPAL,34761,Stadio Olimpico,Antonio Giua,https://fbref.com/en/matches/dc816e12/Roma-SPAL-December-15-2019-Serie-A,3,1
+SerieA,2019-2020,16,Sun,2019-12-15,20:45,Fiorentina,0.7,0.6,Inter,37537,Stadio Artemio Franchi,Maurizio Mariani,https://fbref.com/en/matches/71fca453/Fiorentina-Internazionale-December-15-2019-Serie-A,1,1
+SerieA,2019-2020,16,Mon,2019-12-16,20:45,Cagliari,1.5,1.3,Lazio,16299,Sardegna Arena,Fabio Maresca,https://fbref.com/en/matches/0d2f0bfa/Cagliari-Lazio-December-16-2019-Serie-A,1,2
+SerieA,2019-2020,17,Wed,2019-12-18,18:55,Sampdoria,0.7,0.9,Juventus,23136,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,https://fbref.com/en/matches/c7506830/Sampdoria-Juventus-December-18-2019-Serie-A,1,2
+SerieA,2019-2020,7,Wed,2019-12-18,20:45,Brescia,1.8,0.4,Sassuolo,14574,Stadio Mario Rigamonti,Marco Di Bello,https://fbref.com/en/matches/53df47dc/Brescia-Sassuolo-December-18-2019-Serie-A,0,2
+SerieA,2019-2020,17,Fri,2019-12-20,20:45,Fiorentina,1.7,1.3,Roma,3305,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/8f370809/Fiorentina-Roma-December-20-2019-Serie-A,1,4
+SerieA,2019-2020,17,Sat,2019-12-21,15:00,Udinese,1.4,0.9,Cagliari,19822,Dacia Arena,Marco Piccinini,https://fbref.com/en/matches/64202847/Udinese-Cagliari-December-21-2019-Serie-A,2,1
+SerieA,2019-2020,17,Sat,2019-12-21,18:00,Inter,2.4,0.6,Genoa,57490,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/46b11d4b/Internazionale-Genoa-December-21-2019-Serie-A,4,0
+SerieA,2019-2020,17,Sat,2019-12-21,20:45,Torino,1.0,1.1,SPAL,18553,Stadio Olimpico di Torino,Michael Fabbri,https://fbref.com/en/matches/c9eded12/Torino-SPAL-December-21-2019-Serie-A,1,2
+SerieA,2019-2020,17,Sun,2019-12-22,12:30,Atalanta,2.8,0.3,Milan,20940,Stadio Atleti Azzurri d'Italia,Federico La Penna,https://fbref.com/en/matches/d3815642/Atalanta-Milan-December-22-2019-Serie-A,5,0
+SerieA,2019-2020,17,Sun,2019-12-22,15:00,Lecce,1.0,3.4,Bologna,24178,Stadio Comunale Via Del Mare,Rosario Abisso,https://fbref.com/en/matches/48d7fa77/Lecce-Bologna-December-22-2019-Serie-A,2,3
+SerieA,2019-2020,17,Sun,2019-12-22,15:00,Parma,1.4,2.3,Brescia,16686,Stadio Ennio Tardini,Francesco Fourneau,https://fbref.com/en/matches/9965b7ce/Parma-Brescia-December-22-2019-Serie-A,1,1
+SerieA,2019-2020,17,Sun,2019-12-22,20:45,Sassuolo,1.3,1.4,Napoli,12570,Stadio Città del Tricolore,Daniele Chiffi,https://fbref.com/en/matches/d5147fd0/Sassuolo-Napoli-December-22-2019-Serie-A,1,2
+SerieA,2019-2020,18,Sun,2020-01-05,12:30,Brescia,0.4,1.9,Lazio,14370,Stadio Mario Rigamonti,Gianluca Manganiello,https://fbref.com/en/matches/c870e65e/Brescia-Lazio-January-5-2020-Serie-A,1,2
+SerieA,2019-2020,18,Sun,2020-01-05,15:00,SPAL,1.4,2.1,Hellas Verona,14078,Stadio Paolo Mazza,Marco Guida,https://fbref.com/en/matches/fc06c687/SPAL-Hellas-Verona-January-5-2020-Serie-A,0,2
+SerieA,2019-2020,18,Sun,2020-01-05,18:00,Genoa,3.2,0.7,Sassuolo,21033,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,https://fbref.com/en/matches/9fc85829/Genoa-Sassuolo-January-5-2020-Serie-A,2,1
+SerieA,2019-2020,18,Sun,2020-01-05,20:45,Roma,2.1,1.9,Torino,38954,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/eb12043e/Roma-Torino-January-5-2020-Serie-A,0,2
+SerieA,2019-2020,18,Mon,2020-01-06,12:30,Bologna,0.9,0.6,Fiorentina,22653,Stadio Renato Dall'Ara,Paolo Valeri,https://fbref.com/en/matches/56a6b396/Bologna-Fiorentina-January-6-2020-Serie-A,1,1
+SerieA,2019-2020,18,Mon,2020-01-06,15:00,Juventus,2.7,0.8,Cagliari,40598,Allianz Stadium,Piero Giacomelli,https://fbref.com/en/matches/b7aca984/Juventus-Cagliari-January-6-2020-Serie-A,4,0
+SerieA,2019-2020,18,Mon,2020-01-06,15:00,Milan,1.3,1.2,Sampdoria,58572,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/0c8847d2/Milan-Sampdoria-January-6-2020-Serie-A,0,0
+SerieA,2019-2020,18,Mon,2020-01-06,15:00,Atalanta,1.8,0.1,Parma,19213,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua,https://fbref.com/en/matches/bdaebb99/Atalanta-Parma-January-6-2020-Serie-A,5,0
+SerieA,2019-2020,18,Mon,2020-01-06,18:00,Lecce,0.6,0.6,Udinese,21321,Stadio Comunale Via Del Mare,Antonio Giua,https://fbref.com/en/matches/b924eec7/Lecce-Udinese-January-6-2020-Serie-A,0,1
+SerieA,2019-2020,18,Mon,2020-01-06,20:45,Napoli,1.9,1.3,Inter,31191,Stadio San Paolo,Daniele Doveri,https://fbref.com/en/matches/4729665f/Napoli-Internazionale-January-6-2020-Serie-A,1,3
+SerieA,2019-2020,19,Sat,2020-01-11,15:00,Cagliari,0.7,1.2,Milan,16412,Sardegna Arena,Rosario Abisso,https://fbref.com/en/matches/bae24797/Cagliari-Milan-January-11-2020-Serie-A,0,2
+SerieA,2019-2020,19,Sat,2020-01-11,18:00,Lazio,0.9,0.5,Napoli,40000,Stadio Olimpico,Daniele Orsato,https://fbref.com/en/matches/d47d92d7/Lazio-Napoli-January-11-2020-Serie-A,1,0
+SerieA,2019-2020,19,Sat,2020-01-11,20:45,Inter,0.5,2.3,Atalanta,70042,Stadio Giuseppe Meazza,Gianluca Rocchi,https://fbref.com/en/matches/6986f646/Internazionale-Atalanta-January-11-2020-Serie-A,1,1
+SerieA,2019-2020,19,Sun,2020-01-12,12:30,Udinese,1.7,1.0,Sassuolo,21731,Dacia Arena,Manuel Volpi,https://fbref.com/en/matches/1dadbcaa/Udinese-Sassuolo-January-12-2020-Serie-A,3,0
+SerieA,2019-2020,19,Sun,2020-01-12,15:00,Torino,0.5,1.7,Bologna,15000,Stadio Olimpico di Torino,Marco Piccinini,https://fbref.com/en/matches/a8cdf836/Torino-Bologna-January-12-2020-Serie-A,1,0
+SerieA,2019-2020,19,Sun,2020-01-12,15:00,Sampdoria,3.3,0.9,Brescia,20117,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/d5867ce6/Sampdoria-Brescia-January-12-2020-Serie-A,5,1
+SerieA,2019-2020,19,Sun,2020-01-12,15:00,Fiorentina,1.6,1.1,SPAL,33970,Stadio Artemio Franchi,Daniele Doveri,https://fbref.com/en/matches/9587a6b9/Fiorentina-SPAL-January-12-2020-Serie-A,1,0
+SerieA,2019-2020,19,Sun,2020-01-12,18:00,Hellas Verona,2.6,0.8,Genoa,14849,Stadio Marc'Antonio Bentegodi,Maurizio Mariani,https://fbref.com/en/matches/dc13e242/Hellas-Verona-Genoa-January-12-2020-Serie-A,2,1
+SerieA,2019-2020,19,Sun,2020-01-12,20:45,Roma,2.5,1.4,Juventus,60513,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/e673ce9b/Roma-Juventus-January-12-2020-Serie-A,1,2
+SerieA,2019-2020,19,Mon,2020-01-13,20:45,Parma,1.6,1.1,Lecce,15258,Stadio Ennio Tardini,Michael Fabbri,https://fbref.com/en/matches/aa1b597c/Parma-Lecce-January-13-2020-Serie-A,2,0
+SerieA,2019-2020,20,Sat,2020-01-18,15:00,Lazio,4.1,0.4,Sampdoria,30000,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/6ba0fa51/Lazio-Sampdoria-January-18-2020-Serie-A,5,1
+SerieA,2019-2020,20,Sat,2020-01-18,18:00,Sassuolo,1.2,0.8,Torino,10500,Stadio Città del Tricolore,Davide Massa,https://fbref.com/en/matches/5afdc2eb/Sassuolo-Torino-January-18-2020-Serie-A,2,1
+SerieA,2019-2020,20,Sat,2020-01-18,20:45,Napoli,0.8,1.0,Fiorentina,22219,Stadio San Paolo,Fabrizio Pasqua,https://fbref.com/en/matches/501f868e/Napoli-Fiorentina-January-18-2020-Serie-A,0,2
+SerieA,2019-2020,20,Sun,2020-01-19,12:30,Milan,2.5,1.4,Udinese,56107,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/af53ca66/Milan-Udinese-January-19-2020-Serie-A,3,2
+SerieA,2019-2020,20,Sun,2020-01-19,15:00,Brescia,0.7,3.1,Cagliari,12133,Stadio Mario Rigamonti,Antonio Giua,https://fbref.com/en/matches/1f804ab6/Brescia-Cagliari-January-19-2020-Serie-A,2,2
+SerieA,2019-2020,20,Sun,2020-01-19,15:00,Lecce,1.2,2.0,Inter,25966,Stadio Comunale Via Del Mare,Piero Giacomelli,https://fbref.com/en/matches/5b4d3822/Lecce-Internazionale-January-19-2020-Serie-A,1,1
+SerieA,2019-2020,20,Sun,2020-01-19,15:00,Bologna,0.9,1.6,Hellas Verona,20697,Stadio Renato Dall'Ara,Giovanni Ayroldi,https://fbref.com/en/matches/f4a91ad0/Bologna-Hellas-Verona-January-19-2020-Serie-A,1,1
+SerieA,2019-2020,20,Sun,2020-01-19,18:00,Genoa,1.2,2.3,Roma,20951,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/28e3f6cf/Genoa-Roma-January-19-2020-Serie-A,1,3
+SerieA,2019-2020,20,Sun,2020-01-19,20:45,Juventus,1.2,0.5,Parma,37790,Allianz Stadium,Marco Di Bello,https://fbref.com/en/matches/c29fc8cd/Juventus-Parma-January-19-2020-Serie-A,2,1
+SerieA,2019-2020,20,Mon,2020-01-20,20:45,Atalanta,1.8,1.3,SPAL,16636,Stadio Atleti Azzurri d'Italia,Federico La Penna,https://fbref.com/en/matches/4d8d8572/Atalanta-SPAL-January-20-2020-Serie-A,1,2
+SerieA,2019-2020,21,Fri,2020-01-24,20:45,Brescia,1.4,2.0,Milan,19451,Stadio Mario Rigamonti,Paolo Valeri,https://fbref.com/en/matches/dfc9a38c/Brescia-Milan-January-24-2020-Serie-A,0,1
+SerieA,2019-2020,21,Sat,2020-01-25,15:00,SPAL,1.5,2.0,Bologna,12622,Stadio Paolo Mazza,Michael Fabbri,https://fbref.com/en/matches/a73b807f/SPAL-Bologna-January-25-2020-Serie-A,1,3
+SerieA,2019-2020,21,Sat,2020-01-25,18:00,Fiorentina,0.9,1.6,Genoa,32903,Stadio Artemio Franchi,Daniele Orsato,https://fbref.com/en/matches/9025bbe5/Fiorentina-Genoa-January-25-2020-Serie-A,0,0
+SerieA,2019-2020,21,Sat,2020-01-25,20:45,Torino,0.6,5.2,Atalanta,18824,Stadio Olimpico di Torino,Marco Guida,https://fbref.com/en/matches/b9252e68/Torino-Atalanta-January-25-2020-Serie-A,0,7
+SerieA,2019-2020,21,Sun,2020-01-26,12:30,Inter,2.1,0.6,Cagliari,70465,Stadio Giuseppe Meazza,Gianluca Manganiello,https://fbref.com/en/matches/2104f4e6/Internazionale-Cagliari-January-26-2020-Serie-A,1,1
+SerieA,2019-2020,21,Sun,2020-01-26,15:00,Parma,0.9,1.7,Udinese,14250,Stadio Ennio Tardini,Simone Sozza,https://fbref.com/en/matches/1808c963/Parma-Udinese-January-26-2020-Serie-A,2,0
+SerieA,2019-2020,21,Sun,2020-01-26,15:00,Hellas Verona,2.1,0.5,Lecce,15425,Stadio Marc'Antonio Bentegodi,Rosario Abisso,https://fbref.com/en/matches/616e22ee/Hellas-Verona-Lecce-January-26-2020-Serie-A,3,0
+SerieA,2019-2020,21,Sun,2020-01-26,15:00,Sampdoria,1.4,0.5,Sassuolo,19260,Stadio Comunale Luigi Ferraris,Marco Piccinini,https://fbref.com/en/matches/a0cb6940/Sampdoria-Sassuolo-January-26-2020-Serie-A,0,0
+SerieA,2019-2020,21,Sun,2020-01-26,18:00,Roma,1.6,0.6,Lazio,59902,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/58a281a4/Roma-Lazio-January-26-2020-Serie-A,1,1
+SerieA,2019-2020,21,Sun,2020-01-26,20:45,Napoli,1.2,0.5,Juventus,39111,Stadio San Paolo,Maurizio Mariani,https://fbref.com/en/matches/6e318964/Napoli-Juventus-January-26-2020-Serie-A,2,1
+SerieA,2019-2020,22,Sat,2020-02-01,15:00,Bologna,1.9,0.9,Brescia,21665,Stadio Renato Dall'Ara,Daniele Doveri,https://fbref.com/en/matches/bfd19bd0/Bologna-Brescia-February-1-2020-Serie-A,2,1
+SerieA,2019-2020,22,Sat,2020-02-01,18:00,Cagliari,2.8,1.5,Parma,16051,Sardegna Arena,Massimiliano Irrati,https://fbref.com/en/matches/94221afe/Cagliari-Parma-February-1-2020-Serie-A,2,2
+SerieA,2019-2020,22,Sat,2020-02-01,20:45,Sassuolo,3.2,2.9,Roma,13411,Stadio Città del Tricolore,Luca Pairetto,https://fbref.com/en/matches/992a9b6c/Sassuolo-Roma-February-1-2020-Serie-A,4,2
+SerieA,2019-2020,22,Sun,2020-02-02,12:30,Juventus,2.9,0.6,Fiorentina,40171,Allianz Stadium,Fabrizio Pasqua,https://fbref.com/en/matches/d7d81564/Juventus-Fiorentina-February-2-2020-Serie-A,3,0
+SerieA,2019-2020,22,Sun,2020-02-02,15:00,Milan,1.3,0.8,Hellas Verona,55355,Stadio Giuseppe Meazza,Daniele Chiffi,https://fbref.com/en/matches/d6f40768/Milan-Hellas-Verona-February-2-2020-Serie-A,1,1
+SerieA,2019-2020,22,Sun,2020-02-02,15:00,Lazio,2.6,1.3,SPAL,4000,Stadio Olimpico,Antonio Giua,https://fbref.com/en/matches/3741fa7c/Lazio-SPAL-February-2-2020-Serie-A,5,1
+SerieA,2019-2020,22,Sun,2020-02-02,15:00,Atalanta,2.3,1.3,Genoa,18755,Stadio Atleti Azzurri d'Italia,Davide Massa,https://fbref.com/en/matches/f6a65910/Atalanta-Genoa-February-2-2020-Serie-A,2,2
+SerieA,2019-2020,22,Sun,2020-02-02,18:00,Lecce,2.5,1.0,Torino,21947,Stadio Comunale Via Del Mare,Gianluca Rocchi,https://fbref.com/en/matches/6eaa2d6c/Lecce-Torino-February-2-2020-Serie-A,4,0
+SerieA,2019-2020,22,Sun,2020-02-02,20:45,Udinese,0.9,2.7,Inter,23215,Dacia Arena,Marco Di Bello,https://fbref.com/en/matches/49236a42/Udinese-Internazionale-February-2-2020-Serie-A,0,2
+SerieA,2019-2020,22,Mon,2020-02-03,20:45,Sampdoria,1.9,1.3,Napoli,20017,Stadio Comunale Luigi Ferraris,Federico La Penna,https://fbref.com/en/matches/2b131af8/Sampdoria-Napoli-February-3-2020-Serie-A,2,4
+SerieA,2019-2020,17,Wed,2020-02-05,20:45,Lazio,1.3,1.0,Hellas Verona,40000,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/97c2d01d/Lazio-Hellas-Verona-February-5-2020-Serie-A,0,0
+SerieA,2019-2020,23,Fri,2020-02-07,20:45,Roma,1.1,1.8,Bologna,31808,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/ecad1892/Roma-Bologna-February-7-2020-Serie-A,2,3
+SerieA,2019-2020,23,Sat,2020-02-08,15:00,Fiorentina,0.5,1.7,Atalanta,35034,Stadio Artemio Franchi,Maurizio Mariani,https://fbref.com/en/matches/6d548812/Fiorentina-Atalanta-February-8-2020-Serie-A,1,2
+SerieA,2019-2020,23,Sat,2020-02-08,18:00,Torino,0.5,2.0,Sampdoria,20664,Stadio Olimpico di Torino,Paolo Valeri,https://fbref.com/en/matches/9f8ea9de/Torino-Sampdoria-February-8-2020-Serie-A,1,3
+SerieA,2019-2020,23,Sat,2020-02-08,20:45,Hellas Verona,1.8,0.7,Juventus,28654,Stadio Marc'Antonio Bentegodi,Davide Massa,https://fbref.com/en/matches/a0d5f40b/Hellas-Verona-Juventus-February-8-2020-Serie-A,2,1
+SerieA,2019-2020,23,Sun,2020-02-09,12:30,SPAL,1.4,2.2,Sassuolo,12988,Stadio Paolo Mazza,Piero Giacomelli,https://fbref.com/en/matches/a1d940ef/SPAL-Sassuolo-February-9-2020-Serie-A,1,2
+SerieA,2019-2020,23,Sun,2020-02-09,15:00,Genoa,1.2,1.1,Cagliari,21301,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/6e54e5fd/Genoa-Cagliari-February-9-2020-Serie-A,1,0
+SerieA,2019-2020,23,Sun,2020-02-09,15:00,Napoli,3.4,1.7,Lecce,40825,Stadio San Paolo,Antonio Giua,https://fbref.com/en/matches/e307e4b1/Napoli-Lecce-February-9-2020-Serie-A,2,3
+SerieA,2019-2020,23,Sun,2020-02-09,15:00,Brescia,0.4,2.2,Udinese,13586,Stadio Mario Rigamonti,Marco Piccinini,https://fbref.com/en/matches/e38d97d7/Brescia-Udinese-February-9-2020-Serie-A,1,1
+SerieA,2019-2020,23,Sun,2020-02-09,18:00,Parma,0.6,1.6,Lazio,17859,Stadio Ennio Tardini,Marco Di Bello,https://fbref.com/en/matches/b0859f3c/Parma-Lazio-February-9-2020-Serie-A,0,1
+SerieA,2019-2020,23,Sun,2020-02-09,20:45,Inter,1.4,2.0,Milan,75817,Stadio Giuseppe Meazza,Fabio Maresca,https://fbref.com/en/matches/b175fd39/Derby-della-Madonnina-Internazionale-Milan-February-9-2020-Serie-A,4,2
+SerieA,2019-2020,24,Sat,2020-02-15,15:00,Lecce,1.7,1.3,SPAL,24129,Stadio Comunale Via Del Mare,Marco Guida,https://fbref.com/en/matches/342f9a57/Lecce-SPAL-February-15-2020-Serie-A,2,1
+SerieA,2019-2020,24,Sat,2020-02-15,18:00,Bologna,0.5,1.5,Genoa,21513,Stadio Renato Dall'Ara,Davide Massa,https://fbref.com/en/matches/d15818f6/Bologna-Genoa-February-15-2020-Serie-A,0,3
+SerieA,2019-2020,24,Sat,2020-02-15,20:45,Atalanta,1.3,0.5,Roma,19830,Stadio Atleti Azzurri d'Italia,Daniele Orsato,https://fbref.com/en/matches/282c05ad/Atalanta-Roma-February-15-2020-Serie-A,2,1
+SerieA,2019-2020,24,Sun,2020-02-16,12:30,Udinese,0.9,1.1,Hellas Verona,22308,Dacia Arena,Eugenio Abbattista,https://fbref.com/en/matches/58f06b8f/Udinese-Hellas-Verona-February-16-2020-Serie-A,0,0
+SerieA,2019-2020,24,Sun,2020-02-16,15:00,Sampdoria,2.1,3.2,Fiorentina,20284,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,https://fbref.com/en/matches/c2b25480/Sampdoria-Fiorentina-February-16-2020-Serie-A,1,5
+SerieA,2019-2020,24,Sun,2020-02-16,15:00,Sassuolo,1.2,0.8,Parma,12099,Stadio Città del Tricolore,Maurizio Mariani,https://fbref.com/en/matches/b0c770e4/Sassuolo-Parma-February-16-2020-Serie-A,0,1
+SerieA,2019-2020,24,Sun,2020-02-16,15:00,Juventus,2.5,0.3,Brescia,40841,Allianz Stadium,Daniele Chiffi,https://fbref.com/en/matches/2352cfdc/Juventus-Brescia-February-16-2020-Serie-A,2,0
+SerieA,2019-2020,24,Sun,2020-02-16,18:00,Cagliari,0.3,0.9,Napoli,13535,Sardegna Arena,Daniele Doveri,https://fbref.com/en/matches/db8bff69/Cagliari-Napoli-February-16-2020-Serie-A,0,1
+SerieA,2019-2020,24,Sun,2020-02-16,20:45,Lazio,1.6,0.8,Inter,62500,Stadio Olimpico,Gianluca Rocchi,https://fbref.com/en/matches/ba3e212b/Lazio-Internazionale-February-16-2020-Serie-A,2,1
+SerieA,2019-2020,24,Mon,2020-02-17,20:45,Milan,0.9,0.4,Torino,46114,Stadio Giuseppe Meazza,Michael Fabbri,https://fbref.com/en/matches/b8ca4f50/Milan-Torino-February-17-2020-Serie-A,1,0
+SerieA,2019-2020,25,Fri,2020-02-21,20:45,Brescia,1.0,1.2,Napoli,14703,Stadio Mario Rigamonti,Daniele Orsato,https://fbref.com/en/matches/ef152c0d/Brescia-Napoli-February-21-2020-Serie-A,1,2
+SerieA,2019-2020,25,Sat,2020-02-22,15:00,Bologna,1.3,0.5,Udinese,21523,Stadio Renato Dall'Ara,Fabrizio Pasqua,https://fbref.com/en/matches/f35dfd9b/Bologna-Udinese-February-22-2020-Serie-A,1,1
+SerieA,2019-2020,25,Sat,2020-02-22,18:00,SPAL,1.0,2.2,Juventus,15262,Stadio Paolo Mazza,Federico La Penna,https://fbref.com/en/matches/d2801f5c/SPAL-Juventus-February-22-2020-Serie-A,1,2
+SerieA,2019-2020,25,Sat,2020-02-22,20:45,Fiorentina,1.9,0.7,Milan,39769,Stadio Artemio Franchi,Giampaolo Calvarese,https://fbref.com/en/matches/c39988ae/Fiorentina-Milan-February-22-2020-Serie-A,1,1
+SerieA,2019-2020,25,Sun,2020-02-23,12:30,Genoa,1.6,2.0,Lazio,25000,Stadio Comunale Luigi Ferraris,Fabio Maresca,https://fbref.com/en/matches/731a430e/Genoa-Lazio-February-23-2020-Serie-A,2,3
+SerieA,2019-2020,25,Sun,2020-02-23,18:00,Roma,3.8,0.8,Lecce,34293,Stadio Olimpico,Piero Giacomelli,https://fbref.com/en/matches/903297ed/Roma-Lecce-February-23-2020-Serie-A,4,0
+SerieA,2019-2020,26,Sat,2020-02-29,15:00,Lazio,1.4,1.4,Bologna,40000,Stadio Olimpico,Rosario Abisso,https://fbref.com/en/matches/5cd79f53/Lazio-Bologna-February-29-2020-Serie-A,2,0
+SerieA,2019-2020,26,Sat,2020-02-29,20:45,Napoli,1.9,0.5,Torino,23586,Stadio San Paolo,Maurizio Mariani,https://fbref.com/en/matches/2dca2b92/Napoli-Torino-February-29-2020-Serie-A,2,1
+SerieA,2019-2020,26,Sun,2020-03-01,15:00,Lecce,0.4,4.6,Atalanta,21344,Stadio Comunale Via Del Mare,Davide Massa,https://fbref.com/en/matches/0a142183/Lecce-Atalanta-March-1-2020-Serie-A,2,7
+SerieA,2019-2020,26,Sun,2020-03-01,18:00,Cagliari,1.2,3.2,Roma,14848,Sardegna Arena,Marco Di Bello,https://fbref.com/en/matches/333ca4d6/Cagliari-Roma-March-1-2020-Serie-A,3,4
+SerieA,2019-2020,26,Sun,2020-03-08,13:30,Parma,1.3,0.9,SPAL,,Stadio Ennio Tardini,Luca Pairetto,https://fbref.com/en/matches/ceecf227/Parma-SPAL-March-8-2020-Serie-A,0,1
+SerieA,2019-2020,26,Sun,2020-03-08,15:00,Sampdoria,1.4,1.4,Hellas Verona,,Stadio Comunale Luigi Ferraris,Paolo Valeri,https://fbref.com/en/matches/9cfb3488/Sampdoria-Hellas-Verona-March-8-2020-Serie-A,2,1
+SerieA,2019-2020,26,Sun,2020-03-08,15:00,Milan,1.8,1.9,Genoa,,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/81983acf/Milan-Genoa-March-8-2020-Serie-A,1,2
+SerieA,2019-2020,26,Sun,2020-03-08,18:00,Udinese,0.6,0.3,Fiorentina,,Dacia Arena,Michael Fabbri,https://fbref.com/en/matches/bdb59761/Udinese-Fiorentina-March-8-2020-Serie-A,0,0
+SerieA,2019-2020,26,Sun,2020-03-08,20:45,Juventus,1.3,0.4,Inter,,Allianz Stadium,Marco Guida,https://fbref.com/en/matches/3e2338d1/Juventus-Internazionale-March-8-2020-Serie-A,2,0
+SerieA,2019-2020,26,Mon,2020-03-09,18:30,Sassuolo,2.1,0.6,Brescia,,Stadio Città del Tricolore,Gianluca Manganiello,https://fbref.com/en/matches/8f0d9171/Sassuolo-Brescia-March-9-2020-Serie-A,3,0
+SerieA,2019-2020,25,Sat,2020-06-20,19:30,Torino,2.0,0.3,Parma,,Stadio Olimpico di Torino,Massimiliano Irrati,https://fbref.com/en/matches/629ac3e4/Torino-Parma-June-20-2020-Serie-A,1,1
+SerieA,2019-2020,25,Sat,2020-06-20,21:45,Hellas Verona,0.5,1.1,Cagliari,,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello,https://fbref.com/en/matches/cfacfcaa/Hellas-Verona-Cagliari-June-20-2020-Serie-A,2,1
+SerieA,2019-2020,25,Sun,2020-06-21,19:30,Atalanta,2.4,2.7,Sassuolo,,Stadio Atleti Azzurri d'Italia,Daniele Chiffi,https://fbref.com/en/matches/f5729c17/Atalanta-Sassuolo-June-21-2020-Serie-A,4,1
+SerieA,2019-2020,25,Sun,2020-06-21,21:45,Inter,2.7,0.6,Sampdoria,,Stadio Giuseppe Meazza,Maurizio Mariani,https://fbref.com/en/matches/8eee2633/Internazionale-Sampdoria-June-21-2020-Serie-A,2,1
+SerieA,2019-2020,27,Mon,2020-06-22,19:30,Fiorentina,2.5,1.3,Brescia,,Stadio Artemio Franchi,Federico La Penna,https://fbref.com/en/matches/dc1379d4/Fiorentina-Brescia-June-22-2020-Serie-A,1,1
+SerieA,2019-2020,27,Mon,2020-06-22,19:30,Lecce,1.3,2.3,Milan,,Stadio Comunale Via Del Mare,Paolo Valeri,https://fbref.com/en/matches/e1f17567/Lecce-Milan-June-22-2020-Serie-A,1,4
+SerieA,2019-2020,27,Mon,2020-06-22,21:45,Bologna,0.8,1.7,Juventus,,Stadio Renato Dall'Ara,Gianluca Rocchi,https://fbref.com/en/matches/711e1d1f/Bologna-Juventus-June-22-2020-Serie-A,0,2
+SerieA,2019-2020,27,Tue,2020-06-23,19:30,SPAL,1.1,1.7,Cagliari,,Stadio Paolo Mazza,Rosario Abisso,https://fbref.com/en/matches/7509e314/SPAL-Cagliari-June-23-2020-Serie-A,0,1
+SerieA,2019-2020,27,Tue,2020-06-23,19:30,Hellas Verona,1.6,1.6,Napoli,,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,https://fbref.com/en/matches/38851d41/Hellas-Verona-Napoli-June-23-2020-Serie-A,0,2
+SerieA,2019-2020,27,Tue,2020-06-23,21:45,Torino,0.4,1.2,Udinese,,Stadio Olimpico di Torino,Fabio Maresca,https://fbref.com/en/matches/b661835e/Torino-Udinese-June-23-2020-Serie-A,1,0
+SerieA,2019-2020,27,Tue,2020-06-23,21:45,Genoa,2.2,2.0,Parma,,Stadio Comunale Luigi Ferraris,Piero Giacomelli,https://fbref.com/en/matches/9637c1c8/Genoa-Parma-June-23-2020-Serie-A,1,4
+SerieA,2019-2020,27,Wed,2020-06-24,19:30,Inter,3.6,2.3,Sassuolo,,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/d54044f1/Internazionale-Sassuolo-June-24-2020-Serie-A,3,3
+SerieA,2019-2020,27,Wed,2020-06-24,21:45,Atalanta,2.2,0.3,Lazio,,Stadio Atleti Azzurri d'Italia,Daniele Orsato,https://fbref.com/en/matches/75012b50/Atalanta-Lazio-June-24-2020-Serie-A,3,2
+SerieA,2019-2020,27,Wed,2020-06-24,21:45,Roma,2.2,0.9,Sampdoria,,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/ab192cc2/Roma-Sampdoria-June-24-2020-Serie-A,2,1
+SerieA,2019-2020,28,Fri,2020-06-26,21:45,Juventus,3.4,0.3,Lecce,,Allianz Stadium,Marco Piccinini,https://fbref.com/en/matches/38c0ba71/Juventus-Lecce-June-26-2020-Serie-A,4,0
+SerieA,2019-2020,28,Sat,2020-06-27,17:15,Brescia,1.5,2.8,Genoa,,Stadio Mario Rigamonti,Massimiliano Irrati,https://fbref.com/en/matches/7a2893f2/Brescia-Genoa-June-27-2020-Serie-A,2,2
+SerieA,2019-2020,28,Sat,2020-06-27,19:30,Cagliari,1.7,1.5,Torino,,Sardegna Arena,Maurizio Mariani,https://fbref.com/en/matches/13355abd/Cagliari-Torino-June-27-2020-Serie-A,4,2
+SerieA,2019-2020,28,Sat,2020-06-27,21:45,Lazio,1.7,0.5,Fiorentina,,Stadio Olimpico,Michael Fabbri,https://fbref.com/en/matches/107698b8/Lazio-Fiorentina-June-27-2020-Serie-A,2,1
+SerieA,2019-2020,28,Sun,2020-06-28,17:15,Milan,2.5,0.6,Roma,,Stadio Giuseppe Meazza,Piero Giacomelli,https://fbref.com/en/matches/fcc08302/Milan-Roma-June-28-2020-Serie-A,2,0
+SerieA,2019-2020,28,Sun,2020-06-28,19:30,Sampdoria,1.4,2.2,Bologna,,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/1cba2796/Sampdoria-Bologna-June-28-2020-Serie-A,1,2
+SerieA,2019-2020,28,Sun,2020-06-28,19:30,Sassuolo,1.6,1.4,Hellas Verona,,Stadio Città del Tricolore,Antonio Giua,https://fbref.com/en/matches/2e6a73af/Sassuolo-Hellas-Verona-June-28-2020-Serie-A,3,3
+SerieA,2019-2020,28,Sun,2020-06-28,19:30,Udinese,1.7,0.8,Atalanta,,Dacia Arena,Marco Di Bello,https://fbref.com/en/matches/d5ff17b3/Udinese-Atalanta-June-28-2020-Serie-A,2,3
+SerieA,2019-2020,28,Sun,2020-06-28,19:30,Napoli,1.9,0.3,SPAL,,Stadio San Paolo,Luca Pairetto,https://fbref.com/en/matches/fb94d82b/Napoli-SPAL-June-28-2020-Serie-A,3,1
+SerieA,2019-2020,28,Sun,2020-06-28,21:45,Parma,1.2,2.4,Inter,,Stadio Ennio Tardini,Fabio Maresca,https://fbref.com/en/matches/4d6b7469/Parma-Internazionale-June-28-2020-Serie-A,1,2
+SerieA,2019-2020,29,Tue,2020-06-30,19:30,Torino,0.9,1.6,Lazio,,Stadio Olimpico di Torino,Davide Massa,https://fbref.com/en/matches/399a5268/Torino-Lazio-June-30-2020-Serie-A,1,2
+SerieA,2019-2020,29,Tue,2020-06-30,21:45,Genoa,0.2,0.7,Juventus,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,https://fbref.com/en/matches/0331e718/Genoa-Juventus-June-30-2020-Serie-A,1,3
+SerieA,2019-2020,29,Wed,2020-07-01,19:30,Bologna,1.5,1.1,Cagliari,,Stadio Renato Dall'Ara,Juan Sacchi,https://fbref.com/en/matches/a9a5d7eb/Bologna-Cagliari-July-1-2020-Serie-A,1,1
+SerieA,2019-2020,29,Wed,2020-07-01,19:30,Inter,3.9,0.5,Brescia,,Stadio Giuseppe Meazza,Gianluca Manganiello,https://fbref.com/en/matches/0f3622bf/Internazionale-Brescia-July-1-2020-Serie-A,6,0
+SerieA,2019-2020,29,Wed,2020-07-01,21:45,Hellas Verona,1.6,1.6,Parma,,Stadio Marc'Antonio Bentegodi,Paolo Valeri,https://fbref.com/en/matches/9da7a1f8/Hellas-Verona-Parma-July-1-2020-Serie-A,3,2
+SerieA,2019-2020,29,Wed,2020-07-01,21:45,Fiorentina,1.6,1.7,Sassuolo,,Stadio Artemio Franchi,Daniele Chiffi,https://fbref.com/en/matches/155edfa9/Fiorentina-Sassuolo-July-1-2020-Serie-A,1,3
+SerieA,2019-2020,29,Wed,2020-07-01,21:45,Lecce,1.8,1.8,Sampdoria,,Stadio Comunale Via Del Mare,Gianluca Rocchi,https://fbref.com/en/matches/52d389e6/Lecce-Sampdoria-July-1-2020-Serie-A,1,2
+SerieA,2019-2020,29,Wed,2020-07-01,21:45,SPAL,0.4,2.1,Milan,,Stadio Paolo Mazza,Maurizio Mariani,https://fbref.com/en/matches/0d5984e4/SPAL-Milan-July-1-2020-Serie-A,2,2
+SerieA,2019-2020,29,Thu,2020-07-02,19:30,Atalanta,1.3,1.1,Napoli,,Stadio Atleti Azzurri d'Italia,Daniele Doveri,https://fbref.com/en/matches/65316256/Atalanta-Napoli-July-2-2020-Serie-A,2,0
+SerieA,2019-2020,29,Thu,2020-07-02,21:45,Roma,0.8,1.5,Udinese,,Stadio Olimpico,Marco Guida,https://fbref.com/en/matches/15a48a02/Roma-Udinese-July-2-2020-Serie-A,0,2
+SerieA,2019-2020,30,Sat,2020-07-04,17:15,Juventus,1.5,1.7,Torino,,Allianz Stadium,Fabio Maresca,https://fbref.com/en/matches/dac442cc/Juventus-Torino-July-4-2020-Serie-A,4,1
+SerieA,2019-2020,30,Sat,2020-07-04,19:30,Sassuolo,1.8,1.9,Lecce,,Stadio Città del Tricolore,Davide Massa,https://fbref.com/en/matches/65350322/Sassuolo-Lecce-July-4-2020-Serie-A,4,2
+SerieA,2019-2020,30,Sat,2020-07-04,21:45,Lazio,0.4,2.3,Milan,,Stadio Olimpico,Giampaolo Calvarese,https://fbref.com/en/matches/a12f8897/Lazio-Milan-July-4-2020-Serie-A,0,3
+SerieA,2019-2020,30,Sun,2020-07-05,17:15,Inter,3.1,1.1,Bologna,,Stadio Giuseppe Meazza,Luca Pairetto,https://fbref.com/en/matches/18e2c00a/Internazionale-Bologna-July-5-2020-Serie-A,1,2
+SerieA,2019-2020,30,Sun,2020-07-05,19:30,Parma,1.1,2.3,Fiorentina,,Stadio Ennio Tardini,Rosario Abisso,https://fbref.com/en/matches/5ddc4157/Parma-Fiorentina-July-5-2020-Serie-A,1,2
+SerieA,2019-2020,30,Sun,2020-07-05,19:30,Sampdoria,1.2,1.0,SPAL,,Stadio Comunale Luigi Ferraris,Piero Giacomelli,https://fbref.com/en/matches/7a311dd9/Sampdoria-SPAL-July-5-2020-Serie-A,3,0
+SerieA,2019-2020,30,Sun,2020-07-05,19:30,Udinese,0.7,1.3,Genoa,,Dacia Arena,Daniele Orsato,https://fbref.com/en/matches/7da5685f/Udinese-Genoa-July-5-2020-Serie-A,2,2
+SerieA,2019-2020,30,Sun,2020-07-05,19:30,Brescia,1.1,0.9,Hellas Verona,,Stadio Mario Rigamonti,Marco Piccinini,https://fbref.com/en/matches/1b7463ab/Brescia-Hellas-Verona-July-5-2020-Serie-A,2,0
+SerieA,2019-2020,30,Sun,2020-07-05,19:30,Cagliari,0.4,3.3,Atalanta,,Sardegna Arena,Federico La Penna,https://fbref.com/en/matches/7d3492a0/Cagliari-Atalanta-July-5-2020-Serie-A,0,1
+SerieA,2019-2020,30,Sun,2020-07-05,21:45,Napoli,2.2,0.7,Roma,,Stadio San Paolo,Gianluca Rocchi,https://fbref.com/en/matches/e77b4ee8/Napoli-Roma-July-5-2020-Serie-A,2,1
+SerieA,2019-2020,31,Tue,2020-07-07,19:30,Lecce,2.4,2.4,Lazio,,Stadio Comunale Via Del Mare,Fabio Maresca,https://fbref.com/en/matches/b8d24d75/Lecce-Lazio-July-7-2020-Serie-A,2,1
+SerieA,2019-2020,31,Tue,2020-07-07,21:45,Milan,1.9,1.2,Juventus,,Stadio Giuseppe Meazza,Marco Guida,https://fbref.com/en/matches/384d0cd5/Derby-dItalia-Milan-Juventus-July-7-2020-Serie-A,4,2
+SerieA,2019-2020,31,Wed,2020-07-08,19:30,Fiorentina,0.8,1.1,Cagliari,,Stadio Artemio Franchi,Gianluca Manganiello,https://fbref.com/en/matches/8ef15379/Fiorentina-Cagliari-July-8-2020-Serie-A,0,0
+SerieA,2019-2020,31,Wed,2020-07-08,19:30,Genoa,0.5,1.6,Napoli,,Stadio Comunale Luigi Ferraris,Maurizio Mariani,https://fbref.com/en/matches/10c1d3be/Genoa-Napoli-July-8-2020-Serie-A,1,2
+SerieA,2019-2020,31,Wed,2020-07-08,21:45,Torino,2.4,1.6,Brescia,,Stadio Olimpico di Torino,Daniele Doveri,https://fbref.com/en/matches/1a567ac6/Torino-Brescia-July-8-2020-Serie-A,3,1
+SerieA,2019-2020,31,Wed,2020-07-08,21:45,Roma,2.6,1.1,Parma,,Stadio Olimpico,Michael Fabbri,https://fbref.com/en/matches/7210abad/Roma-Parma-July-8-2020-Serie-A,2,1
+SerieA,2019-2020,31,Wed,2020-07-08,21:45,Atalanta,1.1,0.8,Sampdoria,,Stadio Atleti Azzurri d'Italia,Antonio Giua,https://fbref.com/en/matches/2fdd3ca1/Atalanta-Sampdoria-July-8-2020-Serie-A,2,0
+SerieA,2019-2020,31,Wed,2020-07-08,21:45,Bologna,1.2,0.8,Sassuolo,,Stadio Renato Dall'Ara,Francesco Fourneau,https://fbref.com/en/matches/889c695c/Bologna-Sassuolo-July-8-2020-Serie-A,1,2
+SerieA,2019-2020,31,Thu,2020-07-09,19:30,SPAL,0.4,1.1,Udinese,,Stadio Paolo Mazza,Daniele Chiffi,https://fbref.com/en/matches/14d20c4d/SPAL-Udinese-July-9-2020-Serie-A,0,3
+SerieA,2019-2020,31,Thu,2020-07-09,21:45,Hellas Verona,0.7,1.0,Inter,,Stadio Marc'Antonio Bentegodi,Massimiliano Irrati,https://fbref.com/en/matches/47b869bf/Hellas-Verona-Internazionale-July-9-2020-Serie-A,2,2
+SerieA,2019-2020,32,Sat,2020-07-11,17:15,Lazio,1.0,2.3,Sassuolo,,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/3c6e39f7/Lazio-Sassuolo-July-11-2020-Serie-A,1,2
+SerieA,2019-2020,32,Sat,2020-07-11,19:30,Brescia,1.0,3.2,Roma,,Stadio Mario Rigamonti,Giampaolo Calvarese,https://fbref.com/en/matches/1085d180/Brescia-Roma-July-11-2020-Serie-A,0,3
+SerieA,2019-2020,32,Sat,2020-07-11,21:45,Juventus,2.1,0.9,Atalanta,,Allianz Stadium,Piero Giacomelli,https://fbref.com/en/matches/69c87fd8/Juventus-Atalanta-July-11-2020-Serie-A,2,2
+SerieA,2019-2020,32,Sun,2020-07-12,17:15,Genoa,2.2,0.0,SPAL,,Stadio Comunale Luigi Ferraris,Marco Guida,https://fbref.com/en/matches/833e8af0/Genoa-SPAL-July-12-2020-Serie-A,2,0
+SerieA,2019-2020,32,Sun,2020-07-12,19:30,Parma,1.5,0.8,Bologna,,Stadio Ennio Tardini,Maurizio Mariani,https://fbref.com/en/matches/a2cc1cad/Parma-Bologna-July-12-2020-Serie-A,2,2
+SerieA,2019-2020,32,Sun,2020-07-12,19:30,Fiorentina,1.0,0.9,Hellas Verona,,Stadio Artemio Franchi,Daniele Chiffi,https://fbref.com/en/matches/b44bf8d9/Fiorentina-Hellas-Verona-July-12-2020-Serie-A,1,1
+SerieA,2019-2020,32,Sun,2020-07-12,19:30,Udinese,0.6,1.0,Sampdoria,,Dacia Arena,Paolo Valeri,https://fbref.com/en/matches/c7aef1f9/Udinese-Sampdoria-July-12-2020-Serie-A,1,3
+SerieA,2019-2020,32,Sun,2020-07-12,19:30,Cagliari,2.0,1.9,Lecce,,Sardegna Arena,Daniele Orsato,https://fbref.com/en/matches/e2fa228f/Cagliari-Lecce-July-12-2020-Serie-A,0,0
+SerieA,2019-2020,32,Sun,2020-07-12,21:45,Napoli,2.0,1.1,Milan,,Stadio San Paolo,Federico La Penna,https://fbref.com/en/matches/fcd04483/Napoli-Milan-July-12-2020-Serie-A,2,2
+SerieA,2019-2020,32,Mon,2020-07-13,21:45,Inter,2.2,1.7,Torino,,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/add6aa58/Internazionale-Torino-July-13-2020-Serie-A,3,1
+SerieA,2019-2020,33,Tue,2020-07-14,21:45,Atalanta,2.2,1.0,Brescia,,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello,https://fbref.com/en/matches/8f6f39fd/Atalanta-Brescia-July-14-2020-Serie-A,6,2
+SerieA,2019-2020,33,Wed,2020-07-15,19:30,Sampdoria,1.1,0.7,Cagliari,,Stadio Comunale Luigi Ferraris,Luca Pairetto,https://fbref.com/en/matches/11ba6feb/Sampdoria-Cagliari-July-15-2020-Serie-A,3,0
+SerieA,2019-2020,33,Wed,2020-07-15,19:30,Milan,2.3,1.0,Parma,,Stadio Giuseppe Meazza,Massimiliano Irrati,https://fbref.com/en/matches/85ebe97d/Milan-Parma-July-15-2020-Serie-A,3,1
+SerieA,2019-2020,33,Wed,2020-07-15,19:30,Bologna,0.9,0.8,Napoli,,Stadio Renato Dall'Ara,Marco Piccinini,https://fbref.com/en/matches/608ba7e4/Bologna-Napoli-July-15-2020-Serie-A,1,1
+SerieA,2019-2020,33,Wed,2020-07-15,21:45,Lecce,0.7,2.7,Fiorentina,,Stadio Comunale Via Del Mare,Marco Guida,https://fbref.com/en/matches/d39cb4e3/Lecce-Fiorentina-July-15-2020-Serie-A,1,3
+SerieA,2019-2020,33,Wed,2020-07-15,21:45,Roma,2.8,0.4,Hellas Verona,,Stadio Olimpico,Fabio Maresca,https://fbref.com/en/matches/6e569080/Roma-Hellas-Verona-July-15-2020-Serie-A,2,1
+SerieA,2019-2020,33,Wed,2020-07-15,21:45,Sassuolo,2.8,2.2,Juventus,,Stadio Città del Tricolore,Paolo Valeri,https://fbref.com/en/matches/4215369c/Sassuolo-Juventus-July-15-2020-Serie-A,3,3
+SerieA,2019-2020,33,Wed,2020-07-15,21:45,Udinese,1.4,0.9,Lazio,,Dacia Arena,Rosario Abisso,https://fbref.com/en/matches/3dd32d74/Udinese-Lazio-July-15-2020-Serie-A,0,0
+SerieA,2019-2020,33,Thu,2020-07-16,19:30,Torino,1.1,0.9,Genoa,,Stadio Olimpico di Torino,Gianluca Rocchi,https://fbref.com/en/matches/ca532f16/Torino-Genoa-July-16-2020-Serie-A,3,0
+SerieA,2019-2020,33,Thu,2020-07-16,21:45,SPAL,0.7,2.4,Inter,,Stadio Paolo Mazza,Antonio Giua,https://fbref.com/en/matches/328d9e11/SPAL-Internazionale-July-16-2020-Serie-A,0,4
+SerieA,2019-2020,34,Sat,2020-07-18,17:15,Hellas Verona,1.2,2.1,Atalanta,,Stadio Marc'Antonio Bentegodi,Rosario Abisso,https://fbref.com/en/matches/05650a7d/Hellas-Verona-Atalanta-July-18-2020-Serie-A,1,1
+SerieA,2019-2020,34,Sat,2020-07-18,19:30,Cagliari,0.2,0.6,Sassuolo,,Sardegna Arena,Giovanni Ayroldi,https://fbref.com/en/matches/95476842/Cagliari-Sassuolo-July-18-2020-Serie-A,1,1
+SerieA,2019-2020,34,Sat,2020-07-18,21:45,Milan,3.0,0.5,Bologna,,Stadio Giuseppe Meazza,Davide Massa,https://fbref.com/en/matches/069123b2/Milan-Bologna-July-18-2020-Serie-A,5,1
+SerieA,2019-2020,34,Sun,2020-07-19,17:15,Parma,1.2,1.5,Sampdoria,,Stadio Ennio Tardini,Giampaolo Calvarese,https://fbref.com/en/matches/71c493e6/Parma-Sampdoria-July-19-2020-Serie-A,2,3
+SerieA,2019-2020,34,Sun,2020-07-19,19:30,Napoli,1.6,0.7,Udinese,,Stadio San Paolo,Daniele Chiffi,https://fbref.com/en/matches/6ed7c7da/Napoli-Udinese-July-19-2020-Serie-A,2,1
+SerieA,2019-2020,34,Sun,2020-07-19,19:30,Fiorentina,1.5,0.4,Torino,,Stadio Artemio Franchi,Maurizio Mariani,https://fbref.com/en/matches/705f5fe5/Fiorentina-Torino-July-19-2020-Serie-A,2,0
+SerieA,2019-2020,34,Sun,2020-07-19,19:30,Brescia,1.2,1.7,SPAL,,Stadio Mario Rigamonti,Eugenio Abbattista,https://fbref.com/en/matches/d2bd21de/Brescia-SPAL-July-19-2020-Serie-A,2,1
+SerieA,2019-2020,34,Sun,2020-07-19,19:30,Genoa,0.4,2.0,Lecce,,Stadio Comunale Luigi Ferraris,Daniele Doveri,https://fbref.com/en/matches/27ba435a/Genoa-Lecce-July-19-2020-Serie-A,2,1
+SerieA,2019-2020,34,Sun,2020-07-19,21:45,Roma,1.4,1.4,Inter,,Stadio Olimpico,Marco Di Bello,https://fbref.com/en/matches/e128fda4/Roma-Internazionale-July-19-2020-Serie-A,2,2
+SerieA,2019-2020,34,Mon,2020-07-20,21:45,Juventus,3.0,1.3,Lazio,,Allianz Stadium,Daniele Orsato,https://fbref.com/en/matches/588b69d5/Juventus-Lazio-July-20-2020-Serie-A,2,1
+SerieA,2019-2020,35,Tue,2020-07-21,19:30,Atalanta,2.0,0.4,Bologna,,Stadio Atleti Azzurri d'Italia,Federico La Penna,https://fbref.com/en/matches/6d15b9b8/Atalanta-Bologna-July-21-2020-Serie-A,1,0
+SerieA,2019-2020,35,Tue,2020-07-21,21:45,Sassuolo,1.2,2.1,Milan,,Stadio Città del Tricolore,Luca Pairetto,https://fbref.com/en/matches/d5ac1520/Sassuolo-Milan-July-21-2020-Serie-A,1,2
+SerieA,2019-2020,35,Wed,2020-07-22,19:30,Parma,2.0,1.7,Napoli,,Stadio Ennio Tardini,Antonio Giua,https://fbref.com/en/matches/859ed9c8/Parma-Napoli-July-22-2020-Serie-A,2,1
+SerieA,2019-2020,35,Wed,2020-07-22,21:45,SPAL,0.7,1.8,Roma,,Stadio Paolo Mazza,Gianluca Manganiello,https://fbref.com/en/matches/f525b6e8/SPAL-Roma-July-22-2020-Serie-A,1,6
+SerieA,2019-2020,35,Wed,2020-07-22,21:45,Inter,2.3,0.9,Fiorentina,,Stadio Giuseppe Meazza,Piero Giacomelli,https://fbref.com/en/matches/ab64eb44/Internazionale-Fiorentina-July-22-2020-Serie-A,0,0
+SerieA,2019-2020,35,Wed,2020-07-22,21:45,Sampdoria,1.3,1.0,Genoa,,Stadio Comunale Luigi Ferraris,Marco Guida,https://fbref.com/en/matches/4f400c38/Sampdoria-Genoa-July-22-2020-Serie-A,1,2
+SerieA,2019-2020,35,Wed,2020-07-22,21:45,Torino,0.9,1.4,Hellas Verona,,Stadio Olimpico di Torino,Paolo Valeri,https://fbref.com/en/matches/a97c607e/Torino-Hellas-Verona-July-22-2020-Serie-A,1,1
+SerieA,2019-2020,35,Wed,2020-07-22,21:45,Lecce,2.7,0.8,Brescia,,Stadio Comunale Via Del Mare,Fabio Maresca,https://fbref.com/en/matches/c7b804c0/Lecce-Brescia-July-22-2020-Serie-A,3,1
+SerieA,2019-2020,35,Thu,2020-07-23,19:30,Udinese,1.0,0.7,Juventus,,Dacia Arena,Massimiliano Irrati,https://fbref.com/en/matches/bd1039f3/Udinese-Juventus-July-23-2020-Serie-A,2,1
+SerieA,2019-2020,35,Thu,2020-07-23,21:45,Lazio,1.5,0.5,Cagliari,,Stadio Olimpico,Marco Piccinini,https://fbref.com/en/matches/ac261955/Lazio-Cagliari-July-23-2020-Serie-A,2,1
+SerieA,2019-2020,36,Fri,2020-07-24,21:45,Milan,0.5,1.8,Atalanta,,Stadio Giuseppe Meazza,Daniele Doveri,https://fbref.com/en/matches/8eb861f9/Milan-Atalanta-July-24-2020-Serie-A,1,1
+SerieA,2019-2020,36,Sat,2020-07-25,17:15,Brescia,1.6,1.3,Parma,,Stadio Mario Rigamonti,Lorenzo Maggioni,https://fbref.com/en/matches/22a89a37/Brescia-Parma-July-25-2020-Serie-A,1,2
+SerieA,2019-2020,36,Sat,2020-07-25,19:30,Genoa,0.4,1.8,Inter,,Stadio Comunale Luigi Ferraris,Davide Massa,https://fbref.com/en/matches/ae7acfba/Genoa-Internazionale-July-25-2020-Serie-A,0,3
+SerieA,2019-2020,36,Sat,2020-07-25,21:45,Napoli,2.1,0.3,Sassuolo,,Stadio San Paolo,Gianluca Aureliano,https://fbref.com/en/matches/d0a7b712/Napoli-Sassuolo-July-25-2020-Serie-A,2,0
+SerieA,2019-2020,36,Sun,2020-07-26,17:15,Bologna,2.6,2.5,Lecce,,Stadio Renato Dall'Ara,Giampaolo Calvarese,https://fbref.com/en/matches/5bfe966b/Bologna-Lecce-July-26-2020-Serie-A,3,2
+SerieA,2019-2020,36,Sun,2020-07-26,19:30,Roma,2.8,0.7,Fiorentina,,Stadio Olimpico,Daniele Chiffi,https://fbref.com/en/matches/66a750bd/Roma-Fiorentina-July-26-2020-Serie-A,2,1
+SerieA,2019-2020,36,Sun,2020-07-26,19:30,Cagliari,1.3,0.9,Udinese,,Sardegna Arena,Fabrizio Pasqua,https://fbref.com/en/matches/f09e4b58/Cagliari-Udinese-July-26-2020-Serie-A,0,1
+SerieA,2019-2020,36,Sun,2020-07-26,19:30,SPAL,0.3,1.8,Torino,,Stadio Paolo Mazza,Rosario Abisso,https://fbref.com/en/matches/ab419e0b/SPAL-Torino-July-26-2020-Serie-A,1,1
+SerieA,2019-2020,36,Sun,2020-07-26,19:30,Hellas Verona,1.8,2.4,Lazio,,Stadio Marc'Antonio Bentegodi,Manuel Volpi,https://fbref.com/en/matches/e67f3da1/Hellas-Verona-Lazio-July-26-2020-Serie-A,1,5
+SerieA,2019-2020,36,Sun,2020-07-26,21:45,Juventus,2.6,1.2,Sampdoria,,Allianz Stadium,Francesco Fourneau,https://fbref.com/en/matches/d2da585b/Juventus-Sampdoria-July-26-2020-Serie-A,2,0
+SerieA,2019-2020,37,Tue,2020-07-28,19:30,Parma,1.7,1.3,Atalanta,,Stadio Ennio Tardini,Luca Pairetto,https://fbref.com/en/matches/3ed750d6/Parma-Atalanta-July-28-2020-Serie-A,1,2
+SerieA,2019-2020,37,Tue,2020-07-28,21:45,Inter,0.9,1.0,Napoli,,Stadio Giuseppe Meazza,Paolo Valeri,https://fbref.com/en/matches/e5481cdd/Internazionale-Napoli-July-28-2020-Serie-A,2,0
+SerieA,2019-2020,37,Wed,2020-07-29,19:30,Sassuolo,2.9,1.0,Genoa,,Stadio Città del Tricolore,Fabio Maresca,https://fbref.com/en/matches/dd1b303e/Sassuolo-Genoa-July-29-2020-Serie-A,5,0
+SerieA,2019-2020,37,Wed,2020-07-29,19:30,Hellas Verona,2.9,0.8,SPAL,,Stadio Marc'Antonio Bentegodi,Simone Sozza,https://fbref.com/en/matches/5d41021d/Hellas-Verona-SPAL-July-29-2020-Serie-A,3,0
+SerieA,2019-2020,37,Wed,2020-07-29,19:30,Sampdoria,3.2,2.5,Milan,,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,https://fbref.com/en/matches/f37d9898/Sampdoria-Milan-July-29-2020-Serie-A,1,4
+SerieA,2019-2020,37,Wed,2020-07-29,19:30,Udinese,1.0,1.9,Lecce,,Dacia Arena,Daniele Orsato,https://fbref.com/en/matches/6f8b0e57/Udinese-Lecce-July-29-2020-Serie-A,1,2
+SerieA,2019-2020,37,Wed,2020-07-29,19:30,Lazio,4.4,0.7,Brescia,,Stadio Olimpico,Luca Massimi,https://fbref.com/en/matches/b0e8501c/Lazio-Brescia-July-29-2020-Serie-A,2,0
+SerieA,2019-2020,37,Wed,2020-07-29,21:45,Fiorentina,2.2,1.6,Bologna,,Stadio Artemio Franchi,Marco Di Bello,https://fbref.com/en/matches/0a478689/Fiorentina-Bologna-July-29-2020-Serie-A,4,0
+SerieA,2019-2020,37,Wed,2020-07-29,21:45,Cagliari,0.9,1.7,Juventus,,Sardegna Arena,Davide Ghersini,https://fbref.com/en/matches/7c93a395/Cagliari-Juventus-July-29-2020-Serie-A,2,0
+SerieA,2019-2020,37,Wed,2020-07-29,21:45,Torino,0.9,2.6,Roma,,Stadio Olimpico di Torino,Marco Piccinini,https://fbref.com/en/matches/710a1dbf/Torino-Roma-July-29-2020-Serie-A,2,3
+SerieA,2019-2020,38,Sat,2020-08-01,18:00,Brescia,1.7,2.3,Sampdoria,,Stadio Mario Rigamonti,Michael Fabbri,https://fbref.com/en/matches/d1352c1c/Brescia-Sampdoria-August-1-2020-Serie-A,1,1
+SerieA,2019-2020,38,Sat,2020-08-01,20:45,Napoli,2.1,0.6,Lazio,,Stadio San Paolo,Giampaolo Calvarese,https://fbref.com/en/matches/671ca1ba/Napoli-Lazio-August-1-2020-Serie-A,3,1
+SerieA,2019-2020,38,Sat,2020-08-01,20:45,Atalanta,1.1,1.2,Inter,,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,https://fbref.com/en/matches/a49b41b1/Atalanta-Internazionale-August-1-2020-Serie-A,0,2
+SerieA,2019-2020,38,Sat,2020-08-01,20:45,Juventus,0.9,1.9,Roma,,Allianz Stadium,Gianluca Rocchi,https://fbref.com/en/matches/6277f415/Juventus-Roma-August-1-2020-Serie-A,1,3
+SerieA,2019-2020,38,Sat,2020-08-01,20:45,Milan,3.0,0.5,Cagliari,,Stadio Giuseppe Meazza,Marco Serra,https://fbref.com/en/matches/d4584839/Milan-Cagliari-August-1-2020-Serie-A,3,0
+SerieA,2019-2020,38,Sun,2020-08-02,18:00,SPAL,0.6,2.9,Fiorentina,,Stadio Paolo Mazza,Alessandro Prontera,https://fbref.com/en/matches/73dc3e92/SPAL-Fiorentina-August-2-2020-Serie-A,1,3
+SerieA,2019-2020,38,Sun,2020-08-02,20:45,Genoa,1.1,1.1,Hellas Verona,,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,https://fbref.com/en/matches/014d1244/Genoa-Hellas-Verona-August-2-2020-Serie-A,3,0
+SerieA,2019-2020,38,Sun,2020-08-02,20:45,Lecce,2.3,3.2,Parma,,Stadio Comunale Via Del Mare,Maurizio Mariani,https://fbref.com/en/matches/a2f2dce1/Lecce-Parma-August-2-2020-Serie-A,3,4
+SerieA,2019-2020,38,Sun,2020-08-02,20:45,Bologna,1.1,1.3,Torino,,Stadio Renato Dall'Ara,Antonio Di Martino,https://fbref.com/en/matches/9d9f22b7/Bologna-Torino-August-2-2020-Serie-A,1,1
+SerieA,2019-2020,38,Sun,2020-08-02,20:45,Sassuolo,1.5,2.1,Udinese,,Stadio Città del Tricolore,Daniel Amabile,https://fbref.com/en/matches/6fc1b0dd/Sassuolo-Udinese-August-2-2020-Serie-A,0,1

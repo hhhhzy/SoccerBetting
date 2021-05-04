@@ -1,0 +1,307 @@
+League,Season,Wk,Day,Date,Time,HomeTeam,xG_Home,xG_Away,AwayTeam,Attendance,Venue,Referee,Match Report,HomeScore,AwayScore
+Bundesliga,2020-2021,1,Fri,2020-09-18,20:30,Bayern Munich,5.1,0.2,Schalke 04,,Allianz Arena,Felix Zwayer,https://fbref.com/en/matches/11678092/Bayern-Munich-Schalke-04-September-18-2020-Bundesliga,8,0
+Bundesliga,2020-2021,1,Sat,2020-09-19,15:30,Köln,2.1,3.1,Hoffenheim,,RheinEnergieSTADION,Daniel Siebert,https://fbref.com/en/matches/4504b4a4/Koln-Hoffenheim-September-19-2020-Bundesliga,2,3
+Bundesliga,2020-2021,1,Sat,2020-09-19,15:30,Eint Frankfurt,1.6,1.0,Arminia,6500,Commerzbank-Arena,Benjamin Brand,https://fbref.com/en/matches/e10b719d/Eintracht-Frankfurt-Arminia-September-19-2020-Bundesliga,1,1
+Bundesliga,2020-2021,1,Sat,2020-09-19,15:30,Werder Bremen,1.0,2.1,Hertha BSC,8400,Weserstadion,Sascha Stegemann,https://fbref.com/en/matches/dd3427f7/Werder-Bremen-Hertha-BSC-September-19-2020-Bundesliga,1,4
+Bundesliga,2020-2021,1,Sat,2020-09-19,15:30,Union Berlin,1.3,1.1,Augsburg,4600,Stadion An der Alten Försterei,Marco Fritz,https://fbref.com/en/matches/74ee6b62/Union-Berlin-Augsburg-September-19-2020-Bundesliga,1,3
+Bundesliga,2020-2021,1,Sat,2020-09-19,15:30,Stuttgart,3.1,2.0,Freiburg,7123,Mercedes-Benz Arena,Benjamin Cortus,https://fbref.com/en/matches/8dd8f0c2/Stuttgart-Freiburg-September-19-2020-Bundesliga,2,3
+Bundesliga,2020-2021,1,Sat,2020-09-19,18:30,Dortmund,1.6,0.6,M'Gladbach,9300,Signal Iduna Park,Felix Brych,https://fbref.com/en/matches/991d308f/Dortmund-Monchengladbach-September-19-2020-Bundesliga,3,0
+Bundesliga,2020-2021,1,Sun,2020-09-20,15:30,RB Leipzig,2.8,1.2,Mainz 05,8500,Red Bull Arena,Manuel Gräfe,https://fbref.com/en/matches/101ecf68/RB-Leipzig-Mainz-05-September-20-2020-Bundesliga,3,1
+Bundesliga,2020-2021,1,Sun,2020-09-20,18:00,Wolfsburg,1.0,0.7,Leverkusen,,Volkswagen Arena,Sven Jablonski,https://fbref.com/en/matches/53a856bf/Wolfsburg-Bayer-Leverkusen-September-20-2020-Bundesliga,0,0
+Bundesliga,2020-2021,2,Fri,2020-09-25,20:30,Hertha BSC,1.1,1.7,Eint Frankfurt,4000,Olympiastadion Berlin,Bastian Dankert,https://fbref.com/en/matches/8c8f082f/Hertha-BSC-Eintracht-Frankfurt-September-25-2020-Bundesliga,1,3
+Bundesliga,2020-2021,2,Sat,2020-09-26,15:30,Mainz 05,1.2,2.7,Stuttgart,3403,Opel Arena,Daniel Schlager,https://fbref.com/en/matches/e2a3b864/Mainz-05-Stuttgart-September-26-2020-Bundesliga,1,4
+Bundesliga,2020-2021,2,Sat,2020-09-26,15:30,Arminia,0.2,0.9,Köln,5460,SchücoArena,Patrick Ittrich,https://fbref.com/en/matches/ef9b03d6/Arminia-Koln-September-26-2020-Bundesliga,1,0
+Bundesliga,2020-2021,2,Sat,2020-09-26,15:30,Leverkusen,0.8,0.8,RB Leipzig,6042,BayArena,Harm Osmers,https://fbref.com/en/matches/8e94dce6/Bayer-Leverkusen-RB-Leipzig-September-26-2020-Bundesliga,1,1
+Bundesliga,2020-2021,2,Sat,2020-09-26,15:30,M'Gladbach,1.3,0.9,Union Berlin,10383,Stadion im Borussia-Park,Tobias Stieler,https://fbref.com/en/matches/9a25fd98/Monchengladbach-Union-Berlin-September-26-2020-Bundesliga,1,1
+Bundesliga,2020-2021,2,Sat,2020-09-26,15:30,Augsburg,1.0,1.7,Dortmund,6000,WWK Arena,Martin Petersen,https://fbref.com/en/matches/88a5c544/Augsburg-Dortmund-September-26-2020-Bundesliga,2,0
+Bundesliga,2020-2021,2,Sat,2020-09-26,18:30,Schalke 04,1.2,2.4,Werder Bremen,,Veltins-Arena,Markus Schmidt,https://fbref.com/en/matches/075c3255/Schalke-04-Werder-Bremen-September-26-2020-Bundesliga,1,3
+Bundesliga,2020-2021,2,Sun,2020-09-27,15:30,Hoffenheim,4.0,1.6,Bayern Munich,,PreZero Arena,Benjamin Brand,https://fbref.com/en/matches/8971a37b/Hoffenheim-Bayern-Munich-September-27-2020-Bundesliga,4,1
+Bundesliga,2020-2021,2,Sun,2020-09-27,18:00,Freiburg,1.5,0.6,Wolfsburg,3200,Schwarzwald-Stadion,Sören Storks,https://fbref.com/en/matches/5ffa4b38/Freiburg-Wolfsburg-September-27-2020-Bundesliga,1,1
+Bundesliga,2020-2021,3,Fri,2020-10-02,20:30,Union Berlin,1.9,0.2,Mainz 05,4400,Stadion An der Alten Försterei,Sascha Stegemann,https://fbref.com/en/matches/649ae6b0/Union-Berlin-Mainz-05-October-2-2020-Bundesliga,4,0
+Bundesliga,2020-2021,3,Sat,2020-10-03,15:30,Stuttgart,0.8,1.4,Leverkusen,9500,Mercedes-Benz Arena,Robert Hartmann,https://fbref.com/en/matches/1ec41087/Stuttgart-Bayer-Leverkusen-October-3-2020-Bundesliga,1,1
+Bundesliga,2020-2021,3,Sat,2020-10-03,15:30,Werder Bremen,0.4,0.9,Arminia,300,Weserstadion,Robert Schröder,https://fbref.com/en/matches/bc73b667/Werder-Bremen-Arminia-October-3-2020-Bundesliga,1,0
+Bundesliga,2020-2021,3,Sat,2020-10-03,15:30,Köln,0.8,2.2,M'Gladbach,300,RheinEnergieSTADION,Marco Fritz,https://fbref.com/en/matches/a637d328/Koln-Monchengladbach-October-3-2020-Bundesliga,1,3
+Bundesliga,2020-2021,3,Sat,2020-10-03,15:30,Dortmund,3.1,0.6,Freiburg,11500,Signal Iduna Park,Guido Winkmann,https://fbref.com/en/matches/9d4a82ad/Dortmund-Freiburg-October-3-2020-Bundesliga,4,0
+Bundesliga,2020-2021,3,Sat,2020-10-03,15:30,Eint Frankfurt,2.6,0.5,Hoffenheim,8000,Commerzbank-Arena,Manuel Gräfe,https://fbref.com/en/matches/d3eb7718/Eintracht-Frankfurt-Hoffenheim-October-3-2020-Bundesliga,2,1
+Bundesliga,2020-2021,3,Sat,2020-10-03,18:30,RB Leipzig,3.2,0.1,Schalke 04,8500,Red Bull Arena,Florian Badstübner,https://fbref.com/en/matches/025d99fb/RB-Leipzig-Schalke-04-October-3-2020-Bundesliga,4,0
+Bundesliga,2020-2021,3,Sun,2020-10-04,15:30,Wolfsburg,1.2,0.9,Augsburg,4632,Volkswagen Arena,Felix Zwayer,https://fbref.com/en/matches/1efab835/Wolfsburg-Augsburg-October-4-2020-Bundesliga,0,0
+Bundesliga,2020-2021,3,Sun,2020-10-04,18:00,Bayern Munich,3.8,1.4,Hertha BSC,,Allianz Arena,Benjamin Cortus,https://fbref.com/en/matches/3bf886c0/Bayern-Munich-Hertha-BSC-October-4-2020-Bundesliga,4,3
+Bundesliga,2020-2021,4,Sat,2020-10-17,15:30,Hertha BSC,1.2,0.8,Stuttgart,4000,Olympiastadion Berlin,Harm Osmers,https://fbref.com/en/matches/c77a129a/Hertha-BSC-Stuttgart-October-17-2020-Bundesliga,0,2
+Bundesliga,2020-2021,4,Sat,2020-10-17,15:30,Freiburg,1.0,1.6,Werder Bremen,,Schwarzwald-Stadion,Christian Dingert,https://fbref.com/en/matches/7c35b420/Freiburg-Werder-Bremen-October-17-2020-Bundesliga,1,1
+Bundesliga,2020-2021,4,Sat,2020-10-17,15:30,Hoffenheim,1.0,2.4,Dortmund,6030,PreZero Arena,Sascha Stegemann,https://fbref.com/en/matches/baeada79/Hoffenheim-Dortmund-October-17-2020-Bundesliga,0,1
+Bundesliga,2020-2021,4,Sat,2020-10-17,15:30,Augsburg,0.7,1.7,RB Leipzig,,WWK Arena,Felix Brych,https://fbref.com/en/matches/3a5c7b34/Augsburg-RB-Leipzig-October-17-2020-Bundesliga,0,2
+Bundesliga,2020-2021,4,Sat,2020-10-17,15:30,Mainz 05,0.3,0.5,Leverkusen,250,Opel Arena,Bastian Dankert,https://fbref.com/en/matches/f6278a67/Mainz-05-Bayer-Leverkusen-October-17-2020-Bundesliga,0,1
+Bundesliga,2020-2021,4,Sat,2020-10-17,18:30,Arminia,1.4,2.6,Bayern Munich,,SchücoArena,Daniel Siebert,https://fbref.com/en/matches/ce692f09/Arminia-Bayern-Munich-October-17-2020-Bundesliga,1,4
+Bundesliga,2020-2021,4,Sat,2020-10-17,20:30,M'Gladbach,1.6,1.2,Wolfsburg,300,Stadion im Borussia-Park,Daniel Schlager,https://fbref.com/en/matches/b8617eda/Monchengladbach-Wolfsburg-October-17-2020-Bundesliga,1,1
+Bundesliga,2020-2021,4,Sun,2020-10-18,15:30,Köln,1.1,2.1,Eint Frankfurt,300,RheinEnergieSTADION,Sven Jablonski,https://fbref.com/en/matches/163e88ac/Koln-Eintracht-Frankfurt-October-18-2020-Bundesliga,1,1
+Bundesliga,2020-2021,4,Sun,2020-10-18,18:00,Schalke 04,0.3,0.9,Union Berlin,300,Veltins-Arena,Patrick Ittrich,https://fbref.com/en/matches/db279a43/Schalke-04-Union-Berlin-October-18-2020-Bundesliga,1,1
+Bundesliga,2020-2021,5,Fri,2020-10-23,20:30,Stuttgart,0.7,2.2,Köln,,Mercedes-Benz Arena,Guido Winkmann,https://fbref.com/en/matches/d3537d39/Stuttgart-Koln-October-23-2020-Bundesliga,1,1
+Bundesliga,2020-2021,5,Sat,2020-10-24,15:30,Union Berlin,1.3,0.4,Freiburg,4500,Stadion An der Alten Försterei,Robert Schröder,https://fbref.com/en/matches/1f119187/Union-Berlin-Freiburg-October-24-2020-Bundesliga,1,1
+Bundesliga,2020-2021,5,Sat,2020-10-24,15:30,RB Leipzig,2.3,0.9,Hertha BSC,999,Red Bull Arena,Tobias Stieler,https://fbref.com/en/matches/c32831c6/RB-Leipzig-Hertha-BSC-October-24-2020-Bundesliga,2,1
+Bundesliga,2020-2021,5,Sat,2020-10-24,15:30,Bayern Munich,3.4,0.5,Eint Frankfurt,,Allianz Arena,Markus Schmidt,https://fbref.com/en/matches/af438ae3/Bayern-Munich-Eintracht-Frankfurt-October-24-2020-Bundesliga,5,0
+Bundesliga,2020-2021,5,Sat,2020-10-24,15:30,Mainz 05,1.7,2.9,M'Gladbach,100,Opel Arena,Frank Willenborg,https://fbref.com/en/matches/12c438d6/Mainz-05-Monchengladbach-October-24-2020-Bundesliga,2,3
+Bundesliga,2020-2021,5,Sat,2020-10-24,18:30,Dortmund,1.5,0.2,Schalke 04,300,Signal Iduna Park,Felix Zwayer,https://fbref.com/en/matches/629d89ee/Revierderby-Dortmund-Schalke-04-October-24-2020-Bundesliga,3,0
+Bundesliga,2020-2021,5,Sun,2020-10-25,15:30,Wolfsburg,2.1,0.4,Arminia,4519,Volkswagen Arena,Manuel Gräfe,https://fbref.com/en/matches/c83ec185/Wolfsburg-Arminia-October-25-2020-Bundesliga,2,1
+Bundesliga,2020-2021,5,Sun,2020-10-25,18:00,Werder Bremen,0.3,1.2,Hoffenheim,,Weserstadion,Daniel Schlager,https://fbref.com/en/matches/273f5f16/Werder-Bremen-Hoffenheim-October-25-2020-Bundesliga,1,1
+Bundesliga,2020-2021,5,Mon,2020-10-26,20:30,Leverkusen,2.8,0.4,Augsburg,,BayArena,Sören Storks,https://fbref.com/en/matches/6f4ef7ee/Bayer-Leverkusen-Augsburg-October-26-2020-Bundesliga,3,1
+Bundesliga,2020-2021,6,Fri,2020-10-30,20:30,Schalke 04,0.5,1.6,Stuttgart,,Veltins-Arena,Benjamin Brand,https://fbref.com/en/matches/e7c061a0/Schalke-04-Stuttgart-October-30-2020-Bundesliga,1,1
+Bundesliga,2020-2021,6,Sat,2020-10-31,15:30,Arminia,0.2,2.7,Dortmund,,SchücoArena,Bastian Dankert,https://fbref.com/en/matches/96ae2bee/Arminia-Dortmund-October-31-2020-Bundesliga,0,2
+Bundesliga,2020-2021,6,Sat,2020-10-31,15:30,Augsburg,2.0,0.8,Mainz 05,,WWK Arena,Marco Fritz,https://fbref.com/en/matches/2bdf2fcc/Augsburg-Mainz-05-October-31-2020-Bundesliga,3,1
+Bundesliga,2020-2021,6,Sat,2020-10-31,15:30,Köln,1.0,1.0,Bayern Munich,,RheinEnergieSTADION,Frank Willenborg,https://fbref.com/en/matches/7c7206ed/Koln-Bayern-Munich-October-31-2020-Bundesliga,1,2
+Bundesliga,2020-2021,6,Sat,2020-10-31,15:30,Eint Frankfurt,2.0,0.9,Werder Bremen,,Commerzbank-Arena,Felix Brych,https://fbref.com/en/matches/0b235a19/Eintracht-Frankfurt-Werder-Bremen-October-31-2020-Bundesliga,1,1
+Bundesliga,2020-2021,6,Sat,2020-10-31,18:30,M'Gladbach,0.5,0.9,RB Leipzig,,Stadion im Borussia-Park,Daniel Siebert,https://fbref.com/en/matches/6a6c8aec/Monchengladbach-RB-Leipzig-October-31-2020-Bundesliga,1,0
+Bundesliga,2020-2021,6,Sun,2020-11-01,15:30,Freiburg,1.1,1.5,Leverkusen,,Schwarzwald-Stadion,Benjamin Cortus,https://fbref.com/en/matches/6fe64a38/Freiburg-Bayer-Leverkusen-November-1-2020-Bundesliga,2,4
+Bundesliga,2020-2021,6,Sun,2020-11-01,18:00,Hertha BSC,1.2,0.5,Wolfsburg,,Olympiastadion Berlin,Martin Petersen,https://fbref.com/en/matches/94984357/Hertha-BSC-Wolfsburg-November-1-2020-Bundesliga,1,1
+Bundesliga,2020-2021,6,Mon,2020-11-02,20:30,Hoffenheim,1.3,4.0,Union Berlin,,PreZero Arena,Robert Hartmann,https://fbref.com/en/matches/fb015b0b/Hoffenheim-Union-Berlin-November-2-2020-Bundesliga,1,3
+Bundesliga,2020-2021,7,Fri,2020-11-06,20:30,Werder Bremen,1.7,0.4,Köln,,Weserstadion,Florian Badstübner,https://fbref.com/en/matches/8352703b/Werder-Bremen-Koln-November-6-2020-Bundesliga,1,1
+Bundesliga,2020-2021,7,Sat,2020-11-07,15:30,Augsburg,0.7,2.4,Hertha BSC,,WWK Arena,Frank Willenborg,https://fbref.com/en/matches/46ddc6a2/Augsburg-Hertha-BSC-November-7-2020-Bundesliga,0,3
+Bundesliga,2020-2021,7,Sat,2020-11-07,15:30,RB Leipzig,2.0,1.0,Freiburg,,Red Bull Arena,Felix Zwayer,https://fbref.com/en/matches/8d222b37/RB-Leipzig-Freiburg-November-7-2020-Bundesliga,3,0
+Bundesliga,2020-2021,7,Sat,2020-11-07,15:30,Mainz 05,3.1,1.7,Schalke 04,,Opel Arena,Patrick Ittrich,https://fbref.com/en/matches/f12d89c7/Mainz-05-Schalke-04-November-7-2020-Bundesliga,2,2
+Bundesliga,2020-2021,7,Sat,2020-11-07,15:30,Union Berlin,2.1,0.3,Arminia,,Stadion An der Alten Försterei,Matthias Jöllenbeck,https://fbref.com/en/matches/38dda32f/Union-Berlin-Arminia-November-7-2020-Bundesliga,5,0
+Bundesliga,2020-2021,7,Sat,2020-11-07,15:30,Stuttgart,2.3,2.4,Eint Frankfurt,,Mercedes-Benz Arena,Sascha Stegemann,https://fbref.com/en/matches/a25b620f/Stuttgart-Eintracht-Frankfurt-November-7-2020-Bundesliga,2,2
+Bundesliga,2020-2021,7,Sat,2020-11-07,18:30,Dortmund,2.0,1.1,Bayern Munich,,Signal Iduna Park,Manuel Gräfe,https://fbref.com/en/matches/ec674186/Der-Klassiker-Dortmund-Bayern-Munich-November-7-2020-Bundesliga,2,3
+Bundesliga,2020-2021,7,Sun,2020-11-08,15:30,Wolfsburg,2.0,2.0,Hoffenheim,,Volkswagen Arena,Sven Jablonski,https://fbref.com/en/matches/eec9aa71/Wolfsburg-Hoffenheim-November-8-2020-Bundesliga,2,1
+Bundesliga,2020-2021,7,Sun,2020-11-08,18:00,Leverkusen,1.6,2.5,M'Gladbach,,BayArena,Harm Osmers,https://fbref.com/en/matches/71df6f3d/Bayer-Leverkusen-Monchengladbach-November-8-2020-Bundesliga,4,3
+Bundesliga,2020-2021,8,Sat,2020-11-21,15:30,Arminia,0.0,1.5,Leverkusen,,SchücoArena,Felix Brych,https://fbref.com/en/matches/b80c1dd8/Arminia-Bayer-Leverkusen-November-21-2020-Bundesliga,1,2
+Bundesliga,2020-2021,8,Sat,2020-11-21,15:30,Bayern Munich,1.2,1.4,Werder Bremen,,Allianz Arena,Guido Winkmann,https://fbref.com/en/matches/f5b4d139/Bayern-Munich-Werder-Bremen-November-21-2020-Bundesliga,1,1
+Bundesliga,2020-2021,8,Sat,2020-11-21,15:30,Schalke 04,0.9,2.1,Wolfsburg,,Veltins-Arena,Marco Fritz,https://fbref.com/en/matches/bdcf9a62/Schalke-04-Wolfsburg-November-21-2020-Bundesliga,0,2
+Bundesliga,2020-2021,8,Sat,2020-11-21,15:30,Hoffenheim,1.9,2.1,Stuttgart,,PreZero Arena,Daniel Siebert,https://fbref.com/en/matches/478c5305/Hoffenheim-Stuttgart-November-21-2020-Bundesliga,3,3
+Bundesliga,2020-2021,8,Sat,2020-11-21,15:30,M'Gladbach,2.0,0.7,Augsburg,,Stadion im Borussia-Park,Markus Schmidt,https://fbref.com/en/matches/02aa5acd/Monchengladbach-Augsburg-November-21-2020-Bundesliga,1,1
+Bundesliga,2020-2021,8,Sat,2020-11-21,18:30,Eint Frankfurt,1.1,0.9,RB Leipzig,,Commerzbank-Arena,Sören Storks,https://fbref.com/en/matches/f8357e6a/Eintracht-Frankfurt-RB-Leipzig-November-21-2020-Bundesliga,1,1
+Bundesliga,2020-2021,8,Sat,2020-11-21,20:30,Hertha BSC,1.3,3.5,Dortmund,,Olympiastadion Berlin,Bastian Dankert,https://fbref.com/en/matches/ab6f55a9/Hertha-BSC-Dortmund-November-21-2020-Bundesliga,2,5
+Bundesliga,2020-2021,8,Sun,2020-11-22,15:30,Freiburg,2.2,2.8,Mainz 05,,Schwarzwald-Stadion,Martin Petersen,https://fbref.com/en/matches/caed261c/Freiburg-Mainz-05-November-22-2020-Bundesliga,1,3
+Bundesliga,2020-2021,8,Sun,2020-11-22,18:00,Köln,0.7,1.9,Union Berlin,,RheinEnergieSTADION,Tobias Stieler,https://fbref.com/en/matches/3cda5517/Koln-Union-Berlin-November-22-2020-Bundesliga,1,2
+Bundesliga,2020-2021,9,Fri,2020-11-27,20:30,Wolfsburg,1.8,1.0,Werder Bremen,,Volkswagen Arena,Christian Dingert,https://fbref.com/en/matches/d4fa762e/Wolfsburg-Werder-Bremen-November-27-2020-Bundesliga,5,3
+Bundesliga,2020-2021,9,Sat,2020-11-28,15:30,Dortmund,2.9,1.6,Köln,,Signal Iduna Park,Benjamin Brand,https://fbref.com/en/matches/c393f7a1/Dortmund-Koln-November-28-2020-Bundesliga,1,2
+Bundesliga,2020-2021,9,Sat,2020-11-28,15:30,RB Leipzig,2.3,1.3,Arminia,,Red Bull Arena,Robert Hartmann,https://fbref.com/en/matches/5ffaab95/RB-Leipzig-Arminia-November-28-2020-Bundesliga,2,1
+Bundesliga,2020-2021,9,Sat,2020-11-28,15:30,Augsburg,0.4,0.8,Freiburg,,WWK Arena,Robert Schröder,https://fbref.com/en/matches/cb328c3c/Augsburg-Freiburg-November-28-2020-Bundesliga,1,1
+Bundesliga,2020-2021,9,Sat,2020-11-28,15:30,Stuttgart,1.8,1.0,Bayern Munich,,Mercedes-Benz Arena,Harm Osmers,https://fbref.com/en/matches/4a8ddb65/Stuttgart-Bayern-Munich-November-28-2020-Bundesliga,1,3
+Bundesliga,2020-2021,9,Sat,2020-11-28,15:30,Union Berlin,2.8,2.0,Eint Frankfurt,,Stadion An der Alten Försterei,Tobias Reichel,https://fbref.com/en/matches/64622ffd/Union-Berlin-Eintracht-Frankfurt-November-28-2020-Bundesliga,3,3
+Bundesliga,2020-2021,9,Sat,2020-11-28,18:30,M'Gladbach,3.1,1.0,Schalke 04,,Stadion im Borussia-Park,Manuel Gräfe,https://fbref.com/en/matches/56d26e32/Monchengladbach-Schalke-04-November-28-2020-Bundesliga,4,1
+Bundesliga,2020-2021,9,Sun,2020-11-29,15:30,Leverkusen,0.7,0.4,Hertha BSC,,BayArena,Daniel Schlager,https://fbref.com/en/matches/30a1f8cc/Bayer-Leverkusen-Hertha-BSC-November-29-2020-Bundesliga,0,0
+Bundesliga,2020-2021,9,Sun,2020-11-29,18:00,Mainz 05,1.4,1.0,Hoffenheim,,Opel Arena,Sascha Stegemann,https://fbref.com/en/matches/a3de8d5e/Mainz-05-Hoffenheim-November-29-2020-Bundesliga,1,1
+Bundesliga,2020-2021,10,Fri,2020-12-04,20:30,Hertha BSC,0.7,0.3,Union Berlin,,Olympiastadion Berlin,Felix Brych,https://fbref.com/en/matches/c4a6d2cc/Hertha-BSC-Union-Berlin-December-4-2020-Bundesliga,3,1
+Bundesliga,2020-2021,10,Sat,2020-12-05,15:30,Arminia,0.8,2.0,Mainz 05,,SchücoArena,Marco Fritz,https://fbref.com/en/matches/73dd2093/Arminia-Mainz-05-December-5-2020-Bundesliga,2,1
+Bundesliga,2020-2021,10,Sat,2020-12-05,15:30,Freiburg,3.3,1.3,M'Gladbach,,Schwarzwald-Stadion,Tobias Stieler,https://fbref.com/en/matches/e7ba3a20/Freiburg-Monchengladbach-December-5-2020-Bundesliga,2,2
+Bundesliga,2020-2021,10,Sat,2020-12-05,15:30,Eint Frankfurt,0.8,1.2,Dortmund,,Commerzbank-Arena,Guido Winkmann,https://fbref.com/en/matches/36709fbd/Eintracht-Frankfurt-Dortmund-December-5-2020-Bundesliga,1,1
+Bundesliga,2020-2021,10,Sat,2020-12-05,15:30,Köln,0.7,1.6,Wolfsburg,,RheinEnergieSTADION,Sven Jablonski,https://fbref.com/en/matches/6cef8dc8/Koln-Wolfsburg-December-5-2020-Bundesliga,2,2
+Bundesliga,2020-2021,10,Sat,2020-12-05,18:30,Bayern Munich,1.2,1.5,RB Leipzig,,Allianz Arena,Daniel Siebert,https://fbref.com/en/matches/c8992842/Bayern-Munich-RB-Leipzig-December-5-2020-Bundesliga,3,3
+Bundesliga,2020-2021,10,Sun,2020-12-06,15:30,Werder Bremen,0.8,2.3,Stuttgart,,Weserstadion,Frank Willenborg,https://fbref.com/en/matches/6d025baf/Werder-Bremen-Stuttgart-December-6-2020-Bundesliga,1,2
+Bundesliga,2020-2021,10,Sun,2020-12-06,18:00,Schalke 04,1.3,2.5,Leverkusen,,Veltins-Arena,Benjamin Cortus,https://fbref.com/en/matches/eee4567b/Schalke-04-Bayer-Leverkusen-December-6-2020-Bundesliga,0,3
+Bundesliga,2020-2021,10,Mon,2020-12-07,20:30,Hoffenheim,1.4,0.9,Augsburg,,PreZero Arena,Florian Badstübner,https://fbref.com/en/matches/8f6df758/Hoffenheim-Augsburg-December-7-2020-Bundesliga,3,1
+Bundesliga,2020-2021,11,Fri,2020-12-11,20:30,Wolfsburg,2.8,1.5,Eint Frankfurt,,Volkswagen Arena,Markus Schmidt,https://fbref.com/en/matches/240f8c0a/Wolfsburg-Eintracht-Frankfurt-December-11-2020-Bundesliga,2,1
+Bundesliga,2020-2021,11,Sat,2020-12-12,15:30,M'Gladbach,1.4,0.5,Hertha BSC,,Stadion im Borussia-Park,Robert Hartmann,https://fbref.com/en/matches/df729cb3/Monchengladbach-Hertha-BSC-December-12-2020-Bundesliga,1,1
+Bundesliga,2020-2021,11,Sat,2020-12-12,15:30,Dortmund,0.9,3.9,Stuttgart,,Signal Iduna Park,Christian Dingert,https://fbref.com/en/matches/87a4b896/Dortmund-Stuttgart-December-12-2020-Bundesliga,1,5
+Bundesliga,2020-2021,11,Sat,2020-12-12,15:30,Freiburg,2.7,0.2,Arminia,,Schwarzwald-Stadion,Harm Osmers,https://fbref.com/en/matches/1aa43542/Freiburg-Arminia-December-12-2020-Bundesliga,2,0
+Bundesliga,2020-2021,11,Sat,2020-12-12,15:30,Mainz 05,1.7,1.0,Köln,,Opel Arena,Felix Zwayer,https://fbref.com/en/matches/076b95dc/Mainz-05-Koln-December-12-2020-Bundesliga,0,1
+Bundesliga,2020-2021,11,Sat,2020-12-12,15:30,RB Leipzig,2.7,0.4,Werder Bremen,,Red Bull Arena,Sören Storks,https://fbref.com/en/matches/9bc517fc/RB-Leipzig-Werder-Bremen-December-12-2020-Bundesliga,2,0
+Bundesliga,2020-2021,11,Sat,2020-12-12,18:30,Union Berlin,1.3,0.9,Bayern Munich,,Stadion An der Alten Försterei,Bastian Dankert,https://fbref.com/en/matches/1bfffcbe/Union-Berlin-Bayern-Munich-December-12-2020-Bundesliga,1,1
+Bundesliga,2020-2021,11,Sun,2020-12-13,15:30,Augsburg,1.0,1.9,Schalke 04,,WWK Arena,Manuel Gräfe,https://fbref.com/en/matches/1be1089b/Augsburg-Schalke-04-December-13-2020-Bundesliga,2,2
+Bundesliga,2020-2021,11,Sun,2020-12-13,18:00,Leverkusen,2.3,1.6,Hoffenheim,,BayArena,Martin Petersen,https://fbref.com/en/matches/48c59488/Bayer-Leverkusen-Hoffenheim-December-13-2020-Bundesliga,4,1
+Bundesliga,2020-2021,12,Tue,2020-12-15,18:30,Eint Frankfurt,2.2,1.6,M'Gladbach,,Commerzbank-Arena,Benjamin Cortus,https://fbref.com/en/matches/cba299bc/Eintracht-Frankfurt-Monchengladbach-December-15-2020-Bundesliga,3,3
+Bundesliga,2020-2021,12,Tue,2020-12-15,20:30,Werder Bremen,0.2,2.8,Dortmund,,Weserstadion,Robert Schröder,https://fbref.com/en/matches/369b0951/Werder-Bremen-Dortmund-December-15-2020-Bundesliga,1,2
+Bundesliga,2020-2021,12,Tue,2020-12-15,20:30,Stuttgart,1.7,0.8,Union Berlin,,Mercedes-Benz Arena,Sascha Stegemann,https://fbref.com/en/matches/3aa4c82c/Stuttgart-Union-Berlin-December-15-2020-Bundesliga,2,2
+Bundesliga,2020-2021,12,Tue,2020-12-15,20:30,Hertha BSC,0.6,0.5,Mainz 05,,Olympiastadion Berlin,Matthias Jöllenbeck,https://fbref.com/en/matches/7e7be41f/Hertha-BSC-Mainz-05-December-15-2020-Bundesliga,0,0
+Bundesliga,2020-2021,12,Wed,2020-12-16,18:30,Schalke 04,0.4,1.4,Freiburg,,Veltins-Arena,Sven Jablonski,https://fbref.com/en/matches/71693047/Schalke-04-Freiburg-December-16-2020-Bundesliga,0,2
+Bundesliga,2020-2021,12,Wed,2020-12-16,20:30,Hoffenheim,0.8,0.3,RB Leipzig,,PreZero Arena,Daniel Schlager,https://fbref.com/en/matches/0536f31c/Hoffenheim-RB-Leipzig-December-16-2020-Bundesliga,0,1
+Bundesliga,2020-2021,12,Wed,2020-12-16,20:30,Köln,0.6,1.4,Leverkusen,,RheinEnergieSTADION,Tobias Stieler,https://fbref.com/en/matches/3a0c4b7f/Koln-Bayer-Leverkusen-December-16-2020-Bundesliga,0,4
+Bundesliga,2020-2021,12,Wed,2020-12-16,20:30,Bayern Munich,2.0,1.1,Wolfsburg,,Allianz Arena,Marco Fritz,https://fbref.com/en/matches/782ea29c/Bayern-Munich-Wolfsburg-December-16-2020-Bundesliga,2,1
+Bundesliga,2020-2021,12,Wed,2020-12-16,20:30,Arminia,0.8,0.6,Augsburg,,SchücoArena,Patrick Ittrich,https://fbref.com/en/matches/15fbebf1/Arminia-Augsburg-December-16-2020-Bundesliga,0,1
+Bundesliga,2020-2021,13,Fri,2020-12-18,20:30,Union Berlin,1.1,1.7,Dortmund,,Stadion An der Alten Försterei,Harm Osmers,https://fbref.com/en/matches/536a493e/Union-Berlin-Dortmund-December-18-2020-Bundesliga,2,1
+Bundesliga,2020-2021,13,Sat,2020-12-19,15:30,M'Gladbach,1.8,1.8,Hoffenheim,,Stadion im Borussia-Park,Frank Willenborg,https://fbref.com/en/matches/9cba4e5b/Monchengladbach-Hoffenheim-December-19-2020-Bundesliga,1,2
+Bundesliga,2020-2021,13,Sat,2020-12-19,15:30,Mainz 05,0.5,0.9,Werder Bremen,,Opel Arena,Guido Winkmann,https://fbref.com/en/matches/d94a7894/Mainz-05-Werder-Bremen-December-19-2020-Bundesliga,0,1
+Bundesliga,2020-2021,13,Sat,2020-12-19,15:30,Schalke 04,0.6,0.7,Arminia,,Veltins-Arena,Bastian Dankert,https://fbref.com/en/matches/844cb66a/Schalke-04-Arminia-December-19-2020-Bundesliga,0,1
+Bundesliga,2020-2021,13,Sat,2020-12-19,15:30,RB Leipzig,2.2,0.5,Köln,,Red Bull Arena,Felix Brych,https://fbref.com/en/matches/48fdc28d/RB-Leipzig-Koln-December-19-2020-Bundesliga,0,0
+Bundesliga,2020-2021,13,Sat,2020-12-19,15:30,Augsburg,2.0,1.3,Eint Frankfurt,,WWK Arena,Daniel Siebert,https://fbref.com/en/matches/025568f1/Augsburg-Eintracht-Frankfurt-December-19-2020-Bundesliga,0,2
+Bundesliga,2020-2021,13,Sat,2020-12-19,18:30,Leverkusen,0.3,1.3,Bayern Munich,,BayArena,Felix Zwayer,https://fbref.com/en/matches/ea4a5784/Bayer-Leverkusen-Bayern-Munich-December-19-2020-Bundesliga,1,2
+Bundesliga,2020-2021,13,Sun,2020-12-20,15:30,Freiburg,2.8,1.8,Hertha BSC,,Schwarzwald-Stadion,Tobias Reichel,https://fbref.com/en/matches/90e639ca/Freiburg-Hertha-BSC-December-20-2020-Bundesliga,4,1
+Bundesliga,2020-2021,13,Sun,2020-12-20,18:00,Wolfsburg,1.8,1.7,Stuttgart,,Volkswagen Arena,Florian Badstübner,https://fbref.com/en/matches/1126aa36/Wolfsburg-Stuttgart-December-20-2020-Bundesliga,1,0
+Bundesliga,2020-2021,14,Sat,2021-01-02,15:30,Köln,0.5,1.3,Augsburg,,RheinEnergieSTADION,Sören Storks,https://fbref.com/en/matches/38634b76/Koln-Augsburg-January-2-2021-Bundesliga,0,1
+Bundesliga,2020-2021,14,Sat,2021-01-02,15:30,Arminia,0.2,2.7,M'Gladbach,,SchücoArena,Sascha Stegemann,https://fbref.com/en/matches/2c625684/Arminia-Monchengladbach-January-2-2021-Bundesliga,0,1
+Bundesliga,2020-2021,14,Sat,2021-01-02,15:30,Eint Frankfurt,1.4,0.7,Leverkusen,,Commerzbank-Arena,Felix Brych,https://fbref.com/en/matches/13eea8f1/Eintracht-Frankfurt-Bayer-Leverkusen-January-2-2021-Bundesliga,2,1
+Bundesliga,2020-2021,14,Sat,2021-01-02,15:30,Werder Bremen,1.0,0.8,Union Berlin,,Weserstadion,Tobias Stieler,https://fbref.com/en/matches/d70ff0fb/Werder-Bremen-Union-Berlin-January-2-2021-Bundesliga,0,2
+Bundesliga,2020-2021,14,Sat,2021-01-02,15:30,Hoffenheim,1.2,1.9,Freiburg,,PreZero Arena,Robert Hartmann,https://fbref.com/en/matches/a8653b9a/Hoffenheim-Freiburg-January-2-2021-Bundesliga,1,3
+Bundesliga,2020-2021,14,Sat,2021-01-02,18:30,Hertha BSC,2.3,0.9,Schalke 04,,Olympiastadion Berlin,Sven Jablonski,https://fbref.com/en/matches/fa99b883/Hertha-BSC-Schalke-04-January-2-2021-Bundesliga,3,0
+Bundesliga,2020-2021,14,Sat,2021-01-02,20:30,Stuttgart,1.1,3.2,RB Leipzig,,Mercedes-Benz Arena,Christian Dingert,https://fbref.com/en/matches/8567cef6/Stuttgart-RB-Leipzig-January-2-2021-Bundesliga,0,1
+Bundesliga,2020-2021,14,Sun,2021-01-03,15:30,Dortmund,1.8,1.6,Wolfsburg,,Signal Iduna Park,Manuel Gräfe,https://fbref.com/en/matches/380f273e/Dortmund-Wolfsburg-January-3-2021-Bundesliga,2,0
+Bundesliga,2020-2021,14,Sun,2021-01-03,18:00,Bayern Munich,3.5,1.5,Mainz 05,,Allianz Arena,Markus Schmidt,https://fbref.com/en/matches/a6010fb3/Bayern-Munich-Mainz-05-January-3-2021-Bundesliga,5,2
+Bundesliga,2020-2021,15,Fri,2021-01-08,20:30,M'Gladbach,1.3,1.4,Bayern Munich,,Stadion im Borussia-Park,Harm Osmers,https://fbref.com/en/matches/fc0fa29c/Monchengladbach-Bayern-Munich-January-8-2021-Bundesliga,3,2
+Bundesliga,2020-2021,15,Sat,2021-01-09,15:30,Schalke 04,2.0,2.4,Hoffenheim,,Veltins-Arena,Felix Zwayer,https://fbref.com/en/matches/f00e265e/Schalke-04-Hoffenheim-January-9-2021-Bundesliga,4,0
+Bundesliga,2020-2021,15,Sat,2021-01-09,15:30,Union Berlin,1.4,1.8,Wolfsburg,,Stadion An der Alten Försterei,Patrick Ittrich,https://fbref.com/en/matches/515a34c0/Union-Berlin-Wolfsburg-January-9-2021-Bundesliga,2,2
+Bundesliga,2020-2021,15,Sat,2021-01-09,15:30,Leverkusen,0.8,0.4,Werder Bremen,,BayArena,Benjamin Cortus,https://fbref.com/en/matches/5d96ded1/Bayer-Leverkusen-Werder-Bremen-January-9-2021-Bundesliga,1,1
+Bundesliga,2020-2021,15,Sat,2021-01-09,15:30,Mainz 05,1.2,2.3,Eint Frankfurt,,Opel Arena,Bastian Dankert,https://fbref.com/en/matches/1e9c0da7/Mainz-05-Eintracht-Frankfurt-January-9-2021-Bundesliga,0,2
+Bundesliga,2020-2021,15,Sat,2021-01-09,15:30,Freiburg,2.9,0.2,Köln,,Schwarzwald-Stadion,Robert Schröder,https://fbref.com/en/matches/8eaa4d72/Freiburg-Koln-January-9-2021-Bundesliga,5,0
+Bundesliga,2020-2021,15,Sat,2021-01-09,18:30,RB Leipzig,1.0,2.2,Dortmund,,Red Bull Arena,Daniel Siebert,https://fbref.com/en/matches/3280b7c0/RB-Leipzig-Dortmund-January-9-2021-Bundesliga,1,3
+Bundesliga,2020-2021,15,Sun,2021-01-10,15:30,Augsburg,1.0,4.0,Stuttgart,,WWK Arena,Daniel Schlager,https://fbref.com/en/matches/bb8d256f/Augsburg-Stuttgart-January-10-2021-Bundesliga,1,4
+Bundesliga,2020-2021,15,Sun,2021-01-10,18:00,Arminia,0.8,0.8,Hertha BSC,,SchücoArena,Guido Winkmann,https://fbref.com/en/matches/bf9fd193/Arminia-Hertha-BSC-January-10-2021-Bundesliga,1,0
+Bundesliga,2020-2021,16,Fri,2021-01-15,20:30,Union Berlin,1.3,1.2,Leverkusen,,Stadion An der Alten Försterei,Florian Badstübner,https://fbref.com/en/matches/06e9834b/Union-Berlin-Bayer-Leverkusen-January-15-2021-Bundesliga,1,0
+Bundesliga,2020-2021,16,Sat,2021-01-16,15:30,Dortmund,2.4,0.8,Mainz 05,,Signal Iduna Park,Sven Jablonski,https://fbref.com/en/matches/67e50a37/Dortmund-Mainz-05-January-16-2021-Bundesliga,1,1
+Bundesliga,2020-2021,16,Sat,2021-01-16,15:30,Köln,0.4,0.9,Hertha BSC,,RheinEnergieSTADION,Frank Willenborg,https://fbref.com/en/matches/89684a69/Koln-Hertha-BSC-January-16-2021-Bundesliga,0,0
+Bundesliga,2020-2021,16,Sat,2021-01-16,15:30,Hoffenheim,0.7,0.8,Arminia,,PreZero Arena,Marco Fritz,https://fbref.com/en/matches/1ca06d2f/Hoffenheim-Arminia-January-16-2021-Bundesliga,0,0
+Bundesliga,2020-2021,16,Sat,2021-01-16,15:30,Wolfsburg,1.2,2.1,RB Leipzig,,Volkswagen Arena,Tobias Stieler,https://fbref.com/en/matches/510eb3f1/Wolfsburg-RB-Leipzig-January-16-2021-Bundesliga,2,2
+Bundesliga,2020-2021,16,Sat,2021-01-16,15:30,Werder Bremen,1.2,0.5,Augsburg,,Weserstadion,Sascha Stegemann,https://fbref.com/en/matches/fbd73abb/Werder-Bremen-Augsburg-January-16-2021-Bundesliga,2,0
+Bundesliga,2020-2021,16,Sat,2021-01-16,18:30,Stuttgart,2.0,1.5,M'Gladbach,,Mercedes-Benz Arena,Felix Brych,https://fbref.com/en/matches/8f8eb534/Stuttgart-Monchengladbach-January-16-2021-Bundesliga,2,2
+Bundesliga,2020-2021,16,Sun,2021-01-17,15:30,Bayern Munich,2.7,1.0,Freiburg,,Allianz Arena,Christian Dingert,https://fbref.com/en/matches/393e0f65/Bayern-Munich-Freiburg-January-17-2021-Bundesliga,2,1
+Bundesliga,2020-2021,16,Sun,2021-01-17,18:00,Eint Frankfurt,1.7,0.2,Schalke 04,,Commerzbank-Arena,Manuel Gräfe,https://fbref.com/en/matches/818dc8f0/Eintracht-Frankfurt-Schalke-04-January-17-2021-Bundesliga,3,1
+Bundesliga,2020-2021,17,Tue,2021-01-19,18:30,M'Gladbach,0.8,1.1,Werder Bremen,,Stadion im Borussia-Park,Martin Petersen,https://fbref.com/en/matches/75f73cc8/Monchengladbach-Werder-Bremen-January-19-2021-Bundesliga,1,0
+Bundesliga,2020-2021,17,Tue,2021-01-19,20:30,Mainz 05,0.4,1.1,Wolfsburg,,Opel Arena,Sören Storks,https://fbref.com/en/matches/b0edbee1/Mainz-05-Wolfsburg-January-19-2021-Bundesliga,0,2
+Bundesliga,2020-2021,17,Tue,2021-01-19,20:30,Leverkusen,1.8,2.1,Dortmund,,BayArena,Felix Zwayer,https://fbref.com/en/matches/52e5979b/Bayer-Leverkusen-Dortmund-January-19-2021-Bundesliga,2,1
+Bundesliga,2020-2021,17,Tue,2021-01-19,20:30,Hertha BSC,1.4,1.3,Hoffenheim,,Olympiastadion Berlin,Harm Osmers,https://fbref.com/en/matches/83e32862/Hertha-BSC-Hoffenheim-January-19-2021-Bundesliga,0,3
+Bundesliga,2020-2021,17,Wed,2021-01-20,18:30,Schalke 04,1.4,1.6,Köln,,Veltins-Arena,Daniel Siebert,https://fbref.com/en/matches/291968f3/Schalke-04-Koln-January-20-2021-Bundesliga,1,2
+Bundesliga,2020-2021,17,Wed,2021-01-20,20:30,RB Leipzig,1.4,0.3,Union Berlin,,Red Bull Arena,Markus Schmidt,https://fbref.com/en/matches/9f2eb838/RB-Leipzig-Union-Berlin-January-20-2021-Bundesliga,1,0
+Bundesliga,2020-2021,17,Wed,2021-01-20,20:30,Freiburg,0.7,1.4,Eint Frankfurt,,Schwarzwald-Stadion,Guido Winkmann,https://fbref.com/en/matches/c9250dba/Freiburg-Eintracht-Frankfurt-January-20-2021-Bundesliga,2,2
+Bundesliga,2020-2021,17,Wed,2021-01-20,20:30,Arminia,2.2,0.9,Stuttgart,,SchücoArena,Robert Hartmann,https://fbref.com/en/matches/4049ec51/Arminia-Stuttgart-January-20-2021-Bundesliga,3,0
+Bundesliga,2020-2021,17,Wed,2021-01-20,20:30,Augsburg,1.2,2.0,Bayern Munich,,WWK Arena,Matthias Jöllenbeck,https://fbref.com/en/matches/02453334/Augsburg-Bayern-Munich-January-20-2021-Bundesliga,0,1
+Bundesliga,2020-2021,18,Fri,2021-01-22,20:30,M'Gladbach,1.8,1.2,Dortmund,,Stadion im Borussia-Park,Manuel Gräfe,https://fbref.com/en/matches/e1234806/Monchengladbach-Dortmund-January-22-2021-Bundesliga,4,2
+Bundesliga,2020-2021,18,Sat,2021-01-23,15:30,Arminia,0.6,2.4,Eint Frankfurt,,SchücoArena,Robert Schröder,https://fbref.com/en/matches/1d252a82/Arminia-Eintracht-Frankfurt-January-23-2021-Bundesliga,1,5
+Bundesliga,2020-2021,18,Sat,2021-01-23,15:30,Augsburg,1.0,1.5,Union Berlin,,WWK Arena,Felix Brych,https://fbref.com/en/matches/4e4a5a50/Augsburg-Union-Berlin-January-23-2021-Bundesliga,2,1
+Bundesliga,2020-2021,18,Sat,2021-01-23,15:30,Leverkusen,1.0,1.1,Wolfsburg,,BayArena,Marco Fritz,https://fbref.com/en/matches/fbcf759f/Bayer-Leverkusen-Wolfsburg-January-23-2021-Bundesliga,0,1
+Bundesliga,2020-2021,18,Sat,2021-01-23,15:30,Mainz 05,1.6,1.4,RB Leipzig,,Opel Arena,Christian Dingert,https://fbref.com/en/matches/15f19b3c/Mainz-05-RB-Leipzig-January-23-2021-Bundesliga,3,2
+Bundesliga,2020-2021,18,Sat,2021-01-23,15:30,Freiburg,1.2,2.5,Stuttgart,,Schwarzwald-Stadion,Tobias Stieler,https://fbref.com/en/matches/a3dfeb48/Freiburg-Stuttgart-January-23-2021-Bundesliga,2,1
+Bundesliga,2020-2021,18,Sat,2021-01-23,18:30,Hertha BSC,1.9,1.5,Werder Bremen,,Olympiastadion Berlin,Daniel Schlager,https://fbref.com/en/matches/815895f1/Hertha-BSC-Werder-Bremen-January-23-2021-Bundesliga,1,4
+Bundesliga,2020-2021,18,Sun,2021-01-24,15:30,Schalke 04,0.7,3.1,Bayern Munich,,Veltins-Arena,Sascha Stegemann,https://fbref.com/en/matches/515026cb/Schalke-04-Bayern-Munich-January-24-2021-Bundesliga,0,4
+Bundesliga,2020-2021,18,Sun,2021-01-24,18:00,Hoffenheim,2.2,2.0,Köln,,PreZero Arena,Sven Jablonski,https://fbref.com/en/matches/8a0048f6/Hoffenheim-Koln-January-24-2021-Bundesliga,3,0
+Bundesliga,2020-2021,19,Fri,2021-01-29,20:30,Stuttgart,1.0,0.5,Mainz 05,,Mercedes-Benz Arena,Frank Willenborg,https://fbref.com/en/matches/d26dbb59/Stuttgart-Mainz-05-January-29-2021-Bundesliga,2,0
+Bundesliga,2020-2021,19,Sat,2021-01-30,15:30,Dortmund,1.9,0.5,Augsburg,,Signal Iduna Park,Patrick Ittrich,https://fbref.com/en/matches/a42881c7/Dortmund-Augsburg-January-30-2021-Bundesliga,3,1
+Bundesliga,2020-2021,19,Sat,2021-01-30,15:30,Union Berlin,0.5,0.9,M'Gladbach,,Stadion An der Alten Försterei,Bastian Dankert,https://fbref.com/en/matches/20d1cf50/Union-Berlin-Monchengladbach-January-30-2021-Bundesliga,1,1
+Bundesliga,2020-2021,19,Sat,2021-01-30,15:30,Eint Frankfurt,2.3,0.5,Hertha BSC,,Commerzbank-Arena,Florian Badstübner,https://fbref.com/en/matches/fefb7511/Eintracht-Frankfurt-Hertha-BSC-January-30-2021-Bundesliga,3,1
+Bundesliga,2020-2021,19,Sat,2021-01-30,15:30,Bayern Munich,2.0,2.1,Hoffenheim,,Allianz Arena,Benjamin Cortus,https://fbref.com/en/matches/0f7be142/Bayern-Munich-Hoffenheim-January-30-2021-Bundesliga,4,1
+Bundesliga,2020-2021,19,Sat,2021-01-30,15:30,Werder Bremen,0.7,0.3,Schalke 04,,Weserstadion,Sören Storks,https://fbref.com/en/matches/975c5e67/Werder-Bremen-Schalke-04-January-30-2021-Bundesliga,1,1
+Bundesliga,2020-2021,19,Sat,2021-01-30,18:30,RB Leipzig,1.7,0.5,Leverkusen,,Red Bull Arena,Harm Osmers,https://fbref.com/en/matches/0898f32c/RB-Leipzig-Bayer-Leverkusen-January-30-2021-Bundesliga,1,0
+Bundesliga,2020-2021,19,Sun,2021-01-31,15:30,Köln,1.7,1.5,Arminia,,RheinEnergieSTADION,Felix Zwayer,https://fbref.com/en/matches/a90c8577/Koln-Arminia-January-31-2021-Bundesliga,3,1
+Bundesliga,2020-2021,19,Sun,2021-01-31,18:00,Wolfsburg,2.3,0.7,Freiburg,,Volkswagen Arena,Tobias Reichel,https://fbref.com/en/matches/543e9bb3/Wolfsburg-Freiburg-January-31-2021-Bundesliga,3,0
+Bundesliga,2020-2021,20,Fri,2021-02-05,20:00,Hertha BSC,1.4,2.4,Bayern Munich,,Olympiastadion Berlin,Robert Schröder,https://fbref.com/en/matches/2449e1e0/Hertha-BSC-Bayern-Munich-February-5-2021-Bundesliga,0,1
+Bundesliga,2020-2021,20,Sat,2021-02-06,15:30,Leverkusen,3.9,1.5,Stuttgart,,BayArena,Sven Jablonski,https://fbref.com/en/matches/3f791652/Bayer-Leverkusen-Stuttgart-February-6-2021-Bundesliga,5,2
+Bundesliga,2020-2021,20,Sat,2021-02-06,15:30,Schalke 04,0.2,2.1,RB Leipzig,,Veltins-Arena,Martin Petersen,https://fbref.com/en/matches/97155cb7/Schalke-04-RB-Leipzig-February-6-2021-Bundesliga,0,3
+Bundesliga,2020-2021,20,Sat,2021-02-06,15:30,Augsburg,0.6,2.3,Wolfsburg,,WWK Arena,Robert Hartmann,https://fbref.com/en/matches/eb8b9036/Augsburg-Wolfsburg-February-6-2021-Bundesliga,0,2
+Bundesliga,2020-2021,20,Sat,2021-02-06,15:30,Freiburg,0.2,1.5,Dortmund,,Schwarzwald-Stadion,Felix Brych,https://fbref.com/en/matches/3e4cb54e/Freiburg-Dortmund-February-6-2021-Bundesliga,2,1
+Bundesliga,2020-2021,20,Sat,2021-02-06,15:30,Mainz 05,1.9,0.8,Union Berlin,,Opel Arena,Sascha Stegemann,https://fbref.com/en/matches/b8745270/Mainz-05-Union-Berlin-February-6-2021-Bundesliga,1,0
+Bundesliga,2020-2021,20,Sat,2021-02-06,18:30,M'Gladbach,0.8,0.5,Köln,,Stadion im Borussia-Park,Christian Dingert,https://fbref.com/en/matches/4cddc1dd/Monchengladbach-Koln-February-6-2021-Bundesliga,1,2
+Bundesliga,2020-2021,20,Sun,2021-02-07,15:30,Hoffenheim,0.9,1.0,Eint Frankfurt,,PreZero Arena,Daniel Siebert,https://fbref.com/en/matches/fc60a844/Hoffenheim-Eintracht-Frankfurt-February-7-2021-Bundesliga,1,3
+Bundesliga,2020-2021,21,Fri,2021-02-12,20:30,RB Leipzig,2.9,0.9,Augsburg,,Red Bull Arena,Felix Zwayer,https://fbref.com/en/matches/fc502ee4/RB-Leipzig-Augsburg-February-12-2021-Bundesliga,2,1
+Bundesliga,2020-2021,21,Sat,2021-02-13,15:30,Dortmund,1.7,2.6,Hoffenheim,,Signal Iduna Park,Bastian Dankert,https://fbref.com/en/matches/8017863e/Dortmund-Hoffenheim-February-13-2021-Bundesliga,2,2
+Bundesliga,2020-2021,21,Sat,2021-02-13,15:30,Stuttgart,1.3,1.4,Hertha BSC,,Mercedes-Benz Arena,Harm Osmers,https://fbref.com/en/matches/93f39507/Stuttgart-Hertha-BSC-February-13-2021-Bundesliga,1,1
+Bundesliga,2020-2021,21,Sat,2021-02-13,15:30,Leverkusen,1.3,2.5,Mainz 05,,BayArena,Guido Winkmann,https://fbref.com/en/matches/99d32e78/Bayer-Leverkusen-Mainz-05-February-13-2021-Bundesliga,2,2
+Bundesliga,2020-2021,21,Sat,2021-02-13,15:30,Werder Bremen,0.7,0.8,Freiburg,,Weserstadion,Manuel Gräfe,https://fbref.com/en/matches/1cf652b0/Werder-Bremen-Freiburg-February-13-2021-Bundesliga,0,0
+Bundesliga,2020-2021,21,Sat,2021-02-13,18:30,Union Berlin,2.3,0.4,Schalke 04,,Stadion An der Alten Försterei,Daniel Schlager,https://fbref.com/en/matches/82ffa7e7/Union-Berlin-Schalke-04-February-13-2021-Bundesliga,0,0
+Bundesliga,2020-2021,21,Sun,2021-02-14,15:30,Eint Frankfurt,2.0,0.4,Köln,,Commerzbank-Arena,Frank Willenborg,https://fbref.com/en/matches/9cf10ce4/Eintracht-Frankfurt-Koln-February-14-2021-Bundesliga,2,0
+Bundesliga,2020-2021,21,Sun,2021-02-14,18:00,Wolfsburg,0.8,0.6,M'Gladbach,,Volkswagen Arena,Tobias Stieler,https://fbref.com/en/matches/609f2124/Wolfsburg-Monchengladbach-February-14-2021-Bundesliga,0,0
+Bundesliga,2020-2021,21,Mon,2021-02-15,20:30,Bayern Munich,2.1,1.2,Arminia,,Allianz Arena,Florian Badstübner,https://fbref.com/en/matches/0616847d/Bayern-Munich-Arminia-February-15-2021-Bundesliga,3,3
+Bundesliga,2020-2021,22,Fri,2021-02-19,20:30,Arminia,0.6,1.1,Wolfsburg,,SchücoArena,Felix Brych,https://fbref.com/en/matches/b36797c6/Arminia-Wolfsburg-February-19-2021-Bundesliga,0,3
+Bundesliga,2020-2021,22,Sat,2021-02-20,15:30,M'Gladbach,0.8,0.7,Mainz 05,,Stadion im Borussia-Park,Markus Schmidt,https://fbref.com/en/matches/662c940b/Monchengladbach-Mainz-05-February-20-2021-Bundesliga,1,2
+Bundesliga,2020-2021,22,Sat,2021-02-20,15:30,Köln,0.7,0.5,Stuttgart,,RheinEnergieSTADION,Benjamin Cortus,https://fbref.com/en/matches/86b75771/Koln-Stuttgart-February-20-2021-Bundesliga,0,1
+Bundesliga,2020-2021,22,Sat,2021-02-20,15:30,Freiburg,0.4,1.2,Union Berlin,,Schwarzwald-Stadion,Sören Storks,https://fbref.com/en/matches/c9bf7114/Freiburg-Union-Berlin-February-20-2021-Bundesliga,0,1
+Bundesliga,2020-2021,22,Sat,2021-02-20,15:30,Eint Frankfurt,1.1,2.0,Bayern Munich,,Commerzbank-Arena,Sascha Stegemann,https://fbref.com/en/matches/e03551be/Eintracht-Frankfurt-Bayern-Munich-February-20-2021-Bundesliga,2,1
+Bundesliga,2020-2021,22,Sat,2021-02-20,18:30,Schalke 04,0.8,1.7,Dortmund,,Veltins-Arena,Daniel Siebert,https://fbref.com/en/matches/76ff1386/Revierderby-Schalke-04-Dortmund-February-20-2021-Bundesliga,0,4
+Bundesliga,2020-2021,22,Sun,2021-02-21,13:30,Augsburg,1.5,0.5,Leverkusen,,WWK Arena,Christian Dingert,https://fbref.com/en/matches/2f2af4c0/Augsburg-Bayer-Leverkusen-February-21-2021-Bundesliga,1,1
+Bundesliga,2020-2021,22,Sun,2021-02-21,15:30,Hertha BSC,0.6,1.0,RB Leipzig,,Olympiastadion Berlin,Sven Jablonski,https://fbref.com/en/matches/45048c9c/Hertha-BSC-RB-Leipzig-February-21-2021-Bundesliga,0,3
+Bundesliga,2020-2021,22,Sun,2021-02-21,18:00,Hoffenheim,1.7,0.1,Werder Bremen,,PreZero Arena,Robert Schröder,https://fbref.com/en/matches/3bfb8618/Hoffenheim-Werder-Bremen-February-21-2021-Bundesliga,4,0
+Bundesliga,2020-2021,23,Fri,2021-02-26,20:30,Werder Bremen,1.0,0.9,Eint Frankfurt,,Weserstadion,Robert Hartmann,https://fbref.com/en/matches/c6b1e173/Werder-Bremen-Eintracht-Frankfurt-February-26-2021-Bundesliga,2,1
+Bundesliga,2020-2021,23,Sat,2021-02-27,15:30,Bayern Munich,2.1,1.0,Köln,,Allianz Arena,Martin Petersen,https://fbref.com/en/matches/09e10bc8/Bayern-Munich-Koln-February-27-2021-Bundesliga,5,1
+Bundesliga,2020-2021,23,Sat,2021-02-27,15:30,Wolfsburg,0.5,1.2,Hertha BSC,,Volkswagen Arena,Bastian Dankert,https://fbref.com/en/matches/caa8cb79/Wolfsburg-Hertha-BSC-February-27-2021-Bundesliga,2,0
+Bundesliga,2020-2021,23,Sat,2021-02-27,15:30,Dortmund,3.6,0.6,Arminia,,Signal Iduna Park,Tobias Reichel,https://fbref.com/en/matches/4e58c036/Dortmund-Arminia-February-27-2021-Bundesliga,3,0
+Bundesliga,2020-2021,23,Sat,2021-02-27,15:30,Stuttgart,2.5,1.5,Schalke 04,,Mercedes-Benz Arena,Guido Winkmann,https://fbref.com/en/matches/3c1ba3f2/Stuttgart-Schalke-04-February-27-2021-Bundesliga,5,1
+Bundesliga,2020-2021,23,Sat,2021-02-27,18:30,RB Leipzig,1.8,1.3,M'Gladbach,,Red Bull Arena,Manuel Gräfe,https://fbref.com/en/matches/d59c8780/RB-Leipzig-Monchengladbach-February-27-2021-Bundesliga,3,2
+Bundesliga,2020-2021,23,Sun,2021-02-28,13:30,Union Berlin,1.0,1.3,Hoffenheim,,Stadion An der Alten Försterei,Tobias Stieler,https://fbref.com/en/matches/c2c249b0/Union-Berlin-Hoffenheim-February-28-2021-Bundesliga,1,1
+Bundesliga,2020-2021,23,Sun,2021-02-28,15:30,Mainz 05,0.6,1.6,Augsburg,,Opel Arena,Daniel Schlager,https://fbref.com/en/matches/0c8bc96f/Mainz-05-Augsburg-February-28-2021-Bundesliga,0,1
+Bundesliga,2020-2021,23,Sun,2021-02-28,18:00,Leverkusen,1.6,1.4,Freiburg,,BayArena,Felix Zwayer,https://fbref.com/en/matches/66ffc9f2/Bayer-Leverkusen-Freiburg-February-28-2021-Bundesliga,1,2
+Bundesliga,2020-2021,24,Fri,2021-03-05,20:30,Schalke 04,0.2,1.1,Mainz 05,,Veltins-Arena,Felix Brych,https://fbref.com/en/matches/f7d71118/Schalke-04-Mainz-05-March-5-2021-Bundesliga,0,0
+Bundesliga,2020-2021,24,Sat,2021-03-06,15:30,Hertha BSC,2.3,0.4,Augsburg,,Olympiastadion Berlin,Florian Badstübner,https://fbref.com/en/matches/35199ff9/Hertha-BSC-Augsburg-March-6-2021-Bundesliga,2,1
+Bundesliga,2020-2021,24,Sat,2021-03-06,15:30,M'Gladbach,0.6,1.5,Leverkusen,,Stadion im Borussia-Park,Daniel Siebert,https://fbref.com/en/matches/0a67e4e1/Monchengladbach-Bayer-Leverkusen-March-6-2021-Bundesliga,0,1
+Bundesliga,2020-2021,24,Sat,2021-03-06,15:30,Freiburg,0.1,1.8,RB Leipzig,,Schwarzwald-Stadion,Guido Winkmann,https://fbref.com/en/matches/82aa3a4c/Freiburg-RB-Leipzig-March-6-2021-Bundesliga,0,3
+Bundesliga,2020-2021,24,Sat,2021-03-06,15:30,Eint Frankfurt,1.6,0.5,Stuttgart,,Commerzbank-Arena,Robert Schröder,https://fbref.com/en/matches/109588f5/Eintracht-Frankfurt-Stuttgart-March-6-2021-Bundesliga,1,1
+Bundesliga,2020-2021,24,Sat,2021-03-06,15:30,Hoffenheim,1.1,1.9,Wolfsburg,,PreZero Arena,Markus Schmidt,https://fbref.com/en/matches/67c048cb/Hoffenheim-Wolfsburg-March-6-2021-Bundesliga,2,1
+Bundesliga,2020-2021,24,Sat,2021-03-06,18:30,Bayern Munich,2.9,0.6,Dortmund,,Allianz Arena,Marco Fritz,https://fbref.com/en/matches/33b71362/Der-Klassiker-Bayern-Munich-Dortmund-March-6-2021-Bundesliga,4,2
+Bundesliga,2020-2021,24,Sun,2021-03-07,15:30,Köln,1.6,1.3,Werder Bremen,,RheinEnergieSTADION,Matthias Jöllenbeck,https://fbref.com/en/matches/92c099c1/Koln-Werder-Bremen-March-7-2021-Bundesliga,1,1
+Bundesliga,2020-2021,24,Sun,2021-03-07,18:00,Arminia,0.5,0.8,Union Berlin,,SchücoArena,Harm Osmers,https://fbref.com/en/matches/450ce215/Arminia-Union-Berlin-March-7-2021-Bundesliga,0,0
+Bundesliga,2020-2021,20,Wed,2021-03-10,18:30,Arminia,2.6,1.5,Werder Bremen,,SchücoArena,Markus Schmidt,https://fbref.com/en/matches/ecdd3788/Arminia-Werder-Bremen-March-10-2021-Bundesliga,0,2
+Bundesliga,2020-2021,25,Fri,2021-03-12,20:30,Augsburg,1.6,3.0,M'Gladbach,,WWK Arena,Sven Jablonski,https://fbref.com/en/matches/22304c50/Augsburg-Monchengladbach-March-12-2021-Bundesliga,3,1
+Bundesliga,2020-2021,25,Sat,2021-03-13,15:30,Werder Bremen,1.2,3.0,Bayern Munich,,Weserstadion,Manuel Gräfe,https://fbref.com/en/matches/4f54182b/Werder-Bremen-Bayern-Munich-March-13-2021-Bundesliga,1,3
+Bundesliga,2020-2021,25,Sat,2021-03-13,15:30,Wolfsburg,1.7,0.2,Schalke 04,,Volkswagen Arena,Sören Storks,https://fbref.com/en/matches/8cf2990f/Wolfsburg-Schalke-04-March-13-2021-Bundesliga,5,0
+Bundesliga,2020-2021,25,Sat,2021-03-13,15:30,Mainz 05,1.7,0.9,Freiburg,,Opel Arena,Benjamin Cortus,https://fbref.com/en/matches/efc2e669/Mainz-05-Freiburg-March-13-2021-Bundesliga,1,0
+Bundesliga,2020-2021,25,Sat,2021-03-13,15:30,Union Berlin,2.3,1.3,Köln,,Stadion An der Alten Försterei,Deniz Aytekin,https://fbref.com/en/matches/2c23c239/Union-Berlin-Koln-March-13-2021-Bundesliga,2,1
+Bundesliga,2020-2021,25,Sat,2021-03-13,18:30,Dortmund,1.4,0.4,Hertha BSC,,Signal Iduna Park,Martin Petersen,https://fbref.com/en/matches/bcfe77e7/Dortmund-Hertha-BSC-March-13-2021-Bundesliga,2,0
+Bundesliga,2020-2021,25,Sun,2021-03-14,13:30,Leverkusen,2.5,1.5,Arminia,,BayArena,Sascha Stegemann,https://fbref.com/en/matches/6f7f7daf/Bayer-Leverkusen-Arminia-March-14-2021-Bundesliga,1,2
+Bundesliga,2020-2021,25,Sun,2021-03-14,15:30,RB Leipzig,1.8,1.0,Eint Frankfurt,,Red Bull Arena,Felix Zwayer,https://fbref.com/en/matches/27468355/RB-Leipzig-Eintracht-Frankfurt-March-14-2021-Bundesliga,1,1
+Bundesliga,2020-2021,25,Sun,2021-03-14,18:00,Stuttgart,0.8,1.1,Hoffenheim,,Mercedes-Benz Arena,Christian Dingert,https://fbref.com/en/matches/7bfbe4f2/Stuttgart-Hoffenheim-March-14-2021-Bundesliga,2,0
+Bundesliga,2020-2021,26,Fri,2021-03-19,20:30,Arminia,0.3,2.8,RB Leipzig,,SchücoArena,Frank Willenborg,https://fbref.com/en/matches/bd3a8e9b/Arminia-RB-Leipzig-March-19-2021-Bundesliga,0,1
+Bundesliga,2020-2021,26,Sat,2021-03-20,15:30,Eint Frankfurt,2.4,2.8,Union Berlin,,Commerzbank-Arena,Markus Schmidt,https://fbref.com/en/matches/b535be4e/Eintracht-Frankfurt-Union-Berlin-March-20-2021-Bundesliga,5,2
+Bundesliga,2020-2021,26,Sat,2021-03-20,15:30,Bayern Munich,2.2,0.8,Stuttgart,,Allianz Arena,Daniel Schlager,https://fbref.com/en/matches/2b2303b8/Bayern-Munich-Stuttgart-March-20-2021-Bundesliga,4,0
+Bundesliga,2020-2021,26,Sat,2021-03-20,15:30,Werder Bremen,0.7,1.6,Wolfsburg,,Weserstadion,Robert Schröder,https://fbref.com/en/matches/4ceea34c/Werder-Bremen-Wolfsburg-March-20-2021-Bundesliga,1,2
+Bundesliga,2020-2021,26,Sat,2021-03-20,15:30,Köln,1.4,1.8,Dortmund,,RheinEnergieSTADION,Daniel Siebert,https://fbref.com/en/matches/848094c3/Koln-Dortmund-March-20-2021-Bundesliga,2,2
+Bundesliga,2020-2021,26,Sat,2021-03-20,18:30,Schalke 04,0.2,2.4,M'Gladbach,,Veltins-Arena,Tobias Stieler,https://fbref.com/en/matches/7bcab333/Schalke-04-Monchengladbach-March-20-2021-Bundesliga,0,3
+Bundesliga,2020-2021,26,Sun,2021-03-21,13:30,Hoffenheim,1.3,3.5,Mainz 05,,PreZero Arena,Marco Fritz,https://fbref.com/en/matches/ee96cf86/Hoffenheim-Mainz-05-March-21-2021-Bundesliga,1,2
+Bundesliga,2020-2021,26,Sun,2021-03-21,15:30,Hertha BSC,1.9,1.9,Leverkusen,,Olympiastadion Berlin,Felix Brych,https://fbref.com/en/matches/69158344/Hertha-BSC-Bayer-Leverkusen-March-21-2021-Bundesliga,3,0
+Bundesliga,2020-2021,26,Sun,2021-03-21,18:00,Freiburg,1.4,1.0,Augsburg,,Schwarzwald-Stadion,Bastian Dankert,https://fbref.com/en/matches/dedb363c/Freiburg-Augsburg-March-21-2021-Bundesliga,2,0
+Bundesliga,2020-2021,27,Sat,2021-04-03,15:30,Wolfsburg,0.8,1.2,Köln,,Volkswagen Arena,Robert Hartmann,https://fbref.com/en/matches/277ef130/Wolfsburg-Koln-April-3-2021-Bundesliga,1,0
+Bundesliga,2020-2021,27,Sat,2021-04-03,15:30,Mainz 05,1.8,0.5,Arminia,,Opel Arena,Deniz Aytekin,https://fbref.com/en/matches/726db15b/Mainz-05-Arminia-April-3-2021-Bundesliga,1,1
+Bundesliga,2020-2021,27,Sat,2021-04-03,15:30,Augsburg,0.6,1.0,Hoffenheim,,WWK Arena,Guido Winkmann,https://fbref.com/en/matches/e4a4200b/Augsburg-Hoffenheim-April-3-2021-Bundesliga,2,1
+Bundesliga,2020-2021,27,Sat,2021-04-03,15:30,Leverkusen,0.7,0.6,Schalke 04,,BayArena,Sven Jablonski,https://fbref.com/en/matches/fad611b3/Bayer-Leverkusen-Schalke-04-April-3-2021-Bundesliga,2,1
+Bundesliga,2020-2021,27,Sat,2021-04-03,15:30,Dortmund,1.7,1.4,Eint Frankfurt,,Signal Iduna Park,Manuel Gräfe,https://fbref.com/en/matches/99e3e7bc/Dortmund-Eintracht-Frankfurt-April-3-2021-Bundesliga,1,2
+Bundesliga,2020-2021,27,Sat,2021-04-03,18:30,RB Leipzig,0.7,0.6,Bayern Munich,,Red Bull Arena,Daniel Siebert,https://fbref.com/en/matches/54c60873/RB-Leipzig-Bayern-Munich-April-3-2021-Bundesliga,0,1
+Bundesliga,2020-2021,27,Sat,2021-04-03,20:30,M'Gladbach,1.9,1.7,Freiburg,,Stadion im Borussia-Park,Christian Dingert,https://fbref.com/en/matches/15b567f9/Monchengladbach-Freiburg-April-3-2021-Bundesliga,2,1
+Bundesliga,2020-2021,27,Sun,2021-04-04,15:30,Stuttgart,0.8,0.6,Werder Bremen,,Mercedes-Benz Arena,Felix Zwayer,https://fbref.com/en/matches/a5544ef4/Stuttgart-Werder-Bremen-April-4-2021-Bundesliga,1,0
+Bundesliga,2020-2021,27,Sun,2021-04-04,18:00,Union Berlin,0.5,0.9,Hertha BSC,,Stadion An der Alten Försterei,Sascha Stegemann,https://fbref.com/en/matches/eca8fa1d/Union-Berlin-Hertha-BSC-April-4-2021-Bundesliga,1,1
+Bundesliga,2020-2021,28,Fri,2021-04-09,20:30,Arminia,1.4,0.6,Freiburg,,SchücoArena,Martin Petersen,https://fbref.com/en/matches/45e3c758/Arminia-Freiburg-April-9-2021-Bundesliga,1,0
+Bundesliga,2020-2021,28,Sat,2021-04-10,15:30,Eint Frankfurt,1.6,1.8,Wolfsburg,,Commerzbank-Arena,Marco Fritz,https://fbref.com/en/matches/37d416bd/Eintracht-Frankfurt-Wolfsburg-April-10-2021-Bundesliga,4,3
+Bundesliga,2020-2021,28,Sat,2021-04-10,15:30,Werder Bremen,1.4,1.6,RB Leipzig,,Weserstadion,Florian Badstübner,https://fbref.com/en/matches/a9c4acf5/Werder-Bremen-RB-Leipzig-April-10-2021-Bundesliga,1,4
+Bundesliga,2020-2021,28,Sat,2021-04-10,15:30,Hertha BSC,1.6,1.3,M'Gladbach,,Olympiastadion Berlin,Patrick Ittrich,https://fbref.com/en/matches/8875da0a/Hertha-BSC-Monchengladbach-April-10-2021-Bundesliga,2,2
+Bundesliga,2020-2021,28,Sat,2021-04-10,15:30,Bayern Munich,1.0,1.1,Union Berlin,,Allianz Arena,Tobias Stieler,https://fbref.com/en/matches/38bb0b5b/Bayern-Munich-Union-Berlin-April-10-2021-Bundesliga,1,1
+Bundesliga,2020-2021,28,Sat,2021-04-10,18:30,Stuttgart,1.4,1.3,Dortmund,,Mercedes-Benz Arena,Robert Schröder,https://fbref.com/en/matches/ccacb099/Stuttgart-Dortmund-April-10-2021-Bundesliga,2,3
+Bundesliga,2020-2021,28,Sun,2021-04-11,15:30,Schalke 04,0.7,0.9,Augsburg,,Veltins-Arena,Harm Osmers,https://fbref.com/en/matches/2e133e63/Schalke-04-Augsburg-April-11-2021-Bundesliga,1,0
+Bundesliga,2020-2021,28,Sun,2021-04-11,18:00,Köln,2.5,1.7,Mainz 05,,RheinEnergieSTADION,Felix Brych,https://fbref.com/en/matches/e640c002/Koln-Mainz-05-April-11-2021-Bundesliga,2,3
+Bundesliga,2020-2021,28,Mon,2021-04-12,20:30,Hoffenheim,0.1,0.6,Leverkusen,,PreZero Arena,Matthias Jöllenbeck,https://fbref.com/en/matches/00023357/Hoffenheim-Bayer-Leverkusen-April-12-2021-Bundesliga,0,0
+Bundesliga,2020-2021,29,Fri,2021-04-16,20:30,RB Leipzig,1.3,0.2,Hoffenheim,,Red Bull Arena,Manuel Gräfe,https://fbref.com/en/matches/bb0680a3/RB-Leipzig-Hoffenheim-April-16-2021-Bundesliga,0,0
+Bundesliga,2020-2021,29,Sat,2021-04-17,15:30,Augsburg,0.6,0.7,Arminia,,WWK Arena,Markus Schmidt,https://fbref.com/en/matches/e7190d54/Augsburg-Arminia-April-17-2021-Bundesliga,0,0
+Bundesliga,2020-2021,29,Sat,2021-04-17,15:30,Wolfsburg,1.2,2.1,Bayern Munich,,Volkswagen Arena,Felix Zwayer,https://fbref.com/en/matches/08b42a5a/Wolfsburg-Bayern-Munich-April-17-2021-Bundesliga,2,3
+Bundesliga,2020-2021,29,Sat,2021-04-17,15:30,Union Berlin,1.4,0.7,Stuttgart,,Stadion An der Alten Försterei,Benjamin Cortus,https://fbref.com/en/matches/dfb6b622/Union-Berlin-Stuttgart-April-17-2021-Bundesliga,2,1
+Bundesliga,2020-2021,29,Sat,2021-04-17,15:30,Freiburg,2.0,0.7,Schalke 04,,Schwarzwald-Stadion,Tobias Reichel,https://fbref.com/en/matches/09039b5e/Freiburg-Schalke-04-April-17-2021-Bundesliga,4,0
+Bundesliga,2020-2021,29,Sat,2021-04-17,15:30,M'Gladbach,2.1,0.9,Eint Frankfurt,,Stadion im Borussia-Park,Deniz Aytekin,https://fbref.com/en/matches/73e3f821/Monchengladbach-Eintracht-Frankfurt-April-17-2021-Bundesliga,4,0
+Bundesliga,2020-2021,29,Sat,2021-04-17,18:30,Leverkusen,1.8,1.2,Köln,,BayArena,Sören Storks,https://fbref.com/en/matches/707f0762/Bayer-Leverkusen-Koln-April-17-2021-Bundesliga,3,0
+Bundesliga,2020-2021,29,Sun,2021-04-18,15:30,Dortmund,2.9,0.9,Werder Bremen,,Signal Iduna Park,Bastian Dankert,https://fbref.com/en/matches/4de3edd1/Dortmund-Werder-Bremen-April-18-2021-Bundesliga,4,1
+Bundesliga,2020-2021,30,Tue,2021-04-20,18:30,Köln,0.7,2.5,RB Leipzig,,RheinEnergieSTADION,Frank Willenborg,https://fbref.com/en/matches/f09f9742/Koln-RB-Leipzig-April-20-2021-Bundesliga,2,1
+Bundesliga,2020-2021,30,Tue,2021-04-20,20:30,Bayern Munich,1.7,0.4,Leverkusen,,Allianz Arena,Guido Winkmann,https://fbref.com/en/matches/a98550a5/Bayern-Munich-Bayer-Leverkusen-April-20-2021-Bundesliga,2,0
+Bundesliga,2020-2021,30,Tue,2021-04-20,20:30,Arminia,1.9,0.3,Schalke 04,,SchücoArena,Christian Dingert,https://fbref.com/en/matches/f4064614/Arminia-Schalke-04-April-20-2021-Bundesliga,1,0
+Bundesliga,2020-2021,30,Tue,2021-04-20,20:30,Eint Frankfurt,1.1,1.6,Augsburg,,Commerzbank-Arena,Robert Schröder,https://fbref.com/en/matches/929c1b5b/Eintracht-Frankfurt-Augsburg-April-20-2021-Bundesliga,2,0
+Bundesliga,2020-2021,30,Wed,2021-04-21,20:30,Werder Bremen,1.1,1.5,Mainz 05,,Weserstadion,Marco Fritz,https://fbref.com/en/matches/786a3130/Werder-Bremen-Mainz-05-April-21-2021-Bundesliga,0,1
+Bundesliga,2020-2021,30,Wed,2021-04-21,20:30,Stuttgart,2.0,1.5,Wolfsburg,,Mercedes-Benz Arena,Felix Brych,https://fbref.com/en/matches/2e6cebb3/Stuttgart-Wolfsburg-April-21-2021-Bundesliga,1,3
+Bundesliga,2020-2021,30,Wed,2021-04-21,20:30,Dortmund,4.3,0.3,Union Berlin,,Signal Iduna Park,Daniel Schlager,https://fbref.com/en/matches/a973dd9c/Dortmund-Union-Berlin-April-21-2021-Bundesliga,2,0
+Bundesliga,2020-2021,30,Wed,2021-04-21,20:30,Hoffenheim,2.1,0.9,M'Gladbach,,PreZero Arena,Daniel Siebert,https://fbref.com/en/matches/0e81db3e/Hoffenheim-Monchengladbach-April-21-2021-Bundesliga,3,2
+Bundesliga,2020-2021,31,Fri,2021-04-23,20:30,Augsburg,1.6,1.3,Köln,,WWK Arena,Martin Petersen,https://fbref.com/en/matches/74693eaf/Augsburg-Koln-April-23-2021-Bundesliga,2,3
+Bundesliga,2020-2021,31,Sat,2021-04-24,15:30,Freiburg,1.8,1.6,Hoffenheim,,Schwarzwald-Stadion,Manuel Gräfe,https://fbref.com/en/matches/60553b54/Freiburg-Hoffenheim-April-24-2021-Bundesliga,1,1
+Bundesliga,2020-2021,31,Sat,2021-04-24,15:30,Mainz 05,0.5,1.7,Bayern Munich,,Opel Arena,Harm Osmers,https://fbref.com/en/matches/0ef2e50e/Mainz-05-Bayern-Munich-April-24-2021-Bundesliga,2,1
+Bundesliga,2020-2021,31,Sat,2021-04-24,15:30,Union Berlin,1.9,0.7,Werder Bremen,,Stadion An der Alten Försterei,Patrick Ittrich,https://fbref.com/en/matches/6477d19d/Union-Berlin-Werder-Bremen-April-24-2021-Bundesliga,3,1
+Bundesliga,2020-2021,31,Sat,2021-04-24,15:30,Wolfsburg,1.2,1.3,Dortmund,,Volkswagen Arena,Tobias Stieler,https://fbref.com/en/matches/fc1be2b8/Wolfsburg-Dortmund-April-24-2021-Bundesliga,0,2
+Bundesliga,2020-2021,31,Sat,2021-04-24,18:30,Leverkusen,2.2,2.4,Eint Frankfurt,,BayArena,Felix Zwayer,https://fbref.com/en/matches/571d6efd/Bayer-Leverkusen-Eintracht-Frankfurt-April-24-2021-Bundesliga,3,1
+Bundesliga,2020-2021,31,Sun,2021-04-25,15:30,RB Leipzig,4.2,0.2,Stuttgart,,Red Bull Arena,Deniz Aytekin,https://fbref.com/en/matches/b5eb1108/RB-Leipzig-Stuttgart-April-25-2021-Bundesliga,2,0
+Bundesliga,2020-2021,31,Sun,2021-04-25,18:00,M'Gladbach,3.7,0.7,Arminia,,Stadion im Borussia-Park,Robert Hartmann,https://fbref.com/en/matches/3400d4aa/Monchengladbach-Arminia-April-25-2021-Bundesliga,5,0
+Bundesliga,2020-2021,29,Mon,2021-05-03,18:00,Mainz 05,,,Hertha BSC,,SchücoArena,,Head-to-Head,,
+Bundesliga,2020-2021,30,Thu,2021-05-06,18:30,Hertha BSC,,,Freiburg,,Olympiastadion Berlin,,Head-to-Head,,
+Bundesliga,2020-2021,32,Fri,2021-05-07,20:30,Stuttgart,,,Augsburg,,Mercedes-Benz Arena,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sat,2021-05-08,15:30,Hoffenheim,,,Schalke 04,,PreZero Arena,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sat,2021-05-08,15:30,Werder Bremen,,,Leverkusen,,Weserstadion,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sat,2021-05-08,15:30,Dortmund,,,RB Leipzig,,Signal Iduna Park,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sat,2021-05-08,15:30,Wolfsburg,,,Union Berlin,,Volkswagen Arena,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sat,2021-05-08,18:30,Bayern Munich,,,M'Gladbach,,Allianz Arena,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sun,2021-05-09,13:30,Köln,,,Freiburg,,RheinEnergieSTADION,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sun,2021-05-09,15:30,Eint Frankfurt,,,Mainz 05,,Commerzbank-Arena,,Head-to-Head,,
+Bundesliga,2020-2021,32,Sun,2021-05-09,18:00,Hertha BSC,,,Arminia,,Olympiastadion Berlin,,Head-to-Head,,
+Bundesliga,2020-2021,31,Wed,2021-05-12,18:00,Schalke 04,,,Hertha BSC,,Veltins-Arena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Hertha BSC,,,Köln,,Olympiastadion Berlin,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Mainz 05,,,Dortmund,,Opel Arena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,RB Leipzig,,,Wolfsburg,,Red Bull Arena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,M'Gladbach,,,Stuttgart,,Stadion im Borussia-Park,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Arminia,,,Hoffenheim,,SchücoArena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Schalke 04,,,Eint Frankfurt,,Veltins-Arena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Leverkusen,,,Union Berlin,,BayArena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Augsburg,,,Werder Bremen,,WWK Arena,,Head-to-Head,,
+Bundesliga,2020-2021,33,Sat,2021-05-15,15:30,Freiburg,,,Bayern Munich,,Schwarzwald-Stadion,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Bayern Munich,,,Augsburg,,Allianz Arena,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Werder Bremen,,,M'Gladbach,,Weserstadion,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Union Berlin,,,RB Leipzig,,Stadion An der Alten Försterei,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Hoffenheim,,,Hertha BSC,,PreZero Arena,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Dortmund,,,Leverkusen,,Signal Iduna Park,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Stuttgart,,,Arminia,,Mercedes-Benz Arena,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Eint Frankfurt,,,Freiburg,,Commerzbank-Arena,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Köln,,,Schalke 04,,RheinEnergieSTADION,,Head-to-Head,,
+Bundesliga,2020-2021,34,Sat,2021-05-22,15:30,Wolfsburg,,,Mainz 05,,Volkswagen Arena,,Head-to-Head,,

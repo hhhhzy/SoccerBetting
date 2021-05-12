@@ -11,3 +11,4 @@ The project has been complicated in the sense that there has been a lot of movin
 * final_data    -    Contains folder for all data sources final datasets + Contains code to merge all datasets from all the sources + Contains code to implement Colley's Rating System.
 * models/game_prediction    -    Contains code to model the problem as binary and multi-class classification and find best features.
 * models/neural_rating_system_models    -    Contains code to build the neural network for building the neural rating system using multiple methods. Code for final models that were trained are in "OD Ratings - An Optimization Approach.ipynb", "OD Ratings - HFA approach.ipynb"
+* betting_simulation    -    Contains code for the tried and backtested betting simulations.

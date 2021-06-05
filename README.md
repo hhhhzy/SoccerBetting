@@ -1,4 +1,5 @@
 # SoccerBetting
+The final report is [here](./Soccer_Betting_Report.pdf).
 
 The project has been complicated in the sense that there has been a lot of moving parts and a lot of different team members have worked on different parts of the project. Here is the breakdown of the important files and folders and what it represents:
 
